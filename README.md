@@ -13,20 +13,30 @@ Whenever upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en) updates, new h
 
 ## Usage
 
-In `hachimi\.tl_repos`:
+**Fresh setup** — paste this as the Translations Meta URL in Hachimi's First Time Setup (lists only this repo):
+```
+https://raw.githubusercontent.com/Otattemita/gemini_horses/main/meta.json
+```
+Do not use `index.json` there — it is a repo index, not a meta list, and will fail to parse.
+
+**Alongside another repo (recommended)** — finish setup with any repo of choice, then add this one after it in `hachimi\.tl_repos` so it acts as a gap filler:
 
 ```json
 {
   "repos": [
     {
       "id": 1,
+      "index": "<your initial repo index.json>"
+    },
+    {
+      "id": 2,
       "index": "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/index.json"
     }
   ]
 }
 ```
 
-Hachimi handles downloads and updates on launch.
+Higher `id` layers on top. Hachimi handles downloads and updates on launch.
 
 ## Attribution
 - **Curated translations, textures, and media**: [UmaTL](https://github.com/UmaTL/hachimi-tl-en) (noccu and contributors). Takes precedence wherever available.
