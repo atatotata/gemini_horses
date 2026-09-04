@@ -1,6 +1,6 @@
 # gemini_horses
 
-Full English translation patch and numerical skill data overlay for Umamusume: Pretty Derby (DMM/Steam). Compatible with Hachimi.
+Full machine translation patch and numerical skill data overlay for Umamusume: Pretty Derby (DMM/Steam). Compatible with Hachimi.
 
 ## Contents
 - **Master Data**: 94,500+ localized UI, skill, and item strings.
