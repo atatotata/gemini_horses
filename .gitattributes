@@ -1,0 +1,6 @@
+# Enforce LF everywhere so indexed blake3 hashes match served bytes exactly.
+# (Windows CRLF checkouts previously caused hash mismatches on download.)
+* text=auto eol=lf
+*.png binary
+*.usm binary
+*.otf binary
