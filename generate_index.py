@@ -17,13 +17,17 @@ def main():
     dest_tl = repo_root / "localized_data"
     index_file = repo_root / "index.json"
 
-    # Default base_url if not already set
+    # Default URLs if not already set (zip_* required by Hachimi for full/fresh downloads, e.g. Android)
     base_url = "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/localized_data"
+    zip_url = "https://codeload.github.com/Otattemita/gemini_horses/zip/refs/heads/main"
+    zip_dir = "gemini_horses-main/localized_data"
     if index_file.exists():
         try:
             with open(index_file, "r", encoding="utf-8") as f:
                 old_idx = json.load(f)
                 base_url = old_idx.get("base_url", base_url)
+                zip_url = old_idx.get("zip_url", zip_url)
+                zip_dir = old_idx.get("zip_dir", zip_dir)
         except Exception:
             pass
 
@@ -49,6 +53,8 @@ def main():
 
     manifest = {
         "base_url": base_url,
+        "zip_url": zip_url,
+        "zip_dir": zip_dir,
         "files": file_entries
     }
 

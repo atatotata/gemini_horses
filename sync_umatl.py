@@ -114,11 +114,15 @@ def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
 def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> int:
     """Regenerates index.json using the official Hachimi list schema."""
     base_url = "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/localized_data"
+    zip_url = "https://codeload.github.com/Otattemita/gemini_horses/zip/refs/heads/main"
+    zip_dir = "gemini_horses-main/localized_data"
     if index_file.exists():
         try:
             with open(index_file, "r", encoding="utf-8") as f:
                 old_idx = json.load(f)
                 base_url = old_idx.get("base_url", base_url)
+                zip_url = old_idx.get("zip_url", zip_url)
+                zip_dir = old_idx.get("zip_dir", zip_dir)
         except Exception:
             pass
 
@@ -140,6 +144,8 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
 
     manifest = {
         "base_url": base_url,
+        "zip_url": zip_url,
+        "zip_dir": zip_dir,
         "files": file_entries
     }
 
