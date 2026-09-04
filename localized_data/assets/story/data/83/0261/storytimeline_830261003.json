@@ -1,0 +1,185 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Win Variation",
+      "text": "Oh, the representatives for the next Inter-Dorm competition were announced, huh? Let's see here...?"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Shion-san... you've been chosen, um. It's a 5-person team match, and the others are... —Ah!"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "O-Orfèvre-san is there too..."
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Well, it was a lottery draw, after all. The contest is... a \"Blind Carrot Tasting Showdown\", huh..."
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hmm... We really need to prepare properly for this. I'll go call everyone and start special training!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl A",
+      "text": "...Um, Orfèvre-san stated that she has no interest in participating, so she won't be attending."
+    },
+    {
+      "name": "Win Variation",
+      "text": "Gaaahhhhh! I mean, I totally saw it coming! But I was an idiot for getting my hopes up!!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl B",
+      "text": "The blind carrot taste test is a 1v1 team battle...\nSo one of us taking an automatic forfeit is guaranteed, huh... That's rough."
+    },
+    {
+      "name": "Win Variation",
+      "text": "If the rest of us take four wins, we can still do it!\nThat's exactly what this special training is for!"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Look, I bought a whole bunch of different carrots!\nI even summarized all their characteristics in my notebook!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl C",
+      "text": "Shion-chan...\nYou're right, we can't give up before we even try!\n—Let's do this! Special training!"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Mmh... This taste and texture... are so similar to the previous one.\nBlindfolded, I might not be able to tell the difference—"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Kh... What else makes the Kuroda Gosun unique...?!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl C",
+      "text": "...Cooked carrots are really tricky.\nThey might add honey to simmered carrots\nto manipulate the sweetness and throw us off..."
+    },
+    {
+      "name": "Win Variation",
+      "text": "Let's taste-test them prepared in every cooking method and seasoning we can think of!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl A",
+      "text": "Very little gaminess and sweet. Plus, a soft flesh texture.\nThis carrot is... the \"Kinbi Carrot\"!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl B",
+      "text": "Correct! That's a perfect score on all questions!\nWe can win... With this, we can totally beat the Miho Dorm!"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yeah! The four of us are gonna win this!\nAnd become the heroes of Ritto Dorm!"
+    },
+    {
+      "name": "Trainer",
+      "text": "One day while taking a break in the cafeteria,\nI was asked to referee an inter-dormitory match.\nApparently, the event was a \"blind carrot taste test.\"",
+      "choice_data_list": [
+        "First match—Winner, Ritto Dorm!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "All right! That's one win down!\nCome on, let's keep the momentum going!"
+    },
+    {
+      "name": "Trainer",
+      "text": "The match kicked off with a victory for Ritto Dorm.\nHowever, taking the second and third matches was—"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "*Sniff*... *sniff sniff*... —I smell something.\nPlate A reeks of foul play."
+    },
+    {
+      "name": "Phenomeno",
+      "text": "If A is a deception,\nthen \"Dark Purple\" is Plate B!",
+      "choice_data_list": [
+        "Correct! Third match—Winner, Miho Dorm!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "She can tell like that...?! \nPhenomeno-san turned out to be a total dark horse!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Now Miho has two wins and Ritto has one.\nIf I win the next round, Miho takes the match~\nIs my opponent Shion-san?"
+    },
+    {
+      "name": "Win Variation",
+      "text": "!! Sky-san is the fourth runner...?\nIf I remember right, her family runs a farm, so she's undefeated in carrot tastings."
+    },
+    {
+      "name": "Win Variation",
+      "text": "She's a formidable opponent...\nStill, I can't give up—!"
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Hmph—that proved to be quite an amusing sideshow.\nAllow me to bestow a reward upon you lot."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "The next representative for Ritto Dorm shall be me."
+    },
+    {
+      "name": "Win Variation",
+      "text": "O... Orfe-san?!\nY-You're representing us?!"
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Rejoice. I shall pique your interest once more.\n—Come, begin.",
+      "choice_data_list": [
+        "Fourth match: 'Guess the Grilled Carrot Variety', start!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mmm... Sweet? \nIt has a fruity note too, so maybe 'Beni Kaori'?"
+    },
+    {
+      "name": "Orfèvre",
+      "text": "An ordinary gosun carrot—the 'Tokinashi Gosun'."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Detailed knowledge can sometimes breed preconceptions.\nTaste it properly, and the added sweetness from seasoning is obvious.",
+      "choice_data_list": [
+        "Orfèvre is correct! Winner—Ritto Dorm!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ha... haha... Seriously, Orfe-san...\nNo matter where you go, you're always the main star, huh..."
+    },
+    {
+      "name": "Ritto Dorm Horse Girl A",
+      "text": "What are you talking about!\nIt's only because we put up a good fight that Orfe-san was inspired to step up!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl A",
+      "text": "All of Shion-san's hard work leading up to this point...\neveryone in Ritto Dorm knows full well!"
+    },
+    {
+      "name": "Ritto Dorm Horse Girl B",
+      "text": "Exactly. So—Captain!\nGo bring home that final victory!"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Y... Yes!\nI won't let everyone's hard work go to waste!!"
+    },
+    {
+      "name": "Trainer",
+      "text": "And then, the final match concluded—",
+      "choice_data_list": [
+        "Winner, Ritto Dorm!!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hell yeah! We did it!\nWe seized victory with the teamwork of Ritto Dorm!"
+    }
+  ]
+}

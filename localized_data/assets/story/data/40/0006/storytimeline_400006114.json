@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "After <chrname>'s public training session,\na message from <support>\narrived on my smartphone."
+    },
+    {
+      "name": "Narrator",
+      "text": "Come to think of it, I believe I exchanged\nthoughts with <support> about\n<chrname>'s training a while back...",
+      "choice_data_list": [
+        "(I gave them my contact info back then...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "They must be keeping an eye on <chrname>.\nEspecially since this public training\nwas supposed to be live-streamed online.",
+      "choice_data_list": [
+        "(I should send a thank-you message!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I replied to <support>\nbefore I forgot!"
+    }
+  ]
+}

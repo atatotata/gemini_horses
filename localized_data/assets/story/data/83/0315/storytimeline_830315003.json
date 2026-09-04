@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Lost Girl",
+      "text": "—*Sniff*, u-ugh..."
+    },
+    {
+      "name": "Biko & Meno",
+      "text": "Justice Biko arrives!\nAre you all right?! Officer on the scene!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "—Phew, that was a relief.\nHer parents were located immediately."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Totally! But still, as expected of\nPhenomeno-senpai! Never missing even the tiniest\ncry for help—now that's an admirable police officer!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "I am deeply honored. You were quite\nthe hero yourself, Biko-san.\nNeither of us could simply overlook such a situation."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Yeah, yeah! ...Hey, hey, since we're already at it,\nwanna patrol together today?\nLet's team up and give our best as champions of justice!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Oh, an excellent proposition! Fufufu.\nLooking forward to working with you, Biko-san!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "—Ah, there's trash on the ground!\nI'll go pick it up!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Litter here as well... Looking closely,\nthere appears to be refuse scattered all over."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Yeah. That's weird... This shopping street\nwas supposed to be really focused on clean-up activities..."
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Scattered garbage is a sign of deteriorating public order...\nLet us investigate the refuse and its surrounding area."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Roger that!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "—Hmm, while there are cigarettes and empty cans,\njudging by this logo mark,\nit seems to all come from the same store."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ah, I recognize that!\nIt's that shop everyone's been talking about lately!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Come to think of it, my dad mentioned it.\nSaid a new branch opened up near here!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Excuse me, Store Manager! Your trash cans are overflowing!\nShouldn't you swap out the bags?"
+    },
+    {
+      "name": "Shop Owner",
+      "text": "Eh, ah, my apologies...\nI'll take care of it right away!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Hmm, so the trash cans were indeed the source.\n...Yet, would that alone be enough to make\nthe town this messy...?"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "—Do you have any idea why litter has been\nscattering about lately? Anything at all,\neven the smallest detail, would be of assistance."
+    },
+    {
+      "name": "Shopping District Resident",
+      "text": "Well... ever since that shop opened,\na lot of people have started coming by.\nWith all the unfamiliar faces, public order has been, well..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Public order got worse? Besides the trash,\ndid anything else make you feel that way?"
+    },
+    {
+      "name": "Shopping District Resident",
+      "text": "Yeah, rumors have it that folks from the back alleys\nhave been showing up. It's sketchy around there,\nso the townspeople usually steer clear, but..."
+    },
+    {
+      "name": "Phenomeno",
+      "text": "The back alleys... Just to be sure,\nit would be wise to check on them."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "That led to a brand new clue!\nPhenomeno-senpai, you're super good at questioning people!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "My father is a detective, so I have been influenced by him.\nYou too, Biko-san, are remarkably knowledgeable about the town.\nThanks to that, our inquiries went smoothly!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Between the two of us, we can detect abnormalities\nfrom the perspective of the law. Now then,\nlet us proceed to the back alley in question!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "So this is the back alley...\nThere sure is a lot of graffiti. The vibe is pretty bad..."
+    },
+    {
+      "name": "Phenomeno",
+      "text": "There is a possibility that public order is deteriorating further.\nWe cannot leave this unattended.\nLet us investigate while remaining on high alert!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Huh...? Hey, hey, almost every house around here\nhas weird graffiti on it..."
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Almost every house?\n...Numbers, and alphabetical characters.\nCould this style of notation be—"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Burglary signs?!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "B-Burglary?!\nThat's actual crime!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Yes. While not confirmed with absolute certainty,\nit would be prudent to consult the police."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Call 110—wait, no.\nMy dad told me that if it's not an emergency,\nyou should call the local police station directly!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Passing by a nearby alleyway, I saw\nBiko Pegasus and Phenomeno\nmaking quite a commotion.",
+      "choice_data_list": [
+        "What are you two up to?",
+        "What are you two doing?"
+      ]
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Trainer-san! In fact, we were just\nthinking of consulting the police!",
+      "choice_data_list": [
+        "Wait, the police?! What happened?!",
+        "Eh, the police?! What happened?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterwards, I contacted the police station on their behalf\nand reported that suspected burglar marking graffiti\nhad been found on neighboring houses."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "The police should take care of the rest.\nThat's a huge relief!",
+      "choice_data_list": [
+        "You two did a splendid job.",
+        "You two did a wonderful job."
+      ]
+    },
+    {
+      "name": "Phenomeno",
+      "text": "I am truly glad that we were able\nto prevent a crime before it could take place!",
+      "choice_data_list": [
+        "As expected of police officers' children.",
+        "You really take after your police officer parents.",
+        "You protected the peace of the residents. That's remarkable.",
+        "You protected the town's peace. Truly impressive."
+      ]
+    },
+    {
+      "name": "Phenomeno",
+      "text": "I am truly glad that we were able\nto prevent a crime before it could take place!",
+      "choice_data_list": [
+        "As expected of police officers' children.",
+        "You really take after your police officer parents.",
+        "You protected the peace of the residents. That's remarkable.",
+        "You protected the town's peace. Truly impressive."
+      ]
+    },
+    {
+      "name": "Phenomeno",
+      "text": "Sir! I am honored by your praise!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Heheh, hearing that makes it feel like\nmy dad's being praised too! I'm so happy!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Next time I see my dad, I'm gonna tell him\nall about today! I bet he'll be super happy!"
+    },
+    {
+      "name": "Phenomeno",
+      "text": "As a member of the morals committee, upholding justice\nproperly even outside the academy brings me immense pride."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Yeah! I feel like I really helped people\nlike a true hero should.\nNothing feels better than this!"
+    }
+  ]
+}

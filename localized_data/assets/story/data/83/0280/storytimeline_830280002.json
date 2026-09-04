@@ -1,0 +1,217 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "While strolling through town on my day off,\nI ran into Orfèvre."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "This is a royal decree.\nFind Stay Gold.",
+      "choice_data_list": [
+        "Wait, a royal decree...?"
+      ]
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Word has reached me\nthat she has appeared in this town."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Rejoice.\nI bestow upon you the honor of serving as my pawn.",
+      "choice_data_list": [
+        "Umm, calling me a pawn all of a sudden is..."
+      ]
+    },
+    {
+      "name": "Orfèvre's Subject A",
+      "text": "Lady Orfèvre! Reports say someone matching\nher description was sighted in the shopping district!"
+    },
+    {
+      "name": "Orfèvre",
+      "text": "You heard that, didn't you?\nThen make haste and go."
+    },
+    {
+      "name": "Narrator",
+      "text": "And just like that, I was roped in without any say.\nThe target is the carefree wanderer—Stay Gold.\nWill we actually be able to track her down...?",
+      "choice_data_list": [
+        "Huh? My phone is ringing."
+      ]
+    },
+    {
+      "name": "Orfèvre",
+      "text": "You.\nWhere are you?",
+      "choice_data_list": [
+        "\"Huh? I'm heading towards the shopping district...\""
+      ]
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Word from my subjects.\nShe has appeared at the park.",
+      "choice_data_list": [
+        "\"The park? Not the shopping district?\""
+      ]
+    },
+    {
+      "name": "Orfèvre",
+      "text": "No questions.\nHead to the park."
+    },
+    {
+      "name": "Narrator",
+      "text": "I head to the park as told... but nobody is there.\nImmediately after, my phone rings once more."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "\"What are you doing?\nShe has already moved to the mountains.\"",
+      "choice_data_list": [
+        "(Whaaat, the mountains this time!?)"
+      ]
+    },
+    {
+      "name": "Orfèvre",
+      "text": "\"—Too slow.\nHead for the port next.\"",
+      "choice_data_list": [
+        "(S-She changed locations again...!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Amidst a flurry of conflicting information,\nI run all over the place with phone in hand.\nYet it's one wild goose chase after another until sunset..."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "\"—Search.\nShe is right there.\"",
+      "choice_data_list": [
+        "(Uhh, even if you tell me that...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking around, there's not a single trace\nof anyone matching her description.\n...Just as I am about to suggest calling it a day—"
+    },
+    {
+      "name": "Orfèvre",
+      "text": "\"That melody—so you've caught her.\nI shall make an appearance myself.\"",
+      "choice_data_list": [
+        "Huh? Melody...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Hanging up the phone, I notice the sound of a harmonica\ndrifting along with the murmuring of the tide.\nFollowing the melody as I walk..."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Well now.",
+      "choice_data_list": [
+        "Th-There she is!!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "—I see.\nSo Orfe's been running you ragged, huh?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Whoops. Speak of the devil..."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "The King has arrived in person.\nProstrate yourself and show your gratitude."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yo, Orfe.\nLooks like you had a hard time finding me."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "How was it?\nDid you enjoy the game of tag?"
+    },
+    {
+      "name": "Orfèvre",
+      "text": "As far as amusements go, it was passable."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha, glad to hear it."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Still, impressive that you tracked me down here.\nEven though I didn't tell a soul."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Hmph... With the King's majestic authority,\nno matter where you hide, I will uncover you."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Do not dream of escaping.\nMy reach encompasses all of creation."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ahaha, I yield, I yield!\nAs expected of the \"Gilded Tyrant.\""
+    },
+    {
+      "name": "Orfèvre",
+      "text": "...Offer up that praise\nwithout holding back.",
+      "choice_data_list": [
+        "(Wait... Is she actually...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfèvre carries her usual arrogant demeanor.\nYet, behind every word,\nshe sounds somewhat amused."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "...What are you staring at?",
+      "choice_data_list": [
+        "N-No, nothing...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "So as not to give anything away,\nI avert my eyes from Orfèvre.\nInstead looking around at our surroundings—",
+      "choice_data_list": [
+        "Huh? She's gone...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Before we knew it, Stay Gold had vanished,\nas though dissolving into the sea breeze."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Gone already?\n—Very well."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Wherever she may wander,\nI shall inevitably capture her once more."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Even a free-spirited wanderer\nremains in the palm of the King's hand.",
+      "choice_data_list": [
+        "Do you really think you can find her again?",
+        "I'll help you out again next time!"
+      ]
+    },
+    {
+      "name": "Orfèvre",
+      "text": "—A foolish question."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "The King's majesty illuminates everything.\nEven to the furthest ends of the three thousand realms."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "Naturally.\nWhen that time comes, you shall serve your purpose as well."
+    },
+    {
+      "name": "Orfèvre",
+      "text": "I anticipate an even greater performance\nthan what you showed today."
+    }
+  ]
+}

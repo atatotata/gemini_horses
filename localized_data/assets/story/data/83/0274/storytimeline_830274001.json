@@ -1,0 +1,202 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "A trainer from my cohort was leaving the academy.\nI was put in charge of organizing the farewell party, but—"
+    },
+    {
+      "name": "Narrator",
+      "text": "Balancing daily training sessions with my trainee\nwhile handling all the planning for the farewell party\nproved far more exhausting than I had anticipated.",
+      "choice_data_list": [
+        "...All that's left is reserving the flowers for the party."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Pushing my tired body to keep moving, I made my way to the flower shop,\nwhere a lone student stood quietly."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "! U-Um—\nAre you... alright?"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "You seem unsteady on your feet—\nand your complexion does not look well either...",
+      "choice_data_list": [
+        "...I've just been swamped organizing an event."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "So that is why you look so worn out...\nIt must be terribly difficult."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—Um, if it is choosing flowers,\nI believe I might be able to help.\nIf it pleases you—"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—There, the reservation is complete.\nA bouquet of gerberas wishing for hope and forward steps...\nI am certain it will bring them great joy on that day."
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as I was about to say \"thank you,\"\na yawn nearly escaped my lips,\nand I hastily covered my mouth."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—You truly do seem exhausted...\nAre you not pushing yourself far too hard—?"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "The organizer duties—could someone else\nperhaps take over for you?",
+      "choice_data_list": [
+        "It's not quite that simple..."
+      ]
+    },
+    {
+      "name": "Peer Trainer A",
+      "text": "I'd love to take the lead, I really would... but my trainee's entire future is riding on this next race."
+    },
+    {
+      "name": "Peer Trainer B",
+      "text": "Mine is gearing up for their debut race too, so I just don't have the bandwidth to organize it... I'm so sorry."
+    },
+    {
+      "name": "Narrator",
+      "text": "Everyone genuinely wished to celebrate their colleague's departure,\nbut at the same time, they were devoted to their trainees' futures.\nIt was hard for anyone to step up. In that case—",
+      "choice_data_list": [
+        "...I'll handle it! I've still got more leeway than everyone else.",
+        "...I'll handle it! I've still got more leeway than everyone else."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "I see—you hold such kind consideration\nfor so many people.\n...However—",
+      "choice_data_list": [
+        "Guess I'm just not capable enough, huh...",
+        "Guess I'm just not capable enough, huh..."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—No.\nThat is by no means the case."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Handling your everyday responsibilities alongside\norganizing an entire event—\nthat would be grueling for anyone..."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "If so—humble though my efforts may be,\nif I might help lessen your burden in any way..."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Please—\nallow me to assist you further...!"
+    },
+    {
+      "name": "Café Manager",
+      "text": "—A farewell party for your colleague? Sounds great! As long as you book in advance, we can even reserve the entire floor for you."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—.\nUm... could we take a look at the menu—?",
+      "choice_data_list": [
+        "Do you have seafood? It's my colleague's favorite."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—In that case,\nit seems they offer course menus.\nBoth of them—look wonderful."
+    },
+    {
+      "name": "Café Manager",
+      "text": "Those are our house specialties! If you look around the shop, you'll spot ocean-themed decor too. This ship in a bottle looks pretty nice, doesn't it?",
+      "choice_data_list": [
+        "It's lovely! It fits my colleague's tastes perfectly."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—To suit your colleague's tastes.\nUm, in that case—Trainer-san?\nThe farewell gift—could it be—",
+      "choice_data_list": [
+        "That's it! Excuse me, manager, where did you get this?"
+      ]
+    },
+    {
+      "name": "Café Manager",
+      "text": "Oh, I'm thrilled you like it! It's from a friend's shop nearby. Here, let me show you the map!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to Karen Bouquetd'or's thoughtful and devoted assistance after that,\nthe preparations were completed in no time at all.",
+      "choice_data_list": [
+        "Incredible... It's all thanks to your help!",
+        "Incredible... It's all thanks to your help!"
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "If—I was truly able to be of help,\nthen I am genuinely glad."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Seeing someone as kind as you—\noverworking yourself so terribly,\nit pained my heart..."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Acting for the happiness of everyone—\nis indeed a noble virtue."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "However—if anything were to happen to you...\nthose who cherish you—\nand I, too, would be heartbroken.",
+      "choice_data_list": [
+        "............"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Her words struck me with sudden realization.\nIf I hadn't received her help,\nand had collapsed from exhaustion instead—"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Therefore... please.\nWhenever you are troubled—rely on others."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "For in everyone's happiness—\nyour own happiness must also\nbe included—after all.",
+      "choice_data_list": [
+        "...I understand. Thank you for telling me that."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "The farewell party—was a great success, then.\n—I am so glad.",
+      "choice_data_list": [
+        "Thanks to you, we gave them a wonderful send-off.",
+        "Sorry for making you worry back then."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If I had tried to shoulder everything alone,\nI surely wouldn't have been able to put together\nsuch a satisfying farewell party.",
+      "choice_data_list": [
+        "Things really do go better when you don't carry it all alone.",
+        "Things really do go better when you don't carry it all alone."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—Indeed.\nJoining hands and maintaining harmony—\nthat is the secret to happiness."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Oh, please—\nI did nothing so grand."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "—More than that.\nSeeing you smiling now—\nbrings me such joy."
+    }
+  ]
+}

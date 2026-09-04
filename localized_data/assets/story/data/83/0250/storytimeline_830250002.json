@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "—I was entrusted with an important task."
+    },
+    {
+      "name": "Narrator",
+      "text": "A collaboration event between Tracen Academy and a famous\nsports manufacturer. Tracen's horse girls were to introduce\nthe new products at the event, but—"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hmm. So this is that cutting-edge\ngiant tire for rope pulling, huh?"
+    },
+    {
+      "name": "Transcend",
+      "text": "They say it has 108 new features.\nReally gets my inner gadget geek tingling~."
+    },
+    {
+      "name": "Narrator",
+      "text": "My role is to coach the horse girls participating\nin the event. But how exactly should we\nshowcase this new product...?",
+      "choice_data_list": [
+        "(Will I really be able to pull this off...?)",
+        "(Will I really be able to pull this off...?)"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You'll be fine.\nI know you can do it, Trainer-san."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Wanting to entertain everyone,\nwanting them to see the quality of the product...\nYour earnest feelings will definitely reach them, desu ne."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "So, just like during that diet...\nlet's do our best together! Ganbarou!",
+      "choice_data_list": [
+        "...Let's do our best!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, everyone gathered in front of the giant\nnew-model tire resting in a corner of the course.",
+      "choice_data_list": [
+        "...Where should we start showcasing it?",
+        "...Where should we start showcasing it, I wonder?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "First things first, let's share our ideas together.\nI'll take notes for everyone afterward!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Either way, we absolutely have to show off\nits main feature, the transformation function, desu ne."
+    },
+    {
+      "name": "Transcend",
+      "text": "I see, I see. According to the specs, the lightest setting\nis \"Water Flea Mode,\" and the heaviest is \"Mammoth Mode.\""
+    },
+    {
+      "name": "Espoir City",
+      "text": "It's training equipment, right? Don't underestimate it—\nwe gotta try using it first or we won't get anywhere!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! In that case,\nI'll try pulling it once for starters!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Led by the proactive Buena Vista, everyone\nworked together, and preparations progressed swiftly—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Our demonstration plan is taking shape, desu ne.\nFufu, I'm looking forward to the big day.",
+      "choice_data_list": [
+        "Sorry I couldn't be of much help",
+        "Sorry I couldn't be of much help"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "No, no! That's not true at all."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "When I look at you, Trainer-san...\nyour feelings come right through to me.\nYour desire to give it your all."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I receive so much positive energy from you like that.\nIf anything, I'm the one who should be thanking you."
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista, always staying so close to my heart...\nAnd then, the day of the event finally arrived."
+    },
+    {
+      "name": "Audience",
+      "text": "(Chatter, chatter... murmur, murmur...)"
+    },
+    {
+      "name": "Transcend",
+      "text": "Man oh man, that's way more of a crowd than expected.\nTalk about high stakes..."
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hah! No way I'm gettin' cold feet over somethin' like this!\nLet's get this over with quick!",
+      "choice_data_list": [
+        "A-A-All right... let's do this!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...Everyone's nervous tension is palpable.\nI'm feeling the same way. But...\nBuena Vista is right by my side—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I-It's... going to be okay, desu!\nIf we just stick to the rehearsal, surely...!",
+      "choice_data_list": [
+        "(...Hm?)"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "To everyone who has gathered here today\nto see the new training tire...!\nW-Well then... w-we shall begin, desu!"
+    },
+    {
+      "name": "Narrator",
+      "text": "...Come to think of it, Buena Vista has always\nempathized deeply with how I felt.\nIn every little thing, as if it were her own—",
+      "choice_data_list": [
+        "Don't tell me... my nerves rubbed off on her...?!",
+        "Don't tell me... my nerves rubbed off on her...?!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "F-First, we launch the dedicated control app\n...um... errr..."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "H-Here!"
+    },
+    {
+      "name": "New Hi-Tech Tire",
+      "text": "(Whirrrr! Clank-clank!)"
+    },
+    {
+      "name": "Transcend",
+      "text": "Whoa, hold on?! Buena-chan,\nthat switch is for Underwater Navigation Mode!",
+      "choice_data_list": [
+        "Th-Then try this switch..."
+      ]
+    },
+    {
+      "name": "New Hi-Tech Tire",
+      "text": "...DESTROY...!"
+    },
+    {
+      "name": "Espoir City",
+      "text": "That's the switch for Berserker Mode!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Um... Emergency Stop!"
+    },
+    {
+      "name": "Narrator",
+      "text": "...Despite some rather perilous close calls,\nwe somehow managed to get through the program—"
+    },
+    {
+      "name": "Departing Audience",
+      "text": "\"Hmm... that was actually pretty good, wasn't it?\"\n\"I guess... I might buy one...\"\n\"For a second there, I thought the school building was gonna get smashed...\""
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—Good work, everyone.",
+      "choice_data_list": [
+        "I-I'm so sorry... It ended up being such a mess..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I'm sorry.\nIf only I hadn't gotten so nervous—",
+      "choice_data_list": [
+        "N-No, I'm the one who...",
+        "N-No, I'm the one who..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "It's alright! Overall reception was very positive,\nand the client company was quite pleased as well...!"
+    },
+    {
+      "name": "Narrator",
+      "text": "I suppose seeing it through to the end was a victory in itself\n...Still, if there's a next time, I'll do my best to do even better."
+    }
+  ]
+}

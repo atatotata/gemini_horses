@@ -1,0 +1,54 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "While taking a walk after training,\nmy smartphone buzzed."
+    },
+    {
+      "name": "Narrator",
+      "text": "It's a message from <support>!\nEven in their casual words, I can feel\ntheir warm thoughtfulness toward us.",
+      "choice_data_list": [
+        "(...I really appreciate this.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Since I'm replying anyway, I'll include an update\non how well <chrname> is doing.\nI'm sure they'll be happy to hear it."
+    },
+    {
+      "name": "Narrator",
+      "text": "Now then, what's the best way to let\n<support> know about <chrname>'s\nrecent progress...?",
+      "choice_data_list": [
+        "Send a photo of <chrname>",
+        "Take a video of her training",
+        "Use the power of words! Express it in writing"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I reached out to <chrname>\nand brought up the idea about the photos."
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I met up with <chrname>,\ntook a few photos,\nand sent them off to <support>."
+    },
+    {
+      "name": "Narrator",
+      "text": "I decided to ask <chrname> for permission\nto film a video during our next training session!"
+    },
+    {
+      "name": "Narrator",
+      "text": "I'll show <support>, who is always cheering\nher on, just how energetic she is!"
+    },
+    {
+      "name": "Narrator",
+      "text": "I drafted a message, recalling how\n<chrname> did during today's training."
+    },
+    {
+      "name": "Narrator",
+      "text": "Making sure everything comes across clearly\nto <support>, who supports her so warmly!"
+    }
+  ]
+}

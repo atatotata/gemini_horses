@@ -1,0 +1,188 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "One night, I happened to see Cheval Grand\ntraining late."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "*pant*, *pant*... Alright.\n3 more sets... no, 5 more!",
+      "choice_data_list": [
+        "Isn't it getting pretty late?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "!?? ...Ah, um... I-I'm sorry...!\nI-I was, well..."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I-I'll go run now...!",
+      "choice_data_list": [
+        "...I wonder if she's alright?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Feeling concerned, I watched over her training.\nAnd then... I noticed something.",
+      "choice_data_list": [
+        "...Looks like she isn't overdoing it.",
+        "...Looks like she isn't overdoing it."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Taking proper breaks while repeating slope dashes,\nCheval Grand was putting in appropriate effort,\nstrictly within safe, reasonable limits.",
+      "choice_data_list": [
+        "She's a really diligent girl..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What drove her to work so genuinely hard?\nI couldn't help but feel intrigued by her."
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah... Welcome back.\nUm, you're back late today too, huh?"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...I-I'm sorry.\nB-But... the mock race is coming up soon, so..."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Someone like me... has to try harder, or...\nI won't even stand a chance, so..."
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Yeah, I get it.\nYou feel like to catch up, you gotta put in\nmore time than everyone else, right?"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yeah... Keep giving it your all until you're satisfied!\n'Cause I think that feeling is super important!"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "......Th-Thank you very much...\nI-I'm, well...——"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...J-Just a little more!\nI'm going to run...!"
+    },
+    {
+      "name": "Narrator",
+      "text": "The next day. I headed over to the stands\nto watch Cheval Grand's mock race."
+    },
+    {
+      "name": "Verxina",
+      "text": "Cheval! Do your best!"
+    },
+    {
+      "name": "Duramente",
+      "text": "............",
+      "choice_data_list": [
+        "Did you two come to watch Cheval Grand as well?",
+        "Did you two come to watch Cheval Grand as well?"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes. After all, it's my precious sister's mock race.\nThere's no way I could miss it."
+    },
+    {
+      "name": "Verxina",
+      "text": "I've watched her put in all that effort until now.\nSo in today's race, I'm sure she will——",
+      "choice_data_list": [
+        "She's a real hard worker, isn't she?"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes. More than anyone."
+    },
+    {
+      "name": "Verxina",
+      "text": "Even if it's something she struggles with... once she decides to do it,\nshe has the strength to see it through to the very end."
+    },
+    {
+      "name": "Duramente",
+      "text": "Indeed... She has the grit to achieve her goals——"
+    },
+    {
+      "name": "Duramente",
+      "text": "Allow me to bear witness.\nTo see just how much she has honed herself."
+    },
+    {
+      "name": "Verxina",
+      "text": "...She evaluates herself very harshly.\nHowever, because of that——"
+    },
+    {
+      "name": "Verxina",
+      "text": "She excels at holding herself to strict standards."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Cheval-chan! Let's have a great race today!\nI'm going all out!"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Y-Yeah... Um...\n......L-Looking forward to it..."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...I know how useless I am.\nI know I can never be like everyone else...)"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(But that's why... that's exactly why.\nWorking hard is the one thing I've always done, so...\nToday——)"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...*deep breath in*... *deep breath out*..."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(I will run. With everything I have.)"
+    },
+    {
+      "name": "Narrator",
+      "text": "After the race. Having spotted Cheval Grand,\nI called out to her.",
+      "choice_data_list": [
+        "Good work out there. That was a great run!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Ah! Th-Thank you very much...\nUm... I'm, so happy..."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I-I know I still have a long way to go...\nB-But... this time... yeah."
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I think I managed to run properly..."
+    },
+    {
+      "name": "Narrator",
+      "text": "After the race. Having spotted Cheval Grand,\nI called out to her.",
+      "choice_data_list": [
+        "That was an imposing run!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...! ...Um, ah...\nI-Is that... so...?"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...I still feel like I could have pushed harder...\nSo next time, even more——"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Yes... Because that's the only thing\nI can do..."
+    }
+  ]
+}

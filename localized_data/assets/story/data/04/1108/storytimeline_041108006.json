@@ -1,0 +1,255 @@
+{
+  "title": "Tranquility",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Running errand at shopping mall when crowd caught my attention."
+    },
+    {
+      "text": "Sign mentioned new product launch. \nApparently special guest scheduled to appear——",
+      "choice_data_list": [
+        "Eh!? Duramente!?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "——Hm? \n……Why are you here?",
+      "choice_data_list": [
+        "Just shopping……You're the guest?",
+        "Just shopping……You're the guest?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Right. My family shares long history with this brand."
+    },
+    {
+      "name": "Duramente",
+      "text": "Appearing in promotions, assisting product development. \nSame for this new release."
+    },
+    {
+      "name": "Event Staff",
+      "text": "Duramente-san! Ready for prep~?"
+    },
+    {
+      "name": "Event Staff",
+      "text": "Ah, as expected of Duramente-san! \nNew sneakers look great on you!"
+    },
+    {
+      "name": "Event Staff",
+      "text": "Looking forward to today's talk! Eager \nto hear insights from prestigious family, \nespecially on sports theory and training!"
+    },
+    {
+      "name": "Duramente",
+      "text": "……Understood. Looking forward to working with you."
+    },
+    {
+      "text": "Polite response to staff's high expectations…… \nYet her posture remained tense, guarded.",
+      "choice_data_list": [
+        "Since I'm here, I'll listen too"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……Do as you please."
+    },
+    {
+      "name": "Host",
+      "text": "Duramente-san's family participated throughout \ndevelopment of these high-tech sneakers. \nCould you share your thoughts?"
+    },
+    {
+      "name": "Duramente",
+      "text": "Priority was reducing strain on runner's legs. \nSole structure required extensive refinement.",
+      "choice_data_list": [
+        "(Still stiff……but a good response)",
+        "(Still stiff……but a good response)"
+      ]
+    },
+    {
+      "name": "Host",
+      "text": "For active competitor like Duramente-san, \nminimizing leg stress is crucial issue, isn't it?"
+    },
+    {
+      "name": "Host",
+      "text": "Wearing these regularly to condition legs \nshould enhance performance on turf, right?"
+    },
+    {
+      "name": "Duramente",
+      "text": "……Yes. \n——……",
+      "choice_data_list": [
+        "……?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Design tailored strictly to runner needs. \nProduct's true worth——I shall prove on turf."
+    },
+    {
+      "name": "Host",
+      "text": "Oooh~! High hopes indeed! \nFor Duramente-san's races, and subsequent sales!"
+    },
+    {
+      "name": "Event Staff",
+      "text": "Thank you for your hard work today!",
+      "choice_data_list": [
+        "Dura, good work! Heading back now?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "——No, heading to gym now. \nNeed to test new training equipment."
+    },
+    {
+      "text": "Surprised by packed schedule…… \nCurious about new machine too, decided to tag along."
+    },
+    {
+      "name": "Duramente",
+      "text": "There. Hack Squat machine. \nMust evaluate ergonomics and load distribution——"
+    },
+    {
+      "name": "Gym Horsegirl A",
+      "text": "Whoa, isn't that Duramente-san……?"
+    },
+    {
+      "name": "Gym Horsegirl B",
+      "text": "Rumors of her training here were real…… \nHere to test new rig, right?",
+      "choice_data_list": [
+        "You really do get noticed a lot",
+        "You really do get noticed a lot"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……Used to attention. \nTesting machine after warm-up."
+    },
+    {
+      "text": "Concerned about condition, watched over warm-ups……"
+    },
+    {
+      "name": "Duramente",
+      "text": "……"
+    },
+    {
+      "name": "Gym Bro",
+      "text": "What kind of numbers will Duramente put up……?"
+    },
+    {
+      "text": "Fingers turning pale, gripping hard. This is——"
+    },
+    {
+      "name": "Duramente",
+      "text": "(……Not good. Muscles locking up——)",
+      "choice_data_list": [
+        "How about starting over with stretches?",
+        "How about starting over with stretches?"
+      ]
+    },
+    {
+      "text": "Heavy gaze of onlookers, crushing expectations. \nTension inevitable under that spotlight.",
+      "choice_data_list": [
+        "You can try putting in earphones too"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……Right."
+    },
+    {
+      "name": "Duramente",
+      "text": "Phew……! Phew……!"
+    },
+    {
+      "name": "Gym Bro",
+      "text": "Insane, look at that weight load…… \nHow much more is she adding……!"
+    },
+    {
+      "name": "Gym Horsegirl A",
+      "text": "Hey, let's watch! Want to see gap \nbetween ordinary Uma Musume and real elite!"
+    },
+    {
+      "name": "Duramente",
+      "text": "——……",
+      "choice_data_list": [
+        "Stop. Interval"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "——Hah.\nFuu——…………"
+    },
+    {
+      "name": "Duramente",
+      "text": "——……",
+      "choice_data_list": [
+        "——3 minutes. Interval over"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "——……Tremors stopped.",
+      "choice_data_list": [
+        "It stopped……?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……Nothing, talking to myself. \nOne more set."
+    },
+    {
+      "name": "Duramente",
+      "text": "Fuu——…………Haa! Hmph!",
+      "choice_data_list": [
+        "Looking good! Breathe!",
+        "Looking good! Breathe!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Haaaa——!"
+    },
+    {
+      "name": "Gym Horsegirl A",
+      "text": "——Whoa, still pushing? \nPower output and stamina on whole different level……!"
+    },
+    {
+      "name": "Gym Horsegirl B",
+      "text": "Duramente truly is incredible……!",
+      "choice_data_list": [
+        "How is it?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……Adequate. Solid resistance curve, good biomechanics. \nWorth integrating into routine."
+    },
+    {
+      "name": "Duramente",
+      "text": "——……Why……"
+    },
+    {
+      "name": "Duramente",
+      "text": "……Seems you accompanied me entire time."
+    },
+    {
+      "text": "Valuable day observing routine outside track. \nGym session especially productive."
+    },
+    {
+      "text": "Training resumes tomorrow. \nMotivation renewed to support her all way.",
+      "choice_data_list": [
+        "Then, I'll see you tomorrow!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Yes——"
+    },
+    {
+      "name": "Duramente",
+      "text": "——…… \n…………Warm……"
+    },
+    {
+      "name": "Duramente",
+      "text": "…………Baffling person."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Narrator",
+      "text": "It happened when I was wandering outside aimlessly for a change of pace――"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "――Oh dear, whatever should I do?",
+      "choice_data_list": [
+        "Something on your mind?"
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "To tell the truth――I've been asked to help with a performance for a local community event."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "The plan is for everyone to listen to a children's choir. Since it's a special occasion, I really wanted to make it wonderful, but――"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "However――many of the children are quite shy, you see...",
+      "choice_data_list": [
+        "That's a bit of a shame."
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Indeed, it is――I am sure all the visitors are looking forward to hearing their singing, but...",
+      "choice_data_list": [
+        "...Do you mind if I come watch the practice too?",
+        "...Do you mind if I come watch the practice too?"
+      ]
+    },
+    {
+      "name": "Children",
+      "text": "...tchi... pitchi, \nchappu... yappu, ran... an...♪",
+      "choice_data_list": [
+        "(Well now... this really is tough.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For the number of children present, their voices were very small. It seemed the entire group was hesitating to sing out loud, influenced by the few who held back nervously."
+    },
+    {
+      "name": "Shy Child",
+      "text": "B-Big sister... \nSinging really is embarrassing..."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "It will be alright――everyone is right beside you. \nWould you like to try it little by little――even just one phrase at a time?"
+    },
+    {
+      "name": "Narrator",
+      "text": "Karen Bouquetd'or gently encouraged them. \nHowever, her efforts didn't quite bear fruit. Even with a gentle push, what felt scary was still scary to them."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "If only they could feel――that singing is fun, \nthat would be for the best, but..."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Forcing frightened children will only――disrupt their inner harmony even further. \nTo keep that from happening――",
+      "choice_data_list": [
+        "Then let me set an example!",
+        "Then let me set an example!"
+      ]
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Pardon?",
+      "choice_data_list": [
+        "Bitchi-bitchi♪ Chappu-chappu ran-ran-ran♪"
+      ]
+    },
+    {
+      "name": "Shy Child",
+      "text": "B-Bitchi-bitchi...? \nIsn't it pitchi-pitchi...?",
+      "choice_data_list": [
+        "I messed up! But 'bitchi-bitchi' has plenty of energy, right?"
+      ]
+    },
+    {
+      "name": "Shy Child",
+      "text": "...Ahaha! \nI-I guess so, but still...!"
+    },
+    {
+      "name": "Watching Child",
+      "text": "That's so weird! \nThey got it wrong, but they look like they're having so much fun!"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "...Fufu. It will be lots of fun――if you all sing along too. \nEven if you make a mistake――I'm sure of it."
+    },
+    {
+      "name": "Shy Child",
+      "text": "Really...? \nJust like mister over there... me too...?",
+      "choice_data_list": [
+        "It's fun! Let's sing together――"
+      ]
+    },
+    {
+      "name": "Shy Child",
+      "text": "Really...? \nJust like miss over there... me too...?",
+      "choice_data_list": [
+        "It's fun! Let's sing together――"
+      ]
+    },
+    {
+      "name": "Children",
+      "text": "――A~me~ a~me~ fu~re~ fu~re♪ \nKa~a-san ga~♪"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "――...Such wonderful harmony. \nI can truly feel everyone's joy."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "――Ah. \nPerhaps during the actual event, too――"
+    },
+    {
+      "name": "Narrator",
+      "text": "On the day of the community event. \nInvited enthusiastically by Karen Bouquetd'or, I headed over to the venue――"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, . \nDid you come to cheer on Bouquet-chan too?♪",
+      "choice_data_list": [
+        "Yeah, what about you guys?",
+        "Yeah, what about you guys?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, . \nDid you come to cheer on Bouquet-chan too?♪",
+      "choice_data_list": [
+        "Yeah, what about you guys?",
+        "Yeah, what about you guys?"
+      ]
+    },
+    {
+      "name": "Chronogenesis",
+      "text": "Yes... Bouquet-san has been preparing for today all this time, so... \nI really hope it goes well for her."
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "It's definitely gonna be a massive success♪ \nHard work and miles never betray you!"
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah, look, they're coming out! \nBouquet-san and the kids!"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Before――we present our song... \nThere is a favor I would like to ask of the audience."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "The song we will sing today――is one that is very familiar to all of you."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "Would you please join us――and sing along with these children?"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "――With your help, I know these children will be able to shine even brighter."
+    },
+    {
+      "name": "Puzzled Woman",
+      "text": "Huh...? \nWe're... singing too?"
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Sounds awesome, sign me up! \nI'm gonna sing at 120 miles per hour!"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "My, \nthen I'll give it 120% love♪"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "A~me~ a~me~ fu~re~ fu~re♪"
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ka~a-san ga~♪",
+      "choice_data_list": [
+        "Ja~no~me de o~mu~ka~e u~re~shii na~♪"
+      ]
+    },
+    {
+      "name": "Chronogenesis",
+      "text": "Pi... Pitchi pitchi, chappu chappu♪"
+    },
+    {
+      "name": "Audience",
+      "text": "Ran ran ran♪"
+    },
+    {
+      "name": "Narrator",
+      "text": "Little by little, the chorus of voices grew louder――forming a circle of harmony that enveloped the entire venue."
+    },
+    {
+      "name": "Everyone",
+      "text": "Ka~ke~ma~sho ka~ba~n wo~♪ \nKa~a-sa~n no~♪"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "――Ah."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "What a lovely melody―― Everyone's voices, \ntheir feelings overlapping――becoming one."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "...Thank you very much."
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "That was so much fun! \nEncore~!",
+      "choice_data_list": [
+        "Me too, me too! Encore!",
+        "Me too, me too! Encore!"
+      ]
+    },
+    {
+      "name": "Everyone",
+      "text": "Encore! Encore!"
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "――! \nWe would be delighted to."
+    },
+    {
+      "name": "Karen Bouquetd'or",
+      "text": "If you would be so kind――please sing along with us once more."
+    },
+    {
+      "name": "Narrator",
+      "text": "And so――the second chorus echoed brightly and splendidly beneath the open sky."
+    }
+  ]
+}
