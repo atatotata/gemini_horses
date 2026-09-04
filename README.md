@@ -27,3 +27,7 @@ In `hachimi\.tl_repos`:
 ```
 
 Hachimi handles downloads and updates on launch.
+
+## Attribution
+- **Curated translations, textures, and media**: [UmaTL](https://github.com/UmaTL/hachimi-tl-en) (noccu and contributors). Takes precedence wherever available.
+- **Machine-translated gap coverage** (master strings, support-card stories): this project (Gemini MT).
