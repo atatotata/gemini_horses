@@ -9,7 +9,7 @@ Full machine translation patch and numerical skill data overlay for Umamusume: P
 - **Stories**: 2,500+ translated timelines, including all support-card events.
 
 ## Layered UmaTL Synchronization
-Whenever upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) updates, new human-curated translations automatically and gracefully replace the machine-translated entries here. Everything else remains intact, maintaining 100% full coverage between updates. Synchronized automatically twice a week.
+Whenever upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en) updates, new human-curated translations automatically and gracefully replace the machine-translated entries here. Everything else remains intact, maintaining 100% full coverage between updates. Synchronized automatically twice a week.
 
 ## Usage
 
