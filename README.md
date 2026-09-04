@@ -15,12 +15,12 @@ Whenever upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en) updates, new h
 
 **Fresh setup** — Meta URL (not `index.json`):
 ```
-https://raw.githubusercontent.com/Otattemita/gemini_horses/main/meta.json
+https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
 
 **Gap filler** — in `hachimi\.tl_repos`, add after your main repo (higher `id` wins):
 ```json
-{ "id": 2, "index": "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/index.json" }
+{ "id": 2, "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/main/index.json" }
 ```
 
 ## Attribution

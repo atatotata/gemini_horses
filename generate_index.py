@@ -18,8 +18,8 @@ def main():
     index_file = repo_root / "index.json"
 
     # Default URLs if not already set (zip_* required by Hachimi for full/fresh downloads, e.g. Android)
-    base_url = "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/localized_data"
-    zip_url = "https://codeload.github.com/Otattemita/gemini_horses/zip/refs/heads/main"
+    base_url = "https://raw.githubusercontent.com/atatotata/gemini_horses/main/localized_data"
+    zip_url = "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/main"
     zip_dir = "gemini_horses-main/localized_data"
     if index_file.exists():
         try:

@@ -51,7 +51,7 @@ DICT_FILES = {
 def fetch_url(url: str, timeout: int = 45) -> bytes:
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "gemini-horses-sync/1.0 (https://github.com/Otattemita/gemini_horses)"}
+        headers={"User-Agent": "gemini-horses-sync/1.0 (https://github.com/atatotata/gemini_horses)"}
     )
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
@@ -113,8 +113,8 @@ def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
 
 def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> int:
     """Regenerates index.json using the official Hachimi list schema."""
-    base_url = "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/localized_data"
-    zip_url = "https://codeload.github.com/Otattemita/gemini_horses/zip/refs/heads/main"
+    base_url = "https://raw.githubusercontent.com/atatotata/gemini_horses/main/localized_data"
+    zip_url = "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/main"
     zip_dir = "gemini_horses-main/localized_data"
     if index_file.exists():
         try:
