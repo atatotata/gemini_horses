@@ -1,23 +1,20 @@
 # Changelog
 
-All on 2026-09-03 — repo went from zero to done in one day.
+## 2026-09-03 — zero to done in one day
 
-### Latest
-- **b2c01ea** — renamed to `Gemini Horses (UmaTL + Gemini mTL + Skill Data)` + made description actually readable
-- **a551f97** — `Otattemita` → `atatotata` everywhere (code, URLs, metadata)
-- **0c65109 / 9ee7e16** — fixed hash mismatches (CRLF vs LF). Enforced LF, rehashed index. Downloads work now on all platforms.
-
-### Android & fresh installs
-- **4ddd7c0** — added `zip_url`/`zip_dir` so Android/fresh clones pull the full pack
-- **6605c23** — added `meta.json` so repo shows up in Hachimi's first-time setup
-
-### Content
-- **890ed7c** — bundled 1,765 UmaTL media files (~420 MB textures + movie) so new users get everything, not just JSON
-
-### Sync & docs
-- **d3f8de8** — upstream UmaTL sync script + auto GitHub Action (twice weekly, Mon/Thu) + proper BLAKE3 index
-- **cd0a548** — bumped sync to twice a week
-- **0d00fdd / ab0838e / b6df3be / a8fed63 / 9245687 / a031b41 / 36345c1** — docs churn: readme, usage, `meta.json` vs `index.json` explanation, and UmaTL attribution
-
-### Initial
-- **c759723** — first commit. Full MT coverage: 94k strings, 1,160 support stories, 158 voice sets + skill numbers.
+- 21:43 — renamed to `Gemini Horses (UmaTL + Gemini mTL + Skill Data)` + made description readable
+- 21:16 — `Otattemita` → `atatotata` everywhere (URLs, code, metadata)
+- 21:01 / 20:59 — fixed hash mismatches (CRLF → LF), rehashed index — downloads work now on all platforms
+- 20:41 — condensed usage instructions
+- 20:40 — documented `meta.json` vs `index.json` layering flows
+- 20:35 — added `meta.json` so repo shows up in Hachimi first-time setup
+- 20:08 — added `zip_url`/`zip_dir` so Android / fresh clones pull the full pack
+- 19:54 — added UmaTL attribution
+- 19:49 — pointed UmaTL linkback to `hachimi-tl-en`
+- 19:43 — bundled 1,765 UmaTL media files (~420 MB) so new users get everything, not just JSON
+- 19:29 — highlighted graceful UmaTL overlay (keeps MT where human TL missing)
+- 19:22 — tweaked description from "English" to "machine translation"
+- 19:17 — streamlined README
+- 19:02 — bumped sync to twice weekly (Mon/Thu)
+- 18:11 — added UmaTL sync script + GitHub Action + proper BLAKE3 index
+- 17:54 — initial commit: 94k strings, 1,160 support stories, 158 voice sets + skill numbers
