@@ -7,7 +7,9 @@ Full machine translation patch and numerical skill data overlay for Umamusume: P
 - **Skill Data (SD)**: In-line numerical stats, speeds, and triggers.
 - **Voice Lines**: 33,287 voice lines across all 158 characters.
 - **Stories**: 2,500+ translated timelines, including all support-card events.
-- **UmaTL Sync**: Automated biweekly overlay of curated human translations.
+
+## Layered UmaTL Synchronization
+Whenever upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) updates, new human-curated translations automatically and gracefully replace the machine-translated entries here. Everything else remains intact, maintaining 100% full coverage between updates. Synchronized automatically twice a week.
 
 ## Usage
 
