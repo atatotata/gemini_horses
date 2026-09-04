@@ -58,7 +58,7 @@ def main():
         "files": file_entries
     }
 
-    with open(index_file, "w", encoding="utf-8") as f:
+    with open(index_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
 
     print(f"Updated index.json: {len(file_entries)} files indexed (BLAKE3 format).")
