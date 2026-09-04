@@ -28,3 +28,13 @@ Comprehensive English translation patch for Umamusume: Pretty Derby (DMM/Steam),
    *(Or keep standard UmaTL as `id: 1` and add this as `id: 2` to layer on top!)*
 
 3. Launch the game. Hachimi will automatically download and update all translations.
+
+## Upstream UmaTL Synchronization
+
+This repository automatically synchronizes with upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) to ensure curated human translations always take precedence over machine-translated fallback text.
+
+- **Automated GitHub Action**: Runs weekly to pull changes from UmaTL, overlays them onto dictionaries and story cutscenes, regenerates `index.json`, and commits updates.
+- **Local Sync**: You can also run the local synchronization script at any time:
+  ```bash
+  python sync_umatl.py
+  ```

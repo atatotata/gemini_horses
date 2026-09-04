@@ -1,15 +1,23 @@
+#!/usr/bin/env python3
 import os
-import hashlib
 import json
 import pathlib
-import sys
+
+try:
+    import blake3
+    def hash_file(data: bytes) -> str:
+        return blake3.blake3(data).hexdigest()
+except ImportError:
+    import hashlib
+    def hash_file(data: bytes) -> str:
+        return hashlib.sha256(data).hexdigest()
 
 def main():
     repo_root = pathlib.Path(__file__).parent.resolve()
     dest_tl = repo_root / "localized_data"
     index_file = repo_root / "index.json"
 
-    # Read existing base_url if present
+    # Default base_url if not already set
     base_url = "https://raw.githubusercontent.com/Otattemita/gemini_horses/main/localized_data"
     if index_file.exists():
         try:
@@ -19,24 +27,35 @@ def main():
         except Exception:
             pass
 
-    manifest = {
-        "base_url": base_url,
-        "files": {}
-    }
+    file_entries = []
 
     for root, dirs, files in os.walk(dest_tl):
         for file in files:
-            if file.endswith(".bak") or ".bak" in file:
+            if file.endswith(".bak") or ".bak" in file or file == ".gitignore":
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
-            sha256 = hashlib.sha256(fpath.read_bytes()).hexdigest()
-            manifest["files"][rel_path] = sha256
+            data = fpath.read_bytes()
+            f_hash = hash_file(data)
+            f_size = len(data)
+            file_entries.append({
+                "path": rel_path,
+                "hash": f_hash,
+                "size": f_size
+            })
+
+    # Sort files deterministically by path
+    file_entries.sort(key=lambda x: x["path"])
+
+    manifest = {
+        "base_url": base_url,
+        "files": file_entries
+    }
 
     with open(index_file, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
 
-    print(f"Updated index.json: {len(manifest['files'])} files indexed.")
+    print(f"Updated index.json: {len(file_entries)} files indexed (BLAKE3 format).")
 
 if __name__ == "__main__":
     main()
