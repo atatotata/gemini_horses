@@ -2,8 +2,8 @@ name: Sync UmaTL Upstream
 
 on:
   schedule:
-    # Run weekly every Monday at 04:00 UTC
-    - cron: '0 4 * * 1'
+    # Run twice weekly every Monday and Thursday at 04:00 UTC
+    - cron: '0 4 * * 1,4'
   workflow_dispatch:
     inputs:
       force:
