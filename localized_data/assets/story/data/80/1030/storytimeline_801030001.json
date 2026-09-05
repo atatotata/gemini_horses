@@ -1,0 +1,75 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While out shopping, as I walked through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I spotted Rice Shower watering plants\nat a flower shop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heave-ho, heave-ho...\r\n...Phew, I think that should do it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...H-Huh? What are you doing here...\r\nI mean, welcome...",
+      "choice_data_list": [
+        "Why is Rice watching the shop?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "The shopkeeper sprained her ankle\r\nbecause of a potted plant Rice knocked over...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "That's why... Rice is going to help out today. I hope I can do a good job...",
+      "choice_data_list": [
+        "Want a hand with the watering?",
+        "Shall I go put the flowers out on display?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh? R-Really...?\n...Then, would you mind helping me...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "All the flowers in the shop... aren't they pretty?\r\nThe roses especially are just wonderful...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "When you water them, the petals sparkle so brightly...\r\nRice just can't help getting mesmerized.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I watered all the flowers in the shop while having a delightful chat with Rice Shower.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, thank you...\r\nSome of them are heavy, so please be careful, okay...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pretty flowers... If we decorate the shop front with lots of them,\ndo you think customers will come? ...Ehehe!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I finished putting out all the stock.\r\nIt turned out to be much heavier labor than I'd anticipated.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On my day off, I decided to visit an amusement park\nfor a change of pace, but――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mmh... Current location unknown!\nWhere is the map!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Ohh, could it be?!\nIf it isn't Trainer <username>!",
+      "choice_data_list": [
+        "Did you come here to play?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Nay! I am currently conducting an inspection!\nYou see—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Amusement parks are frequently used facilities for students to refresh themselves!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "And then... it hit me!\nIn the first place!\nWhy not just build an amusement park right inside the academy?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Thus, I decided to inspect this amusement park\nand use it as reference!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Cover the classic staples while adding Tracen's unique flair! Let's build the ultimate Tracen Land (tentative)!",
+      "choice_data_list": [
+        "T-Tracen Land (tentative name)...!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed. However—while my spirit was willing,\nI am quite unfamiliar with such facilities!\nI was wondering what to do, but—",
+      "choice_data_list": [
+        "If you'd like, shall we look around together?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Ohh, that's reassuring!\nI'd gladly take you up on that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mmh!? What in the world is that!?\nThere is a tiny steam train running through the amusement park!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hrm, quite the playful spirit!\nDon't mind if I play along!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Ah, that's... a march!\nIs that the parade I've heard rumors about!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mmh... I would love to adopt that.\nIt could serve as great reference for the students,\nespecially for their concerts and――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Well... better to see it first than worry about it! Let's follow them, Trainer <username>!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Aha, delightful, truly delightful!\nNow I understand why students come here for a change of pace!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—Whoops, self-reflection!\nI must never forget that this is all for the students' sake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Park Visitor A",
+      "text": "When you come here, you gotta ride that one, right?\nThe Dragon Twister Planet Coaster!\nThe one famous for being suuuper scary!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Park Visitor B",
+      "text": "Looks like the line's empty right now! Let's go while we can!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Hmph. From what you've said, that coaster must be this amusement park's main attraction.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "However... a thrill ride! And a high scare-rating one at that!\nHm-mmm...! Mmm, mmm-mmm...!",
+      "choice_data_list": [
+        "Maybe you shouldn't push yourself..."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Nay! It is precisely the scarier attractions whose psychological stress and potential hazards I must test with my own body!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "On my pride as Chairwoman, this scream machine... I must conquer it!",
+      "choice_data_list": [
+        "Then on my pride as your Trainer, count me in too!",
+        "Then on my pride as your Trainer, count me in too!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Heh, you're a daredevil yourself, aren't you!\nThen... let us board, together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "And... if possible,\nI request that you ride next to me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Blistering high speeds, sudden steep drops――it was far more thrilling than I could have ever imagined, but encouraged by Chairwoman Akikawa holding out beside me, I managed to endure it somehow――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hahaha!\nToday was a truly meaningful inspection!\nThanks to it, my grand vision has expanded immensely!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "I swear I'll build the greatest amusement park ever!\nJust you wait and see!",
+      "choice_data_list": [
+        "This will make the ultimate resting spot for the students!",
+        "Strike while the iron is hot! Let's start construction tomorrow!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed! Forget everything for a moment and indulge in amusement\n—then regain the vitality to chase your dreams once more!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "I'm already looking forward to seeing the students' smiles! Hahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And while things were getting really lively—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—You cannot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Whaaat?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "There is no way we have budget for that!\nJust how much do you think that's going to cost?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Nngh... If that's how it is, then fine! I'll just dip\ninto my own pocket money and――!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Honestly, you always do this...!\nYou're far too reckless with your money!\nToday, I am finally giving you a piece of my mind――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Scolded by Ms. Tazuna—my amusement park dreams vanished like bubbles into thin air...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Still, thanks to this incident,\nI felt like I had grown a bit closer\nto the person known as Chairwoman Akikawa.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—Nay! If it's merely staking out territory on the planned construction site,\nwe can start that right this second!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "If strike while the iron is hot is the word,\nthen let us do it! Ourselves!",
+      "choice_data_list": [
+        "Totally! Let's go for it!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed!\nFollow my lead, Trainer <username>!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed! We place a roller coaster right over on that far side!\nThe track will even be visible from the Academy windows!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Over on that side is the main boulevard for the parade!\nNow, where should we launch the fireworks from――",
+      "choice_data_list": [
+        "Maybe behind the Carrot Castle?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, laughing and frolicking together,\nthe two of them toured the academy, but――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—You cannot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With just a single word from Ms. Tazuna, I was utterly shot down...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After training with <chrname>.\nI sent her off to rest first while I tidied up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "So the next person can use them comfortably,\nI'll clean thoroughly,\nand reorganize the attachments by weight...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You. How long do you plan to stand there?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Turning around, I saw Orfevre\nstanding tall with her arms akimbo. Judging by her stance, she was just about\nto begin her training, but――",
+      "choice_data_list": [
+        "Are you gonna use this machine, by any chance...?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Incapable of wrapping up on schedule, are you?\nHow sluggish.",
+      "choice_data_list": [
+        "I'll clean it up right away!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed the next reservation time had arrived\nbefore we realized it. In a hurry, I rearranged the attachments,\nreset the machine's settings, and...ââ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Finished?",
+      "choice_data_list": [
+        "Sorry to keep you waiting...!!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "State your intentions.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You have wasted several minutes of We's time.\nSurely you have an adequate reason for such conduct?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A crackling, terrifying intimidation washed over me. ...It felt as though anything I said would sound like a mere excuse, but――",
+      "choice_data_list": [
+        "Just wanted to make sure it's smooth for the next person to use.",
+        "I wanted to clean thoroughly."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The attachments are ordered by weight.\nThe settings are restored to their default values. Small details, perhaps, but I believe they lead to comfort.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "........",
+      "choice_data_list": [
+        "M-Maybe I spoke out of turn..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Very well, I permit it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hmph. Indeed, you're sharp.\nThat was a thoughtful gesture.",
+      "choice_data_list": [
+        "Ah, ...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Watching her head over to the training machine...\nsweat pours down all at once. Released from the intense tension,\nI let out an involuntary sigh of relief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I thought having every corner tidied up neatly\nwould make it far more pleasant for the next person using it.\nI didn't want to cut corners on something like that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "........",
+      "choice_data_list": [
+        "I-I'm sorry for being so slow...",
+        "I-I'm sorry, I'm just so slow..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Very well, I permit it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Good work.\nContinue to uphold such devotion.",
+      "choice_data_list": [
+        "Y-Yes……!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Watching her head over to the training machine...\nsweat pours down all at once. Released from the intense tension,\nI let out an involuntary sigh of relief.",
+      "choice_data_list": []
+    }
+  ]
+}

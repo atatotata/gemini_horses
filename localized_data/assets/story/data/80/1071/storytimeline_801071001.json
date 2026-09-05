@@ -1,0 +1,106 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While researching in the library after school,\nMejiro Ardan walked in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ugh...\nAgain......",
+      "choice_data_list": [
+        "Are you okay? Did you get dizzy?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yes... Thank you kindly...\nI'll be fine, I'm used to it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "More importantly, I need to check out the next volume of the book.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Ah, here it is. *Twinkle Series Data Bible*, Volume 28.",
+      "choice_data_list": [
+        "Impressive... You read the entire series?",
+        "Impressive... You read the entire series?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yes. I was reading it on a day I wasn't feeling so great, and before I knew it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...My body can't handle overexertion, so I thought I could learn from history instead...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "I simply want to do everything I can.\n...For the day I shine on the racetrack.",
+      "choice_data_list": [
+        "You're putting in effort even while you can't practice on the track.",
+        "You still work hard even when you can't practice, huh?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No, no, it's really nothing.\nI'm only doing it because I want to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, that's right... Aside from training books,\nis there anything else you'd recommend as a reference?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If your body isn't very resilient, there should be a perfect\nbook for you. If I recall, the title was――",
+      "choice_data_list": [
+        "\"3-Minute Healthy Athlete Recipes!\"",
+        "\"Restful Sleep Tips to Rewire Your Brain\""
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A recipe book...! How lovely. I am quite interested in healthy, nourishing dishes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Despite how I might look, I'm actually quite good at cooking, you know♪\nMy governess taught me well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "I'll borrow this and take it home today. If I review my nutritional intake, I can get even stronger...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She offered a gentle smile\nand gallantly set off in search of the books.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "I see... Precisely because I have more days off than most, how I spend my rest is crucial.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hehe, that's splendid insight as expected.\nI'll read it right away and put it into practice tonight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "This will surely improve the quality of her sleep.\r\nHer physical condition is bound to get better as well.",
+      "choice_data_list": []
+    }
+  ]
+}

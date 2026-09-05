@@ -1,0 +1,282 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Casino Drive",
+      "text": "Let's have fun today!\nEveryone, let's enjoy ourselves to the absolute fullest!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gyaru Umamusume",
+      "text": "'Sup, nice to meet ya.\n...Well, looking forward to working with ya.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "To think everyone here is an upperclassman...\nUgh, I'm getting super nervous...",
+      "choice_data_list": [
+        "(Sigh, of course it'd turn out like this.)",
+        "(Sigh, of course this is how it turns out.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Gathered here are Academy students meeting for the first time,\nbrought together by Casino Drive's call for assistance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The plan is to put the insights gained from the Synergy Project into practice...\nand get them to open up to each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Well then... to break the ice, please have this.\nI picked it up at the shop just a moment ago.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gyaru Umamusume",
+      "text": "Oh, thanks.\n...Well, down the hatch—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gyaru Umamusume",
+      "text": "Wait, it's so sweeeeeet!!\nIt's loaded with whipped cream! Haha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Yes, this shop appears to have quite the variety...\nThere are many other flavors available as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Oh, is this kimchi? It's deliciously spicy... and feels quite refreshing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gyaru Umamusume",
+      "text": "Ooh~... Hey, can I have a bite?\nI'll share my whipped cream with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Ah... Yes!\nI was just starting to crave something sweet myself...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Just a bit more and it's a new high score!\nLet's defend the Earth from the aliens!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shy Umamusume",
+      "text": "Uuugh, everyone's so amazing...\nThe enemy has so much HP, I can't take them down at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "(――! Should I go help...?\nNo, right now I should――)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "(I'll step forward and lure the enemies out...\nthen take them down as a team!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "—Now! Provide backup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Yes! Fire magic, gooooo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shy Umamusume",
+      "text": "Whoa, that's massive damage...! ...With that much HP left, maybe I can... Hyah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Ahaha! That's a massive score all at once!\nAt this rate, you'll definitely break your high score!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shy Umamusume",
+      "text": "Y-Yeah!\nThank you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gyaru Umamusume",
+      "text": "—Wait, you've done that much self-training already!?\nSeriously too impressive! Aren't you overdoing it a bit?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Since I'm on the smaller side... I want to train my body more\nand win even more races!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shy Umamusume",
+      "text": "Um, excuse me...\nWould it be okay if we practiced together?\n...To be honest, my times haven't really improved lately――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "How amazing……!\nI never imagined it would be this incredible……!",
+      "choice_data_list": [
+        "The team atmosphere is really coming together nicely.",
+        "The team atmosphere is really coming together nicely."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If we can have fun together and bare our true selves, we can share each other's problems and vulnerabilities too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "By doing so, we should be able to forge a relationship where we understand, support, and move forward together.",
+      "choice_data_list": [
+        "――As a trainer, it's great reference material."
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "...Trainer-san, care to take a walk?\nI'll let the others know.",
+      "choice_data_list": [
+        "――Huh? Where are you going?"
+      ]
+    },
+    {
+      "name": "Zombie A",
+      "text": "Boo-yaaaahhh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Whoa, watch out!?\nT-Trainer! Run away!",
+      "choice_data_list": [
+        "Eeeeeek!! L-Let's run!"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "That was close... T-They're not chasing us anymore, right?",
+      "choice_data_list": [
+        "W-Why a haunted house all of a sudden...!?"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "...I apologize. I thought that today... no,\nthat with you, I might be able\nto overcome my fear.",
+      "choice_data_list": [
+        "Huh... with me?",
+        "Huh... with me?"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "...Let us continue our conversation from earlier.\nA team grows by understanding and supporting one another.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "That's right, exactly as you say.\nThat is an indispensable point for any team.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "—For both me and you.",
+      "choice_data_list": [
+        "――!"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "You've listened to so many of my stories.\nAbout my past, and about my sisters. But—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "I haven't had a chance to properly hear what you have to say yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "...I want to get to know you.\nI want us to support each other and move forward together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Because we are a team, after all.",
+      "choice_data_list": [
+        "Casino..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(Bong, bong...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "........Shall we get going soon?\nWe never know when a zombie might pop up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Could this be... a treasure chest?\nIt's quite dirty... and somewhat eerie.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She told me she wanted to know more about me.\nI found myself wanting to answer that wish.",
+      "choice_data_list": [
+        "...Speaking of which, I dropped my wallet a while back."
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "—! ...Fufu, what an ordeal that must have been.\nHow did you manage to find it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zombie B",
+      "text": "Baaaaahhh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Huh?\nTrainer, there's another zombie!",
+      "choice_data_list": [
+        "Wahh?! Let's run!!"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Yes! Well... even while we run,\ncould you tell me the rest of what you were saying earlier?",
+      "choice_data_list": [
+        "Huh, in this situation?!"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Fufufu... Why not! Please tell me all about it, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, as we scrambled around looking for the exit,\nthe two of us chatted about all sorts of silly little things.",
+      "choice_data_list": []
+    }
+  ]
+}

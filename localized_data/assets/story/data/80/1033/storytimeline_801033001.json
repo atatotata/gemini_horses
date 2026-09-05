@@ -1,0 +1,120 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day at the shopping mall,\r\nI spotted Admire Vega talking to a crying little child.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Hey, what's wro—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Waaaahhh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "*sigh*...",
+      "choice_data_list": [
+        "What happened?",
+        "What's the matter?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...I'd like to ask that myself.",
+      "choice_data_list": [
+        "Umm, are you lost?"
+      ]
+    },
+    {
+      "name": "Boy",
+      "text": "Waaaah! It's too scaryyy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "She's been like that the whole time.\r\n...Whenever I try to talk to her, she just cries.",
+      "choice_data_list": [
+        "Let's join forces!",
+        "Let's calm them down first."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh? Look, no matter what I do—",
+      "choice_data_list": [
+        "I'll keep an eye on things, so go call a staff member.",
+        "I'll keep an eye on things, so go call a staff member."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Alright, I get it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, I had an announcement made over the PA system...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Big sissss!\r\nThat was so scaaary~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "Geez! You can't just run off on your own!\nCome on, hold your big sister's hand!",
+      "choice_data_list": [
+        "I'm glad you found it."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Seeing that the child was in a panic from being lost,\nI gently patted their back and waited for them to calm down――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "...*sniff*.\r\nBig sis... went away somewhere.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "! ……I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Don't worry, I'm sure your big sister is looking for you too.\nNow, do you remember where you two got separated?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, I successfully managed to get the information...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Horsey big sis! Trainer!\nThank you! Bye-byee!",
+      "choice_data_list": [
+        "That's great."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Indeed.",
+      "choice_data_list": []
+    }
+  ]
+}

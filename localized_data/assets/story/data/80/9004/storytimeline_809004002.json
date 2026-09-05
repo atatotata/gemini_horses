@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One evening after training ran late,\r\nright after walking <chrname> back to the dorms—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>!\r\nThanks for your hard work. Are you heading home now?",
+      "choice_data_list": [
+        "Yes."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Is that so! I just saw Meek off,\r\nand I was about to head back to the Trainer dorms, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "If you don't mind, would you care to join me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "For old time's sake... though saying that\nmight sound a bit too overfamiliar.",
+      "choice_data_list": [
+        "That's not true at all."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>...\r\nHehe, you truly are very kind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Well then, shall we go?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That evening, Trainer Kiryuin and I chatted\r\nabout all kinds of things on our walk home.",
+      "choice_data_list": []
+    }
+  ]
+}

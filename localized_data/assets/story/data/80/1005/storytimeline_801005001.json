@@ -1,0 +1,95 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, inside the park――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "――Ah, excuse me over there.\r\nCould I trouble you to assist me for a moment?",
+      "choice_data_list": [
+        "An assistant?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No need to be so guarded.\r\nCome on, follow me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following Fuji Kiseki, I found\na little girl crying with scraped knees.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "—Thanks for waiting, little crying pony.\r\nNo blinking allowed—behold the show!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "*sniffle*, *sniff*... Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I'm going to cast some magic on this coin now.\r\nOne, two, three――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In that instant――\r\nthe coin vanished cleanly from Fuji Kiseki's hand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Now then, time for the assistant's turn!\nCheck inside your pocket.",
+      "choice_data_list": [
+        "I slipped it in secretly earlier—",
+        "What incredible magical power...!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Shh. It's impressive you noticed, but\nyou must strictly keep it to yourself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Besides... rather than dwelling on boring details,\nisn't it more important that this little one stopped crying?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "Whoa, why over here...?! Show me more~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Fufu. To answer your lovely encore, let's do one more round. Assistant, I'll be counting on you again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahaha.\nMagic power! I like the sound of that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "Amazing, amazing!\nBig sis, are you a wizard!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hehe, indeed I did. I have proof too.\nHere, go ahead. Why don't you check your other pocket?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Yet another coin emerged\r\nfrom the opposite pocket.",
+      "choice_data_list": []
+    }
+  ]
+}

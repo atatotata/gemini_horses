@@ -1,0 +1,231 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In the New Year, when I visited a bookstore\nto buy a training guidebook……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Happy New Year.\nBuying textbooks right at the start of the year—your dedication is truly impressive.",
+      "choice_data_list": [
+        "Happy New Year! Are you looking for books too, Casino?"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Yes, looking for travel magazines.\nThey should all be right over there.",
+      "choice_data_list": [
+        "Is there somewhere you want to go?",
+        "Is there anywhere you'd like to go?"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Oh, no.\nWhat I want is the actual magazine photo itself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Have you heard of a \"Dream Board\"?\nIt's a practice that developed in America, but――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "It's where you gather photos that represent your goals\nand arrange them on a corkboard or similar display.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Expressing your goals in a visible form... gives you a much clearer vision of achieving them.",
+      "choice_data_list": [
+        "Ooh... That sounds pretty interesting!"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Fufu, then why don't you join me? Even just gazing at the covers of magazines is quite delightful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the two of us\nended up browsing the magazine aisle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "\"100 Spectacular Sights of the World: Top Tourist Attractions\"... Good.\nI'd love to go traveling around the world someday.",
+      "choice_data_list": [
+        "(The world, huh...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She's leading a massive project to conquer the Breeders' Cup.\nNo doubt she has plenty of goals in mind.",
+      "choice_data_list": [
+        "That corkboard is going to fill up in no time."
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Ah... Heheh.\nActually, instead of a corkboard――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "I make a point of sticking them inside my notebook's back cover.\nIt's been a habit of mine since I was little.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "I want to seize my dream with my own two hands.\n...Because that has always been my wish.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Casino",
+      "text": "\"Hup... hehe, cut it nice and clean.\nThe race from that day, and photos of the senpai I look up to...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino's Older Sister A",
+      "text": "\"Casino, dinner's ready――oh?\nMagazine clippings... Ah, a dream board, is it!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino's Older Sister B",
+      "text": "\"Isn't that wonderful! Hey, hey, what kind of dream is it?\nBig Sis will help make her cute little sister's dream come true!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Casino",
+      "text": "\"Ah――N-No, you can't!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Casino",
+      "text": "\"Ah... I-I'm sorry!\nUm, Big Sisters... you see,\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Casino",
+      "text": "\"This is something... I want to achieve with my own two hands.\nThat's why I don't want to show it to anyone.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino's Older Sister A",
+      "text": "\"――! Oh... is that so?\n...Hey, Casino――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino's Older Sister A",
+      "text": "\"Give it your all and make it come true.\nEvery single one of us is cheering for your dream.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "There is a saying that sharing your goals with others makes them easier to achieve. However—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "To look upon what you admire with your own eyes and draw closer to your dream.\nThat is my belief.",
+      "choice_data_list": [
+        "(She's stuck to her principles ever since she was little, huh...)",
+        "(She's really stuck to her principles ever since she was little...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Chasing a dream entirely on your own.\nIt sounds easy enough in words,\nbut putting it into practice is another story.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Because whenever you hit a wall,\nyou're the only one who can pick yourself back up.",
+      "choice_data_list": [
+        "Maybe I should try making a dream board too.",
+        "Maybe I should try making a dream board too."
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Oho—That's the spirit.\nThis is a splendid chance to re-evaluate your goals.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Do you have a corkboard ready? Depending on its size, the number of photos we can display will change.",
+      "choice_data_list": [
+        "No…… I'll go with the planner!"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "—Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Single-mindedly chasing her dream for years on end...\nCasino Drive came to Japan to take on the world,\nlaunching her very own project.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The one who made that come true was surely—",
+      "choice_data_list": [
+        "Because I was inspired by your strength.",
+        "Because I admired your strength."
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "My own――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "...You really are something else...",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "—No.\nI am honored to hear you say that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Well then... to express my gratitude for those kind words,\nallow me to offer a suggestion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "This general store has a huge variety of planners, doesn't it?\nEver since coming to Japan, I've chosen my planner here every year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "The cover design of a planner is important too.\nAfter all, you'll be looking at it constantly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "In my case, I chose a chic design\nto help me stay focused and composed, but――",
+      "choice_data_list": [
+        "(Looks like fun.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even after that, I continued consulting with her\nas we purchased a notebook for her Dream Board.",
+      "choice_data_list": []
+    }
+  ]
+}

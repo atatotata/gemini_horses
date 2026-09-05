@@ -1,0 +1,246 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "—Is that true?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"That\" expires today.\nNeither of us looked like we could make it, so... this is a huge help!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the student who happened to be there gave me two free tickets to the zoo.",
+      "choice_data_list": [
+        "(Usually I'd invite my trainee, but――)"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Astonishing! A gift to repay me for the sushi the other day?!\nYou truly are earnest to a fault!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Proposal ACCEPTED! Are you prepared to commune with the animals?\nAnd prepared to purchase souvenirs for the girl\nwho bestowed the tickets upon us?!",
+      "choice_data_list": [
+        "Both look perfect!!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Understood!\nLet us depart, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Gwaaaaaaaaaaah?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cow",
+      "text": "Moooorning~~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zoo Staff",
+      "text": "Oh dear, I'm sorry for startling you.\nIt seems Hanako-chan\nhas taken quite a liking to you, miss.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "I-I'm fine... Sorry, Mr. Cow. Did my loud voice startle you...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cow (Hanako)",
+      "text": "Moooorning~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Eep!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zoo Staff",
+      "text": "Oh, my my...! The little sister\nhid behind her big brother's back, didn't she?",
+      "choice_data_list": [
+        "...Your little sister?"
+      ]
+    },
+    {
+      "name": "Zoo Staff",
+      "text": "Oh, my my...! The little sister\nhid behind her big sister's back, didn't she?",
+      "choice_data_list": [
+        "...Your little sister?"
+      ]
+    },
+    {
+      "name": "Zoo Staff",
+      "text": "Ah... I'm so sorry.\nI didn't mean to throw cold water on such a wonderful memory with your brother...",
+      "choice_data_list": [
+        "Wait, no, no, we're—",
+        "Wait, no, no, we're—"
+      ]
+    },
+    {
+      "name": "Zoo Staff",
+      "text": "Ah... I'm so sorry.\nI didn't mean to throw cold water on such a wonderful memory with your sister...",
+      "choice_data_list": [
+        "Wait, no, no, we're—",
+        "Wait, no, no, we're—"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "N-No need to worry!\nNeither the lady nor the cow is at fault!\nIt's just—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Trainer <username>.\nCould you touch the cow first?\nI'd like... an example.",
+      "choice_data_list": [
+        "...Understood, leave it to me!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Prioritizing her request, I pat the cow's head.\nChairwoman Akikawa immediately begins mimicking me,\nstarting her own mental visualization of petting a cow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Nice one!\nTrainer <username>, you're a natural at this!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hey, hey, can you show me the example again?\nThis time, I want to say hello to the tiger!",
+      "choice_data_list": [
+        "A-Against a tiger!?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed! Apparently tigers greet each other\nwith soft chuffs and snorts...\nYet whenever I try alone, I am ignored every time!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Tiger-sa~n... Hmph-hmph, tee-hee...!",
+      "choice_data_list": [
+        "H-Hm-hm-hm, giggle……!"
+      ]
+    },
+    {
+      "name": "Tiger",
+      "text": "........",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "T-Tiger-san? Why are you turning away? We're over here, you know? Tiger-sa~n...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, alongside Chairwoman Akikawa,\nwe gave our all playing with the animals—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Phew……\nNext is the \"Bunny House\"…… umm……",
+      "choice_data_list": [
+        "M-Madam Chairwoman? Aren't you getting tired...?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "I-I'm fine! I-I can still keep going.\nI haven't even... gone to the...\n'Fluffy Sheep Corner'... yet...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, her voice lacked the vigor it had just a moment ago.\nChairwoman Akikawa takes shorter strides,\nso walking must be twice as exhausting for her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "........I can still keep going.\n................",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Chairwoman Akikawa hung her head and stopped in her tracks.\n……Looking just like a young child.",
+      "choice_data_list": [
+        "...You just want to see a little bit more, right?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "........Yeah.",
+      "choice_data_list": [
+        "Hahaha, all right! Understood.",
+        "Ahaha, alright! Understood."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—! Did you say yes?! You said it!\nAlright, deal! We're doing it, got it?! Let's go!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With sparkling eyes, Chairwoman Akikawa hopped around with joy.\nTo fulfill her wishes, I decided to spread out the zoo map once more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "A blind spot! To think there was a sightseeing bus!",
+      "choice_data_list": [
+        "We'll be able to visit them all like this."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "!! I see! I see, I see!\n...Fufufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hey, Trainer <username>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Don't forget to buy some souvenirs on the way back!\nI truly have to thank the girl who gave me the ticket.",
+      "choice_data_list": [
+        "Yes, understood!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Waaaah! Are you sure?\nIs it really okay for me to take a souvenir?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Sorry you had to cover for me too, Chairwoman!\nSo, how was the zoo? Did ya have fun?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "That was so much fun!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Rejoice! Immensely so!!\nIsn't that right, Trainer <username>!",
+      "choice_data_list": []
+    }
+  ]
+}

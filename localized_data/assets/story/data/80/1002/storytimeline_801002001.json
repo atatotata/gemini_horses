@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while walking along the riverbank――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Excuse me.\r\nDo you have a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Could you please time my run?\r\nIt's quite difficult to do properly on my own...",
+      "choice_data_list": [
+        "I don't mind at all.",
+        "Try running at full throttle."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": ".\r\nWell then, see you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "*pant*, *pant*, *pant*, *pant*...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though overwhelmed by Silence Suzuka's sheer speed, I helped her with her training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Give it my all... Yes, understood.\nI'm counting on you, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "*pant*, *pant*, *pant*, *pant*...!\r\nHehe, this feels so good...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Silence Suzuka tore past at blistering speed... and simply kept running off into the distance.",
+      "choice_data_list": []
+    }
+  ]
+}

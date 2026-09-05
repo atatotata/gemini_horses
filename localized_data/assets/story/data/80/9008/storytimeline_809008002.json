@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "Oh, Trainer <username>!\nThank you for your hard work.",
+      "choice_data_list": [
+        "It's rare to see you in a place like this."
+      ]
+    },
+    {
+      "name": "Light Hello",
+      "text": "Yes, I was having a meeting with the Academy staff today regarding the next live event.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "And so... out of old habit,\nI found myself wandering over to this training ground.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "Such a nostalgic place...\r\nI tasted so much bitter frustration here.\nYet by the same token, it's full of unforgettable memories...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "Trainer-san. Please make sure the girl in your charge gets plenty of training and performs in lots and lots of Winning Lives, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "Ah, please leave the concert direction to me!\r\nI'll come up with a stage where you'll shine your brightest!",
+      "choice_data_list": []
+    }
+  ]
+}

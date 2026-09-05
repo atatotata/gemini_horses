@@ -1,0 +1,151 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Early in the morning, when I stopped by the training course\r\nunder maintenance on some business……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(CLATTER-CLATTER-CLATTER――putter...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic A",
+      "text": "Whoa! Is it broken?\r\nThe track leveler suddenly stopped moving...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...Wait, still undergoing maintenance?\r\nDid something happen, by any chance~?",
+      "choice_data_list": [
+        "Looks like there was some trouble.",
+        "Looks like there was some trouble."
+      ]
+    },
+    {
+      "name": "Mechanic A",
+      "text": "Ah, so sorry about this!\nThe track smoother suddenly broke down on us...\nWe'll have it fixed right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Nope, I'm totally fine~♪\r\nI can wait as long as it takes~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic B",
+      "text": "Wouldn't it be faster to just call a professional?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic A",
+      "text": "It's morning rush hour right now, you know? There's no telling when it'll arrive.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic B",
+      "text": "Still, can the two of us fix it right away...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "It's all good~!\r\nWe've still got plenty of time!☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Let's calm down and tackle them one by one, okay~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic B",
+      "text": "...Y-Yeah, you're right.\r\nFirst we move the turf roller out of the way,\nand then we continue leveling the ground...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I'll help too!\nWe just gotta get that car off the track, right~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Or would it be better\nif I helped smooth out the track~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic A",
+      "text": "Huh! I appreciate the thought, but having a student do something like that is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hey, hey, it's okay if I help out, right?\r\nWhich one do you think is better~?",
+      "choice_data_list": [
+        "Can you push and move the ground roller?",
+        "Please run the track to level the ground!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Roger that☆ All righty! I'll dodge it in no time~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Heeeeeave-hooooooo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To prevent damaging the turf, an iron plate was slipped under the roller.\nShe threw all her weight into pushing the heavy roller forward...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Nnnngh...! It's so... heavy...!\r\nJust... one... more pushhh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pheeew~! I somehow carried it all~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hishi Akebono hauled the ground-leveler off the track, allowing the maintenance to be finished right on time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Okaay!\r\nI'll wrap this up in no time, leave it to me~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Tooooooooh~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hishi Akebono carried the large harrow detached from the ground-leveler vehicle and ran across the dirt track.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mechanic B",
+      "text": "Whoa! Look at that speed...!\nIsn't she faster than the ground leveler vehicle...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Maintenance complete! ☆ What a relief,\r\nwe finished properly before the other girls arrived! ♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While Hishi Akebono was leveling the track, the ground-leveler vehicle was repaired and returned to the garage.\nAnd so, the maintenance was successfully completed.",
+      "choice_data_list": []
+    }
+  ]
+}

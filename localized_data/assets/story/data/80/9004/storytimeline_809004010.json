@@ -1,0 +1,86 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Training was over,\r\nand as I walked down the hallway alone—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>!\r\nThanks for all your hard work today!",
+      "choice_data_list": [
+        "Thanks for your hard work, Trainer Kiryuin."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Even so...\nso much has happened over these past three years, hasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Though brief, these three years were the most memorable of my entire life.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "To be honest, I never imagined\r\nI'd find friends I could open up to like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Thanks to that, I was able to learn a great deal.\nTruly, thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>. Once again,\r\nI look forward to working with you!",
+      "choice_data_list": [
+        "The pleasure's all mine!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "As fellow Trainers,\nlet's keep working hard together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "So um, if it's alright with you,\nmaybe we could invite Meek and <chrname> too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "A celebration party, so to speak...\r\n...Err, um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Would you care to join me for some karaoke?\r\nIf I may be so bold, I've already researched a place for us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "A place with delicious food that's popular with young folks!\r\nI'm sure the girls will love it!",
+      "choice_data_list": [
+        "Let's go!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes! I've got the remote controls down pat!\r\nWhenever you'd like to order food, just say the word!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I invited <chrname> and Happy Meek out,\r\nand we all enjoyed some singing and good food together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I invited <chrname> and Happy Meek out,\r\nand we all enjoyed some singing and good food together.",
+      "choice_data_list": []
+    }
+  ]
+}

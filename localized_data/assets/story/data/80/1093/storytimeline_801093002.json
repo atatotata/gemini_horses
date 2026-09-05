@@ -1,0 +1,142 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Hoping to design a training session utilizing the terrain for <chrname>, I was walking along the river taking notes on my phone when――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Giant Crow",
+      "text": "Gah! Gwaaah!!",
+      "choice_data_list": [
+        "Waaah?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Startled by a giant crow that suddenly swooped in,\nI dropped my smartphone!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The smartphone kept tumbling noisily across the gravel――",
+      "choice_data_list": [
+        "(At this rate, right into the river...!)"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "I'll go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(WHOOSH――!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Like a sudden gust of wind. A shadow so fast it seemed almost an illusion darted across, diving straight into――the river!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "*gasp*, ngh――...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Ah... Thank goodness! The screen turned on properly.\nLooks like we made it in time.",
+      "choice_data_list": [
+        "You're soaking wet?!",
+        "Wait, you're soaking wet yourself?!"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Huh? ...Oh, right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "I'm sorry, with me looking like this, it's just\ngoing to end up soaking wet either way.\nI'll give it right back, right now—",
+      "choice_data_list": [
+        "Not like that...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "K.S. Miracle looks utterly bewildered, but naturally, things can't be left like this...!",
+      "choice_data_list": [
+        "I'll figure out a way to warm us up right away!",
+        "First, let's check your gait to make sure you're not injured!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Remembering there was a cafe nearby,\nI hurried over to buy some hot drinks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Oh... I'm so sorry you went to the trouble.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Um... I don't have any money on me right now.\nWould it be okay if I ran back to the dorm to get it and pay you back?",
+      "choice_data_list": [
+        "You don't have to return it!"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "I-Is that right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Fufu. Trainer...\nYou really are so very kind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Are you really one to talk?\"\n...I thought from the bottom of my heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Are you really one to talk?\"\n...I thought from the bottom of my heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "――Yes, I am fine.\nNothing hurts, nor does anything feel out of place.",
+      "choice_data_list": [
+        "Are you really okay...?",
+        "Are you really sure you're okay...?"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Ahaha, yes!\nI'm fine. Nothing to worry about.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "These legs are my pride and joy.\n...They're mine, protected and raised by everyone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "So I'm totally fine.\nReally, I'm okay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She declared it with such straightforward conviction\nthat I found myself rendered completely speechless...",
+      "choice_data_list": []
+    }
+  ]
+}

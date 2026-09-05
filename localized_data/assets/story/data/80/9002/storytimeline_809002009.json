@@ -1,0 +1,230 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, after reaching a milestone\nin my time with <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "A proposal! Trainer <username>!\nAre you free this coming weekend?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Allow me to guide you to my very special spot!",
+      "choice_data_list": [
+        "A special spot...!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If someone like Chairwoman Akikawa recommended it, it must be great.\nFull of anticipation, I waited for the promised day――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Spectacular turnout! It's so bustling here today!\nEveryone is eagerly awaiting the race!",
+      "choice_data_list": [
+        "To think this was your special spot……"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hahaha! My apologies!\nWas it a little too familiar a place?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Still, it's a precious place, isn't it?\nFor us, and for the Umamusume alike.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "――Hey, Trainer <username>.\nDo you remember <chrname>'s debut race?",
+      "choice_data_list": [
+        "Of course!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I still remember. The nervousness when stepping into the waiting room for the first time.\nThe feeling of sending <chrname> out onto the grand stage.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I still remember. The roaring heat of the crowd.\nThe way <chrname> ran. Everything.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Yes, I remember as well.\nHow everyone looked... including <chrname> and the others.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Fufufu, that was no metaphor, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Maybe not as closely as you trainers, but I've watched those girls give it their absolute all right by their side.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "And for all the days to come.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Paddock Umamusume A",
+      "text": "I'll do my bestã¼ã¼!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "――Whoa! Splendid vigor!\nThe Umamusume for race 1 are already stepping out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hehehe.\nThat girl gives a booming morning greeting as well.\nAdmirable! She brings that same momentum to the real stage.",
+      "choice_data_list": [
+        "Oh! Is that true?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed! Not only her,\nher Trainer is also remarkably lively—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mid-Career Trainer",
+      "text": "Gooooo!\nYou are absolutely number oneee!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Aren't they quite the pair of kindred spirits?",
+      "choice_data_list": [
+        "You're right! It really is!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "――Oho, and here comes horse girl number 2!\nThat girl is quite the \"formidable\" racer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer in a Suit",
+      "text": "D-D-D... Don't be nervous!\nJ-J-Just take a deep breath like usual...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Paddock Umamusume B",
+      "text": "I'm doing great, Trainer!\nDon't you worry――just sit back and watch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hahaha! They are bonded by a unique trust between a worrier of a trainer and their trainee!\nSuch an endearing mismatched duo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "And girl number 3, she's very attentive.\nEven with the staff――",
+      "choice_data_list": [
+        "Wait, Madam Chairwoman!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hm?",
+      "choice_data_list": [
+        "Did you seriously memorize all of our faces――?!",
+        "Did you seriously memorize all of our faces――?!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Naturally! Be they Umamusume or Trainers,\neveryone is a member of our academy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Your face and your achievements are firmly engraved in this heart of mine!",
+      "choice_data_list": [
+        "S-Seriously……?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "――Haha.\nYeah, for real. That's why――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Do your best, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "There are those watching who know\nyou've crossed mountains and valleys to reach where you are today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "That person has always believed in you, and always will.\nThey have no doubt you can overcome any hardship.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Please keep this in a corner of your heart. Know that there is someone who believes in you and is cheering you on.",
+      "choice_data_list": [
+        "...Chairwoman."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And after watching over the Umamusumes' debut races\nalongside Chairwoman Akikawa...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Alright! Now then, Trainer!",
+      "choice_data_list": [
+        "Right away, Chairwoman!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Guess I'll head out and have some fun!",
+      "choice_data_list": [
+        "Yes! ……Wait, what!?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hahaha!\nNo matter how much you grow, a break is essential!\nYou must never forget that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "So let's keep hanging out like this. ...Even if just once in a while. Somewhere, together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Furthermore! Right now, I crave\nvanilla ice cream. ...How about you?",
+      "choice_data_list": [
+        "You're right... Shall I keep you company?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Much obliged! In that case, why don't we\nhead straight over to my \"special\" coffee shop!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On New Year's Day, while walking through the quieter-than-usual plaza,\nI bumped into Chairwoman Akikawa and Tazuna.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Oh, it's you!\nHappy New Year!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I'm heading out with the Chairwoman right now\nto visit several shrines around the neighborhood.",
+      "choice_data_list": [
+        "Are you visiting multiple places?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yes. I'd like to express my gratitude to as many gods as possible for watching over the academy every day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Running into each other here must be fate!\nYou should come along too!! Hahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Since it was such a great opportunity,\nI decided to join them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "We've arrived! Now, right away, the monetary offering—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Mmh?! T-This is bad!\nI don't have a single coin of change on me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mmm... All I have on me right now\nis this card, but...!\nStill... Yet...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I'll lend it to you, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "At any rate, after finishing our prayers, we continued touring the shrine grounds—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "――Phew. It's always so crowded here every year... but we somehow managed to finish up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "!? Oh no!\nThe Chairwoman isn't here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Heeey~... Over here~!\nT-The crowd is sweeping me away~... Somebody save me~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Good grief... I told you last year too, didn't I?\nIn places like that, it's dangerous unless you hold my hand tightly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hrm... I thought for sure I'd challenge the no-hands ride this year, but...!",
+      "choice_data_list": [
+        "Are we just heading home now?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Nay! One more spot!\nThere is a place Tazuna and I always visit together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the place we arrived at was a quaint little shrine\nnestled quietly amidst the town near the academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Did you know about this place? It's a shrine\nthat hardly any of the students know about.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Even so, it would be disrespectful to the gods if no one visited the shrine right next to the academy! Thinking that, Tazuna and I have made it a tradition to come every year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Here, we can take our time in peace\nto offer our greetings to the gods. Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Perhaps thanks to the divine blessings, the academy was peaceful last year too.\nI must be sure to pray earnestly for this year as well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And offering a coin at the shrine,\nI said a prayer for <chrname>'s dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Now then. We have visited quite a few shrines—\nWhat did you pray to the gods for?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "――Asking such a thing is sheer tactlessness!\nA Trainer of your caliber would obviously pray for blessings upon your trainee.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Still, how many years has it been\nsince Tazuna and I first started\nvisiting this shrine for New Year's?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fufu, well now. It's been quite a long time, hasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Hmm. When you're constantly buried in daily work, each year rushes by in the blink of an eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "However... what we must never forget is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "All of that represents a once-in-a-lifetime\nmoment for the students――\nThat is what it means.",
+      "choice_data_list": [
+        "...That's true."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "You Trainers stand closest of all to them,\nsharing time and supporting each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "That sight is... simply dazzling.\nSo much so that I almost feel envious of you all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—Yet at the exact same time!\nAn overwhelming wave of joy welled up within my heart!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "As Chairwoman... I offer you all my heartfelt gratitude for your hard work!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Well now, that almost sounded like closing remarks,\ndidn't it! Ha ha ha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Well, you know what to do. Continue to give <chrname>\nyour full support going forward!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Well then, return to the academy!\nTazuna made us zoni soup this morning!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "We have plenty of mochi.\nIf you'd like, I can make whatever you prefer, whether it's sweet red bean soup or nori-wrapped mochi~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so—together with Chairwoman Akikawa and the others, we savored the piping-hot mochi.",
+      "choice_data_list": []
+    }
+  ]
+}

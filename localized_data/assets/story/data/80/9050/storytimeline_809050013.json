@@ -1,0 +1,268 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened on the day I went out with the landlady.\nBy chance, we ran into an old acquaintance of hers……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Landlady's Old Friend",
+      "text": "Phew, it was good talking to you after so long.\n...Well then, I'll be taking my leave shortly to have a quick smoke.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Landlady's Old Friend",
+      "text": "...Hoshina-san actually managed to quit smoking. Man, gotta give her credit. I really should follow her lead.",
+      "choice_data_list": [
+        "...The proprietress, quitting smoking?"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...A very long time ago, yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "What is it?\nYou're not hiding your curiosity very well.",
+      "choice_data_list": [
+        "It's just rare to hear you ask about the past, so..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It's been a while since we met, but I still barely know her.\nThere was no way my curiosity wouldn't be piqued.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Haha, give me a break! I haven't walked\nnearly as noble a path as you seem to think!",
+      "choice_data_list": [
+        "Still, they're a wonderful person now!"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Is that so?\nIs that how it looks to you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Looking at me like that makes me feel like I'm lying, honestly.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Well, if you're curious, maybe I'll tell you about it.\nStories from my greener days, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "――……Back when I was still a trainer at the Academy.\nAnd a rookie just starting out at that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Well... things were pretty hectic.\nI ended up puffing on them year-round, almost like I was trying to distract myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(――*click*, *fwoosh*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Here's the data on the runners for the next race...\nUgh, another lineup that's going to take forever to analyze.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "If I work through tonight, I'll be done by morning...\nand I can hand over the menu before training starts... Then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "Ah! There you were, in the smoking area!\nYour trainee!\nShe was just rushed to the hospital!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Ehh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hoshina's Trainee Umamusume",
+      "text": "I'm sorry, Trainer...\nI was doing some self-training, and suddenly... my leg...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Stop that.\nYou did nothing wrong.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hoshina's Trainee Umamusume",
+      "text": "...Gh, but... the doctor said... running like I used to is... no longer...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...They might have said it's difficult, but they never said it's impossible!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "So don't worry... I'll handle it somehow, so stop crying.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(――*click*, *fwoosh*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Refreshing in nature, changing horseshoes...\n*cough*, isn't there any other kind of recuperation...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Ah, Trainer Hoshina... wait, smoking again?\nLately, hasn't your daily count... gone up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Don't mind me. It's just a little habit of mine when I'm thinking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Still, you look terribly pale...！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Haha, it's nothing you need to worry about.\nSeriously, just... leave me... *ugh*――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Trainer Hoshina?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "...It's overwork.\nI strongly advise taking some rest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "Haven't you been smoking more lately?\nIf you abruptly increase how much you smoke, of course your health is going to suffer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "Please take this opportunity to cut back.\nGo to a hot spring or somewhere different,\nand force yourself to rest. Understood?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Pathetic…… but a hot spring, huh?\nYeah, maybe I should take that kid along once in a while……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Come to think of it. It's been used in human therapy for ages, so maybe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Any recorded cases of testing on Umamusume? Medical treatment history?\nWhat about spring mineral composition, effective bathing methods, and――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(――*click, fwoosh*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Idiot. How long do you plan on keeping up that habit?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...How can someone who can't even protect their own health protect an Umamusume's?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Squish)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Well, turned out for the best in the end.\nNow that I'm running this rest house, that is.",
+      "choice_data_list": [
+        "...Was it difficult to change?"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "I did. So very much.\n...Yet, what choice do I have but to change?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Hardly anyone starts out great. Everyone messes up somehow. But... you can always change.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...They're surprisingly important. Dreams, goals, and the like.\nThey give you a reason to change yourself.",
+      "choice_data_list": [
+        "Changing yourself for your dreams is really admirable.",
+        "Still, putting it into practice is the hard part, isn't it?"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Man, cut it out!\nThat's not what I wanted you to say.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Man, I ended up rambling on and on.\nI didn't even want to look back on such naive memories.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Did you get inspired seeing a certain someone working so hard?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Yeah. But hey, it's always easier done than said.\nWhen the time comes, things'll probably just sort themselves out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Man, I really rambled on, huh?\nAnd here I thought I never wanted to look back on those naive, immature memories.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Did you get inspired seeing a certain someone working so hard?",
+      "choice_data_list": []
+    }
+  ]
+}

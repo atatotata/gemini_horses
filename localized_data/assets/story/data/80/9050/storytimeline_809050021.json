@@ -1,0 +1,229 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "New Year's――while most of the world takes time off,\nit wouldn't be an exaggeration to call this the busiest time of year for a hot spring town.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the Yukoma Ryokan was no exception.\nThinking it would just be a casual way to pass the New Year's holiday, I offered to lend a hand, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Once you're finished with that, could you please\nhelp welcome the guests~?\nWe seem to be short-handed over there...!",
+      "choice_data_list": [
+        "Yes!"
+      ]
+    },
+    {
+      "name": "Regular Customer",
+      "text": "Happy New Year, landlady.\nI look forward to your hospitality again this year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Fufu, Happy New Year.\nWe have been eagerly awaiting your arrival.\nPlease, relax and make yourself at home――",
+      "choice_data_list": [
+        "Allow me to hold your luggage...!"
+      ]
+    },
+    {
+      "name": "Umamusume Customer",
+      "text": "Um~ excuse me,\nI'd like to check in...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Welcome to Yukoma Hot Springs Resort.\nYou must be the guest booked under the name 'Haabibagokuraku', correct?\nWe have been expecting you.",
+      "choice_data_list": [
+        "(Customers are pouring in one after another...!)"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Phew, that looks like the end of the welcoming rush\nfor the time being~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Yeah... But don't let your guard down.\nThe real rush starts right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "You brace yourself too, you hear!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I might have just stepped right into an utter disaster zone...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "I'll carry this one,\nso could you grab that beer crate over there?",
+      "choice_data_list": [
+        "Yes……!"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "\"For the guests in the Mist Room,\nserve the mochi cut into small pieces――\nMake sure to let the kitchen know.\"",
+      "choice_data_list": [
+        "Yes……!"
+      ]
+    },
+    {
+      "name": "Umamusume Customer",
+      "text": "Excuuuse me.\nCould you tell me about the health benefits of this onsen...?",
+      "choice_data_list": [
+        "Yes, um, as for that one……!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The whirlwind busyness continued well into the night――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "All right, you're good for today.\nHead back to your room and get some rest, dear.",
+      "choice_data_list": [
+        "(F-Finally, it's over...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Honestly, I might have underestimated\nhow busy an inn gets during New Year's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just how much help was I really able to provide...?\nAs I spent time in my room pondering this—",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "Excuse me.",
+      "choice_data_list": [
+        "(That voice...)"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Oh, thank goodness, you're still awake.",
+      "choice_data_list": [
+        "What in the world are the two of you doing...?"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Oh, come on! Isn't it obvious?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "On the night after surviving an absolute ordeal,\nthere is only one thing left for everyone to do――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "It's time for the after-party~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Here, don't be shy, eat up.\nThough it's just staff meal food, mind you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Still, it is quite delicious, you know?\nOur chef never cuts corners, even when preparing staff meals♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "P-l-u-s...\nThey even took my request: 'Season it so it pairs nicely with drinks for our after-party♪'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Honestly, this girl... She never misses a beat, does she.",
+      "choice_data_list": [
+        "Um, are you sure that's alright...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "All I helped with were the simplest of chores.\nTo think I contributed enough to join the landlady\nand young mistress's wrap-up party――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...A simple job? That sounds perfectly fine to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "The finest hospitality, you see, is built upon a foundation of countless \"simple tasks.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Because you took care of that today,\nwe were able to focus on our own work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "If we aren't comrades worth treating,\nthen what on earth are we?",
+      "choice_data_list": [
+        "Proprietress……"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufu...\nCome now, Trainer, let us make a toast together♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Haaah, sheer bliss, sheer bliss♪\nA drink after working hard tastes so good.\nDon't you agree, Trainer-sama?♪",
+      "choice_data_list": [
+        "The young proprietress... sure is strong..."
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Hey, hey, Hoshina-san, have a drink with us too♪\nIt's our after-party, after all~? Come on, come on~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...That's all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Oh, my!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Trainer, this is super rare!\nTakeshi-san actually having a drink with someone in public!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...What? I just figured having a drink with \"comrades\"\nover New Year's wouldn't be half bad, that's all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the bustling banquet night\nflowed by, shared among the three of them――",
+      "choice_data_list": []
+    }
+  ]
+}

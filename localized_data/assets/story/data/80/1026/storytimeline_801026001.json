@@ -1,0 +1,82 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One evening, while checking\r\nthe track conditions――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "*pant*... *pant*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A clanking metallic sound echoes through the air.\r\nLooking toward the noise, I see an Umamusume running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Test measurement complete. Condition normal.\nDetermined that load increase is feasible. Appropriate weight load is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Looking at her feet after she finished running, I saw a large number of heavy, formidable weights strapped around them.",
+      "choice_data_list": [
+        "What on earth is that……?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "—These are custom-made ankle weights\r\ndesigned to increase the load during training.",
+      "choice_data_list": [
+        "That looks really heavy...",
+        "The sound might carry at night.",
+        "That looks so heavy...",
+        "The sound might carry at night, you know."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "—These are custom-made ankle weights\r\ndesigned to increase the load during training.",
+      "choice_data_list": [
+        "That looks really heavy...",
+        "That looks so heavy...",
+        "The sound might carry at night.",
+        "The sound might carry at night, you know."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No problem. Based on the previous measurement results,\neven attaching double this amount falls within standard tolerance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "I will proceed to re-evaluate the optimal workload.\r\nExcuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Even after that, Mihono Bourbon continued to increase the weight and ran without any issue whatsoever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "—Situation assessed.\r\nConducting this training at night poses\na risk of negative neighborhood impact due to noise levels.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "My apologies, the noise issue was an oversight.\nThank you for bringing it to our attention.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Going forward, we will implement countermeasures such as adjusting the time slots to ensure it runs without issue.",
+      "choice_data_list": []
+    }
+  ]
+}

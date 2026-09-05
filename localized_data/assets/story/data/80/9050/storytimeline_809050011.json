@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened while I was walking through the hot spring town with the landlady……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "Well well, if it isn't the landlady!\nIs that young one beside ya your apprentice?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Ufufu, goodness no.\nThey're a Trainer studying rest and recuperation\nhere at our inn.",
+      "choice_data_list": [
+        ""
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Are you all... playing mahjong again?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in Red Shirt",
+      "text": "That's right, but I'm getting kind of tired\nof always playing with the usual crowd.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smiling Old Man",
+      "text": "Hey there, youngster. Know how to play mahjong?\nCare to join us for a round if you've got time?",
+      "choice_data_list": [
+        "I'm no expert, but I'd love to!"
+      ]
+    },
+    {
+      "name": "Man in Red Shirt",
+      "text": "Ron! Riichi, Pinfu, Dora 1—that's 3,900 points! Well, a win's a win... buuut...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The old men's eyes gather upon us. ...A total defeat.\nThe final point difference from first place was like night and day.",
+      "choice_data_list": [
+        "It didn't lead to any points at all..."
+      ]
+    },
+    {
+      "name": "Smiling Old Man",
+      "text": "A-Ah, geez... Sorry about that, I might've\ngone a bit too far...\nI figured out the hand you were trying to build, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "Well, ya naturally wanna aim for the hand that scores big points!\nThat's why I saw right through it, but...\nGuess it's a learnin' experience... Or maybe I was just bein' petty...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...\n......*sigh*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Well then, everyone.\nI shall be your next partner.\nSo, there is no need to hold back—is there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "T-The landlady is...?! ...A-Alright.\nI'm definitely taking the win today!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Quietly, the tiles swapped places.\nLooking over the landlady's tiles... not bad at all!\nIn fact, it's a hand ready to fight!",
+      "choice_data_list": [
+        "(Looks like I can complete a high-scoring hand!)"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "........",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However... the proprietress discarded a tile completely contrary to our reading—the very tile needed to complete her winning hand.",
+      "choice_data_list": [
+        "(Wait…… why? She could've aimed for a high score……!)"
+      ]
+    },
+    {
+      "name": "Man in Red Shirt",
+      "text": "All right, Ron! Pinfu, Red Five... That's 2,000 points! Heh heh, we're off to a great start~!",
+      "choice_data_list": [
+        "(Guh, the hand wasn't worth much, but she got me!)"
+      ]
+    },
+    {
+      "name": "Man in Red Shirt",
+      "text": "I heard the landlady was a total demon at mahjong, though?\nIs this really okay~? Should I just push through and go all the way?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Hohoho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...I hope you can pull it off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Shall we proceed to East Round 2?",
+      "choice_data_list": [
+        "(What on earth could the proprietress be thinking...?)",
+        "(What on earth is the proprietress thinking...?)"
+      ]
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "...She forced me to win with a cheap hand...!\nShe realized I was sitting on a high-value tenpai...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The match progressed. Through East 2 and East 3, the landlady couldn't manage to win a hand.",
+      "choice_data_list": [
+        "(Haven't scored any points yet. This is really it... my final chance...)"
+      ]
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "Pong! I'll take that Two of Dots!\nNow then, now then...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smiling Old Man",
+      "text": "You sure love calling tiles, don'tcha...?\nDroppin' your hand's value like that is crazy work.\nYou gotta sit tight and hold your ground more~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "Cheap trick or not... I'll do whatever it takes to win.\nYou gotta scramble greedily for every inch... Hup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Indeed. That too is part of the contest—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Well then, I suppose it is time for me to go as well.\nIn my own way...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That was when I realized.\nThe way to win at mahjong... is simply\nto finish with a higher total score than anyone else.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The proprietress hasn't scored any winning hands. But...\nthe gap between her and the others isn't that wide.\nRather than going on the offensive, she's devoted herself to defense—",
+      "choice_data_list": [
+        "(So the strategy was to protect her own lead all along!)",
+        "(So her strategy really was to protect her own lead!)"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Just like life itself.\nIt is simply impossible for everything to always go smoothly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Still, no matter what happens—as long as we're smiling in the end, that's all that matters.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Tsumo. Pinfu, Pure Straight, Self-Draw, Dora 1... Mangan. 2,000 / 4,000 points.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in Red Shirt",
+      "text": "Ooh~ nice move!\nScore-wise, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in Red Shirt",
+      "text": "...!?\nTh-There's a turnaround?!",
+      "choice_data_list": [
+        "The core points haven't been disrupted, so what you did is plenty...!"
+      ]
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Indeed, there is no need for anything extravagant.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "What to accomplish in the end.\nAs long as we determine that and proceed steadily—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man in a Hat",
+      "text": "........I-I lost again...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Not bad, right?\nLiving that way…… you know?",
+      "choice_data_list": []
+    }
+  ]
+}
