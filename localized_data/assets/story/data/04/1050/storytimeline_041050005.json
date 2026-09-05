@@ -1,320 +1,175 @@
 {
-  "title": "",
+  "title": "Nobody I need.",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Treadmill running sounds",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Narita Taishin had requested to focus on weight training\nfor today's workout."
     },
     {
-      "name": null,
-      "text": "★Request\nSE: Clang of barbell dropping on the floor\r\nFade in / Show characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "When I headed over to the gym, I found her\njust about to lift a barbell."
     },
     {
-      "name": null,
-      "text": "★Request\nTime skip\n---\n★Request\nCostume: School uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "...Alright, time to—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSigh after finishing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "However—the moment she took the barbell's weight,\nher slender frame wobbled unsteadily...!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nBarbell squats\n---\n★Request\nFade in\r\nHide characters as barbell is in use",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Ugh... heavy...!",
+      "choice_data_list": [
+        "Careful!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nInclude a dissatisfied/reluctant sigh",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I helped support the barbell with her\nand slowly lowered it down to the floor."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Sound of barbell rattling/creaking\n---\n★Request\nFade in (barbell in use)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "*pant*... *pant*... Dammit..."
     },
     {
-      "name": null,
-      "text": "★Request\nCostume: Gym uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "To avoid injury,\nit seemed wise to spend more time warming up.",
+      "choice_data_list": [
+        "Don't rush it.",
+        "No need to rush."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nNarita Taishin walks out of frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "...What? You trying to say this is too much for me?"
     },
     {
-      "name": null,
-      "text": "★Request\nSE: Clang of barbell placed down on the floor\n---\n★Request\nFade in / Show characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Telling me not to act tough when I barely have any muscle?",
+      "choice_data_list": [
+        "That's not it at all.",
+        "That's not what I mean."
+      ]
     },
     {
-      "name": null,
-      "text": "Thanks to that... well,\r\nmy body felt a bit lighter than usual, I guess.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Judging from how she looked, she definitely had\nthe strength to lift the barbell."
     },
     {
-      "name": null,
-      "text": "To prevent injuries,\r\nit seems best to spend more time warming up.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I suggested that she was simply under-warmed,\nand that doing a more thorough routine would help—"
     },
     {
-      "name": null,
-      "text": "Ghh... Heavy...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "…………。"
     },
     {
-      "name": null,
-      "text": "...Well, a little.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Though clearly reluctant,\nNarita Taishin ended up following my instructions."
     },
     {
-      "name": null,
-      "text": "...Though somewhat reluctantly,\r\nNarita Taishin followed my instructions.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Using the treadmill for a light jog to raise her body temperature and heart rate,\nshe followed up by stretching out her muscles thoroughly."
     },
     {
-      "name": null,
-      "text": "Hmm... Not bad.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And once her meticulous prep was complete,\nshe stood before the barbell once more—"
     },
     {
-      "name": null,
-      "text": "I help support the barbell she is holding\r\nand slowly lower it to the floor.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "...Ngh, ...huph!"
     },
     {
-      "name": null,
-      "text": "...Hearing such a positive reaction took me by surprise,\r\nand I leaned in eagerly without thinking.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With far greater stability than before,\nshe lifted the barbell cleanly."
     },
     {
-      "name": null,
-      "text": "...Maybe I should try doing that warm-up\r\nyou showed me every time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "During the rest of the workout,\r\nit felt as though she listened to my instructions much more openly than usual...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "For today's training, Narita Taishin\r\nhas requested to do some strength training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Narita Taishin",
       "text": "Alright...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Looks like that worked well.",
+        "Feels a lot better, doesn't it?"
+      ]
     },
     {
-      "name": null,
-      "text": "Despite what she says, she doesn't seem to be in bad shape at all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "...I guess. A little."
     },
     {
-      "name": null,
-      "text": "What, you gonna tell me not to push myself when I barely have any muscle?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Despite her nonchalant response, she seemed to be in good form."
     },
     {
-      "name": null,
-      "text": "Our relationship definitely shouldn't be bad.\nAnd yet—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Haah...!"
     },
     {
-      "name": null,
-      "text": "...What? You trying to say it's too early for me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her dumbbell routine went smoothly as well.\nFixing the slight wobble in her core should make it even better.",
+      "choice_data_list": [
+        "Could you try keeping your upper body straight?",
+        "Can you try keeping your upper body straight?"
+      ]
     },
     {
-      "name": null,
-      "text": "...Alright, next is—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "..................\n...I'll try."
     },
     {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Throughout the rest of the workout, she seemed noticeably\nmore receptive to my advice than usual..."
     },
     {
-      "name": null,
-      "text": "Ah, but... oh yeah, hey.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Afterward, while we were reviewing the day's training...",
+      "choice_data_list": [
+        "How did today feel?"
+      ]
     },
     {
-      "name": null,
-      "text": "The dumbbell training went well too.\nOnce we correct her core balance, it should get even better.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Mm... pretty okay."
     },
     {
-      "name": null,
-      "text": "Huh, what's with you all of a sudden...? Your energy is annoying.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Oh, but... hey, um."
     },
     {
-      "name": null,
-      "text": "............\n...Fine, I'll try it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "...That warm-up routine you had me do,\nmight not be a bad idea to do every time."
     },
     {
-      "name": null,
-      "text": "From the looks of it, Narita Taishin clearly has\nthe raw strength to lift the barbell.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Thanks to that... well,\nmy body felt a lot lighter than usual, I guess.",
+      "choice_data_list": [
+        "Really?! That's great to hear!",
+        "Really?! I'm so glad!"
+      ]
     },
     {
-      "name": null,
-      "text": "However, it seemed she hadn't warmed up enough,\nso when I suggested taking it more carefully—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Hearing far more positive feedback than I expected,\nI accidentally leaned in a bit too eagerly."
     },
     {
-      "name": null,
-      "text": "*pant*... *pant*... Dammit...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "Whoa, what's with you all of a sudden...? Your energy's annoying."
     },
     {
-      "name": null,
-      "text": "But—the moment she took hold of the barbell,\nher slender frame wobbled unsteadily under the weight...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Taishin",
+      "text": "...Are we done with the review? Then I'm going back.",
+      "choice_data_list": [
+        "G-Good work today..."
+      ]
     },
     {
-      "name": null,
-      "text": "...Ngh, ...huff!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Our dynamic certainly wasn't bad.\nAnd yet—"
     },
     {
-      "name": null,
-      "text": "With far more stability than before,\nshe hoisted the barbell firmly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Done reviewing? Then I'm going home.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "When I headed to the gym, Narita Taishin was\njust about to lift a barbell.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haaah...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And after finishing thorough preparations,\nNarita Taishin stood before the barbell once more—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She raised her temperature and heart rate with a light machine jog,\nthen stretched out her muscles.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I couldn't help but feel we still had a long way to go as partners...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And after training, as we went over today's session...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I couldn't help but feel there were still plenty of hurdles ahead for us as partners..."
     }
   ],
   "no_wrap": true

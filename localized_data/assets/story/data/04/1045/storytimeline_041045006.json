@@ -1,299 +1,177 @@
 {
-  "title": "",
+  "title": "The Gaze Changes",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nFade to Black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A rare day off.\nI went to the shopping mall to pick up some daily necessities, and then—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nInner monologue.\n---\n★ Request\n*Inner monologue (no lip flap)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Girl A",
+      "text": "Waaah, waaah."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nUma Magical Girl = Umajokko",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "There, there, you were scared, weren't you?\nBut it's okay now, you're safe."
     },
     {
-      "name": null,
-      "text": "★ Request\nAttire: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Hold on. Just... hmm...",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's the matter?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 5\r\nPersonality: Shy",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Trainer! Just in time.\nI think this little girl might be lost."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSaying \"Good girl, good girl\" while gently patting her on the head.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "She was huddled up crying all by herself in the corner, so I tried talking to her, but..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nWhimpering anxiously",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Girl A",
+      "text": "*hic*, *hic*..."
     },
     {
-      "name": null,
-      "text": "I took a handkerchief from my pocket\nand gently wiped away the little girl's tears.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "There, there. It must have been scary all on your own.\nGood girl...",
+      "choice_data_list": [
+        "Aren't your mom or dad with you?",
+        "Are you separated from your mom or dad?"
+      ]
     },
     {
-      "name": null,
-      "text": "There, all clean now. Isn't that better?\nSo... were you out shopping today?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Little Girl A",
+      "text": "…………。",
+      "choice_data_list": [
+        "Did you get separated from them?"
+      ]
     },
     {
-      "name": null,
-      "text": "...The Uma Magical Girl... transformation wand...\nMommy and Daddy... said they'd buy it for me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Little Girl A",
+      "text": "*sniff*... *hic*... I don't kno— Waaah!"
     },
     {
-      "name": null,
-      "text": "She was curled up crying all by herself in the corner,\r\nso I tried talking to her, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was just starting to calm down, but now she's crying again...!\nLarge tears roll down her cheeks one after another.",
+      "choice_data_list": [
+        "I-I'm sorry...!",
+        "S-Sorry about that...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer! Perfect timing.\nI think this little girl might be lost.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I pull a handkerchief from my pocket\nand gently wipe away her tears."
     },
     {
-      "name": null,
-      "text": "The little girl gave another small nod. It seemed she really was lost.\nAt a time like this, what could I do...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Little Girl A",
+      "text": "*sniff*... *hic*..."
     },
     {
-      "name": null,
-      "text": "On a rare day off,\r\nI went to the shopping mall to pick up some daily necessities, when—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Trainer...!\n."
     },
     {
-      "name": null,
-      "text": "There weren't any store staff or anyone nearby to help.\r\nTo be honest... I was really at a loss for what to do.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "There, all clean. Good for you.\nSo... were you shopping today?"
     },
     {
-      "name": null,
-      "text": "Even so... because you were with me, Trainer,\nI felt so relieved.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The little girl gave a small nod..."
     },
     {
-      "name": null,
-      "text": "Trainer...!\n.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "I see~. Was there something you wanted to buy?"
     },
     {
-      "name": null,
-      "text": "*Waaaah*, *waaaaah*!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Girl A",
+      "text": "...The magical girl wand... from Uma Witch...\nMom and Dad said... they'd buy it for me..."
     },
     {
-      "name": null,
-      "text": "You were wonderful today, Trainer.\nDon't say you weren't helpful, because you really were.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "How nice~. You must have been so excited.\nSo did you come shopping with your mommy and daddy?"
     },
     {
-      "name": null,
-      "text": "I see~. Was there something you wanted?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The girl nodded once more. She really had gotten separated from them.\nAt a time like this, what can I do...?",
+      "choice_data_list": [
+        "I'll head to the lost and found center!"
+      ]
     },
     {
-      "name": null,
-      "text": "It's not a good idea to lead a lost child around on our own,\nso I thought about calling for help, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Ah...\nI'll wait here with her, then."
     },
     {
-      "name": null,
-      "text": "It seemed our dynamic wouldn't be changing just yet.\nHowever, it was a day that proved just how much trust Super Creek placed in me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Upon arriving at the lost children's center, a pale, panicked couple was already there.\nThey appeared to be the little girl's parents...!"
     },
     {
-      "name": null,
-      "text": "*Hic*, *hic*...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Trainer, thank you so much for today.\nI'm so glad she was able to reunite with her parents...",
+      "choice_data_list": [
+        "I wasn't much help, though...",
+        "I wasn't much help, was I..."
+      ]
     },
     {
-      "name": null,
-      "text": "............",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Not at all, having you there helped me so much.\nHold your head high."
     },
     {
-      "name": null,
-      "text": "Ah...\nI'll wait here with her, then.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "It's not good to walk around leading a lost child away on your own,\nso I knew I had to call someone, but..."
     },
     {
-      "name": null,
-      "text": "The little girl gave a small nod...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "There weren't any store clerks or anyone nearby who could help.\nTo be honest... I was quite at a loss for what to do."
     },
     {
-      "name": null,
-      "text": "I just made the girl cry right when she was starting to calm down...!\nLarge teardrops spilled down her cheeks.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Having you rush over right at that moment...\nI was truly so happy to see you.",
+      "choice_data_list": [
+        "But I ended up making her cry."
+      ]
     },
     {
-      "name": null,
-      "text": "That's lovely~, you must have been so excited.\nSo, did you come shopping with Mommy and Daddy?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Fufu, it seems we still have a bit\nto learn about children's feelings."
     },
     {
-      "name": null,
-      "text": "Besides... you've learned to bring your handkerchief properly now too.\r\nGood boy/girl, good boy/girl♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Even so... because you were with me,\nI felt completely at ease."
     },
     {
-      "name": null,
-      "text": "*Sniff*... *sob*...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "You were truly wonderful today, Trainer.\nDon't ever say you weren't helpful.",
+      "choice_data_list": [
+        "Have I become a Trainer you can rely on?"
+      ]
     },
     {
-      "name": null,
-      "text": "*Sob*... *hic*... I don't know... *waaaaah*!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Of course you have!"
     },
     {
-      "name": null,
-      "text": "There, there, being all alone was scary, wasn't it?\nShh, it's okay~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Besides... you've learned to carry a handkerchief properly now.\nGood job, such a good child♪",
+      "choice_data_list": [
+        "...Are you pampering me again?"
+      ]
     },
     {
-      "name": null,
-      "text": "Not at all, having you here was a huge help, Trainer.\r\nBe proud of yourself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Oh, did you figure it out? Ufufu♪"
     },
     {
-      "name": null,
-      "text": "You rushed over right at that moment...\nI was truly so happy back then.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It seems my dynamic with Super Creek hasn't changed just yet.\nStill, today proved that her trust in me has grown by leaps and bounds."
     },
     {
-      "name": null,
-      "text": "Upon arriving at the lost child center, there stood a couple looking pale and frantic.\r\nIt seemed they were the little girl's parents...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufu, it looks like I need to study up\r\non what goes on in a child's heart.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hold on just a moment. Right now... hmmm...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh my, you could tell? Ufufu♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Of course!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(...You really were so dependable, Trainer.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "There, there, you were feeling so anxious, weren't you?\nDon't worry, everything is going to be alright now.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thank you so much for today, Trainer.\nI'm so glad that little one was reunited with their parents...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "(...You were truly so dependable today, Trainer.)"
     }
   ],
   "no_wrap": true

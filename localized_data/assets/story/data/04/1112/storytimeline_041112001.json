@@ -1,509 +1,222 @@
 {
-  "title": "",
+  "title": "Ready for Heart?",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"I'll pay you back double\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Clutching a huge stack of documents, I hurried down the hallway toward the Trainer's office.",
+      "choice_data_list": [
+        "(Will I finally be able to pick a scouting candidate today...?)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Paralyzed by rookie Trainer anxiety, I spent all my time over-preparing...\nunable to even muster the courage to approach any horsegirls.",
+      "choice_data_list": [
+        "(I really am... such a coward.)",
+        "(I really am... such a coward.)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Okay!\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—Just then, a lively commotion reached my ears."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 2nd year middle school\nPersonality: Energetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Heart's Friend A",
+      "text": "Cheerleading out of nowhere at lunchtime?!\nLeave it to Heart, though—look at how huge this crowd is getting!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"love letter\" = Pronunciation sample available\n・\"Huh?\" = Pronunciation sample available\n---\n★ Request\nFade in from black\n---\n★ Request\nDisplay Daring Heart (Swimsuit Backdancer Blue)\nHanding over documents (prop1156_00) (Required: anm_eve_type00_paper03_02)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Heart's Friend B",
+      "text": "She heard someone had a mock race coming up and wanted to cheer her on!\nHeart is seriously so passionate and sweet~!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Pumping up the crowd was a dazzling cheer squad.\nRight in the center stood an especially eye-catching horsegirl—"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / After fade in\nTurn white filter ON\n---\n★ Request\nDisplay Daring Heart (Racing Outfit), Hide Cheer Pom-poms Red (prop1210_01)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hey, everyone! Are you ready to bring the hype?\nLooking down is a total waste! Chin up, and look at me!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\n・\"Are you okay?\": Pronunciation sample available\n---\n★ Request\nFade in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Blow away all those bad vibes! Let's make our heartbeats echo together♪",
+      "choice_data_list": [
+        "(That's... Dearing Heart...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Hey, everyone!\" = Pronunciation sample available\n・\"look at me!\" = Pronunciation sample available\n---\n★ Request\nBlack wipe\nDisplay Daring Heart (Swimsuit Backdancer Blue)\nHolding Cheer Pom-poms Red (prop1210_01), performing cheer dance (Required: anm_eve_type00_supporter07)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Anyone in the racing world knew her name...\nThe top prospect hailing from the prestigious horsegirl academy, Hillesta Academy."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"perfect chance\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—A horsegirl whose debut was eagerly anticipated by countless fans."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"You're the best!\" = Pronunciation sample available\n---\n★ Request\nDaring Heart runs offscreen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Thanks for indulging my little whim, everyone!\n—...Well? Did it get your hearts racing too?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n\"See ya tomorrow\" = \"See you tomorrow\"\n\"Mr. (Ms.) Audience\" = \"Audience member\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Friend with Upcoming Race",
+      "text": "Yeah...! That gave me a ton of energy! Thank you, Heart!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 2nd year middle school\nPersonality: Reserved",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With talent like that, she must already have a stellar Trainer.\nThere was no place for me here—or so I thought, as I gathered my papers and turned on my heel."
     },
     {
-      "name": null,
-      "text": "★ Request\nDaring Heart, taking it to heart (Required: anm_eve_type00_muneate01)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(Whoooooooosh...!)",
+      "choice_data_list": [
+        "(Ah, my papers...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"See ya tomorrow\" (Pronunciation sample available)\n・\"Mr. (Ms.) Audience\" (Pronunciation sample available)\n---\n★ Request\nDaring Heart walks offscreen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "……Are you okay?"
     },
     {
-      "name": null,
-      "text": "★ Request\nDaring Heart glances at Trainer and gives a light wave (Required: anm_eve_type00_byebye09)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Haha... For a second, I thought a passionate love letter had flown my way.\n—...Huh?",
+      "choice_data_list": [
+        "U-Um... Those are...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric wipe\nTurn white filter OFF\n---\n★ Request\nDisplay Daring Heart (Swimsuit Backdancer Blue), put away Cheer Pom-poms Red (prop1210_01)\nDaring Heart addressing her entourage",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...\"The Correlation Between Muscle Relaxation and Explosive Top Speed\"?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Good morning!\" = Pronunciation sample available\n---\n★ Request\nTime passes\n---\n★ Request\nDisplay Daring Heart (Tracksuit Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "\"By reducing air resistance, eliminating wasted motion, and exploding energy at the exact moment of impact... this allows—\""
     },
     {
-      "name": null,
-      "text": "★ Request\nBlack wipe\n---\n★ Request\nDisplay Daring Heart (Tracksuit Summer)\nGradually accelerating image",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "\"—one to compensate for physical handicaps.\" ...Oh my. Did you write this? What incredible passion!",
+      "choice_data_list": [
+        "It's just armchair theory... purely my own analysis..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Strong wind blowing sound",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Not at all... It's fascinating. You're saying this could prevent being overpowered in a physical clash, right?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Footsteps\n---\n★ Request\nFade in / After fade in\nRace scene begins below\n---\n★ Request\nDisplay Daring Heart (Tracksuit Summer)\nRunning at full speed image",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Thanks!\" = Pronunciation sample available\n---\n★ Request\nDaring Heart puts away documents",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nAccelerates and frames out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Commotion (cheering shrieks)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 2nd year middle school\nPersonality: Bubbly\n---\n★ Request\nFade to black / After fade in\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nBlack wipe\n---\n★ Request\nDisplay Daring Heart (Tracksuit Summer)\nRunning at full speed image",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Bad vibes\" = Negative emotional vibe (Pronunciation sample)\n・\"heart beat\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Nice work!\" (Pronunciation sample available)\n---\n★ Request\nFade in / After fade in\nEnd of race scene\n---\n★ Request\nDisplay Daring Heart (Tracksuit Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Fighting against my own limits, looking straight ahead—just charging through!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "See ya tomorrow, Ms. Audience!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...\"The Correlation Between Muscle Relaxation and Explosive Top Speed\"?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The ones hyping up the crowd were a glamorous cheer squad.\nAnd right in the center stood an Umamusume who completely stole the spotlight—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A talent of this caliber surely already has an exceptional trainer.\nThere's no place for me here—just as I readjusted my grip on my documents and turned away...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, if something else comes up, will you help me out again?\nYou seem to have a pretty interesting perspective... What do you say?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "See ya tomorrow, Mr. Audience!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It struck my heart like a lightning bolt.\nLogic went straight out the window—all I knew was that I wanted to keep chasing that stride.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "In exchange, I'll let you watch me put it into practice!\nIt's a perfect chance to gather live data with your own eyes, isn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yeah...! I feel totally energized now! Thank you so much, Heart!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Holding a mountain of paperwork, I hurried along the path back to the Trainer's office.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trapped by rookie anxieties, I spent all my time on preparations...\nand could barely work up the courage to even speak to an Umamusume.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Okay! Of course you can, make sure you keep your eyes glued to me♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ride alongside me? On that bicycle?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You're the best! See you at the academy♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Anticipating that this will compensate for physical handicaps\"... Huh,\ndid you write this? That's some incredible passion!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "For just a split second, I definitely felt it. Once I loosened up, my entire body turned\ninto a single coiled spring... catapulting me forward with supple ease.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Don't worry. I'll make sure to return it properly!\nAnd what's more, I'll pay you back double... twice over♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Maybe I haven't completely relaxed my shoulders yet,\nsince it really was only for an instant.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—She's an Umamusume whose debut is eagerly anticipated by many right now.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thanks! Then let's go for a run together tomorrow morning♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She said she wanted to cheer up someone who has a mock race coming up!\nHeart is just so passionate and sweet~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Dearing Heart",
       "text": "...Hey, would you mind lending this to me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
-      "name": null,
-      "text": "Let's blow away all those bad vibes!\nEveryone together, let's make our heart beat resonate♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Don't worry. I'll make sure to give it back!\nAnd I'll pay you back double... with interest♪"
     },
     {
-      "name": null,
-      "text": "Not at all... It's fascinating.\nIt means avoiding getting pushed around by physical disadvantages, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "In return, I'll let you watch me put it into practice!\nIt's the perfect chance to gather live data with your own eyes, isn't it?"
     },
     {
-      "name": null,
-      "text": "—Just then, a lively commotion reached my ears.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her piercing, radiant gaze made my heart skip a beat.\nIf... my analytical data could truly be of use...",
+      "choice_data_list": [
+        "Alright... Sure, you can borrow it!",
+        "Alright... Sure, you can borrow it!"
+      ]
     },
     {
-      "name": null,
-      "text": "Her piercing gaze made my heart skip a beat.\nIf... really. If my analytical data could actually be of use...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Thanks! Then let's go for a run together tomorrow morning♪"
     },
     {
-      "name": null,
-      "text": "Still, you... you're quite something.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "See ya tomorrow, Mr. Audience!"
     },
     {
-      "name": null,
-      "text": "If we polish this theory further, it might actually be viable.\nI definitely felt something promising there.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "See ya tomorrow, Ms. Audience!"
     },
     {
-      "name": null,
-      "text": "Can I leave the timekeeping to you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Good morning! I've committed all your data to memory.\nNow then, let's see what happens with your theory, shall we?"
     },
     {
-      "name": null,
-      "text": "Hehe... I thought a passionate love letter came flying my way.\n—...Huh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Can I leave the timing to you?",
+      "choice_data_list": [
+        "Um... Do you mind if I ride alongside you?"
+      ]
     },
     {
-      "name": null,
-      "text": "...Are you okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Ride beside me? On that bicycle?",
+      "choice_data_list": [
+        "Yeah...! I want to see your running up close!",
+        "Yeah...! I want to see your running up close!"
+      ]
     },
     {
-      "name": null,
-      "text": "Hey, everyone! Are you ready to hype it up?\nLooking down is a waste! Chin up and look at me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Okay! Of course you can. Take a good, close look♪"
     },
     {
-      "name": null,
-      "text": "No matter how hard I pedaled, her back kept pulling further away.\nAs if we belonged to entirely different worlds...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Once she started running, she never looked back once.\nTearing through the wind, sharp and powerful—she accelerated."
     },
     {
-      "name": null,
-      "text": "(—I'll turn this theory into wings.\nAnd... I'll surpass who I am today...!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(—I will turn this theory into wings.\nAnd... I will surpass who I was...!)"
     },
     {
-      "name": null,
-      "text": "Thanks for playing along with my sudden whim, everyone!\n—...So? Did that get you fired up too?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(Fighting against my own limits, eyes fixed ahead—I will charge forward!)"
     },
     {
-      "name": null,
-      "text": "Sudden cheerleading during lunchtime?!\nLeave it to Heart, though—look at how huge of a crowd showed up~!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "No matter how hard I pedaled, her back only grew further away.\nAs if she existed in an entirely different world..."
     },
     {
-      "name": null,
-      "text": "Once she took off, she didn't look back even once.\nTearing through the wind, she accelerated sharply and powerfully.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Nice work! Haha, you're really out of breath, aren't you?\nI'm sorry, I just... got totally caught up in the run.",
+      "choice_data_list": [
+        "No... it's fine. That was the right way to do it.",
+        "No... it's fine. That was the right way to do it."
+      ]
     },
     {
-      "name": null,
-      "text": "Known by everyone in the racing world...\nA promising prospect hailing from the prestigious \"Hilesta Academy\" development club.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Still, you... you're amazing."
     },
     {
-      "name": null,
-      "text": "(Whooooooosh...!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "For just a single moment, I felt it for sure. After relaxing, my whole body acted like a coiled spring... and snapped forward with pure fluidity."
     },
     {
-      "name": null,
-      "text": "Good morning! I've got all the data memorized.\nNow then, let's see what happens with your theory, shall we?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "I haven't learned to fully relax my shoulders yet,\nso it was only for a split second, though."
     },
     {
-      "name": null,
-      "text": "\"While minimizing air resistance and eliminating wasted motion,\nunleash explosive energy at the moment of impact. Through this—\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "If we polish this theory further, it could really work.\nI definitely felt something there."
     },
     {
-      "name": null,
-      "text": "Nice work! Hehe, you're really out of breath, aren't you?\nSorry about that... I got carried away and lost myself in the run.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hey, if something comes up again, would you give me your thoughts?\nYou have such an interesting perspective... What do you say?",
+      "choice_data_list": [
+        "Y-Yeah... Of course!",
+        "Y-Yeah... Of course!"
+      ]
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "You're the best! See you around the academy♪",
+      "choice_data_list": [
+        "(Dearing Heart, huh...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It struck my heart like a bolt of lightning.\nI no longer needed any reasons or logic to want to pursue her running."
     }
   ],
   "no_wrap": true

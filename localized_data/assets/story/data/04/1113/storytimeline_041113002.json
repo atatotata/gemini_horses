@@ -1,439 +1,225 @@
 {
-  "title": "",
+  "title": "Let's Chat! Let's Go Somewhere☆",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSame character as \"Veteran Trainer A\" from Episode 1",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Hey hey, you're a Trainer too, right?\nIn that case, won't you..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sparkle sound\n* Recording not required",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Scout me right now?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Running\n---\n★ Request\nStart flashback\nSource: Uma Story Ep 1 (041113001), around 042\n---\n★ Request\nShow Fusaichi Pandora (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Being pleaded with at point-blank range...\nStaring into those sparkling eyes, I found myself—",
+      "choice_data_list": [
+        "S-Sure... I understand—",
+        "Y-Yeah... I understand—"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer",
+      "text": "Don't do it!! Snap out of it, it's a trap!",
+      "choice_data_list": [
+        "Whoa...?!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nEnd flashback\n---\n★ Request\nShow Fusaichi Pandora (Casual Clothes)\nCamera close-up on Fusaichi Pandora",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I snapped back to my senses. I'd almost been totally wrapped\naround the little marshmallow girl's finger..."
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "So close! Just a tiny bit more!\nAnd here I thought I finally found the one.",
+      "choice_data_list": [
+        "Found what, exactly?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nぷっちゅあはんず = Put your hands",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She'd mentioned smelling something sweet earlier...\nWas she picking up the scent of the dessert I had after lunch?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sinking into a bottomless swamp",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "What I found is a sweet, pushover Trainer\nI can have tons of fun hanging out with♪"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Amusement park cheering\n---\n★ Request\nTime lapse\n---\n★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Hey, how about teaming up with me? It'll be super easy for you too, y'know?\n'Cause I can win without even trying anything special♪"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Running (slow)\n---\n★ Request\nStart flashback\n---\n★ Request\nShow Fusaichi Pandora (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "I'm super amazing, after all. Mock races are a total breeze\neven when I'm just coasting. Sooo—"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / After fade-in\n---\n★ Request\nShow Fusaichi Pandora (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Just sign that contract already☆\nCome on, it'll be great♪"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Roller coaster\n---\n★ Request\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Her raw talent was glaringly obvious from her run.\nHowever..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n* Recording not required\n---\n★ Request\nShow Fusaichi Pandora (Summer Tracksuit)\nCamera close-up on Fusaichi Pandora",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I couldn't just accept a contract without knowing who she really was.\nNot until I knew if she had what it takes to succeed as an athlete.",
+      "choice_data_list": [
+        "First... let's talk this out!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sinking into a bottomless swamp",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Talk...? Okey-dokey, got it! Let's chat it up! ☆\nSee ya this Sunday, then! ♡",
+      "choice_data_list": [
+        "Wait, Sunday...?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I wasn't able to just sit down and talk in the Trainer's office right away...\nAnd so—the following Sunday arrived."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / After fade-in\n---\n★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Woohoo! A-muse-ment paaaark! ♡"
     },
     {
-      "name": null,
-      "text": "★ Request\nEnd flashback\n---\n★ Request\nShow Fusaichi Pandora (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Hey, let's ride that one, the crazy screamer coaster! Put your hands up! ☆\nLet's scream \"Aaaaaaaah!!\" together!",
+      "choice_data_list": [
+        "W-Wait, before that, we need to talk..."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Bgyaaaaaaah! *Gag*, ohhh goddd~~!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sparkling charm sound\n---\n★ Request\nFade in / After fade-in\n---\n★ Request\nShow Fusaichi Pandora (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "*Urp*... Bad... I'm so grossed out...\nTrainer, somewhere to rest...",
+      "choice_data_list": [
+        "Feeling sick? Let's head to a bench...",
+        "Feeling sick? Let's head to a bench..."
+      ]
     },
     {
-      "name": null,
-      "text": "Hey, what do ya say about teaming up with me? You'd\nget to take it suuuper easy too, y'know? 'Cause I'll win without you having to do a thing♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Eeeh~, that looks super hard, no way...\nI want something way fluffier...",
+      "choice_data_list": [
+        "I wonder if there is one..."
+      ]
     },
     {
-      "name": null,
-      "text": "I understood loud and clear what kind of Umamusume Fusaichi Pandora was.\nThis girl was...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She begged to ride it herself, only to end up like this.\nLater, on the way back from the amusement park..."
     },
     {
-      "name": null,
-      "text": "And after begging to ride it herself, this was the result.\nFurthermore, on the way home from the amusement park...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Whoa, is that a new spring arrival?! I'm gonna try it on! ☆\nIt's totally gonna look so good on me and super cute! ♡"
     },
     {
-      "name": null,
-      "text": "...Her running earlier proved beyond a doubt that she has raw talent.\nHowever...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Hey, hey, you wear that one over there, Trainer!\nThen we can do matching coords! ♪",
+      "choice_data_list": [
+        "Huh...? You want me to wear something that aggressively cute?!"
+      ]
     },
     {
-      "name": null,
-      "text": "Contract, contract♪ Let's get it done already☆\nDo I need a stamp or something? Here, I'll just stamp it right here♡",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Come on, it's fine, it's fine! I bet it'll totally suit you~.\nLet's post it on Umastagram! Pretty please...?"
     },
     {
-      "name": null,
-      "text": "Hey, let's ride that! The scream machine one! And put our hands up☆\nLet's scream \"Eeeeeeek!!\" together!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She pushes her own preferences on others without a second thought.\nAnd then—"
     },
     {
-      "name": null,
-      "text": "Huh? Conditions...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "*Ack*, whew~~!\nThis pink mapo tofu is way spicier than I thought!!"
     },
     {
-      "name": null,
-      "text": "Begging from point-blank range...\nLooking into those sparkling eyes...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Trainer, swap with that almond jelly! ♡\nOh, and toss in that iced tea too! ☆",
+      "choice_data_list": [
+        "(T-This girl is...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Earlier she said I \"smelled sweet,\" but...\nCould it be the scent of the dessert I had after lunch?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Without waiting for my answer, she swiftly swapped the mapo tofu with the almond jelly. It seemed like she lacked common sense, but..."
     },
     {
-      "name": null,
-      "text": "Come on, come on! It'll totally look great on you~\nLet's post it on UmaSta. Pretty please...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Huh~? Am I really that free-spirited~?\nI always act like this when I go to amusement parks with Mom and Dad, you know?"
     },
     {
-      "name": null,
-      "text": "Stop!! Snap out of it, it's a trap!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "On the way home, the three of us try on clothes~, and we order a buuunch of sweets together and they let me eat whatever I want~☆"
     },
     {
-      "name": null,
-      "text": "So close, just a little more!\nAnd here I thought I'd finally found ya.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "My friends are pretty much the same way!\nIf I just go \"Pretty please!\", they'll do anything for me! ☆",
+      "choice_data_list": [
+        "I-I see..."
+      ]
     },
     {
-      "name": null,
-      "text": "Hey, you're a Trainer too, right?\nThen won't you...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I finally understood what kind of horsegirl Fusaichi Pandora was.\nThis girl was..."
     },
     {
-      "name": null,
-      "text": "Hey hey, Trainer, put that one on, put it on!\nAnd let's do matching outfits♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A horsegirl raised with utter, complete indulgence...\nShe undoubtedly had raw potential, but..."
     },
     {
-      "name": null,
-      "text": "My friends are pretty much like that too.\nIf I just go \"Pretty please!\", they'll listen to whatever I say☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That talent was buried deep in a swamp of pure sugar...\nIf I tried to dig it up carelessly, I'd end up getting swallowed whole instead."
     },
     {
-      "name": null,
-      "text": "What I found is a super sweet Trainer\nwho'll have lots of fun hanging out with me♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "We've talked plenty now, right?\nWe spent the whole day together! So that means—"
     },
     {
-      "name": null,
-      "text": "Won't you scout me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Contract time, contract time! ♪ Let's make it official already! ☆\nDon't we need a stamp or something? Go ahead and press it right there! ♡",
+      "choice_data_list": [
+        "Urgh..."
+      ]
     },
     {
-      "name": null,
-      "text": "That talent of hers is buried deep in a swamp of sugar...\nEven if I try to dig it up, one wrong move and I'll be swallowed whole.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I felt myself almost getting dragged into the Pandora swamp.\nYet, despite her pushiness, the reason I couldn't write her off was..."
     },
     {
-      "name": null,
-      "text": "A talk... Okay, got it! Let's chat, let's chat☆\nAlrighty, this Sunday then♡",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That running form... It was breathtaking. Getting her to take racing seriously might be an impossible feat. Even so—",
+      "choice_data_list": [
+        "A girl with this much raw talent is one in a million!"
+      ]
     },
     {
-      "name": null,
-      "text": "Just sign the Trainer contract already☆\nCome on, why not♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Leaving such talent buried would be an utter waste.\nIf so, the only compromise was..."
     },
     {
-      "name": null,
-      "text": "On the way home the three of us wore cute clothes~, and from all the sweets we ordered together,\nthey let me eat whatever I wanted~☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Hey, not yet~? Stamp it, stamp it! ♪",
+      "choice_data_list": [
+        "I can't... stamp it just yet..."
+      ]
     },
     {
-      "name": null,
-      "text": "Huh... why?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Huh...? Why not?",
+      "choice_data_list": [
+        "Before we can sign a contract—I have a condition!"
+      ]
     },
     {
-      "name": null,
-      "text": "She imposes her own preferences without a second thought.\nAnd once again—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Fusaichi Pandora",
+      "text": "Huh? A condition...?"
     },
     {
-      "name": null,
-      "text": "Trainer, let's swap for that almond tofu♡\nOh, and throw in that iced tea too☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I was on the verge of being dragged into the Pandora swamp.\nThe reason I just couldn't write her off despite her seductive charm was...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That was my best effort at resisting this sweet-talking little devil.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It would be such a waste to leave her talent buried like this.\nIn that case, a middle ground would be...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Without even waiting for my answer, she swiftly swaps\nmy almond tofu with her mapo tofu. She seems to lack common manners, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Eeeh~, wouldn't something that hard be totally gross?\nI want something much softer and fluffier...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh~, am I really that carefree~?\nIt's always like this whenever I go to the amusement park with Mommy and Daddy, though?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ugh, waaaaah~!\nThis Pinky Mapo Tofu is way spicier than I thought!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa, is that the new spring collection!? I'm gonna try it on☆\nIt'll totally suit me, and it's super duper cute♡",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm amazing, you know! In mock races,\nall I have to do is jog lightly and it's a breeze. So—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Gyaaaaaah! Bleeegh, oooof~~~!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "We've totally talked enough by now, right?\nWe spent the whole day together. So with that said—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "An Umamusume raised in absolute pampering...\nHer talent is unquestionable, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, not yet~? The stamp, the stamp♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That run of hers... Her form was magnificent. Getting her to take running seriously\nmight be an astronomical challenge. Even so—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Urgh... Oh no... gross...\nTrainer, find somewhere to rest...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I can't agree to a contract without truly knowing her inside.\nNot until I'm certain she has potential to succeed as an athlete.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I snapped back to my senses. I was almost completely\nwrapped around this marshmallow Umamusume's little finger...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It didn't quite end with \"let's talk in the Trainer's room right away...\"\nAnd so—the following Sunday arrived.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yaaaay, a-muse-ment park!♡",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That was the best resistance I could muster against this pampered little imp."
     }
   ],
   "no_wrap": true

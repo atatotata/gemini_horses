@@ -1,502 +1,231 @@
 {
-  "title": "",
+  "title": "Kindness Beneath the Canopy",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nDisplay sprite: K.S. Miracle (Casual)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Under the pretext of endurance training,\nI brought K.S. Miracle out on a hiking trip."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "We saw a bird earlier that I've never seen before.\nDid you notice it? Oh, and a mother squirrel with her baby, too!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...Haaah. The fresh air feels wonderful. If building stamina\ncan be like this, I'd love to do it regularly."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start\n---\n★ Request\nDisplay sprite: K.S. Miracle (Casual)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—Truth be told, that wasn't the sole reason.\nThe main goal was to give K.S. Miracle a chance to unwind.",
+      "choice_data_list": [
+        "(...Or at least, that was the plan.)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nShe realizes it's for her sake. Mixed feelings of happiness (\"for me\") and guilt.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "We've walked quite a bit. ...Trainer, are you alright?\nYou're... breathing pretty heavily, aren't you?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start\n---\n★ Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Perhaps everyday fatigue is catching up with me, but this is draining\nfar more stamina than I anticipated. K.S. Miracle peeks at me with worry."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Why don't we rest here and head back together?\nIf it's just this kind of stamina training, I can always do it on my—",
+      "choice_data_list": [
+        "I-I'm fine... Let's keep going!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "We came all this way so she could relax;\nit would defeat the entire purpose if I held her back."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed\n---\n★ Request\nUma Story Ep 2 (snd_voi_story_041093002_30) lines 98 & 100\n*Line 99 is skipped\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Wishing above all else that this turns into a wonderful day for her,\nI forced a smile and kept putting one foot in front of the other."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "…………。"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay sprite: K.S. Miracle (Casual)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Phew. We finally made it.\n...Trainer, let's sit on that bench over there and rest.",
+      "choice_data_list": [
+        "S-Sorry..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Oh, please... there's no need to apologize.\nWe walked quite a long way, so it's only natural to be tired."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay sprite: K.S. Miracle (Casual)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I sit down on the bench, doing my best to hide my trembling legs.\nLeaning my elbows on the table in front of me, I catch my breath."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...Would you like some cold water?\nI was actually just getting thirsty myself, so I'll go buy us some!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Watching K.S. Miracle jog off toward the shop,\nI breathe a sigh of relief that we made it here in one piece.",
+      "choice_data_list": [
+        "I'm... so tired..."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay sprite: K.S. Miracle (Casual)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I let my body go limp and slump onto the table. The accumulated fatigue\nand my depleted stamina hit me all at once, pulling my consciousness straight into a dream—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...Trainer?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "…………。"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTo convey the realization: \"Ah... they're asleep.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...You really did walk a lot, didn't you?\nMake sure you drink some water when you wake up, okay?"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay sprite: K.S. Miracle (Casual)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(You're so exhausted that you won't even wake up when I speak to you.\n...I suppose that makes sense. Because, Trainer... you're always...)"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start\nNot out of fatigue or sighing, but feeling refreshed/pleasant.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(Always working so hard for my sake... and because of my body,\nyou have to worry about so much more than normal trainers do.)"
     },
     {
-      "name": null,
-      "text": "Not at all.\nI could hear the birds singing, and I had a very relaxing time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Thank you, Trainer..."
     },
     {
-      "name": null,
-      "text": "K.S. Miracle lets out a relieved breath,\nthen turns her calm, gentle gaze toward me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "My gratitude toward you...\nis far more than mere words could ever express, but..."
     },
     {
-      "name": null,
-      "text": "K.S. Miracle smiles warmly and peacefully.\n...I feel somewhat awkward.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...You brought me out here today just so I could rest, didn't you?"
     },
     {
-      "name": null,
-      "text": "Looking at K.S. Miracle's face, she is smiling happily.\nFalling asleep was definitely a blunder, but did she get a chance to relax?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "I'm sorry, but I noticed.\nBecause—"
     },
     {
-      "name": null,
-      "text": "Perhaps my daily fatigue has caught up with me, as my stamina drained\nfar faster than I expected. K.S. Miracle peers over at me with concern.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Attending Physician",
+      "text": "Listen closely, K.S. Miracle. You don't have to give up on anything.\n...It's going to be okay. We're right here with you."
     },
     {
-      "name": null,
-      "text": "Eat as much as you can, and let's do our best with walking rehab.\nYour dad and the rest of us will do our best with you. ...We'll be right by your side.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(Everyone who worries about me always has such kind, gentle eyes.)"
     },
     {
-      "name": null,
-      "text": "Huh, no, you can't! That's bad for your health, and...\nif you were to collapse, Trainer, I...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miracle's Mother",
+      "text": "Kei-chan! Were you reading a picture book? Oh my, what a lovely swan.\n...Thank goodness, you seem to be feeling better today."
     },
     {
-      "name": null,
-      "text": "(You're working so hard for my sake... and because of my condition,\nyou have to think about so much more than an ordinary trainer would.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miracle's Father",
+      "text": "Eat as much as you can, and let's do our best with your walking rehab.\nMom and I will be working hard right alongside you. ...We'll always be by your side."
     },
     {
-      "name": null,
-      "text": "...You brought me out here today to let me rest, didn't you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(Because... you always speak to me with such warmth in your voice.)"
     },
     {
-      "name": null,
-      "text": "My gratitude toward you...\nwords alone could never be enough, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "That's why... I can tell.\nJust how deeply you care for me."
     },
     {
-      "name": null,
-      "text": "...Ah, I could hear you breathing in your sleep, too.\nDid you have any nice dreams?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...It's rather silly of me, isn't it? Pretending not to notice your kindness\njust so I can put your mind at ease."
     },
     {
-      "name": null,
-      "text": "Hiding my trembling legs, I sit down on the bench.\nI rest my elbows on the table in front of me and catch my breath.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(...Kind people get hurt easily. Because they try to shoulder\neveryone else's pain too. Even though... you really don't have to.)"
     },
     {
-      "name": null,
-      "text": "Please... there's no need to apologize.\nAfter walking this far, it's only natural to be tired.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "............\nHehe. I can hear your breathing so clearly from right next to you."
     },
     {
-      "name": null,
-      "text": "...How about some cold water?\nI was just getting thirsty myself, so I'll go buy some!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Please rest just a little longer.\nI promise... I'll wake you up before the sun goes down."
     },
     {
-      "name": null,
-      "text": "...Trainer...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "The train is pretty empty, isn't it?\nTrainer, please don't mind me and stay seated."
     },
     {
-      "name": null,
-      "text": "Just standing is part of my training, after all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Standing like this counts as training for me, after all.",
+      "choice_data_list": [
+        "I'm really... so sorry..."
+      ]
     },
     {
-      "name": null,
-      "text": "(Because you always—speak to me in such a warm voice.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Haha, how many times is that now?\nI was the one who let you sleep, so please don't worry about it."
     },
     {
-      "name": null,
-      "text": "There was a bird along the way that I'd never seen before.\nDid you notice it? And a squirrel family, too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It turns out I had fallen fast asleep after that.\nI panicked terribly when I was woken up, but..."
     },
     {
-      "name": null,
-      "text": "............",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Is something wrong?"
     },
     {
-      "name": null,
-      "text": "I watch K.S. Miracle trot off toward the kiosk,\nbreathing a sigh of relief that we managed to arrive safely.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Looking at K.S. Miracle's face, she is smiling happily.\nFalling asleep was definitely a blunder on my part, but did today help her unwind?"
     },
     {
-      "name": null,
-      "text": "I'm sorry, but I noticed.\nBecause—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "No matter how painful things get, or how hard she pushes herself,\nshe never views it as a burden—she embraces it as a joy."
     },
     {
-      "name": null,
-      "text": "Please sleep for just a little longer.\nBefore the sun goes down... I'll be sure to wake you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "To become someone K.S. Miracle can truly lean on,\nsomeone she can let herself depend on, I need to work even harder."
     },
     {
-      "name": null,
-      "text": "Wishing desperately for this to be a wonderful day for her,\nI forced a smile and kept putting one foot in front of the other.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "For that reason, I can't just sit here moping.\nI need to learn from today's mistake...",
+      "choice_data_list": [
+        "I must have bored you while I was asleep.",
+        "I must have bored you while I was asleep, huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "The whole point was for K.S. Miracle to take a breather.\nIt defeats the purpose if I end up holding her back.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Not at all.\nI could hear the birds chirping, and I had a very relaxing time."
     },
     {
-      "name": null,
-      "text": "(Everyone who worries about me has such kind eyes.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...Ah, I could hear you breathing in your sleep, too.\nDid you have any nice dreams?"
     },
     {
-      "name": null,
-      "text": "Apparently, I had fallen completely asleep since then.\nWhen she woke me up, I panicked for a moment, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "K.S. Miracle smiles warmly and serenely.\n...I feel somewhat embarrassed.",
+      "choice_data_list": [
+        "I-I'll never fall asleep again..."
+      ]
     },
     {
-      "name": null,
-      "text": "(...Kind people get hurt easily. Because they try to take on\nother people's pain, too. Even though... they don't have to.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Wh-what? You can't do that! That's bad for your health...\nIf you were to collapse, Trainer, I...",
+      "choice_data_list": [
+        "N-No, I was just kidding!"
+      ]
     },
     {
-      "name": null,
-      "text": "Is something the matter?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "...Really? Thank goodness.\nHaha, you actually had me worried there."
     },
     {
-      "name": null,
-      "text": "We sure walked a lot. ...Trainer, are you all right?\nYou're... out of breath, aren't you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(You're so exhausted that you won't even wake up when called.\n...Well, that makes sense. After all, you're always...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—In truth, that wasn't the only reason.\nGiving K.S. Miracle a chance to unwind was the main goal.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I need to work even harder so that K.S. Miracle feels comfortable\nleaning on me and depending on me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Phew. The fresh air feels wonderful. If this counts as\nstamina training, I'd love to do it regularly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Really? In that case, I'm glad.\nAhaha, you actually had me going for a second.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's rest here a bit and head back together.\nIf it's just this kind of stamina training, I could do it on my own—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Feigning ignorance of your kindness just to put your mind\nat ease... That's pretty absurd of me, isn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......\nFufu. Sitting next to you, I can hear your breathing so clearly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Under the pretext of boosting our stamina,\nI brought K.S. Miracle out for a hike.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahaha, how many times does that make now?\nI was the one who let you sleep, so please don't worry about it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I let my body go limp and slump onto the table. Accumulated fatigue and\nphysical exhaustion hit me all at once, carrying my consciousness straight into dreams—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Listen to me, K.S. Miracle. You don't have to give up on anything.\n...It's okay. We are right here with you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "For that very reason, I can't stay down in the dumps forever.\nI'll use today's failure as fuel...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No matter how agonizing it gets or how far she pushes herself,\nshe doesn't see it as a burden, but rather embraces it with pure joy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Kei-chan! Were you reading a picture book? Oh, what a cute swan.\n...I'm so glad, you seem to be feeling well today.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That's why... I can tell.\nJust how much you're looking out for me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...We walked quite a long way, after all.\nMake sure you drink some water when you wake up, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew. We finally made it.\n...Trainer, let's sit on that bench over there and take a breather.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The train is pretty empty.\nTrainer, please don't mind me and stay seated.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "K.S. Miracle lets out a relieved sigh.\nAnd with that, she turns her gentle, serene gaze back toward me."
     }
   ],
   "no_wrap": true

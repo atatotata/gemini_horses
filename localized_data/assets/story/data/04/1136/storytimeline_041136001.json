@@ -1,614 +1,226 @@
 {
-  "title": "",
+  "title": "Advent of the Saint",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nGently",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rookie Trainer A",
+      "text": "—Thanks for congratulating me, everyone!\nMan, I'm blushing. I've still got so much to learn, though."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: A sharp, forceful sound effect (like a clint!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rookie Trainer B",
+      "text": "That's incredible! Winning an award for training theory research as a rookie!\nTo think they started at the same time as us... Some people really are just special.",
+      "choice_data_list": [
+        "Yeah, it's seriously amazing...!",
+        "Yeah, it's seriously amazing...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in from black / After fade in\nRace scene begins below\n---\n★ Request\nShow Red Desire (Summer Gym Uniform)\nShow Buena Vista (Summer Gym Uniform)\nDesire is running in front, Buena trailing behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I'm genuinely happy for my peer's success. There's no lie in that.\n...Yet deep inside my chest, something quietly aches.",
+      "choice_data_list": [
+        "(Guess I really am just 'ordinary'—)",
+        "(Guess I really am just 'ordinary'—)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Applause\n\nAge: 22\nPersonality: Serious\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "...And so, after school on that very day,\nI absentmindedly ponder while watching the horsegirls train diligently."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Murmuring, groans, etc.\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I'm thoroughly mediocre. My skills are nowhere near ready.\nUnder these circumstances, taking on a trainee would be rushing things..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFirst-person \"watakushi\" pronounced formally\n---\n★ Request\nShow Red Desire (Summer Gym Uniform)\nRed Desire looks up to the heavens",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "—Ah, please do not lament so.\nO Heavens, what sorrow causes you to shed such cold, bitter tears?",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nLarge font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "For a second, I thought she was talking to me.\nHowever, following her gaze, I saw storm clouds drifting across the sky..."
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "(RUMBLE, RUMBLE... KRAAA-BOOOOOM!!)"
     },
     {
-      "name": null,
-      "text": "★ Request\nFrom here, please insert the gathering storm clouds effect (pfb_eff_storyevent_01_007) and\nthe lightning strike effect from the gathered storm clouds (pfb_eff_storyevent_01_008) at suitable timings.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Even blades of lightning...!\nTo strike the moment I appeared... Ha!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sound of shoelace snapping",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Could this too be a trial bestowed upon the Saint...!?\nAaaahhh......!",
+      "choice_data_list": [
+        "…………？？？"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Red Desire (Summer Gym Uniform)\nShow Buena Vista (Summer Gym Uniform)\nDesire running in front, Buena behind.\nBuena closes in, Desire holds her ground.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirls",
+      "text": "Isn't the lightning getting closer and closer? So scary!\nEveryone! The instructor says, 'It's dangerous, evacuate to the gym~'!",
+      "choice_data_list": [
+        "Ah, excuse me! You need to evacuate quickly too!",
+        "Ah, excuse me! You need to evacuate quickly too!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Screaming / shrieking",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirls",
+      "text": "That lightning is crazy. Spooky...\nAww, and I really wanted to run outside today~"
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Everyone, please lift your heads.\nI shall appease the heavens through the power of holy prayer."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Rainstorm / gale\n---\n★ Request\nTurn off sparkle effect\n---\n★ Request\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Leave this to me, Saint Red Desire...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: A striking, quiet sound evoking inner contemplation",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "...Now, I shall open the window.\nPlease stand back, everyone."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 22\nPersonality: Level-headed and realistic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "O Heavens, O Earth, O omnipresent spirits of 'that land'...\nGrant the power of mana unto my prayer—!",
+      "choice_data_list": [
+        "(The wind...! Is it dying down—?)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nBuena Vista (Summer Gym Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "(WHOOOOOOSH! RUMBLE-CRASH-BOOM!)"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sound of opening window after walking out\n\nSilence for first 1 second\n---\n★ Request\nRed Desire walks out during second half of line (starts walking toward window)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—It wasn't! After a momentary lull,\na driving sideways rain battered the windows, rattling them violently!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Flat bell chime / comedic sad sound\n---\n★ Request\nRed Desire (Summer Gym Uniform_Drenched Model) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Ah... Aaaahh...! How utterly malevolent!\nNgh... For now, it seems we have no choice but to endure."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nStrained. Notices Buena closing in and digs deep → Heroic. Squeezing out the last ounce of power\n---\n★ Request\nRed Desire looks strained, but regains composure and accelerates",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Waaahhh! Are you okay!?\nYou're completely soaked!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: WHOOSH! (Divine gust of wind)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "What a kind soul you are.\nHowever, I shall be fine."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nGenuine apology\nAge: 1st year high school\nPersonality: Earnest / honest\n---\n★ Request\nShow Red Desire (Summer School Uniform_Drenched Model)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n*Formal speech is deliberate\n---\n★ Request\nCamera slide, Red Desire (Summer Gym Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Cheers for Buena\n---\n★ Request\nFade in from black / After fade in\n---\n★ Request\nBuena Vista (Summer Gym Uniform) runs in smiling.\n→ Walks out while smiling toward off-screen.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nMurmuring dauntlessly. Already recovered.\n---\n★ Request\nRed Desire recovers immediately",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Cheers for Buena\nTragically (actually intoxicated with herself)\n---\n★ Request\nBlack wipe\nShow Red Desire (Summer Gym Uniform)\nSorrowful expression",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sparkle",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nTurn on sparkle effect\n---\n★ Request\nShow Red Desire (Summer Gym Uniform)\nRed Desire holds holy saint staff (prop planned).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nJoyfully",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nAt end of line, Red Desire (Summer Gym Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nTime passes\n---\n★ Request\nShow Red Desire (Summer Gym Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nBrightly, with the feeling of \"I can win! Time to make my move!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Squealing / squeals",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nRed Desire (Summer Gym Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Distant thunder",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nChuunibyou-style\n---\n★ Request\nRed Desire looks up at the sky",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Cheers for Buena",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Waaah! A-Are you alright!?\nYou're completely drenched!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Red Desire",
       "text": "For I am... a saint!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "(Wh-what is with this girl...?)",
+        "(Wh-what is with this girl...?)"
+      ]
     },
     {
-      "name": null,
-      "text": "Magnificent, Buena-san.\nThe wall you present truly knows no height.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—Ever since that encounter,\nRed Desire started catching my eye all around campus."
     },
     {
-      "name": null,
-      "text": "Ngh...! Not yet...! As if this could stop me...!\nHaaaaaaah!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Ah! My shoelace, it snapped...!\nNow I cannot sprint to class. Kh, another trial set before me...!"
     },
     {
-      "name": null,
-      "text": "Could this also be... a trial ordained for a saint...!?\nAaaahhhhh...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl C",
+      "text": "I am so so sorry! My hand slipped while carrying the cleaning water...!\nI had no idea anyone was standing down there..."
     },
     {
-      "name": null,
-      "text": "Still, it's probably that very conviction that drives her to work so hard.\n...What an intriguing girl. I made a mental note to speak with her if the opportunity arose.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Think nothing of it. This, too, is a trial for a saint.\nMere water cannot extinguish these holy crimson flames.",
+      "choice_data_list": [
+        "(She's... definitely something else!!!!)"
+      ]
     },
     {
-      "name": null,
-      "text": "Pay it no mind. This, too, is a trial for a saint.\nMere water cannot quench the holy red flame within me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "A few days later, Red Desire took part in a mock race.\nA wildly popular star prospect had entered as well..."
     },
     {
-      "name": null,
-      "text": "She had charged in with such utter confidence.\nI thought even Red Desire would be crestfallen, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "Let's all have a good race today, okay?\nI'll do my best to make sure it's a great one!"
     },
     {
-      "name": null,
-      "text": "Leave everything to me, the Saint Red Desire...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Her name was Buena Vista. Already regarded as the top favorite\nfor next year's Triple Tiara path, she was the candidate for next \"heroine.\""
     },
     {
-      "name": null,
-      "text": "—Thank you all for celebrating with me!\nAw, shucks, I'm blushing. I still have a long way to go myself, though.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirls",
+      "text": "Well, she's definitely winning. She's on a totally different level.\nShe really has that special aura! Ugh, can I even keep up?",
+      "choice_data_list": [
+        "(Special, huh... Yeah, she really is.)",
+        "(Special, huh... Yeah, she really is.)"
+      ]
     },
     {
-      "name": null,
-      "text": "—I will not lose next time.\nFor I am, after all, a saint.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Buena-san, I am grateful for the chance to test myself against you.\nI, the Saint Red Desire, vow to give you my absolute all...!"
     },
     {
-      "name": null,
-      "text": "Incredible, receiving an award for training theory research despite being a rookie!\nTo think we joined at the same time... Some people really are just special, huh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "Desire-chan!\nThe feeling's mutual. I won't lose either!"
     },
     {
-      "name": null,
-      "text": "...Now, allow me to open the window.\nPlease, everyone, step back.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Indeed...\nI swear that I shall overcome the trial that is you...!",
+      "choice_data_list": [
+        "(She isn't intimidated at all...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Now's the time! Hah...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Does she possess incredible confidence? ...And then, the late stretch.\nRed Desire held a solid position as they entered the final straightaway!"
     },
     {
-      "name": null,
-      "text": "—Yet, victory eluded her.\nThe surrounding area erupted into cheers praising Buena Vista.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Ngh—!\nO destiny, grant me passage like this...!"
     },
     {
-      "name": null,
-      "text": "I'm not standing out at all. My skills are still sorely lacking.\nIn a state like this, taking on a trainee Umamusume would be premature...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "Now's my chance! Hah...!"
     },
     {
-      "name": null,
-      "text": "Well, she's definitely taking first place. She's on a whole different level.\nShe really has that special aura, doesn't she! Ugh, can I even keep up?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Kh...! Not yet...!\nHaaaaahhhhh---!"
     },
     {
-      "name": null,
-      "text": "—It wasn't! After a split second of calm,\na torrential, driving rain slammed in, rattling the windowpane!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Red Desire held on against Buena Vista's staggering late surge.\nHer running demonstrated unmistakable talent, almost divinely inspired—",
+      "choice_data_list": [
+        "(Could she actually take this...!?)"
+      ]
     },
     {
-      "name": null,
-      "text": "(RUMBLE, RUMBLE... CRRRRRAAAASH!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirls",
+      "text": "That's our Buena-chaaan! I knew you'd win!\nYou really are a genius!"
     },
     {
-      "name": null,
-      "text": "Desire-chan!\nRight back at you. I won't lose either.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—Yet, she couldn't pull off the win.\nPraise for Buena Vista echoed across the crowd."
     },
     {
-      "name": null,
-      "text": "Her name is Buena Vista. Already hailed as the heavy favorite\nfor next year's Tiara route, a candidate for the next generation's \"Heroine.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Haah... haah...\nOnce more, I fell just short..."
     },
     {
-      "name": null,
-      "text": "What a gentle soul you are.\nHowever, fear not. I am quite fine.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "She had challenged her with so much confidence.\nOne would expect even Red Desire to feel dejected, but..."
     },
     {
-      "name": null,
-      "text": "That adolescent conviction of believing oneself to be 'special'...\nIt felt somehow nostalgic, giving me a bittersweet tickle inside.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Magnificent, Buena-san.\nThe wall you represent grows endlessly higher, doesn't it?"
     },
     {
-      "name": null,
-      "text": "Yes...\nI swear, I will overcome the trial that is you...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "And yet, I know...\nTrials only present themselves to those capable of overcoming them."
     },
     {
-      "name": null,
-      "text": "Isn't the thunder getting closer? That's so scary!\nEveryone! The instructor says to evacuate to the gym because it's dangerous!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "—I will not lose next time.\nAfter all, I am a saint.",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
-      "name": null,
-      "text": "I'm genuinely happy for my peer's success. There's no lie in that feeling.\n...Yet, deep inside my chest, something quietly aches.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—Even after night fell, I couldn't get the look in her eyes out of my head.\nShe stays undeterred because she's a 'saint,' but...",
+      "choice_data_list": [
+        "I used to have a phase like that too...",
+        "I used to have a phase like that too..."
+      ]
     },
     {
-      "name": null,
-      "text": "—Ah, please do not weep.\nO heavens. What sorrow weighs upon you that you shed such cold tears?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "That adolescent feeling of believing you're 'special'...\nIt brought back a nostalgic, slightly embarrassing warmth."
     },
     {
-      "name": null,
-      "text": "Yet, I know...\nTrials only come to those who are capable of overcoming them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*pant*... *pant*...\nI fell short once again...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ngh—!\nO destiny, please, let it stay like this...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Buena-san, thank you for humoring me with this match.\nI, Saint Red Desire, swear to give it my all...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah! My shoelace snapped...!\nI cannot run to class like this. Ugh, yet another trial...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm so sorry! My hands slipped while carrying water for cleaning...!\nI had no idea anyone was down here...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...After school on the day that happened,\nI found myself lost in thought while watching the Umamusume train diligently.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This thunder is crazy. It's so scary...\nMan, and I really wanted to run outside today~",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Even when night fell, I couldn't get those eyes out of my head.\nShe doesn't seem discouraged because she's \"a saint,\" but still...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A few days later, Red Desire was in a practice race.\nA wildly popular, highly anticipated prospect was also running in it...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(WHOOOOSH! RUMBLE-CRASH!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Does she have immense confidence? ...And as the race neared its end,\nRed Desire entered the final stretch in prime position!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even blades of lightning...!\nFor such things to happen the moment I appear... Ha!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "O heavens, O earth, O omnipresent spirits of \"that land\"...!\nGrant mana's power to my prayer—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Red Desire endures Buena Vista's phenomenal late surge.\nHer running shows unmistakable skill, almost divine in its presence—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah... Aahh...! How wicked!\nNgh... It seems I have no choice but to endure for now.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "For a second, I thought she was talking to me.\nHowever, following her gaze, rain clouds were drifting across the sky...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Everyone, please lift your heads.\nI shall go and calm the heavens with the power of holy prayer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Ever since that day,\nI began noticing Red Desire around campus more and more.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That's our Buena-chan! I knew you'd win!\nYou're a total genius, after all!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thanks for having me today, everyone.\nI'll do my best to make it a great race!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Still, holding onto that belief must be what drives her to work so hard.\n...She's an intriguing girl. If given the chance, I wanted to talk to her."
     }
   ],
   "no_wrap": true

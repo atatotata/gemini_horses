@@ -1,306 +1,140 @@
 {
-  "title": "",
+  "title": "Fluctuating Mind",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\n*SE: Footsteps walking away",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "One day, Biwa Hayahide and I were having a meeting\nto formulate our strategy for the upcoming race."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Self-deprecating mood",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "—Based on these figures, we can deduce that this race will feature\na slightly aggressive early pace. Now, let us review the entered runners once more."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: Teens\r\nPersonality: Gentle and calm\n---\n★ Request\n*SFX: Approaching footsteps",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "As mentioned earlier, runner number four will be key.\nObserve her data over the past three races. Consequently—"
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: School Uniform\r\nDisplay Biwa Hayahide, holding a notebook",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her theories were sophisticated as ever, and I could barely keep up.\nAs I frantically took notes to stay on track..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*From an outsider's perspective",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Classmate A",
+      "text": "Hey, look over there.\nHayahide-san is talking about some crazy complicated stuff."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: Teens\r\nPersonality: Flippant / easygoing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Classmate B",
+      "text": "Whoa, you're right. As expected of the top genius in our grade.\nShe really is incredible... On a totally different level."
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passing effect\n---\n★ Request\n*Hide the notebook",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Classmate A",
+      "text": "I wonder what you even have to do to get that smart.\nJust study like crazy or something?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Torn between wanting to talk and not wanting to, so she plays it off half-heartedly",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Classmate B",
+      "text": "People like her are just built different from birth!\nThere's no way we could ever pull that off~."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Happy to hear it, but hasn't fully accepted it yet",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "...'Incredible,' is it?",
+      "choice_data_list": [
+        "Hayahide?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Lost in thought\n---\n★ Request\nDisplay Biwa Hayahide and Narita Brian (Tracksuit) side by side\n---\n★ Request\nBrian is stretching, unconcerned with Hayahide, looking like she's about to start running. Hayahide is also doing light stretches while casting an envious glance at Brian (it's fine as long as it shows only Hayahide paying attention to Brian)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "No... it is nothing.\nNow then, let us continue our meeting."
     },
     {
-      "name": null,
-      "text": "★ Request\nBiwa Hayahide walks away",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "However, throughout the rest of our discussion,\nBiwa Hayahide occasionally drifted into pensive silence—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Wry smile mood",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "……。"
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: School Uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—and even after leaving the cafeteria, a subtle gloom lingered over her expression.",
+      "choice_data_list": [
+        "...Are you bothered by what our classmates said?"
+      ]
     },
     {
-      "name": null,
-      "text": "Hey, look over there.\r\nHayahide-san is talking about something crazy complicated.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "...Ah. No... You're right, my apologies.\nIt really is nothing of consequence.",
+      "choice_data_list": [
+        "If you're willing, I'd like to hear what's on your mind.",
+        "If you're willing, I'd like to hear what's on your mind."
+      ]
     },
     {
-      "name": null,
-      "text": "...Being described as \"amazing\" feels unnatural to me.\r\nThat word implies something \"extraordinary,\" after all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "……。"
     },
     {
-      "name": null,
-      "text": "Certainly, to an onlooker, proceeding through pure logic\r\nmight seem like quite a formidable task. However...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "...Being described as 'incredible' feels discordant to me.\nThat word inherently implies something extraordinary, does it not?"
     },
     {
-      "name": null,
-      "text": "Biwa Hayahide has honed her own unique weapon through sheer effort.\r\nI told her there's no doubt that makes her truly incredible.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Certainly, to an outside observer, approaching everything through rigorous logic\nmight appear to be an arduous, complex feat. But..."
     },
     {
-      "name": null,
-      "text": "I mentioned earlier that number 4 is our key rival,\r\nbut please refer to her data over the past three races. In other words—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Being utterly ordinary, arming myself with theory was the only path available to me.\nOtherwise, I wouldn't have even managed to enroll in this academy."
     },
     {
-      "name": null,
-      "text": "Indeed. I will polish this weapon even further, and with you,\r\nI will overcome this fierce competition. My resolve remains unchanged.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Thus, originally, the word \"amazing\" ought to be reserved\nfor those horsegirls blessed with innate, natural genius."
     },
     {
-      "name": null,
-      "text": "Yet throughout the rest of the meeting,\r\nBiwa Hayahide would occasionally appear lost in thought—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was likely picturing her younger sister—\nthe \"Monster,\" Narita Brian."
     },
     {
-      "name": null,
-      "text": "Whoa, you're right. She really is one of the top geniuses in our year.\r\nShe's so amazing... She's on a completely whole 'nother level.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Having such a legendary sister may have left her harboring complex feelings\nthat outsiders could never truly grasp. Even so—",
+      "choice_data_list": [
+        "Your theories are an \"amazing\" weapon!",
+        "Your theories are an \"amazing\" weapon!"
+      ]
     },
     {
-      "name": null,
-      "text": "Her theories were as sophisticated as ever, and I could barely keep up.\r\nAs I frantically took notes so as not to fall behind...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Biwa Hayahide has honed a weapon unique to herself through sheer, relentless effort.\nI told her there was no doubt in my mind that she was truly magnificent."
     },
     {
-      "name": null,
-      "text": "...Thank you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Thank you."
     },
     {
-      "name": null,
-      "text": "No... never mind.\r\nNow, let us continue our meeting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Indeed. I will polish this weapon even further and navigate\nthese fierce battles by your side. That resolve remains unshakable."
     },
     {
-      "name": null,
-      "text": "Therefore, the word \"amazing\" ought to be reserved\r\nfor an Umamusume blessed with natural, innate genius.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Yet, Trainer… it is also my honest feeling\nthat I simply wished to be superior, as an older sister."
     },
     {
-      "name": null,
-      "text": "...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "To yearn for raw potential—something that no amount of effort\ncan ever alter—even I find myself utterly appalled by such folly."
     },
     {
-      "name": null,
-      "text": "Formulas must be verified swiftly. Otherwise,\r\nshould there be an error, our recovery would be delayed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As Biwa Hayahide gazed into the distance, a faint trace of insecurity was visible in her eyes.\nEven as calm and composed as she always is, she has her vulnerable side."
     },
     {
-      "name": null,
-      "text": "One day, during a strategy meeting\r\nwith Biwa Hayahide for her next race...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "No, pay me no mind; that was foolish talk. Moving on… it isn't on the schedule,\nbut I'd like to get in some training based on our earlier meeting."
     },
     {
-      "name": null,
-      "text": "An ordinary girl like me simply had no other choice but to arm myself with logic.\r\nWithout it, I wouldn't have even been admitted to this academy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Formulas require swift verification. If we delay,\nit will only take longer to correct any underlying errors."
     },
     {
-      "name": null,
-      "text": "—Even after leaving the cafeteria, a shadow of gloom lingered on her face.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Watching Biwa Hayahide walk ahead as if driven by some unseen pressure,\r\nI found myself wondering how I could help her find true confidence.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Having such a prodigy for a younger sister might give her complex feelings\r\nthat no outsider could ever understand. But—even so.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Based on the figures above, we can anticipate this race will tilt\r\ntoward a front-running pace. Now, let us review the opposing runners once more.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Most likely, she was thinking of\r\nher sister—the \"Monster,\" Narita Brian.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "To yearn for raw talent, something beyond the reach\r\nof effort... even I find myself exasperated by such foolishness.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What do you even do to get that smart?\r\nDo I just need to study non-stop or something?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No, forgive my pointless rambling. After this... though it isn't on the schedule,\r\nI would like to conduct some training based on our meeting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "People like her are just built different from the start!\r\nThere's no way we could ever pull that off~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...\"Amazing,\" is it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...! No... you are right, my apologies.\r\nIt's nothing of real consequence.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Looking at Biwa Hayahide gazing into the distance, a fleeting lack of confidence\r\nwas unmistakable. Even she, ever so composed, had her vulnerable moments.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still, Trainer... I must confess,\r\nas an older sister... I simply wished to be superior.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Watching Biwa Hayahide hurry ahead as if driven by something unseen,\nI was left pondering how I could help her find true confidence in herself."
     }
   ],
   "no_wrap": true

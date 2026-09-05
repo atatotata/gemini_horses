@@ -1,600 +1,289 @@
 {
-  "title": "",
+  "title": "Con fuoco",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nÉtude = Study piece / Practice piece",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Sounds of Earth needs the explosive power to decide a race right at the wire.\nTo that end, I assigned her a rather grueling regimen for this training camp."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFantastico = Fantastic / Wonderful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "<i>*pant*</i>, <i>*pant*</i>, <i>*gasp*</i>...\n—Phew. Does that conclude today's training?",
+      "choice_data_list": [
+        "Great work! Let's keep up this momentum!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Terrible violin noise",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "<i>Sì, certo!</i>\nYou told me that completing this menu would lead to my growth, didn't you?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nBellissima = Beautiful / Gorgeous\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Then I shall face every single étude with all my heart.\nFor I believe in your baton!"
     },
     {
-      "name": null,
-      "text": "★ Request\nDo not display character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Besides... it seems you've brought a challenge of your own\nto this training camp as well.",
+      "choice_data_list": [
+        "Huh?!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Sound of fireworks going off\n---\n★ Request\nText shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Fufu. I must do my best so as not to be outdone\nby your passionate <i>fiamma</i>."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nGrazie mille = A thousand thanks",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "During a brief moment of free time before lights out,\nI came down to the beach alone, violin in hand."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSpettatore = Spectator / Audience",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "To understand Sounds of Earth more deeply, I took up\nthe very first instrument she ever touched, but—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nImpetuoso = Impetuous / Fierce, passionate",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(<i>*screeech*</i>... <i>*skreeeech*</i>...)",
+      "choice_data_list": [
+        "I'm not getting any better at all..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSì, certo = Yes, of course",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "There was another reason I kept practicing the violin.\nI wanted to express my appreciation for her enduring this hard training camp."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Fireworks launching\n\nFiore = Flower",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Not with words, but with music.\nI knew that would bring her the greatest joy."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nDirettrice = Conductor (female)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(<i>*screeech*</i>... <i>*skreeeech*</i>...)",
+      "choice_data_list": [
+        "I have to get better before the last day...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric Wipe\n---\n★ Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Our <i>impetuoso</i> training camp comes to an end today, does it...\nOh, a message?"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Sounds of Earth (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "From Trainer, is it?\nAn \"invitation,\" hmm—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nBenissimo = Very good",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As I took deep breaths to calm my nerves,\nSounds of Earth approached me."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nDirettore = Conductor (male)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Greetings, <i>amore!</i>\nI thought all our scheduled training finished this afternoon, but—",
+      "choice_data_list": [
+        "Welcome to the concert!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Sounds of Earth (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "I see. So the \"invitation\" I received\nwas from you and that violin, was it?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nConcerto = Concert / Concerto",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I nodded and raised the violin into position."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nBene = Good",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I couldn't produce exquisite tones like she did.\nEven so—I could at least express my feelings.",
+      "choice_data_list": [
+        "I want to reward all your hard work with everything I've got!",
+        "I want to reward all your hard work with everything I've got!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Sounds of Earth (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "（～～♪）"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Violin playing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The regimen I gave Sounds of Earth at this camp\nwould have made ordinary horsegirls throw in the towel."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nEmozioni = Feelings / Emotions",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Yet she followed through to the very end without a single complaint.\nPlacing her absolute trust in me all the while."
     },
     {
-      "name": null,
-      "text": "★ Request\nPan Wipe\t\n---\n★ Request\nSounds of Earth (Summer Tracksuit) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It might take a little more time, but I swear I'll become a conductor worthy of her.\nAnd someday—",
+      "choice_data_list": [
+        "(I'll send you to the greatest stage of all!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSì, certo = Yes, of course",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It might take a little more time, but I swear I'll become a conductor worthy of her.\nAnd someday—",
+      "choice_data_list": [
+        "(I'll send you to the greatest stage of all!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Awful violin playing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "…………。",
+      "choice_data_list": [
+        "Th-Thank you very much for listening."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nEsecutore = Performer / Musician",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Ahhh..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFiamme = Passion / Flames",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "<i>Bene. ...Molto bene...!</i>\nWhat a truly passionate performance...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nWhisper\nMolto bene = Wonderful / Very good\n1 sec silence at start\n---\n★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "How dazzling each and every note played was!\nIt has been etched deep and clear into my heart! <i>Benissimo!!</i>",
+      "choice_data_list": [
+        "Phew... I'm honored you enjoyed it."
+      ]
     },
     {
-      "name": null,
-      "text": "My amico is a wonderful esecutore!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Thank you for such a magnificent concerto!\nI relished your beautiful <i>musica</i> from the bottom of my heart."
     },
     {
-      "name": null,
-      "text": "How dazzling each and every note you played was!\nThey're etched deep into my heart! Benissimo!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "One must not merely pursue technical perfection.\nThe most vital element of a performance is passionate <i>emozione!</i>"
     },
     {
-      "name": null,
-      "text": "Earth also seemed to be having more fun than usual.\n...Somehow, that's what I felt resonating from her melodies.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "My <i>amico</i> is truly a wonderful <i>esecutore!</i>",
+      "choice_data_list": [
+        "I know it was pretty clumsy, but... thank you."
+      ]
     },
     {
-      "name": null,
-      "text": "Grazie mille!\nLet us revel in this session together!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "My <i>amica</i> is truly a wonderful <i>esecutore!</i>",
+      "choice_data_list": [
+        "I know it was pretty clumsy, but... thank you."
+      ]
     },
     {
-      "name": null,
-      "text": "...Molto bene.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "No player is skillful from the very start.\nEven I was no different from you at first."
     },
     {
-      "name": null,
-      "text": "I see. So that \"invitation\" was sent\nby you and your violin, wasn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Yet that doesn't matter in the least.\nMy mother and everyone in the orchestra taught me as much."
     },
     {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "It happened in my childhood, the very first time I played the violin in public.\nIt was my way of thanking them for always treating me to their <i>bellissima</i> music."
     },
     {
-      "name": null,
-      "text": "Besides... it seemed you approached this\ntraining camp with your own goals in mind as well.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Technically, it was quite unrefined. Yet I desperately poured myself into every single note.\nFor that was all I could do back then."
     },
     {
-      "name": null,
-      "text": "Fantastico! Then these fireworks are none other than\napplause gifted by the summer to your musica!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "And then, I felt my fingers gradually grow lighter.\nYes... my heart transformed into sound and reached my mother and the others."
     },
     {
-      "name": null,
-      "text": "(Screeech... skrrrt...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "When the piece ended, a shower of applause greeted me.\nI shall never forget that sight as long as I live."
     },
     {
-      "name": null,
-      "text": "Sounds of Earth needed that decisive burst of speed right before the goal line.\nSo for this training camp, I had assigned her a rather grueling regimen.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "And so, once more, to you—a truly splendid <i>esecutore</i>—\nallow me to offer my unsparing praise!!"
     },
     {
-      "name": null,
-      "text": "It was unpolished technically, but I played each note with all my heart.\nAfter all, that was the only thing I could do.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "<i>Braviiiiiissimo!!!!</i>"
     },
     {
-      "name": null,
-      "text": "*pant* *pant* *pant*...\n—Phew. I suppose that's all for today's training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Oh, my!? Fireworks?! Is this a surprise as well?\nYou truly are a romantic director, aren't you!",
+      "choice_data_list": [
+        "No way! That was pure coincidence!"
+      ]
     },
     {
-      "name": null,
-      "text": "But none of that matters.\nThat is what my mother and everyone in l'orchestra taught me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "<i>Fantastico!</i> In that case, these fireworks are summer's\nvery own applause for your <i>musica!</i>"
     },
     {
-      "name": null,
-      "text": "If you don't mind, won't you grant a request\nfrom your one and only spettatore?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "By the way, <i>amore</i>.\nMust this concerto reach its finale after only one piece?"
     },
     {
-      "name": null,
-      "text": "Please, let me join you on stage.\nI want to weave musica alongside you to the cadence of the fireworks!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "If you don't mind, would you humor a request\nfrom your sole <i>spettatore?</i>",
+      "choice_data_list": [
+        "Sure. What is it?"
+      ]
     },
     {
-      "name": null,
-      "text": "That performance will surely become—\nthe most beautiful session on this entire planet!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Please allow me to take the stage as well.\nI wish to play <i>musica</i> together, in harmony with the sound of the fireworks!",
+      "choice_data_list": [
+        "Of course, be my guest!"
+      ]
     },
     {
-      "name": null,
-      "text": "My amica is a wonderful esecutore!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "<i>Grazie mille!</i>\nLet us revel in this session!"
     },
     {
-      "name": null,
-      "text": "So allow me once more to shower you,\nsuch a wonderful esecutore, with my boundless praise!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I played a piece I could hardly claim to have mastered.\nTo avoid making mistakes on difficult sections, I naturally slowed down.",
+      "choice_data_list": [
+        "(Wait, is Earth... matching my tempo?)"
+      ]
     },
     {
-      "name": null,
-      "text": "Ah, amore! All our training should have\nconcluded by noon today, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The duet of our violins, joined by the melody of fireworks as an arrangement,\nmade the piece sound infinitely better than my solo ever did!",
+      "choice_data_list": [
+        "(Playing together is so much fun.)"
+      ]
     },
     {
-      "name": null,
-      "text": "Then I have only to face every étude with all my might.\nFor I believe in your direction completely!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Earth seemed to be enjoying herself even more than usual.\n—Somehow, that was what her melody seemed to tell me."
     },
     {
-      "name": null,
-      "text": "Fufu. So as not to be outdone by your fiamme,\nI shall do my very best as well.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "There is still so much I don't know about Sounds of Earth."
     },
     {
-      "name": null,
-      "text": "No musician plays brilliantly right from the start.\nEven I was no different from you once.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even so, I realized I could bring a smile to her face through music.\nIt was a massive step forward, one too joyful for mere words to convey."
     },
     {
-      "name": null,
-      "text": "Ah...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "...<i>Molto bene.</i>"
     },
     {
-      "name": null,
-      "text": "I nod and ready my violin.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Sounds of Earth's lips seemed to move ever so slightly—\nbut her voice was drowned out by the fireworks and our playing."
     },
     {
-      "name": null,
-      "text": "The violin duet, interwoven with the melodies of fireworks,\nturned into a piece far more breathtaking than a solo ever could be!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "Thank you for staging such a delightful concerto.\nYou made this a truly magnificent evening.",
+      "choice_data_list": [
+        "You're welcome! Hey, Earth—"
+      ]
     },
     {
-      "name": null,
-      "text": "...! Sì, certo!\nAh, I am already looking forward to it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "When we come to understand each other even more... along with the music we play,\nI want to perform a violin duet with you again—that is what I told her."
     },
     {
-      "name": null,
-      "text": "Bene... Molto bene...!\nWhat a passionate performance...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "...! <i>Sì, certo!</i>\nAh, I can hardly wait!"
     },
     {
-      "name": null,
-      "text": "Yet she kept up right to the very end without showing even a trace of strain.\nAnd with complete, unwavering trust in me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Not through words, but through music.\nBecause surely, that is what would bring her the greatest joy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The regimen I assigned to Sounds of Earth for this camp\nwould have made an average Umamusume throw in the towel.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I can't produce exquisite tones like she does.\nEven so—I should at least be able to convey my feelings.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I told her that once we understand each other more...\nunderstand the music each of us plays, I'd love to perform a violin duet with her again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "In order to deeply understand Sounds of Earth,\nI picked up the very instrument she had first played, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wait, oh!? Fireworks!? Is this a surprise too?\nYou truly are a director of exquisite romance!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "There is still so much I have yet to learn about Sounds of Earth.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "From the Trainer? An \"invitation,\" hmm...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One must not simply chase after technique.\nThe most vital element of a performance is passionate emozioni!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thank you for such a wonderful concerto!\nI savored your beautiful musica from the bottom of my heart.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still, I learned that I could make her smile through music.\nIt was a huge step forward that words alone could never fully capture.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And then, you see, my fingers began to feel lighter and lighter.\nYes... My heart transformed into sound, reaching my mother and everyone.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sì, certo!\nYou did tell me that completing this menu would lead to growth, did you not?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I play a piece I could hardly call my specialty.\nI slow down at the difficult passages just so I won't make a mistake.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "With a brief moment of free time before lights out,\nI came down to the beach alone, violin in hand.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(~~♪)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Braviiiiisssimo!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Screeech... skrrrt...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It might take a little more time,\nbut I'll definitely become a conductor worthy of her. And someday—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It might take a little more time,\nbut I'll definitely become a conductor worthy of her. And someday—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It looked as though Sounds of Earth's lips moved faintly—\nbut drowned out by the fireworks and music, her voice didn't reach me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "There's another reason I've been practicing the violin like this.\nI wanted to reward her for pushing through such a hard training camp.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "By the way, amore.\nIs the concerto already reaching its finale after just one song?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It happened when I was young, playing the violin in front of people for the very first time.\nAs a token of thanks to those who always played such bellissima music for me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "When I finished playing, I received a tremendous round of applause.\nThat sight is something I will never forget for the rest of my life.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As I took deep breaths to calm my nerves,\nSounds of Earth came walking over.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Our impetuoso training camp comes to an end today, does it...\nOh? An email?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thank you for arranging such a lovely concerto.\nThanks to you, it has become a wonderful night.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sounds of Earth",
+      "text": "That performance will surely be—\nthe most beautiful session on this entire planet!"
     }
   ],
   "no_wrap": true

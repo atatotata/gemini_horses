@@ -1,390 +1,199 @@
 {
-  "title": "",
+  "title": "Tremor",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 3rd year middle school\nPersonality: Crisp and articulate",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days had passed since I watched Narita Brian's race.\nI tried approaching her multiple times, but—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Sound of a body crashing into metal",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "I have nothing to say."
     },
     {
-      "name": null,
-      "text": "★ Request\nCostume: School uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "You're persistent."
     },
     {
-      "name": null,
-      "text": "★ Request\nCostume: Gym uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "……。"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Ambulance siren",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "…………。",
+      "choice_data_list": [
+        "I can't believe she won't even give me a conversation!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrembling voice filled with frustration and feeling pathetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Whoa, that person's back again. Talk about guts."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 3rd year middle school\nPersonality: Laid-back",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "Aren't they the most stubborn Trainer so far?\nShe'll just turn them down anyway, though. Just like after that debut match—",
+      "choice_data_list": [
+        "(...A Debut Match, huh?)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nCostume: Both in gym uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I'd heard about it before. She ran in a Debut Match—the stage where\nhorsegirls are scouted—yet completely refused to entertain any offers."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Some even said the moment anyone brought up making a debut, she walked away.\n...Could the answer to what troubles her lie there?"
     },
     {
-      "name": null,
-      "text": "★ Request\nCostume: School uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days later, word reached me that Narita Brian was racing again.\nI hurried over to the track, only to find..."
     },
     {
-      "name": null,
-      "text": "(Running, chasing... running more, chasing further...\nThe more fulfilled my heart felt, the more it craved \"what was next.\")",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "...Doryaaaaah!!!!"
     },
     {
-      "name": null,
-      "text": "Wha...?! ",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "...!"
     },
     {
-      "name": null,
-      "text": "...It just leaves me completely unfulfilled.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Hishi Ama-san's drive is on a whole other level today...!"
     },
     {
-      "name": null,
-      "text": "(*wee-woo... wee-woo...*)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "I heard Hishi Ama-san was the one who challenged her to this match!\nNo wonder she's so fired—wait! Hishi Ama-san's making her move!!"
     },
     {
-      "name": null,
-      "text": "...Yeah!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "I'm gonna... take you down!!\nOryaaaaaaa!!!"
     },
     {
-      "name": null,
-      "text": "I don't want to see the light go out right before my eyes anymore.\nAnd snuffing it out myself... is the last thing I want to do.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": ".........\n...Hmph...!!"
     },
     {
-      "name": null,
-      "text": "(—Yes. Ever since that day.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "Wh-What... !?"
     },
     {
-      "name": null,
-      "text": "I'm gonna win next time!\nSo, one more—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "Gh............ Daaammiiit!!\nUwoooooooooooh!!!!"
     },
     {
-      "name": null,
-      "text": "...Kh!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "*pant*... *gasp*...!\n...Damn it!!"
     },
     {
-      "name": null,
-      "text": "...Kh!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "……。"
     },
     {
-      "name": null,
-      "text": "Word is Hishi Ama-san was the one who challenged her to this race!\nNo way she'd lose—ah! Hishi Ama-san made her move!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "Hold it right there!"
     },
     {
-      "name": null,
-      "text": "...Big sis? Open your eyes.\nBig sis! Big sis!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "...Where do you think you're going? We're not done yet.\nThis one-on-one showdown I challenged you to is best two out of three."
     },
     {
-      "name": null,
-      "text": "I had heard the stories. That she ran in the Debut Selection Race,\nthe proving ground to scout horse girls, yet refused every single offer...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "I'm definitely taking the next one!\nSo, one more time—"
     },
     {
-      "name": null,
-      "text": "Some even said the moment anyone brought up debuting, she walked away immediately.\n...Could the answer to what burdens her lie there?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "...The outcome is already settled. You know as well as I do\nthat no matter how many times we run, the result won't change."
     },
     {
-      "name": null,
-      "text": "A few days had passed since I witnessed Narita Brian's race.\nI tried approaching her multiple times, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "...Kh!"
     },
     {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "I have no desire to watch that spark die before my eyes anymore.\nAnd I have even less interest... in putting it out myself."
     },
     {
-      "name": null,
-      "text": "Whoa, that person's here again. Talk about persistence.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "......Damn it...! I know that already...!!\nI know full well I can't beat you as I am right now...!"
     },
     {
-      "name": null,
-      "text": "Seriously persistent.\nDon't pay any more attention to them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Amazon",
+      "text": "...But as if I'd give up after losing just once...!\nDon't go acting like you know everything about me...!"
     },
     {
-      "name": null,
-      "text": "Ugh... my bad, Brian.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "……。",
+      "choice_data_list": [
+        "...I'm sure she'll challenge you again.",
+        "...I know she'll come back to challenge you."
+      ]
     },
     {
-      "name": null,
-      "text": "(Back then, my sister's back was always ahead of me, refusing to let anyone pass.\nI chased it with everything I had. Because nothing brought me greater joy.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "...You again."
     },
     {
-      "name": null,
-      "text": "...The outcome is already decided. You know that no matter how\nmany times we run, the result won't change, don't you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "You really don't know when to quit.\nLeave me alone.",
+      "choice_data_list": [
+        "Hold on...!"
+      ]
     },
     {
-      "name": null,
-      "text": "............\n...Hmph...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "Then let me make it plain. Her kind might act tough for a moment,\nbut their fighting spirit has already gone cold."
     },
     {
-      "name": null,
-      "text": "—Come on! Brian!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "I've seen dozens just like her.\nRacing against them is a complete waste of time."
     },
     {
-      "name": null,
-      "text": "...Like hell I'm giving up just 'cause I lost once...!\nDon't you go acting like... you know everything about me...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "...It satisfies nothing."
     },
     {
-      "name": null,
-      "text": "...Where do you think you're going? This showdown isn't over yet.\nThis duel I challenged you to is best two out of three.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "(—That's right. Ever since that day,)"
     },
     {
-      "name": null,
-      "text": "Then I'll spell it out. People like that\nput on a tough front once, but their fighting spirit has already gone stone cold.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "(...I've been parched.)"
     },
     {
-      "name": null,
-      "text": "Hold it right there!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Hayahide",
+      "text": "—Come on, Brian!!"
     },
     {
-      "name": null,
-      "text": "I've seen dozens just like them.\nRacing against people like that is a waste of time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Brian",
+      "text": "...Okay!"
     },
     {
-      "name": null,
-      "text": "Khhh...... Daaamn it allllll!!\r\nUwoooooooooooooooooh!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "(Back then, all I ever saw ahead was my sister's back, refusing to let anyone pass.\nI chased after her relentlessly. Because nothing was more fun than that.)"
     },
     {
-      "name": null,
-      "text": "Isn't that Trainer the most persistent one yet?\r\nShe'll probably just turn them down anyway, though. Just like after that debut exhibition race—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "(Running, chasing... running further, chasing harder...\nThe more my heart was satisfied, the more it craved the \"next\" thing.)"
     },
     {
-      "name": null,
-      "text": "......Dammit...! I know, alright...!!\r\nI know I can't beat you right now...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narita Brian",
+      "text": "(—And then, that day came.)"
     },
     {
-      "name": null,
-      "text": "...What about you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(CRASH——!!)"
     },
     {
-      "name": null,
-      "text": "(—And so, that day came.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Brian",
+      "text": "...Sis? Open your eyes.\nSis! Sis!!"
     },
     {
-      "name": null,
-      "text": "(...I'm still parched.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Hayahide",
+      "text": "Ugh... I'm sorry, Brian."
     },
     {
-      "name": null,
-      "text": "Haa... haa...! \r\n...Khh!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You're persistent.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "............",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hishiama-san's spirit is on another level today...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I have nothing to say.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(CRASHHHH!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Draaaagh!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I will... beat you!!\r\nUraaaagh!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A few days later. I heard that Narita Brian was racing again.\r\nI rushed over to the track...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(Wee-woo... wee-woo...)"
     }
   ],
   "no_wrap": true

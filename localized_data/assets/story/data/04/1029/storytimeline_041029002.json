@@ -1,509 +1,241 @@
 {
-  "title": "",
+  "title": "It Ain't That Easy",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Running footsteps",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days after helping that simple, rustic student in town—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFocus on cuteness",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I came to check out the open practice session for pre-debut students.\nSupposedly, the rumored \"top prospect\" from Morioka would be running today...",
+      "choice_data_list": [
+        "(Whoa, what a crowd...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nYukino Bijin runs off-screen on the 2nd line of dialogue",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Spectators",
+      "text": "...Ready, set, Yukino Bijin-chan~!!\nLook over here~~~!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 1st year Middle School\nPersonality: Reliable/Sensible",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "Hawawa...?! H-Hello, everyone~~...",
+      "choice_data_list": [
+        "(That girl... is from the other day!?)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nTime passes.\nCharacter hidden",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "Ahaha... this is kinda embarrassin'.\n—Alright, time for running to sta—WHOA?!"
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nFade in from black\nShow Yukino Bijin\nOutfit: Summer Tracksuit (Dirty)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino's Fan A",
+      "text": "Eek, Yukino-chan?! Jeez~! Such a klutz~~!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nWry smile",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "Oh gosh... I-I'm alright, don't worry!\nI only ever ran on dirt back in Morioka, so I gotta get used to turf...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFlustered/bewildered\n---\n★ Direction Request\nShow Yukino Bijin\nOutfit: Summer Tracksuit\nBow to the audience with an embarrassed & troubled smile",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino's Fan B",
+      "text": "Aww, she's so earnest and cute! A true \"rustic beauty\"~~!\nI can't wait for her debut! Do your best~~!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nThigh = Momo\n---\n★ Direction Request\nShow Yukino Bijin\nOutfit: Summer Tracksuit (Dirty)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Reporter A",
+      "text": "She's got great charm! A bit unpolished, but that's what makes her good!\nInstant likability! She's gonna liven up the Twinkle Series for sure.",
+      "choice_data_list": [
+        "(I guess this is part of the \"regional boom\"...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNo malice intended, feeling more concerned. Doesn't think promoting as an idol is bad.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Over the past few years, regional Umamusume had been drawing massive attention,\nkicked off by Oguri Cap from Kasamatsu and Inari One from Ohi."
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nHide characters\nSFX: Murmuring / Commotion",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Amidst this, Yukino Bijin, hailing from a cold, rural village in Morioka,\nseemed to carry immense expectations as the next big star...",
+      "choice_data_list": [
+        "(Aren't they treating her a bit too much like an idol, though...?)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFeeling: (Why are they helping me this much?)\n",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "—Alright, that wraps up today's session. To finish, let's have everyone\nstate their challenges and goals from today one by one. Going clockwise—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nShout\n---\n★ Direction Request\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Umamusume A",
+      "text": "Yes! I ran out of steam in the second half, so stamina is my main issue.\nI think I'll try incorporating swimming into my training!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 2nd year Middle School\nPersonality: Natural, down-to-earth type.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Umamusume B",
+      "text": "Um... my positioning was pretty bad, so probably that~...?\nI want to work on reading the whole pack better!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nYurugune -> tough, painful, exhausting.\n---\n★ Direction Request\nSmall text on next tap.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "Hrrrngh, mmngh... Ah! I-Is it my turn already?!\nU-Um, for me... I wanna get way, way stronger, and...!"
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nOutfit: SF Outfit\nYukino Bijin walks in and moves to the center.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "I wanna become a super sparkling \"City Girl\"!"
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nTransition wipe\nShow Yukino Bijin\nOutfit: Summer Tracksuit (Dirty)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Everyone",
+      "text": "A-A city girl...?"
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nOutfit: Racewear for both\nShow Oguri Cap and Inari One",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "...! U-Um, well, you see...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nDoting/fond tone\n---\n★ Direction Request\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "Hahaha! Love the enthusiasm!\nStill, training comes first, so make sure you don't slack off on that."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Running footsteps\n---\n★ Direction Request\nWipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "Huh? Ah... I didn't mean it like that...!\nI'll work hard at practice too, of course! But, well... a \"City Girl\" means..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNantara = \"Well, I never!\" / \"Good grief!\" *Exclaimed first when amazed or dumbfounded.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Umamusume B",
+      "text": "Well, with that much attention on you, you'd better back it up with real skill, right?\nHonestly, it must be rough. Idol types get torn apart so easily..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 30s\nPersonality: Straightforward, not overly cheerful.\n---\n★ Direction Request\nSFX: Pen scratching/writing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "............"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFirst 1 sec silent",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Yukino Bijin",
+      "text": "I... I guess you're right. Ahaha...",
+      "choice_data_list": [
+        "…………"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Direction Request\nYukino Bijin walks in. Starts running on \"Alright!\" and exits off-screen.\nOutfit: Summer Tracksuit\nSmall text on next tap",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Later that night, as I happened to pass by the dorm on an errand..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 40s\nPersonality: Gentle/calm\n---\n★ Direction Request\nOutfit: Summer Tracksuit\nShow Yukino Bijin",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Th-That's true. Ahaha...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Umm... I'm not good at positioning, so maybe that~...?\nI wanna get better at grasping the whole picture!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh dear, is that so? I'm sorry for makin' you worry.\nBut I'll be back before curfew, so don't you worry...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh? But... are you sure, really?!\nIt's gettin' late, I'd hate to be a bother...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I see, efficiency, huh...!\nThat sounds awful \"stylish\" and real neat...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Like this, I'll never become a real \"city girl\"...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wh-Well I never...! You mean... my running?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No...! Gotta focus right now!\nAlright, yaaaah—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hmm, mmm... Ah! I-It's my turn, right?!\nUmm, as for me... anyway, I wanna get stronger and stronger, and...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hahaha! I love that enthusiasm!\nTraining is essential too, though, so don't slack off on that, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It seemed to place a huge strain on her with questionable benefit...\nI told her that a more efficient method that wouldn't harm her body would be better.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yukino Bijin began running back and forth up a steep mountain slope.\nAnd with massive weights strapped to her ankles, no less...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A few days after helping that simple, pure-hearted student in town—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ready, set: Yukino Bijin-chan—!!\nLook over heeeere~~~!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yaaaaaaaahhhhh—!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Through the pitch-black, unlit night forest,\nher earnest footsteps echoed aloud...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Was she heading to the track for extra training?\nCurfew was approaching, though... Worried, I decided to follow her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Guh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...! W-Well, you see...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Still, why is this person helpin' me this much...?)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well, with so much attention on you, you really gotta back it up with skill, y'know?\nNo joke, it's gotta be tough. The idol types get bashed so easily...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The reason people only see me as an idol is 'cause I'm still soft!\nIf my running can't fire everyone up... there's nothin' sparkly about it at all!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I wanna become a sparkling \"city girl\"!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh gosh... I-I'm fine, really!\nBack in Morioka, I only ran on dirt, so I gotta get used to turf too...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahaha... It's kinda embarrassing, honestly.\n—Whoops, it's almost time to start runnin—whoa!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Eek, Yukino-chan?! Jeez~! Such a klutz~~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Next up is tire pulling! Well then, excuse me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Aww, she's so earnest and cute! What a real \"pretty girl\"~~!\nCan't wait for her debut! Hang in there, go get 'em~~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If that's the case, then by all means!\nI've still got a long way to go, but... I'll be in your care!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Amidst all this, Yukino Bijin, having arrived from a cold rural village in Morioka,\nseemed to carry immense expectations as the next star Umamusume...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh, ah... That's not what I meant...! \nOf course I take practice seriously, it's just, um... that \"city girl\" thing is...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes! I run out of steam in the second half, so I think stamina's my main issue.\nI'm gonna try adding swimming training to my routine!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "C-City girl...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She's such a great character~! A bit unrefined, but that's what makes her so charming!\nSuper likable! Looks like she's really gonna liven up the Twinkle Series.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It ain't gonna be easy... but I won't give up...!\nI'm definitely, definitely gonna become a sparkling \"city girl\"...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hawawa...?! Th-Thank ya kindly~~...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—*Pant*, *pant*! Let's do this!\nI'm gonna become... a \"city girl\"...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Jaja?! You're... the Trainer from the other day?\nWh-What're ya doing here...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The one least satisfied with all this was the girl herself.\nFinding herself wildly popular before she'd even proven her actual skill...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hmph, hmph...! Wow, I can really feel this working my thighs!\nFeels like I'm gonna have some mighty fine sore muscles tomorrow...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I went to check out an open practice session for pre-debut students.\nWord was that the much-talked-about \"big-name rookie\" from Morioka would be participating today...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Over the past few years, kicked off by Oguri Cap coming to the URA from Kasamatsu and Inari One from Oi,\n\"regional Umamusume\" had been garnering massive attention.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yukino Bijin kept running without a single break.\nIn her powerful stride, I could sense tremendous grit—a sheer, unyielding tenacity...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—*Pant*, *gasp*, *pant*...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—All right, that wraps things up for today. To finish up, let's have everyone share\nthe areas for improvement or goals they noticed today, one by one. Starting clockwise—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That night, as I happened to pass by the dorms on an errand...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Yukino Bijin",
       "text": "Phew... All right!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "(Huh? Where is she going at this hour...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Is she going to do some extra training on the track?\nCurfew was approaching, so I decided to follow her out of concern."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "—*Hah*, *hah*, *hah*...!",
+      "choice_data_list": [
+        "（……！）"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Yukino Bijin had begun sprinting up and down a steep mountain path.\nWhat's more, she was wearing massive weights on her ankles...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "It's tough... but I ain't giving up...!\nI'm gonna become a sparklin' \"City Girl\", no matter what...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Being treated like just an idol's 'cause I'm still soft, ain't it?!\nIf I can't fire folks up with my running... that ain't sparklin' at all!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Like this, I'll never become a real \"City Girl\"...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "*Yaaaaaaaahhh*—!!",
+      "choice_data_list": [
+        "(I see...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She was the one least satisfied with herself.\nBeing popular without having proven her true strength yet..."
+    },
+    {
+      "name": "Narrator",
+      "text": "Yukino Bijin continued to run without resting.\nIn her powerful strides, I felt an astonishing grit and tenacity...",
+      "choice_data_list": [
+        "U-Um, excuse me—!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Wha—?! Are you... the Trainer from earlier?\nWh-What're you doing out here...?!",
+      "choice_data_list": [
+        "I saw you heading out and got worried..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh dear, is that so? I'm sorry for making you worry.\nDon't fret though, I'll be back before curfew...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Next up, I gotta pull tires! Well then, excuse me!",
+      "choice_data_list": [
+        "Pulling tires on a mountain trail like this..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed like it was just adding strain with doubtful results...\nI told her it would be better to use a more efficient method that wouldn't wreck her body."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I see, efficient, huh...!\nThat sounds mighty \"stylish\" and nice...!",
+      "choice_data_list": [
+        "Mind if I give you some advice right now?",
+        "Mind if I give you some advice right now?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh? But... really, are you sure?!\nIt's getting late, I'd hate to be a bother...",
+      "choice_data_list": [
+        "I'm interested in how you run.",
+        "I'm interested in how you run."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Wh-What in the world...?! You're interested... in my running?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Well, if you say so, by all means!\nI've still got a long way to go... but I'm in your hands!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "—*Hah*, *hah*! Let's do this!\nI'm gonna be a real \"City Girl\"...!",
+      "choice_data_list": [
+        "Keep it up!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "*Hmph*, *hmph*...! Whoa, I can really feel this in my thighs!\nFeels like I'll have some good soreness tomorrow, sure enough...!",
+      "choice_data_list": [
+        "One last rep—!!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Still, why's this person going this far for me...?)"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "No...! Gotta focus right now!\nAll right, *haaaaaaah*—!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Through the pitch-black night forest without a single light,\nthe sound of her earnest footsteps echoed on..."
     }
   ],
   "no_wrap": true

@@ -1,327 +1,166 @@
 {
-  "title": "",
+  "title": "An Unbreakable Vow",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A full season had passed since\nmy last conversation with Ikuno Dictus—"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in from black\nText shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "On that day, I was walking along a path lined with cherry blossoms toward a certain destination—"
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "—And they're off to a clean start!\nThe short-distance clash on the 1000m turf has officially begun!!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nFollowing lines continue from Episode 3.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "A fierce battle for position is unfolding!\nThis is bound to be a chaotic fray!!"
     },
     {
-      "name": null,
-      "text": "■ Direction\n*No recording required\n---\n★ Request\nShow Ikuno Dictus (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...My hands instinctively clench tight. I can feel my heart racing.\nAnd with that, the memory of our exchange from \"that day\" comes rushing back—"
     },
     {
-      "name": null,
-      "text": "■ Direction\nSE: Gate opening sound",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "However—I must respectfully decline.",
+      "choice_data_list": [
+        "...I see.",
+        "...I see."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nAge: Late 30s\nPersonality: Energetic, somewhat hot-blooded",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...It was disappointing. But there was nothing I could do.\nRespecting Ikuno Dictus's wishes, I began to—"
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\nAsk seriously",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "—As I am now, I am simply not worthy.\n...Please grant me three months of time.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\n\"Meters\" is not voiced, but retained in script.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Through all the mock races thus far, I have finally managed to glimpse it:\nthe path to victory with the highest probability for an inexperienced runner like myself."
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I will demonstrate this in the Debut Selection Race three months from now.\nTherefore, I ask that you first... observe that race before making your final judgment.",
+      "choice_data_list": [
+        "Wait, does that mean... in other words...—"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nAge: Early 30s\nPersonality: Calm, strong-willed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "—I felt it would be unfair otherwise. I have yet to demonstrate\nmy genuine capabilities in an actual race to you."
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Because you stated you wished to support my goal...\nI want to prove that I am a horsegirl capable of winning, and answer your sincerity in kind.",
+      "choice_data_list": [
+        "……！！"
+      ]
     },
     {
-      "name": null,
-      "text": "(Iron grows stronger the more it is struck.\nNow is the time to demonstrate my true strength—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...Would that be acceptable?"
     },
     {
-      "name": null,
+      "name": "Narrator",
+      "text": "My answer had already been set in stone—"
+    },
+    {
+      "name": "Announcer",
+      "text": "Passing the 600m mark! Still clustered in a tight pack! Who will break away?!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(—I am by no means an inherently powerful horsegirl.)"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(Here at Tracen Academy, there are countless magnificent horsegirls\nwho boast overwhelming natural talent.)"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(For me to compete on the same stage where they run...\nI have no choice but to maximize my strengths to the absolute limit and pierce through with that single point.)"
+    },
+    {
+      "name": "Ikuno's Mentor",
+      "text": "\"—As expected, Ikuno-kun,\nyou possess an extraordinary talent for management.\""
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "\"Talent, you say? What sort of talent could that possibly—\""
+    },
+    {
+      "name": "Ikuno's Mentor",
+      "text": "\"A 'will' as firm and unyielding as iron. Once you set your mind to a task, you see it through without fail.\nYou possess an indomitable spirit. That is the greatest strength in management.\""
+    },
+    {
+      "name": "Ikuno's Mentor",
+      "text": "\"When you eventually find a goal you truly wish to achieve, use that 'will' of yours\nto advance steadily, step by step. You will surely be able to accomplish any goal you set.\""
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(—In order to win this Debut Selection Race today,\nI ran numerous mock races and grasped the strongest form of running I can currently achieve.)"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(The more iron is struck, the stronger it becomes.\nNow is the time to demonstrate my strength—)"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "—HAAAAAAAAAAAAAAAAAAAH!!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Ikuno Dictus bursts out of the pack!\nShe charges to the front!! What tremendous speed!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "—And they cross the line!! Taking first place is number 2, Ikuno Dictus!!"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "—That was incredible speed, Ikuno Dictus!\nWith running like that, won't you aim for the GⅠ stage with me?!"
+    },
+    {
+      "name": "Mid-Career Trainer",
+      "text": "That was an exquisite race execution. If you're willing,\nwould you consider aiming for the top under my guidance?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": ".........—",
+      "choice_data_list": [
+        "—I want to help you run longer than anyone else!",
+        "—I want to help you run longer than anyone else!!"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
       "text": "――――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "And I want to help you win more than anyone else! So—"
+      ]
     },
     {
-      "name": null,
-      "text": "...It was disappointing. But there was no helping it.\nRespecting Ikuno Dictus's wishes—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I walk up to Ikuno Dictus.\nThen, with a resolve just as strong as hers, I speak.",
+      "choice_data_list": [
+        "Please let me be your Trainer.",
+        "Please let me be your Trainer."
+      ]
     },
     {
-      "name": null,
-      "text": "Through all the mock races thus far, I have finally caught sight of it:\nthe path to victory with the highest probability for someone as inexperienced as myself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": ".........Yes, it would be my pleasure.\nI look forward to working with you, Trainer—"
     },
     {
-      "name": null,
-      "text": "—HAAAAAAAAAAAAAAAAAH!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...How was that?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My answer had already been decided—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I will substantiate that claim in the Debut Race three months from now.\nTherefore, I ask that you first... watch that race, and then make your judgment.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"A strong, unyielding 'will' like iron. You possess the fortitude to see things through once you decide on them.\nThat is the greatest asset one can have in management.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(——I am by no means a strong Umamusume.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......Yes, likewise.\nI look forward to working with you, Trainer—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"An aptitude, you say? What sort of aptitude could that—\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That was a splendidly executed race. If you'd like, wouldn't you\naim for the top under my guidance?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—I felt it would not be fair. I have yet to demonstrate\nmy proper racing capability to you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(To compete on the same stage where they run...\nI have no choice but to push my strengths to their absolute limits and pierce through on that single point.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Whenever you find the goal you truly wish to achieve, rely on that 'will' of yours to\npursue it step by steady step. I am certain you will be able to accomplish any goal.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "............—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Precisely because you stated you wanted to support my goals...\nI wish to show you that I am an Umamusume who can win, and live up to that.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A season passed after the last conversation\nI had with Ikuno Dictus—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—As I am now, I am not worthy.\n...Please grant me three months of time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I walked up to Ikuno Dictus.\nAnd with a will just as strong as hers, I put it into words.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—She crosses the finish line!! Taking first place is number 2, Ikuno Dictus!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ikuno Dictus bursts out here!\nShe surges to the front!! What tremendous speed!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Here at Tracen Academy, there are countless\nwonderful Umamusume endowed with overwhelming talent.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A fierce battle for position is unfolding!\nThis is bound to be a chaotic fray!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...My hands naturally clench. I feel my heart beating faster.\nAnd then, our exchange from \"back then\" comes rushing back—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"—As expected, Ikuno-kun,\nyou have a wonderful aptitude for management.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "However————I must decline.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so, the handshake I shared with Ikuno Dictus\nbecame a pledge more solid than anything else—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "On that day, I was walking along the cherry blossom-lined path on my way to a certain place—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Passing the 600m mark! Still a dense pack! Who will break away!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(—In order to win today's Debut Race,\nI ran numerous mock races and grasped the strongest form of running I can currently achieve.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—That was incredible speed, Ikuno Dictus!\nWith running like that, won't you aim to become a GⅠ Umamusume together with me?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—And they're off to a clean start!\nThe short-distance turf sprint over 1000m is underway!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And with that, the handshake I shared with Ikuno Dictus\nbecame an unbreakable vow—"
     }
   ],
   "no_wrap": true

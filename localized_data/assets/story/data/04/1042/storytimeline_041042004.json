@@ -1,600 +1,258 @@
 {
-  "title": "",
+  "title": "This Is My World Map",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Running pack of racers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "During the practice race, Seeking the Pearl made a sudden leap sideways right after the start.\nPerhaps because she had begun opening up to me—she finally revealed her reasons."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Festival music\n---\n★ Request\nWipe to indicate passage of time",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "You can face all sorts of disadvantages during a race.\nFor example—"
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "'Drawing the widest gate,' 'missing the start,' 'getting knocked off course.'\nAnything can happen. That is why—"
     },
     {
-      "name": null,
-      "text": "★ Request\nAttire Designation: Seeking the Pearl = Casual Clothes\n---\n★ Request\nShow Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "I want to anticipate and test every single possibility.\nSo that I will never lose hope, no matter the situation."
     },
     {
-      "name": null,
-      "text": "★ Request\nAttire Designation: Seeking the Pearl = Casual Clothes\nShow Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "...It seemed her sideways leap had been entirely intentional."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Recording not required",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Indeed, I am a world-class pearl.\nYet I refuse to compete solely on the natural-born brilliance of my talent.",
+      "choice_data_list": [
+        "Couldn't you win plenty on talent alone, though...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Umamusume running\n---\n★ Request\nAttire Designation: Seeking the Pearl = PE Uniform (no bib number specified), Taiki Shuttle = PE Uniform (no bib number specified)\nShow Seeking the Pearl, Taiki Shuttle",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "If it wasn't a temperamental issue, and her eccentric action had a logical purpose...\nthen Seeking the Pearl was a flawless, top-tier horsegirl."
     },
     {
-      "name": null,
-      "text": "★ Request\nAttire Designation: Seeking the Pearl = Casual Clothes\nShow Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It seemed she could easily rack up victories without being so cautious, but..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Cheering\n\n---\n★ Request\nOutfit: Seeking the Pearl = Default Racing Gear\nDisplay Seeking the Pearl\n*Responding to the cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "True. Relying merely on talent, one might grow strong.\nIf all you aim for... is what that old woman once entrusted to me."
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: Seeking the Pearl = Casual Clothes\nDisplay Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tour Guide Old Woman",
+      "text": "Look here, little miss horsegirl.\nThis is the royal palace."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in\n---\n★ Request\nOutfit: Seeking the Pearl = Casual Clothes\nDisplay Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tour Guide Old Woman",
+      "text": "Work hard so you can live in a place like this one day, all right?\nI know you can do it."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Same character as \"Old Woman A\" from Episode 1.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "However, that story... had a continuation."
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Pearl",
+      "text": "Hey, Granny, do you live in a house like this right now?"
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: Seeking the Pearl = Casual Clothes\nDisplay Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tour Guide Old Woman",
+      "text": "Heavens no... I just rent a tiny room in the back alleys.\nThat's how it goes in tourist towns."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tour Guide Old Woman",
+      "text": "Dreams never come true for folks like us. That's why I want you to make the most\nof your chance, little miss. Win enough for all of us, too."
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "She entrusted her hopes to me... but the goal I formed was different.\nIt wasn't merely to succeed and live in a grand mansion.",
+      "choice_data_list": [
+        "Then what is your goal, Seeking the Pearl...?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: Seeking the Pearl = Casual Clothes\nDisplay Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Heheh, isn't it obvious?\nIt is—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Gates open\nSE: Umamusume sprinting\n---\n★ Request\nTime passage wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "To “banish the despair” of all the people across the globe\nwho cannot dare to dream, just like those I have seen with my own eyes!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Dash acceleration",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "It wasn't just that old woman. In the back alleys behind skyscrapers built\non oil money, countless people were struggling just to breathe."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Cheering\n\n---\n★ Request\nOutfit: Seeking the Pearl = Default Racing Gear\nDisplay Seeking the Pearl\n*Responding to the cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Or those born in countries without industry, blessed with talent\nyet never given the slightest chance to utilize it."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nVoices fade into distance\nSE: Swooshes away running",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Yes, this world is a handicap race.\nA cruel contest where the haves win and the have-nots lose."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Same character as \"Mid-career Trainer A (Male)\" from Episode 1.\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "And even those who have something will lose to those who have more.\nHaving everything decided by how you were born isn't fabulous in the least."
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: Seeking the Pearl = Casual Clothes\nDisplay Seeking the Pearl",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Even if you fall behind at the start, as long as you keep a challenging spirit,\nyou can catch up, you can turn the tide. I want to show them that hope.",
+      "choice_data_list": [
+        "Seeking the Pearl..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Running with a flustered expression\n---\n★ Request\nOutfit: Seeking the Pearl = Summer Tracksuit\nDisplay Seeking the Pearl\n*Running with a flustered expression",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "The world is vast. So vast that words of encouragement cannot cross it. Yet, there is\none single thing capable of breaking through the language barrier. That is—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Cheering",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "—Racing. Simply running, competing, and striving for victory.\nThere is no nation on Earth unfamiliar with this primal sport."
     },
     {
-      "name": null,
-      "text": "What I strive for together with Seeking the Pearl.\nIt is—not merely reaching the peak of the world.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "If the broadcast shows me overcoming every adversity to seize victory,\nit will become a universal message for the entire world."
     },
     {
-      "name": null,
-      "text": "Even if you fall behind at the start, as long as you have a challenging spirit,\nyou can catch up and turn the tables. That's the hope I want to show them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "My running shall unite the lands of the Earth as one!\nAcross the six continents! Across every island! Casting a rainbow of possibility!"
     },
     {
-      "name": null,
-      "text": "Indeed. Relying solely on raw talent might make you strong.\nAt least enough to achieve... what that old lady entrusted to me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "This is why I refuse to rely on talent alone.\nThis is why I dare to challenge the impossible. Understand?"
     },
     {
-      "name": null,
-      "text": "I wanted to anticipate every possibility and test them all.\nSo that no matter when or what happens, we will never lose hope.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "For the first time, I understood the brilliance Seeking the Pearl was striving for.\nIt wasn't victory for herself alone—"
     },
     {
-      "name": null,
-      "text": "Which will it be, this \"gold pearl\" or the \"silver pearl\"?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It was giving hope to people all over the world. What made her world-class\nwas not merely her talent—it was the sheer magnitude of what she sought beyond victory."
     },
     {
-      "name": null,
-      "text": "Tell me, aren't you thinking to yourself right now...\n\"I've found the ultimate pearl\"?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Now then, I have shown you my world map."
     },
     {
-      "name": null,
-      "text": "There's a pearl capable of turning even yesterday's defeat into new possibilities!\nI've already memorized your rhythm! Haaaaaaahhhhh!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Next, you must show me yours, Trainer!\nWhat kind of dream do you envision for me?"
     },
     {
-      "name": null,
-      "text": "Seeking the Pearl, who leaped sideways right at the start of the mock race.\nPerhaps she finally opened up to me—because she at last revealed the reason.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "What to aim for alongside Seeking the Pearl.\nIt wasn't simply reaching the pinnacle of the world.",
+      "choice_data_list": [
+        "I want to show your possibilities—to the entire world!",
+        "I want to show your possibilities to the entire world!"
+      ]
     },
     {
-      "name": null,
-      "text": "It went without saying. Hearing that answer,\nSeeking the Pearl gave a mischievous grin, and then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "—Possibilities. You just said possibilities, didn't you?"
     },
     {
-      "name": null,
-      "text": "Come, let me hear your order.\nWhat is the destination that will make your life shine—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Good! No, that is perfect, Trainer!\nIn that case—"
     },
     {
-      "name": null,
-      "text": "Truly, a world-class pearl.\nYet I refuse to compete solely on the sparkle of natural-born talent.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Allow me to demonstrate my present potential first.\nJust to show you what I'm truly capable of right now."
     },
     {
-      "name": null,
-      "text": "If she wasn't temperamental and had a clear reason for her erratic moves...\nthen Seeking the Pearl is a flawless, top-tier Umamusume.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "And so came the rematch against Taiki Shuttle.\nTurf, 1,200m, sunny, firm track."
     },
     {
-      "name": null,
-      "text": "I should scout her after all.\nI'm going to go and...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Taiki Shuttle",
+      "text": "Ngggh, Pearl-san!? You're on a completely different level from before!?\nThis speed is...!!"
     },
     {
-      "name": null,
-      "text": "Fufu, gooood! Nice shopping!\nNow then, let us officially make this a partnership.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Fufufu, magnificent, truly magnificent, Taiki...!\nRunning like that come rain or shine, you certainly are unbeatable at the mile. However!"
     },
     {
-      "name": null,
-      "text": "Even without being so cautious,\nit seems fully possible for her to keep racking up victories, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "(The conditions are never set in stone. You never know what\nmight happen in this world. And out there in the world—)"
     },
     {
-      "name": null,
-      "text": "It was me. I am the one who found a pearl in you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "There is a Pearl capable of turning even yesterday's defeat into brand-new potential!\nI've already committed your rhythm to memory! Hyaaaahhhhh!!"
     },
     {
-      "name": null,
-      "text": "People like us can't make our dreams come true even if we have them. That's why\nI want a girl with a real chance like you to do her best. For our sake, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Taiki Shuttle",
+      "text": "Oh、No……！！！！"
     },
     {
-      "name": null,
-      "text": "Oh, no...!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "(Woooooaaaaahhh!!)"
     },
     {
-      "name": null,
-      "text": "For the first time, I understood the brilliance Seeking the Pearl was chasing.\nIt wasn't a victory just for herself—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Level Trainer A",
+      "text": "H-Hey, she really is incredible, Seeking the Pearl!\nI thought she might be a handful, but seeing her blow everyone away today...!"
     },
     {
-      "name": null,
-      "text": "H-Hey, where are you going?! Hey!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Level Trainer A",
+      "text": "Maybe I really should scout her.\nI'm gonna go..."
     },
     {
-      "name": null,
-      "text": "Fufufu, wonderful, simply wonderful, Taiki...!\nRunning like that rain or shine. In a mile race, you truly are the strongest. But!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Ho-ho-ho-ho♪ Beyond the limits of potential!\nBeautifullll!!!!"
     },
     {
-      "name": null,
-      "text": "Through my running, the lands of the world will become one!\nAll six continents! All the islands! A rainbow of possibility will span across them!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Level Trainer A",
+      "text": "H-Hey, where are you going!? Hey!"
     },
     {
-      "name": null,
-      "text": "First, allow me to show you my current possibilities.\nJust how much the present me can achieve.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Having scored a sweeping victory, Seeking the Pearl vanished—\nas if shaking off the trainers rushing to surround her."
     },
     {
-      "name": null,
-      "text": "Fufu, but unfortunately, that is incorrect.\nYou didn't find the pearl. The one who found it—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—A short while later.\nAt the summer festival grounds."
     },
     {
-      "name": null,
-      "text": "Next, it's your turn to show me, Trainer!\nWhat kind of dream do you envision for me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Hey there, Trainer. Care for some accessories?\nFufufu...♪",
+      "choice_data_list": [
+        "Found you at last... What are you doing?",
+        "Found you at last... What are you doing?"
+      ]
     },
     {
-      "name": null,
-      "text": "I glance briefly at the accessories placed on the counter...\nbut the answer—naturally, is already set.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Running an accessories stall, of course. My daddy is a precious metals merchant.\nIntroducing exquisite jewelry to the world is the family business, after all."
     },
     {
-      "name": null,
-      "text": "\"Drawing the outermost gate,\" \"a late break,\" \"getting bumped off course.\"\nAnything can happen. That is why—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Now then, let's hear your order.\nWhich one will make your life truly sparkle:—"
     },
     {
-      "name": null,
-      "text": "Oho-ho-ho-ho♪ Beyond the realm of possibility!\nBeautifuuul!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "This \"Gold Pearl\" or this \"Silver Pearl\"?"
     },
     {
-      "name": null,
-      "text": "Gooood! No, that is perfect, Trainer!\nThen—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I glance down at the accessories displayed on the table, but...\nMy answer—is already decided, of course.",
+      "choice_data_list": [
+        "I choose \"Seeking the Pearl.\"",
+        "I choose \"Seeking the Pearl.\""
+      ]
     },
     {
-      "name": null,
-      "text": "Fufu, it's already decided, isn't it?\nAnd that is—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Fufu, good! Nice shopping!\nThen let's make our partnership official, shall we?"
     },
     {
-      "name": null,
-      "text": "To \"banish the despair\" of all the people across the globe\nwho couldn't dare to dream, whom I have seen with my very own eyes!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Tell me, right now you must be thinking:\n\"I've found the finest pearl of all.\"",
+      "choice_data_list": [
+        "Yeah, of course.",
+        "Yeah, of course."
+      ]
     },
     {
-      "name": null,
-      "text": "And even the 'haves' will lose to those who have more.\nYet having everything decided by what you're born with is not fabulous in the slightest.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It goes without saying. Hearing my response,\nSeeking the Pearl offered a mischievous smile, and—"
     },
     {
-      "name": null,
-      "text": "Work hard so you can live in a place like this in the future, okay?\nI'm sure you can do it, little lady.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Fufu, but unfortunately, that's not quite right.\nYou're not the one who found the pearl. The one who did—"
     },
     {
-      "name": null,
-      "text": "Of course not... I live in a tiny rented room in the back alleys.\nThat's just how tourist towns are.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "Is me. I am the one who found the pearl known as you."
     },
     {
-      "name": null,
-      "text": "After her convincing win, Seeking the Pearl vanished—\nas if shaking off the flood of Trainers rushing toward her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Conditions are never the same. In this world, you never know\nwhat might happen. And out there in the world—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "An accessory shop, obviously. My daddy is a jeweler.\nIntroducing top-of-the-line jewelry is the family trade, after all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Possibility. Did you just say possibility?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Or those born in countries without industries, who were blessed with talent\nbut never even given the chance to put it to use.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It was entrusted to me, but... the goal I embraced was different.\nIt wasn't to succeed just to live in a grand mansion.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...It seems that leaping sideways was entirely intentional.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Tell me, Grandma, do you live in a house like this right now?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "H-Hey, Seeking the Pearl really is something else!\nI thought she'd be hard to handle, but that blowout today...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "In a race, you can be hit with all kinds of disadvantages.\nFor instance—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The one and only pearl capable of making me shine—\nout in this vast world, that is.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Here, little Umamusume, take a look.\nThis is the royal palace.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "However, there is—a continuation to that story.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes, this world is—a handicap match.\nA cruel race where the 'haves' win, and the 'have-nots' lose.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Bringing hope to people all around the world. What was truly world-class\nwasn't just her talent—it was the magnitude of what she sought beyond victory.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Now then, I have shown you my world map.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Guhhh, Pearl-san?! You are completely different from last time?!\nThis speed...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, Trainer over there. How about some accessories?\nFufufu...♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(WOOOOOOOHHHH!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It wasn't just that old lady. In the backstreets behind the skyscrapers\nbuilt by oil money, countless people were struggling to breathe.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The world is vast. So vast that words of encouragement cannot reach across it. Yet\nthere is a single thing capable of transcending language barriers. And that is—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This is—the reason I don't rely solely on talent.\nThe reason I dare to challenge the impossible. —Understand?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If footage of me overcoming every hardship to claim victory is broadcast,\nit will become a universal message.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—A race. Simply running, competing, and aiming for victory.\nThere is no country anywhere that does not know this primal sport.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Some time later.\nAt the summer festival grounds.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And now—the rematch with Taiki Shuttle.\nTurf, 1200m, Sunny, Firm.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Seeking the Pearl",
+      "text": "The one and only pearl who can make me shine—\nin this wide, wonderful world."
     }
   ],
   "no_wrap": true

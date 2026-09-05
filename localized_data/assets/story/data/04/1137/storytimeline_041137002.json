@@ -1,544 +1,241 @@
 {
-  "title": "",
+  "title": "From Today On, I Am!!",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nVivlos (Summer Tracksuit) walks in from the right as if speaking to Dia.\n*Please place Vivlos furthest to the right.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Previously on",
+      "text": "Previously on! Kiseki, a horsegirl who super loves manga,\nmeets a trainer captivated by her running."
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric wipe\nDisplay Kiseki (Summer School Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Previously on",
+      "text": "And so, she invited him to watch her run in a mock race!"
     },
     {
-      "name": null,
-      "text": "★Request\nKiseki runs offscreen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Previously on",
+      "text": "And so, she invited her to watch her run in a mock race!"
     },
     {
-      "name": null,
-      "text": "★Request\nSerious time skip\n---\n★Request\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer",
+      "text": "Quite the lineup gathered here... We've got Satono Crown, 3rd in the Derby,\nas well as this year's debut prodigy, Satono Diamond..."
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black / Fade in\nDisplay Satono Diamond (Summer Tracksuit), Vivlos (Summer Tracksuit)\n*The two move closer to the camera again after line 44.\n   ∟Visually indicate that Kiseki is looking at \"the gap between the two\".",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And the young lady of the Satono family isn't the only one to watch.\nVivlos is also widely seen as a strong contender on the Tiara route."
     },
     {
-      "name": null,
-      "text": "★Request\nShaky text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "Phew... Haaah...! What a truly\nawe-inspiring lineup of competitors...!! Phew...!",
+      "choice_data_list": [
+        "A-Are you okay, Kiseki!?",
+        "A-Are you okay, Kiseki!?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black / Fade in\nDisplay Satono Diamond (Summer Tracksuit), Vivlos (Summer Tracksuit)\n*Vivlos and Diamond move closer to the camera.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "I-I'm totally fine! My eyes have been wide open since last night...!\nSure, I'm a bit anxious, but I've been thrilled this whole time, too!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nEnd of race scene here\nTime skip (Use fade to black / fade in if more appropriate)\n---\n★Request\nDisplay Kiseki (Summer Tracksuit/Dirty)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "This situation feels just like a manga cliffhanger... Doesn't it get you hyped?\n\"Will Kiseki overcome these formidable rivals and secure a trainer contract!?",
+      "choice_data_list": [
+        "...Yeah, I want to see you become the main character!",
+        "...Yeah, I want to see you become the main character!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Satono Diamond (Summer Tracksuit), Vivlos (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Called by the starter official, Kiseki heads to\nher gate position alongside the other Umamusume."
     },
     {
-      "name": null,
-      "text": "★Request\nBlack wipe\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A hushed silence falls over the track—and the gates fly open!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: Late 40s\nPersonality: Intellectual and serious\n---\n★Request\nDisplay Satono Crown (Summer Tracksuit), Satono Diamond (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The crowd favorites, Satono Diamond and company, keep a close eye on each other\nfrom the rear, testing the waters as fellow closing stretch specialists.",
+      "choice_data_list": [
+        "(And where is Kiseki...?)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\n(Flashback source: 041137001 \"Episode 1 *Title*\" around lines 149-150, Line IDs: 2055631, 2064067) *No quoted dialogue\n---\n★Request\nDisplay Kiseki (Summer School Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Kiseki is currently running in second-to-last place.\n...She's way in the back. Did she get off to a slow start?"
     },
     {
-      "name": null,
-      "text": "★Request\nFlashback ON (no source)\n---\n★Request\nSatono Diamond (Summer School Uniform), Satono Crown (Summer School Uniform), Kiseki (Summer School Uniform)\nKiseki desperately begs the two from the Satono household. The two agree.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-tier Trainer",
+      "text": "Oh, looks like an uncontracted girl is running too.\nPretty rough positioning, though... Heh, only the young run without thinking.",
+      "choice_data_list": [
+        "(No. Kiseki definitely has a plan.)",
+        "(No. Kiseki definitely has a plan.)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nBlack wipe\nDisplay Kiseki (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She said it herself—she wants to 'thrill people with her running.'\nIf so, she must have a strategy in mind to topple these formidable rivals."
     },
     {
-      "name": null,
-      "text": "★Request\nKiseki reacts to the Trainer's response with a \"...!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(The ones ahead of me are all fierce sprinters with crazy late-stage bursts...!\nGoing conventional and taking a front spot would just trigger a textbook defeat!)"
     },
     {
-      "name": null,
-      "text": "★Request\nFade in / After fade in\nRace scene begins below\n---\n★Request\nSatono Diamond (Summer Tracksuit), Satono Crown (Summer Tracksuit)\nDisplay Vivlos (Summer Tracksuit) behind them if possible",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(In that case, catching them off guard with the unexpected is my only shot!\nRattle the favorites, find the opening... and script the protagonist's victory!)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(Bet it all on this one strike!\n—Time to trigger the ultimate comeback flag!!)"
     },
     {
-      "name": null,
-      "text": "★Request\nSatono Diamond (Summer Tracksuit) and Vivlos (Summer Tracksuit) sprint forward\n*Satono Diamond is ahead, Vivlos is behind\n*Vivlos will overtake Dia around this timing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Resolute determination blazes in Kiseki's eyes.\nHer gaze locks onto... the narrow gap between the two runners ahead.",
+      "choice_data_list": [
+        "(Kiseki, don't tell me you're—)",
+        "(Kiseki, don't tell me you're—)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black / Fade in\nRace scene begins below\n---\n★Request\nDisplay Kiseki (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "A late-stretch showdown! I'll burst right through the middle while they check each other!\nShake 'em up and take the win before they can react! ...HAAAAAAAH!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nClearly nervous, but more excited than anxious (as the real horse was known for its crane neck)\n---\n★Request\nBlack wipe\n---\n★Request\nDisplay Kiseki (Summer Tracksuit)\nMake her movement visibly nervous and stiff if possible\n(Planning to use motion homage to crane neck posture)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(Break through, me!\nKick off a double-page color spread level climax! And then—)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Gate opening sound",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(And... then...?)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nFlashback OFF\n---\n★Request\nDisplay Kiseki (Summer Tracksuit/Dirty)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(H-Huh...? What—?)"
     },
     {
-      "name": null,
-      "text": "★Request\nIn response to the Trainer's reply, Kiseki gives a beaming smile as if saying \"Leave it to me!\"\nThen walks offscreen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "C-Catch up! Pass them! I can do this, come on!!\nHAAAAAH......... HYAAAAAHHHHHHHHHH—!!"
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Kiseki (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "...8th place..."
     },
     {
-      "name": null,
-      "text": "★Request\nKiseki bows her head",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Kiseki couldn't join the fight among the leaders and faded back.\n...She failed to make any remarkable impression.",
+      "choice_data_list": [
+        "(Still, I should at least praise her for giving it her all...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nHer voice is nervous,\nbut cool. That's the impression to aim for.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "T-This wasn't how it was supposed to go...\nIf I'm the protagonist, I was supposed to win. Win, and then—"
     },
     {
-      "name": null,
-      "text": "★Request\nSatono Diamond (Summer Tracksuit) and Vivlos (Summer Tracksuit) toward the front\nKiseki (Summer Tracksuit) toward the back",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nKiseki (Summer Tracksuit/Dirty) runs in looking exhausted",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nAge: Early 30s\nPersonality: A woman who loves novelty but isn't overly frivolous\n---\n★Request\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade to black / Fade in\n---\n★Request\nDisplay Satono Diamond (Summer School Uniform), Satono Crown (Summer School Uniform), Kiseki (Summer School Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(And, then...?)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's have our rematch in three weeks, then! Looking forward to it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Because I couldn't help wishing for it too.\nWishing for her running to take true shape—and wanting to witness that very moment.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Kiseki will surely... do something \"exciting\" again.\nAnother trick that makes everyone watching lean forward in anticipation.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Bet everything on this one strike!\n—Seize the flag for a comeback!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, ...thank goodness, Trainer!\nI'm having a rematch soon! Won't you come watch me again?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Previously on our story! Kiseki, a manga-loving Umamusume,\nmet a Trainer who was captivated by her running.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And then, she invited her to a mock race she'd be running in!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I-I'm fine, really! I've been wide awake since last night...!\nI-I'm a little anxious, but I've been super thrilled the whole time too!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Unable to join the battle among the frontrunners, Kiseki fell back.\n...She failed to make any kind of notable splash.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Won't you let me help you!\"\n\"Please allow me to help you!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Because if the protagonist doesn't make a move, the story won't start!\nIf I don't chase my dreams, there's no victory at the end of the track!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And the young lady of the Satono family isn't the only one to watch.\nVivlos is also seen as a strong contender on the Tiara route.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I know I can... become the main character...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Called by the starter Umamusume, Kiseki\nheads toward her designated position like the others.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Next time, I'll definitely make it an exciting race!\nI'll win, and I'll become the hero of this story!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(H-Huh...? What—?)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This setup feels just like a manga cliffhanger... Makes you excited, right?\nLike, \"How is Kiseki going to take down this formidable rival?\"... or something.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Kiseki",
       "text": "Dammit......!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Ah, Kiseki...!"
+      ]
     },
     {
-      "name": null,
-      "text": "(I really thought I could show them. I wanted to show them!\nA spectacle where I become the protagonist in the most exciting race ever...!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "*pant*... *pant*......... *gasp*—\nAfter begging so hard just to get into this mock race...!"
     },
     {
-      "name": null,
-      "text": "I can't just sit here sulking!\nA real manga protagonist—would at least try for revenge!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(I knew there was a gap in our abilities.\nStill, I pleaded relentlessly just to make this race happen...)"
     },
     {
-      "name": null,
-      "text": "T-That's not how it goes...\nIf I were the protagonist, I'd win. I'd win, and then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(Because I thought I could show you. I wanted to show you!\nMe, being the main character in the most exciting race ever...!)"
     },
     {
-      "name": null,
-      "text": "...Huh.........?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "(To you... the one who got hyped for me.\nThe one who became my reader...)"
     },
     {
-      "name": null,
-      "text": "And then, she invited him to a mock race she'd be running in!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "...And yet, there was no comeback, nothing at all,\njust a toootally booor-ing race...! I couldn't give you any thrills at all—"
     },
     {
-      "name": null,
-      "text": "Whew... haaah...! \nNow this is what I call a truly prestigious lineup...!! Whew...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "Grrrghhh... dammit... I'm so pathetic..."
     },
     {
-      "name": null,
-      "text": "Kiseki is currently running second from last.\n...She's way back. Did she miss the start?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Remembering the bitter frustration etched on her face after the mock race,\nI run all over the academy, desperate to talk to her."
     },
     {
-      "name": null,
-      "text": "She may not have had a standout moment this time.\nHowever, her determination in \"challenging powerful rivals\"—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "True, she didn't get a flashy moment in the spotlight this time.\nBut that determination to challenge a stronger opponent beforehand—",
+      "choice_data_list": [
+        "(I know she has what it takes to be a true protagonist...!)",
+        "(I know you have what it takes to be a true protagonist...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "Haa... hah......... hah—\nEven though they finally let me join their mock race...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "Then we'll have our rematch in three weeks! Looking forward to it!",
+      "choice_data_list": [
+        "Wait, is that Kiseki's voice?!"
+      ]
     },
     {
-      "name": null,
-      "text": "Alright... Now all that's left is to ask the Trainer again...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Looking out the window, I saw Kiseki bowing earnestly to the girls\nshe had just raced today. And then, her eyes lit up with excitement—"
     },
     {
-      "name": null,
-      "text": "(Then I've got no choice but to catch them off guard with an unexpected ploy!\nShake up the strong, seize the opening... and turn it into the protagonist's victory!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "Alright...! Now, all that's left is to go back to Trainer...",
+      "choice_data_list": [
+        "Kiseki! What was that you were just talking about...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Uuugh...... How pathetic......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "Ah...! Perfect timing, Trainer!\nI've got a rematch set up! Will you come watch again?!"
     },
     {
-      "name": null,
-      "text": "...Eighth place...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "Next time, I'll definitely make it an exciting race!\nI'm gonna win and become the protagonist of this story!",
+      "choice_data_list": [
+        "……！！"
+      ]
     },
     {
-      "name": null,
-      "text": "Time for a sprint duel! I'll slip right through the gap as they mark each other!\nRattle them, and pull off the win before they can react! ...Haaaaaaah!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "'Cause if the protagonist doesn't make a move, the story never starts!\nIf I don't chase my dream, there's no victory waiting at the finish line!!"
     },
     {
-      "name": null,
-      "text": "(Run like the wind, me!\nKick off a climax worthy of a center color spread! And then—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "I can't just sit around moping!\nA manga protagonist has to get their revenge arc!"
     },
     {
-      "name": null,
-      "text": "(I knew there was a huge difference in our abilities.\nStill, I begged and pleaded to make this race happen.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "I know I have what it takes... to become a true protagonist...!",
+      "choice_data_list": [
+        "Kiseki..."
+      ]
     },
     {
-      "name": null,
-      "text": "A spark of resolve lights up in Kiseki's eyes.\nHer gaze is fixed... on the narrow opening between the two runners ahead.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Kiseki is surely going to show us something \"exciting\" again.\nAnother spectacle that keeps the audience on the edge of their seats."
     },
     {
-      "name": null,
-      "text": "(To you, who felt that thrill from watching me.\nTo you, who became my reader.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Because you can't help but root for her.\nYou want to see her running take shape—you want to witness that moment.",
+      "choice_data_list": [
+        "—Kiseki! Excuse me!"
+      ]
     },
     {
-      "name": null,
-      "text": "C-Catch up! Overtake them! You can do this, me!!\nHaaaaah...... Yaaaaaaaahaaaaaaaah—!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Trainers Appearing Out of Nowhere",
+      "text": "\"Won't you let me help you?!\"\n\"Please, let me lend you a hand!\"",
+      "choice_data_list": [
+        "...Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "(The ones right in front of me are all fierce rivals who excel at spurting...!\nIf I take them head-on from the front, it'll just lead to a \"classic defeat trope\".)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, looks like there's an uncontracted Umamusume running too.\nHer position looks pretty rough, though... Heh, running without a plan is just youthful folly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She said it herself: \"I want to thrill people with my running.\"\nIf so, she must have a strategy in mind to defeat these formidable rivals.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Looking out the window, I saw Kiseki desperately bowing her head\nto the girls she'd just raced against today. And then, her eyes sparkling—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And the track falls silent—the gates burst open!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Yet in reality, no comeback story ever started,\nand it was just a booorrring race...! I couldn't excite anyone at all—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What an incredible lineup... Satono Crown, who placed 3rd in the Derby,\nand Satono Diamond, the prodigy debuting this year...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Satono Diamond and the other frontrunners keep a sharp eye on each other from the rear.\nBoth proud of their late bursts, they seem to be keeping each other in check.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Seeing her face contorted in frustration after the mock race,\nI ran all over the academy, desperate to speak with her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Kiseki",
+      "text": "...Huh.........?"
     }
   ],
   "no_wrap": true

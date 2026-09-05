@@ -1,397 +1,185 @@
 {
-  "title": "",
+  "title": "Full Throttle! The Speed Queen Can't Stop",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction Note\n1 second silence at start\nLooking thoroughly dejected and gloomy.\n---\n★ Request\nShow Calstone Light O (Summer Uniform)\nLooking thoroughly dejected and gloomy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Uooooooohhhhh!!\nTrainer straight ahead!! Watch out!!",
+      "choice_data_list": [
+        "W-What?!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nRuns out on 2nd line\n\nSE: Sound of dashing off\n---\n★ Request\nRuns out on 2nd line",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(*SKREEEEEECH!!*)"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\n*No. (She didn't notice the Trainer)\n\nCalstone Light O runs out\n\nSE: Sci-fi sound\n---\n★ Request\nCalstone Light O runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Trainer's pedestrian status, clear. Zero collision incidents, clear.\nPardon the disturbance.",
+      "choice_data_list": [
+        "W-What's the huge rush?!",
+        "W-Why are you in such a huge rush?!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nNo ill intent.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "I rush because there is a reason to rush.\nExcuse me."
     },
     {
-      "name": null,
-      "text": "■ Direction Note\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Haaaaaaah!\nWait for me, kitieeeeeeesss!!!!",
+      "choice_data_list": [
+        "...Kitties?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction Note\n*Make it look like she noticed the Trainer, but...\n---\n★ Request\nLarge Font\nShaking Text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "*gasp*, *pant*... L-Light O~! I'm not done talki—*cough*!\nThat cat cafe is... closed today~~...!",
+      "choice_data_list": [
+        "Wait, what?!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nSE: Sound of an approaching furious sprint\n---\n★ Request\nHide character\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It seemed she dashed off to the cat cafe without knowing it was closed.\nI tried to call her, but couldn't get through at all."
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nSE: Sound of a wallet dropping",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Left with no choice, I hailed a taxi to speed after her\nto the cat cafe in the neighboring town—"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nAccelerates and exits screen\n\nSE: Sound of putting on a spurt\n---\n★ Request\nAccelerates and exits screen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "...How can this be? This is too cruel.\nTo think that even with maximum speed, I cannot meet the kitties...!",
+      "choice_data_list": [
+        "Was I too late..."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nBlack wipe\nShow Calstone Light O (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "...However, I shall not falter. I will not break. I will not surrender.\nThe shortest path to meeting kitties does not lie here."
     },
     {
-      "name": null,
-      "text": "■ Direction Note\n1 second silence at start\n---\n★ Request\nShow Calstone Light O (Summer Uniform)\nLarge font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "The fastest way to see them right now is...\nThe park kitties!"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nCalstone Light O (Summer Uniform) runs in\nSE: Sound of slamming on the brakes\n---\n★ Request\nCalstone Light O (Summer Uniform) runs in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(*plop*)",
+      "choice_data_list": [
+        "...Wait, you dropped your wallet?! Hey, hold up!!",
+        "...Wait, you dropped your wallet?! Hey, hold up!!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nCalstone Light O (Summer Uniform) runs out\n\nSE: Sci-fi sound\n---\n★ Request\nCalstone Light O (Summer Uniform) runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "So cute, so cute, so cute, so cute!\nGood kitty, good kitty, purr-purr-purr-purr!"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nAge: 60s\nPersonality: Easygoing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "*sigh* If only I could huff your fur...\nBut we have not yet established that level of mutual trust...",
+      "choice_data_list": [
+        "Light O! You dropped your wal—"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nSE: Sound of running over while gasping and worn out\n\nAge: High school 1st year\nPersonality: Energetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Haah!!!!"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nA flat, monotonous song with virtually no melody. Because she loves straight lines.\n---\n★ Request\nTime passes\nCalstone Light O (Summer Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Then! I simply must go to a kitty who will allow me to huff it!",
+      "choice_data_list": [
+        "Where are you going now—?!",
+        "Where are you going now—?!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passes\nCalstone Light O (Summer Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Ow-ow-ow-ow-ow! Ouch... Rear-paw bunny kicks.\nHowever, this is adorable in its own right, so clear. Thank you."
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nShow Calstone Light O (Summer Uniform)\n\nSE: Bus driving sound\n---\n★ Request\nShow Calstone Light O (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Elderly Woman",
+      "text": "Hehe... Oh, right, Light O-chan.\nHave you met the cat stationmaster at the nearby station? He's round and cute as a daifuku mochi~."
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nStart from having her head lowered trying to huff the cat.\n---\n★ Request\nBlack wipe\n---\n★ Request\nShow Calstone Light O (Summer Uniform)\nStart from having her head lowered trying to huff the cat.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "The next bus to the station with the cat stationmaster is... What? In one hour?\nA waste of precious time! I will simply run there!"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nFast-paced speech\n---\n★ Request\nBlack wipe\nShow Calstone Light O (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "That is... the earlier bus that already departed!"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nSE: Applause\n---\n★ Request\nClap.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Not on my watch, big guy!\nI'm gonna be the first one to meet the Cat Stationmaster!"
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nSE: Busy signal/unreachable call tone",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "This straight-line showdown is miiiiine!!"
     },
     {
-      "name": null,
-      "text": "The ones I can reach the fastest right now are...\nthe kitties at the park!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Kitty, kitty, kitty~ Kit-kit-kit~\n...A hymn to praise felines. If I do say so myself, it is an absolute masterpiece."
     },
     {
-      "name": null,
-      "text": "This realization came precisely because I rushed to meet them at top speed.\nIt was a fruitful cat patrol. ...So, Trainer, what brings you here?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Unable to keep up with Calstone Light O, I waited at the school gate for several hours.\nFinally, she returned.",
+      "choice_data_list": [
+        "Light O... welcome back..."
+      ]
     },
     {
-      "name": null,
-      "text": "*sigh* If only I could huff you kitties...\nAlas, we have not yet established sufficient trust...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Oh, Trainer. For some reason today, you resemble either\na zombie or a strip of dehydrated seaweed."
     },
     {
-      "name": null,
-      "text": "Ehehe... Oh, that reminds me, Light O-chan.\nHave you met the cat stationmaster at the nearby station? So delightfully plump, just like a mochi daifuku~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Allow me to tell you an invigorating tale.\nIt is about kitties. Breathe in the feline energy.",
+      "choice_data_list": [
+        "Breathe in... feline energy...?"
+      ]
     },
     {
-      "name": null,
-      "text": "Left with no other choice, I hailed a taxi to speed over\nto the cat cafe in the neighboring town to chase after her――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "People lump them all together as kitties, but no two kitties are identical.\nAll different, all wonderful, yet fundamentally all kitties."
     },
     {
-      "name": null,
-      "text": "Haaaaaaaaaaah!\nWait for me, kittiiiiiiiies!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "This realization came solely because I rushed to meet them at top speed.\nIt was a fruitful cat pilgrimage. ...So, what brings you here, Trainer?",
+      "choice_data_list": [
+        "I wanted to return the wallet you dropped.",
+        "I wanted to return the wallet you dropped."
+      ]
     },
     {
-      "name": null,
-      "text": "HAH!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "............Blast it all!!"
     },
     {
-      "name": null,
-      "text": "Applause.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "I was on the verge of making another blunder.",
+      "choice_data_list": [
+        "Another?"
+      ]
     },
     {
-      "name": null,
-      "text": "This straight-line showdown is miiiiiiine!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "When I drop something, it almost never comes back.\nBecause I am fast. Too fast—"
     },
     {
-      "name": null,
-      "text": "Trainer pedestrian safety, checked. Zero collision accidents, checked.\nPardon the disturbance.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "To be the fastest means absolute top speed. Ergo, no one can catch up.\nWaiting here was a sound tactical decision."
     },
     {
-      "name": null,
-      "text": "In that case! I must go find a kitty that will let me huff them!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "*Applause.*",
+      "choice_data_list": [
+        "Uh, th-thank you...?"
+      ]
     },
     {
-      "name": null,
-      "text": "Fastest means top speed. In other words, no one can catch up.\nWaiting here was a sound tactical judgment on your part.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Unable to keep up with Calstone Light O, I waited at the school gate for several hours.\nAt last, she returned.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whew... haah... L-Light O~! I wasn't finished spea—\n*cough*! That cat cafe... is closed today~~~...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...However, I will not be discouraged. I will not falter. I will not surrender.\nThe shortest path to encountering a kitty is not here.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "UOOOOOOOOOHHH!!\nTrainer ahead!! Look out!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If you drop an item, it is almost impossible to recover.\nBecause I am fast—far too fast—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I will not let you, giant beast!\nI shall be the first to meet the feline stationmaster!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Plop)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I hurry because there is a reason to hurry.\nExcuse me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": ", I nearly slipped up again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Allow me to tell you an invigorating tale.\nIt is about kitties. You must inhale the essence of kitty stories.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The next bus to the station with the feline stationmaster is... What? In one hour?!\nWhat a waste of time! I can simply run there!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That is... the bus that departed earlier!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ow-ow-ow-ow-ow! Oof... bunny-kicking with its hind legs.\nHowever, this in itself is adorable, so it is fine. Thank you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So cute, so cute, so cute, so cute!\nThere, there, good kitty, purr-purr-purr-purr!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, Trainer. Today you somewhat resemble\neither a zombie or dried seaweed before rehydration.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(SCREEEEEEEECH!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Dammit!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Calstone Light O acts so fast that no one can catch up with her.\nWill the day ever come when I can move at the same speed as her—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...No, this is too cruel. What an awful turn of events.\nTo think that even with maximum speed, I cannot meet the kitties...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Apparently, she went off to the cat cafe without knowing it was closed today.\nI try calling her, but can't get through at all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "We use the word 'kitty' broadly, yet no two kitties are identical.\nEach is different and each is wonderful, but all are undeniably kitties.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Cat, cat, cat, c-c-cat.\n...A hymn praising kitties. A masterpiece, if I do say so myself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Because she moves far too fast, nobody can ever keep pace with Calstone Light O.\nWill the day ever come when I can operate at the exact same speed as her—?"
     }
   ],
   "no_wrap": true

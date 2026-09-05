@@ -1,355 +1,171 @@
 {
-  "title": "",
+  "title": "Touching Warmth",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\n---\n★ Request\nVictoire Pisa looking down at her feet casually",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "While walking toward the trainer's office,\nI spotted Victoire Pisa with a student who seemed to be her friend."
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Victoire Pisa (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Oh dear... is that what happened?\nA falling-out with your roommate..."
     },
     {
-      "name": null,
-      "text": "★ Request\nAfter fade from black\nShow Victoire Pisa (Summer Uniform),\nStanding up from crouching position",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pisa's Horsegirl Friend",
+      "text": "Uuugh, yeah... I want to make up with her,\nbut whenever I try to talk to her, she totally ignores me...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Click sound of plugging in a connector",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pisa's Horsegirl Friend",
+      "text": "I'm completely at my wit's end!\nPisa, will you come stress-eat with me?!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Yes, of course. ...Oh, why don't we go to the cafe in front of the station?\nTheir famous towering fruit parfait... I've actually been curious about it for a while."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*This is a different character from \"Pisa's Umamusume Friend\" in Episode 4\n\nAge: 1st year high school (same grade as Pisa)\nPersonality: Playful and mischievous",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "So please, take your time and tell me all about it.\nWe'll find a solution together."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pisa's Horsegirl Friend",
+      "text": "Pisaaa...! You're just so sweet.\nI can't help but want to lean on you...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Knocking sound\n---\n★ Request\nPassage of time\n\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Hehe... Go right ahead. I'll always be here waiting.",
+      "choice_data_list": [
+        "(She really is amazing...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nInvite\n\n*This is internal monologue, but parentheses are intentionally omitted to make it impactful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Victoire Pisa would surely stay right by her friend's side\nuntil her spirits lifted. It was a sight I'd grown quite used to."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After all, wanting to support someone like her\nwas the very reason I became her Trainer..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTomorrow\n---\n★ Request\nVictoire Pisa (Summer Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Later, back in the trainer's office, as I sat before my PC\npowering through a mountain of backlog—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\nSFX: Click sound of plugging in a connector\n---\n★ Request\nVictoire Pisa crouching down to connect cables and cords",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Trainer, I wanted to discuss tomorrow's training—"
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Victoire Pisa (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "...Oh, I'm sorry. You look quite busy.\nShould I come back later?",
+      "choice_data_list": [
+        "No, it's fine! I'll be done in a sec, can you wait?",
+        "No, don't worry! I'll be done in a sec, can you wait?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\n---\n★ Request\nFade in / After fade in\n---\n★ Request\nShow Victoire Pisa (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Understood.\nPlease don't rush on my account."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Loud spark popping sound\n---\n★ Request\nFade to black\nText shake\nScreen flash",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "...Oh dear... this plug is coming loose...\nThat could be dangerous..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\n\n*This is internal monologue, but parentheses are intentionally omitted to make it impactful\n---\n★ Request\nFade in / After fade in\n---\n★ Request\nShow Victoire Pisa (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "...There we go."
     },
     {
-      "name": null,
-      "text": "As I was walking toward the trainer's office,\nI spotted Victoire Pisa and a student who seemed to be her friend.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "—Oh, this one too!"
     },
     {
-      "name": null,
-      "text": "Yes, you are always... taking me by the hand,\nas if inviting me into the center of the circle...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Let's connect this properly.\nSo it won't come apart ever again."
     },
     {
-      "name": null,
-      "text": "Fufu... yes, of course. I will be waiting whenever you're ready.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Eek...!?",
+      "choice_data_list": [
+        "Pisa!?"
+      ]
     },
     {
-      "name": null,
-      "text": "...I apologize. It looks like you're busy.\nShould I come back later?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The monitor blacks out. The wiring short-circuited!\nI rush over to her in a panic.",
+      "choice_data_list": [
+        "Are you okay!? Did you get hurt!?"
+      ]
     },
     {
-      "name": null,
-      "text": "I'm fine.\nI'm so sorry, because of me—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "I'm fine.\nI'm so sorry, this is all my fault—"
     },
     {
-      "name": null,
-      "text": "Trainer, I'm really okay...!\nMore importantly, your work data—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Ah...! What about the computer? Is your work data safe...!?",
+      "choice_data_list": [
+        "Never mind that, let's get you to the infirmary!"
+      ]
     },
     {
-      "name": null,
-      "text": "(I want to make you happier, more and more—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I inspect every inch of her hands.\nLooking for any cuts, any burns—"
     },
     {
-      "name": null,
-      "text": "Ah... h-how is the computer? Is your data safe...!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Trainer, really, I'm okay...!\nMore importantly, your work data—",
+      "choice_data_list": [
+        "I can redo the work anytime. More importantly—"
+      ]
     },
     {
-      "name": null,
-      "text": "(The look of pure relief on your face...\nAh, truly... Trainer, you care for me...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After checking over and over again...\nIt seemed she truly hadn't suffered any injuries.",
+      "choice_data_list": [
+        "Not a scratch... it seems. Thank goodness..."
+      ]
     },
     {
-      "name": null,
-      "text": "Let's make sure it's firmly connected.\nSo that it won't come undone again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I had been careless. I knew she had a habit of wanting to connect everything,\nyet I left unused cables lying around..."
     },
     {
-      "name": null,
-      "text": "Careless of me. Even though I knew she has a habit of wanting to connect everything,\nI left the cords lying around after using them...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "...I'm so sorry. Causing a mess like this...\nand making you worry so much...",
+      "choice_data_list": [
+        "It's fine. As long as you're safe, that's all that matters.",
+        "It's okay. As long as you're unharmed, that's all that matters."
+      ]
     },
     {
-      "name": null,
-      "text": "—Oh, this one too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Trainer......"
     },
     {
-      "name": null,
-      "text": "...Oh my... the plug is halfway out...\nThis could be dangerous...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "(Your face shows such heartfelt relief...\nAh, truly... Trainer, you care so much for me...)"
     },
     {
-      "name": null,
-      "text": "...No.\nIt's nothing at all—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "...So warm. Your feelings, your gaze...\nThey always, without fail, gently envelop me..."
     },
     {
-      "name": null,
-      "text": "It was because I wanted to be of help to her\nthat I became her Trainer...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "Yes, you always take my hand...\nas if inviting me right into the center of the circle...—"
     },
     {
-      "name": null,
-      "text": "After checking over and over again...\nIt seemed she truly wasn't hurt.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "(...Say, Trainer.\nI want to know you even better...)"
     },
     {
-      "name": null,
-      "text": "Understood.\nPlease take your time, don't rush.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "(I want to bring you more, and even more happiness—)",
+      "choice_data_list": [
+        "...Pisa? Does something still hurt after all?"
+      ]
     },
     {
-      "name": null,
-      "text": "Oh... is that what happened?\nA falling out with your roommate...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes, of course. ...Oh, why don't we go to the cafe in front of the station?\nTheir famous towering fruit parfait... to tell you the truth, I've always wanted to try it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I am so sorry. For causing something like this...\nand making you worry...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Pisaaa...! You're seriously the sweetest.\nI just can't help leaning on you...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Man, I'm completely at my wit's end!\nPisa, will you join me for some stress-eating!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "We can take our time there... and you can tell me all about it.\nLet's look for a solution together.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer—...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ugh, that's just it~... I want to make up with her,\nbut even when I talk to her, she totally ignores me...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Kyaa...!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I inspect every inch of her hands.\nLooking for any scratches or burns—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The monitor blacks out. The wiring short-circuited!\nI rush over to her side at once.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Victoire Pisa will likely stay by her friend's side until her spirits lift.\n—A sight I've grown quite accustomed to.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...So warm. Your feelings, your gaze,\nalways, no matter when, gently envelop me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(...Say, Trainer.\nI want to get to know you even better...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Afterward, as I was in the trainer's office facing the computer,\npowering through the mountain of accumulated work—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...There, that should do it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer, I'd like to discuss tomorrow's training—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Victoire Pisa",
+      "text": "...No.\nIt's nothing at all—"
     }
   ],
   "no_wrap": true

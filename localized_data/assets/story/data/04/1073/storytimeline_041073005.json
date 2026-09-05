@@ -1,376 +1,167 @@
 {
-  "title": "",
+  "title": "Under the Indigo Sky",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi: Looks as if she just thought of something\n---\n★ Request\nDisplay Tsurumaru Tsuyoshi (Uniform / Summer).\n\nTsuyoshi: Looks as if she just thought of something",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I don't get this at aaaall!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nIntentionally matching the text as written rather than syncing to the voice.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She's been like this for a while now,\nstaring down her assignment and groaning in frustration.",
+      "choice_data_list": [
+        "What class is that assignment for?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi: Lightly touches around her nose\n---\n★ Request\nGeneric wipe\n---\n★ Request\nDisplay Tsurumaru Tsuyoshi (Uniform / Summer).\n\nTsuyoshi: Lightly touches around her nose (approx. anm_eve_type00_shy10)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ah, Trainer...!\nUm, it's for my race strategy class!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nDisplay Tsurumaru Tsuyoshi (Uniform / Winter).\n---\n★ Request\n*As this recalls past experiences rather than an existing scenario, there is no specific flashback scene to reference.\n---\n★ Request\nDisplay Tsurumaru Tsuyoshi (Uniform / Winter).\n*Not stated explicitly in the text, but the winter uniform is meant to evoke the '99 Autumn Tenno Sho in which Tsuyoshi participated.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "It covers the days I missed when I had a cold, so I'm really struggling...\nAh, b-but don't worry! I'll manage somehow!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nSE: Sound of bumping into a door (something comical if available)\n\n*Reading: Ow-w-w-w-w?!\n---\n★ Request\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Taking a look at the materials, it seems the assignment is to devise\na well-reasoned strategy tailored to specific race conditions."
     },
     {
-      "name": null,
-      "text": "■ Direction\nDisplay Tsurumaru Tsuyoshi (Tracksuit / Summer).\n\nInnermost rail (Saiuchi)\n---\n★ Request\nDisplay Tsurumaru Tsuyoshi (Tracksuit / Summer).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "\"Weather conditions: Heavy rain from 3 days to 2 days prior, clear on race day.\nSee supplementary sheet for rainfall amounts, turf types, and standard moisture levels—\""
     },
     {
-      "name": null,
-      "text": "■ Direction\nGradually makes a troubled face.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "So I need to come up with a strategy for each track and date...\nUmm, supplementary sheet, supplementary sheet..."
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi: Feeling relieved after finally finishing writing the assignment\n---\n★ Request\nDisplay Tsurumaru Tsuyoshi (Uniform / Summer).\n---\n★ Request\nTsuyoshi: Feeling relieved after finally finishing writing the assignment\n\nText wobble",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Let's see. This one is European turf, and this one is Japanese turf.\nHuh? Is overseeding the one where they're mixed together...?"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi: Chokes/coughs (covers mouth with hand, etc.)\n\nIntentionally matching the text as written rather than syncing to the voice.\n---\n★ Request\nTsuyoshi: Chokes/coughs (covers mouth with hand, etc.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "And this spot having a high moisture level means... Nghhh!\nThere are way too many factors to consider!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi: Pumps herself up on the second line\n---\n★ Request\nTsuyoshi: Pumps herself up on the second line",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "U-Um, Trainer, what about this—"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi: Shouts loudly toward the night sky\n---\n★ Request\nTsuyoshi: Feels like she is shouting loudly toward the night sky",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ah, no no no! Never mind, I'm okay!\nThere's no point if I just ask for the answer...!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nGradually makes a troubled face.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It might be tricky, but Tsurumaru Tsuyoshi should be able to figure it out.\nShe's had enough experience to work through this.",
+      "choice_data_list": [
+        "Stay calm and look back on what you've learned so far."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nLarge font\nText wobble",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "(My experience... Does that mean someone taught me this before?)"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi takes out documents.\n---\n★ Request\nTsuyoshi takes out documents (prop1156_00).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "(Rain, turf, drainage... When did we talk about that stuff again?\nNghhh, remember, brain, remeeember!)"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi runs off-screen.\n---\n★ Request\nTsuyoshi runs off-screen.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "*Inhale*... *exhale*... Keep calm, Tsuyoshi...!\n*Inhale*... All right!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nDisplay Tsurumaru Tsuyoshi (Uniform / Summer).\nTsuyoshi: Holds her head in frustration because she can't make progress on the assignment\n---\n★ Request\nDisplay Tsurumaru Tsuyoshi (Uniform / Summer).\nTsuyoshi: Holds her head in frustration because she can't make progress on the assignment",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Whoa! Culvert drainage!\nSo racecourses have underground artificial drainage systems~.",
+      "choice_data_list": [
+        "Right. A lot more tracks have them now, including Tokyo."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi closes her eyes.\n---\n★ Request\nTsuyoshi closes her eyes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "So what was it, the moisture level? How wet the turf is.\nThis course dries out way faster than the numbers would suggest!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi accelerates and leaves the screen.\n---\n★ Request\nTsuyoshi accelerates and leaves the screen.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Everyone takes the inside for the shortest line so it gets torn up fast, and you'd think\nafter heavy rain it'd be unrunnable, but—"
     },
     {
-      "name": null,
-      "text": "(Experience... Does that mean I was taught that somewhere before?)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "If culvert drainage dries it quickly, then instead of crowding the outside to avoid rough ground,\nthere might actually be a chance to win on the inside... is what you're saying!",
+      "choice_data_list": [
+        "If rivals avoid it due to preconceived notions, it just might pay off."
+      ]
     },
     {
-      "name": null,
-      "text": "Thank you very much, Trainer! \nI'm heading home now! Thanks for your hard work~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Whoa! That might turn out to be a killer strategy...\nAh, I gotta write this down!"
     },
     {
-      "name": null,
-      "text": "All right!\nI'm gonna become someone who can be a real help, too~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hey, Trainer!\nCan we use the VR Umalator right now?!"
     },
     {
-      "name": null,
-      "text": "Um, Trainer, what does this――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I've got my thoughts organized, but I won't know for sure\nuntil I actually run it to test it out!",
+      "choice_data_list": [
+        "Understood. I'll put in the request right away."
+      ]
     },
     {
-      "name": null,
-      "text": "Ah, no no no! Never mind, I'm good!\nThere's no point if I just ask for the answer, right...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Just as I thought...!\nIt's drier than I expected... At this rate, I can break out from the very inside!"
     },
     {
-      "name": null,
-      "text": "*inhale*... *exhale*... Calm down, Tsuyoshi...!\n*deep breath*... All right!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "All right, gotta keep testing more things out like this!\nLet's do thissss!"
     },
     {
-      "name": null,
-      "text": "It was certainly a bit tough, but Tsurumaru Tsuyoshi should be able to figure out the answer.\nShe had been through enough real experience for it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I'm all doooone...!\nIt took some time, but this should definitely work...!",
+      "choice_data_list": [
+        "Great work."
+      ]
     },
     {
-      "name": null,
-      "text": "I have no cluuuue!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Wait... Whoa-whoa-whoa, it's almost dorm curfew...!\nI completely lost track of time~!"
     },
     {
-      "name": null,
-      "text": "My thoughts are coming together, but\nI won't really know until I actually run and test it out!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Thank you so much, Trainer!\nI'm heading back now! Thanks for everything~!",
+      "choice_data_list": [
+        "I already let the dorm head know, so calm down—"
+      ]
     },
     {
-      "name": null,
-      "text": "So moisture content, was it? The amount of water in the turf.\nThis course dries out a lot better than the numbers suggest, huh!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Owch?!"
     },
     {
-      "name": null,
-      "text": "(Rain, turf, drainage... When was it that someone\ntold me about that? Hmmm, come on, brain, remember~~!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I slammed right into that face-first... Th-That's so embarrassing~!"
     },
     {
-      "name": null,
-      "text": "If underground culvert drains make it dry quickly, then instead of the crowded outside that everyone takes to avoid rough ground,\nthere might actually be a chance to win on the inside... right!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Still, Trainer really is amazing!\nJust one look and you already knew what you'd taught me before!"
     },
     {
-      "name": null,
-      "text": "Looking over the contents, it seemed to be an assignment requiring her to formulate a theoretical strategy for a race with specific conditions.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "If I'm panicking until someone calls out to me, I've still got a long way to go.\nI need to get it together! Get a grip, Tsuyoshi-!!"
     },
     {
-      "name": null,
-      "text": "I'm not gonna just be the one getting saved!\nThis summer, I'm definitely going to become someone you can rely on!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "*cough!* *hack!* ...Whew, that was close. That one didn't count.\nA reliable Tsuyoshi never panics."
     },
     {
-      "name": null,
-      "text": "Ow-w-w?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "All right!\nI'm gonna become someone everyone can count on!"
     },
     {
-      "name": null,
-      "text": "It covers the material from when I was out with a cold, so I'm having a hard time...\nAh, no, but! I'll manage somehow!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I won't just be the one getting rescued!\nThis summer, I will definitely become someone dependable!"
     },
     {
-      "name": null,
-      "text": "*cough*! *hack*! ...Phew, that was close. That one didn't count.\nSteady Tsuyoshi doesn't panic.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, Trainer...!\nUm, it's my race strategy homework!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even so, you really are amazing, Trainer!\nYou knew right away just from looking at it that someone taught me before!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Tsurumaru Tsuyoshi's determined words spilled from her lips,\nonly to be absorbed into the indigo night sky.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Since everyone runs the shortest distance on the inside, it gets torn up easily,\nso people tend to think it's impossible to run on when soaked with heavy rain, but――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa! That might actually make for a secret winning\nstrategy... Ah, I need to take notes!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If I'm panicking until someone calls out to me, I still have a long way to go.\nPull it together! Get it together, Tsuyoshi~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "All right, I gotta keep this momentum going and try more stuff!\nLet's do thisssss!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Weather conditions: Heavy rain from 3 to 2 days prior, sunny on race day.\nRefer to separate sheet for precipitation amounts, turf type, and baseline moisture content—\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And if there's high moisture here, that means... mmgh!\nThere are so many factors to consider after all!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Use this to come up with strategies per racetrack and date/time... okay.\nLet's see, separate sheet, separate sheet...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ummm. This one's cool-season grass, and this one's Japanese lawngrass.\nHuh? Was overseeding the mix of the two...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wait... Whoaaa, dorm curfew's almost here...! \nI completely forgot about the time~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Just as I thought...!\nIt's drier than I imagined... I can break out from the inside lane with this!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I slammed straight into the glass face-first... Th-That's so embarrassing~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She had been like this for a while now,\nstaring down the assignment and groaning in deep thought.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa~! Subsurface drainage culverts!\nSo racetracks actually have artificial underground drainage systems~",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, Trainer!\nCan I use the VR Umalator right now!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm finisheeeeed...! \nIt took a ton of time, but this oughta do the trick...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Spoken with pure determination, Tsurumaru Tsuyoshi's vow\nvanished into the indigo night sky."
     }
   ],
   "no_wrap": true

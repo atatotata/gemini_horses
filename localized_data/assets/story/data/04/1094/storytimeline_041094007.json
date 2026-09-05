@@ -1,509 +1,263 @@
 {
-  "title": "",
+  "title": "The \"Best\" Partner",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\nHolding grilled carrot\n---\n★ Request\nHave Jungle Pocket hold prop1147_01 (bite-taken grilled carrot)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Oh, finally found ya.\n—Hey, got something I gotta tell ya.",
+      "choice_data_list": [
+        "Something to tell me? What is it?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nHave Jungle Pocket put away the carrot she is holding halfway through the line below",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Ever heard of a crew called the \"Grizzlies\"?\nApparently, this area around here is their turf."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\n---\n★ Request\nAt this timing, remove the ice cream and taiyaki from both of Jungle Pocket's hands",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Their head honcho's pissed at me for some reason.\n...Said I didn't show proper respect or whatever? What a pain in the ass."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSame character as Episode 5\nSilence for the first 1 sec",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Still, we're the ones who walked onto someone else's turf.\nIt'd be lame as hell not to handle things properly."
     },
     {
-      "name": null,
-      "text": "★ Request\nJungle Pocket (Summer Uniform)\nWalk in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "So yeah.\nI'm gonna go charge right into their face."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Biting into chocolate banana\n---\n★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "And you're coming with me.",
+      "choice_data_list": [
+        "...Wait, what? I'm storming in too...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\n---\n★ Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cornrowed Horsegirl",
+      "text": "...Pokke-san. Like I said earlier...\nare you sure you don't want us to back you up?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\n*As the head of Grizzly, he isn't intimidated by Pokke's pressure.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cornrowed Horsegirl",
+      "text": "Trainer-san's just a civilian, right?\nIsn't that dangerous?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSpoken half out of concern for the Trainer, and half out of a desire to act as Pokke-san's bodyguard herself",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Stay out of it. It's my call."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nHolding a triple-scoop ice cream and taiyaki in both hands.\n---\n★ Request\nTime elapses\n---\n★ Request\nDisplay Jungle Pocket (Jinbei)\n\nPlease have Jungle Pocket hold prop1354_00 (colorful triple-scoop ice cream) and prop1067_00 (taiyaki) in each hand.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "—I can count on you, right, Trainer?"
     },
     {
-      "name": null,
-      "text": "★ Request\nJungle Pocket (Jinbei)\nWalk in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Truth be told, I'm scared... but as the one in charge of training her,\nthere is no way I can let Jungle Pocket go alone.",
+      "choice_data_list": [
+        "...Yeah. I'm going with you!",
+        "...Yeah. I'm going with you!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nJungle Pocket (Summer Uniform) walk in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Alright. —Then get ready."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Jungle Pocket (Jinbei)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "—You the bunch calling yourselves the \"Grizzlies\"?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Fireworks sounds\nPlease keep this continuing from here until the end of the scenario",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzlies Leader",
+      "text": "...Haha. So you really did come here, you Demon of Tokyo!\nI've heard all about your legend. Been dyin' to meet ya!",
+      "choice_data_list": [
+        "(This definitely feels dangerous...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 1st year high school (same age as Jungle Pocket)\nPersonality: Charismatic yankee who cherishes his crew\nSilence for the first 1 sec",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I brace myself to act the second anything goes wrong. At the very least,\nI have to make sure Jungle Pocket doesn't get hurt...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\n---\n★ Request\nDisplay Jungle Pocket (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzlies Leader",
+      "text": "Didn't think you'd actually show your face here... Heheheh!\nAlright, guys! Give this outsider our official welcome!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Holy crap, this is DELICIOUS! What the heck is this?!\nIs this seriously a carrot?! I've never had anything like this in my life!!"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Jungle Pocket (Jinbei)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzly Head",
+      "text": "Damn straight it is! That right there's our local pride—\nthe Queen Carrot! Got a whole 'nother level of sweetness than regular ones!"
     },
     {
-      "name": null,
-      "text": "Hah? What, you don't get it either?\nGood grief...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzly Head",
+      "text": "Heh... The Demon of Tokyo came all the way out to our turf, after all!\nIf we didn't hook you up with something this good, our rep would take a hit!",
+      "choice_data_list": [
+        "(They're actually super sweet kids!!)"
+      ]
     },
     {
-      "name": null,
-      "text": "Alright. —Then get ready.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It seemed the Grizzly gang were just disgruntled about not getting a proper greeting,\nand in truth, actually held deep respect and admiration for Jungle Pocket."
     },
     {
-      "name": null,
-      "text": "AHAHAHA! Yeah!! That's the spirit!!\n*inhallllles*... TAAAAA-MAAA-YAAAAAA!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzly Head",
+      "text": "By the way, there's a huge festival going down tonight around here!\nAll the locals are gonna hype it up, so you better come through!"
     },
     {
-      "name": null,
-      "text": "Damn straight it is! That's a Queen Carrot,\nharvested right from our hometown! The sweetness is on a whole 'nother level compared to regular ones!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "A festival?! For real?! Hell yeah, I'm down!\n—Hey! You're comin' too, right?!",
+      "choice_data_list": [
+        "Y-Yeah. Sounds like fun!",
+        "Y-Yeah. Sounds like fun!"
+      ]
     },
     {
-      "name": null,
-      "text": "...I felt like I had stepped that much closer to being the \"partner\" she wanted.\nAnd that made me proud.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Ooooh! A shooting gallery!! Heheh, man, it's been a while!\nOi, keep your eyes glued on me, got it? I'm shootin' down the biggest prize!",
+      "choice_data_list": [
+        "Shouldn't we eat the food we bought first?"
+      ]
     },
     {
-      "name": null,
-      "text": "Aw c'mon, what's the harm, partner! Don't be so stingy!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Whoops, right you are! First, grub—Whoa! They got goldfish\nscooping too?! Hey, let's have a showdown! Loser buys cotton candy!"
     },
     {
-      "name": null,
-      "text": "Whoops, right! First off, food—whoa! They got goldfish scooping\ntoo?! Hey, let's have a match! Loser buys cotton candy!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Oho. Is that a chocolate-covered banana?\nWhen'd you buy that? Gimme a bite too!",
+      "choice_data_list": [
+        "If you want one, the stall's over—"
+      ]
     },
     {
-      "name": null,
-      "text": "...My bad, alright? I didn't mean anything weird by it.\nJust found it kinda curious, is all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "*Chomp.*"
     },
     {
-      "name": null,
-      "text": "Someone who can stand their ground when push comes to shove.\n—I've seen that in them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Mmm!\nWhoa, this is insanely good! Hey, hey, one more bite!",
+      "choice_data_list": [
+        "D-Don't just take food out of people's hands..."
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer-san's a normie, right?\nIsn't that dangerous?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Aw, c'mon, partner! Don't be so stingy!"
     },
     {
-      "name": null,
-      "text": "Ever heard of a crew called \"Grizzly\"?\nWord is, this area's their turf.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "C'mon, over here, over here!\nSomeone tipped me off to this secret viewing spot!"
     },
     {
-      "name": null,
-      "text": "Seeing the smile on her face, a question crossed my mind—\nWhy was it me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Heheh. Wonder when the fireworks'll start!\nHow many d'ya think there'll be? Hope the show goes on forever!",
+      "choice_data_list": [
+        "Yeah, I can't wait...!",
+        "Yeah, I can't wait...!"
+      ]
     },
     {
-      "name": null,
-      "text": "By the way, there's a huge festival happening around here tonight!\nUs locals are gonna make it wild, so you'd better show up!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Oho! Look at you, all hyped up!\nThat's the spirit. Let's live it up to the max!"
     },
     {
-      "name": null,
-      "text": "A festival?! For real?! Hell yeah, I'm going!\n—Hey?! You're coming too, right?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Say, thanks for today!\nFor comin' along with me to the Grizzly gang's turf.",
+      "choice_data_list": [
+        "I'm your Trainer. It's only natural."
+      ]
     },
     {
-      "name": null,
-      "text": "Hey. Leave it at that.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Heheh! Guess that's true!"
     },
     {
-      "name": null,
-      "text": "I gave a firm nod in response. ...Deep down, I felt overjoyed.\nI had finally earned Jungle Pocket's trust.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Looking at her beaming face, a sudden question crosses my mind—\nWhy was I the one she chose?",
+      "choice_data_list": [
+        "Didn't you find me a bit unreliable?",
+        "Didn't you find me a bit unreliable?"
+      ]
     },
     {
-      "name": null,
-      "text": "Well, but we're the ones who stepped onto someone else's turf.\nNot making things right would be totally lame.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Huh? What, you don't get it either?\nGood grief..."
     },
     {
-      "name": null,
-      "text": "—I can count on you, right? Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Come to think of it, that Grizzly head was sayin' something pretty similar—"
     },
     {
-      "name": null,
-      "text": "Get it now, partner?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzly Head",
+      "text": "...Hey, mind if I ask ya one thing?\nWhy do you drag someone like that around with you?"
     },
     {
-      "name": null,
-      "text": "I braced myself so I could act immediately if anything went wrong. At the very least,\nI had to make sure Jungle Pocket didn't get hurt...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Huh? What do ya mean, 'someone like that'...\nYou talkin' about my Trainer?"
     },
     {
-      "name": null,
-      "text": "...Haha. So you really did come over here, Ogre of Tokyo!\nI've heard all about your legends. Wanted to meet ya, y'know?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzly Head",
+      "text": "You're the 'Demon of Tokyo', ain'tcha? If you're rollin' with someone,\nshouldn't it be someone who ain't so wishy-washy—"
     },
     {
-      "name": null,
-      "text": "To be completely honest, I was scared... but as her Trainer,\nthere was no way I could let Jungle Pocket go alone.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Oi. Stop right there."
     },
     {
-      "name": null,
-      "text": "Apparently their head is pissed at me about something. ...Says I didn't\n\"pay my respects\" or whatever? Such a pain in the ass, seriously.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "You don't wanna regret what you say next, do ya?"
     },
     {
-      "name": null,
-      "text": "...Heheh! Thought so!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Grizzly Head",
+      "text": "...My bad, alright? I didn't mean nothin' by it.\nJust thought it was kinda weird, is all."
     },
     {
-      "name": null,
-      "text": "Makes me wanna put my heart in your hands.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Don't go judgin' 'em just 'cause they look soft.\n...My Trainer's cool as hell on the inside, y'know."
     },
     {
-      "name": null,
-      "text": "It seemed Grizzly was only upset about not receiving a greeting,\nand actually held great respect for Jungle Pocket.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "When push comes to shove, they stand their ground with pure guts.\n—I've seen it with my own eyes."
     },
     {
-      "name": null,
-      "text": "Looking forward to working with you from here on out tooooo!!!\nPartneeeeer!!! ...Heheh!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Makes me wanna put my whole heart in their hands."
     },
     {
-      "name": null,
-      "text": "Don't butt in. It's my call.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Well, maybe they could use a little more muscle? But hey...\nI ain't talkin' out of my ass here. I mean it. For real."
     },
     {
-      "name": null,
-      "text": "That. You're coming with me, got it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "You get me, partner?"
     },
     {
-      "name": null,
-      "text": "Didn't think you'd actually show your mug here... heh-heh-heh!\nAlright, boys! Let's welcome this outsider our way!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I give a firm nod to her question. ...From the bottom of my heart, I felt truly happy.\nI had genuinely earned Jungle Pocket's trust."
     },
     {
-      "name": null,
-      "text": "...Anyway, thanks for today!\nFor coming along with me to Grizzly's place.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It felt as though I was that much closer to becoming the \"partner\" I had always strived to be.\nAnd that filled me with immense pride."
     },
     {
-      "name": null,
-      "text": "Heheh. Hope the fireworks start soon!\nHow many do you think there'll be? Hope it lasts long!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Whoa-ho?! ...Awesome!!\nTAMAYA-A-A-A-A!!!",
+      "choice_data_list": [
+        "Oh, wow, so beautiful...!",
+        "Wow, so beautiful...!"
+      ]
     },
     {
-      "name": null,
-      "text": "So yeah.\nI'm gonna charge right in and hit 'em with a hello.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Huh?! Way too quiet, way too quiet! Nobody can hear that, man!\nBelt it out louder, let's go!"
     },
     {
-      "name": null,
-      "text": "You're the \"Ogre of Tokyo\", right? If so,\nyou should have someone way less wimpy accompanying you—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "TA-A-A-MA-A-A-YA-A-A-A-A!!!\nC'mon, give it a shot! From the gut!",
+      "choice_data_list": [
+        "Ta... TA-A-A-A-A-MA-A-A-YA-A-A-A-A-A!!"
+      ]
     },
     {
-      "name": null,
-      "text": "Don't go judging 'em as wimpy.\n...They're totally badass, y'know? On the inside.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "AHAHAHA! Yeah!! That's what I'm talkin' about!!\n*Inhaaale*... TA-A-A-A-MA-A-A-YA-A-A-A-A-A-A-A!!!"
     },
     {
-      "name": null,
-      "text": "Come to think of it, Grizzly was saying something similar—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Pokke-san. Like I asked earlier...\nAre you seriously sure you don't want us coming along?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh? \"Someone like that\"...\nYou talking about my Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Aaah?! Too quiet, too quiet! Can't hear ya with a voice like that!\nPut some chest into it, dammit!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Heheh... The Ogre of Tokyo came all the way out to see us!\nIf we didn't prepare at least this much, our rep would be shot!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh! You're really getting into it!\nNice. Let's have ourselves a blast!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You don't wanna have regrets, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*nom*",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Mmm!\nThis is freakin' delicious! C'mon, c'mon, one more bite!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, finally found ya.\n—Hey, got a second to talk?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Soooo goooood! What the heck is this?!\nIs this seriously a carrot?! I've never had anything like this before!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "C'mon, over this way!\nSomeone told me about a sweet secret spot!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Oh. Is that a chocolate banana?\nWhen'd you buy that? I want some too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Hey, mind if I ask you something?\nWhy do you drag someone like that around with you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa?! ...Awesome!!\nTAAA-MAAA-YAAAA!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well, physical strength-wise? I kinda wish they'd bulk up a bit more, but...\nI'm not just making stuff up, okay? For real.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "TAAAAA-MAAA-YAAAAAA!!!\nC'mon, shout it out! From the gut!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ohhh! A shooting gallery!! Heheh, it's been a while!\nHey, keep your eyes peeled, got it? I'm taking down the biggest prize there is!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—You guys the ones called \"Grizzly\"?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "LET'S KEEP KICKIN' BUTT TOGETHER, ALRIGHT?! PARTNER-R-R-R-R-R-R!!! ...Heheh!"
     }
   ],
   "no_wrap": true

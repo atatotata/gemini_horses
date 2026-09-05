@@ -1,327 +1,164 @@
 {
-  "title": "",
+  "title": "Romance! Top Speed's Incomparable Radiance",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nDisplay Calstone Light O (Regular Racewear)\nLoop screen, sprinting at high speed\n\nSE: High-pitched whirring glow\n---\n★ Request\nFade in / After fade in\n---\n★ Request\nDisplay Calstone Light O (Regular Racewear)\nLoop screen, sprinting at high speed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Most Umamusume aim to win their races.\nHowever, Calstone Light O...",
+      "choice_data_list": [
+        "Is top speed more important to you?",
+        "Is top speed more important to you?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Two-person dash",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Yes, exactly!",
+      "choice_data_list": [
+        "Why...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: around 8 years old\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Purely because—I want to run faster than anyone else."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: High-pitched whirring glow",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Having been born an Umamusume, I want to dash at the fastest speed in the world.\nI want to prove it on the racetrack!"
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "That—and that alone—is my dream.\nMy ultimate summit.",
+      "choice_data_list": [
+        "So race results come second?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Calstone Light O (Gym Clothes, unspecified, Tracen Academy)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "I wouldn't go quite that far.\nHowever, I have no intention of sacrificing speed just to pick up a win."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Agnes Tachyon (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "...I have many weaknesses, such as cornering.\nYet the brilliance of top speed obliterates them all."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Record line as it was omitted previously.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "I simply—want to become light."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / After fade in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Just like my mother—to leave behind an unfading trail of radiance."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Calstone Light O (Gym Clothes, unspecified, Tracen Academy)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Light O",
+      "text": "Foton reeseerch?\nWhoa, your paper got super famous, Mama!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at beginning",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Light O's Mother",
+      "text": "It did.\nThough you know, this research doesn't make a single penny."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: Late 20s\nPersonality: Cool scientist, not unkind but brisk and businesslike",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Light O",
+      "text": "I seeee. So it was a waste of work.\nBuuut~"
     },
     {
-      "name": null,
-      "text": "...I have many weaknesses, such as cornering.\nHowever, the brilliance of top speed obliterates them all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Light O",
+      "text": "I really love the sparkly light Mama made~!"
     },
     {
-      "name": null,
-      "text": "That's right.\nThough I must say, this research doesn't earn a single penny.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "—A truly touching mother-daughter episode.",
+      "choice_data_list": [
+        "Was it?! Sounded pretty harsh to me, though?!"
+      ]
     },
     {
-      "name": null,
-      "text": "I love the sparkly things Mom makes~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "So, Trainer, a question for you.\nIf I team up with you—can we aim for top speed?",
+      "choice_data_list": [
+        "...Yeah, we can.",
+        "...Yeah, we can."
+      ]
     },
     {
-      "name": null,
-      "text": "I wouldn't go that far.\nHowever, I have no intention of throwing away speed just to pick up a win.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Of that, there was no doubt. I could teach her racecraft,\nwhile simultaneously raising her raw running speed."
     },
     {
-      "name": null,
-      "text": "I see. Then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "I see. In that case—"
     },
     {
-      "name": null,
-      "text": "Well now, aren't you saying something quite fascinating?\nTruly intriguing words.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "The contract is sealed. Present the three-year plan.\nWhat is the final objective? Where is the victory hot spring trip?",
+      "choice_data_list": [
+        "Too fast, too fast, too fast..."
+      ]
     },
     {
-      "name": null,
-      "text": "Having been born an Umamusume, I want to run faster than anyone in the world.\nI want to prove it on the racetrack!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "She formed a contract all on her own and almost sprinted straight through three years.\nThis is a serious matter, so I can't just accept lightly.",
+      "choice_data_list": [
+        "Let me think about it."
+      ]
     },
     {
-      "name": null,
-      "text": "A romantic ambition so utterly pure.\nA dream nobody else targets precisely because of its absolute purity. And yet...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "—Time's up. Is it a go? Now, for the three-year...",
+      "choice_data_list": [
+        "Still too fast! Give me a few days!"
+      ]
     },
     {
-      "name": null,
-      "text": "Simply because—I want to run faster than anyone else.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "She was hopelessly impatient and totally inflexible.\nI somehow managed to get her to wait three days, and we parted ways for the afternoon."
     },
     {
-      "name": null,
-      "text": "Which brings me to my question, Trainer.\nIf I partner with you—can we aim for maximum velocity?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Watching the Umamusume sprinting across the training grounds,\nI lost myself in thought."
     },
     {
-      "name": null,
-      "text": "Simply to leave an everlasting trail of light—just like Mother did.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "I won't lose... I won't lose...!\nToday I'll be the first across that finish line!"
     },
     {
-      "name": null,
-      "text": "Yes, precisely!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Durandal",
+      "text": "Heh, stop me if you can!\nWitness my Holy Sword shine upon the precipice of victory and defeat!"
     },
     {
-      "name": null,
-      "text": "Everyone aims for victory without hesitation.\nThat pursuit is beautiful, and rightfully so.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Everyone aims for victory without hesitation.\nThat sight is beautiful, and rightfully true."
     },
     {
-      "name": null,
-      "text": "She almost locked me into a contract without asking and sped straight through three years.\nThis is a major matter, so I can't take it on lightly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Calstone Light O aiming for top speed is even more captivating.\nYet whether it's 'right' is another question...",
+      "choice_data_list": [
+        "Challenging top speed, huh..."
+      ]
     },
     {
-      "name": null,
-      "text": "Most Umamusume aim to win races.\nYet Calstone Light O...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "An almost excessively pure romantic dream.\nPrecisely because of that purity, no one else strives for it. Even so..."
     },
     {
-      "name": null,
-      "text": "That—and that alone is my dream.\nMy ultimate peak.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I want to see it... I want to see Calstone Light O grow faster\nand dash at hypersonic speeds more than anyone. But at the same time..."
     },
     {
-      "name": null,
-      "text": "Agnes Tachyon. Just a passing scientist who has taken up residence\nin a quiet corner of this Tracen Academy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Is it right to partner with an Umamusume who doesn't hold victory supreme?\nAnd if I do, how should I guide her?"
     },
     {
-      "name": null,
-      "text": "Contract concluded. A three-year plan.\nWhere is our ultimate goal? Where is the hot springs trip for our victory celebration?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Hmph, top speed, you say?"
     },
     {
-      "name": null,
-      "text": "Is it right to partner with an Umamusume who doesn't hold victory as supreme?\nIf we do partner up, how should I guide her?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Quite an amusing notion.\nA concept that thoroughly piques my curiosity."
     },
     {
-      "name": null,
-      "text": "Hmph, try and stop it if you can!\nThis Holy Sword that unfailingly shines upon the brink of victory and defeat!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Glancing beside me, I saw an Umamusume standing there with a suspicious gleam in her eyes.",
+      "choice_data_list": [
+        "And you are—?",
+        "And you are—?"
+      ]
     },
     {
-      "name": null,
-      "text": "Is that so? Then it's completely useless, huh.\nEven so~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Agnes Tachyon",
+      "text": "Agnes Tachyon. Just a passing scientist who's set up shop\nin a quiet corner of Tracen Academy."
     },
     {
-      "name": null,
-      "text": "I simply—wish to become light.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Won't you tell me?\nTell me about this... \"challenge toward maximum velocity\" of yours.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "There was no doubt about that. While I can teach her racing techniques,\nI can also increase her running speed itself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Time's up. Are you ready? Well then, our three-year...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Calstone Light O, chasing her maximum velocity, is even more beautiful than that.\nThough whether it's the \"right\" path is another question...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—A touching mother-daughter tale.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I want to see it... I want to see Calstone Light O become even faster,\nsprinting at supersonic speed more than anyone else. But at the same time...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She was utterly impatient and uncompromising.\nSomehow I managed to get her to wait three days, and we parted for the day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hm, maximum velocity, is it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Glancing to the side, I noticed an Umamusume standing there with a suspicious glint in her eyes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Photon research?\nWhoa, Mommy's paper got famous!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I don't wanna lose... I don't wanna lose...!\nToday I'll be the one to cross the finish line first!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The Umamusume sprinted across the training grounds.\nWatching them, I found myself lost in thought.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Agnes Tachyon",
+      "text": "Won't you tell me more?\nAbout this \"challenge of top speed\" of yours, that is."
     }
   ],
   "no_wrap": true

@@ -1,320 +1,200 @@
 {
-  "title": "",
+  "title": "Gazing Softly at Lavender",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nSmall Font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Early one morning on my way to the trainer's office,\nI ran into Curren Bouquetd'or, who was holding a small parcel and murmuring softly to herself."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Curren Bouquetd'or (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Yes—all the moisture is completely dried out.\nNow, all that's left is...",
+      "choice_data_list": [
+        "Good morning, Bouquet. What are you up to?",
+        "Good morning, Bouquet. What are you up to?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nSmall Font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Ah—.\nI was thinking of making potpourri... with dried flowers."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Curren Bouquetd'or (Winter Uniform)\nHolding Bouquet, Gift Bag (prop1005_02)\n(Please have her put it away as appropriate)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "It's like a natural fragrance made from flowers—and it smells lovely.\nOnce I add a few drops of oil and put it in a jar, it'll be all done.",
+      "choice_data_list": [
+        "Flower scents, huh? They're so soothing. I love them.",
+        "Flower scents, huh? They're so soothing. I love them."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Curren Bouquetd'or (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Oh... Have you visited the academy's garden plot yet?\nMany flowers are in full bloom this time of year—they smell wonderful.",
+      "choice_data_list": [
+        "Really? Now you've got me curious!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\n*Line spoken by present-day Curren Bouquetd'or",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "...If you'd like, would you care to come along right now?\nI was just on my way to tend to the flowers myself."
     },
     {
-      "name": null,
-      "text": "★Request\nFade to Black / Fade from Black\nWhite Filter OFF\n---\n★Request\nDisplay Curren Bouquetd'or (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "This planter has jasmine.\nIt's right in full bloom—known for its sweet, captivating scent.",
+      "choice_data_list": [
+        "You're right, it smells wonderful..."
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\n*Line spoken by present-day Curren Bouquetd'or\n---\n★Request\nFade to Black / Fade from Black\nWhite Filter ON\n---\n★Request\nDisplay Curren Bouquetd'or (Winter Uniform)\nImage of her tending to flowers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu—it's a very calming fragrance, isn't it?\nIt's quite popular for aromatherapy and perfume, too."
     },
     {
-      "name": null,
-      "text": "★Request\nTime Passage\n---\n★Request\nDisplay Curren Bouquetd'or (Winter Jersey)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Tulips are so vivid and eye-catching—\nthey're often used in floral arrangements.",
+      "choice_data_list": [
+        "They're all so pretty... I could gaze at them forever.",
+        "They're all so pretty... I could gaze at them forever."
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu—.\nLooking at flowers warms my heart, too."
     },
     {
-      "name": null,
-      "text": "One early morning, on my way to the Trainer's office,\nI ran into Curren Bouquetd'or holding a small parcel and murmuring to herself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "I truly believe flowers have the power to soothe the soul.\nWhether blooming in a field—or arranged in bouquets and potpourri."
     },
     {
-      "name": null,
-      "text": "It's like an air freshener made of flowers—and it has a wonderful scent.\nAll that's left is to add a few drops of oil and seal it in a jar, and it's done.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "If I can bring even a little brightness to everyone's hearts\nthrough things like this—it would make me so happy.",
+      "choice_data_list": [
+        "(Everyone's hearts, huh... That's so like Bouquet.)",
+        "(Everyone's hearts, huh... That's so like Bouquet.)"
+      ]
     },
     {
-      "name": null,
-      "text": "Those are—dahlias.\nThe bulbs I planted a while back—sprouted just the other day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...These flowers must be filled to the brim with her gentle kindness toward others.\nLooking around once more—",
+      "choice_data_list": [
+        "Oh... is this a fresh sprout?"
+      ]
     },
     {
-      "name": null,
-      "text": "...If I press the matter too persistently, I might just get in her way.\nAfter watching the flowers for a short while longer, I returned to work.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Inside a sun-drenched planter,\na few tiny sprouts were peeking out from the soil."
     },
     {
-      "name": null,
-      "text": "But—because you cared for them and waited patiently—\nthe joy when they finally bloom is all the greater.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Those are—dahlias.\nThe bulbs I planted a while back—just sprouted the other day.",
+      "choice_data_list": [
+        "I see. I hope they bloom beautifully.",
+        "I see. I hope they bloom beautifully."
+      ]
     },
     {
-      "name": null,
-      "text": "Dahlia-san...\nI'm so glad you sprouted so nicely.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Thank you very much.\nThey're a birthday present for my mother—so I'm really looking forward to it."
     },
     {
-      "name": null,
-      "text": "Growing flowers has probably made her accustomed to waiting.\nEven so, wouldn't taking care of them for such long periods be difficult?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "They won't bloom until autumn, so it'll take some time—\nbut I'm sure they'll make a gorgeous bouquet.",
+      "choice_data_list": [
+        "Autumn... Naturally, that's still quite a ways off.",
+        "Autumn... Naturally, that's still quite a ways off."
+      ]
     },
     {
-      "name": null,
-      "text": "The soil is—yep, not dry.\nWatering looks fine for now—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Yes—but watching them grow day by day is such a joy.\nWatering them, pulling weeds..."
     },
     {
-      "name": null,
+      "name": "Curren Bouquetd'or",
+      "text": "Besides—waiting is just preparing for the joy to come.",
+      "choice_data_list": [
+        "――！"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Sprouting, budding, blooming.\nRaising flowers—is a continuous journey of waiting."
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "However—because we care for them and wait patiently—\nthe joy when they finally bloom is all the greater."
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "And imagining the smile of the person receiving the flowers...\nThat's another part of the fun while waiting."
+    },
+    {
+      "name": "Narrator",
+      "text": "Through growing flowers, she's probably grown accustomed to waiting.\nEven so, caring for them over such a long time must be hard work.",
+      "choice_data_list": [
+        "If you'd like... want some help tending to the flowers?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
       "text": "Eh...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "I'm a total novice, but I wondered if there's anything I could do."
+      ]
     },
     {
-      "name": null,
-      "text": "Right—the moisture is completely drained.\nAll that's left is...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "—.\nIt's very kind of you to offer—thank you so much."
     },
     {
-      "name": null,
-      "text": "Tulips are vibrant and eye-catching—\nso they're often used in arrangements.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "However—I'm quite alright.\nI love taking care of flowers, so just the thought alone—ah."
     },
     {
-      "name": null,
-      "text": "Even if I can't help directly, there must be something I can do.\nWith that thought in mind, I watched her from afar as she gazed upon the blossoms.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Um, if you'd like—would you come visit here again?\nI think the flowers would be... happier with someone to look at them.",
+      "choice_data_list": [
+        "I see... Got it! I'll come by again!"
+      ]
     },
     {
-      "name": null,
-      "text": "Um, if you'd like—would you come visit here again?\nThe flowers would... be happier if more people came to see them, after all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Pestering her any further would only get in her way.\nAfter admiring the flowers a while longer, I returned to work."
     },
     {
-      "name": null,
-      "text": "I believe flowers—have the power to heal the soul.\nWhether blooming in a garden—or arranged in bouquets and potpourri.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days later... feeling a sudden urge to see the flowers,\nI headed back to the garden plot. There—"
     },
     {
-      "name": null,
-      "text": "Fufu—it's a soothing scent, isn't it?\nIt's quite popular as aromatherapy and perfume, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "The soil is—yes, not dry at all.\nNo need for water just yet—",
+      "choice_data_list": [
+        "(Ah... it's Bouquet.)"
+      ]
     },
     {
-      "name": null,
-      "text": "They bloom in autumn, so it'll take some time yet—\nbut I'm sure they will make a lovely bouquet.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "Dear dahlia...\nI'm so happy to see you growing your sprouts so nicely."
     },
     {
-      "name": null,
-      "text": "If things like these—\ncan brighten everyone's hearts even a little bit—that would make me happy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Curren Bouquetd'or",
+      "text": "May you bloom into a lovely flower.\nLet's keep doing our best together from now on, okay?",
+      "choice_data_list": [
+        "(...Just as I thought...)"
+      ]
     },
     {
-      "name": null,
-      "text": "No, really—I'm fine.\nI love tending to flowers, so just the thought alone means a lot—ah.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She waits for the flowers.\nDevoting herself wholeheartedly, cradling a gentleness far greater than most."
     },
     {
-      "name": null,
-      "text": "She waits for the flowers.\nWith a kindness deeper than anyone else's, devoted and earnest.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That's precisely why—as an amateur—\nI felt I shouldn't needlessly meddle in her flower-raising.",
+      "choice_data_list": [
+        "(I should just watch over her quietly.)"
+      ]
     },
     {
-      "name": null,
-      "text": "Oh my... In that case, have you visited the academy's garden plot yet?\nAt this time of year, many flowers are in full bloom—and they smell wonderful.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufu—.\nLooking at the flowers warms my heart, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That was precisely why—as an amateur,\nI felt I shouldn't meddle carelessly in her flower care.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—.\nThank you for being so thoughtful—it makes me happy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah—.\nI was thinking of making potpourri—with dried flowers.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thank you so much.\nIt's a birthday present for my mother—so I'm really looking forward to it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...If you'd like—would you care to come along now?\nI was actually—just on my way to tend to the flowers.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Besides—waiting is just preparation for joy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "May beautiful flowers bloom.\nLet's do our best together from now on, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes—watching them grow day by day brings me so much joy.\nWatering them, pulling weeds, and everything in between.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This planter has jasmine.\nThey're in their prime right now—flowers known for their sweet scent.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Inside the sun-drenched planter—\na few tiny sprouts were peeking out from the soil.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And—picturing the smiles of the people\nwho receive the flowers... That's part of the fun of waiting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...The flowers here must be filled with so much of her thoughtful kindness.\nTaking another look around the area—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sprouting, budding, and blooming.\nGrowing flowers is—one continuous cycle of waiting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A few days later... Having the urge to see the flowers,\nI paid another visit to the garden plot. There—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even without helping directly, there must be something I can do.\nWith that thought, I watched her from a distance as she gazed upon the flowers."
     }
   ],
   "no_wrap": true

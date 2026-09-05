@@ -1,614 +1,280 @@
 {
-  "title": "",
+  "title": "Close Your Eyes and You See It All",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Mr. C.B. was feeling unwell when I found her in town. Since she insisted\nit wasn't serious, I decided to walk her back to her place for now."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: None\n---\n★ Request\nFade in from black\n---\n★ Request\nDisplay Mr. C.B. (Outfit: Summer gym clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Haha, sorry about this. Making you walk me all the way home.\nPhew... you really saved me...",
+      "choice_data_list": [
+        "Maybe I should take you to a clinic after all?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Mr. C.B. (Outfit: Summer gym clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "No, I'm good.\nI know this feeling—it's the kind that goes away after some sleep... *cough*"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / After fade in\n---\n★ Request\nDisplay Mr. C.B. (Outfit: Summer uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...I was still a bit worried, but lingering too long wouldn't be right either.\nJust as I turned to leave—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 40s\nPersonality: Cool\n---\n★ Request\nDisplay Mr. C.B.\nOutfit: Gym clothes (Color: Unspecified, Number: Unspecified, Name text: Mr. C.B. *since before academy enrollment) *Same as episode 3, line 30 flashback scene",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Wait."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Approx. 1 second of silence",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "I live alone, see. And right now, there's nothing in the apartment...\nSorry to ask, but... could you pick up some water for me...?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Approx. 2 seconds of silence",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Taking a closer look, not only was there no water, there wasn't a single bite\nof food. I ended up buying groceries, cooking a meal... and before I knew it, I was fully nursing her back to health."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: None\n*Current Mr. C.B.'s monologue",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Haaah... this udon hits the spot...!\n...Thanks a bunch, even making me a meal... You're a lifesaver.",
+      "choice_data_list": [
+        "Glad you like it."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Mr. C.B. (Outfit: Summer uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I set out the prepared side dishes, medicine, and energy drinks on the table.\nWith all this, she shouldn't have any trouble even if she stays in bed for a few days."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Just then, I felt Mr. C.B.'s eyes on me.",
+      "choice_data_list": [
+        "？"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Mr. C.B. (Outfit: Summer gym clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "I'm sorry, you know.\nFor turning down your scouts so many times."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Approx. 2 seconds of silence, image of being surprised\n---\n★ Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "You're clearly a talented, kind Trainer. Anyone can see that just by watching you.\nIt's not your fault at all. It's just...",
+      "choice_data_list": [
+        "...Just what?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Mr. C.B. (Outfit: Summer gym clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "......Back then, you see."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Approx. 2 seconds of silence; C.B. doesn't argue back because she knows saying 'because it doesn't make sense to me' will lead to an endless argument",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "—A long time ago, I joined a prestigious racing club. And I had\nall kinds of famous Trainers working with me."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Approx. 1 second of silence, image of pausing a beat before starting to speak",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "\"Your strength truly shines when you run as a front-runner.\"\n\"Let's teach you all kinds of running styles so you can handle any situation.\""
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Current Mr. C.B.'s monologue",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "\"Do that, and winning GIs, taking home URA awards—no, even becoming\na Triple Crown winner won't just be a dream.\" They told me things like that over and over. But—"
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passage wipe\n---\n★ Request\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...Ngh...!!"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "I just couldn't bring myself to care about winning GIs, or becoming a Triple Crown champion."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Mr. C.B. (Outfit: Summer gym clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "I get that to a Trainer, that's what matters most.\nIt's a huge achievement, a once-in-a-lifetime badge of pride."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Current Mr. C.B.'s monologue",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Still, no matter what... Which race you win to get what honor,\nhow many times you have to win something to prove how amazing you are..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Image of being puzzled (?)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Deep down, I couldn't care less about any of it.\nAnd so—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: No silence",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Trainer",
+      "text": "\"Why can't you just listen to what you're told?\""
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTrailing tone: Approx. 1 second of silence, image of giving a wry smile",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "…………。"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAce = Katsuragi Ace",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...I clashed with the Trainers.\nAnd ended up leaving."
     },
     {
-      "name": null,
-      "text": "■ Direction Note\nPause: None\n*Current Mr. C.B. monologue\n---\n*Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...Even now, I don't really get it.\nRunning for the future of Umamusume, like Rudolf does..."
     },
     {
-      "name": null,
-      "text": "*Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Wanting to see someone smile, wanting to bring excitement to the crowd... I get that\nthose are wonderful things, logically speaking."
     },
     {
-      "name": null,
-      "text": "*Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "But to me, that track isn't meant for any of that.\nIt exists purely for running—nothing more, nothing less."
     },
     {
-      "name": null,
-      "text": "Phaaah... this udon hits the spot...!\n...Thanks, even making me food and all... You've really helped me out.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...And that alone is pure, supreme bliss.",
+      "choice_data_list": [
+        "(I see...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Then... let's see, close your eyes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She lives purely to run.\nHer fundamental values are entirely detached from the rest of the world."
     },
     {
-      "name": null,
-      "text": "When I found Mr. C.B. around town, she wasn't feeling well. She insisted\nit was nothing serious, so I decided to at least take her back home.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...That said, there's no inherent requirement for Trainer and Umamusume to share the exact same dream.\nPlenty of girls sign contracts with Trainers just to make their debut."
     },
     {
-      "name": null,
-      "text": "But to me, that track isn't meant for that.\nIt exists simply to be run on. That's all there is to it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As long as both sides are willing to make a reasonable compromise,\nit should be an easy problem to solve, but—",
+      "choice_data_list": [
+        "(The fact that she can't compromise is why she's troubled.)"
+      ]
     },
     {
-      "name": null,
-      "text": "Still, no matter what... Which race to win for what honor,\nor how many times you have to win something to be amazing...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Unable to move forward without being fully convinced, utterly incapable of lying to herself.\nDespite her carefree, breezy aura, she possessed an unyielding awkwardness at her core."
     },
     {
-      "name": null,
-      "text": "...Ahaha, what do you know. ...I guess that's how it is, yeah.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As I replayed Mr. C.B.'s words in my head and pondered them...\nan idea suddenly struck me."
     },
     {
-      "name": null,
-      "text": "Everyone around surges ahead in a flash—don't lose the heat, catch the frontrunner!\nDig your heels in again with everything you've got, quick short breaths, in and out—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She can't chase the GI victories or Triple Crown glory that a Trainer typically seeks.\nIn that case, if the Trainer could align with her values instead—"
     },
     {
-      "name": null,
-      "text": "It seemed like an easy issue to solve\nif both sides could simply reach a compromise, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "What if I could learn to love racing purely for the sake of racing,\njust as passionately as she does?"
     },
     {
-      "name": null,
-      "text": "...Back in the day, you know.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "You want to know what the scenery looks like from my eyes during a race?",
+      "choice_data_list": [
+        "I want to understand what makes it so captivating to you.",
+        "I want to understand what makes it so captivating to you."
+      ]
     },
     {
-      "name": null,
-      "text": "\"Your strength truly shines when front-running.\"\n\"Let's learn various running styles so you can handle any situation.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Huh, why?"
     },
     {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "When I briefly explained my reasoning—"
     },
     {
-      "name": null,
-      "text": "...Mm, no. I was just surprised.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "......\nYou want to see things my way? You, Trainer?",
+      "choice_data_list": [
+        "...Did you not like the sound of that?"
+      ]
     },
     {
-      "name": null,
-      "text": "...? Hm?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...Mm, no. Just surprised, is all."
     },
     {
-      "name": null,
-      "text": "Hehe, somehow I'm the one getting the urge to run now.\nSo... how was it? Well?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Still... I like it. Yeah, not bad. Not bad at all.\nLet's give it a shot!"
     },
     {
-      "name": null,
-      "text": "Lined up beside you are nearly ten elite Umamusume. Rudolf,\nAce... all girls who look like they'd make for a thrilling race.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Alright then... close your eyes."
     },
     {
-      "name": null,
-      "text": "Wouldn't it be enough if I could simply\nlove racing just as purely as she does?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Picture this: you're standing inside that narrow starting gate,\nand right beyond it stretches the lush, vibrant green turf."
     },
     {
-      "name": null,
-      "text": "I just couldn't bring myself to care about stuff like that from the bottom of my heart.\nAnd so—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Lined up next to you are nearly ten hand-picked Umamusume. Rudolf, Ace...\nevery single one of them ready to give you an unforgettable race."
     },
     {
-      "name": null,
-      "text": "No, I'm fine.\nThis kind of feeling goes away if I just sleep it off... *cough*",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "The fanfare echoes, and the gates burst open.\nYou break out from that cramped, dark box and surge into the open green!"
     },
     {
-      "name": null,
-      "text": "Still... I like it. Yeah, not bad. Not bad at all.\nLet's give it a shot!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "The turf feels soft beneath your feet today. Crisp, cool air cuts straight through you.\nThe girls next to you jockey for position, rushing forward one after another, but—"
     },
     {
-      "name": null,
-      "text": "I wondered if I could love racing as much as she does, but...\nperhaps that was a conceited suggestion on my part.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "You're not in the mood for that.\nLet's see... you drop all the way to the back and take in the whole race from the rear."
     },
     {
-      "name": null,
-      "text": "You run!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...Before long, you hit the third corner—here comes the slope!\nYou accelerate right along with your racing pulse, climbing up, plunging down—into the final corner!"
     },
     {
-      "name": null,
-      "text": "You're not in the mood for that.\nLet's see... let's swing to the very back and watch the race unfold from the rear.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Everyone around you kicks into high gear. Don't lose the heat; lock your eyes on the front runner!\nDig into the turf with everything your legs have got, short breaths, in and out—"
     },
     {
-      "name": null,
-      "text": "...That alone is the purest bliss.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "And you just run!",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
-      "name": null,
-      "text": "Wanting to see people smile, wanting to hype things up... I get that\nthose are wonderful things too, honestly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Faster than the wind, faster than light, casting everything off as you surge ahead and ahead!\nNo one can stop you now, no one can hold you down...!"
     },
     {
-      "name": null,
-      "text": "Her tone was gentle, fervent, and brimming with love.\nWhat I imagined was likely nowhere near what she truly experienced.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—When I opened my eyes,\nshe was leaning in, looking right at me with flushed exhilaration."
     },
     {
-      "name": null,
-      "text": "Wait.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Hehe, talking about it kind of makes me want to go for a run myself.\nSo... well? How was it?"
     },
     {
-      "name": null,
-      "text": "She can't move forward without being convinced, and she's utterly incapable of lying.\nContrary to her carefree aura, she seemed surprisingly clumsy about life.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I could understand what kind of scene she was seeing.\nJust imagining it made my own heart beat faster. And yet—"
     },
     {
-      "name": null,
-      "text": "...Right then, I felt Mr. C.B.'s gaze on me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...? Well?",
+      "choice_data_list": [
+        "(I feel completely outmatched by the raw passion in her voice...)"
+      ]
     },
     {
-      "name": null,
-      "text": "The fanfare echoes, and the gates fly open.\nBursting out of that dark, cramped space onto the lush green turf!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her tone was gentle, fervent, and brimming with sheer love.\nWhatever I was picturing surely paled in comparison to what she truly experienced."
     },
     {
-      "name": null,
-      "text": "...Hnnngh!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I had hoped to love racing just as much as she did, but...\nperhaps it was presumptuous of me to think I could.",
+      "choice_data_list": [
+        "...I couldn't truly understand it after all."
+      ]
     },
     {
-      "name": null,
-      "text": "I know what a \"Trainer\" wants more than anything else.\nI know it's massive achievements and a once-in-a-lifetime pride.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "...Ahaha, oh, is that so? ...Yeah, I guess that makes sense."
     },
     {
-      "name": null,
-      "text": "\"Do that, and a G1 victory, a URA award, or even becoming a Triple Crown Umamusume\nwon't just be a dream.\" I heard words like that all the time. But—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "You know, if you'd just lied and said you got it, I might've agreed to sign with you!\nYou're really, how do I put it—"
     },
     {
-      "name": null,
-      "text": "She lives purely to run.\nHer fundamental values are entirely detached from the rest of the world.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh, why?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She couldn't aim for the \"G1 victories\" or \"Triple Crown\" that trainers desired.\nIn that case, if the trainer could align with her values instead—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Even so, it wasn't strictly necessary for them to share the exact same dream.\nMany Umamusume sign contracts with trainers just to make their debut first.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You really are honest to a fault, aren't you? ...Fufu.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I understood what kind of scenery she was seeing.\nJust imagining it made my heart dance. But—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still, if you'd just said you understood, they might've wanted to sign you!\nYou're kind of, well...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Faster than the wind, faster than light, casting everything aside, forward and forward!\nNo one can stop you anymore, no one can hold you down...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You're a brilliant and kind trainer, aren't you? I can tell just by watching.\nYou haven't done anything wrong. It's just...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "To sum up the reason briefly—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I clashed with the trainers over how to do things.\nSo I ended up quitting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Picture this: you're inside a narrow starting gate,\nand beyond it spreads a vast expanse of lush green turf.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......\nAlign with me? You?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I was still a bit worried, but overstaying my welcome wouldn't be good either.\nJust as I was hurriedly getting ready to leave—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I live alone. Right now there's nothing in the house, so...\nSorry to ask, but could you go buy some water for me...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Even now, I still don't really get it.\nRunning for the future of Umamusume like Rudolf does, I mean.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Today's turf is soft. Chilly air rushes through your body.\nThe girls beside you push forward one after another to secure positions, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Do you want to know what I see when I'm in a race?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Why can't you just listen to what you're told?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I lined up the prepared food, household medicine, and energy drinks on the table.\nWith this much, she shouldn't have any trouble even if she stays in bed for a few days.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sorry about that.\nTurning down your scouting offers over and over, I mean.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I just couldn't bring myself to care about G1 wins or becoming a Triple Crown Umamusume.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Back then, I belonged to a club team they called prestigious. I was\ngetting trained by all sorts of famous trainers there.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahaha, sorry for making you walk me home.\nPhew... you really saved me back there...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Soon comes the third corner, here comes the hill!\nAccelerating as your heart leaps, climbing up and flying down—the final corner!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—When I opened my eyes,\nshe was peering at me with an exhilarated expression.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As I recalled and pondered Mr. C.B.'s words...\nI suddenly realized something.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Looking closer, not only was there no water, there wasn't a single bite of food,\nso I bought various groceries, cooked for her... and ended up nursing her properly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mr. C.B.",
+      "text": "Honest to a fault. ...Hehe."
     }
   ],
   "no_wrap": true

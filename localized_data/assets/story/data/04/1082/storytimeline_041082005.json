@@ -1,362 +1,173 @@
 {
-  "title": "",
+  "title": "\"My\" Personal Stylist",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilent for initial 1 sec\nFlight sways unsteadily.\n---\n★ Request\nFlight sways unsteadily.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It happened one day, not long after\nI became North Flight's dedicated Trainer."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Phone ringing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Haaah, haaah, haaah... Whew~~!\nAll right, that's my distance run finished!",
+      "choice_data_list": [
+        "Great work! Next up is—"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nShow North Flight (Summer Tracksuit)\n---\n★ Request\nFade in from black\n---\n★ Request\nShow North Flight (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "...Ngh, whoa...",
+      "choice_data_list": [
+        "Flight! Are you okay?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNorth Flight takes out a squeeze bottle (prop1074_00) and drinks while talking.\n---\n★ Request\nNorth Flight takes out a squeeze bottle (prop1074_00) and drinks while talking.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Ah... I'm sorry. I'm fine.\nJust a brief spell of lightheadedness."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nEquip red sunglasses (prop1351_03)\n---\n★ Request\nShow North Flight (Summer Tracksuit)\nEquip red sunglasses (prop1351_03)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "It's gotten warm all of a sudden recently.\nI must be ever so careful about sudden temperature swings!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSlightly bashful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Wiping away sweat frequently, reapplying sunscreen,\nand staying hydrated with electrolytes... *gulp* *gulp*... Phew..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nReluctantly restrains herself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Just as she said.\nThe weather had suddenly warmed up lately, and the sunlight was growing harsher by the day.",
+      "choice_data_list": [
+        "Let's move this afternoon's training indoors."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Typing and turning pages\n---\n★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "That... sounds wise. Pacing ourselves without rushing is key.\nOnce it cools down in the evening, let's head back out to run!"
     },
     {
-      "name": null,
-      "text": "★ Request\nShow North Flight (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Heat management, huh... Still, methodical as North Flight naturally is,\nshe's already taking almost every standard precaution imaginable.",
+      "choice_data_list": [
+        "(Is there anything else we could try...? Wait, of course!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Same character as \"Big Sis\" from Episode 2.\n\nAge: 30s\nPersonality: A gentle, kind woman with an intellectual aura.\n*An acquaintance from North Flight's days at the club.\nShe tutored North Flight in her studies while doting on her like family.\nNaturally, North Flight took to the female trainer, and they gradually began calling each other \"Big Sis\" and \"Fuu-chan,\" dedicating themselves to studies and training together.\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her \"Big Sister\" mentor from the training club North Flight attended in the past.\nConsulting her might give us a helpful clue."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "\"Big Sister\"",
+      "text": "—She had a similar bout of poor health before.\nIt seems ultraviolet rays, even more than the heat itself, caused fatigue to build up inside her.",
+      "choice_data_list": [
+        "I see..."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in from black\n---\n★ Request\nShow North Flight (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Armed with the insights into North Flight's physical traits,\nI approached the problem from a fresh angle and landed on a solution..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNorth Flight (Summer Uniform) wearing red sunglasses\nImage of looking in a mirror\n\nActing sweet/flustered when nobody is around.\n---\n★ Request\nNorth Flight (Summer Uniform) wearing red sunglasses (prop1351_03)\nImage of looking in a mirror",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "—...Sunglasses?",
+      "choice_data_list": [
+        "They might help reduce strain on your body."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Working sounds\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "UV damage is a major factor behind physical fatigue.\nA significant portion enters through the eyes, causing stress to the brain as well."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNorth Flight accelerates.\n---\n★ Request\nNorth Flight accelerates.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That said, pairing a school tracksuit with sunglasses\nis definitely an uncommon look.",
+      "choice_data_list": [
+        "If you don't like it, you really don't have to..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNorth Flight (Summer Tracksuit) runs in\n---\n★ Request\nNorth Flight (Summer Tracksuit) runs in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "No, not at all!\nIt's certainly a rare combination, but it's not against the dress code."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sizzling heat (ambient heat wave sound)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "In some countries, schools actually encourage students to wear sunglasses.\nAfter all, sunglasses were originally born from pure utility..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNorth Flight (Summer Tracksuit) runs in\n---\n★ Request\nNorth Flight (Summer Tracksuit) runs in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "I was so attached to the image of them being a \"midsummer fashion accessory\"\nthat I forgot their primary purpose."
     },
     {
-      "name": null,
-      "text": "The 'Big Sis' from the training club North Flight used to attend.\nIf I consult her, maybe we can find a solution.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "It sounds very much worth trying!\nLet's test it out right away!"
     },
     {
-      "name": null,
-      "text": "I was so focused on them being a 'midsummer fashion accessory'\nthat I completely forgot their original purpose.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Yes... this definitely eases that stinging sensation in my eyes.\nPutting them on made me realize just how much strain had been building up."
     },
     {
-      "name": null,
-      "text": "Your perspective offered a completely fresh angle, and it helped tremendously.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "They restrict vision too much while running, so I should take them off then,\nbut if I block the sunlight in between, we can compare my fatigue levels!"
     },
     {
-      "name": null,
-      "text": "Flight began wearing sunglasses during breaks and while moving between locations.\nAs we continued training while monitoring her condition over several days...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Flight started wearing sunglasses during breaks and while moving between tracks.\nAfter monitoring her for several days of continued training..."
     },
     {
-      "name": null,
-      "text": "It definitely seems worth trying!\nLet's put it into practice right away!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "—Hah, hah, hah, hah!",
+      "choice_data_list": [
+        "Looking good! Take it to top speed from here!",
+        "Looking good! Take it to top speed from here!"
+      ]
     },
     {
-      "name": null,
-      "text": "That's... true. Taking it easy and not rushing is what matters most.\nLet's run outside again in the evening once it cools down!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Right! Haaaaaahhh—!"
     },
     {
-      "name": null,
-      "text": "Looking at them again, they really are fantastic...!\nI think these are going into heavy rotation this season♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "North Flight put on fantastic runs day after day.\nShe showed zero signs of falling ill during practice."
     },
     {
-      "name": null,
-      "text": "Even so, combining a school tracksuit with sunglasses\nwas a rather unusual sight.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "—My body feels so light, even after training.\nLooks like Operation Sunglasses is a roaring success!"
     },
     {
-      "name": null,
-      "text": "Ah... I'm sorry. I'm okay.\nI just felt a little dizzy for a second.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Getting advice from a completely different perspective was such a huge help."
     },
     {
-      "name": null,
-      "text": "It happened one day, some time after\nI became North Flight's trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "You really are my personal stylist,\nalways finding ways to make me shine.",
+      "choice_data_list": [
+        "I'm glad I could help."
+      ]
     },
     {
-      "name": null,
-      "text": "Yes, maybe because my eyes and brain are less strained, I fall asleep much easier at night.\nPlus, wearing them gives me a real motivation boost, in a way...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Yes! Less eye and brain fatigue means I fall asleep so easily at night.\nPlus, wearing them gives me a real motivational boost...",
+      "choice_data_list": [
+        "Because they look stylish on you.",
+        "Because they look stylish on you."
+      ]
     },
     {
-      "name": null,
-      "text": "In some countries overseas, students are even encouraged to wear sunglasses to school.\nAfter all, sunglasses were originally created for practical purposes...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Exactly! Being fashionable even during training makes it so much fun.\nI picked these frames out down to the millimeter to flatter my facial contours, you know.",
+      "choice_data_list": [
+        "No wonder. They look fantastic on you!"
+      ]
     },
     {
-      "name": null,
-      "text": "UV damage is a major factor in physical fatigue.\nThe amount entering through the eyes is substantial and reportedly causes mental stress too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "My, do they really?\nFufufu...!"
     },
     {
-      "name": null,
-      "text": "Exactly! Being able to stay fashionable during training makes it so much fun.\nI picked these frames out down to the millimeter to perfectly suit my face shape, you know.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Ehehe, praise from the stylist~♪\nCome to think of it, I haven't worn these much lately..."
     },
     {
-      "name": null,
-      "text": "Since they'd obstruct vision while running, it's best to take them off then,\nbut let's cut down on sun exposure diligently and compare your fatigue levels!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Right! Haaaaaah!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Diligently wiping off sweat, reapplying sunscreen,\nand remembering to replenish water and electrolytes... Gulp, gulp... Phew...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It's gotten hot all of a sudden lately.\nWe need to make sure we're properly mindful of temperature swings!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My, that much?\nFufufu...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Whoops, whoa...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haa, haa, haa... Wheeeeew!\nAll right, running workout complete!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—\"Sunglasses\"?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Using the information about North Flight's constitution as a base,\nI researched from an unconventional angle and arrived at...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No, not at all!\nIt might be an unusual combo, but it's not against school regulations either.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Haa, haa, haa, haa!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer, you truly are\nmy personal stylist dedicated to making me shine.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "North Flight delivered great runs day after day.\nShe showed no signs of illness during training either.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ehehe, I got praised♪\nCome to think of it, I haven't used these much lately...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"—She fell ill in a similar manner once before.\nIt seems fatigue accumulated from UV rays even more than the heat itself.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—My body feels light even after training.\nLooks like Operation Sunglasses is a success!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yeah... It really does ease the irritation in my eyes.\nI didn't even notice until I tried these on. All that accumulated strain, that is.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She was right.\nIt had suddenly grown warmer lately, and the sun was blazing harshly down.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Countermeasures against the heat, huh... But North Flight was naturally thorough,\nand it seemed she was already taking just about every precaution she could.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "North Flight",
+      "text": "Taking a closer look, they really are chic...!\nI think these are officially going into heavy rotation this season♪"
     }
   ],
   "no_wrap": true

@@ -1,467 +1,244 @@
 {
-  "title": "",
+  "title": "Bird's-Eye Strategy",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\nTurn White Filter OFF\n---\n★Request\nDisplay Air Groove (Winter Uniform)\nHolding binder with text (prop1163_01)\n*Put away at an appropriate time",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Rulership possesses exceptional raw talent alongside an extraordinary intellect.\nAnd yet—"
     },
     {
-      "name": null,
-      "text": "★Request\nRace scene follows\nTurn White Filter ON\n(Flashback source: 041145002 Episode 2 *Title Listed around 039,040, Row ID: 2248189, 2252614)\n---\n★Request\nDisplay Rulership (PE Clothes Yellow, Bib #9, Character Name)\n---\n★Request\n*Episode 2 Row 41 (2248190) Flashback",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Right now, she has completely lost her motivation for racing... What a total waste.\nHow can I help her regain her drive?",
+      "choice_data_list": [
+        "Was there something that made her lose interest...?",
+        "I wonder what made her lose interest in the first place..."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In\n---\n★Request\nDisplay Eishin Flash (Winter Tracksuit), Victoire Pisa (Winter Tracksuit), Rose Kingdom (Winter Tracksuit)\n*Each striking a confident \"formidable rival\" expression and appropriate pose",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "The reason Ruler wants to slack off?\nThere's no grand mystery—she's simply sulking."
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\nAfter Fade Out\n---\n★Request\nNo characters displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "...Did you know she attended a racing academy\nbefore enrolling at Tracen Academy?",
+      "choice_data_list": [
+        "Yeah, I heard she was exceptionally talented.",
+        "Yeah, I heard she was top of her class."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nBlack Wipe\n---\n★Request\nDisplay Rulership (Pajamas_Pullover_Plain Yellow)\nWearing headset prop (prop new)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "Indeed, she certainly showed remarkable promise.\n...The school she attended happened to be managed by my mother—"
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\n---\n★Request\nNo characters displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "She was a sharp thinker with exceptional running ability. She won race after race—\nwhich is why she found it so enjoyable. ...However, the real world is rarely so forgiving, wouldn't you agree?"
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In\n---\n★Request\nDisplay Air Groove (Winter Tracksuit)\nDisplay Rulership (Pajamas_Pullover_Plain Yellow), with an extremely unmotivated expression",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "Tracen Academy is a gathering of individuals who are all \"exceptional.\"\nHer tactical playbooks won't work every single time here."
     },
     {
-      "name": null,
-      "text": "★Request\nTime Passage\n---\n★Request\nDisplay Rulership (Standard Racing Racewear)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "When she wins, she wins. But when her tactics fail to click, she suffers crushing defeats.\n...She must not have found that very amusing. She began to pout, and eventually—",
+      "choice_data_list": [
+        "She ended up like she is now."
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Cheering (Waaaah)\n---\n★Request\nDisplay Rulership (Generic Formalwear_Frock Coat_Black), striking a classic tactician \"All forces, charge!\" pose\nLarge Font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "Precisely. That blockhead possesses a temperament\nthat makes maintaining motivation exceedingly difficult..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "In short: \"If it's a game she can win, she enjoys it and stays motivated; but if she can't win, she loses all interest entirely.\""
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Rulership (Generic Formalwear_Frock Coat_Black)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Conversely, could one look at it this way?\n\"As long as she can win, there is room for her to rediscover her motivation.\"",
+      "choice_data_list": [
+        "(How can I help her start winning consistently...?)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "What must be done for Rulership to consistently win and stay in high spirits—\nPondering this, I find myself on our daily online gaming call with her..."
     },
     {
-      "name": null,
-      "text": "★Request\nFade to Black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Want to play this today? A brand-new medieval simulation game.\nBoard gamers have been buzzing about its deep strategy and how fun it is.",
+      "choice_data_list": [
+        "\"Sounds great!\""
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In\nTurn White Filter OFF\nEnd of Race Scene\n---\n★Request\nDisplay Air Groove (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "It's a versus game themed around the Hundred Years' War.\nLet's have you play as the defending French army, and I'll take the invading English army."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Prologue",
+      "text": "\"The Hundred Years' War—a conflict spanning over a century, sparked by disputes\nover the French succession and territorial claims. The battlefield: the realm of France—\"",
+      "choice_data_list": [
+        "(My scouts revealed their troop numbers...)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Rulership (Pajamas_Pullover_Plain Yellow)\nWearing headset prop (prop new)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Let's gather three times that amount. Summon the knightly orders and hire mercenary bands!\nAbove all, the battlefield is our home territory... We should have the upper hand in this battle.",
+      "choice_data_list": [
+        "My formation is flawless! Victory is mine!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\nAfter Fade Out\n---\n★Request\nDisplay Rulership (Pajamas_Pullover_Plain Blue)\nWearing headset prop (prop new)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Now, I wonder about that?",
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Whooosh (Wind)\n\nAge: 50s\nPersonality: Solemn and gruff\nIn-game narration\n---\n★Request\nGeneric Wipe\n---\n★Request\nNo characters displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "True, you hold an overwhelming numerical advantage. But—is sheer headcount truly everything?"
     },
     {
-      "name": null,
-      "text": "★Request\nFade to Black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Crush them!!"
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Rulership (Winter Tracksuit), running smoothly\n→ Slows down mid-way with an \"Ugh\" look (comical failure depiction)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Despite possessing overwhelming troop numbers,\nmy forces are somehow gradually being driven into a corner...!!"
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In\nTurn White Filter ON\n---\n★Request\nNo characters displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "An army isn't just about throwing numbers together.\nWhat truly matters is the \"combat readiness\" of the units.",
+      "choice_data_list": [
+        "Th-Then, I'll switch to siege defense...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade Out / Fade In\n---\n★Request\nDisplay Rulership (Generic Formalwear_Frock Coat_Black)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Heh—let's see if you have enough provisions for that.\nI've reduced the surrounding granaries to ashes. Your only hope is importing supplies from outside.",
+      "choice_data_list": [
+        "Gah, then I'll request reinforcements...!"
+      ]
     },
     {
-      "name": null,
-      "text": "\"Drill the troops,\" \"Secure supply lines,\" and \"Diplomacy\"!\nBattles aren't only waged on the battlefield!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Ah, no reinforcements are coming from anywhere.\nI've already brought most of the influential neighboring lords over to my side, you see."
     },
     {
-      "name": null,
-      "text": "Her maneuver was breathtakingly brilliant. Compared to myself, who\nonly focused on the immediate battlefield, the sheer breadth of her vision was...――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "You are now completely isolated and helpless—it's over."
     },
     {
-      "name": null,
-      "text": "Oh, no reinforcements are coming from anywhere.\nI've already swayed almost all the influential lords in the surrounding area.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "\"Drill,\" \"Supply,\" and \"Diplomacy\"!\nBattles aren't waged on the front lines alone!"
     },
     {
-      "name": null,
-      "text": "With the conditioning Rulership has achieved with this plan,\nshe will surely claim a glorious victory in the upcoming selection race.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It was an utterly brilliant maneuver. Compared to myself, who only\nfocused on the battlefield right in front of me, the sheer breadth of her vision was...—",
+      "choice_data_list": [
+        "I lost... Not just in strength, but in grand scale..."
+      ]
     },
     {
-      "name": null,
-      "text": "True, you possess overwhelming numbers. But—are numbers really everything?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Controlling the outcome not through momentary field tactics, but through overarching grand \"strategy\"—\nIsn't that the greatest weapon she could possibly wield in racing?"
     },
     {
-      "name": null,
-      "text": "Indeed, she certainly showed remarkable promise.\n...The school she attended was run by my mother—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—The next day. I drafted a roadmap.\nIts ultimate objective: \"Victory for Rulership in the Debut Race.\""
     },
     {
-      "name": null,
-      "text": "...Did you know she attended a racing academy\nbefore enrolling in Tracen Academy?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "However, I intentionally left it half-finished. With this...\nI intend to test Rulership's analytical capabilities!"
     },
     {
-      "name": null,
-      "text": "Have you considered her nutrition? If you want to build stamina while facilitating\nfatigue recovery, you'll need vitamin B1, iron, zinc, and of course, protein.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "\"A roadmap? Hmph... Is this for your trainee horsegirl?\"",
+      "choice_data_list": [
+        "She's not my trainee, but I've been keeping an eye on her."
+      ]
     },
     {
-      "name": null,
-      "text": "............No way.\nI'm so done losing at trash games...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Without revealing that it's for Rulership,\nI share the data. The goal is a 2,000m turf debutants' race.",
+      "choice_data_list": [
+        "I'd love some advice on this from the strategist domi."
+      ]
     },
     {
-      "name": null,
-      "text": "Flawless analysis, a flawless roadmap.\nAlongside diverse situational forecasts and strategies tailored to each.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "I see. You want to polish it from a strategic perspective.\nWell, that's my forte. Very well, I don't mind."
     },
     {
-      "name": null,
-      "text": "In essence, it boils down to: \"If it's a game she can win, she finds it fun and gets motivated,\nbut if it's unwinnable, she loses all interest.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "First off, this schedule is far too packed. I understand\ntime is limited, but her morale won't hold up like this. Therefore—"
     },
     {
-      "name": null,
-      "text": "Her talent is truly the real deal. With a conscious strategic mindset,\nshe can \"master the race before it even begins.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "—Furthermore, standard practice dictates raising training intensity gradually.\nFocus solely on stamina and burst power to avoid needless exhaustion."
     },
     {
-      "name": null,
-      "text": "How about playing this today? It's a new medieval strategy sim.\nBoard game enthusiasts have been praising it for its deep strategic depth.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Have you considered her diet? If you want to build stamina while\npromoting recovery, prioritize vitamin B1, iron, zinc, and protein."
     },
     {
-      "name": null,
-      "text": "Considering the roster, the course... and all the variables,\nwith this level of preparation, victory should be guaranteed. —What do you think?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Considering the competition, the course... and various other factors,\nthis level of preparation should ensure victory. —What do you think?",
+      "choice_data_list": [
+        "—Incredible."
+      ]
     },
     {
-      "name": null,
-      "text": "It's a competitive game based on the Hundred Years' War.\nLet's have you defend as the French army, while I invade as the English forces.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A flawless analysis and an impeccable roadmap.\nOn top of that, diverse scenario projections paired with tailored strategies."
     },
     {
-      "name": null,
-      "text": "Possessing such extraordinary potential, paired with an exceptionally rare intellect,\nRulership should have thrived. And yet—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her talent is truly the real deal. With a conscious strategic approach,\nshe can \"seize control of the race before it even begins.\"",
+      "choice_data_list": [
+        "So, is there a way to fix her \"late-break habit\"?"
+      ]
     },
     {
-      "name": null,
-      "text": "However, I've deliberately left parts unfinished. With this...\nI intend to test Rulership's analytical capabilities!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Hm? A late break...? Wait a second, this data............\n————Hold on, don't tell me this is...",
+      "choice_data_list": [
+        "\"This roadmap is for you.\"",
+        "\"This roadmap was made for you.\""
+      ]
     },
     {
-      "name": null,
-      "text": "Of course I am! Because it's a strategy perfectly devised by none other than me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With the plan Rulership just perfected,\nshe's sure to claim a glorious victory in the upcoming debutants' race.",
+      "choice_data_list": [
+        "\"Want to give it a try together?\"",
+        "\"Won't you test it out with me?\""
+      ]
     },
     {
-      "name": null,
-      "text": "An army isn't simply about gathering massive numbers.\nA unit's true worth comes down to its \"discipline and training.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "............No way.\nLosing at some trash game is the last thing I ever want to do again...",
+      "choice_data_list": [
+        "\"But it's a guaranteed winning strategy, right?\"",
+        "\"Isn't it a completely foolproof strategy?\""
+      ]
     },
     {
-      "name": null,
-      "text": "I'll muster three times that amount. Summoning the knights and hiring mercenaries!\nAbove all, the battlefield is on home turf... I should hold the tactical advantage.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Of course it is! Because *I* was the one who flawlessly crafted it!",
+      "choice_data_list": [
+        "\"Then you can win. Let's give it a shot.\""
+      ]
     },
     {
-      "name": null,
-      "text": "First off, this schedule is way too packed. I get that time\nis limited, but morale will crumble at this rate. So—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Ghh................"
     },
     {
-      "name": null,
-      "text": "Without revealing that it's meant for Rulership,\nI share the data. The target is a 2000m turf selection race.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My army, which should have held overwhelming numbers,\nis somehow being steadily backed into a corner...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Heh—will your provisions really last?\nI've reduced the surrounding granaries to ash. You'll have no choice but to haul supplies from outside.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ruling the competition not just through split-second tactics, but through overarching \"grand strategy\"—\nisn't that precisely the greatest weapon she can bring to a race?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Looked at from another angle, couldn't one deduce this?\n\"As long as she can win, there's a way to rekindle her motivation.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ngh..................",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I see. You want me to polish it from a strategic perspective, right?\nWell, that's my forte, so sure, why not.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—The next day. I put together a roadmap.\nOne with the sole objective of \"Securing Rulership's victory in the selection race.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "『A roadmap? Hmph... For your trainee Umamusume?』",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The reason Ruler wants to slack off?\nNothing complicated—she's simply sulking.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "How can I get Rulership to win consistently and hit her stride—\nPondering this, I find myself on a voice call with her during another online game...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Crush them into dust!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "『The Hundred Years' War—a prolonged conflict spanning over a century,\nsparked by territorial disputes and claims to the French throne. The stage: France—』",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well, we'll see about that.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "............Fine, I'll give it a shot.\nI have to prove that my strategy is flawless, after all...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That's how it is. That blockhead\nsimply has a temperament that makes sustaining motivation remarkably difficult...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Tracen Academy is a gathering of the exceptionally gifted.\nHer little tactics won't work every single time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "When she won, she won. But whenever a tactic failed to land, it ended in crushing defeat.\n...She couldn't stand that. So she started throwing fits and sulking—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She was sharp-witted and her running was extraordinary. She swept through her races with ease—\nwhich was why she enjoyed it. ...However, the world isn't so forgiving, is it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Right now, she's completely lost her drive to race... Letting things stay\nthis way would be such a waste. How can I rekindle her passion?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You are utterly isolated and without aid———— It's over.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh? A late start...? Wait a second, this data............\n――――Wait, could this possibly be...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Also, training intensity should follow standard opening theory by ramping up gradually.\nFocus strictly on stamina and explosive burst, avoiding unnecessary fatigue.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "......Fine, I'll test it out.\nI have to prove my strategy is absolute perfection...!"
     }
   ],
   "no_wrap": true

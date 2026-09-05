@@ -1,432 +1,265 @@
 {
-  "title": "",
+  "title": "Surprise! The Meal Survey!",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nOguri Cap runs into frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "We're staying at a seaside facility for summer camp, aiming to hone our skills.\nJust as we were about to begin our training—"
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Pardon me, Trainer.\nBefore we begin training, I'd like you to take this."
     },
     {
-      "name": null,
-      "text": "★Request\nSituation: Shaved ice and other items haven't been received from the shopkeeper yet.\r\nHere, it carries the nuance of wanting them to receive her \"feelings/gratitude\" only.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Oguri Cap rustles through her bag and pulls out a single sheet of paper.\n...It appears to be a handwritten questionnaire."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Sound of rummaging through bag\n---\n★Request\nFade to black *No questionnaire prop needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Could you fill it out while I warm up?\nDon't worry, it shouldn't take long."
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "The survey questions were..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Footsteps walking away",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "\"Do you like sweet food?\" \"Do you like spicy food?\"\n\"Do you have any food allergies?\"—all completely food-related."
     },
     {
-      "name": null,
-      "text": "Enduring the post-training hunger is tough for me, too.\r\nTo be honest, I want to eat right away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Almost all of them are simple \"yes\" or \"no\" questions,\nso it shouldn't take up much of your time... I hope."
     },
     {
-      "name": null,
-      "text": "You don't know?\r\nTonight from—... Mmh, this must be that thing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Could you fill it out for me?",
+      "choice_data_list": [
+        "I don't mind, but..."
+      ]
     },
     {
-      "name": null,
-      "text": "Excuse me, Trainer.\r\nPlease take this before we start training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Thank you.\nI'll leave it in your hands."
     },
     {
-      "name": null,
-      "text": "Fufu. You're excited too, Trainer.\r\nI understand... I'm thrilled as well.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "While Oguri Cap went on her warm-up jog,\nI filled out the questionnaire..."
     },
     {
-      "name": null,
-      "text": "Oguri Cap is acting restless.\r\nDeciding not to question her further, I moved on to starting training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "That helps a lot.\nI'll look it over before tonight and put it to good use.",
+      "choice_data_list": [
+        "Put it to use how?"
+      ]
     },
     {
-      "name": null,
-      "text": "...We can't do that. We shouldn't, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Yes, you filled it out thoroughly,\nso everything should be fine. Don't worry."
     },
     {
-      "name": null,
-      "text": "...Please, try to understand.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Now all that's left is to focus on training\nand complete today's regimen properly."
     },
     {
-      "name": null,
-      "text": "No... Wouldn't this practically count as an appetizer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Half-hearted effort only cuts the enjoyment in half.\nLet us move our bodies as much as possible to prepare for tonight.",
+      "choice_data_list": [
+        "Is something happening tonight?",
+        "Is something happening tonight?"
+      ]
     },
     {
-      "name": null,
-      "text": "...Mmh, what a dilemma.\r\nFor now, let's think about it after we finish training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "You don't know?\nStarting tonight, there's... hm, wait, is this one of those things?"
     },
     {
-      "name": null,
-      "text": "All that's left is to focus on training\r\nand properly complete today's routine.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Wouldn't keeping it a secret make it more fitting?\nWhat do you think, Trainer?",
+      "choice_data_list": [
+        "Um..."
+      ]
     },
     {
-      "name": null,
-      "text": "That said, shaved ice is practically a beverage, and\r\nokonomiyaki is... Look at it, it's mostly cabbage.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "...Hmph, quite a dilemma.\nFor now, I'll think about it after we finish training."
     },
     {
-      "name": null,
-      "text": "Don't hold back, have as many refills as you'd like.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Oguri Cap seemed restless.\nI decided to stop asking and get right to training."
     },
     {
-      "name": null,
-      "text": "Most of it can be answered with just \"yes\" or \"no,\"\r\nso it shouldn't take up much of your time... I think.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "*pant, pant*... Phew."
     },
     {
-      "name": null,
-      "text": "Besides... food always tastes better when eating with you.\r\nSo since we have the chance, I wanted us to enjoy it together...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Is this all for today's regimen?\nI feel like I could still go for more...",
+      "choice_data_list": [
+        "This is just the right amount."
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer, you always cover for what I lack.\r\nThis is the best way I can show my gratitude right now.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I see... Yes, let's call it a day here."
     },
     {
-      "name": null,
-      "text": "I need to check the questionnaire you answered,\r\nand I'd also like some time to freshen up.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I still need to review the survey you answered,\nand I'd like some time to freshen up."
     },
     {
-      "name": null,
-      "text": "...Well, I will at least check\r\nif they can save me some tatsuta-age and simmered dishes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I've already scoped it out... but it's my first time doing this.\nIt's best to leave ourselves plenty of time.",
+      "choice_data_list": [
+        "Are we going somewhere?",
+        "Are we going somewhere?"
+      ]
     },
     {
-      "name": null,
-      "text": "Thank you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Yes, there's a place I want to take you.\nOnce you've washed up, wait for me outside the lodge.",
+      "choice_data_list": [
+        "Can't we grab dinner first...?"
+      ]
     },
     {
-      "name": null,
-      "text": "Still, we have to overcome it.\r\nTo achieve our goal, we must conquer the temptations close at hand.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "...No, we must not. We can't do that, Trainer."
     },
     {
-      "name": null,
-      "text": "A summer training camp at a seaside lodge, dedicated to improving our skills.\r\nJust as we were about to begin training—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Enduring hunger after training is painful for me too.\nTo be completely honest, I want to eat right this second."
     },
     {
-      "name": null,
-      "text": "Is this all for today's routine?\r\nI feel like I could still keep going...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "At this hour, the aroma of dinner will drift down the lodge hallway.\nToday's menu is said to be tatsuta-age and stew, making it even more fragrant."
     },
     {
-      "name": null,
-      "text": "Looking over the contents of the questionnaire—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "However, we must endure it.\nTo achieve our goal, we must overcome the temptation right in front of us."
     },
     {
-      "name": null,
-      "text": "Oguri Cap hurried off.\r\n—And then.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "...Please, understand.",
+      "choice_data_list": [
+        "A-All right."
+      ]
     },
     {
-      "name": null,
-      "text": "\"Do you like sweet foods?\" \"Do you like spicy foods?\"\r\n\"Any food allergies?\" It seems to consist entirely of food-related questions.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Thank you."
     },
     {
-      "name": null,
-      "text": "This is my first time doing something like this, so it feels a little embarrassing, but...\r\nPlease, take it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "...Well, I'll just check if they can\nsave some of the tatsuta-age and stew for later, just in case."
     },
     {
-      "name": null,
-      "text": "...I see. In that case, good. I'm glad too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Until then, Trainer. See you soon."
     },
     {
-      "name": null,
-      "text": "If it's alright with you, I'd like to treat you today.\r\nAs a token of my daily thanks and appreciation.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Oguri Cap hurried off.\n—And then..."
     },
     {
-      "name": null,
-      "text": "Doing things half-heartedly cuts the enjoyment in half.\r\nLet's get as much exercise in as possible to prepare for tonight.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "We've arrived, Trainer."
     },
     {
-      "name": null,
-      "text": "Look at that. Quite an impressive number of stalls, isn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Look at that. Isn't the sheer number of stalls magnificent?",
+      "choice_data_list": [
+        "A festival?"
+      ]
     },
     {
-      "name": null,
-      "text": "Yeah. We're planning to check out the other stalls too, so let's start light.\r\nIf it's not enough, we can always come back.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Yes. I absolutely wanted to have tonight's dinner here."
     },
     {
-      "name": null,
-      "text": "Yes... Just as you've gotten to know me, I didn't know enough about you.\r\nI needed to find out what would make you happy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "As you can see, there are countless food stalls.\nPlenty of things you like, too."
     },
     {
-      "name": null,
-      "text": "Alright Trainer, see you later.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "If you don't mind, I'd like to treat you today.\nAs a token of my daily appreciation and gratitude.",
+      "choice_data_list": [
+        "Is that why you gave me that survey?"
+      ]
     },
     {
-      "name": null,
-      "text": "Wouldn't keeping it a secret be more fitting?\r\nWhat do you think, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Yes... I didn't know you as well as you know me.\nI needed to find out what would make you happy."
     },
     {
-      "name": null,
-      "text": "Thank you.\r\nWell then, I'm counting on you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I just really wanted to treat you.\nIn my own way... to a full-course meal crafted just for you."
     },
     {
-      "name": null,
-      "text": "Then let's get started.\r\nFirst up is the \"Super Colossal Jumbo Series.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Oguri Cap, who usually only cared about eating, went out of her way to make a survey just to plan a full-course meal for me..."
     },
     {
-      "name": null,
-      "text": "This is incredible. Everything here truly lives up\r\nto the jumbo name.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Besides... food always tastes better when eaten with you.\nSo, I thought it would be wonderful if we could enjoy it together...",
+      "choice_data_list": [
+        "That makes me so happy!"
+      ]
     },
     {
-      "name": null,
-      "text": "I scoped out the place beforehand, but... this is my first time doing this after all.\r\nIt's best if we set aside plenty of time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "...I see. That's a relief, then. I'm glad too."
     },
     {
-      "name": null,
-      "text": "Yeah, there's somewhere I want to take you.\r\nOnce you wash up, meet me in front of the training camp lodge.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Well then, allow me to guide you right away.\nFirst up is the \"Super Colossal Jumbo Series.\""
     },
     {
-      "name": null,
-      "text": "Yes, you filled it out thoroughly, Trainer,\r\nso there shouldn't be any issues. Rest easy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "It's incredible. Everything truly lives up to\nthe name \"Jumbo.\""
     },
     {
-      "name": null,
-      "text": "Yeah. I was determined to have dinner here tonight, no matter what.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "The shaved ice comes in bucket size, the okonomiyaki is the size of a floor cushion,\nand the takoyaki are the size of baseballs...",
+      "choice_data_list": [
+        "Isn't that way too huge?!",
+        "Isn't that way too huge?!"
+      ]
     },
     {
-      "name": null,
-      "text": "At this hour, the smell of dinner is usually drifting through the lodge hallways.\r\nToday's menu is supposedly tatsuta-age and stewed dishes, so the aroma would be especially tempting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "That said, shaved ice is basically just a drink,\nand okonomiyaki... look, it's mostly cabbage."
     },
     {
-      "name": null,
+      "name": "Oguri Cap",
+      "text": "In fact... wouldn't this count as an appetizer?",
+      "choice_data_list": [
+        "An... appetizer...?!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Heh. You're excited too, Trainer.\nI understand... My heart is pounding with anticipation as well."
+    },
+    {
+      "name": "Oguri Cap",
       "text": "Excuse me, sir. Two shaved ices and four okonomiyaki, please.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Four of them?!"
+      ]
     },
     {
-      "name": null,
-      "text": "Could we get those?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Yes. We plan to visit other stalls, so we should start modestly.\nIf it's not enough, we can always come back for more."
     },
     {
-      "name": null,
-      "text": "The shaved ice is bucket-sized, the okonomiyaki are floor-cushion-sized...\r\nand the takoyaki are the size of baseballs...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Don't hold back. Feel free to get as many seconds as you want.",
+      "choice_data_list": [
+        "No, there's no way I can eat that mu—"
+      ]
     },
     {
-      "name": null,
-      "text": "Oguri Cap, who usually only cares about stuffing herself, actually put together a whole survey just to plan a full-course meal for me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "You always support me where I fall short, Trainer.\nThis is the best way I know how to express my gratitude right now."
     },
     {
-      "name": null,
-      "text": "Either way, I just wanted to treat you.\r\nIn my own way... with a full course planned just for you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "It's my first time doing something like this, so I feel a bit shy...\nbut please, accept it."
     },
     {
-      "name": null,
-      "text": "As you can see, there are tons of food stalls.\r\nPlenty of your favorites too, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I see... Yeah, let's call it for today.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If you could fill this out while I'm warming up, that'd be great.\r\nDon't worry, it shouldn't take long.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oguri Cap rummages through her bag and pulls out a sheet of paper.\r\n—It appears to be a handwritten questionnaire.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "We're here, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thanks for your help.\r\nI'll look over it before tonight and put it to good use.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "While Oguri Cap went on her warm-up run,\r\nI filled out the questionnaire...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thanks to her overwhelmingly generous gratitude,\r\nI ended up so full I couldn't move for quite some time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*pant* *pant*... Whew.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Stuffed to the brim by her overwhelmingly colossal gratitude,\nI ended up completely unable to move for quite some time."
     }
   ],
   "no_wrap": true

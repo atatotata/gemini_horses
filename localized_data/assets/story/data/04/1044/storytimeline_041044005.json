@@ -1,383 +1,194 @@
 {
-  "title": "",
+  "title": "Prickly Baby Rose",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nCamera cue: Solo camera\nCostume cue: Display Sweep Tosho (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "One day, when I stopped by the library,\nI found Sweep Tosho absorbed in some research."
     },
     {
-      "name": null,
-      "text": "★Request\nCostume cue: Display Sweep Tosho (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Found it! This is definitely the one.\nI knew I saw it before!",
+      "choice_data_list": [
+        "Studying hard? Good job!",
+        "Studying hard? Good job!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nWipe\nCostume cue: Display Sweep Tosho (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Hmph, of course I'm doing a good job! That's just obvious!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 50s\nPersonality: Strict and sounds cold, but deeply cares about her students",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "More importantly, I gotta hurry or they'll catch up with me!"
     },
     {
-      "name": null,
-      "text": "★Request\nLine 2, Sweep Tosho runs OUT",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "\"*Thorns☆Thorns☆Entwine!!*\""
     },
     {
-      "name": null,
-      "text": "★Request\nTime-lapse wipe\nCostume cue: Display Sweep Tosho (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "Found you, Sweep Tosho!"
     },
     {
-      "name": null,
-      "text": "★Request\nPut away object (novel)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Eep! Why?! \nI totally cast an entangling spell on you!",
+      "choice_data_list": [
+        "An entangling spell?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nTake out object (magic wand)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "Oh, Trainer, you're with her too.\nWell, you see, the thing is..."
     },
     {
-      "name": null,
-      "text": "★Request\nWipe\nCostume cue: Display Sweep Tosho (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "She didn't do her homework, and when I tried\nto keep her for supplementary lessons, she ran off..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*No recording required\n---\n★Request\nCostume cue: Display Sweep Tosho (Summer Uniform)\nHave Sweep hold object (novel)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Well, duh!\nThere's no waaaay I'm staying after class! Absolutely not!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*刹那に綴れ = setsuna ni tsudzure",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "More importantly, why didn't my magic work?!\nI followed the spellbook to the letter, too...!",
+      "choice_data_list": [
+        "(So you weren't actually studying...!)",
+        "(So it wasn't schoolwork after all...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*駆けるがごとく解け = kakeru ga gotoku toke",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "Listen closely, Sweep Tosho.\nI'm not just assigning homework for the sake of it."
     },
     {
-      "name": null,
-      "text": "★Request\nTake out object (notebook)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "Balancing your studies with your training is crucial for your\nfuture as an athlete—the homework is meant to help you practice that, you know?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nThorns = 棘\nEntwined = 絡める\n\"Thorns, oh thorns, bind them tight!\"\n---\n★Request\nMotion as if casting a spell",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Be quiet, don't tell me what to do!\nIf I don't wanna do it, I'm not doing it!"
     },
     {
-      "name": null,
-      "text": "She didn't do her homework, so when I tried to have her do supplementary work instead, she fled...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "Sweep Tosho!"
     },
     {
-      "name": null,
-      "text": "It is NOT impossible!\nYou're my familiar, so obey your master's orders!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "As their voices grew louder, disapproving glances began to gather around us.\nI needed to calm them both down before things got out of hand.",
+      "choice_data_list": [
+        "Excuse me, would you mind leaving this to me?"
+      ]
     },
     {
-      "name": null,
-      "text": "One day, when I stopped by the library,\nI found Sweep Tosho engrossed in some research.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "After moving to the Trainer's office, I tried once more\nto persuade Sweep Tosho to finish her homework, but—"
     },
     {
-      "name": null,
-      "text": "Found it! This is totally the one.\nI thought I'd seen it before!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Ugh, not you too! \"Homework, homework,\" that's all my familiar talks about!\nI thought you drove that teacher away for me?!",
+      "choice_data_list": [
+        "You still have to do your homework.",
+        "You have to do your homework."
+      ]
     },
     {
-      "name": null,
-      "text": "Fine then, I know I can finish my homework in a flash with magic.\nI'll never let her tell me to stay after class again!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Then my familiar should just do it for me!!",
+      "choice_data_list": [
+        "That's unreasonable!"
+      ]
     },
     {
-      "name": null,
-      "text": "Balancing your studies and training is essential if you wish to continue as an athlete in the future. The homework is assigned as practice for that, you know.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "No it's not!\nYou're my familiar, so you have to obey your master's orders!"
     },
     {
-      "name": null,
-      "text": "Mmm... well, fine. That sounds fun too!\nHere goes nothing—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "With that, Sweep Tosho began throwing a tantrum.\nRefusing to even look at things she's not interested in is honest in a way, but..."
     },
     {
-      "name": null,
-      "text": "Heheh, naturally! Now I can leave Teacher speechless!\nI'm gonna blow her away right now!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I suddenly remembered how she acts once her interest is sparked."
     },
     {
-      "name": null,
-      "text": "What gives?! Even my familiar is nagging me about homework, homework!\nDidn't you chase Teacher away for me?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Found it! This is totally the one.\nI knew I'd seen it before!"
     },
     {
-      "name": null,
-      "text": "Then you do it, familiar!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Why are you just standing there being quiet...?",
+      "choice_data_list": [
+        "Why don't we clear your homework with magic?"
+      ]
     },
     {
-      "name": null,
-      "text": "Sweep Tosho-san!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Huh? ...You mean using magic to fill in the answers?\nHmph, well that sounds kinda fun.",
+      "choice_data_list": [
+        "That could work, but what if we cast magic on you instead?",
+        "That could work, but how about casting magic on you instead?"
+      ]
     },
     {
-      "name": null,
-      "text": "As if truly under a magic spell,\nSweep Tosho blazed through her homework with brisk efficiency.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well, duh!\nThere's NO WAY I'm staying after class! No, no, NO!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Eeeek! Why?!\nI cast a binding spell on you and everything!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sweep Tosho threw a tantrum as she spoke.\nHer complete disregard for things that didn't interest her was honest in a way, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh, isn't that kinda roundabout?\nIt's a speed-up spell... right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "“In an instant, be written! Alstroemeria☆”",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Be quiet! Don't boss me around!\nIf I don't wanna do it, I'm not gonna do it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whenever she tackled something of her own accord,\nshe truly radiated brilliant brilliance.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This question is... Uh-oh, I'm losing speed!\n“Solve as if at a gallop, Alstroemeria☆”",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As their voices grew louder, critical glances turned toward them from all around.\nI had to calm them both down before things got out of hand.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "More importantly, why didn't my magic work?!\nI did it exactly like the book said, too~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Sweep Tosho",
       "text": "Magic on me? What's that supposed to mean?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "We'll cast a spell that lets you solve problems super fast!",
+        "We'll cast a spell so you can solve problems super fast!"
+      ]
     },
     {
-      "name": null,
-      "text": "Huh? ...You mean fill in the answers with magic?\nHmm, sounds fun.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Ehh, isn't that kinda roundabout?\nYou mean... like a speed-boosting spell, right?"
     },
     {
-      "name": null,
-      "text": "Sweep Tosho's eyes sparkled with life as she spoke.\nIt was a moment that drove home just how hard she could work when it was something she enjoyed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Hmm... Oh well, whatever! That sounds fun too!\nHere goes――"
     },
     {
-      "name": null,
-      "text": "Your Trainer looked after you, didn't they?\nBe sure to thank them properly later!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "“In a flash, take flight! Alstroemeria☆!”"
     },
     {
-      "name": null,
-      "text": "“Thorns☆ Thorns☆ Entwine!!”",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Alright, question one is...!\nHa, this is a piece of cake!"
     },
     {
-      "name": null,
-      "text": "I found myself recalling how she acted whenever something piqued her interest.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "As if a real spell had been cast on her,\nSweep Tosho breezed through her homework with brisk efficiency."
     },
     {
-      "name": null,
-      "text": "Ah, Trainer-san, you were with her too.\nThe truth is, Sweep Tosho-san—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Now for this one... Uh oh, my speed's dropping!\n“Gallop forward and solve, Alstroemeria☆!”"
     },
     {
-      "name": null,
-      "text": "Never mind that, hurry up or she'll catch up to us!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Incredible, I finished it in no time at all!\nBehold, familiar! That's the power of the magical girl Sweepy!"
     },
     {
-      "name": null,
-      "text": "Listen closely, Sweep Tosho-san.\nI'm not just asking you to do homework for the sake of it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Whenever she puts her mind to something herself,\nshe truly shines with brilliant splendor.",
+      "choice_data_list": [
+        "Your magic really is amazing!",
+        "I knew it, your magic really is incredible!"
+      ]
     },
     {
-      "name": null,
-      "text": "Sweep Tosho-san, there you are!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Heheh, well of course! Now I can leave Teacher speechless!\nI'm gonna go blow her away right now!"
     },
     {
-      "name": null,
-      "text": "Ugh, SERIOUSLY?!\nWhy aren't you amazed by my magic instead of talking about my familiar?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "—Every single answer is correct. Honestly, you can do it when you try,\nso stop running away. And another thing—"
     },
     {
-      "name": null,
-      "text": "—Every single one is correct. Honestly, you can do it when you try, so stop running away at every turn. And furthermore—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Teacher A",
+      "text": "Your Trainer helped you with this, right?\nMake sure you thank them properly later!"
     },
     {
-      "name": null,
-      "text": "All right, let's start with question one...\nHey, this is a piece of cake!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Ugggh!! Why are you talking about my familiar\ninstead of being amazed by my magic?!"
     },
     {
-      "name": null,
-      "text": "Hey, why are you keeping quiet...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sweep Tosho",
+      "text": "Fine then, I proved homework is a breeze with magic.\nYou won't ever get to make me stay after class again!"
     },
     {
-      "name": null,
-      "text": "Found it! This is totally the one.\nI thought I'd seen it before!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Amazing, I finished in no time at all!\nBehold, familiar! That's the power of the magical girl Sweepy!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "We moved to the trainer's office, where I suggested once again that we finish up her homework, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hmph! Of course I'm great, that's a given!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Sweep Tosho's eyes sparkle with lively energy as she speaks.\nIt became clear once again that she truly excels when it's something she enjoys."
     }
   ],
   "no_wrap": true

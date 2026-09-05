@@ -1,439 +1,201 @@
 {
-  "title": "",
+  "title": "Slurp Slurp, Munch Munch, Ei-Ei-Mun!",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nScene transition effect\r\nCostume: Summer Tracksuit\nHave her hold a bowl and chopsticks",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Event Commentary",
+      "text": "—And our next mock race will be held over 1800m on turf.\nWith track conditions roughed up by last night's rain, how will this race unfold?!"
     },
     {
-      "name": null,
-      "text": "★Request\nShow Nature, Ikuno, Machitan\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "One, two, three, four! Two, two, three, go!\nThree, two, three, four! Four, two, three, go!"
     },
     {
-      "name": null,
-      "text": "★Request\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Today was the day of the mock race. The field was stacked with\nformidable opponents like Mihono Bourbon and Rice Shower."
     },
     {
-      "name": null,
-      "text": "★Request\nHave Machikane Tannhauser put away the bowl and chopsticks",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "For better or worse, Machikane Tannhauser wasn't the standout type.\nI assumed the crowd wouldn't expect much in the way of a victory, but—"
     },
     {
-      "name": null,
-      "text": "■Direction\n*Voice recording unnecessary",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Oh, Machitan's running!\nI heard she was amazing during that Cops and Robbers training game."
     },
     {
-      "name": null,
-      "text": "■Direction\n*Voice recording unnecessary",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "Right? She was keeping right up with Bourbon and Rice's training routines too!",
+      "choice_data_list": [
+        "(People actually have high hopes for her...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\n*Voice recording unnecessary\n---\n★Request\nShow Turbo, Nature\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "It seems Tannhauser-san's steady accumulation of\n\"pleasantly surprising\" performances is gradually winning people over."
     },
     {
-      "name": null,
-      "text": "■Direction\nSame Umamusume as Episode 1",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Twin Turbo",
+      "text": "Machitaaan! Do your best!"
     },
     {
-      "name": null,
-      "text": "■Direction\nAge: 30s\r\nPersonality: Energetic\n---\n★Request\nShow Machikane Tannhauser\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Following Twin Turbo's lead, the surrounding Umamusume\nalso began shouting words of encouragement for Machikane Tannhauser."
     },
     {
-      "name": null,
-      "text": "■Direction\nSaid as a joke",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Whoa, that's a lot of cheering!\n...Alright, I'm gonna give it my all! I'm def-i-nite-ly... gonna win!"
     },
     {
-      "name": null,
-      "text": "■Direction\n*Voice recording unnecessary\n---\n★Request\nShow Machitan\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Shouldering everyone's expectations, the mock race got underway.\nHowever—"
     },
     {
-      "name": null,
-      "text": "★Request\nWipe effect / Show Nature, Ikuno, Machitan\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Event Commentary",
+      "text": "Mihono Bourbon has a lead of 5, 6, 7 lengths!\nThe battle for second place is in total disarray!"
     },
     {
-      "name": null,
-      "text": "★Request\nShow Turbo, Nature, Ikuno\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Down the final stretch. Mihono Bourbon opens up a massive lead,\nand while Rice Shower puts up a valiant fight, Machikane Tannhauser simply cannot find an extra gear—"
     },
     {
-      "name": null,
-      "text": "■Direction\nSE: Applause",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Event Commentator",
+      "text": "Mihono Bourbon takes the lead! And crosses the line with an overwhelming victory!"
     },
     {
-      "name": null,
-      "text": "★Request\nTime lapse effect",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Machitan kinda fell short of expectations, huh...?\nShe didn't really get a moment to shine before it was all over."
     },
     {
-      "name": null,
-      "text": "■Direction\nSame Umamusume as Episode 1\n---\n★Request\nWipe / Show Turbo, Nature, Ikuno\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "While applause erupted for Mihono Bourbon, an awkward, disappointed atmosphere\nsprang up among the girls who had placed high hopes on Machikane Tannhauser.",
+      "choice_data_list": [
+        "(With everyone expecting so much from her... I hope she's okay.)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSE: Cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Pheeew, sorry about that, Trainer!\nGuess I've still got a long, long way to go~."
     },
     {
-      "name": null,
-      "text": "Hmm? What's the matter, Trainer?\r\nYou seem a little spaced out.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Maybe the turf caught my legs or something?\nMy muscles definitely weren't up to snuff. ...Somehow..."
     },
     {
-      "name": null,
-      "text": "Even when other girls are on edge or feeling crushed by\r\nthe pressure, Tannhauser stays toootally unfazed!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A lackluster result after carrying so many expectations. She must be in shock.\nJust as I was thinking of heading back to the trainer's office to console her—"
     },
     {
-      "name": null,
-      "text": "—Next up is an exhibition race on the 1800m turf. What kind of developments await on a track roughed up by last night's rain?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "All that running made me hungry! I'm off to the cafeteria!\nMmhmm, what should I get? I'm totally feeling udon today~.",
+      "choice_data_list": [
+        "(...Wait, what?)"
+      ]
     },
     {
-      "name": null,
-      "text": "It's been almost 20 minutes already. If I were being chased for that long,\r\nI'd probably feel completely cornered...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Down the hatch!"
     },
     {
-      "name": null,
-      "text": "Even if she does not obtain the results she hoped for, she does not cry. She remains positive.\r\n...Did you not catch a glimpse of that aspect during her training?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Completely ignoring my worries, Machikane Tannhauser ordered a normal lunch\nand began digging in, without even mentioning the race."
     },
     {
-      "name": null,
-      "text": "Mihono Bourbon takes the lead! An overwhelming victory at the finish line!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Hm? Is something wrong, Trainer?\nYou look kind of spaced out.",
+      "choice_data_list": [
+        "Well, I just figured you'd be brooding over the loss..."
+      ]
     },
     {
-      "name": null,
-      "text": "No way, you kept pace until like the last 300 meters.\r\nThat's pretty darn impressive.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Brooding? ...Over what?"
     },
     {
-      "name": null,
-      "text": "I think the turf caught my footing.\r\nGuess my muscle strength was just lacking. ...Somehow...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She seemed completely oblivious, so I chose my words carefully to explain—"
     },
     {
-      "name": null,
-      "text": "Indeed, looking back on it now—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Oh, I get it! Well, sure, of course I was bummed out that I lost,\nbut... all that means is that I'm just not strong enough yet."
     },
     {
-      "name": null,
-      "text": "Troubled? ...About what?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "So... yeah, I'm not really brooding at all~.\nThough I am thinking I should rework my self-training routine!"
     },
     {
-      "name": null,
-      "text": "Ah~, yeah, totally get it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Ooh! This carrot is suuuper yummy!",
+      "choice_data_list": [
+        "(How can she be so remarkably 'ordinary'...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "A strength that allows her to steadily forge ahead precisely because her composure never wavers.\r\nWithout anyone noticing, she possessed such a quiet resilience.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nice Nature",
+      "text": "Ahhh, I totally get it."
     },
     {
-      "name": null,
-      "text": "Putting the \"parents\" thing aside... I felt like I had finally begun to understand Machikane Tannhauser's hidden \"greatness\".",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Oh, hey guys~! ...Wait, get what?"
     },
     {
-      "name": null,
-      "text": "With high expectations on her shoulders, the exhibition race began.\r\nHowever—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nice Nature",
+      "text": "How your Trainer feels.\nYou were just thinking, 'How can she be so ordinary...?' weren't you?"
     },
     {
-      "name": null,
-      "text": "Machitaaan! Go for it—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nice Nature",
+      "text": "Even when other girls get all tense or crushed by pressure,\nTannhauser stays cooompletely calm and normal!"
     },
     {
-      "name": null,
-      "text": "Ah. This carrot is super yummy~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Even when things don't go her way, she doesn't cry. She stays positive.\n...Didn't you catch glimpses of that during training?"
     },
     {
-      "name": null,
-      "text": "All of a sudden I'm hungry! I'm gonna head to the cafeteria!\r\nMhum, what should I eat? Today feels like an udon day~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Now that they mentioned it, looking back—"
     },
     {
-      "name": null,
-      "text": "It's actually a pretty big deal, but nobody really notices.\r\nEven she doesn't really get it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Ahaha, don't worry, I'm totally fine!\nMy legs are just shaking a bit. ...Guess I've still got a ways to go~."
     },
     {
-      "name": null,
-      "text": "She might be like this, but please take good care of Tannhauser-san.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "No way, you kept up with them until the last 300 meters, didn't you?\nThat's plenty impressive already."
     },
     {
-      "name": null,
-      "text": "Woow... you guys kinda sound like my \"parents\", y'know?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "*pant* *gasp* *pant*...!\nNo waaay~, I can't just give up~! Come on, work with me here~!"
     },
     {
-      "name": null,
-      "text": "Today was the day of the exhibition race. The lineup was full of formidable opponents,\r\nincluding Mihono Bourbon and Rice Shower.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Thief Team Horsegirl A",
+      "text": "It's been almost 20 minutes now. If someone chased me down for that long,\nI'd definitely be feeling totally cornered..."
     },
     {
-      "name": null,
-      "text": "Unfazed by my worries, Machikane Tannhauser casually ordered her lunch\r\nand began eating without even bringing up the upcoming race.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Machikane Tannhauser had remained 'ordinary' through it all."
     },
     {
-      "name": null,
-      "text": "The final stretch! Mihono Bourbon opens a huge lead. Rice Shower\r\nfights hard, but Machikane Tannhauser fails to make a push—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nice Nature",
+      "text": "It's actually pretty amazing, but almost nobody ever notices.\nEven she doesn't really realize it."
     },
     {
-      "name": null,
-      "text": "So... yeah! I'm not agonizing over it anymore.\r\nThough I do wanna rethink what to do for my solo training from here on~",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Wait, huh? Are you praising me right now?"
     },
     {
-      "name": null,
-      "text": "Swept along by Twin Turbo's voice, the surrounding Umamusume\r\neach began shouting their support for Machikane Tannhauser as well.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "She might be a handful like this, but please take good care of Tannhauser, okay?"
     },
     {
-      "name": null,
-      "text": "It appears the quiet accumulation of Tannhauser-san's\r\n'unexpected aptitude' is gradually starting to spread.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Whoaaa... You guys sound just like my parents~."
     },
     {
-      "name": null,
-      "text": "Carrying so much expectation only to end in a lackluster result. There is no way she isn't in shock.\r\nThinking I should bring her to the Trainer's office for a debrief—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Setting 'parents' aside... I felt like I had finally begun to understand\nwhat made Machikane Tannhauser so quietly remarkable."
     },
     {
-      "name": null,
-      "text": "Machikane Tannhauser is, for better or worse, not the type to stand out.\r\nI figured those around her wouldn't expect much in the way of victory, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I know, right?\r\nShe kept right up with Bourbon and Rice during training, too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One, two, three, four! Two, two, three, go!\r\nThree, two, three, four! Four, two, three, go!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "How your Trainer felt.\r\nYou thought to yourself, \"Why are they so totally ordinary...?\", didn't you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "H-Huh? Wait, are you praising me right now?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "While applause erupted for Mihono Bourbon, an indescribable\r\nawkwardness hung in the air among the Umamusume who had rooted for Machikane Tannhauser.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa, that's a lot of cheering!\r\n...All right, I'll do my best! I am so totally... gonna win!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Machitan was kinda, like, more... underwhelming than I thought.\r\nIt ended without her ever really having a spotlight moment, huh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, hey everyone! ...Wait, what do you mean you get it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, Machitan's running!\r\nI heard she was amazing during that game of Cops and Robbers in training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Mihono Bourbon leads by five lengths, six lengths, seven lengths!\r\nThe battle for second place is total chaos!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahaha, I'm okay, totally okay!\r\nMy legs are just shaking. ...Guess I've still got a long way to go~",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Seeing that she hadn't caught on at all, I carefully chose my words to explain—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, I get it! Well, yeah, of course I was pretty bummed\r\nthat I lost... But that just means I'm not strong enough right now, you know?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Machikane Tannhauser had always been 'ordinary.'",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*pant, wheeze, pant, wheeze*...!\r\nNo waaaay, I can't let it end like this~! Cut me some slaaack~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Time to dig innn!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*sigh*... I'm so sorry, Trainer.\r\nLooks like I've still got a ways to go~",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "An unshakeable composure that gives her the strength to keep marching forward without faltering.\nWithout anyone realizing it, she possessed a truly rare gift."
     }
   ],
   "no_wrap": true

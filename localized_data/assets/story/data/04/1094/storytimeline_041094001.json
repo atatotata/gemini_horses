@@ -1,558 +1,227 @@
 {
-  "title": "",
+  "title": "The Howling Demon",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 3rd year middle school\nPersonality: Polite in manner, but quick to write people off\n\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—I had a dream. One I've held since childhood.\nTo become a Trainer who raises the \"strongest\" horsegirl of all."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFuji Kiseki (Regular Racewear) appears, running gracefully\n---\n★ Request\nFuji Kiseki (Regular Racewear) appears, running gracefully",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Fuji Kiseki takes the inside lane! Fuji Kiseki slips through!\nA burst of yellow silks is flying in from the outside! Fuji Kiseki takes the lead!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 1st year high school\nPersonality: Typical toady/hanger-on type around strong people\n---\n★ Request\nBlack wipe\nDisplay Jungle Pocket (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "A magnificent finish at 1 minute 34.7 seconds!\nFuji Kiseki is poised to rule next year's Classics!",
+      "choice_data_list": [
+        "Incredible...!! That's what it means to be the \"strongest\"...!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nPokke accelerates\n---\n★ Request\nPokke accelerates",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I had an older brother whom I deeply admired. As Fuji Kiseki's\nattending doctor, he worked tirelessly to support her physical maintenance and conditioning."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\n---\n★ Request\nNo character display",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Brother",
+      "text": "She's amazing, isn't she? She has the caliber to stand atop her generation.\nI know she can take the Derby...! I've got to give her everything I have, too."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: Early 20s\nPersonality: Cheerful and sincere",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Brother",
+      "text": "Do your best on the Trainer Exam, too. Someday, it'd be incredible\nif we could help your horsegirl win the Derby together.",
+      "choice_data_list": [
+        "Yeah! Let's raise the \"strongest\" Derby horsegirl together!",
+        "Right! Let's raise the \"strongest\" Derby horsegirl together!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nJungle Pocket (Summer Jersey) walks in\n---\n★ Request\nJungle Pocket (Summer Jersey) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "But—",
+      "choice_data_list": [
+        "Brother! Is Fuji Kiseki really injured—"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nDisplay Jungle Pocket (Casual Clothes), running in high spirits\n---\n★ Request\nDisplay Jungle Pocket (Casual Clothes), running in high spirits",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Brother",
+      "text": "...It's my fault. I failed to prevent her injury.\nI ended up robbing Fuji Kiseki of her future...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nJungle Pocket walks off cheerfully on line 2 (with a smile + skipping)\n---\n★ Request\nJungle Pocket walks off cheerfully on line 2 (with a smile + skipping)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Due to a breakdown, Fuji Kiseki was forced to retire from the front lines.\nHaving devoted everything to her racing career, the remorse that tormented my brother ran deep—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 2nd year high school\nPersonality: Quick-tempered and wary, but readily bends the knee to the strong",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I wanted to ease my brother's regrets. I wanted us to share our dream once more.\nThat was why I resolved to lead my own horsegirl to the \"strongest\" summit—to conquer the Derby."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Loud cheering\n\nFuji Kiseki dashes past and exits\n---\n★ Request\nFuji Kiseki dashes past and exits",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "With that resolution, I entered Tracen Academy... but things hadn't gone well.\nTime and again, horsegirls were put off by my overzealous passion, leaving me without a trainee.",
+      "choice_data_list": [
+        "*Sigh* What should I do...? ...Hm?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to white / Fade in from white",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl A",
+      "text": "You pickin' a fight with us, punk?! Huh?!"
     },
     {
-      "name": null,
-      "text": "★Request\nLarge font\nText shaking",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "...Hah? You're the ones who stepped out of line, assholes."
     },
     {
-      "name": null,
-      "text": "★Request\nNo character displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl B",
+      "text": "Who d'you think you're talkin' to?! Actin' all high and mighty just 'cause you're an \"ex\"-leader!\nYou're the one daydreamin' in the middle of the path!"
     },
     {
-      "name": null,
-      "text": "★Request\nBlack wipe\n---\n★Request\nDisplay Jungle Pocket (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Quit your yapping.\nIf you can't even cough up an apology... I'll just have to crush you."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nPokke accelerates again and exits\n---\n★Request\nPokke accelerates again and exits",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl A",
+      "text": "—Tch! Damn you, I'll break that haughty nose of yours...!\nHey, you! Settle this on the track right now!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nThreatening tone",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It seemed like a spat between horsegirls.\nThough it looked like they were going to settle it with a race, would they really—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nDisplay Fuji Kiseki (Standard Racewear), running brilliantly\n---\n★Request\nDisplay Fuji Kiseki (Standard Racewear), running brilliantly",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Ora ora ora oraaah!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nDisplay Jungle Pocket (Casual Clothes), running in high spirits\n---\n★Request\nDisplay Jungle Pocket (Casual Clothes), running in high spirits",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Here we go, here we go, here we gooo!!\nI'm gonna blow right past youuuu—!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nDisplay Jungle Pocket (Casual Clothes), running while remaining hyper\n---\n★Request\nDisplay Jungle Pocket (Casual Clothes), running while remaining hyper",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl A",
+      "text": "Wha...!\nI was sure I left her in the dust, but she's already...?!"
     },
     {
-      "name": null,
-      "text": "★Request\nNo character displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "—Haha! Not even close...!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Running away (on line 2)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—Breathtaking. A vivid, fierce stride that instantly gripped the hearts of onlookers.\nIt was just like the run I witnessed that day..."
     },
     {
-      "name": null,
-      "text": "★Request\nNo character displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "On the inside, along the rail! Fuji Kiseki! Fuji Kiseki surges through the absolute inside!",
+      "choice_data_list": [
+        "(—It's... just like hers.)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Compared to Fuji Kiseki, her style was far more wild and unrefined.\nAnd yet..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nQuietly intimidating",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Boundless raw potential. The caliber fit for the \"strongest.\" The sheer thrill and anticipation.\nAll of it overlapped with the Fuji Kiseki I saw that day—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second of silence at the start\n---\n★Request\nDisplay Jungle Pocket (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "WOOOORAAAHHHHHHHHHH!!",
+      "choice_data_list": [
+        "(Go... blow past them—!!)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nNo character displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl B",
+      "text": "...Th-This is the \"Howling Demon\"...\nThe former leader of \"L/Roars\"...!",
+      "choice_data_list": [
+        "(What an incredible run...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nNo character displayed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl A",
+      "text": "Dammit... This wasn't supposed to happen...!!"
     },
     {
-      "name": null,
-      "text": "★Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "—Had enough, or do you still wanna play?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second of silence at the start\nThreatening tone",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Well, as long as it kills time, I don't mind taking you on.\nThough before that... you gotta pay what you owe, don'tcha?"
     },
     {
-      "name": null,
-      "text": "Ngh...! Damn it, I'm gonna break that smug nose of yours...!\nHey you bastards, settle this on that track over there!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I suddenly came back to my senses. Right, they were in the middle of a fight.\nAnxiety surged through my racing chest as I held my breath, watching the volatile standoff.",
+      "choice_data_list": [
+        "(If things get violent, I should report them...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Time to settle the score. Just like we promised—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Settle the score. Just like you promised—"
     },
     {
-      "name": null,
-      "text": "...Huh? You bastards were the ones being disrespectful, weren't ya?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Pay me back for my triple-scoop ice cream!",
+      "choice_data_list": [
+        "(A triple-scoop ice cream?!)"
+      ]
     },
     {
-      "name": null,
-      "text": "Huh, b-boosters...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rude Horsegirl A",
+      "text": "Urgh...! A free racer never goes back on her word...\nWhether it's three scoops or five, I'll pay for it...!"
     },
     {
-      "name": null,
-      "text": "Guh...! A free racer never goes back on her word...\nWhether it's a triple scoop or a five-scooper, I'll pay for it... dammit!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Hell yeah! ♪\nCan I get toppings on that five-scooper, then?!"
     },
     {
-      "name": null,
-      "text": "She has exceptional speed aptitude. So if we train her relentlessly\non the uphill slopes to sharpen her burst acceleration and get her totally ripped—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Furious Horsegirl",
+      "text": "Well look at that, you're a pretty good sport after all!\nThat ice cream place over there is crazy good—you should grab one too!"
     },
     {
-      "name": null,
-      "text": "Wha—?!\nI thought I blew right past her, but she's already... back?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "To think the whole quarrel was over a triple-scoop ice cream...\nWhile I stood there dumbfounded, they walked off together."
     },
     {
-      "name": null,
-      "text": "Well, I don't mind playing along as long as it kills time.\nBut listen up... you've got some making up to do first, don'tcha?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—The next day."
     },
     {
-      "name": null,
-      "text": "Sweet♪\nThen can I get a 5-scoop cone with toppings?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I was at the Academy, assisting the instructors with coaching the horsegirls.\nI was lending a hand to gain some practical coaching experience, but—"
     },
     {
-      "name": null,
-      "text": "—I have a dream. A dream I've held since childhood.\nTo become a Trainer who raises the \"strongest\" Umamusume.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "—I couldn't get the image of that girl from yesterday and her running out of my head.\nThe thrill from that moment still hadn't cooled down. She truly had what it took to become the \"strongest\"...!"
     },
     {
-      "name": null,
-      "text": "Huh? Are you stupid or what?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "...Um. Excuse me... Do you have any feedback on my running just now?",
+      "choice_data_list": [
+        "—Ah!"
+      ]
     },
     {
-      "name": null,
-      "text": "Quit your damn barking.\nIf you can't even apologize properly... I'll just crush you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Snapping back from my wandering thoughts, I hurriedly turned my attention to the girl before me.\nI have to give this training my all!"
     },
     {
-      "name": null,
-      "text": "Pay me back for my triple scoop ice cream!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "This girl has great speed aptitude. If we drill hard on the slope course\nto sharpen her explosive power while building shredded muscle—!",
+      "choice_data_list": [
+        "You'll unlock the ultimate acceleration, like an engine booster!"
+      ]
     },
     {
-      "name": null,
-      "text": "Whenever I get absorbed in thought, I blurt out things that don't sound mature at all...\nI know it only ends up putting people off, but it's a hard habit to break.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Huh? A b-booster...?",
+      "choice_data_list": [
+        "Yeah! It's like the ultimate special move!!"
+      ]
     },
     {
-      "name": null,
-      "text": "—Had enough, or do you still wanna play?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Ah... right... Well, thanks anyway.\nSee ya. —Instructooor!",
+      "choice_data_list": [
+        "Ah...!"
+      ]
     },
     {
-      "name": null,
-      "text": "—A vivid display. A fierce, breathtaking run that instantly captivates anyone watching.\nIt looked just like the running I witnessed that day...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "...I did it again."
     },
     {
-      "name": null,
-      "text": "...Um. Excuse me... Do you have any advice regarding my run just now?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Whenever I get carried away, I end up using such childish expressions...\nI knew it only put people off, yet I couldn't seem to break the habit.",
+      "choice_data_list": [
+        "Talking about the \"strongest\" and all... sounds pretty childish after all.",
+        "Talking about the \"strongest\" and all... sounds pretty childish after all."
+      ]
     },
     {
-      "name": null,
-      "text": "You do your best on the Trainer exam too. If we can both lead our assigned Umamusume\nto win the Derby together someday, that would be amazing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Hah? The hell's childish about it?"
     },
     {
-      "name": null,
-      "text": "......I did it again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "To think the cause of the quarrel was just a triple scoop ice cream cone...\nWhile I stood there dumbfounded, they walked away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What's this? You're pretty good at taking things in stride!\nThe ice cream shop over there is insanely good, you should grab some too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Suddenly coming back to my senses, I remembered we were in the middle of a confrontation. The earlier rush of excitement\nturned into mounting anxiety, and I held my breath as I watched the explosive standoff.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Damn it... This wasn't supposed to happen...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "WOOOOOOOOOOOOORAAAAAAAAHHHHHHHH!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She's strong, isn't she? She has the potential to stand at the top of her generation.\nShe could definitely take the Derby...! I need to give her my full support too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Haha! Not even close to done yet...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah... right... Well, thank you very much.\nSee ya. —Instructooor!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You pickin' a fight with me?! Huh?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "High potential. The caliber fit for the \"strongest.\" Expectation and exhilaration.\nAll of it overlapped with the Fuji Kiseki I saw that day—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I want to fulfill my brother's unfulfilled dream. I want to share that dream with him once more.\nThat's why I will guide my assigned Umamusume to become the \"strongest\"—to conquer the Derby.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I have an older brother whom I deeply respect. As the physician in charge of the Umamusume named Fuji Kiseki,\nhe passionately supported her maintenance, conditioning, and physical care.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sprinting through brilliantly in 1:34.7!\nFuji Kiseki takes center stage for next year's Classics!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Due to injury, Fuji Kiseki was forced to retire from the front lines.\nBecause he poured so much into her racing career, my brother's regrets ran deep—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It looks like a dispute between Umamusume.\nThey seem intent on settling it with a race, but will they really—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What's your deal, you retired \"former\" gang leader acting all high and mighty!\nYou're the one daydreaming in the middle of the road and crashing into people, ain't ya?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sounds great, the \"strongest.\"\nI kinda like that sort of thing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—The next day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "With that determination, I entered Tracen Academy... but things haven't been going well.\nEvery time I get fired up about my dream, people get weirded out, and I still haven't found a trainee.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Here I go, here I go, here I GOOOOO!!\nI'm gonna blow right past youuuuuu—!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...T-This is the \"Furious Roaring Demon\"...\nThe former leader of \"L/Roars\"...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "However—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "On the inside! On the inside, Fuji Kiseki! Coming up from the innermost rail, Fuji Kiseki!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "......It's my fault. I failed to prevent her injury.\nI was the one who shut the door on Fuji Kiseki's future...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Compared to Fuji Kiseki, her style is much wilder and unrefined.\nAnd yet...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fuji Kiseki dives inside! Fuji Kiseki attacks the inside!\nA yellow silk is flying in from the outside! Fuji Kiseki is in the lead!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "At the Academy, I was helping the instructors with training sessions.\nI volunteered to assist in order to gain coaching experience, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I quickly pulled my wandering thoughts back to the Umamusume in front of me.\nRight now, I have to give this student my full attention!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ora ora ora oraaa!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—I couldn't get the run from that girl with the triple scoop ice cream out of my head.\nThe thrill from yesterday hadn't faded one bit. She truly has the caliber to aim for the \"strongest\"...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Being the \"strongest\" sounds badass to me.\nI happen to like that kinda talk, y'know?"
     }
   ],
   "no_wrap": true

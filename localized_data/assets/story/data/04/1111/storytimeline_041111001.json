@@ -1,488 +1,260 @@
 {
-  "title": "",
+  "title": "About Air Messiah",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Voices playing excitedly in the distance",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Messiah's Mother",
+      "text": "Here you go, Messiah. This is the training notebook you wanted to see.\nIt's full of my old notes, but... are you sure this is okay?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 15\nPersonality: Cheerful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Messiah",
+      "text": "Wow...! Thank you, Mother!\nI promise to cherish and read every single word!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 50s\nPersonality: Jovial\n---\n★ Request\nDisplay Air Messiah (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Messiah",
+      "text": "I'm going to work super hard! More than anyone!\nAnd then, someday—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nDisplay Air Messiah (Summer Tracksuit / Dirty)\n---\n★ Request\nDisplay Air Messiah (Summer Tracksuit / Dirty)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Someday, I'll be just like you, Mother."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 30s\nPersonality: Crisp and kind\n---\n★ Request\nGeneric Wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rookie Trainer A",
+      "text": "Oh, there you are! Finally found ya~! Hey, all us rookie trainers\nare heading out for yakiniku to talk shop, wanna come along?",
+      "choice_data_list": [
+        "Ah... sorry. I haven't finished my work yet."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 20s\nPersonality: Bright and smart\n---\n★ Request\nFade in / Fade out\n*Perspectives change significantly, so please transition at a slower pace\n---\n★ Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rookie Trainer A",
+      "text": "Huh? But your assignment for today was... whoa!\nYou wrote out the equipment check report in this much detail...?!",
+      "choice_data_list": [
+        "Well, I just covered everything listed in the manual..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAir Messiah walks out\n---\n★ Request\nAir Messiah walks out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rookie Trainer A",
+      "text": "Ahaha, I asked the senior trainers, and they said keeping it brief is fine! Come on, yakiniku! That rookie who scouted someone yesterday is coming too!",
+      "choice_data_list": [
+        "...Sorry. I still have other work left to finish."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nTime Passes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rookie Trainer A",
+      "text": "Ah... I see. Sorry for pushing you so hard, then!\nI'll invite you again sometime. Don't overdo it, okay? See ya~!"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / Fade out\n---\n★ Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After finishing up work, I return to my room in the trainer dorms... and let out a deep sigh.\nThe incident in the gym storage room crosses my mind. ...I messed up again.",
+      "choice_data_list": [
+        "\"Being overly earnest is your only redeeming quality,\" huh..."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric Wipe\n---\n★ Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Never in my life have I managed to do things cleverly or effortlessly.\nI lack quick wit, my ideas are plain, and I can only ever offer play-it-safe proposals.",
+      "choice_data_list": [
+        "(Which is why every girl I try to scout keeps turning me down...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAir Messiah (Summer Tracksuit / Dirty) runs in\n---\n★ Request\nAir Messiah (Summer Tracksuit / Dirty) runs in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And yet, since \"being overly earnest is my only redeeming quality\"—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAround 4-5 years old image",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "Let's see... Alright, everyone in our group is here.\nLet's get started! First, head down to the beach! ...Wait, whoa!?"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Air Messiah (Standard Racewear)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "Are you... a rookie trainer without an assigned trainee? W-Well, that's rare.\nIt's boiling hot, tough work, and you just get saddled with chores, so barely anyone comes.",
+      "choice_data_list": [
+        "No... well, I'll do my best with the chores."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nTime Passes\n---\n★ Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Taking the phrase \"Rookie trainer participation recommended\" completely literally,\nI ended up coming all the way to summer training camp. I sigh at myself again."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSame character as Messiah's mother featured in main scenes\n---\n★ Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "—Alright, that's it for today! You're free until dinner.\nEveryone, make sure you stay hydrated and replenish your electrolytes!",
+      "choice_data_list": [
+        "If anyone needs drinks, I have them ready over here!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nPerforming squats.\nImage is crouching on the first '123' and holding, then standing up on '12345'.\n---\n★ Request\nDisplay Air Messiah (Summer Tracksuit)\nSquat (core training) motion.\nImage is crouching on the first '123' and holding, then standing up on '12345'.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Wah! Thank you so much~!\n...Hey, what are you doing after this? Are we going to that nearby mall after all!?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAir Messiah runs out\n---\n★ Request\nAir Messiah runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "Totally! This brutal training camp has barely even started, after all.\nRefreshing ourselves is super important♪"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in / Fade out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And so, most of the girls headed off to take a break.\n...However—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 15\nPersonality: Gentle",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "1、2、3……1、2、3、4、5……。\n1、2、3……1、2、3、4、5……。",
+      "choice_data_list": [
+        "...She's the only one still training, isn't she?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 sec silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "Ah... Air Messiah. She did mention wanting to add more\ncore training to improve her running form, but—"
     },
     {
-      "name": null,
-      "text": "Running drills on an unstable sandy beach certainly helps build core strength.\nAccording to her trainer, her goal is: form improvement through core strengthening.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Instructor A",
+      "text": "Core workouts are plain and simple, yet brutally exhausting, right?\nFor her to quietly devote herself like that is truly admirable.",
+      "choice_data_list": [
+        "Yes... She really is a diligent girl."
+      ]
     },
     {
-      "name": null,
-      "text": "Could it be! Is your mom a Tracen Academy alumna, missy?!\nThe famous one who made her mark in the Triple Tiara route...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...In the distance, the cheerful voices of girls playing on the beach echo out.\nAmidst that, the sight of her sweating away alone in silence left a deep impression on me."
     },
     {
-      "name": null,
-      "text": "Ah~... I see. Sorry for being so pushy!\nI'll invite you again, so don't overdo it! See ya~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "All right, another rice cooker coming through! If anyone wants seconds, step right up!\nEat hearty to prepare for tomorrow! Hey, you over there, young lady, you too!"
     },
     {
-      "name": null,
-      "text": "Since when, and for how long, had she been running drills?\n...Even as my thoughts raced, I found myself calling out to her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "No, thank you. I have already eaten as much as I require.\nIt was truly delicious, sir."
     },
     {
-      "name": null,
-      "text": "Whoa! Thank you so much~!\n...Hey, what are we doing after this? Should we head to the nearby mall after all?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "Gahaha! Calling me 'sir' tickles me in all the right ways!\nAh~ come to think of it, someone used to call me that before... Wait, huh? Whaaat!?"
     },
     {
-      "name": null,
-      "text": "I'll do my very best! As much as I possibly can!\nAnd then, someday—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "Could it be?! Little lady, was your mother a Tracen Academy student back in the day?!\nThe famous one who tore up the Triple Tiara circuit...!",
+      "choice_data_list": [
+        "(! ...That girl's... mother?)"
+      ]
     },
     {
-      "name": null,
-      "text": "The whole time during the training camp, every single day, she was soaked in sweat and covered in mud.\nSeeing her work so tirelessly and passionately... You couldn't help but respect her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "My... you know of my mother.\nYes, I am her daughter, Air Messiah."
     },
     {
-      "name": null,
-      "text": "Never in my life have I managed to do anything with effortless finesse.\nI lack quick wit, I can only think of plain ideas, and my proposals are strictly pragmatic.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "I knew it~! Wow, so her kid is already this grown up!\nTime sure flies... Give it your all just like your mama, I'm rooting for ya!"
     },
     {
-      "name": null,
-      "text": "Are you... a rookie trainer without an assigned trainee? Th-That's pretty rare.\nIt's sweltering, the work is exhausting, and they dump all the chores on you, so almost none of 'em come out here.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Yes, I shall do my best.\nNow then... if you will excuse me."
     },
     {
-      "name": null,
-      "text": "And after she debuted, she actually ran in the Triple Tiara races!\nIncredible, ain't it? All three of 'em—the Oka Sho, the Yushun Himba (Oaks), and the Shuka Sho!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Air Messiah takes her leave. Watching her depart, I decide to take a chance\nand ask the cook about what he just said.",
+      "choice_data_list": [
+        "Excuse me... could you tell me more about that?"
+      ]
     },
     {
-      "name": null,
-      "text": "I knew it! Ah, so that girl's daughter is already all grown up!\nTime sure flies... Do your best just like your mother did! I'll be cheering for you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "Hm? ...Oh, about her mother? Man,\nthey look so alike. Total spitting image. Especially that serious aura of hers."
     },
     {
-      "name": null,
-      "text": "Yes, I will do my best.\nNow, if you will excuse me... I must be going.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "Little Miss Messiah must be quite the hard worker too, right?\nHer mother was the exact same way. I remember it clear as day."
     },
     {
-      "name": null,
-      "text": "Air Messiah turns and walks away. Tracking her departing figure with my eyes,\nI take a breath and ask the old man a question.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "During training camp, day in and day out, she'd be covered in sweat and mud.\nAlways striving, putting in effort after effort... It was truly humbling to see."
     },
     {
-      "name": null,
-      "text": "Huh?\nAh... yes, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "And once she debuted, she actually ran in all the Triple Tiara races!\nIncredible, right? All three: the Oka Sho, the Yushun Himba, and the Shuka Sho!"
     },
     {
-      "name": null,
-      "text": "Oh, wow...! Mother!\nI will treasure this and read every single word.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "...But, you know. She came so agonizingly close in every single one.",
+      "choice_data_list": [
+        "Agonizingly close...?"
+      ]
     },
     {
-      "name": null,
-      "text": "Oh... Could it be that my running here\nis getting in the way of your duties?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "Yeah. She took 3rd in the Oka Sho, 2nd in the Yushun Himba, and 3rd in the Shuka Sho,\nif memory serves. In the end, she never grasped a GⅠ crown... It must've been heartbreaking.",
+      "choice_data_list": [
+        "And that daughter... is Air Messiah."
+      ]
     },
     {
-      "name": null,
-      "text": "Wait, but wasn't your assignment for today... Whoa!\nDid you really write this equipment check report in so much detail...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cafeteria Uncle",
+      "text": "That's how it is. ...Man, but still...\nThinking back on it now, she really does take after her mother."
     },
     {
-      "name": null,
-      "text": "I'm in~! The brutal training camp has barely just begun, after all.\nRefreshing ourselves is super important♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Early the next morning.\nWhen I head down to the beach to prepare for training...",
+      "choice_data_list": [
+        "Huh? That girl...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Aahaha! Calling me 'gentleman' kinda tickles, honestly.\nAh, come to think of it, someone called me that before, too... Wait, huh? Huhhh?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Haa, haa, whew...! \nJust... five more kilometers...!",
+      "choice_data_list": [
+        "(Today, she's doing beach sprints...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Oh, is that so?\nThank you for working so hard so early in the morning, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Running on unstable sand is certainly effective for building core strength.\nAccording to her assigned instructor, her goal is to improve her form through core training."
     },
     {
-      "name": null,
-      "text": "...In the distance, the cheerful voices of the girls enjoying the beach could be heard.\nIn the midst of that, the sight of her silently sweating away all by herself left a lasting impression on me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "\"Because it must be done, I shall do it.\" In the chilly early morning air,\nsteam practically rises from her sweat-drenched body."
     },
     {
-      "name": null,
-      "text": "No, thank you. I have already had my fill.\nIt was truly delicious, kind sir.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Haa, haa...! Haa, haa, haa...\n—Phew."
     },
     {
-      "name": null,
-      "text": "I am glad to hear that. ...Now, I must resume my run.\nPlease excuse me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "How long, and how far, had she been running?\n...As the thought crossed my mind, I found myself calling out to her.",
+      "choice_data_list": [
+        "...Great work out here."
+      ]
     },
     {
-      "name": null,
-      "text": "Ah... Air Messiah. She did mention she wanted to incorporate\nmore core training to improve her running form, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Eh?\nAh... yes."
     },
     {
-      "name": null,
-      "text": "See, core workouts are really unglamorous, and above all, utterly grueling.\nTo devote herself so silently and completely to it... you've gotta admire that.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Are you... someone's trainer?",
+      "choice_data_list": [
+        "No, I'm still a rookie... just here to help out.",
+        "No, I'm still a rookie... just here to help out."
+      ]
     },
     {
-      "name": null,
-      "text": "And yet, because 'being earnest' is truly my only redeeming quality—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Oh, is that so?\nThank you for your hard work as well, being up so early in the morning."
     },
     {
-      "name": null,
-      "text": "I took the phrase 'Rookie trainer attendance recommended' far too seriously\nand came all the way to this summer camp. Thinking about that makes me let out another sigh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Ah... Am I perhaps getting in the way\nof your work by running here?",
+      "choice_data_list": [
+        "Ah, no, not at all!"
+      ]
     },
     {
-      "name": null,
-      "text": "Yes. I will do my best. —Excuse me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "That is a relief. ...Well then, I shall resume running.\nPlease excuse me.",
+      "choice_data_list": [
+        "Right. ...Um, keep it up!"
+      ]
     },
     {
-      "name": null,
-      "text": "Ahaha! A senior told me that a rough outline is totally fine, you know?\nMore importantly, what do you say to yakiniku! The trainee who landed a scout contract yesterday is coming too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Still, man. Every single one of them was so painfully close.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Messiah, here you are. The training journal you said you wanted to see.\nIt's full of old notes from my younger days, though... will it be all right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That's how it is. ...Man, oh man, but still...\nRemembering it all like this makes me realize just how much that girl resembles her mother.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh... so you knew my mother.\nYes, I am her daughter, Air Messiah.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "'I do it because it must be done.' In the chilly air of early morning,\nsteam was practically rising from her sweat-drenched body.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hm? ...Oh, you mean that girl's mother? Man,\nthey're identical. The spitting image of her. Especially that earnest demeanor.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so, most of the Umamusume headed out to take a breather.\n...However—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Are you... assigned as a trainer to someone?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Having finished my work, I return to my room in the trainer dormitory... and let out a deep sigh.\nThe incident in the gym storehouse flashes through my mind. ...I've done it again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One, two, three... One, two, three, four, five...\nOne, two, three... One, two, three, four, five...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's see... Alright, everyone in our group is here.\nThen let's get started, first move to the beach—! ...Wait, whoa?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Alright, bringing in another rice cooker! Anyone wanting seconds, come on up!\nEat hearty to prepare for tomorrow! Come on, you over there too, young lady!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Someday, I too—just like Mother.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I bet young Messiah is a hard worker too, isn't she?\nHer mother was the exact same way. I remember it vividly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haah, haah...! Haah, haah, haah...\n—Phew.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yeah. She placed 3rd in the Oka Sho, 2nd in the Oaks, and 3rd in the Shuka Sho,\nif I remember right. In the end, she never reached that GⅠ victory... It must've been heartbreaking.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haah, haah, phew...!\nJust... five more kilometers...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Early the next morning.\nHeading down to the beach to prepare for training...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, there you are! Finally found you~! Hey, all of us rookie trainers\nare heading out for yakiniku to exchange info, wanna join?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Alright, that wraps it up for today! You have free time until dinner.\nMake sure everyone replenishes their water and salt properly!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Yes. I will give it my all. —Goodbye."
     }
   ],
   "no_wrap": true

@@ -1,481 +1,254 @@
 {
-  "title": "",
+  "title": "Because That Day, They Showed Me a Dream",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nNippon = Nippon",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "—And here it is, the day has finally come!\nWhich Umamusume will seize glory and show us a brand-new dream!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Roaring Cheers\n---\n★ Request\nWatching the race together with Winning Ticket.\r\nTicket is facing to the left.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "The Japanese Derby is about to begin—!!"
     },
     {
-      "name": null,
-      "text": "★ Request\nShow character from here",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "(WAAAAAAHHHHHH—!!)"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nLate-stage kick = Sueashi",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "The Japanese Derby... It is a truly special race for\nUmamusume, Trainers, and fans alike."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Roaring Cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Run over 2,400 meters on turf, it is one leg of the\nTwinkle Series “Classic Triple Crown”—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Sound of gates opening",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "And it is said that “becoming the Trainer of a Derby\nUmamusume is harder than becoming Prime Minister.”"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nGender: Female\r\nAge: Late 20s - 30s\nPersonality: Cheerful, hot-blooded",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "I don't really know what a “prime minister” is, but\nit sounds like someone super duper important, right?!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nNippon = Nippon",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "And because they say the Derby is even harder to achieve\nthan becoming someone that amazing—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Roaring Cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "The girl who wins it can give everyone watching\nso much emotion, hope, and dreams!",
+      "choice_data_list": [
+        "Wait, Ticket, you're here?!",
+        "Wait, Ticket, you were here?!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Fanfare (Derby)\n---\n★ Request\nWinning Ticket turns back toward the racetrack",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Of course I'm here!!\nIt's the Derby! There's no way I'd miss it—!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Roaring Cheers (Fade in)\n---\n★ Request\nHide character from here\r\nApply flashback-style visual effect to background",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "To think I'd run into my fellow ant-watcher in a place\nlike this, though! I'm so haaaapppppy—!!",
+      "choice_data_list": [
+        "(Fellow ant-watcher...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSE: Roaring Cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Whoa!! The race is about to start...!!"
     },
     {
-      "name": null,
-      "text": "Seeing girls giving it everything they've got gave so many people\r\ncourage and cheered them up so much, and that's when I understood...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Carrying the dreams of everyone involved in the race, now—"
     },
     {
-      "name": null,
-      "text": "(WAAAAAAAAAAAAAAAH!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "They're off to an even start!!"
     },
     {
-      "name": null,
-      "text": "Really?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "(WAAAAAAAAHHHH!!)"
     },
     {
-      "name": null,
-      "text": "And!!\r\nPlease be my Trainer!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "The field rounds the 4th corner!\nHere comes the fateful home stretch!!"
     },
     {
-      "name": null,
-      "text": "The Umamusume who wins gives everyone watching\r\nso much inspiration, hope, and dreams, right?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "WOOOOOOOHHHHH—!!\nEveryone, do your best, everyoooone—!!"
     },
     {
-      "name": null,
-      "text": "(WAAAAAAAAAAAAAAAH...!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Whoa, look at number 5's late kick!!\nAh, but wait, number 11 is closing in fast too...!!"
     },
     {
-      "name": null,
-      "text": "Waaah, the favorite is coming from way on the outside?!\r\nCan she go all the way like that?! Can she really pull it off?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Waaah, the race favorite is coming all the way from the outside?!\nCan she pull it off?! Is she gonna win it?!"
     },
     {
-      "name": null,
-      "text": "\"A 'Derby Umamusume' is someone\r\nwho makes everyone's dreams come true!\" That's what they said!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "—GOOOOOAAAAAL!!\nThe pinnacle of Umamusume has just been decided—!!"
     },
     {
-      "name": null,
-      "text": "Winning Ticket's absolute sincerity had come through loud and clear\r\nfrom everything we'd shared so far...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "She did ittttt—!!\nIncredible... wow... everyone... tried so... hard..."
     },
     {
-      "name": null,
-      "text": "Whoa, look at number 5's closing kick!!\r\nAhhh, but number 11 is charging from behind too...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "W-WAAAAAAHHHHHH—!!!!\nI'M ZO MOOOOVEEDDD—!!!!"
     },
     {
-      "name": null,
-      "text": "Still, running into my fellow ant buddy in a place like this!\r\nI'm so suuuuper happy!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "It took a while... actually, quite a long while\nfor an overjoyed Winning Ticket to stop crying."
     },
     {
-      "name": null,
-      "text": "They're off to an even start!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "*sniff*... *snort*...\nThat really was an amazing race, wasn't it—?!"
     },
     {
-      "name": null,
-      "text": "—GOOOOOOOOAL!!\r\nThe pinnacle of Umamusume has now!! Been decided—!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Man, the Derby really is the best...!\nUuuuugh, I wanna run there so baaaadly too—!!",
+      "choice_data_list": [
+        "You really do care deeply about the Derby.",
+        "You really have strong feelings for the Derby, don't you?"
+      ]
     },
     {
-      "name": null,
-      "text": "Because of all that, racing was always my biggest dream from the start,\r\nbut...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Well, yeah, of course I do!!"
     },
     {
-      "name": null,
-      "text": "Just like those girls I saw on TV back then!! Just like the girls\r\nI watched from the stands that day!! Just like the ones standing out there today!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "I got to play all kinds of sports since I was little,\ny'know? But discovering races was something truly special!"
     },
     {
-      "name": null,
-      "text": "WHAAAAT?!?!?!?!?\r\nW-W-W-W-Wonderful?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "At first, I only watched them on TV, but\neven so, I could feel all the fiery passion from the crowd!"
     },
     {
-      "name": null,
-      "text": "...Wait, but first, I gotta find a Trainer to take charge of me\r\nand make my debut... though...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Seeing all those girls giving it their absolute best, I realized\nhow much courage and energy they gave to everyone...!"
     },
     {
-      "name": null,
-      "text": "W-WAAAAAAAHHHHHHH!!!!\r\nI'M ZO MOOOOVED!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "And that... was just so amazing, that...\nit always, always makes me cry... *sniff*...!",
+      "choice_data_list": [
+        "A-Are you all right?",
+        "Y-You okay?"
+      ]
     },
     {
-      "name": null,
-      "text": "You think so? Ehehe... Ehehehehe~!\r\n...Hauhh, I'm getting all fuzzy and itchy! Scratchy scratch...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "...*gasp*! I'm fine!!\nEhehe, I just got carried away remembering how that felt!"
     },
     {
-      "name": null,
-      "text": "I JUST!! REALIZED!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Because of that, races were always a place I looked up\nto from the start, but..."
     },
     {
-      "name": null,
-      "text": "Knowing how she feels, turning her down...\r\nis something I cannot do as a Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "One day, I went to watch one with my family!!\n—The Japanese Derby!!"
     },
     {
-      "name": null,
-      "text": "W-W-Wait, ant buddy!!\r\nThat!! Badge on your lapel!! Could it be...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "The intensity and heat were just craaaazy! Even though I was little\nand didn't know anything about racing, I understood right away!"
     },
     {
-      "name": null,
-      "text": "I realized this place was super \"special\"!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "That this place was somewhere truly “special”!!"
     },
     {
-      "name": null,
-      "text": "The Nippon Derby is about to get underway!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "And then, the fans around me told me!\n“The Derby is packed full of dreams.”"
     },
     {
-      "name": null,
-      "text": "Nnnnghhhh... YEEEEEEEEEESSSSSSSS...!!\r\nWE DID IIIIIIIIITTTTTTTT!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "“A ‘Derby Umamusume’ is someone\nwho makes everyone's dreams come true!”"
     },
     {
-      "name": null,
-      "text": "SHE DID IIIIIIIIIIIT!!\r\nAmazing... Everyone worked... so haaaard...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "That's why I'm gonna win the Derby!!"
     },
     {
-      "name": null,
-      "text": "—And the day has finally arrived!\r\nWhich Umamusume will seize the crown and show us a brand new dream?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Just like those girls I saw on TV back then!! Just like the ones\nI saw from the stands that day!! Just like the ones running here today!!"
     },
     {
-      "name": null,
-      "text": "WHAAAAAAAAT?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "I'll definitely become a “Derby Umamusume”\nwho can give dreams to everyone, toooooo—!!",
+      "choice_data_list": [
+        "That's a wonderful goal.",
+        "That's a really great dream."
+      ]
     },
     {
-      "name": null,
-      "text": "And then, the fans around me told me!\r\n\"The Derby is packed full of dreams,\" they said!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "WHAAAAT?!?!?!?!?\nW-W-W-W-Wondefuuul?!"
     },
     {
-      "name": null,
-      "text": "WOOOOOOOOOAAAHH!!\r\nGo for it, everyone! DO YOUR BEEEEEEST!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "You think so? Ehehe... ehehehehe~!\n...Eep, I feel all ticklish inside! It's making me squirm..."
     },
     {
-      "name": null,
-      "text": "Precisely because the Derby is said to be even tougher\r\nthan becoming someone that incredible—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Thank you, though!!\nI'm gonna do my best to reach my dream!!"
     },
     {
-      "name": null,
-      "text": "It's just... so incredible...!\r\nI'm always, always so moved... *sniff*...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "...Though, before that, I gotta find a Trainer to take charge\nof me so I can debut... but..."
     },
     {
-      "name": null,
-      "text": "One day, I went to watch a race with my family!!\r\n—The Nippon Derby!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "WHAAAAAAAATTTTTT?!",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
-      "name": null,
-      "text": "Whoa!! It's almost post time...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "H-H-Hold on, ant-watcher friend!!\nThat!! That lapel pin!! Don't tell me..."
     },
     {
-      "name": null,
-      "text": "Someday, I'm definitely gonna become a Derby Umamusume\r\nwho can give everyone dreams to believe in, toooooo!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "You're a Trainer?!",
+      "choice_data_list": [
+        "...You only just realized?!",
+        "...You just noticed that now?!"
+      ]
     },
     {
-      "name": null,
-      "text": "You were a Trainer?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "I JUST!! NOTICED IT NOOOOWWW!!!!"
     },
     {
-      "name": null,
-      "text": "A 2,400-meter turf race. One leg of the Twinkle Series\r\nClassic Triple Crown, and—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "And so...!!\nPlease become my Trainer!!",
+      "choice_data_list": [
+        "(A reverse scout...?!)"
+      ]
     },
     {
-      "name": null,
-      "text": "...Phew! I'm okay!!\r\nEhehe, remembering how I felt back then just got to me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Pleeease, pleeease, pleeeaaase...! I waaaant to become\na “Derby Umamusume” more than anything in the world!"
     },
     {
-      "name": null,
-      "text": "Thank you, Trainer! Thank you sooo much!!\r\nReally... really... *sniff*...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Her sheer sincerity had come through loud and clear\nthroughout everything we'd talked about so far..."
     },
     {
-      "name": null,
-      "text": "\"Becoming the Trainer of a Derby-winning Umamusume\r\nis harder than becoming Prime Minister of a nation.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Knowing how deeply she feels about this... as a Trainer,\nthere's no way I could turn her down!",
+      "choice_data_list": [
+        "Alright, let's aim for the Derby together!"
+      ]
     },
     {
-      "name": null,
-      "text": "Please, please, pleeease...! I waaant, waaaant, WANT to become\r\na Derby Umamusume no matter whaaat!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "For real?!"
     },
     {
-      "name": null,
-      "text": "At first, I only watched it on TV,\r\nbut even then, the crowd's energy reached right through to me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Uuuuuughhhhh~~~~~... YEEEEEEE...\nEEEEEEEESSSSSSS—!!"
     },
     {
-      "name": null,
-      "text": "Still, thank you so much!!\r\nI'm gonna do my absolute best toward my dream!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Thank you, Trainer, thank youuu!!\nReally... seriously... *sniff*...!!"
     },
     {
-      "name": null,
-      "text": "Well, of course!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It took a while... no, quite a long while,\r\nfor an overjoyed Winning Ticket to finally stop crying.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The Derby is just so awesome after all...!\r\nUuuugh, I wanna run here as soon as I caaaan!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Of course I was there!!\r\nI mean, it's the Derby! There's no way I'd miss it!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I've been playing all kinds of sports ever since I was little,\r\nbut discovering racing was truly something special!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The power and the heat were just insane! Even though I was tiny\r\nand knew nothing about racing yet, it was obvious to me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Now, carrying the dreams of everyone involved in this race, right now—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The runners round the fourth corner!\r\nHere comes the fateful final straight!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thank you so, so muuuuch!\r\nWAAAAAAHHHHHH!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That's why I'm gonna take the Derby!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The Nippon Derby... A special race for Umamusume,\r\nTrainers, and fans alike.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I don't really get what a \"Prime Minister\" is,\r\nbut it's gotta be someone super incredible, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew, *sniff*...\r\nThat was seriously such an amazing race!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Winning Ticket",
+      "text": "Thank you soooo, sooo muuuuch—!\nWAAAAAAHHHHHH—!!"
     }
   ],
   "no_wrap": true

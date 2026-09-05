@@ -1,299 +1,154 @@
 {
-  "title": "",
+  "title": "Time to Dig In!",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nCostume: Summer tracksuit (wet)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "After getting permission from the local fisheries association\nthat Hishi Akebono is good friends with, we arrived at... that deserted island."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nFrom afar\n---\n★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Mmm, feels amazing out here!\nIt's the perfect day for harvesting kelp!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nFire striker = hiuchigane",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Still... Trainer, that's a whole lot of luggage!\nWhat in the world did you bring all that for?"
     },
     {
-      "name": null,
-      "text": "★Request\nHishi Akebono: Fade out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Tons of water, a fire striker...\nOh, you even have an edible wild plant guide!",
+      "choice_data_list": [
+        "Well, after getting stranded last time..."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nTime Elapsed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Ahaha! Oh yeah, that did happen, didn't it?\nYou collapsed right around here, Trainer!"
     },
     {
-      "name": null,
-      "text": "★Request\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "You really gave me a fright back then~\nI didn't know what I was gonna do if you didn't open your eyes!",
+      "choice_data_list": [
+        "You looked like a goddess to me back then.",
+        "You looked like a goddess to me back then."
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nRuns in\n---\n★Request\nCostume: Summer Tracksuit Standard (*Dry)\r\nFade in running\nFont: Normal",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Ahaha, you're totally exaggerating~"
     },
     {
-      "name": null,
-      "text": "A ton of water, a fire striker...\r\nOh, and even an edible wild plants field guide!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Do you think goddesses are big like me too, though?\nIf I meet anyone who knows, I'll have to ask them next time~"
     },
     {
-      "name": null,
-      "text": "Huh? Oh, could it be you're super hungry?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "For now, set that luggage down and... let's get started!\nTime to gather lots and lots of yummy kelp~!"
     },
     {
-      "name": null,
-      "text": "I'm so happy you enjoyed it~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "They said we can catch seafood too!\nTrainer, keep watch so the birds don't steal anything, okay?"
     },
     {
-      "name": null,
-      "text": "I'm so glad I got you to be my Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "After seeing Hishi Akebono off to gather kelp and seafood,\nI spent two hours watching our gear in the shade—"
     },
     {
-      "name": null,
-      "text": "Still... Trainer, that's a huge load of luggage!\r\nWhat did you bring all of that for?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Traineeer! Sorry to keep you waiting!"
     },
     {
-      "name": null,
-      "text": "I made up my mind to find a chance to treat her to a meal next time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "I caught some huge shellfish and fish~!\nI'm gonna whip up lunch with all of this right now~!"
     },
     {
-      "name": null,
-      "text": "You always eat with such a big smile on your face, Trainer,\r\nso it makes me super happy too~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "I brought an earthenware pot today~\nIt's definitely gonna turn out super yummy~!",
+      "choice_data_list": [
+        "I'll give you a hand."
+      ]
     },
     {
-      "name": null,
-      "text": "It's okay! We're not just having hot pot, you know.\r\nWe've got skewers, and I'll make grilled stuff too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Ah, you just kick back and relax, Trainer!\nYou must be tired, right? Keeping watch takes a lot out of you~"
     },
     {
-      "name": null,
-      "text": "Since I had a wild plant field guide on hand,\r\nI decided to look around for some ingredients.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Just give me a little bit~\nOnce you eat this, you'll be full of energy!"
     },
     {
-      "name": null,
-      "text": "Ahaha! That's right.\r\nYou were collapsed right over here, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Hishi Akebono skillfully sets to work prepping everything.\nIt looks like there isn't much I can help with here."
     },
     {
-      "name": null,
-      "text": "Everything tasted amazing, and despite the enormous spread,\r\nmy chopsticks never stopped—I polished off every single bite.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Still, it feels wrong to just sit around zoning out."
     },
     {
-      "name": null,
-      "text": "Whenever you're hungry, just let me know~.\r\nI'll make a whole bunch more for you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Since I brought a wild plant guide anyway,\nI decide to look around for some ingredients myself."
     },
     {
-      "name": null,
-      "text": "I was so startled back then~.\r\nI didn't know what I was gonna do if you didn't wake up.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "...I search around for a while, but can't find anything that fits the bill."
     },
     {
-      "name": null,
-      "text": "Having obtained permission from the fisheries cooperative Hishi Akebono was on good terms with,\r\nwe arrived at—that uninhabited island.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I spot some mushrooms, but even with a guidebook, an amateur shouldn't take chances.\nDisappointing as it is, I should probably give up here.",
+      "choice_data_list": [
+        "...Guess I'll head back."
+      ]
     },
     {
-      "name": null,
-      "text": "They said we could catch seafood too!\r\nTrainer, keep watch so the birds don't snatch anything, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Traineeer! Traineeer!!"
     },
     {
-      "name": null,
-      "text": "Oh, take it easy and get some rest, Trainer!\r\nYou must be tired, right? Keeping watch takes a lot out of you~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Found you! Whew, thank goodness~\nWhat happened? Did you get lost?",
+      "choice_data_list": [
+        "No, I was just looking for ingredients..."
+      ]
     },
     {
-      "name": null,
-      "text": "I spotted some mushrooms, but even with a guide, an amateur shouldn't take chances.\r\nIt was disappointing, but best to give up on those.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Huh? Oh, are you super-duper hungry by any chance?"
     },
     {
-      "name": null,
-      "text": "Traineeer! Sorry to keep you waiting!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Don't worry! I didn't just make hot pot, you know!\nI've got skewers, and I'm grilling stuff up too!"
     },
     {
-      "name": null,
-      "text": "Let's put that luggage down for now and... get started!\r\nTime to gather some yummy, yummy kelp~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "It'll be ready in a jiffy,\nso just hang tight for a tiny bit longer~!"
     },
     {
-      "name": null,
-      "text": "Traineeer! Traineeer!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "A spread fit for a sumo stable appears before my eyes.\nSkewered fish, grilled vegetables... and even rice to finish off the hot pot."
     },
     {
-      "name": null,
-      "text": "Ahaha, you're exaggerating~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Every single dish tastes incredible, and despite the monumental portion,\nmy chopsticks never slow down—I clean every last plate."
     },
     {
-      "name": null,
-      "text": "That being said, I felt bad just spacing out and doing nothing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Did that hit the spot?",
+      "choice_data_list": [
+        "Beyond words...!"
+      ]
     },
     {
-      "name": null,
-      "text": "I'll have it ready in a jiffy,\r\nso just wait a little bit~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Seeing you enjoy it so much makes me so happy~"
     },
     {
-      "name": null,
-      "text": "I wonder if the Goddess was as big as me, though?\r\nIf someone knows, I'll have to ask them next time~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Trainer, you always eat with such a big smile on your face,\nand that brings me so much joy~"
     },
     {
-      "name": null,
-      "text": "Just wait a tiny bit~.\r\nOnce you eat this, you'll be full of energy!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "I'm so, so glad you became my Trainer!"
     },
     {
-      "name": null,
-      "text": "I brought an earthenware pot today~.\r\nIt's gonna turn out super delicious~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Whenever you're hungry, just say the word~\nI'll whip up tons and tons of food for you again!"
     },
     {
-      "name": null,
-      "text": "Hishi Akebono began her preparations with practiced skill.\r\nIt didn't look like there was anything I could help with here.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Hishi Akebono beams with sheer satisfaction. She seems happy enough\njust serving food, but I still want to give something back in return."
     },
     {
-      "name": null,
-      "text": "Found you! Thank goodness~.\r\nWhat happened? Did you get lost?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Mmm, feels so good!\r\nIt's the perfect day for gathering kelp!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I caught some giant shellfish and fish~!\r\nI'm gonna whip up lunch with these right now~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Enough food to feed a sumo stable was laid out before me.\r\nFish and vegetable skewers... and even rice to finish off the hot pot.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hishi Akebono had a satisfied smile on her face. She seemed happy just\r\nserving the food, but I still wanted to repay her somehow.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Did you get your fill?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After seeing off Hishi Akebono as she went to gather kelp and seafood,\r\nI spent two hours watching the luggage in the shade—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I searched for a while, but couldn't find anything viable.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I make up my mind to find a chance to treat her to a meal next time."
     }
   ],
   "no_wrap": true

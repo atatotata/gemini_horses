@@ -1,481 +1,245 @@
 {
-  "title": "",
+  "title": "Deterministic Charm",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nTransition Wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "One day off, during a visit to the shopping mall—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Realizing she's been standing in front of the shelf the whole time, feeling both apologetic and embarrassed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Hmm… While the variety of essential oils is extensive, the crucial botanical base oil is lacking.\nIt appears they prioritized fragrance over cosmetic efficacy."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Meaning \"as you surely know well, my struggles with my hair\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "In that case, the baobab seed oil product from earlier is preferable, yet…\nconsidering the absorption rate, the ingredient balance leaves something to be desired… Mmh…",
+      "choice_data_list": [
+        "…Hayahide?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nGender: Female\r\nAge: 30s\nPersonality: Pushy. Determined to sell to every customer who walks by\n---\n★ Request\n*SFX: Approaching footsteps",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Gah?!\nT-Trainer?!"
     },
     {
-      "name": null,
-      "text": "★ Request\nTime Passes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "W-What brings you here… Well, shopping, obviously.\nStill, what an improbable coincidence…",
+      "choice_data_list": [
+        "What were you looking at?",
+        "What were you looking at?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nTime Passes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…I was comparing various hair oils.\nThe bottle I'm currently using is almost empty, you see."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Essential oil = seiyu, vegetable oil = shokubutsuyu",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "I figured I would check if any new products had been released.\nEven within the same line, formulas are frequently revised as research advances.",
+      "choice_data_list": [
+        "You pay a lot of attention to that, huh.",
+        "You pay a lot of attention to that, don't you?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*A realization like \"wait, could it be?\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Well… as you can see, my hair troubles are never-ending.",
+      "choice_data_list": [
+        "As I can see?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFinally snaps out of it",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Is it not obvious at a glance?\nMy hair… well, it expands with extreme ease.",
+      "choice_data_list": [
+        "I see…?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Not genuinely angry, slightly amused/playful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Her hair certainly looked fluffy, but it didn't seem unusually noticeable.\nAs I wondered why she was so overly concerned about it—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Saying this, but secretly pleased by the positive interpretation",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Trainer. You aren't under the mistaken impression that\nmy hair naturally stays in this state without any intervention, are you?",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Baobab seed oil = baobabu shushiyu",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "I put maximum effort into maintaining it. Every single day, I apply anti-frizz\nstyling agents, not to mention my rigorous nightly haircare regimen."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Baffled by the unexpected words",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "And yet, Trainer… even that falls woefully short.\nBecause my hair is, without exaggeration—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Still unable to accept it",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "—A catastrophic composite of wavy and helical hair!\nA hyper-frizzy mess that makes even professional stylists throw their hands up in despair…!",
+      "choice_data_list": [
+        "H-Hyper-frizzy?!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nTime Passes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Indeed. While it may not be a standard clinical term,\nmy hair texture is so anomalous that I have no choice but to describe it as such!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n ",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "I've tried commercial products, formulated my own treatments, and even dabbled\nin the taboo known as Tachyon! And yet, there is zero perceptible improvement!",
+      "choice_data_list": [
+        "(Did I just flip a weird switch in her…?!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Hair texture = kamishitsu",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "The agony begins the very moment I open my eyes each morning.\nHave you ever bolted upright in bed because you were nearly suffocated by your own hair?!"
     },
     {
-      "name": null,
-      "text": "★ Request\nOutfit: Casual\r\nDisplay Biwa Hayahide",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "During the rainy season, the situation turns dire! For me, hair is not some\ntoy meant for whimsical styling! No, it is an adversary—an enemy to be vanquished—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Vibe of \"is this person teasing me on purpose?\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "—People flippantly suggest cutting it short! A catastrophic blunder!\nDo you have any idea how maddening it is when it balloons around your face?!"
     },
     {
-      "name": null,
-      "text": "Wh-Why are you laughing?!\r\nI am speaking in all earnestness here!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "I don't keep it long out of vanity! It is a calculated compromise—leveraging gravity to weigh\nit down, or tying it back! Yet naturally—"
     },
     {
-      "name": null,
-      "text": "One day off, when I visited a shopping mall—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "For a good while after that,\nBiwa Hayahide continued to vent her bitter grievances against her hair texture…"
     },
     {
-      "name": null,
-      "text": "...Surely you can see it?\r\nMy hair... well, it tends to expand quite easily.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "—*Sigh*… How many times have I wished\nI had sleek, straight hair like Brian's?"
     },
     {
-      "name": null,
-      "text": "Granted, her hair was fluffy, but it didn't seem particularly out of the ordinary.\r\nAs I wondered why she was so concerned about it—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "I still remember the sheer shock when I first tied her hair as a child.\nSmooth, perfectly aligned strands running effortlessly through my fingers… I cried out in disbelief that we shared the same genetics!"
     },
     {
-      "name": null,
-      "text": "You won't escape. As my trainer,\r\nI need you to understand my plight above all else.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "In my childish frustration, I caked my hair in Father's pomade and tied it up…\nNaturally, it yielded none of Brian's silky glide. It was utter despair…!"
     },
     {
-      "name": null,
-      "text": "During the rainy season, it is especially pronounced! To me, hair\r\nis not something to be enjoyed with styling. Indeed, it is practically my foe—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "…Picturing a young Biwa Hayahide slathering herself in pomade\nwas so adorable that I couldn't help but smile."
     },
     {
-      "name": null,
-      "text": "...Isn't that mere hindsight bias?\r\nYou are trivializing the arduous journey of bitter struggle I endured.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "W-What is so amusing?!\nI am discussing a grave matter here!",
+      "choice_data_list": [
+        "I just thought it's amazing how hard you work at it."
+      ]
     },
     {
-      "name": null,
-      "text": "Eh...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Urgh."
     },
     {
-      "name": null,
-      "text": "Excuse me, I couldn't help but overhear! You seem\r\nquite troubled by your hair care, miss. In that case, our—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Shop Clerk",
+      "text": "Excuse me, miss~? You seem to have been pondering for quite a while.\nMay I be of any assistance to you today~?!"
     },
     {
-      "name": null,
-      "text": "N-No, forgive me.\r\nWe are fine, thank you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "……！"
     },
     {
-      "name": null,
-      "text": "I don't grow it out because I want to, either. It was a painful compromise\r\nmade so gravity could weigh it down, or so I could tie it up. But naturally—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Shop Clerk",
+      "text": "Pardon me, but I couldn't help overhearing! It sounds like you're having quite a struggle\nwith your hair care routine. If that's the case, our store's—"
     },
     {
-      "name": null,
-      "text": "...Let us change locations.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "N-No, apologies.\nWe are quite alright."
     },
     {
-      "name": null,
-      "text": "...Picturing a young Biwa Hayahide slathering on heaps of pomade,\r\nI couldn't help but smile at the adorable image.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Trainer, let us relocate."
     },
     {
-      "name": null,
-      "text": "Since I had the chance, I came looking for any new products.\r\nEven for existing brands, formulas are sometimes revised through ongoing research.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "My apologies for earlier. When it comes to my hair,\nI… well, I tend to hold a rather passionate grudge."
     },
     {
-      "name": null,
-      "text": "Yet Trainer... even that is insufficient.\r\nFor you see, my hair is—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Even so, losing my composure and ranting in public like that…\nI showed you a truly disgraceful side of myself.",
+      "choice_data_list": [
+        "It wasn't disgraceful at all.",
+        "It wasn't disgraceful at all."
+      ]
     },
     {
-      "name": null,
-      "text": "That... may very well be true. All my struggles with my hair\r\nmay have forged my stubborn refusal to give up.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Eh…",
+      "choice_data_list": [
+        "You really are amazing.",
+        "You really are amazing."
+      ]
     },
     {
-      "name": null,
-      "text": "Hmm... The variety of essential oils is ample, but the crucial botanical oil is lacking.\r\nI deduce they prioritized fragrance over cosmetic efficacy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Constantly striving for improvement, never giving up no matter how many setbacks occur.\nI told her that this story was proof of just how admirably dedicated she is."
     },
     {
-      "name": null,
-      "text": "...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Nonsense. I only experiment because it poses a tangible hindrance.\nHad I been blessed with decent hair to begin with, I wouldn't have needed to suffer so.",
+      "choice_data_list": [
+        "But all that trial and error made you who you are today.",
+        "But all that trial and error made you who you are today."
+      ]
     },
     {
-      "name": null,
-      "text": "I still remember the shock when I first tied her hair as a child.\r\nThat sleek, silky texture running through my fingers... I cried out, asking how this could be the same hair!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Ah."
     },
     {
-      "name": null,
-      "text": "...I was just comparing various hair oils.\r\nMy current bottle happens to be running low.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "That… may indeed be true. Perhaps grappling with my hair\nis precisely what instilled this stubborn tenacity in me.",
+      "choice_data_list": [
+        "See? It's not entirely a bad thing."
+      ]
     },
     {
-      "name": null,
-      "text": "Wh-Why are you here... No, shopping, of course.\r\nStill, what a coincidence...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…Is that not merely hindsight bias?\nYou are severely downplaying the grueling process of swallowing that bitter pill."
     },
     {
-      "name": null,
-      "text": "I've tried commercial products, concocted my own treatments,\r\nand even dabbled in the forbidden taboo that is Tachyon-kun. Yet no improvement whatsoever!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "Honestly, you have a rather peculiar perspective on things.\nQuite different from mine… which is likely why I find myself wanting to discuss matters with you."
     },
     {
-      "name": null,
-      "text": "Well... as you can see, my hair woes are endless.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Biwa Hayahide's expression softened.\nIt seemed my words had reached her heart. In that case—",
+      "choice_data_list": [
+        "Besides, your fluffy hair looks wonderful.",
+        "Besides, your fluffy hair looks wonderful."
+      ]
     },
     {
-      "name": null,
-      "text": "...Trainer. You don't... happen to mistakenly believe\r\nmy hair naturally looks like this without any effort, do you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "…I decided to share my honest thoughts, but—"
     },
     {
-      "name": null,
-      "text": "The agony begins the very moment I wake up.\r\nHave you ever bolted upright in bed, nearly suffocated by your own hair?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "…I cannot simply let that remark slide.\nI appreciate the sentiment, and I do not reject your personal aesthetic taste."
     },
     {
-      "name": null,
-      "text": "...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "However, if that is your conclusion after hearing everything I just explained…\nI am compelled to inform you that your calculation is fundamentally flawed."
     },
     {
-      "name": null,
-      "text": "Biwa Hayahide's expression softened.\r\nIt seemed my words had reached her heart. In that case—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "It seems we must debate this subject again, starting from the very beginning.",
+      "choice_data_list": [
+        "Wait, what?!"
+      ]
     },
     {
-      "name": null,
-      "text": "In that case, perhaps the one with baobab seed oil from earlier...\r\nHowever, considering the absorption rate, its composition is lacking... Mmh...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "There is no escape. As my trainer,\nI need you to understand my plight better than anyone else."
     },
     {
-      "name": null,
-      "text": "Good grief, you certainly have a unique way of looking at things.\r\nQuite different from mine... Which is likely why I find myself wanting to talk to you about everything.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biwa Hayahide",
+      "text": "—Now then, let us sit down properly and go through the comprehensive report of my life's struggle.\nYou will indulge me, won't you?"
     },
     {
-      "name": null,
-      "text": "I make every possible effort regardless. Daily, I apply styling products\r\nto tame stray hairs, and my pre-bedtime hair care routine is exhaustive.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Excuse me, miss~? You've been deliberating for quite a while,\r\ncan I assist you with any recommendations~?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It seems necessary to systematically break down this matter from the top once more.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Feeling frustrated as a child, I tried slicking and tying it back with Father's pomade...\r\nNaturally, it felt nothing like Brian's silky strands. That was true despair...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Hardly. I am merely experimenting because of the tangible damages incurred.\r\nIf only my natural hair texture were better, I wouldn't have had to struggle so much.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes. While it may lack scientific precision as a descriptor,\r\nmy hair texture is anomalous enough to warrant such terminology!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "However, if that is your conclusion after hearing what I've said...\r\nI must tell you, that solution is erroneous.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—An extreme hybrid of wavy and kinky hair!\r\nHyper-unruly strands that even professional stylists throw their hands up at...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...?! \r\nTr-Trainer?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Now then, let us sit down comfortably, and you can listen\nto the report covering the story of my life. Will you join me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even so, to lose control and yell in public like that...\nI made quite a pathetic spectacle of myself...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Always striving for improvement, continuing to challenge herself no matter how many times she falters.\nI told her that it was an episode perfectly fitting for someone as remarkably hardworking as her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I cannot simply overlook what you just said.\nNo, I appreciate your affirmation, and I do not reject your mindset itself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I offered my frank opinion, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even after that, for quite a while,\nBiwa Hayahide's grievances regarding her hair quality continued...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I apologize for earlier... really. I just have\nso many... yes, so many thoughts when it comes to hair.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—*Sigh*... How many times have I wished\nthat I had straight hair like Brian's instead?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After that, we moved to a cafe, where Biwa Hayahide passionately detailed her complete \"Systematic Theory of Frizzy Hair\"...\nand I feel like... I was able to fully understand her feelings.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—People easily suggest just cutting it short! But that is\na completely terrible move! Do you know how aggravating it is when it puffs out around your face?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "We moved to a café afterwards, where she lectured me on her ultimate \"Theoretical Framework of Frizzy Hair\"…\nAnd I feel like… I finally understood her feelings. Sort of."
     }
   ],
   "no_wrap": true

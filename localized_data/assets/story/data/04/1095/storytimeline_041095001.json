@@ -1,565 +1,266 @@
 {
-  "title": "",
+  "title": "Child of the Rugged Wall",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nDurandal runs out on line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer A",
+      "text": "Gather 'round, everyone! ...Alright, good morning!\nAs mentioned earlier, we'll be holding mock races today!"
     },
     {
-      "name": null,
-      "text": "★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer A",
+      "text": "We're nearing the midpoint of this joint winter training camp. We've got\na hot pot party to look forward to this evening, so let's give it our all today!"
     },
     {
-      "name": null,
-      "text": "★ Request\nBelieve bows once and walks out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Umamusume",
+      "text": "Yes, sir!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\n---\n★ Request\nBelieve starts walking out, but stops upon noticing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer B",
+      "text": "Now then, shall we head over to the track as well?\nMock races always get you pumped up, even just observing, right, rookie?",
+      "choice_data_list": [
+        "Yes! I'm eager to learn all I can!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nMiss / let slip (nogasu)\n---\n★ Request\nDurandal steps forward",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer B",
+      "text": "My, what a splendid answer. Motivation is practically written all over your face!\nHehe, how refreshing~."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 50s\nPersonality: Fierce-looking and somewhat taciturn\n---\n★ Request\nReact on line 1, everyone runs out on line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "This joint winter training camp was organized by seasoned veteran Trainers.\nI volunteered to assist in order to learn from their expertise.",
+      "choice_data_list": [
+        "(Alright, I'm going to observe carefully and soak up everything today...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSilence for the first 1 sec\n\nAd-lib breathing on line 2 for \"closely examining and checking something\"\n---\n★ Request\nBelieve crouches down\n---\n★ Request\nSmall font for the next 2 taps",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer C",
+      "text": "Alright, next group!\nGather at the starting gate!"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Believe (Winter Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Spending days alongside these highly skilled and experienced Trainers' teams\nwas deeply rewarding and educational! ...And that day, in particular—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 50s\nPersonality: Cheerful and speaks briskly\n---\n★ Request\n*Used under the premise of a training camp lodge\n---\n★ Request\nCalstone Light O (Winter Tracksuit),\nBelieve (Winter Tracksuit),\nDurandal (Winter Tracksuit) run in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "RAAAAAGH!! STRAIGHT! LINE! AHEAD!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Fire catches\n---\n★ Request\nTime elapses\n---\n★ Request\nFade in from black\n---\n★ Request\nHide characters",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Durandal",
+      "text": "You shall not escape me!\nThird Sword, Flight of Olivier!"
     },
     {
-      "name": null,
-      "text": "★ Request\nLight O walks out midway through line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "Hoo, hoo, hoo—hooo...\n—Haaah...!!",
+      "choice_data_list": [
+        "(Whoa, that girl—!)",
+        "(Whoa, that girl—!)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric wipe\n---\n★ Request\nDisplay Durandal (Winter Tracksuit),\nCalstone Light O (Winter Tracksuit)\n---\n★ Request\nBoth are holding bowls (prop1029_00) and chopsticks (prop1026_04)\nAnimate with the image of Light O scarfing down food fast, and Durandal reprimanding her for it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer B",
+      "text": "Oh, you have a keen eye. That's Believe. She's currently under a provisional contract with me.\nShe possesses tremendous innate talent, especially when it comes to raw speed.",
+      "choice_data_list": [
+        "I see! I can't wait to see what the future holds for her...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nTime elapses\n---\n★ Request\nDisplay Calstone Light O (Winter Tracksuit),\nDurandal (Winter Tracksuit),\nBelieve (Winter Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "If only I could train such a gifted talent someday...\nMy heart brimming with aspiration, I watched the mock races conclude."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX on line 2: Stepping into water\n---\n★ Request\nBelieve walks out on line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer A",
+      "text": "Great work on the mock races, everyone! Now then, it's time for the\nhot pot party we've all been waiting for. Let's divide up the prep work. Begin!"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade in from black\n---\n★ Request\nDisplay Believe (Winter Tracksuit / Dirty) crouching down\nEquipped with dirty work gloves (prop1504_01, prop1505_01)\nand holding a bamboo tube (propID TBD).\nAnimate with the image of continuing the fire-starting work until 098.\n---\n★ Request\n*Already requested Mogami-san to lower the camera down to the crouching position",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Durandal",
+      "text": "Light O and I are scheduled to join the grocery run group, but...\nBelieve, I heard you're handling the cooking hearths all by yourself. Is that true?"
     },
     {
-      "name": null,
-      "text": "★Request\nBlack wipe\nDisplay Believe (Winter Tracksuit, Soiled), wearing soiled work gloves (prop1504_01, prop1505_01),\nstanding while holding a bamboo cylinder (prop can be put away as needed).\nDurandal (Winter Tracksuit) and Calstone Light O (Winter Tracksuit) walk in.\n*Both carry plastic bags (prop1078_00).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Durandal",
+      "text": "Starting fires is tough enough on its own, and with so many hearths to manage,\nwon't doing it alone be too much? Shall I join you over there instead?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nBelieve (Winter Tracksuit, Wet) enters from below\nWearing soiled work gloves (prop1504_01, prop1505_01)\n---\n★Request\nNext 2 taps, small font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "No. I'm fine on my own.\n...I specifically requested to handle it alone."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Calstone Light O (Winter Tracksuit),\nDurandal (Winter Tracksuit),\nand Believe (Winter Tracksuit).\n---\n★Request\nDurandal reacting to some silly comment Light O made,\nand Believe stretching silently in the background.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Understood. Then you'll be fine.\nLet's go, Durandal. You're slow. I will leave you behind."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Durandal",
+      "text": "Yes, yes, I'm coming!! —Believe, don't overdo it, alright?!\nJust say the word if you need help!!",
+      "choice_data_list": [
+        "(...Wait, that doesn't sound fine at all!?)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Chipping away at stone\n---\n★Request\nFade to black\n*Insert 2 flash effects",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That workload is surely far too much for one person. Intending to offer a hand,\nI followed her—Believe—to the cooking hearth area, but..."
     },
     {
-      "name": null,
-      "text": "★Request\nBelieve steps out in front of the two again, showing sheer tenacity.\nLight O & Durandal look at Believe with a \"Guh!\" expression.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "...Hm?\n... ........."
     },
     {
-      "name": null,
-      "text": "★Request\nBlack wipe\n---\n★Request\nDisplay Believe (Winter Tracksuit).\nShe is holding a bowl (prop1029_00) and chopsticks (prop1026_04).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "This hearth is broken.\nAh... the support stone was worn down and collapsed.",
+      "choice_data_list": [
+        "Wait, really?! That's bad...!",
+        "Wait, really?! That's bad...!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 50s\nPersonality: Gentle\n---\n★Request\nAll walk out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "At this rate, she would need even more help. Apologizing for calling out so suddenly,\nI offered to assist her with preparing the hearths, but—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nGeneric wipe\n---\n★Request\nDisplay Believe (Winter Tracksuit).\nHide bowl (prop1029_00) and chopsticks (prop1026_04) props (as if she put them away).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "No. Unnecessary.",
+      "choice_data_list": [
+        "Eh?"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nBelieve (Winter Tracksuit) enters from below on line 2.\n*Visualizing her standing up from crouching to inspect the stones.\n---\n★Request\nNext 2 taps, small font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "Well then... I have work to do, so please excuse me.",
+      "choice_data_list": [
+        "Ah..."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Calstone Light O (Winter Tracksuit),\nDurandal (Winter Tracksuit),\nand Believe (Winter Tracksuit).\n---\n★Request\nBelieve is in the lead, Light O slightly behind, and Durandal one length behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "...Too small. ...Too big.\nThe one over there... No, the shape doesn't match."
     },
     {
-      "name": null,
-      "text": "★Request\nLight O moves forward.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "...Mm. That one submerged over there—",
+      "choice_data_list": [
+        "In the river?! The water is freezing, let me—!",
+        "In the river?! The water is freezing, let me—!"
+      ]
     },
     {
-      "name": null,
-      "text": "...Huh?\n... ......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "No, I'll do it. ...You really don't need to help.\nExcuse me."
     },
     {
-      "name": null,
-      "text": "It's my job.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "...The fit is off.\nIt won't hold up long like this."
     },
     {
-      "name": null,
-      "text": "I'll carve it.\nThere should be a chisel and mallet somewhere...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "I'll chisel it down.\nThere was a chisel and hammer around here..."
     },
     {
-      "name": null,
-      "text": "Enduring the freezing midwinter river, refusing to cut corners on the meticulous work,\nand unfazed by the soot and dirt—Believe saw everything through to the very end.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(—Clink!! —Clank!!)",
+      "choice_data_list": [
+        "(S-So meticulous...)"
+      ]
     },
     {
-      "name": null,
-      "text": "I don't want to hear that from someone who ran off on her own three times!\n...A-Anyway, good work, Believe. Are you holding up alright?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(Whoosh—! Crackle crackle...)"
     },
     {
-      "name": null,
-      "text": "Yes.\nI got dirty, so I'm going to change.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "Phew............\n...All right. Next is the last one—",
+      "choice_data_list": [
+        "(In the end, she really pulled it off all by herself...)"
+      ]
     },
     {
-      "name": null,
-      "text": "No, I don't need any.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Braving the freezing midwinter river, refusing to cut corners on precise craft, and heedless of the soot on her hands. Believe saw everything through to the end."
     },
     {
-      "name": null,
-      "text": "Come on, eat up, eat up! With this many Umamusume around,\nno matter how much hot pot we make, it'll disappear in the blink of an eye~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Just silently, diligently. Having my offers of help turned down, all I could do was watch until the finish... but that made her earnest dedication burn into my memory all the more vividly."
     },
     {
-      "name": null,
-      "text": "Yes. It's my job.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer A",
+      "text": "Oh, the fire's all set up! Great work! Alright, shopping team, unload the bags on this table! Dishware team, get the pots—"
     },
     {
-      "name": null,
-      "text": "I see my job through.\n—That is all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Calstone Light O",
+      "text": "Right on time—no, ahead of schedule. Outstanding, Believe. A world of difference from Durandal, who forgot things twice and ran around in a total panic."
     },
     {
-      "name": null,
-      "text": "Hoo, hoo, hoo—hooah...\n—Hahh...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Durandal",
+      "text": "I don't want to hear that from someone who wandered off three times on their own! ...Ahem, anyway, good work, Believe-san. Are you holding up alright?"
     },
     {
-      "name": null,
-      "text": "Right on time. Actually, ahead of schedule. As expected of Believe. A far cry from\nDurandal, who forgot items twice and was running around in a frantic mess.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "Yes.\nI got dirty, so I'll go get changed."
     },
     {
-      "name": null,
-      "text": "Alright, next group!\nGather at the starting line!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And so, the hot pot party began without a hitch. The cheerful laughter of horsegirls resonated all around, easily drowning out the crackling of the bonfire."
     },
     {
-      "name": null,
-      "text": "No. I'm fine on my own.\n...I was the one who asked to do it alone.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer B",
+      "text": "Come on, eat up, eat up! With this many horsegirls around, no matter how much hot pot we make, it'll disappear in the blink of an eye~"
     },
     {
-      "name": null,
-      "text": "This stove is broken.\nAh, the support stone... It got old and collapsed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Veteran Trainer B",
+      "text": "...Wait, hm? What's the matter?",
+      "choice_data_list": [
+        "...Sorry, excuse me a moment!"
+      ]
     },
     {
-      "name": null,
-      "text": "With few words, yet absolute resolution, she states her conviction.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Stepping away from the clamor, I impulsively jogged over to where she stood alone.\nBelieve hadn't said a word. So nobody knew."
     },
     {
-      "name": null,
-      "text": "If that's the case, we'll need even more hands. I apologize for calling out so\nsuddenly, but when I offered to help her prepare the stoves—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "No one knew what she had done, or how much effort she had poured into it.\nThe thought made me unable to just sit still—",
+      "choice_data_list": [
+        "Excuse me! ...Um, seriously... wonderful job!"
+      ]
     },
     {
-      "name": null,
-      "text": "I will not let you escape!\nThird Blade: Flight of Olivier!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "? ...No need."
     },
     {
-      "name": null,
-      "text": "We're nearing the halfway mark of this joint winter training camp. We've got\na hot pot party to look forward to this afternoon, so let's give it our all first!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "It was just my job.",
+      "choice_data_list": [
+        "Your job..."
+      ]
     },
     {
-      "name": null,
-      "text": "...Mm. That one... submerged down there—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "Yes. It was my duty."
     },
     {
-      "name": null,
-      "text": "Just working silently and meticulously. She turned down my help, leaving me with nothing\nto do but watch to the end... But that sincere dedication burned brightly into my mind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "A job must be seen through.\n—That is all."
     },
     {
-      "name": null,
-      "text": "Yes!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Laconic, but resolute, she stated it with absolute certainty.",
+      "choice_data_list": [
+        "(Incredible...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Alright, alright, I'm coming!! —Believe, please don't overdo it!\nIf you run into any trouble, just say the word!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It wasn't a roaring, flashy blaze... but deep within her eyes, I saw an unshakeable will—like coals smoldering steadfastly in the heart of a hearth."
     },
     {
-      "name": null,
-      "text": "Starting fires is tough enough on its own, and there are so many stoves.\nWon't it be too rough alone? Shall I join you over there?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "(...—That rookie Trainer from earlier.)"
     },
     {
-      "name": null,
-      "text": "Gather 'round! ...Alright everyone, good morning.\nJust like I mentioned before, we'll be running mock races today!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "(When I turned down the help... I think I came off a bit harsh.\n...I hope I didn't... hurt their feelings...)"
     },
     {
-      "name": null,
-      "text": "? ...No.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Come now, shall we head over to the grounds as well?\nMock races certainly get you pumped up even just watching, don't they, rookie!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Wait, ? What's wrong?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(When I turned down their help... I think I came off too harsh.\n...I wonder... if I didn't hurt their feelings...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, what a spirited reply! Motivation is written all over your face!\nHeheh, so fresh and energetic~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew. ...Then that's fine—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It wasn't a blazing fire... but deep within her eyes, I saw an unyielding\nwill, quietly simmering like embers glowing deep inside a stove.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well then. ...I have work to do, so excuse me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I see, understood. Then you're all set.\nLet's go, Durandal. You're slow. I'll leave you behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No one knew what she had accomplished, or how much effort she put in.\nThinking about that, I just couldn't sit still—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Light O and I are scheduled to join the grocery run, but...\nBelieve, I heard you're handling the stoves all by yourself. Is that true?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No, I'll do it. ...You really don't need to help.\nExcuse me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(—Clack!! —Clack!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, fires are already lit. Good work! Alright grocery team,\nunpack the supplies on this table! Tableware team, get the pots—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My, you have an eye for talent. Believe, right? She's on a provisional contract with me.\nShe's a girl with exceptional raw talent, especially when it comes to speed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "OOOOOHHH!! STRAIGHT. LINE. CHARGE!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Leaving the bustling crowd behind, I instinctively run over to where she sits alone.\nBelieve didn't say a word about it. So no one knows.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...The fit isn't right.\nIt won't hold up like this.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A joint winter training camp hosted by several veteran Trainers.\nI volunteered to assist in order to learn from the best.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Too small. ...Too big.\nThe one over there is... No, the shape doesn't match.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This is clearly too much work for one person. I'll offer to help—\nWith that in mind, I followed her—Believe—to the stove area, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(...—The rookie Trainer from earlier.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so, the hot pot party began without a hitch. The joyous laughter\nof the Umamusume echoed everywhere, loud enough to drown out the crackling fire.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Spending time with the teams of such skilled, experienced Trainers\nwas so meaningful—every single moment was a learning experience! ...Especially that day—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If only I could train such a talented girl myself one day...\nWith my heart full of such hopes, I finished watching the mock races.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew............\n...Alright. Next is the last one—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Great work on the mock races, everyone! Now then, it's time for our long-awaited\nhot pot party for dinner. Let's split up the tasks and get prepping. Go for it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Whoosh—! Crackle crackle...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Believe",
+      "text": "Haah. ...Then, that's good—"
     }
   ],
   "no_wrap": true

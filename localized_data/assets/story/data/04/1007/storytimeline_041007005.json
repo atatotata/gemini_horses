@@ -1,299 +1,168 @@
 {
-  "title": "",
+  "title": "A Wild Ride in Tandem!",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nGold Ship runs out of frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—They say an Umamusume and her Trainer are a two-person team.\nSupporting and encouraging one another to reach for victory."
     },
     {
-      "name": null,
-      "text": "■ Direction\n退いちまった = stepped down / retired",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A Trainer's job is to unlock an Umamusume's\nfull potential through daily training."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I'll give it everything I've got to provide the best training\nand help Gold Ship seize victory...!"
     },
     {
-      "name": null,
-      "text": "■ Direction\n栄華 = glory / prosperity",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Hey, Trainer!\nHow 'bout we go explore some sunken underwater ruins right now?!",
+      "choice_data_list": [
+        "No, today we're actually going to train...!",
+        "No, today we really need to train...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Huh? Are you trying to say exploring underwater ruins\nisn't training?"
     },
     {
-      "name": null,
-      "text": "■ Direction\nSE: Door opening sound (before dialogue)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "A symbol of past glory, lost beneath the waves!\nYou're telling me unraveling that mystery isn't a noble form of training?!"
     },
     {
-      "name": null,
-      "text": "★ Request\nGold Ship runs out of frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Well, yeah, it totally isn't, but still."
     },
     {
-      "name": null,
-      "text": "WOOOOO—!! Fish, fish, fish 'em all up!\r\nToday's goal is a huge catch, huge catch, and one more huge catch for good measure!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "So you wanna train today no matter what, huh?\nDon't sweat it, I hear ya loud and clear.",
+      "choice_data_list": [
+        "Really?!",
+        "For real?!"
+      ]
     },
     {
-      "name": null,
-      "text": "When I say \"Marco,\" you say \"Polo.\"\r\nWhen I'm \"Fujin,\" you're also \"Fujin.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "If I say 'ping', you say 'pong.'\nIf I'm the 'Wind God', you're the 'Wind God' too."
     },
     {
-      "name": null,
-      "text": "A Trainer's role is to draw out an Umamusume's\r\nfull potential through daily training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "We're beyond needing words to understand each other at this point!\nAlright, let's roll! Keep up with me!",
+      "choice_data_list": [
+        "Gold Ship...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Why can't you understand how much immersing yourself in nature\r\nand sharpening your wild instincts helps in a race?!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "To think the day would come when Gold Ship and I finally saw eye to eye...!\nAlright, off to the training course!"
     },
     {
-      "name": null,
-      "text": "Alright then, time to dig in!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Off to the training course... we go...?\n................Wait, what?"
     },
     {
-      "name": null,
-      "text": "Welp, now that our bellies are full,\r\nlet's head over to the Golshi Farm and watch the carrots grow.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "WOOOOOOO!! Fish, fish, and fish some more!\nToday's goal is a haul, a bigger haul, and an even bigger haul on top of that!!"
     },
     {
-      "name": null,
-      "text": "Next time, let's meet somewhere in the solar system!\r\nSmell ya later!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Hey, what're you standing around gawking for?!\nYou're helping out too, ya know?!",
+      "choice_data_list": [
+        "Um... what exactly are we doing?",
+        "Um... what are we supposed to be doing?"
+      ]
     },
     {
-      "name": null,
-      "text": "Huh? Are you trying to say that catching fish and eating 'em\r\nisn't training?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Come on, what else are you gonna do\nwhen you go out of your way to visit the water besides fish?!"
     },
     {
-      "name": null,
-      "text": "Could it be that she's run out of patience from boredom\r\nand is finally going to start training...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Even my pops—the best fisherman in the village—\nhad to retire before he could catch the master of this river..."
     },
     {
-      "name": null,
-      "text": "So, you wanna do training today no matter what.\r\nDon't worry, message received loud and clear.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Which is why I, his daughter, am gonna reel that master in today!\nOooooh, burn bright, my angler soul—ッ!"
     },
     {
-      "name": null,
-      "text": "Hey, let's move, Trainer!\r\nStart running toward Mars!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With my head still spinning, I ended up casting a fishing line into the river for dozens of minutes—"
     },
     {
-      "name": null,
-      "text": "...Nothin's bitin'.\r\nAll I caught was the obligatory clump of seaweed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "...Nothin's bitin'.\nAll I hooked was the classic ol' clump of pond scum."
     },
     {
-      "name": null,
-      "text": "Even my father, the number one fisherman in the village,\r\nretired without ever catching the legendary guardian fish of this river...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "...Gaaaaah!! Uwaaaagh!!\nForget this, I'm gonna keel over from boredom!!"
     },
     {
-      "name": null,
-      "text": "That's why! As his daughter! I'll catch that guardian today for sure!\r\nOoooh, burn bright! My fisherman spirit—!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Hey, let's go, Trainer!\nStart runnin' toward Mars!"
     },
     {
-      "name": null,
-      "text": "Well, yeah, pretty much.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Wait, did she finally snap from boredom\nand decide to start training...?!"
     },
     {
-      "name": null,
-      "text": "Huh? Are you trying to say that exploring an undersea temple\r\nisn't training?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Hey lady!\nOne grilled fish set meal, extra large rice!"
     },
     {
-      "name": null,
-      "text": "Hey, what are you just standing there staring for?!\r\nYou're helping too, got it?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Phew~ That was a close one~\nI may have taken an L fishin', but eatin' this makes us even!"
     },
     {
-      "name": null,
-      "text": "Phew~ that was a close one~.\r\nI lost the fishing contest, but eating like this makes us even, right!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Alrighty, down the hatch!"
     },
     {
-      "name": null,
-      "text": "No need for unnecessary words between us at this point!\r\nAlright, let's do this! Keep up with me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The second Gold Ship received her grilled fish set meal,\nshe devoured the whole thing in the blink of an eye..."
     },
     {
-      "name": null,
-      "text": "...Uwoooooh!! Waaaahhh!!\r\nNo way, I'm gonna collapse from boredom at this rate!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Ahhh, stuffed to the gills.\nGratitude to all food across the universe.",
+      "choice_data_list": [
+        "Um, what about training...?"
+      ]
     },
     {
-      "name": null,
-      "text": "A symbol of ancient glory, now resting beneath the waves!\r\nYou're saying that the noble act of uncovering its mysteries isn't training?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Huh? Are you tryin' to say catchin' and eatin' fish\nain't training?"
     },
     {
-      "name": null,
-      "text": "Living a self-sufficient survival lifestyle\r\nis an extreme battle where danger lurks at every turn...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "A self-sufficient survival lifestyle\nis an extreme battle constantly flirting with danger..."
     },
     {
-      "name": null,
-      "text": "—They say \"an Umamusume and her Trainer are in a three-legged race.\"\r\nSupporting and encouraging each other through thick and thin to aim for victory.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "How can you not understand how much immersing yourself in nature\nand sharpening your wild instincts carries over to racing?!!",
+      "choice_data_list": [
+        "So you mean running on pure animal instinct!",
+        "So you mean running on pure animal instinct, right!"
+      ]
     },
     {
-      "name": null,
-      "text": "Dragged along by her antics, we never got to do any training in the end,\r\nand Gold Ship ended up sprinting away...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Nah, not really connected at all!"
     },
     {
-      "name": null,
-      "text": "I need to do my best with top-notch training\r\nto help Gold Ship seize victory...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Welp, now that my belly's full,\ntime to head over to Golshi Farm and watch the carrots grow."
     },
     {
-      "name": null,
-      "text": "I never imagined the day would come when Gold Ship and I would be on the same page...!\r\nAlright, let's head to the training track!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Gold Ship",
+      "text": "Catch ya somewhere in the solar system next time!\nAdios!"
     },
     {
-      "name": null,
-      "text": "Come on now, when you come all the way to the water,\r\nwhat else is there to do besides fish?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Without getting a single bit of actual training done after being\ntossed around all day, I watched Gold Ship sprint off into the distance..."
     },
     {
-      "name": null,
-      "text": "Nah, that has nothing to do with it though!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahhh, I'm stuffed.\r\nGive thanks for all the food in the world.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The moment Gold Ship received the grilled fish set meal,\r\nshe devoured it in the blink of an eye...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—They say \"an Umamusume and her Trainer are in a three-legged race.\"\r\nJoining forces to aim for victory together... hopefully, surely!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, Trainer!\r\nLet's go explore an undersea temple right now!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Alright, to the training track... we... go...?\r\n................Wait, what?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey lady!\r\nOne grilled fish set meal, extra rice, please!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still unable to process what was going on, I cast my fishing line into the river for several dozen minutes—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—They say 'a horsegirl and her trainer are bound in a three-legged race.'\nWe'll pool our strengths and aim for victory together... surely, eventually!"
     }
   ],
   "no_wrap": true

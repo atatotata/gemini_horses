@@ -1,418 +1,242 @@
 {
-  "title": "",
+  "title": "Do Your Best! Urara's True Grit",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nSame reporter who appeared in Episode 1.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Hup! Hup!\n...Aaaand goooaaal!"
     },
     {
-      "name": null,
-      "text": "★ Request\nHaru Urara runs out of frame\r\nCharacter remains hidden",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Yeah, looking good!\nAll right, one more lap!"
     },
     {
-      "name": null,
-      "text": "★ Request\nHaru Urara runs into frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Hup! Hup! Hup!"
     },
     {
-      "name": null,
-      "text": "★ Request\nHaru Urara runs out of frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The final training day of Tracen Academy's summer training camp.\nHaru Urara threw herself into training with all her might again today."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade in / Wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Reporter",
+      "text": "Urara-san is full of energy as always.\nShe's shining even brighter than the seaside sun!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nRunning up.\n---\n★ Request\nCostume: Tracksuit (Summer)\r\nAfter the line below, Haru Urara runs into frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The reporter who had become a fan of Haru Urara was covering the training camp, snapping photos of her running."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Stomach rumbling",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Reporter",
+      "text": "I'd love to stay and watch longer, but I have my next assignment, so I'll be off.\nI'll send the digital photos over to you later!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nRuns off after the line.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Training went on all day long.\nAnd then—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFrom a distance\n---\n★ Request\nHaru Urara remains hidden",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "*pant*... *pant*...\nI'm so tiiiired! But I gave it everything I gooooot!",
+      "choice_data_list": [
+        "You worked really hard.",
+        "You worked really hard."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nCostume: Tracksuit (Summer) kept as is. *Image is after training, coming straight to the festival,\r\nand having eaten food from the food stalls.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Yeah! After doing all that, I must've gotten faster, right?!\nRight, Trainer?!",
+      "choice_data_list": [
+        "…………"
+      ]
     },
     {
-      "name": null,
-      "text": "Eeeh?! Why did you go quiet?!\r\nHow was the time on that last lap?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Whaaat?! Why are you going quiet?!\nWhat was my time on that last lap?!",
+      "choice_data_list": [
+        "You... didn't beat your personal best.",
+        "You... didn't beat your personal best."
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer, if there's anything you want to eat, just let me know, okay?\r\nI'll sprint over and buy it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Uuuu~! Bummer...!\nWell then, this next one'll really be the last one!"
     },
     {
-      "name": null,
-      "text": "To reward Haru Urara for giving it her all at the training camp and to replenish her energy,\nwe came out to have fun at a nearby summer festival.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(*grumble...*)"
     },
     {
-      "name": null,
-      "text": "Yeah! After doing all this, I've gotta be faster now!\nRight, Trainer?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Oops.\n...Ehehe! My tummy's growling!"
     },
     {
-      "name": null,
-      "text": "Huuuh... Hey, Trainer!\nCan I do just one more lap?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Mmm-mmm, festival food is the best~!\nCrepes, castella cake, and carrot candy♪"
     },
     {
-      "name": null,
-      "text": "I'm so, so glad you became my Trainer after all!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "To reward Haru Urara for working her hardest at camp and to recharge her batteries, we visited a nearby summer festival."
     },
     {
-      "name": null,
-      "text": "Hup! Hup! Hup!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "If there's anything you wanna eat, Trainer, just say the word!\nI'll dash right over and buy it for you!",
+      "choice_data_list": [
+        "All right, deal."
+      ]
     },
     {
-      "name": null,
-      "text": "Aww, man! Too bad...!\r\nThen this next one is definitely, absolutely the final lap!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Ehehe♪ Festivals are so much fun!\nThanks for bringing me along, Trainer!"
     },
     {
-      "name": null,
-      "text": "Ah.\n...Ehehe! My tummy's hungry!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Ehehehe♪ Ah! Hey, look over there!\nThey have a ring toss! That brings back memories!"
     },
     {
-      "name": null,
-      "text": "I'd love to stay and watch longer, but I have my next assignment, so I must take my leave.\nI'll send the photos over as digital data later!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Farmer",
+      "text": "Urara-chan?"
     },
     {
-      "name": null,
-      "text": "Taking a breather from training camp, Urara-chan?\nHow are you holding up?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Oh, mister! You came here to have fun too!\n!"
     },
     {
-      "name": null,
-      "text": "I just wanted to do one more run before heading back!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Farmer",
+      "text": "Taking a break from training camp, Urara-chan?\nHow're you feeling?"
     },
     {
-      "name": null,
-      "text": "Oh, you came to have fun too, mister!\n!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Umm... I ran a whole bunch and had super lots of fun!"
     },
     {
-      "name": null,
-      "text": "Time me, please, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Farmer",
+      "text": "Is that so? That's what matters most!\nI'm looking forward to your races after summer camp!"
     },
     {
-      "name": null,
-      "text": "Hup, hup, hup, hup!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Yeah! I'm definitely taking first place next time,\nso make sure you come cheer for me again!"
     },
     {
-      "name": null,
-      "text": "(Grrrrrr...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After parting ways with the familiar local...",
+      "choice_data_list": [
+        "Shall we head back soon?",
+        "Ready to head back soon?"
+      ]
     },
     {
-      "name": null,
-      "text": "Yeah! I'm definitely taking 1st place next time,\nso make sure to come cheer for me again!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Hmm... Hey, Trainer!\nCan we do just one more thing, pretty please?"
     },
     {
-      "name": null,
-      "text": "Hup! Hup!\n...Nnnngoooooal!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Following Haru Urara's request,\nwe made our way to the beach at night.",
+      "choice_data_list": [
+        "Did you need something at the beach?",
+        "Got some business at the beach?"
+      ]
     },
     {
-      "name": null,
-      "text": "I told Haru Urara that if she kept this up,\nher times would definitely start dropping.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "I really wanted to get in just one last run before we leave!"
     },
     {
-      "name": null,
-      "text": "Since I worked so hard, I really want\r\nto finish summer camp knowing I got faster!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "I worked super hard, after all,\nso I wanna finish camp knowing I got faster!"
     },
     {
-      "name": null,
-      "text": "That's a picture of me!\nWhat about it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Time me, okay, Trainer?!"
     },
     {
-      "name": null,
-      "text": "Haru Urara shouts toward the sea.\nIn her own way, she must be frustrated about not seeing results.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Haru Urara took her starting position with an uncharacteristic seriousness."
     },
     {
-      "name": null,
-      "text": "Urara-san is full of energy today, too.\nShining even brighter than the seaside sun!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Really? Am I really getting better at running!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa! Nobody's ever told me my running looks pretty before!\r\nWh-What do you mean?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I believe you! I really, really believe you!\nI get it now! I'm improving!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yeah, feeling good!\r\nAlright, one more lap!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Umm, well... I ran a lot and had tons of fun!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Haru Urara",
       "text": "Ready whenever you are!\nGive me the signal!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "On your mark... Go!"
+      ]
     },
     {
-      "name": null,
-      "text": "I show Haru Urara the two photos the reporter sent me.\nOne from when they first met, and one from today.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Hup-two, hup-two, hup-two, hup-two!"
     },
     {
-      "name": null,
-      "text": "I always thought I could get 1st place, but now,\nI really, really, REALLY know I can do it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Gooooaaal!\n*pant* *pant*... How was my time?!",
+      "choice_data_list": [
+        "It's... exactly your personal best!",
+        "Right on your personal best!"
+      ]
     },
     {
-      "name": null,
-      "text": "Ehehehe♪ Ah! Hey, look over there!\nThey have ring toss, so nostalgic!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Auuuughhh!\nI couldn't beat itttt!"
     },
     {
-      "name": null,
-      "text": "Once we're back at the academy, I'll try even, even, EEEVEN harder,\r\nget super fast, and definitely take 1st place!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Once we're back at the academy, I'm gonna try way, way, waaaay harder,\nget faster, and definitely, absolutely take first place!"
     },
     {
-      "name": null,
-      "text": "Ehehe♪ Festivals are so much fun!\nTrainer, thank you for bringing me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Haru Urara shouts at the open ocean.\nIn her own way, she is deeply frustrated by the lack of visible progress."
     },
     {
-      "name": null,
-      "text": "The final practice day of Tracen Academy's summer training camp.\nHaru Urara threw herself into training at full throttle today, as always.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even if she hasn't noticed it herself, the results of her training are undeniably there.\nTo show her, I pull out my phone.",
+      "choice_data_list": [
+        "Take a look at this."
+      ]
     },
     {
-      "name": null,
-      "text": "Haru Urara took her spot at the starting line looking unusually serious.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I show Haru Urara two photos the reporter sent me.\nOne from when we first met her, and one from today."
     },
     {
-      "name": null,
-      "text": "She hasn't noticed it herself, but her training is definitely paying off.\r\nTo show her the proof, I take out my smartphone.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "That's me!\nWhat about them?",
+      "choice_data_list": [
+        "Your form has gotten beautiful.",
+        "Look how clean you look."
+      ]
     },
     {
-      "name": null,
-      "text": "The reporter—a fan of Haru Urara visiting to cover the camp—\nsnaps photos of her as she runs.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Huhhh?! Nobody's ever called me beautiful before!\nW-What do you mean?"
     },
     {
-      "name": null,
-      "text": "The difference between the two photos is her running form.\r\nShe has undeniably developed a far more efficient stride.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The difference between the two photos is her running form.\nShe has steadily developed a far more efficient stride."
     },
     {
-      "name": null,
-      "text": "Urara-chan?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "If she keeps going like this, her times will surely begin to drop.\nI explain this to Haru Urara."
     },
     {
-      "name": null,
-      "text": "Uwaaaaaaah!\nI didn't beat my record!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "Really? Am I really, truly getting better at running?!",
+      "choice_data_list": [
+        "Trust me!",
+        "Believe me, you are!"
+      ]
     },
     {
-      "name": null,
-      "text": "I see, glad to hear it!\r\nI'll be looking forward to your races after summer camp.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "I trust you! I totally trust you!\nOh, yay! I really am growing!"
     },
     {
-      "name": null,
-      "text": "Alright, I'm gonna do my best even back at the academy!\r\nKeep taking care of me, okay, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "I knew it! I'm so, so glad you became my Trainer!"
     },
     {
-      "name": null,
-      "text": "Goooal!\n*pant* *pant*... What's my time!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "I always believed I could win first place,\nbut now, I believe it double-super-definitely!"
     },
     {
-      "name": null,
-      "text": "After parting ways with the familiar man—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Training went on all day long.\r\nAnd then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Granting Haru Urara's request,\nI came out to the beach at night.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*phew*... *phew*...\r\nI'm soo tiiired! But I gave it everything I got!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Mmm, festival food is so yummy!\r\nCrepes, sponge cake, and carrot candy♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Haru Urara",
+      "text": "All right! I'm gonna give it everything I've got once we're back at school, too!\nI'm counting on you, Trainer!"
     }
   ],
   "no_wrap": true

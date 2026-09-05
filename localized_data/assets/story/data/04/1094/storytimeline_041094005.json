@@ -1,313 +1,171 @@
 {
-  "title": "",
+  "title": "My Partner",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nShow Jungle Pocket (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "About ten minutes after wrapping up training with Jungle Pocket,\nI return to the Trainer's office—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nDue to the animation where Jungle Pocket pulls out the roster, please leave about a 1-second pause after \"Hey, Trainer!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Yo!\nTook ya long enough!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nPlease play the voices in series (one after another)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pocket's Crew",
+      "text": "Sup. Thanks for havin' us.\nGood work today, Trainer-san!",
+      "choice_data_list": [
+        "Um... What's going on here...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 3rd year middle school (one year younger than Jungle Pocket)\nPersonality: Show-off / energetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "We all decided to watch some comedy specials together!\nMind if we use this room? Couldn't find anywhere else that worked.",
+      "choice_data_list": [
+        "Well, if that's all it is, I suppose..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nPlease play the voices in parallel (at the same time)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Heh, that's my partner for ya!\nAlright, let's start with \"God of Laughter\"!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nPlease play the voices in parallel (at the same time)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Slicked-Back Horsegirl",
+      "text": "Bwahaha! No way... haha!\nIsn't this comedian way too funny?!"
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric Wipe\n\n(At this timing, return Jungle Pocket to her default center position)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Ahahaha! Right?! This guy's unreal! I'm totally hooked on him!\nHis solo live show had some crazy, edgy material too—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFor \"—Right!?\" on line 2, please deliver it slightly louder, with more forceful presence than a low snarl.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Distracted by Jungle Pocket and her friends' booming laughter, my hands freeze over the keyboard.\n...At this rate, I can't focus on my work at all.",
+      "choice_data_list": [
+        "...Um, Pocket? Do you have a second?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Ahaha... Hm? What's up, Trainer? Wanna watch with us?",
+      "choice_data_list": [
+        "I'm having a hard time getting any work done...!"
+      ]
     },
     {
-      "name": null,
-      "text": "You should've said something sooner! —Oi, guys!\nWe're helpin' this one out with their work!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Truth is, I have materials that must be compiled by the end of today.\nWhen I explain this and ask if I can have some quiet to concentrate—"
     },
     {
-      "name": null,
-      "text": "Oi, oi, what're you talkin' about?\nI ain't their boss. I'm their partner, get it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Huh? You gotta concentrate?\nWhat the... Why didn't you—"
     },
     {
-      "name": null,
-      "text": "The truth is, I have paperwork that must be wrapped up by the end of the day.\nSo when I ask her to let me focus on my work for a bit—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Say so sooner?! —Hey, listen up, guys!\nWe're gonna help 'em finish their work!!!",
+      "choice_data_list": [
+        "Wait, what?! No, that's not...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Hehe... Lucky you, getting help from the Boss.\nYou'd better show Pokke-san some gratitude, alright?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Don't be shy! We're partners, aren't we?\nWhen you're in a pinch, you lean on each other!"
     },
     {
-      "name": null,
-      "text": "Y-Yes, ma'am! I'm so sorry!\nJust watch how hard I work from here on out!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Right, guys? You're helping out too, of course.\nNobody's got a problem with that, do they?!"
     },
     {
-      "name": null,
-      "text": "Hey, guys? You're helping out too, obviously, right?\nNobody's got a problem with that, DO YA!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pocket's Crew",
+      "text": "Hell yeah, of course we're down!\nIf it's an order from the Head, count us in!"
     },
     {
-      "name": null,
-      "text": "Don't let me down, got it?\n...Huh?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...To be completely honest, all I needed was for them to leave the room,\nbut the atmosphere made that impossible to say out loud."
     },
     {
-      "name": null,
-      "text": "Heh-heh, that's my partner!\nAlright, let's start with \"Gods of Laughter\"!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Alright, let's split up the tasks!\nYou two, gather up all the data on Tokyo Racecourse!"
     },
     {
-      "name": null,
-      "text": "Hah? You wanna focus?\nWhat's your deal... Are you really—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "You're researching the horsegirls running against me next... right?\n...Ah, ask the Trainer for the nitty-gritty details!"
     },
     {
-      "name": null,
-      "text": "Oh-!\nWhat took ya so long?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Alright, let's do this!"
     },
     {
-      "name": null,
-      "text": "Don't hold back! We're partners, ain't we?\nWhen things get hairy, lean on me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Hey, Trainer! Look at this! Can you use this?!\nSee, I'm pullin' my weight! ...Hm?"
     },
     {
-      "name": null,
-      "text": "Course we will!\nOrders from the Boss are absolute!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Oi. What do you think you're doing?"
     },
     {
-      "name": null,
-      "text": "'Sup! Pardon the intrusion.\nGood work today, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Slicked-Back Horsegirl",
+      "text": "Ah... S-Sorry, Pocket-san!\nI didn't really get how to look up the data...!"
     },
     {
-      "name": null,
-      "text": "So you played games instead? Huh?\nIs that all you gotta say for yourself?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "So you played games instead? Huh?!\nIs that the best excuse you've got?"
     },
     {
-      "name": null,
-      "text": "...To be honest, I just wanted them to leave the room,\nbut the atmosphere made it impossible to say...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Slicked-Back Horsegirl",
+      "text": "Ah... ugh... S-Sorry..."
     },
     {
-      "name": null,
-      "text": "Well, deep down, they're good kids!\nAlright, let's wrap this up quick!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Don't go lettin' me down. Got it?\n...GOT IT?!"
     },
     {
-      "name": null,
-      "text": "Ah... S-Sorry, Pokke-san!\nI don't really get how to gather this info...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Slicked-Back Horsegirl",
+      "text": "Y-Yes, ma'am! I'm so sorry!\nJust watch me from here on out!"
     },
     {
-      "name": null,
-      "text": "AHAHAHA! Right?! This guy is crazy good! I love him,\nso much! Even in his solo shows, his material is razor-sharp—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "...Good.\nHeh, as long as you understand!"
     },
     {
-      "name": null,
-      "text": "—Right.\nHeh-heh, long as you get it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "And that goes for the rest of you too! Don't even think about slackin' off!"
     },
     {
-      "name": null,
-      "text": "Hey, you guys too! Don't you dare slack off, got it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pocket's Crew",
+      "text": "Yes, boss!\nRight away, boss!!",
+      "choice_data_list": [
+        "She really is a former gang leader...!"
+      ]
     },
     {
-      "name": null,
-      "text": "We all figured we'd watch some comedy together!\nCan we borrow this place? Nowhere else had enough space.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Well, deep down they're good kids, honestly!\nAlright, let's wrap this up quick!"
     },
     {
-      "name": null,
-      "text": "Distracted by Jungle Pocket and the others' laughter, my hands\nstop typing on the PC. ...I can't concentrate like this.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Thanks to everyone's help, the data collection progressed smoothly—\nand I managed to finish the work in time.",
+      "choice_data_list": [
+        "Thank you! It's all thanks to you guys!"
+      ]
     },
     {
-      "name": null,
-      "text": "Hey, partner.\nIf anything else comes up, tell me right away, got it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cornrow Horsegirl",
+      "text": "Hehe... Lucky you, gettin' bailed out by the Head.\nYou better thank Pocket-san, alright?"
     },
     {
-      "name": null,
-      "text": "I nodded—wishing that I could soon become an adult\nworthy of being called her \"partner.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Whoa, whoa, what're you talkin' about?\nI ain't their Head. I'm their partner."
     },
     {
-      "name": null,
-      "text": "You're researching the Umamusume I'm racing next... right?\n...Ah, ask the Trainer for the fine details!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Jungle Pocket",
+      "text": "Right, partner?\nIf you ever need a hand again, just say the word!",
+      "choice_data_list": [
+        "Yeah. If anything comes up...",
+        "Yeah. If anything comes up..."
+      ]
     },
     {
-      "name": null,
-      "text": "Ah... Ugh... S-Sorry...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A dozen or so minutes after wrapping up training with Jungle Pocket.\nUpon returning to the Trainer's Office—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes Boss!\nRight away, Boss!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahaha... Hm? You wanna watch too, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Alright, let's get down to business!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Hey. What the hell do you think you're doing?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Bwahaha! Holy crap... haha!\nIsn't this comedian way too hilarious?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Alright, let's split up the tasks!\nYou two, gather materials on the area around Tokyo Racecourse!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so, thanks to everyone's help, research went smoothly—\nand I somehow managed to finish the work.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, Trainer! Look! You can use this, right?!\nSee, I put in the work! ...Hm?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Nodding in reply, I silently resolve to become\nan adult truly worthy of being her \"partner.\""
     }
   ],
   "no_wrap": true

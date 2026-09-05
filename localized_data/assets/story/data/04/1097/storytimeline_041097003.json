@@ -1,656 +1,283 @@
 {
-  "title": "",
+  "title": "Crimson Descent",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n\nBlankly reminiscing\n---\n★ Request\nFlashback off\n---\n★ Request\nDisplay Still in Love (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Trainer A",
+      "text": "Still in Love?\nNah, haven't seen her."
     },
     {
-      "name": null,
-      "text": "★ Request\nBlack wipe\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Ah~ She hasn't come this way.\n...Come to think of it, where does she usually hang out?"
     },
     {
-      "name": null,
-      "text": "★ Request\nOut of embarrassment and confusion over having been seen in a shameful state,\nshe fidgets with her hair/clothes as if trying to hide herself",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Academy Staff",
+      "text": "Hmm... can't say I've seen anyone like that around.\n...Trainer, you're drenched in sweat... Are you alright?",
+      "choice_data_list": [
+        "I'm fine..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nSE: Race ambient SE\n---\n★ Request\nFlashback on\n---\n★ Request\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Impatience and dread surged within me. Still in Love had looked completely unhinged.\nLeaving her alone in that state felt incredibly dangerous.",
+      "choice_data_list": [
+        "(Where are you... Where on earth did you go—)",
+        "(Where are you... Where on earth did you go—)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nShaky text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nInstinct",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nCrewmate = crewmate. Fellow crew member",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nSilence for ~2 seconds\n*No recording needed\n---\n★ Request\nBlack wipe\nDisplay Neo Universe (Summer Uniform)\nDirection as if appearing suddenly",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n*Same character as \"Mid-career Trainer A (Male)\" from Ep 2\n---\n★ Request\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n\nInstinct\nSwallows spit at the end",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFlashback on\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n\"HRUP\" = pronounced \"furuu\"\nMeans \"Hurry Up\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nAge: 50s\nPersonality: Kind\n---\n★ Request\nBlack wipe\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nAfter fade from black, flashback off\n---\n★ Request\nDisplay Still in Love (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nReason and instinct intertwined",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nSurprised by the sympathy, but gets butterfly feelings\nMedium flutter",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nSurprised",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nRead as \"Koko made kite\"\n---\n★ Request\nAfter fade from black\n---\n★ Request\nDisplay Still in Love (Summer Uniform), eyes glowing\n---\n★ Request\nShaky text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n\nSurprised, turning around abruptly",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n\nSavoring the words, as no one had ever done this before\n---\n★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nDazed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade in from black\n---\n★ Request\nDisplay Still in Love (Summer Uniform), Rational Still ← Spotlight on her\nDisplay Still in Love (Standard Racewear), Instinct Still ← Smiling in the dark",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nReason",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nAt start, brushing aside the fluttering heart (since no one could ever like her)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n\nHesitant if it's really okay, but following her heart",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade in from black (plenty of time)\n---\n★ Request\nDisplay Still in Love (Summer Tracksuit)\nFacing away, enduring something\nGradually turns profile so the conflict between instinct and reason is visible",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nBig flutter\n---\n★ Request\nStill falls completely in love with Trainer here\nMake it impactful with wind blowing or close-up of moist eyes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n*Same character as \"Umamusume A\" from Ep 2\n\nLine 2 muttered to herself\n---\n★ Request\nBlack wipe\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nSmall flutter\nCheeks flush red",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nSerious passage of time\n---\n★ Request\nDisplay Still in Love (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade in from black\n---\n★ Request\nDisplay Still in Love (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nConfusion",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A real race... That fierce, beautiful clash stole my heart away.\nI wanted to dive in there too... Everything was normal until then, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You searched... and found me...?\nLittle old me...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": ".........Yes.\nIn that case... please... take care of me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "――――――――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I should have just devoured it all right then and there!\nDrinking down every last dripping drop... Aaaah...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ghhh!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Special... me...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even so, I myself was... already utterly enchanted by racing.\nInstead of walking away, I chose the path of suppressing the madness... and as a result, we split.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Because... the way that girl runs is... hideous.\nLewd, shameful... a monster, through and through.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "N-No... It's... strange, isn't it?\n...It isn't normal. There must be something wrong with me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...! I-I am so sorry...\nTo let you see me in such a dreadful state...! I am so deeply ashamed...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Looking into her fixed crimson gaze, the shadow of her ferocious \"other self\" flickered across it... making me shiver.\nYet, as if gripped by fever, my mouth moved before I could think.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ngh, no!! ...I'm not you...\nYou are... me... No, no...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My throat feels parched. I desperately want to see that run again...\n—So much so that I wouldn't care what happened to me in return.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You must have been terrified as well.\n...Disgusted, surely—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"HRUP.\" Focus, and \"scoop it up.\"\n\"Her\" \"instinct.\" Close your eyes—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Especially when competing against someone strong... she begins to run wild.\nShe gets overexcited, loses her senses... and when I regain consciousness, I am... alone.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Putting it into words made everything click. Why was I so fixated on her?\n—I had been utterly captivated by her bewitching, demonic stride.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...On the final stretch. I felt raw instinct clashing against instinct with my very skin.\nAt that moment, chills ran down my spine... and \"something\" whispered to me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ever since then. That was when everything started going mad...\nWhenever it comes to races... she began to emerge.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...\nI have... a proposal for you—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It was certainly a destructive style of running that gave no heed to her own body or her surroundings.\nYet, if we could properly tame that power... that raw instinct—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "............\nT-Together...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It is true that she might not fit into what the world considers \"normal.\"\nHowever, that simply means—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "――――――――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still in Love?\nNo, haven't seen her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Driven by urgency, I strained my ears just as told. And then,\nI \"held her in my thoughts\"... that run, those crimson eyes like blood—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ngh. No... I can't...!\nI must not show such an unsightly side of myself... any longer...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Neo Universe is a \"crewmate.\"\nThat is why—I understand. I will \"communicate.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I shouted reflexively. It was true that I felt fear toward her.\nHowever, it was not out of malice as she suspected, but rather...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah... W-Why are you...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, how shameful...! Please, stop...\nWhy must you... Why...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Aha. You love it too, deep down.\nIt's no use pretending to be pure. I am... you, remember?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—My head aches. Noise and whispers flood my thoughts...\nThe sounds echoing inside my mind gradually coalesce into one—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Are you sure? She is... uncontrollable.\nShe might... do something terrible to you...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "C　　　o　　　m　　　e\n　　　o　　v　　e　　r\n　　　　h　e　r　e",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "All that remained within me was... an excitement so intense that the line between self and other blurred.\nAnd then... the impulse. A scorching thirst to devour everything.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Blood, the moon, and transgression.\nSuch are the sins of our fated bond\"—so it said.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Listen closely.\n\"Hold in your thoughts\"—\"Still in Love.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Impatience set in. Still in Love was clearly not herself.\nLeaving her alone in that state... gave me a dangerous premonition.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "？？？",
       "text": "――――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "...Huh!? You're—",
+        "...Huh!? You're—"
+      ]
     },
     {
-      "name": null,
-      "text": "Hmm... Can't say I've seen her.\n...Trainer, you're dripping with sweat... Are you alright?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Neo Universe",
+      "text": "Neo Universe is a \"crewmate.\"\nThat's why—I understand. I will \"transmit.\""
     },
     {
-      "name": null,
-      "text": "Ah~ She hasn't come over this way.\n...Come to think of it, where does she usually hang out?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Neo Universe",
+      "text": "\"HRUP.\" Focus, \"scoop it up.\"\n\"Her\" \"instinct.\" Close your eyes—"
     },
     {
-      "name": null,
-      "text": "Now I understood. Because of the clashing personas within her, the impression she gave\nwas completely inverted. And torn by that inner conflict, she—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Neo Universe",
+      "text": "Listen closely.\n\"Feel for\"—\"Still in Love.\""
     },
     {
-      "name": null,
-      "text": "It sprouted... or rather, perhaps I should say it awakened.\nThe very first time I visited the Twinkle Series—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Driven by urgency, I strained my ears just as she said. And then, I \"felt for\" her... remembering that run, and those blood-red eyes—"
     },
     {
-      "name": null,
-      "text": "The \"I\" who strives to be rational.\nAnd the \"me\" who runs on pure instinct, screaming to devour everything.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "――――――――"
     },
     {
-      "name": null,
-      "text": "Though it was easy to be overwhelmed by its bizarreness, the running she displayed\nhad an undeniable brilliance to it, both in raw speed and sheer power.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "――――――――"
     },
     {
-      "name": null,
-      "text": "............\nTurn her... into a weapon...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—My head aches. Static and whispers overwhelm my thoughts...\nThe sounds echoing in my mind gradually converge into one—"
     },
     {
-      "name": null,
-      "text": "—It exists... within me.\nThe blood of madness... whispering to defy all decency.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "　C　　　　o　　　　m　　　　e\n　　　　h　　　　　e　　　　r　　　　e"
     },
     {
-      "name": null,
-      "text": "Enduring the headache, I followed the ever-growing commotion to its source...\nWhere she was writhed in solitary agony.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Enduring the throbbing headache, I followed the swelling clamor to its source...\nThere she was, all alone, writhing in agony."
+    },
+    {
+      "name": "Still in Love",
+      "text": "...We should have just devoured them whole back then!\nSipping every last dripping drop... Ahhh—"
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah, how shameful...! No, please stop...\nWhy must you... Why..."
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ahaha. You love it too, deep down.\nIt's pointless to act so virtuous. I am... you, after all."
+    },
+    {
+      "name": "Still in Love",
+      "text": "...No, you're wrong!! ...I'm not you...\nYou're... I'm... No, no, no...!!",
+      "choice_data_list": [
+        "...Still."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "...*gasp*!"
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah... W-Why are you here...?",
+      "choice_data_list": [
+        "I was worried about you...",
+        "I was worried about you..."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "！"
+    },
+    {
+      "name": "Still in Love",
+      "text": "You searched for me... and found me...?\nYou came for me..."
+    },
+    {
+      "name": "Still in Love",
+      "text": "……――"
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Ah!! I-I'm so sorry...\nTo let you see me in such a state...! It's utterly humiliating...",
+      "choice_data_list": [
+        "...Will you tell me about yourself? About \"you\"—",
+        "...Will you tell me about yourself? About \"you\"—"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "—It dwells within me.\nA bloodline of madness... whispering to abandon all decency.",
+      "choice_data_list": [
+        "(A bloodline of... madness.)"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "It first took root... No, I suppose it awakened.\nThe very first time I went to watch the Twinkle Series—"
+    },
+    {
+      "name": "Still in Love",
+      "text": "Races run with everything on the line... The fierce, breathtaking clash stole my heart away. I wanted to dive into that world too... Up to that point, I was completely normal."
+    },
+    {
+      "name": "Still in Love",
+      "text": "...The final stretch. I felt the raw collision of pure instincts right against my skin.\nAt that very moment, chills ran down my spine... and \"something\" whispered to me."
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"Blood, the moon, and transgression.\nThat is your fateful sin\"—it said."
+    },
+    {
+      "name": "Still in Love",
+      "text": "All that remained within me... was an ecstasy so intense it blurred the line between myself and others.\nAnd... an urge. A searing, voracious thirst to devour everything."
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Ever since then, everything began spiraling out of control...\nWhenever a race began... *she* started showing up.",
+      "choice_data_list": [
+        "(The way she was during the race...)"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Especially when competing against someone formidable... she goes completely wild.\nDriven by sheer frenzy, losing all reason... and when I finally come to, I'm... all alone."
+    },
+    {
+      "name": "Still in Love",
+      "text": "Even so, I... had already fallen completely under racing's spell.\nInstead of walking away, I chose to suppress the madness... and as a result, I fractured."
+    },
+    {
+      "name": "Still in Love",
+      "text": "The \"I\" who strives to remain rational.\nAnd the \"me\" who runs on pure impulse, screaming to consume everything in her path."
+    },
+    {
+      "name": "Narrator",
+      "text": "Now I understood. Harboring two conflicting egos was why she seemed like an entirely different person. And torn apart by that inner conflict, she had been—",
+      "choice_data_list": [
+        "Suffering through all that pain...",
+        "Suffering through all that pain..."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "！"
+    },
+    {
+      "name": "Still in Love",
+      "text": "N-No... It's... strange, isn't it?\n...I'm not normal. Something is terribly wrong with me..."
+    },
+    {
+      "name": "Narrator",
+      "text": "It was true that by conventional standards, she might not fit the definition of \"normal.\"\nHowever, looking at it another way—",
+      "choice_data_list": [
+        "That just means you're special.",
+        "That just means you're special."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Special... Me...?"
+    },
+    {
+      "name": "Narrator",
+      "text": "While it was easy to get overwhelmed by how bizarre it looked, the running she displayed—her speed, her raw power—was magnificent in every sense."
+    },
+    {
+      "name": "Narrator",
+      "text": "Her running was undeniably destructive, showing no regard for her own body or those around her.\nYet, if that power... if that raw instinct could be properly harnessed—",
+      "choice_data_list": [
+        "—it could become your ultimate weapon.",
+        "—it could become your ultimate weapon."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "............\nTurn her... into a weapon...?"
+    },
+    {
+      "name": "Still in Love",
+      "text": "...*gasp*. No... I can't...!\nI mustn't let anyone see that side of me... never again...!"
+    },
+    {
+      "name": "Still in Love",
+      "text": "Because... the way she runs is... hideous.\nIndecent, shameless... a monster through and through."
+    },
+    {
+      "name": "Still in Love",
+      "text": "You were terrified too, weren't you?\n...You must have found me revolting—",
+      "choice_data_list": [
+        "That's not true at all!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I shouted instinctively. It was true that I felt fear toward her.\nYet it wasn't born of malice, as she feared, but rather...",
+      "choice_data_list": [
+        "Your instincts... are frighteningly beautiful.",
+        "Your instincts... are frighteningly beautiful."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "……！",
+      "choice_data_list": [
+        "(Ah... so that's what it is.)",
+        "(Ah... so that's what it is.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Voicing it made everything click. Why couldn't I take my eyes off her?\n—Because I was completely, utterly enchanted by her demonic running.",
+      "choice_data_list": [
+        "Let's find a way to control it together."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "............\nTo... gether...?"
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Are you truly sure? That girl... is beyond control.\nShe might... do something terrible to you..."
+    },
+    {
+      "name": "Narrator",
+      "text": "As her crimson eyes locked onto mine, a ferocious shadow of \"her\" flickered past... sending a shiver down my spine.\nYet, as if feverish, words spilled from my mouth before I could even think.",
+      "choice_data_list": [
+        "I'll be fine.",
+        "I'll be fine."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "My throat went dry. No matter what, I had to witness that running again...\n—Even if it cost me everything, I wouldn't care."
+    },
+    {
+      "name": "Still in Love",
+      "text": "............Yes.\nIf so... then please... I place myself in your hands...",
+      "choice_data_list": [
+        "First, maybe we try not bringing out that instinct..."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "...\nMay I... make a suggestion—"
     }
   ],
   "no_wrap": true

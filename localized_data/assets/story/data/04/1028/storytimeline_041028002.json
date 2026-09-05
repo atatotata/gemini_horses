@@ -1,488 +1,231 @@
 {
-  "title": "",
+  "title": "Tough, Big, and Totally Buono☆",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 20s\r\nPersonality: Cheerful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few weekends after that surprise recruitment on a deserted island\nled to me becoming Hishi Akebono's Trainer."
     },
     {
-      "name": null,
-      "text": "★Request\nScene transition effect",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Mm-hmm, look at that nice color~! Looks delicious♪\n—Wait, I'm not supposed to pick too much from one spot!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Footsteps",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Maybe I'll check out the next mountain over!\nCome on, Trainer, hurry, hurry~♪",
+      "choice_data_list": [
+        "W-Wait up...!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 20s\r\nPersonality: Serious",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It all started a few days ago."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Hishi Akebono\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Wanna go on an outing this weekend if you're free?\nI wanna go gather some ingredients to make chanko nabe~."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n(SE: Sound of waves)\nLarge text\n---\n★Request\nScene transition effect",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Going together with my trainer was always a dream of mine~."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Hishi Akebono\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I assumed we'd be heading to her recommended greengrocer or fish market.\nThat guess was completely shattered, and before I knew it, we were mushroom hunting in the mountains."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Splash into water",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Alrighty, that should do it~! Let's head for the ocean next~!"
     },
     {
-      "name": null,
-      "text": "★Request\nHishi Akebono runs out of frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After hiking across five whole mountains, our carrying basket was overflowing with wild herbs and mushrooms.\nI gave it a try and attempted to lift it, but—",
+      "choice_data_list": [
+        "(It won't budge at all...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nHishi Akebono runs out of frame",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Ahaha! We gathered so much, it's gotta be pretty heavy~!\nLeave the carrying to me~."
     },
     {
-      "name": null,
-      "text": "★Request\nFade in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "—Hup, two, three, hoist☆"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Boar squeal",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With those words, Hishi Akebono effortlessly lifted the seemingly immovable basket and dashed off with boundless energy."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Fish splashing in water\n---\n★Request\nDisplay Hishi Akebono (Costume: School Swimsuit / Wet)\r\n*Assuming a sea bass and a cooler box are in front of her",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Take thaaat!"
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Caught a huge sea bass! Trainer, could you keep an eye on the cooler, please?\nThere are lots of kitties around here~."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Heavy thud / hefty weight sound",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Ah! Spotted an eeeven bigger fish~! Be right baaack!"
     },
     {
-      "name": null,
-      "text": "★Request\nAfter fade in\n---\n★Request\nDisplay Hishi Akebono (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Local Resident A",
+      "text": "Wait... hold on, did that girl just catch a sea bass with her bare hands?"
     },
     {
-      "name": null,
-      "text": "★Request\n*Assuming there is a basket in front of Hishi Akebono",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Yay~! Caught an even bigger one!"
     },
     {
-      "name": null,
-      "text": "★Request\nAfter fade in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Local Resident B",
+      "text": "No way, you're seeing things—wait... what...?\nShe really is... she's catching sea bass with her bare hands..."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Hishi Akebono (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And just like that, we sprinted from mountain peaks to the seaside, gathering a massive hoard of ingredients.\nUtterly exhausted, I was just about to suggest calling it a day, when—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Fish splashing in water\n---\n★Request\n*Hide character\r\nScreen shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Alright, let's head to the butcher shop next~.",
+      "choice_data_list": [
+        "There's still more?!",
+        "There's more?!"
+      ]
     },
     {
-      "name": null,
-      "text": "Mmhmm! Look at that color~! Looks so yummy♪\r\n—Wait, I shouldn't forage too much from just one spot!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Yup! There's a butcher that sells the most amazing minced chicken,\nit's an absolute must-have for chanko nabe~."
     },
     {
-      "name": null,
-      "text": "Even though we must've covered dozens of kilometers today, Hishi Akebono\ncheerfully dashes ahead. Her broad back gets smaller and smaller into the distance.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "It's a little far out, but the scenery along the way is super pretty and wonderful~!\nSo with that said, off we go~☆"
     },
     {
-      "name": null,
-      "text": "It's always been my dream to go together with my Trainer~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Despite already traveling countless miles today, Hishi Akebono took off running at full tilt.\nHer broad back rapidly shrank into the distance.",
+      "choice_data_list": [
+        "(How is she this tough?!)",
+        "(Just how tough can one girl be?!)"
+      ]
     },
     {
-      "name": null,
-      "text": "It all started a few days ago.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After transferring trains for about an hour, we finally arrived in the remote countryside.\nHowever... that was when a chain of misfortunes struck!"
     },
     {
-      "name": null,
-      "text": "Ahaha! We gathered so much, it's gotta be pretty heavy, huh~!\r\nLeave the carrying to me~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Mmm~! The air out here is so delicious.\nWait, huh? A wild boar...?!"
     },
     {
-      "name": null,
-      "text": "Yay~! I caught an even bigger one!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(Oink!)"
     },
     {
-      "name": null,
-      "text": "(Oink!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Whoa! It's a boar! So cute~!"
     },
     {
-      "name": null,
-      "text": "All the ingredients gathered with such care were gone, and now we were stranded camping out in the middle of nowhere.\r\nEven for someone as tough as Hishi Akebono, this had to take a toll. Or so I thought—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "—Wait, huh? Is it charging right at us...?"
     },
     {
-      "name": null,
-      "text": "After hiking through five mountains, our pack baskets were overflowing with wild vegetables and mushrooms.\r\nI tried giving it a lift, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(RUMBLE RUMBLE RUMBLE)"
     },
     {
-      "name": null,
-      "text": "Without showing the slightest hint of fatigue or disappointment,\r\nHishi Akebono hops around cheerfully with a bright smile.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Eep?! W-W-Whoa~!\nTrainer, look out~!"
     },
     {
-      "name": null,
-      "text": "No, no way, I must be seeing things—wait... what...?\r\nShe really is catching sea bass with her bare hands...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Frozen in shock, I reacted a moment too late.\nI scrambled out of the way, but lost my balance—",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
-      "name": null,
-      "text": "—Whoa! Look, look, Trainer! The starry sky is so pretty!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Knocking over the basket brimming with all our gathered ingredients,\nI tumbled straight into the river..."
     },
     {
-      "name": null,
-      "text": "—Wait, huh? Is it... charging right this way...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Are you okay?! Trainer!"
     },
     {
-      "name": null,
-      "text": "Aww, did they replace the timetable?\r\nIt's different from when we got off. Sorry about that, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Fortunately, I wasn't hurt, but every single ingredient Hishi Akebono had run all over to gather was washed away down the river...",
+      "choice_data_list": [
+        "I'm so sorry...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Well, days like this happen! Oh, right, the rice\r\nand canned food we brought are still safe, so let's make seasoned rice with it☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "No, don't be! Your safety is way more important, Trainer.\nBesides, we can definitely still buy meat, so it's all good, all good~♪"
     },
     {
-      "name": null,
-      "text": "Umm... looks like the first train is at 6:00 AM.\r\nWhich means we've got 12 hours left~. What a pickle!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "However—"
     },
     {
-      "name": null,
-      "text": "No way! Your health is way more important, Trainer.\r\nBesides, we can definitely just buy meat, so don't you worry one bit~♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Oh dear~! Temporarily closed...?!"
     },
     {
-      "name": null,
-      "text": "However—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And to make matters worse—"
     },
     {
-      "name": null,
-      "text": "Maybe we should check out the next mountain over!\r\nCome on, Trainer, hurry, hurry~♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "The last bus already left!",
+      "choice_data_list": [
+        "What?!"
+      ]
     },
     {
-      "name": null,
-      "text": "It's a little far, but the scenery is gorgeous and totally worth it~!\r\nSo let's get going☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "So early~. Did they replace the timetable?\nIt's totally different from when we got off. I'm sorry, Trainer."
     },
     {
-      "name": null,
-      "text": "Yep! There's a butcher shop that sells really amazing ground chicken,\nand it's an absolute must for chanko nabe~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Let's see... the first bus tomorrow is at 6 AM.\nWhich means... twelve hours to go~. Oh boy!"
     },
     {
-      "name": null,
-      "text": "With that, Hishi Akebono hoisted the basket that wouldn't budge an inch for me\r\nlike it was nothing, and cheerfully dashed off ahead.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I couldn't possibly let her sleep out in the open. I explained the situation to the academy and scrambled to find lodging, but came up empty-handed—"
     },
     {
-      "name": null,
-      "text": "Alrighty, I think that does it~. Should we head to the sea next~?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Guess we're camping out~!"
     },
     {
-      "name": null,
-      "text": "I dragged down the nearby pack basket filled with our ingredients with me\r\nand tumbled straight into the river...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Losing all the ingredients we worked so hard to collect, stranded in the boonies with nowhere to sleep...\nEven the tough Hishi Akebono had to feel crushed. Or so I thought—"
     },
     {
-      "name": null,
-      "text": "(Rumble rumble rumble!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Oh well, days like this happen! Oh, that's right! The rice and canned food I packed are totally fine, so let's make seasoned rice and eat☆"
     },
     {
-      "name": null,
-      "text": "Ehehe, it's not every day you get to camp outdoors, so it's kinda fun♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "Ehehe, it's not every day you get to camp out in the wild, so it's kinda exciting♪",
+      "choice_data_list": [
+        "Hishi Akebono..."
+      ]
     },
     {
-      "name": null,
-      "text": "And to make matters worse—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Hishi Akebono",
+      "text": "—Whoa! Look, look, Trainer! What a gorgeous starry sky!"
     },
     {
-      "name": null,
-      "text": "Eep?! W-W-Whoa~!\r\nTrainer, watch out~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Without a trace of exhaustion or sadness on her face, Hishi Akebono hopped up and down with a bright smile.",
+      "choice_data_list": [
+        "(She's truly something special...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Whoa! It's a little wild boar! So cute~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One weekend, some time after becoming Hishi Akebono's Trainer\r\nfollowing our encounter on the deserted island.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wait... is that girl catching sea bass with her bare hands?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well then, let's head to the butcher shop~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Luckily neither of us was hurt, but all the ingredients\r\nHishi Akebono had run all over to gather were washed away down the river...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Camping out, huh~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I couldn't just let her sleep out in the open. I explained the situation to the academy\r\nand scrambled to find lodging. But I couldn't find a single vacancy—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After transferring trains for about an hour, we finally arrived out in the countryside.\r\nHowever... a cascade of misfortunes was waiting for us!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Mmm~! The air smells so fresh and good.\r\nWait, huh, is that a wild boar...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah! I spotted an even biiiigger fish~! I'm on it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh dear~! Temporarily closed...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I figured we'd probably visit her favorite grocers or fish markets. But my expectations\r\nwere completely shattered, and before I knew it, we were foraging for mushrooms in the mountains.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The last bus has already left!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If you're free this weekend, wanna go on an outing?\r\nI want to gather ingredients to make chanko nabe~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Caught completely off guard, I was too slow to react.\r\nI scrambled to dodge, but lost my footing—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Aaaand hup☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The night sky her long arm pointed to was indeed breathtakingly gorgeous.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Caught a big sea bass! Trainer, please keep an eye\r\non the cooler box, okay? There are lots of kitties around here.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Are you okay, Trainer?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Heeeyaaah!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Like that, we dashed from mountain to sea, gathering plenty of ingredients.\r\nJust as my stamina was hitting its absolute limit and I was about to suggest heading home—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Following her outstretched arm, the starry sky above was indeed breathtakingly beautiful."
     }
   ],
   "no_wrap": true

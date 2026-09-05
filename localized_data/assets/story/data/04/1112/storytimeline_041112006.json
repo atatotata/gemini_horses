@@ -1,677 +1,309 @@
 {
-  "title": "",
+  "title": "Eclipse of Sun and Moon",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nFade to black / Fade back in\nFlashback off\n---\n★Request\nShow Dearing Heart (Casual clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "After all, aren't we buddies who are going to\nsprint through the Twinkle Series together?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- Pronunciation sample available\n---\n★Request\nHeart looks surprised",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "I need to get to know you better,\nand you need to get to know me better too."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"No\" = Pronunciation sample available\n- \"no thanks\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "To make that happen, I want to spend more time with you.\nI want to share all kinds of experiences—Don't you think so?"
     },
     {
-      "name": null,
-      "text": "★Request\nWink",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And so, the day of the party arrives after her invitation.\nAs we make our way to the venue with our costumes in hand..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n\n- \"Oh, my gosh. You are an eager beaver\" = nuance of \"You're such a hard worker\" (Pronunciation sample available)\n---\n★Request\nHeart smiles wryly",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Are you nervous?",
+      "choice_data_list": [
+        "Y-Yeah... a little.",
+        "U-Um... yeah, kinda."
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*No recording needed\n---\n★Request\nFlashback on\n(Flashback source: 041112005 Episode 5 lines around 077, 078, 079, 080; Line IDs: 2171342, 2171412, 2171411, 2177062)\n---\n★Request\nShow Dearing Heart (Tracksuit - Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Well, that's fair. ...But don't worry, okay?\nAfter all, today is a \"theme party\"!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*For text cheering, just \"Kyaa-\" is fine.\n---\n★Request\nShaky text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Once you change into your spy outfit at the venue,\nthe excitement will blow all your nerves away! ...We're fine!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: College student\nPersonality: Cheerful\n\n- \"Hello everyone\" = Pronunciation sample available\n---\n★Request\nGeneric wipe\n---\n★Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Or so she told me, but..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"You know what I mean\" = \"You understand, don't you?\" (Pronunciation sample available)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "—Wow.\nLooks like an adorable little mouse sneaked in."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"Fancy that!\" = Pronunciation sample available\n---\n★Request\nTime passes\n---\n★Request\nShow Dearing Heart (Generic formalwear_Chiffon_Light blue)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Checkmate—just kidding! Sorry to keep you waiting, Trainer!\nOh! You look like the absolute picture of an \"undercover office worker\"♪",
+      "choice_data_list": [
+        "T-Thanks. Your outfit is...",
+        "T-Thanks. Your outfit is..."
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Announcement (sound like an incoming order/mission)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Heheh, a hotelier!\nQuite an unexpected twist, don't you think?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Heart's Friend",
+      "text": "Oh, hey Heart! Is the person next to you your rumored Trainer?\nNice to meet you~! Cheers to that☆",
+      "choice_data_list": [
+        "C-Cheers..."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nBlack wipe\n---\n★Request\nShow Dearing Heart (Generic formalwear_Frock coat_Blue tone)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...The venue is even livelier than I imagined, and I wonder if I can keep up.\nI want to do my best so as not to embarrass Heart, though..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcement Chime",
+      "text": "(Wooo! Wooo!)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"Wow\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Host Horsegirl",
+      "text": "Hello everyone! Now that everyone's gathered,\nwe'll be kicking off the \"Best Agent Look Contest\"!",
+      "choice_data_list": [
+        "Best Agent...?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDearing Heart (Casual clothes) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "The \"Best Agent Look Contest\".\nBasically, it's a disguise contest."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n\"We're fine!\" = No problem (Pronunciation sample available)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Using the provided costumes and props,\nyou disguise yourself to fit whatever \"mission\" you're given!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"Non\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "I'm entering, but what about you two?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Screechy, discordant violin sound\n---\n★Request\nPlays violin\n*Playing motion",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Heart's Friend",
+      "text": "Of course I'm in! Totally entering!\nWhat about you, Trainer? Gonna join? Are you, are you?!",
+      "choice_data_list": [
+        "Huh?! Um..."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nTime passes\n---\n★Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Truth be told, I'm not very comfortable being in the spotlight.\nHowever, as Dearing Heart's Trainer...",
+      "choice_data_list": [
+        "M-Maybe I'll give it a shot...!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric wipe\n---\n★Request\nShow Dearing Heart (Generic formalwear_Chiffon_Light blue)\nPoised holding violin (prop1269_00) and bow (prop1270_00)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Host Horsegirl",
+      "text": "Next up! The mission for Agent Dearing Heart is...\n\"Sheltered Highborn Lady\"!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Good day to you all, ladies and gentlemen.\nAllow me to play a melody as a token of our acquaintance."
     },
     {
-      "name": null,
-      "text": "★Request\nHeart looks over toward the Trainer",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(SCREEECH, SKREEE)"
     },
     {
-      "name": null,
-      "text": "★Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Host Horsegirl",
+      "text": "Wait, she can't play it at all! ...Alright, moving on!\nOur next agent is this young lady's Trainer!"
     },
     {
-      "name": null,
-      "text": "★Request\nTime passes\n---\n★Request\nShow Dearing Heart (Casual clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Host Horsegirl",
+      "text": "The mission for this agent is—\"Sizzling Top Idol of the Moment\"!\nAlright, take the stage!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"Checkmate\" = Pronunciation sample available\n- \"Oh\" = Pronunciation sample available\n---\n★Request\nBlack wipe\nShow Dearing Heart (Generic formalwear_Frock coat_Blue tone)\nHolding nata de coco drink (prop1128_XX) *any color",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As my nervousness reaches its absolute limit, a calm voice in the back of my mind speaks up.\n...\"If you're going to fall, you might as well fall forward.\"",
+      "choice_data_list": [
+        "—Everyone! We finally meet!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nGracefully / demurely",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Wow...",
+      "choice_data_list": [
+        "I'm not letting you go home today... Run with me!",
+        "I'm not letting you go home today... Run with me!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"What?\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Party Guests",
+      "text": "Eeeek! So cool~♡",
+      "choice_data_list": [
+        "Please listen to... \"QueenBee\"!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"This is unbelievable!\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...Oh, my gosh. You are an eager beaver.\nYou really do give it your all, don't you?"
     },
     {
-      "name": null,
-      "text": "★Request\nHeart watches curiously to see what they will do",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Fancy that! Who knew you had that in you?\nThe crowd went absolutely wild.",
+      "choice_data_list": [
+        "Ahaha... As long as everyone enjoyed it, that's what matters."
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"Hmm?\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That said, it took a massive toll on both my energy and stamina.\nI'd really love to spend some quiet time resting, but..."
     },
     {
-      "name": null,
-      "text": "★Request\nHeart looks around searching for Trainer",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "If we follow the usual flow, next up should be dance time.\nI'll be heading out on the floor, but you can rest...",
+      "choice_data_list": [
+        "Wait, I'll come with you.",
+        "Wait, I'll go too."
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n- \"I'm excited!\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nSE: Uproarious laughter\n---\n★Request\nPut prop away and make a graceful bow\n*If a new motion bowing while holding violin is ready, bow holding it (otherwise put prop away as needed)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\n- \"Bikkuri dawa\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nAge: Late teens\nPersonality: Gyaru\n---\n★Request\nHeart clinks glasses in time with dialogue",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm excited!\nWhy, you're practically a real secret agent now!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Feel free to take a break.\n—Thank you for working so hard for me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"From posture alone, Person A has athletic training. Highly skilled.\nUnlikely to blend in as an ordinary civilian.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...To be honest, I'm not very good in front of crowds.\nStill, as Dearing Heart's Trainer...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If it follows the usual schedule, next up is dance time.\nI'm heading out, but please go take a rest...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Woooo! Woooo!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Once we change into our \"spy\" outfits at the venue,\nthe excitement will blow it all away! ...We're fine!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And for that, I want to share even more moments with you.\nI want us to experience so much more together—don't you think so?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "This is unbelievable!\nIncredible, Trainer! Every single one is spot-on!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wait, is this an analysis of all the guests?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Wow.\nLooks like quite the adorable little mouse snuck in.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Today, I really got to know you.\nBoth how sharp your analysis is, and how you push yourself too hard.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...It's even livelier than I imagined, making me worry if I can keep up.\nI want to do my best so as not to embarrass Heart, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Didn't I tell you when I invited you?\nMy goal for today is \"mutual understanding.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wow.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Count me in, of course! \nWhat about you, Trainer? Gonna join in? Are you, are you?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh honestly, you can be so dense about the strangest things!\nI want you to look at me much more closely with those inquisitive eyes of yours.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After all, aren't we buddies who will blaze through\nthe Twinkle Series together?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So, keep your eyes on me, okay?\nYou know what I mean.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Well, fair enough. ...Still, don't worry!\nAfter all, today is a \"theme party\"!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—No.\nI appreciate the sentiment, but no thanks, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Now then...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Person A is that girl in the one-piece dress, right?\nShe's actually a black belt in judo!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still, that took a heavy toll on both my energy and stamina.\nI'd like to spend some quiet time for a bit, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hey, what about the others? If you don't mind, show me the rest of your analysis!\nLet's check the answers together!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If I'm going to make it as her Trainer,\nI need to keep up with this kind of energy...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hehe, did you find your answer?\nWell then, let's see how you did! My brilliant secret agent♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Non. I'm feeling a bit tired, so I'll go take a rest.\nSee you in a bit.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, hey Heart! Is that the rumored Trainer next to you?\nNice to meetcha~! Cheers to that☆",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The \"Best Agent Look Contest.\"\nBasically a disguise contest, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Inside the house, I think you'll be able to relax quietly.\nYou can keep an eye on things out here from there, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Did you analyze them just by observing?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Good evening, everyone.\nAs a token of our new acquaintance, allow me to play a piece for you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Seeing her charming wink melted away the guilt in my chest.\nBefore I knew it, a natural smile formed on my face.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I need to know more about you,\nand you need to know more about me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "At first, I was just watching from afar... but as I observed them,\nit seems my professional instincts took over without me realizing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Kyaa~! So cool~♡",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And Person B is that girl, right? She's an absolute spy movie fanatic,\nshe even cosplays on a regular basis.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Nervous?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hehe, a \"hotelier\"!\nQuite unexpected and clever, wouldn't you say?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As my nervousness hit its peak, a calm voice in the back of my mind spoke.\n...\"If you're going to fall anyway, might as well fall forward.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm entering, but what about you girls?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The mission for our agent is—\"A sensationally popular top idol\"!\nWhenever you're ready!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My goal is to understand you.\nForcing you to keep up just to have fun together completely misses the point.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm shook.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wait, you can't even play at all?! ...And moving on, next up!\nOur next agent is that fine lady's Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Dearing Heart",
       "text": "What?\nAren't you exhausted, though?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "...I just wanted to get used to it."
+      ]
     },
     {
-      "name": null,
-      "text": "...Oh, my gosh. You are an eager beaver.\nYou really do push yourself so hard.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "If I'm going to work as her Trainer,\nI need to be able to keep up with this kind of vibe..."
     },
     {
-      "name": null,
-      "text": "Checkmate—just kidding! Sorry to keep you waiting, Trainer!\nOh! Look at you, a picture-perfect \"office worker undercover spy\"♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "—No.\nI appreciate the thought, but that's a no thanks, Trainer."
     },
     {
-      "name": null,
-      "text": "It's a game where you use provided costumes and props\nto disguise yourself to match your \"mission\"!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Didn't I tell you when I invited you?\nMy objective today is \"mutual understanding.\""
     },
     {
-      "name": null,
-      "text": "\"Person B's outfit is elaborate. A perfectionist, or perhaps\nhas deep knowledge of the genre. Could serve as a conversation starter.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "The goal is to understand who you are.\nPushing yourself too hard just to join in completely misses the point.",
+      "choice_data_list": [
+        "Ah..."
+      ]
     },
     {
-      "name": null,
-      "text": "Ah, there you are.\n...Wait—Hmm?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...You should be able to relax and take it easy inside the house.\nYou can still watch everything happening out here, too."
     },
     {
-      "name": null,
-      "text": "Hello everyone! Now that everyone's gathered,\nwe'll be kicking off the Best Agent Look Contest!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Go on and take a break.\n—Thank you for working so hard for me today!"
     },
     {
-      "name": null,
-      "text": "While listening to the distant hustle and bustle outside,\nI found myself staring down at my notebook, when...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Heart's Friend",
+      "text": "Oh, you changed, Heart?\nWhere are you going? The restroom?"
     },
     {
-      "name": null,
-      "text": "Next up! The mission for Agent Dearing Heart is...\n\"Sheltered Highborn Lady\"!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Non. I'm a bit tired, so I'm taking a break.\nCatch you later."
     },
     {
-      "name": null,
-      "text": "And so came the day of the party she invited me to.\nCarrying the costumes on my way to the venue...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "—Now then..."
     },
     {
-      "name": null,
-      "text": "Fancy that! Who knew you had that in you?\nEveryone was absolutely thrilled.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Ah, there you are.\n...Wait—Hmm?"
     },
     {
-      "name": null,
-      "text": "Even though she had said that...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With the clamor outside sounding in the distance,\nI find myself staring intently at my notebook when..."
     },
     {
-      "name": null,
-      "text": "Oh, you changed, Heart.\nWhere are you off to? Restroom?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "\"From posture alone, Guest A clearly has athletic experience. Exceptional physical ability.\nUnlikely to pass as an ordinary citizen disguised.\"",
+      "choice_data_list": [
+        "Whoa?!"
+      ]
     },
     {
-      "name": null,
-      "text": "(Scrrreeeech...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "\"Guest B's outfit is elaborate. Perfectionist mindset. Possibility of\ndeep expertise in this genre. Could serve as a potential icebreaker.\""
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "Are these... analysis notes on the guests?",
+      "choice_data_list": [
+        "S-Sorry...! It's just a reflex...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I was only observing from afar at first... but as I watched,\nmy Trainer instincts must have switched on without me realizing it."
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "I'm shook...",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "This is unbelievable!\nYou're amazing, Trainer! Every single one is spot-on!"
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "A is that girl in the dress, right?\nShe's actually a black belt in judo!"
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "And B is that girl over there, right? She's completely obsessed with spy movies\nand cosplays all the time."
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "Did you figure all of this out just by watching them?",
+      "choice_data_list": [
+        "Ah, well, yeah, pretty much...",
+        "Uh, yeah, pretty much..."
+      ]
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "I'm excited!\nThat basically makes you a real secret agent!"
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "Hey. What about the others? If you don't mind, I'd love to see the rest of your analysis!\nLet's check your answers!",
+      "choice_data_list": [
+        "I don't mind, but are you sure you want to ignore the party?",
+        "I don't mind, but are you sure you want to ignore the party?"
+      ]
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "Geez, you can be so dense about the weirdest things!\nI want you to use those inquisitive eyes of yours to look at me a little closer."
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "Today, I really got to know you.\nHow great you are at analyzing things, and how you push yourself too hard."
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "So... look at me too, okay?\nYou know what I mean."
+    },
+    {
+      "name": "Narrator",
+      "text": "Watching her give a charming wink, the lingering guilt in my chest melted away.\nBefore I knew it, a natural smile formed on my face.",
+      "choice_data_list": [
+        "...Thanks, Heart."
+      ]
+    },
+    {
+      "name": "Dearing Heart",
+      "text": "Hehe, found your answer?\nWell then, let's see how you did, Mr. Master Agent♪"
     }
   ],
   "no_wrap": true

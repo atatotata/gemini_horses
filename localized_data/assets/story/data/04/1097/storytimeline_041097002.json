@@ -1,579 +1,272 @@
 {
-  "title": "",
+  "title": "\"Don't Stare at Me\"",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■Stage Direction\nInstinct\n---\n★Request\nShaky text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Still in Love... a mysterious horsegirl who appeared suddenly from the twilight.\nWe moved elsewhere so I could hear the full story from her, but...",
+      "choice_data_list": [
+        "(Huh?... She was right here just a second ago.)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nInstinct\n---\n★Request\nAfter fade-in\nShaky text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was definitely with me up to the entrance...\nYet looking around, she was nowhere to be seen.",
+      "choice_data_list": [
+        "Still...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nStill in Love runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nSerious time lapse\n---\n★Request\nDisplay Still in Love (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nLine 1: attempting to introduce herself\nRestraining herself\nMaybe it's better not to appear at all\n---\n★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nImage of following the scent (Instinct Still has strong beast-like imagery)\n---\n★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade to black / After fade-in\n---\n★Request\nStill in Love (Summer Tracksuit),\nruns in while decelerating",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nAge: 30s\nPersonality: Serious",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nAge: 30s\nPersonality: Serious\n\n*Intentionally keeping as original text rather than matching voice line.\n---\n★Request\nFade to black / After fade-in\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nInstinct\n---\n★Request\nBlack wipe\n---\n★Request\nRace scene\nDisplay Still in Love (Summer Tracksuit)\nWant to show the terror of the impression shifting drastically with a single tap",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade to black / After fade-in\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nTaken aback / Startled (doesn't want it to be known)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nSerious time lapse",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nTalking to herself\nAt the end, becoming excited and swallowing spit\n---\n★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n\nTinged with instinct\n---\n★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade to black / After fade-in\n---\n★Request\nDisplay Still in Love (Summer Uniform)\nEyes glowing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nHurt / Pained",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nBlack wipe\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nStill in Love trots out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nDisplay Still in Love (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\nAge: 20s\nPersonality: Cheerful\n---\n★Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nDisplay Still in Love (Summer Uniform)\nSweeps around into field of view\n*Want a different feel from Episode 1, e.g. popping up from below",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nAge: High School 1st Year\nPersonality: Cheerful\n---\n★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\nAnxiously\n---\n★ Request\nBlack wipe\nDisplay Still in Love (Summer Tracksuit)\nImage of the Trainer noticing her; Still has not noticed the Trainer\n---\n★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n---\n★ Request\nStill in Love runs off-screen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nStill notices the Trainer and gasps → smiles happily, then looks troubled again",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Apparently, after I lost consciousness, she carried me to the front of my room...\nand I somehow got back inside on my own. Muscle memory or pure homing instinct, most likely.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No... Stop it...! Don't... get in the way...! \nEveryone... is running so hard... running with all their might—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...It's going... to start...\nI can begin—...can't I?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, no, I shouldn't...\nEveryone looks so strong... ...Ngh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Between before and after the race, everything changed.\nHope turned to dread. And every pair of eyes was fixed upon—Still in Love.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I caused you so much trouble...\nI am truly, truly sorry...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It seemed nobody besides myself had noticed she was there.\nSeeing her hesitate, lacking the courage to speak up, I raised my hand for her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yesterday... I carried you, um... to your room.\nAfter that, I panicked, and... I...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I'm, I'm so sorr... ngh.\n—I'm sorry...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Did you see that just now...?\n...Ugh, I can't... I can't stop shivering...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The mark on my neck turned out to be just a bug bite.\nAnd Still in Love... was just an ordinary Umamusume who tended to blend into the background.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hm? ...Ah, forgive me, I didn't see you there...!\nLooks like everyone's here. All right, into the starting gates.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "N-No... It's not like that.\n...I... am...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As she squeezed out an apology and ran off...\nI chased after her on pure reflex—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hm? There should be seventeen runners on the sheet...\nWe're missing one. ...Is Number 5 not here?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I still had plenty of questions, but things were finally clicking into place.\nThe girl standing in front of me and the girl from last night... were indeed one and the same.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still in Love... a mysterious Umamusume who appeared out of the dusk.\nI relocated with her so we could talk in detail, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, no... ngh.\n...And so, um...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ngh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "We were definitely together up until the entrance, but...\nno matter where I looked, she was nowhere to be found.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That was... because \"she\"...—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I became so worried about you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "？？？",
       "text": "Yes...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Where did you go?... Still—",
+        "Where did you go?... Still—"
+      ]
     },
     {
-      "name": null,
-      "text": "...Excuse me! Forgive me...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Her slender, ephemeral silhouette stood out for a fleeting instant.\n—Bathed in the setting sun, red... crimson red.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa... What's with her...?\nThat's terrifying... Is she okay...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haa... haa...\nNo... Please... don't come out...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ngh...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The final mock race gathered especially capable contenders.\nEvery single girl had a bright, spirited look, brimming with hope and confidence—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Today's mock races were filled with fresh Umamusume\naiming to make their debut in the Twinkle Series.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still in Love cast her eyes down apologetically.\nLooking at her—feeling as though she might vanish the moment I looked away—I thought again—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah...\n...Or maybe, it would be better if...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even after returning to the dorms, I couldn't stop worrying... about how you were... if you were alright...\nI was so anxious, so worried, and so sorry... that I had to come see you first thing in the morning.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Still in Love",
       "text": "...Um, I'm right here.\nRight here...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Waaah?!"
+      ]
     },
     {
-      "name": null,
-      "text": "Fufufu, ahaha...!! Ahahaha, hahaha!!\nGive it to me, g-give it, giiiivvvvve it to meee!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "...I am terribly sorry.\nIt seems... I have a faint presence...",
+      "choice_data_list": [
+        "N-No, I should be sorry... for not noticing you.",
+        "N-No, I should be sorry... for not noticing you."
+      ]
     },
     {
-      "name": null,
-      "text": "My heart gave a heavy, sudden thud. A chill ran down my spine, and yet...\nI couldn't look away. Like the curtain of night falling, I was slowly being captivated—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Still in Love cast her eyes down apologetically.\nLooking at her, feeling as though she might vanish if I looked away, I wondered anew—"
     },
     {
-      "name": null,
-      "text": "Let me drink in... your power!!\n—Until the very last drop runs dryyyy!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Could she truly be the exact same horsegirl I saw last night?"
     },
     {
-      "name": null,
-      "text": "Suddenly, Still in Love, who had been trailing at the very back, exploded with speed\nand tore into the lead pack. Her bizarre movement, her sheer intensity—froze everyone in their tracks.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Though filled with doubt, I refrained from prying too deeply...\nFirst, I simply asked why she had been standing outside my room this morning."
     },
     {
-      "name": null,
-      "text": "Looks delicious.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "...I became so worried."
     },
     {
-      "name": null,
-      "text": "......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "Yesterday... I carried you, um... to your room.\nAfter that, I panicked... and I...",
+      "choice_data_list": [
+        "Left me there, you mean..."
+      ]
     },
     {
-      "name": null,
-      "text": "...I am terribly sorry.\nI seem to... have a very faint presence...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It seemed after I passed out, she carried me to my door...\nand I somehow crawled into the entryway on my own. Muscle memory, perhaps.",
+      "choice_data_list": [
+        "Still, how did you know which room was mine?",
+        "Still, how did you know which room was mine?"
+      ]
     },
     {
-      "name": null,
-      "text": "Once she blended into the crowd, she was nowhere to be seen—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "That's because... 'that girl' told me...—",
+      "choice_data_list": [
+        "...Hm?"
+      ]
     },
     {
-      "name": null,
-      "text": "Yet that madness vanished just as quickly. Still in Love\nwilted, rapidly decelerating... and crossed the finish line in dead last, 17th place.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "Ah, n-no...\n...So, um..."
     },
     {
-      "name": null,
-      "text": "Was she truly... the exact same Umamusume I saw last night?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "Even after returning to the dorm, wondering how you were... if you were unhurt...\nI was so anxious, so worried, and so remorseful... that I came first thing in the morning."
     },
     {
-      "name": null,
-      "text": "The mark on your neck? ...Yeah, looks like a simple bug bite.\nIt's that time of year, so be careful out there. Here, take some anti-itch cream.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "I am so, so sorry\nfor causing you so much trouble...!",
+      "choice_data_list": [
+        "No, if anything, thank you for carrying me home...!"
+      ]
     },
     {
-      "name": null,
-      "text": "One day, as the lingering haze of that night slowly faded,\nthe final mock race I had helped prepare was about to begin.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Though many questions lingered, it was finally sinking in.\nThe meek girl before me and the wild figure from last night... were indeed the same.",
+      "choice_data_list": [
+        "By the way, about last night..."
+      ]
     },
     {
-      "name": null,
-      "text": "And then—\"she\" appeared.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "...Ngh..."
     },
     {
-      "name": null,
-      "text": "At first, it was just a faint sense of dissonance. Still in Love's stride\nlacked vigor, looking awkward and stiff. Almost as if...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Still in Love",
+      "text": "...Please excuse me... I must go...!",
+      "choice_data_list": [
+        "Ah, wait—"
+      ]
     },
     {
-      "name": null,
-      "text": "Perhaps part of me wanted to forget those vivid crimson eyes.\nEven as she lingered in the back of my mind, the busy daily routine swept me along—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Once she blended into the crowd, she was nowhere to be found—"
     },
     {
-      "name": null,
-      "text": "Wondering about it all, yet hesitant to pry too deeply...\nI began by asking why she had been standing in front of my room this morning.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "School Nurse",
+      "text": "The mark on your neck? ...Yeah, looks like a simple bug bite.\nIt is that time of year, so be careful out there. Here's some anti-itch cream.",
+      "choice_data_list": [
+        "Ah,"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The mysterious mark on my neck was just an ordinary bug bite.\nAnd Still in Love... was just an ordinary horsegirl who happened to fade into the background.",
+      "choice_data_list": [
+        "(Was last night really just a bad dream...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps part of me wanted to forget those piercing crimson eyes.\nEven as she lingered in the back of my mind, buried under the rush of daily work—"
+    },
+    {
+      "name": "Narrator",
+      "text": "Little by little, the lingering afterglow of that night began to fade. Then came the day of the mock races I had helped prepare, just as the final heat was about to begin.",
+      "choice_data_list": [
+        "(The sun is really starting to sink...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Today's mock race brought together a field of fresh-faced Umamusume, all aiming to make their debut in the Twinkle Series.",
+      "choice_data_list": [
+        "(I'll keep a sharp eye out for someone to scout.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The final heat gathered the most promising contenders. Every single one had a bright, spirited expression, brimming with hope and confidence—"
+    },
+    {
+      "name": "Still in Love",
+      "text": "……。",
+      "choice_data_list": [
+        "(Ah...)"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Oh no, this won't do...\nEveryone looks so dreadfully strong... *gasp*..."
+    },
+    {
+      "name": "Instructor A",
+      "text": "Hm? There were supposed to be 17 runners, but...\nwe're missing one. ...Is Number 5 not here?"
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah...\n...Maybe it's better if I just..."
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed no one else had noticed her presence.\nSeeing her hesitate as if lacking the courage to step forward, I raised my hand in her place.",
+      "choice_data_list": [
+        "Number 5 is ready too! Right over here!"
+      ]
+    },
+    {
+      "name": "Instructor A",
+      "text": "Hm? ...Ah, apologies, I didn't see you there...!\nAlright, everyone's here. Load into your gates!"
+    },
+    {
+      "name": "Still in Love",
+      "text": "...It's... starting...\nI can... let loose, right...?",
+      "choice_data_list": [
+        "(Wait, what...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For a split second, her frail silhouette stood out with razor-sharp intensity.\n—Bathed in the sunset, glowing red... crimson."
+    },
+    {
+      "name": "Narrator",
+      "text": "And then—*she* emerged."
+    },
+    {
+      "name": "Narrator",
+      "text": "At first, it was just a subtle sense of discord. Still in Love's running was sluggish, oddly stiff. As if...",
+      "choice_data_list": [
+        "(As if she's holding something back—)"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "*pant*... *pant*...\nNo... stop... don't come out...!"
+    },
+    {
+      "name": "Still in Love",
+      "text": "No... please...! Stay... back...!\nEveryone is so strong... giving it their all... running with everything they have—"
+    },
+    {
+      "name": "Still in Love",
+      "text": "They look delicious.",
+      "choice_data_list": [
+        "……！！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "My heart thumps violently against my ribs. A cold shiver races down my spine, yet... I can't look away. Like the falling of night's shroud, her presence slowly overtakes everything—",
+      "choice_data_list": [
+        "(It's her. The phantom from that night...)"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Fufufu...!! Ahahaha, hahahaha!!\nGive it to me, give it to me, GIVE IT TO MEEE!!"
+    },
+    {
+      "name": "Narrator",
+      "text": "A complete turnaround. Trailing dead last only moments ago, Still in Love suddenly bursts into a blinding sprint, pouncing toward the lead pack. Her aberrant movements and sheer savagery freeze everyone in their tracks."
+    },
+    {
+      "name": "Still in Love",
+      "text": "Let me drink in your power!!\n—UNTIL EVERY LAST DROP OF BLOOD RUNS DRY!!!!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Yet, that madness vanished in the blink of an eye. Still in Love withered, losing all speed... and crossed the finish line dead last, in 17th place."
+    },
+    {
+      "name": "Narrator",
+      "text": "...The entire atmosphere shifted completely before and after the race.\nHope gave way to terror. And every pair of eyes was glued to Still in Love."
+    },
+    {
+      "name": "Horsegirl A",
+      "text": "Whoa... what was that...?\nThat was way too creepy... Is she okay...?"
+    },
+    {
+      "name": "Trainer A",
+      "text": "Did you see that just now...?\n...Man, that gave me serious goosebumps..."
+    },
+    {
+      "name": "Still in Love",
+      "text": "*gasp*..."
+    },
+    {
+      "name": "Still in Love",
+      "text": "N-No... you're wrong.\n...I didn't..."
+    },
+    {
+      "name": "Still in Love",
+      "text": "...I'm... I'm so sorr...\n—I'm so sorry...!!"
+    },
+    {
+      "name": "Narrator",
+      "text": "Squeezing out an apology, she took off running...\nand I bolted after her on pure instinct—"
     }
   ],
   "no_wrap": true

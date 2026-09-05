@@ -1,425 +1,251 @@
 {
-  "title": "",
+  "title": "You Are Happiness",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★ Request\nFade to light / After fade to light",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The day of the Exhibition Meet finally arrived—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Glass cracking and creaking\n---\n★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miracle's Mother",
+      "text": "Thank you for making time to see us, Trainer.\nWe just had to greet you in person before the race..."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to light / After fade to light",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miracle's Father",
+      "text": "We heard you've been overseeing our daughter's training. She kept telling us\nhow wonderful she's been feeling thanks to you... Truly, thank you so much.",
+      "choice_data_list": [
+        "Oh, please! I really didn't do anything that special...!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Roaring cheer + applause",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Attending Physician",
+      "text": "There's no need for modesty. As you know, there are many concerns regarding her running.\nThank you for supporting both her body and her spirit.",
+      "choice_data_list": [
+        "No... honestly, it wasn't much at all..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Spurt / Kick into high gear\n---\n★ Request\nAfter fade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Feeling utterly humbled, I bowed repeatedly. To someone like me who was practically\nabandoning their role today, such sincere gratitude stung."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to light / After fade to light\n---\n★ Request\nDisplay K.S. Miracle (Gym Uniform)\n* Shorts: \"Yellow\", Bib: \"No. 5\", Bib Text: \"Tracen Academy\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Just then, an announcement echoed through the air calling the runners together—"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to light / After fade to light\n---\n★ Request\nDisplay K.S. Miracle (Gym Uniform)\n* Shorts: \"Yellow\", Bib: \"No. 5\", Bib Text: \"Tracen Academy\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Looks like it's almost time. Well, Father, Mother, Doctor.\nAnd Trainer... I should get going."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSFX: Spray",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miracle's Mother",
+      "text": "Ah, Kei-chan, wait!\nUm... please be careful out there."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay K.S. Miracle (Gym Uniform)\n* Shorts Color / Bib: \"Unspecified\", Bib Text: \"Tracen Academy\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miracle's Father",
+      "text": "Don't push yourself too hard, all right?!\nJust crossing that finish line safe and sound is more than enough—"
     },
     {
-      "name": null,
-      "text": "She may very well endanger herself. That danger will surely remain.\nEven so—if her happiness lies along this path...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "I'll be okay!\n...I'll be fine, Mother, Father."
     },
     {
-      "name": null,
-      "text": "*HAHH, HAHH, HAHH, HAHH...!!*",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Everyone here at Tracen Academy is incredible.\nI know today's race won't be an easy one."
     },
     {
-      "name": null,
-      "text": "Because I have a run I can be proud of,\nthat Trainer and I polished together up until today!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Even so, I will win. I'll prove it to you.\n—Because I am the fastest of all."
     },
     {
-      "name": null,
-      "text": "Dad, Mom! Doctor!\nI could win... I won! Ahaha... I did it!! I took 1st place!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "After all, I have these legs that Mother, Father,\nand the Doctor gave me... legs I'm so proud of."
     },
     {
-      "name": null,
-      "text": "Everyone, please watch.\nTrainer, please watch me as well.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "And besides—"
     },
     {
-      "name": null,
-      "text": "I was the fastest of them all——!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "I have the running form that my trainer polished together with me,\nand that's something I'm proud of too!",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
-      "name": null,
-      "text": "I... did it............\nYes, ...yes...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Everyone, watch me.\nTrainer, please watch over me too."
     },
     {
-      "name": null,
-      "text": "You don't need to push yourself at all, you hear me?!\nAs long as you cross the finish line safely, that's all we—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "I will win. I swear it."
     },
     {
-      "name": null,
-      "text": "I'm okay!\n...I'll be just fine, Mom, Dad.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(Because that's the greatest way...\nI can ever say \"thank you\" to everyone.)"
     },
     {
-      "name": null,
-      "text": "Looking at her shedding tears of pure clarity, a single thought fills my mind.\nUnreservedly, unmistakably—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And so, the Exhibition Meet 1200m Turf Race began.\nThe blitz of a sprint reached its final stretch in the blink of an eye—"
     },
     {
-      "name": null,
-      "text": "And then came the event meet's 1200m Turf race.\nThe lightning-fast sprint swiftly entered its final stretch—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Fhh—...!!"
     },
     {
-      "name": null,
-      "text": "I hear you looked after our daughter during training. Thanks to you,\nshe often told us she was in top shape... Thank you very much.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "And here comes K.S. Miracle! K.S. Miracle is making her move!\nK.S. Miracle unleashes a massive burst of speed! Will she take the lead right here?!"
     },
     {
-      "name": null,
-      "text": "Here comes K.S. Miracle! K.S. Miracle is making her move!\nK.S. Miracle unleashes a burst of speed! Will she take the lead as is?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Hah, hah, hah, hah...!!"
     },
     {
-      "name": null,
-      "text": "(Not yet! Don't let up yet! Not yet... More——!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(Not yet! Don't let up yet! Not yet... further—!!)"
     },
     {
-      "name": null,
-      "text": "I'm sorry... that feels a lot better now.\nI've been a burden to you all the way to the end, haven't I?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "――――"
     },
     {
-      "name": null,
-      "text": "The girls at Tracen Academy are all amazing.\nI know today's race won't be an easy walk in the park.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Kh,... AAAAAAAAGH!!"
     },
     {
-      "name": null,
-      "text": "Yet, enveloped in cheers fittingly described as a roar,\nthe very first thing her eyes caught was—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "(Don't let up! Faster! Faster! Even faster!\nKeep pushing! Go—FASTER!!!!)"
     },
     {
-      "name": null,
-      "text": "\"This girl is living for this very purpose.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "K.S. Miracle takes the lead! K.S. Miracle in front!\nWith 200 meters to go, she has broken away completely!! Out in front is K.S. Miracle!!"
     },
     {
-      "name": null,
-      "text": "Without a word, I have her sit down and spray her likely feverish legs\nwith the cooling spray I had prepared.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "—And she crosses the finish line!! W-What a terrifyingly dominant run by K.S. Miracle!\nA staggering nine lengths over second place! First place belongs to K.S. Miracle!!"
     },
     {
-      "name": null,
-      "text": "It is dangerous, after all. In the race just now, she never slowed her pace\nuntil the very, very end. ...Completely ignoring the toll on her own body.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A thunderous roar of cheers and applause erupted,\ncelebrating K.S. Miracle's astonishingly powerful run."
     },
     {
-      "name": null,
-      "text": "Just then, an announcement called the racers to assemble—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "I did... it......\nYes,... yes...!!"
     },
     {
-      "name": null,
-      "text": "Ah, Kei-chan, wait!\nUm... please be careful out there, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Yet, even while surrounded by what could only be described as a wall of sound,\nthe very first sight she sought out with her own eyes was—"
     },
     {
-      "name": null,
-      "text": "Eh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Father, Mother! Doctor!\nI won... I won! Ahaha... I did it!! First place!!"
     },
     {
-      "name": null,
-      "text": "Besides—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "I was the fastest... of everyone—!!",
+      "choice_data_list": [
+        "Miracle—"
+      ]
     },
     {
-      "name": null,
-      "text": "Ah, I'm sorry. I'm just so happy...!\n...I wonder if I got through to them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Trainer! Um, thank you so much...\nTruly, thank you!!"
     },
     {
-      "name": null,
-      "text": "K.S. Miracle in the lead! K.S. Miracle in the lead!\nWith 200m remaining, she breaks away completely!! In front is K.S. Miracle!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Look. Everyone is... smiling.\nI made everyone happy. ...I—!"
     },
     {
-      "name": null,
-      "text": "(Don't slow down! Faster! Faster! Even faster!\nDo it! Even—fasterrrrr!!!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Ah, I'm sorry. I'm just so happy...!\n...Do you think it reached them?"
     },
     {
-      "name": null,
-      "text": "I will win. Without fail.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "That I'm okay... and how thankful I am.\nDid my feelings... reach them...?",
+      "choice_data_list": [
+        "(...Yeah.)"
+      ]
     },
     {
-      "name": null,
-      "text": "Because I have the legs I'm proud of,\ngiven to me by Mom, Dad, the doctor... and everyone.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Looking at her as perfectly clear tears spilled down her cheeks, a thought took hold.\nPurely, undeniably—"
     },
     {
-      "name": null,
-      "text": "Look. Everyone... is smiling.\nI made everyone happy. ...I—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "\"This girl is alive for this very purpose.\"",
+      "choice_data_list": [
+        "(I mean... look at how happy she is.)"
+      ]
     },
     {
-      "name": null,
-      "text": "...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She looked happier than in any moment before. Radiant and brilliantly alive.\nShowing proud results to those who saved her, wearing a smile from the bottom of her heart."
     },
     {
-      "name": null,
-      "text": "I guess it's about time. Well then, Dad, Mom, Doctor.\nTrainer, too... I'm heading out now.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And that is why—"
     },
     {
-      "name": null,
-      "text": "\"I'm okay\"... \"Thank you.\"\nI wonder... if my feelings reached them...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Ah, oh no... I got way too carried away.\nI need to head back—",
+      "choice_data_list": [
+        "Before that, sit down for a second."
+      ]
     },
     {
-      "name": null,
-      "text": "They bowed their heads repeatedly in deep humility. To someone who had planned\nto cast aside their role today, their straightforward gratitude stung painfully.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Huh?",
+      "choice_data_list": [
+        "You pushed yourself too hard just now, didn't you?",
+        "You pushed yourself too hard just now, didn't you?"
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer! Um, truly...\nTruly, !!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Without giving room for argument, I had her sit down on the spot and sprayed\nher legs—which had to be running hot—with the cooling spray I'd prepared."
     },
     {
-      "name": null,
-      "text": "Still, I'm going to win. I'll show them.\n—After all, I am the fastest.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was still walking on thin ice. In that race, she never eased up on her speed\nuntil the very last second. ...Completely disregarding the toll on her body.",
+      "choice_data_list": [
+        "(Even so... I want to...)",
+        "(Even so...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Please, no need to be modest. As you know, she is a girl with many concerns when it comes to running.\nThank you so much for supporting her both physically and emotionally.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "Thank you, ...that feels so much better.\nIt seems I ended up relying on you right to the very end.",
+      "choice_data_list": [
+        "No. ...What if today isn't the end?",
+        "No. ...What if today doesn't have to be the end?"
+      ]
     },
     {
-      "name": null,
-      "text": "That's why—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "……？"
     },
     {
-      "name": null,
-      "text": "——!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The danger of her pushing herself past her limits will always be there. In the future too.\nEven so—if that is where her true happiness lies,"
     },
     {
-      "name": null,
-      "text": "And finally, the day of the event meet arrived—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "if I can make her smile like that once again,",
+      "choice_data_list": [
+        "I want to keep running with you.",
+        "I want to keep running with you."
+      ]
     },
     {
-      "name": null,
-      "text": "Ngh, ...AAAAAAAGHHHHH!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "With me...?\nTrainer, do you mean—",
+      "choice_data_list": [
+        "I want to become your official trainer.",
+        "I want to become your official trainer."
+      ]
     },
     {
-      "name": null,
-      "text": "――――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm sorry to take up your time, Trainer.\nI just really wanted to say hello to you...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A roar of cheers and applause erupted,\npraising K.S. Miracle for her tremendous, breathtaking run.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If only I could make her smile like that once more.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "With me...?\nTrainer, does that mean—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Because that's the greatest form of \"thank you\"\nthat I can possibly convey.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—She crosses the line!! Wh-What a terrifying run by K.S. Miracle!\nA staggering 9-length margin over 2nd place! Taking 1st place is K.S. Miracle!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew—...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, oh dear... I got way too carried away.\nI have to get back—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She looked happier than in any other moment. Radiant and bursting with life.\nPresenting a proud achievement to her benefactors, she wore a smile from the bottom of her heart.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "K.S. Miracle",
+      "text": "――！！"
     }
   ],
   "no_wrap": true

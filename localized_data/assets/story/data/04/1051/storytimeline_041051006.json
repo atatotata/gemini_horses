@@ -1,481 +1,234 @@
 {
-  "title": "",
+  "title": "Moisture for the Soil",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■Stage Directions\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Trainer, thank you for your hard work.\nUm, thank you so much for today as well...!",
+      "choice_data_list": [
+        "Great work today!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start of line 2\n---\n★ Request\nTime passes\n---\n★ Request\nDisplay Nishino Flower\r\nOutfit: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Today's training wrapped up before noon.\nJust as I was thinking about taking it easy in the afternoon for the first time in a while—"
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passes\n---\n★ Request\nDisplay Nishino Flower\r\nOutfit: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "It's already... lunchtime, isn't it?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Um... I got the wrong idea.\nI'm so, so sorry...!",
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed\n---\n★ Request\nDisplay Nishino Flower\r\nOutfit: Gym Clothes (Bib text should be character name)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "I'll be more careful from now on...!\nSo, um... please take care of me tomorrow too!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I had intended to give her money for yesterday's lunch, but...\nbefore I could even speak, she had already run off."
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Nishino Flower\r\nOutfit Specification: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "What did she mean by getting the wrong idea? Without a chance to ask,\nI could only watch Nishino Flower's retreating figure."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Whispering",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—That afternoon. While walking near the station,\nI ran into Nishino Flower, who was out shopping.",
+      "choice_data_list": [
+        "Fancy meeting you here.",
+        "Fancy meeting you here."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nReferring to the boxed lunch. Explained in Episode 3.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Y-Yes! Um, are you out shopping too, Trainer...?\nI came to buy some training shoes."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "My parents said it was time for me to get a new pair,\nso they sent more allowance than usual..."
     },
     {
-      "name": null,
-      "text": "★ Request\nNishino Flower runs off and fades out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "...It's been like this even before I entered Tracen Academy.\nThey've always given me so much support with my training..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "...! Mom, Dad!\nI... want to run more! I want to run in lots of races!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Flower's Mother",
+      "text": "! Of course! We'll support you with everything we've got!\nFirst, shoes! We need to buy you good ones! And then..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed\n---\n★ Request\nDisplay Nishino Flower, Display Seiun Sky\r\nOutfit Specification: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Flower's Father",
+      "text": "Let's find a place to train! Somewhere you can run to your heart's content!\nWe might as well buy a large plot of land and set up proper facilities...!"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Nishino Flower\r\nOutfit: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "They prepared so many things I needed for running.\nSo much that I wondered if it was okay to receive all this...",
+      "choice_data_list": [
+        "You have wonderful parents.",
+        "You have wonderful parents."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*No recording needed",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Yes! They're so kind... I'm so proud of my mom and dad!"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Nishino Flower\r\nOutfit: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "But... whenever I buy things myself, I always struggle to decide.\nI have to use the money carefully, and make sure I pick the right one.",
+      "choice_data_list": [
+        "Want me to come along and help?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Nishino Flower\r\nOutfit: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Huh? But aren't you in the middle of shopping, Trainer?\nI'd feel bad... taking up your time just for me...",
+      "choice_data_list": [
+        "I was just out for a walk."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nNishino Flower runs off and fades out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "...Really? In that case... um, okay!\nI'll make sure not to take up too much of your time!"
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Nishino Flower\r\nOutfit: Casual Clothes",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Hmm... Rather than standard training shoes,\nweighted ones that add resistance would... but..."
     },
     {
-      "name": null,
-      "text": "No! But... teehee. You're already working\r\nso, so hard for me, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "(For my training, ones with added resistance seem better, but...)"
     },
     {
-      "name": null,
-      "text": "Ah... Y-You're right!\r\nI'm so sorry for taking up so much time with this...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Infirmary Doctor",
+      "text": "—I think you'll need to focus on rehabilitation for a while.\nI'll call a car, so let's go to the hospital just to be safe."
     },
     {
-      "name": null,
-      "text": "Trainer!\r\nI've decided to go with the regular training shoes!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Infirmary Doctor",
+      "text": "Even though your second growth spurt has started, your body is still maturing.\nIf you push yourself too hard, the toll will show immediately. ...You understand, right?"
     },
     {
-      "name": null,
-      "text": "She probably feels the same way toward me, her Trainer.\r\n—Still, things can't go on like this.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "...Yes."
     },
     {
-      "name": null,
-      "text": "With that, Nishino Flower headed toward the register.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "School Nurse",
+      "text": "Good girl. Don't worry. As long as you properly rehab,\nyou'll be able to train again. For now, take it easy, okay?"
     },
     {
-      "name": null,
-      "text": "Looking at Nishino Flower's bright smile, I reaffirmed my vow.\r\nI'll do everything I can to keep that smile from ever fading.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "(If something like that happens again...)"
     },
     {
-      "name": null,
-      "text": "Huh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "(I can't let that happen! It would worry Mom and Dad,\nand cause so much trouble for Trainer, too...!)",
+      "choice_data_list": [
+        "There are other ways to add load to your training."
+      ]
     },
     {
-      "name": null,
-      "text": "I won't let your advice go to waste!\r\nI'll give it my all again starting tomorrow!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Huh?"
     },
     {
-      "name": null,
-      "text": "What kind of misunderstanding did she mean? Without getting a\r\nchance to ask, I watched Nishino Flower hurry away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "You don't need to add extra weight throughout the whole session.\nThere are plenty of methods, like using heavier horseshoes when needed."
     },
     {
-      "name": null,
-      "text": "Yes! They're so kind... I'm so proud of my mom and dad!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It's best to adjust according to the situation.\nAfter I offer this gentle advice—"
     },
     {
-      "name": null,
-      "text": "Thank you for your hard work, Trainer!\r\nUm, thank you so much for today as well...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Oh... Y-You're right!\nI'm so sorry for taking up your time with something like this...",
+      "choice_data_list": [
+        "You don't need to apologize—"
+      ]
     },
     {
-      "name": null,
-      "text": "I had planned to pay her back for yesterday's lunch, but...\r\nbefore I could even call out to her, she had already dashed off.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "No, you took time out of your day to come with me,\nand here I was, worrying all by myself..."
     },
     {
-      "name": null,
-      "text": "(For training purposes, ones with more resistance would be better, but...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Um, Trainer!\nI'll go with the regular training shoes!"
     },
     {
-      "name": null,
-      "text": "Um... I got the wrong idea entirely.\r\nI am so, so sorry...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "I won't let your advice go to waste!\nI'll do my very best again starting tomorrow!"
     },
     {
-      "name": null,
-      "text": "There's a good girl. It's okay. Once you finish rehab,\r\nyou'll be able to train again. Just take it easy for now, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With that, Nishino Flower heads to the register."
     },
     {
-      "name": null,
-      "text": "Y-Yes! Um, are you doing some shopping too, Trainer...?\r\nI came to buy some new training shoes!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I only meant to offer a casual tip,\nbut perhaps she took it too heavily."
     },
     {
-      "name": null,
-      "text": "Huh? But aren't you in the middle of shopping too, Trainer?\r\nI'd hate to... um, take up your precious time...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "It's already gotten so late, hasn't it?\n...I'm so sorry for dragging you around today."
     },
     {
-      "name": null,
-      "text": "I gave her some brief advice, suggesting it would be better\r\nto adapt as needed based on the situation, and then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "When I get back, I'll prep them so I can wear them first thing tomorrow!\nAnd I'll switch back to my usual horseshoes, to make sure—"
     },
     {
-      "name": null,
-      "text": "Today's training wrapped up before noon.\r\nJust as I was thinking about taking it easy for the rest of the day—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...It's definitely not my imagination; something is off.\nShe seems overly cautious about not making me worry."
     },
     {
-      "name": null,
-      "text": "I'll make sure to work extra hard too,\r\nso I don't fall behind all your hard work, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Nishino Flower is deeply considerate. She is always mindful of others,\ntreading carefully so as not to become a bother or a burden."
     },
     {
-      "name": null,
-      "text": "Th-That startled me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And she's treating me, her Trainer, the exact same way.\n—But things can't go on like this.",
+      "choice_data_list": [
+        "(I want her to open up to me more...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "I don't mind carrying whatever burden she has. If she's troubled,\r\nI want her to open up without hesitation. After all, I'm her Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She can burden me as much as she needs. If something is bothering her,\nI want her to confide in me without holding back. That's what a Trainer is for."
     },
     {
-      "name": null,
-      "text": "...Yes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Trainer? Um... is something wrong...?",
+      "choice_data_list": [
+        "I'm going to do my best too!!",
+        "I'm going to do my best too!!"
+      ]
     },
     {
-      "name": null,
-      "text": "Even though your second growth spurt has started, your body is still developing.\r\nIf you overdo it, the toll will show right away. ...You understand, don't you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Huh?! O-Oh, yes!"
     },
     {
-      "name": null,
-      "text": "Huh?! Ah, yes!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "Y-You startled me...",
+      "choice_data_list": [
+        "Ah, sorry about that..."
+      ]
     },
     {
-      "name": null,
-      "text": "I'll be more careful from now on...!\r\nSo, um... please take good care of me tomorrow too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "No, it's okay! But... ehehe. Trainer,\nyou're already working so, so hard for my sake."
     },
     {
-      "name": null,
-      "text": "But... whenever I shop for myself, I always end up hesitating.\r\nI need to spend money wisely, so I have to choose carefully.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Nishino Flower",
+      "text": "I'll do my very best too,\nso I don't fall behind all your hard work!"
     },
     {
-      "name": null,
-      "text": "...Really? Then... um, okay!\r\nI promise I won't take up too much of your time!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No, it's just that you were kind enough to come with me,\r\nand here I am, worrying all by myself...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Of course! We'll support you with everything we've got!\r\nFirst, shoes! We have to get you the best pair! And after that...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...They've been like that since before I entered Tracen Academy.\r\nAlways doing so much to support my training...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Once I get back, I'll get them ready so I can wear them tomorrow!\r\nAnd I'll make sure to use my usual horseshoes, too—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Dad and Mom told me it was time to buy a new pair,\r\nso they sent me a bit more allowance than usual...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It wasn't anything groundbreaking, just some simple advice,\r\nbut perhaps she took it too seriously.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...It's definitely not my imagination that something feels off.\r\nIt seems like she's going out of her way not to make me worry.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(I can't let that happen again. It'd worry Mom and Dad,\r\nand cause so much trouble for Trainer too...!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "There's no need to put extra strain on herself all the time during training.\r\nThere are plenty of other methods, like using heavier horseshoes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It's already noon... isn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's find a place to train! Somewhere she can run to her heart's content!\r\nWhy not just buy a huge plot of land and build all the facilities...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(If something like that happens again...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Nishino Flower is deeply considerate. She constantly thinks about\r\nthose around her, taking care not to become a bother or a burden.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "They prepared so many things I needed for running.\r\nAlmost so much that I wondered if it was okay to receive it all...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—For the time being, you'll need to focus on rehabilitation.\r\nI'll call a car, so let's head to the hospital just to be safe.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Mom, Dad!\r\nI... I want to run more! I want to run in lots of races!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer? Um, excuse me...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It's already evening, isn't it?\r\n...I'm sorry for making you stay with me all day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hrmmm... Rather than regular training shoes,\r\nones that add more resistance might be better... but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—That afternoon. While walking near the station,\r\nI ran into Nishino Flower, who was out shopping.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Seeing the smile Nishino Flower turns toward me, I vow to myself once more:\nI'll do whatever it takes to keep that smile from fading."
     }
   ],
   "no_wrap": true

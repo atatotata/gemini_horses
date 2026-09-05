@@ -1,320 +1,172 @@
 {
-  "title": "",
+  "title": "Toward the Path Ahead",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\nPause briefly before the start of the second line",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "One summer day. I had scheduled a meeting with Ikuno Dictus.\nMy previous meeting ran over, and when I arrived late at the Trainer's office—",
+      "choice_data_list": [
+        "Sorry to keep you waiting!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\n分水嶺＝watershed / turning point",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Not at all, please do not worry.\nThanks to the wait, I had sufficient time to plan my day off.",
+      "choice_data_list": [
+        "Is that... a cycling magazine?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Yes, I was considering going on a long-distance ride for the first time in a while.\nI have just settled on a destination."
     },
     {
-      "name": null,
-      "text": "■ Direction\nSE: Ringtone",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "The tagline reads, 'An observation deck every cyclist must visit at least once.'\nApparently, the townscape on a clear day is truly magnificent."
     },
     {
-      "name": null,
-      "text": "■ Direction\n疎か＝neglect",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I have already analyzed the mountain pass gradients, so only tuning remains.\nAfter several test runs on nearby slopes—"
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence before the start of line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...Ah, but I have digressed far too much. My apologies.\nShall we move on to the main agenda?"
     },
     {
-      "name": null,
-      "text": "■ Direction\n謳い＝claim/promote\n---\n★ Request\nFade in from black / After fade in\n---\n★ Request\nDo not show character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The topic of our meeting was improving her lap times.\nWe had already determined our target time for the autumn race. All that remained was mapping the path to get there, but—"
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Ikuno Dictus (Summer Tracksuit)\nNo notebook",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "—Hmm. With our current routine, we have reached the limit.\nIn that case... refining my form seems to be the most prudent course of action."
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start\n---\n★ Request\nFade in from black / After fade in\n---\n★ Request\nShow Ikuno Dictus (Summer Uniform)\n---\n★ Request\nPlease put away the magazine (prop1003_01).",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I agreed with her assessment. However, should the adjustment fail, it would jeopardize her autumn race.\nI explained that if we were to commit, right now was the only viable window."
     },
     {
-      "name": null,
-      "text": "★ Request\nMoving wipe\n---\n★ Request\nShow Ikuno Dictus (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Indeed, this is a critical turning point...\nAnd it is a fact that other approaches currently lack a decisive edge."
     },
     {
-      "name": null,
-      "text": "★ Request\nShow Ikuno Dictus (Summer Tracksuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "The conclusion is clear.\nLet us proceed with refining my running form.",
+      "choice_data_list": [
+        "Right, let's give it our all together.",
+        "Yeah, let's work hard together."
+      ]
     },
     {
-      "name": null,
-      "text": "Yes!\n...HAAAAAAAAAAAAAAAH!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "(If the deadline is autumn, we have no time to spare.\nI will begin gathering reference materials on form tonight—)"
     },
     {
-      "name": null,
-      "text": "—Hmm. With our current routine, this is the limit.\nIn which case... improving my form would indeed be the optimal course of action.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Oh, a call from the General Affairs Committee Head?\nYes... Understood. We are replacing the supplies for the summer training camp...? I see."
     },
     {
-      "name": null,
-      "text": "Indeed, this is our turning point...\nAnd at present, other methods lack a decisive edge.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Understood, please leave the inventory check and matching to me.\nChairperson, please proceed with assigning the remaining tasks."
     },
     {
-      "name": null,
-      "text": "Ikuno Dictus's eyes told the story.\nThese words came straight from her heart. I had no means... to overturn them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Following the standard routine will overlap with our training camp days.\nRedrawing the entire schedule is imperative, which means—"
     },
     {
-      "name": null,
-      "text": ".\n...Is something the matter?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Very well. A prime opportunity to demonstrate my efficiency."
     },
     {
-      "name": null,
-      "text": "One summer day. I had arranged a meeting with Ikuno Dictus.\nMy previous meeting ran late, and as I entered the Trainer's office—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The very next day, our efforts to shave down her lap times began.\nFirst, we started by reviewing her current form.",
+      "choice_data_list": [
+        "Keep it up, stay mindful all the way through your fingertips!"
+      ]
     },
     {
-      "name": null,
-      "text": "The notebook slipped from Ikuno Dictus's hands.\nIt slid right over to my feet, and as I picked it up—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Understood!\n...HaaAAAAAAAAAH!!"
     },
     {
-      "name": null,
-      "text": ", I take pride in having chosen the optimal approach.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "—That concludes today's review session.\nWere there any other points of concern?",
+      "choice_data_list": [
+        "We can check the rest after analyzing the recorded footage.",
+        "Let's analyze the recorded footage before deciding on the rest."
+      ]
     },
     {
-      "name": null,
-      "text": "Yes, I am planning to go on a long ride for the first time in a while.\nI have just decided on my destination.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Understood.\nThen, allow me to confirm tomorrow's schedule———"
     },
     {
-      "name": null,
-      "text": "I have mapped out the mountain pass gradient, leaving only the tuning.\nAfter making a few test runs up nearby slopes—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "—Ah."
     },
     {
-      "name": null,
-      "text": "Understood, please leave the inventory check and stock reconciliation to me.\nChairwoman, please continue delegating tasks.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The planner slipped from Ikuno Dictus's hands.\nIt slid right to my feet, so I picked it up—",
+      "choice_data_list": [
+        "Here you go... Hm?"
+      ]
     },
     {
-      "name": null,
-      "text": "Yes. Thank you for your understanding.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Unintentionally, an open page caught my eye.\nA plan written there had been crossed out with a strikethrough..."
     },
     {
-      "name": null,
-      "text": "Hmm... Trainer.\nNow is the time to pour all our efforts into what must be done.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Thank you.\n...Is something the matter?",
+      "choice_data_list": [
+        "Can you no longer go on your long ride?",
+        "Are you not able to go on that long ride anymore?"
+      ]
     },
     {
-      "name": null,
-      "text": "I agreed. But if we failed, her autumn race would be in jeopardy.\nI explained that if we were to tackle this, now was the only window of opportunity.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Ah, that.\nGeneral Affairs Committee duties have become considerably more demanding than in previous years."
     },
     {
-      "name": null,
-      "text": "The road to the goal we set is steep,\nand my duties on the General Affairs Committee must not be neglected either.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "However, there is no need for concern.\nI have restructured my schedule to balance it with training.",
+      "choice_data_list": [
+        "But sacrificing your personal time like that..."
+      ]
     },
     {
-      "name": null,
-      "text": "However, please do not worry.\nI have revised my schedule so that I can balance it with training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Hmm... Trainer.\nRight now is the time to devote all available resources to what must be done."
     },
     {
-      "name": null,
-      "text": "We have our answer.\nLet us proceed with improving my form.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "That objective is not a leisurely long ride.\nLosing sight of that would lead us off our true path."
     },
     {
-      "name": null,
-      "text": "Very well. This is our chance to show what we can do.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "The road to our stated goal is steep,\nand my duties on the committee must not be neglected either."
     },
     {
-      "name": null,
-      "text": "Understood.\nThen let us review tomorrow's schedule——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Therefore, I am confident I have selected the optimal approach."
     },
     {
-      "name": null,
-      "text": "...The long ride will have to wait for another opportunity.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Ikuno Dictus's eyes spoke volumes.\nThese words came from absolute conviction. I had no way... to overturn them.",
+      "choice_data_list": [
+        "...I understand. Just don't push yourself too hard."
+      ]
     },
     {
-      "name": null,
-      "text": "Ah, you mean that?\nGeneral Affairs Committee duties have been more hectic than in past years.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Yes. Thank you for your understanding."
     },
     {
-      "name": null,
-      "text": "That would not be a long ride.\nLosing sight of that would lead me to stray from the true path.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...The long ride can wait for another opportunity."
     },
     {
-      "name": null,
-      "text": "No, please do not worry about it.\nThanks to that, I had the leeway to plan out my day off.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Proceeding as we usually do would overlap with the training camp.\nA complete overhaul of the schedule is essential, so—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Its slogan is 'An observation deck every cyclist should visit at least once.'\nI hear the view of the town on a clear day is truly magnificent.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Oops, I have digressed too much. My apologies.\nShall we get down to business?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Our efforts to cut down her time began the following day.\nFirst, by checking her current form.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Ah.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even though I understood, the joyful expression she had while talking about\nher long ride remained stuck in my head for quite some time...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Not on purpose, but the open page caught my eye by chance.\nThere, crossed out, was a scheduled plan...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(With autumn as our deadline, there is no time to spare.\nStarting tonight, I must gather reference materials on form—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The meeting's topic was cutting down her race times.\nWe had set the target clock time to hit before autumn. All that remained was the process, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—That concludes today's review.\nWere there any other points of concern?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, from the General Affairs Chairwoman?\nYes... I see. Replacing the summer camp supplies... Understood.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even as I understood her reasoning, the joyful expression she made\nwhen talking about that ride lingered in my mind for a long time..."
     }
   ],
   "no_wrap": true

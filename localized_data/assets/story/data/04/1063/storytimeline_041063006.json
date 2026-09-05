@@ -1,460 +1,259 @@
 {
-  "title": "",
+  "title": "Catching Your Breath",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\n昂ぶり＝surge/excitement",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Haa, haa... haa, haa...!\nWhat was my time?",
+      "choice_data_list": [
+        "Unfortunately, it hasn't improved as much as we hoped...",
+        "Unfortunately, it didn't drop as much as we'd hoped..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "As expected... a more fundamental measure is required.\nFirst, let us analyze my form. The footage, please."
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric wipe\n---\n★ Request\nShow Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "My arms are pinned too tightly to my sides.\nI have been conscious of it, but... hmm."
     },
     {
-      "name": null,
-      "text": "■ Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Being too conscious of it might be the problem.\nIt looks like overexertion is disrupting your form.",
+      "choice_data_list": [
+        "(...She needs to take a breather.)",
+        "(...She really needs a break.)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I arrived in casual clothes as requested, but... are we training here?",
+      "choice_data_list": [
+        "I put together a special training regimen.",
+        "I put together a special menu for today."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That was just an excuse. I simply wanted her to unwind and refresh.\nTo prevent her from overthinking it, I decided to keep my true intentions to myself."
     },
     {
-      "name": null,
-      "text": "★Request\nFade to white → Fade in from white\n---\n★Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "A special regimen that can be conducted here?\nHmm—"
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for about the first 2 seconds",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "............No, I shall understand soon enough.\nShall we proceed?"
     },
     {
-      "name": null,
-      "text": "■Direction\n*This line belongs to the present-day Ikuno Dictus",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "A clothing store... What are we expected to do here?",
+      "choice_data_list": [
+        "Um, what kind of outfits do you usually like?",
+        "Um, do you have a preferred clothing style?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric wipe\n---\n★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Let me see... I generally prefer pants.\nClothing that restricts movement does not suit my temperament.",
+      "choice_data_list": [
+        "Why don't we look around and see if there's anything nice?",
+        "Want to look around for something good?"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nDerailleur = Gear changer",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...I see.\nIn that case, allow me to accompany you."
     },
     {
-      "name": null,
-      "text": "★Request\nFade to white → Fade in from white\n---\n★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "The summer seasonal items are quite eye-catching.\nThough I am currently on a caloric limit, this is rather tempting...",
+      "choice_data_list": [
+        "Why don't we just have a free sample?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nPan wipe\n---\n★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Please give me a moment to calculate."
     },
     {
-      "name": null,
-      "text": "■Direction\nShe is bewildered",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Calories consumed this morning... and my weekly allowance is—\nCalculations complete. I will partake in the warabimochi."
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Little by little, the tension in Ikuno Dictus's shoulders seemed to fade.\nHowever, she still needed one final push..."
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Trainer, what is our next course of action?\nConsiderable time has elapsed since we began browsing shops—"
     },
     {
-      "name": null,
-      "text": "Let's see... Normally, I prefer wearing pants.\nClothes that restrict movement do not quite suit me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...Oh. A bicycle section?",
+      "choice_data_list": [
+        "Oh!! Let's take a look!"
+      ]
     },
     {
-      "name": null,
-      "text": "Yes, gladly.\nExcuse me, could we get some assistance?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "There was no better place to put the finishing touches on our 'special regimen.'\nEngaging with her cycling hobby should naturally ease any remaining tension."
     },
     {
-      "name": null,
-      "text": "I understand now just how tense I truly was.\nIn such a state, it is only natural for my form to fall apart.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Once she returns to a relaxed, natural state,\nshe should be able to break through her current plateau.",
+      "choice_data_list": [
+        "I really want to check it out! Will you come with me?",
+        "I'd love to take a look! Would you come with me?"
+      ]
     },
     {
-      "name": null,
-      "text": "...No, I will find out soon enough anyway.\nShall we go?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...I see.\nIf that is the case, I shall gladly accompany you."
     },
     {
-      "name": null,
-      "text": "Haaaaaaahhhhh!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Oh... The floor space is modest, but the selection is remarkably authentic.\nThey even have electronically controlled derailleurs in stock."
     },
     {
-      "name": null,
-      "text": "Trainer, what shall we do?\nQuite a bit of time has passed since we began browsing shops—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Ah, that is to say, gear-shifting mechanisms.\nThough they may look somewhat imposing compared to everyday models.",
+      "choice_data_list": [
+        "Yeah, it looks like futuristic mecha tech. Pretty cool!",
+        "Yeah, it looks like a futuristic gadget. Super cool!"
+      ]
     },
     {
-      "name": null,
-      "text": "...! Do you see? This waste-free functional beauty!\nIt is truly a masterpiece bringing together the peak of technology.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...! Do you perceive it as well? This purely functional, streamlined beauty!\nIt is truly a masterpiece that gathers the very pinnacle of technology."
     },
     {
-      "name": null,
-      "text": "My, that was quite decisive of you.\nAre you sure you do not wish to compare it with other bicycles?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Observe. That road bike over there is equipped with the exact same component.\nIt asserts its presence without creating obstruction—truly an ideal form factor."
     },
     {
-      "name": null,
-      "text": "There is no better place than this for the finishing touch of our special menu.\nEngaging with her cycling hobby should help ease the tension in her shoulders.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "One must pay attention to visual aesthetics after all.\nThe elegance of the components significantly alters one's exhilaration upon riding.",
+      "choice_data_list": [
+        "Ooh, I'd love to try sitting on it."
+      ]
     },
     {
-      "name": null,
-      "text": "As I thought... I felt closer to the ideal.\nReaching the target time is finally becoming realistic...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Yes, by all means.\nExcuse me, would it be permissible to try this out?"
     },
     {
-      "name": null,
-      "text": "I will calculate it now, so please wait a moment.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I was amazed by how perfectly the bike fit. Leaning forward made me feel like a racer.\nIn my mind, vivid images of picking up serious speed began to form—",
+      "choice_data_list": [
+        "Riding this outside must feel incredible..."
+      ]
     },
     {
-      "name": null,
-      "text": "Please look over here. That road bike uses the exact same one.\nIt carries a distinct presence without getting in the way—the ideal form, so to speak.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Fufu, once you experience the actual ride, mere imagination will no longer satisfy you.\nWhen you synchronize seamlessly with your cherished machine and achieve ideal form, it is simply beyond words."
     },
     {
-      "name": null,
-      "text": "If she can relax and find her natural groove,\nshe should be able to break through her current plateau.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Though only simulated, it will allow you to experience our velocity firsthand.\nThe sensation of the scenery vanishing behind you... I truly wish for you to experience it."
     },
     {
-      "name": null,
-      "text": "As for your intentions, I caught on midway through.\nI apologize for making you go to such trouble for my sake.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Experiencing that would undoubtedly be amazing.\nAnd riding alongside Ikuno Dictus would make it even more enjoyable.",
+      "choice_data_list": [
+        "...I think I'll buy it!"
+      ]
     },
     {
-      "name": null,
-      "text": "Indeed... We need a more fundamental approach.\nFirst is checking my form. The video—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "That is an exceptionally decisive move.\nAre you certain you do not wish to compare it with other bicycles first?",
+      "choice_data_list": [
+        "You praised it earlier, so I trust your judgment.",
+        "You spoke so highly of it earlier, so I trust you."
+      ]
     },
     {
-      "name": null,
-      "text": "I had no idea it had gotten this late.\nI wonder how long it has been since I spent half a day shopping...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "In that case, allow me to present helmet options and other gear.\nThere are several items I would strongly recommend—"
     },
     {
-      "name": null,
-      "text": "There was nothing to worry about anymore.\nThe current Ikuno Dictus would undoubtedly hit her target time.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Having concluded our 'special regimen,' we headed home.\nPushing along a shiny new bicycle that hadn't been with us on the way there."
     },
     {
-      "name": null,
-      "text": "This morning's calorie intake... and the allowable limit for this week is—\nCalculated. I shall have the warabimochi.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I had not anticipated that the hour would become so late.\nI cannot recall the last time I spent half a day simply shopping..."
     },
     {
-      "name": null,
-      "text": "Thanks to you, I believe I can fully\nreap the benefits of our \"special menu.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Thanks to you, I believe I will be able to fully realize\nthe intended effects of your 'special regimen.'",
+      "choice_data_list": [
+        "Wait, did you see through it?"
+      ]
     },
     {
-      "name": null,
-      "text": "While simulated, it will let you experience our speed. The feeling of scenery\nrushing past behind you... is something I truly want you to experience.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Regarding your intentions, I deduced them partway through.\nIt appears I caused you a great deal of trouble; my apologies."
     },
     {
-      "name": null,
-      "text": "Aesthetics are certainly worth paying attention to after all.\nThe appearance of the parts drastically changes the excitement when riding.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I can see it clearly now—just how rigid and tense I had become.\nIn such a state, it was only natural for my form to deteriorate."
     },
     {
-      "name": null,
-      "text": "What special menu could we possibly do here?\nHmm—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Reflecting upon it, my focus was narrowed exclusively to charging toward our goal.\nEven though taking the shortest, straightest line is not always the correct answer.",
+      "choice_data_list": [
+        "Sometimes you have to relax your shoulders before you can notice that."
+      ]
     },
     {
-      "name": null,
-      "text": "That was just an excuse. I simply wanted her to get a proper refresh.\nTo keep her from overthinking things, I kept my true motives to myself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Yes... You understood that even back then,\ndidn't you, Trainer?"
     },
     {
-      "name": null,
-      "text": "No, rather than words, let me prove it with my run.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I am fine now.\nFrom here on, to ensure I do not forget this lesson—"
     },
     {
-      "name": null,
-      "text": "Your special menu seems to be quite unique, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "No, let me prove it not through words, but through my running."
     },
     {
-      "name": null,
-      "text": "Maybe being so conscious of it is the problem.\nShe looks too tense, throwing off her form.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Back at the academy, I began timing her laps.\nJust as expected, Ikuno Dictus's speed was noticeably higher."
     },
     {
-      "name": null,
-      "text": "...I see.\nIn that case, would you keep me company?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "(Power is flowing through her with no wasted effort!\nHer form is remarkably natural. At this rate—)"
     },
     {
-      "name": null,
-      "text": "...I see.\nIf that is the case, I shall accompany you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Haaaaaaaahhhhhhh!!!!"
     },
     {
-      "name": null,
-      "text": "Ah, that is to say, the gear shift mechanism.\nIt may look a bit more imposing than what you are used to seeing, however.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...All right.\nTrainer, what was the time?",
+      "choice_data_list": [
+        "Yeah, it's a new personal best!",
+        "Yeah, you set a new personal best!"
+      ]
     },
     {
-      "name": null,
-      "text": "...Oh? A bicycle corner?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I knew it... It felt much closer to the ideal.\nReaching our target time is finally becoming a realistic goal..."
     },
     {
-      "name": null,
-      "text": "Then allow me to present some helmets and other gear as well.\nThere are several products I would highly recommend—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "It appears your special training regimen was exceptionally effective."
     },
     {
-      "name": null,
-      "text": "Looking back, my focus was solely fixed on sprinting toward the goal.\nEven though taking the straightest, shortest route is not always the only right answer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "There was nothing left to worry about.\nThe Ikuno Dictus of today could undoubtedly hit that target time."
     },
     {
-      "name": null,
-      "text": "When that time came, I wanted her to go on the long bike ride she had been looking forward to.\nThat was my heartfelt wish.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Only the exact necessary power is applied!\nA form truly close to natural. With this—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oho... Small in scale, but quite authentic.\nThey even carry electronic derailleurs.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haah, haah... Haah, haah...!\nHow was... the time?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I came in casual clothes as instructed, but... we are training here?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The bike fits surprisingly well. Leaning forward, I feel like a real racer.\nMy mind fills with the thrilling image of accelerating faster and faster—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ikuno Dictus's shoulders seem to be gradually relaxing.\nJust one final push should do it...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The summer limited edition items certainly catch the eye.\nWhile I am currently managing my calories, this is quite...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yes... You already understood back then as well,\ndidn't you, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My elbows are tucked in too tight.\nI am trying to stay conscious of it, but... hmm.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I am fine now.\nNow, so that I do not forget this lesson—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It would definitely be wonderful if that came true.\nAnd it would be even more fun if Ikuno Dictus were with me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Right.\nTrainer, what is the time?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufu, once you actually ride, mere imagination will no longer satisfy you.\nWhen you find perfect sync with your beloved machine and achieve an ideal ride, there is nothing like it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A clothing store... What am I supposed to do here?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Upon returning to the academy, we started measuring her time.\nJust as expected, Ikuno Dictus's speed had increased.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Having finished the \"special menu,\" we headed on our way back.\nWheeling alongside us a sparkling new bicycle that hadn't been there on the way out.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And when that moment came, I wanted her to go on the long bike ride she had been looking forward to.\nI wished that for her with all my heart."
     }
   ],
   "no_wrap": true

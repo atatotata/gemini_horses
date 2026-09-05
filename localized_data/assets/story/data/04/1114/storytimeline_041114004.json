@@ -1,649 +1,303 @@
 {
-  "title": "",
+  "title": "Where It All Begins.",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nBlack Wipe\n---\n★Request\nShow Buena Vista (Gym Uniform, Bib/Color open, Tracen Academy),\nVodka (Gym Uniform, Bib/Color open, Tracen Academy)\nBoth initiate a spurt in time with their shouts,\nwith Vodka in front and Buena chasing from behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "And now, entering the ring next—the pair everyone's been waiting for!\nVodka and Daiwa Scarlet!!"
     },
     {
-      "name": null,
-      "text": "★Request\nShow Daiwa Scarlet (Gym Uniform, Bib/Color open, Tracen Academy),\nBuena Vista (Gym Uniform, Bib/Color open, Tracen Academy)\nScarlet in front, Buena behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Vodka",
+      "text": "Heh, let's do thiiiiiis!!\nYo, Scarlet, you ready to eat my dust?"
     },
     {
-      "name": null,
-      "text": "■Direction\n*Deliberately using the full name \"Daiwa Scarlet\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Daiwa Scarlet",
+      "text": "Hmph, the only thing I'm prepared for is making you cry!\nOh... hello, everyone! Thanks for coming to cheer us on today!"
     },
     {
-      "name": null,
-      "text": "★Request\nFade to Black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Listen to this tremendous roar from the crowd! Without a doubt, the greatest\nspotlight today falls upon these two representatives of the modern horsegirl racing world!!"
     },
     {
-      "name": null,
-      "text": "■Direction\nI (watakushi)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "While they may not be in peak Twinkle Series condition,\nthey're sure to put on a spectacular performance for us all!"
     },
     {
-      "name": null,
-      "text": "★Request\nBuena Vista startles and rolls her shoulders\n(checking that the tension has left her body)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "And yet! Stepping up to declare that she has no intention\nof conceding victory is this up-and-coming contender—!"
     },
     {
-      "name": null,
-      "text": "■Direction\nSFX: Cheers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "I'm Buena Vista. I've trained as hard as I could for today!\nI'm ready to give it my all—please wish me luck!"
     },
     {
-      "name": null,
-      "text": "★Request\nFade in / After fade-in\nShow Daiwa Scarlet, Vodka, Buena Vista\nIn order of Scarlet, Vodka, Buena,\nwith Buena steadily closing in.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Spectators",
+      "text": "WOOOOO, BUENA VISTAAA~!!\nYOU GOT THIIIIIIIS!!"
     },
     {
-      "name": null,
-      "text": "■Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Incredible! Such insane anticipation and hype for an un-debuted\nracer! Just what kind of performance are we about to witness?!",
+      "choice_data_list": [
+        "(The cheers... are truly deafening.)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nTearing up",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Every time she flashes a smile from the paddock, the crowd erupts.\nAfter taking in the overwhelming sight, I turn to her—"
     },
     {
-      "name": null,
-      "text": "■Direction\nSFX: Gates open → Umamusume surge forward",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "Oh, there you are...!\nYou said you wanted to talk before we hit the track... What's up?",
+      "choice_data_list": [
+        "Yeah, listen—",
+        "Yeah, listen—"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSFX: Applause and cheers matching line 1\n---\n★Request\nBlack Wipe\nVodka (Gym Uniform, Bib/Color open, Tracen Academy),\nDaiwa Scarlet (Gym Uniform, Bib/Color open, Tracen Academy) walk in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I step right in front of her—just one pace closer than usual.\nLooking straight into her eyes, I speak in a gentle, steady voice.",
+      "choice_data_list": [
+        "Let's take a moment to focus before you go."
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSFX: Applause and massive cheers *Louder excitement than Vodka's line above",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\n---\n★Request\nShow Nakayama Festa (Winter Uniform),\nToosen Jordan (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\n*Deliberately using the full name \"Daiwa Scarlet\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\nTake a slow, deep breath",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\n1 second of silence at the start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade in / After fade-in\n---\n★Request\nShow Buena Vista (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\n1 second of silence at the start\n---\n★Request\nAfter fade from black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nBlack Wipe\nShow Buena Vista (Gym Uniform, Bib/Color open, Tracen Academy)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nTime Passes\n---\n★Request\nBuena Vista (Gym Uniform, Bib/Color open, Tracen Academy) enters frame from the side",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nShow Buena Vista (Gym Uniform, Bib/Color open, Tracen Academy)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\nReturn to honor student persona on line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nBlack Wipe\nShow Red Desire (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nDaiwa Scarlet runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade in at end of line",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nAfter fade-in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■Direction\nSFX: Applause and cheers\n---\n★Request\nText shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★Request\nFade in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Listen to this tremendous roar from the crowd! All eyes are undoubtedly\non these two titans representing the pinnacle of modern Umamusume racing!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And Daiwa Scarlet smoothly glides to the front right from the start!\nWhat fantastic positioning! She's firmly taken command of the pace!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I wanted to... show you so badly...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So, do you know why I never doubted it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even as I grew up, even when we were separated—\nbecause you were always, always right there in my heart.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hmph, the only thing I'm prepared to do is make you cry!\nOh... hello everyone! Please cheer for me today!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As I speak, I step directly in front of her—one step closer than usual.\nAnd looking straight into her eyes, I speak to her softly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And with that, it really sinks in.\nIt seems... she has pulled ahead of me once again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That I would definitely reach that dream spectacular view.\nI've never doubted that, not even once.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Buena Vista",
       "text": "Focus...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Right. Just listen only to my voice for a second.",
+        "Right. Just listen only to my voice for a second."
+      ]
     },
     {
-      "name": null,
-      "text": "That I could run in a way that enchants everyone, that makes everyone want to cheer.\nDo you know why I was always able to believe that?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Umamusume have remarkably sharp hearing. Even down here in the underground\ntunnel, the roaring cheers from outside echo with crystal clarity."
     },
     {
-      "name": null,
-      "text": "(It's okay, don't rush. Save up your legs, and if you turn it into a late stretch battle—\n\"even against Daiwa Scarlet, you can fight\"!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even so, their exceptional hearing has keen directional focus.\nThat is why I speak slowly and clearly.",
+      "choice_data_list": [
+        "Breathe with me. Inhale... and exhale.",
+        "Breathe with me. Inhale... and exhale."
+      ]
     },
     {
-      "name": null,
-      "text": "...So, what about it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "............*gasp*......*wheeeew*......"
     },
     {
-      "name": null,
-      "text": "She was already crazy good, but... did she just level up even more?\nIs it, like, totally thanks to that person we know about or what?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "...Huh? I—"
     },
     {
-      "name": null,
+      "name": "Buena Vista",
+      "text": "...I just realized.\nI guess I was way more nervous than I thought.",
+      "choice_data_list": [
+        "You've always been... deeply attuned to the atmosphere.",
+        "You've always been... deeply attuned to the atmosphere."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "! ...Hehe, yeah, that's true.\nI guess I let all the crowd's energy get to my head."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "But I'm totally fine now! Thank you, Trainer. I'm heading out.\n—I'm gonna go win this!"
+    },
+    {
+      "name": "Narrator",
+      "text": "And at last... the fateful Event Competition gets underway."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "*pant, pant*... Hmph—!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Daiwa Scarlet smoothly glides to the front right from the start!\nWhat fantastic positioning! She's taking firm control of the pace!",
+      "choice_data_list": [
+        "(You're okay, just maintain your own rhythm...!)"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Stay calm, don't rush. Conserve your energy and turn this into\na final stretch battle—'Even against Daiwa Scarlet, you can take her!')"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Stay calm, don't rush. Conserve your energy and turn this into\na final stretch battle—'Even against Daiwa Scarlet, you can take her!')"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hell yeah, let's do this! ORAAAAAAAHHH!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Vodka's explosive finishing burst is... terrifying!\nBut at the same time, her line can waver... Which means!!)",
+      "choice_data_list": [
+        "There's an opening ahead! Go, Buenaaaa!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Daaaaahhhhhh...!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Daiwa Scarlet holds the lead! Vodka is hot on her heels!!\nWait, here comes Buena Vista! Buena Vista is surging forward too!"
+    },
+    {
+      "name": "Announcer",
+      "text": "200 meters to go! Will it be Vodka, Daiwa Scarlet, or Buena Vista?!\nBuena Vista is closing in fast! The finish line is right ahead—!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(It hurts, ngh... but I can't give an inch! I want to win, I want to win!!\nRight here... this is the one race I can't lose, ngh—!)"
+    },
+    {
+      "name": "Narrator",
+      "text": "(WOOOOOOAAAHHH...!!)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Good grief. Finishing in 3rd by just a nose against that fearsome pair...\nShe's absurd as always. ...Gotta admit, she sure knows how to entertain."
+    },
+    {
+      "name": "Toosen Jordan",
+      "text": "I mean, she was already amazing before, but... didn't she level up big time?!\nCould it be, could it beee~ thanks to that special someone of hers~?!"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Yes. Buena-san... Hehe, I see.\nI just felt a sacred divine guidance."
+    },
+    {
+      "name": "Red Desire",
+      "text": "Even so, my story will not stop here.\nHehehehe...♪"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Phew....\n—It's over, isn't it?"
+    },
+    {
+      "name": "Narrator",
+      "text": "...I could only nod in silence. I had been far too naive, plain and simple.\nJust as I was about to apologize, overwhelmed by frustration and guilt—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Ugh, I'm so frustrated.\nI'm so, so frustrated...!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "No matter what! Today, of all days... I really wanted to win.\nAnd... I wanted to prove it to you.",
+      "choice_data_list": [
+        "Huh...?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "It's so frustrating, so frustrating! I wanted to show you!\nThat as long as you're here—that with you by my side, we can win!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I just... wanted you to see it...!",
+      "choice_data_list": [
+        "Buena—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Tears streamed down her face for quite a while.\nJust like... when she was little. And then—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I told you before, didn't I?\nWhen you asked me about the \"magnificent view\" I'm aiming for."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I said that I would reach that breathtaking view, no matter what.\nAnd that I never once doubted it."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Well, do you know why I was able to believe that without a single doubt?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Why I've always believed that I could run in a way that captivates everyone,\nand makes everyone want to cheer for me?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Because you've always, always been there for me!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Because you've always been captivated by my running.\nBecause you've always cheered me on with all your heart!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Even as we grew up, even when we were apart—\nyou were always, always in my heart."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...So, you see?",
+      "choice_data_list": [
+        "Buena... you—",
+        "Buena... you—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the realization struck deep within me.\nIt seemed... she had gotten ahead of me yet again."
+    },
+    {
+      "name": "Narrator",
+      "text": "She had already figured out the answer we needed to reach long before I did.\nFeeling embarrassed that I was supposed to be the older one, I opened my mouth."
+    },
+    {
+      "name": "Narrator",
+      "text": "Once more. As many times as it takes.\nSo that I can catch up to her running ahead, and support her back.",
+      "choice_data_list": [
+        "Buena, let me say it properly this time. Will you—!",
+        "Buena, let me say it properly this time. Will you—!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Wait."
+    },
+    {
+      "name": "Narrator",
+      "text": "Right then, gently.\n...Her outstretched index finger lightly tapped my lips.",
+      "choice_data_list": [
+        "Ah—?!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm sorry. Can I be selfish just this once?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "If we're starting over, I want to do it from the very beginning.\n...Is that okay?"
+    },
+    {
+      "name": "Narrator",
+      "text": "And so—once again, we stood facing each other at our promised place.",
+      "choice_data_list": [
+        "Sorry to keep you waiting, Buena. ...Will you—",
+        "Sorry to keep you waiting, Buena. ...Will you—"
+      ]
+    },
+    {
+      "name": "Buena Vista",
       "text": "...Yes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Form a contract with me as my trainee?",
+        "Form a contract with me as my trainee?"
+      ]
     },
     {
-      "name": null,
-      "text": "! ...—Fufu, yeah, that's true.\nI guess I got completely caught up in the crowd's excitement.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I simply nod in silence. My thinking was naive, plain and simple.\nFilled with frustration and regret, just as I was about to apologize—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(It hurts, so much...! But I won't give it up! I want to win, I will win!!\nThis... if nothing else, I have to win this—!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hyaaaaaaaah...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "But I'm okay now! Thank you, I'm off.\n—I'm going to bring home a win, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Once more. As many times as it takes.\nSo that I can catch up to her running ahead, and support her from behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "200 meters remaining! Will it be Vodka, Daiwa Scarlet, or Buena Vista?!\nBuena Vista is closing in fast! The finish post is right before their eyes—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(It's okay, don't rush. Save up your legs, and if you turn it into a late stretch battle—\n\"even against Daiwa Scarlet, you can fight\"!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "............Gh, ...pheeeeeew...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, wait. Was I—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wait.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Because you were always, always captivated by my running.\nBecause you were always, always cheering for me with all your heart!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "However! Still proudly staking her claim with a fierce\n\"I won't give up victory,\" is this up-and-coming Umamusume—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoooo! Buena Vistaaa!!\nDo your beeeeeeeeeest!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Incredible! It's hard to believe this level of anticipation and attention\nis centered around pre-debut Umamusume! What kind of race will we witness today?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ugh, it hurts.\nIt's so frustrating, seriously...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even so, my story will not stop.\nFufufufu...♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She had long since fixed her sights on the answer we needed to reach.\nEmbarrassed once more that I was the older one, I... finally open my mouth.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Every time she flashes a smile from the paddock, the crowd erupts in excitement.\nAfter watching that sight intently—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I just realized.\nI was really tense, wasn't I?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Vodka-chan's explosive late stretch power is... terrifying!\nBut at the same time, it can waver... That's why!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm so frustrated, so frustrated! I wanted to show you!\nThat as long as you're here—that because I'm with you, I can win!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Umamusume have incredibly sharp hearing, after all. So sharp that even down here\nin the underground passage, the cheers echoing from outside are crystal clear.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "They might not be quite as polished as they'd be for the real Twinkle Series,\nbut I'm sure they'll put on a magnificent race for us!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even so, her exceptional hearing still has clear directional focus.\nThat is why I call out to her slowly and clearly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I had to! Today... If there was ever a day, today was the day I had to win.\nI wanted... I wanted to prove it to you so badly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Now then, stepping up next are the two you've all been waiting for!\nVodka and Daiwa Scarlet!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Yes, absolutely. My Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If we're starting over, I'd like to do it from the very beginning.\n...Would that be okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I told you before, didn't I?\nBack when you asked me about the \"spectacular view\" I wanted to aim for.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Just then, tap.\n...She gently extends her index finger, lightly brushing against my lips.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm sorry. May I ask for just one selfish favor?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "All right, let's do this! Rrrraaaagh!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sheesh. Closing in to finish third by a nose against that pack of monsters...\nUnbelievable as always. ...Way to keep things interesting.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I see. Buena-san... Hehe, is that so?\nI just felt a divine guidance.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm Buena Vista. I trained with everything I had for today!\nIt's nice to meet you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew...\n—It's all over, isn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(WAAAAAAHHH...!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She continued to shed quiet tears for a while.\nAlmost... as if she had returned to those childhood days. And then—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And at last... the fateful individual event competition got underway.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Daiwa Scarlet takes the lead! Vodka is right behind her!!\nAnd yet, and yet, here comes Buena Vista! Buena Vista is making her move too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hah, hah... Hmph—!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Heh, let's do this!\nHey, Scarlet, you ready to lose to me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so, once again. We face each other at our promised place.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, there you are...!\nYou said you wanted to talk before heading out to the track... What's up?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—It's because you've always been there for me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Buena Vista",
+      "text": "—Yes, gladly! My Trainer!"
     }
   ],
   "no_wrap": true

@@ -1,642 +1,289 @@
 {
-  "title": "",
+  "title": "Heart to Heart",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The day of the mock race—has finally arrived.",
+      "choice_data_list": [
+        "(We've refined our preparations down to the finest detail for today...)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nBlack wipe\n---\n★ Request\nShow Air Messiah (Tracksuit/Summer),\nCesario (Tracksuit/Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "The latest data on Craft and the others...?\nIncredible, you were gathering intel right up to the very last second.",
+      "choice_data_list": [
+        "Let's build your strategy based on this.",
+        "Let's build your strategy based on this."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nFlashback Off\n---\n★ Request\nShow Daring Heart (Tracksuit/Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hehe, having such an exceptional Trainer in my corner...\nis far more reassuring than I ever imagined."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "—You read my mind, and you put it into words.\nLet's go claim our victory. Together, the two of us!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Leading up to the real thing, I made meticulous adjustments\nas her temporary Trainer, watching over Daring Heart.\nAll of it—for today."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hehe... Such a sharp, tense expression...\nAre you the one about to race, Trainer?",
+      "choice_data_list": [
+        "Sorry, I just got a little nervous..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n\"funny face\" = Pronunciation sample available\n---\n★ Request\nFade in\n---\n★ Request\nShow Daring Heart (Tracksuit/Summer)\nImage of running at jogging pace\nDaring Heart looks toward camera",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...Heh. Say... who do you think I am?",
+      "choice_data_list": [
+        "Huh...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Okay......!\" = Pronunciation sample available\n・\"My Queendom\" = Nuance of \"My (Queen's) World\" (Pronunciation sample available)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her fearless smile instantly melted away all the tension in my heart."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She is waiting. Waiting for me to cast aside hesitation\nand call out the name destined to seize glorious victory—",
+      "choice_data_list": [
+        "(You are...)",
+        "(You are...)"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade back in\nEnd of race scene\n---\n★ Request\nDaring Heart (Tracksuit/Summer) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "—Be daring. Come... let me hear it.\nThe name of the Queen you believe in."
     },
     {
-      "name": null,
-      "text": "★ Request\nBlack wipe\n---\n★ Request\nShow Daring Heart (Tracksuit/Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"heart to heart\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade back in\nRace scene begins below\n---\n★ Request\nShow Daring Heart (Tracksuit/Summer)\nImage of running at full sprint",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"blanket\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nAir Messiah runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Go on, say it\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Go......Daring Heart\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n\"Be my partner\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n*Note on reading for 解けて (hodokete)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Stay calm......\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nUse a diagonal camera close-up or similar to evoke the image of the Trainer touching Heart's shoulder",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\n---\n★ Request\nDaring Heart runs forward",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"mind\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nCesario runs out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade to black / Fade back in\nEnd of race scene\n---\n★ Request\nShow Daring Heart (Tracksuit/Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFlashback On\n---\n★ Request\nShow Daring Heart (School Uniform/Summer)\nLooking at file folder (prop1701_00)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nGeneric wipe\nRace scene begins below\n---\n★ Request\nShow Line Craft (Tracksuit/Summer), Daring Heart (Tracksuit/Summer)\nLine Craft on the inside, Daring Heart on the outside. Craft running slightly ahead of Heart",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n・\"Let's get going!\" = Pronunciation sample available",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nTime passes\n---\n★ Request\nShow Daring Heart (Tracksuit/Summer)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "★ Request\nFade in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "■ Stage Direction\n1 second silence at start\nExhaling, releasing the pent-up tension",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "How strange... Whenever you touch me, the tension in my shoulders...\njust seems to melt right away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Could your hands... be magic or something?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So distant and boundless. Completely overwhelming.\nAnd that's precisely why—my heart surged. I was utterly captivated by her running.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Dearing Heart",
       "text": "Go on, say it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Show them what you're made of—\"Daring Heart\"!"
+      ]
     },
     {
-      "name": null,
-      "text": "If that's the case... maybe it wouldn't hurt\nto match strides with someone and move forward together.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Okay! I'm off!\nTo take the very first step... toward my Queendom!"
     },
     {
-      "name": null,
-      "text": "I slam down hard on the pedals. At that exact moment—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With a flawless start, Daring Heart boldly pushes to the front.\nShe dictates the pace with confident, composed running."
     },
     {
-      "name": null,
-      "text": "—You read my mind and put it into words for me.\nLet's go take the win. Together, just the two of us!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Haah, haah, haah—"
     },
     {
-      "name": null,
-      "text": "Daring Heart had been holding back any wasted motion until now.\n—All to blow past her formidable rivals with explosive power!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Line Craft",
+      "text": "Hah, hah, hah...!"
     },
     {
-      "name": null,
-      "text": "...Hehe... But you know, I feel so refreshed.\nYes, truly... I feel wonderful.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(...I can hear it. The rush of the wind, the turf beneath my feet.\nThe breath of my rivals—...Ah, not yet. Don't rush it.)"
     },
     {
-      "name": null,
-      "text": "(My wings have rested. My heart is fulfilled.\nThen... all that's left is to soar higher than anyone else!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(...Theory backs up my instincts. Just like the data you gave me,\nI'm the one controlling this pace...)"
     },
     {
-      "name": null,
-      "text": "I'll keep supporting and watching over her.\nUntil this beautiful, noble heart one day reaches the Tiara—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(Stay calm... No wasted effort.\nJust wait for that moment—)"
     },
     {
-      "name": null,
-      "text": "...Hmph. Hey... who do you think I am?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And in the final stretch, the pack makes its decisive move—!"
     },
     {
-      "name": null,
-      "text": "(Stay calm... No need for wasted tension.\nJust wait for that moment—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Messiah",
+      "text": "Now—! Haaaaaahhh—!"
     },
     {
-      "name": null,
-      "text": "I want to become stronger.\nWith a stronger heart—I want to fly even higher.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Cesario",
+      "text": "Tch—...!!\nHAAAAAHHHHH—!!"
     },
     {
-      "name": null,
-      "text": "(...Theory backs up my instincts. Exactly as your data predicted,\nI'm the one controlling the pace...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(—Here they come. Those footsteps, that pressure...\nAh, it's thrilling...!)"
     },
     {
-      "name": null,
-      "text": "There's something I want to check today, too.\nLet's get going! Come on, let's head out!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(This is the world I've been yearning for. Noble, gritty,\na clash of exposed spirits... heart to heart—!)"
     },
     {
-      "name": null,
-      "text": "Haa, haa, haa—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Daring Heart had conserved every ounce of strength until now.\n—All to blow past her formidable rivals with explosive power!"
     },
     {
-      "name": null,
-      "text": "As if to hide her trembling fingertips, to crush down her frustration,\nDaring Heart clenched her fists tightly, desperately.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "(My wings are rested. My heart is full.\nAll that's left... is to fly higher than anyone else!)"
     },
     {
-      "name": null,
-      "text": "—If only I could support her.\nEven dreaming of such happiness... it felt permissible now.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Look at me! Don't you dare look away!\nRight here, right now... I am the brightest Queen in the world!!"
     },
     {
-      "name": null,
-      "text": "———...Kuh!\nShe slipped past me... She took the lead—...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Go... Daring Heart—!!\nHAAAAAAAAAAHHH!!"
     },
     {
-      "name": null,
-      "text": "She is waiting. Waiting for that name to be called—\nthe one that casts aside all doubt and seizes glorious victory—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...Ghh, haah...!\nHaah..., haah..., haah...!"
     },
     {
-      "name": null,
-      "text": "No... it's just like my favorite blanket.\nSo warm... gently wrapping around me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "———...Kh!\nShe overtook me... She passed me—...kh!!",
+      "choice_data_list": [
+        "Heart!!"
+      ]
     },
     {
-      "name": null,
-      "text": "—Be daring. Come on... let me hear it.\nThe name of the queen you believe in.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "I was right there... Just a few more steps, and—...",
+      "choice_data_list": [
+        "That was an amazing run... especially that final spurt!"
+      ]
     },
     {
-      "name": null,
-      "text": "Look at me! Don't take your eyes off me!\nRight now, at this very moment... I am the most brilliant queen in the world!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "No matter how close it was, a loss is still a loss.\n—I couldn't reach victory."
     },
     {
-      "name": null,
-      "text": "Go... Daring Heart—!!\nHyaaaaaaaaah!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...Hehe... But you know, I feel refreshed.\nYes, truly... I feel great."
     },
     {
-      "name": null,
-      "text": "—Be my partner... as my official Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As if to hide her trembling fingertips and crush her frustration,\nDaring Heart clenched her fists tightly.",
+      "choice_data_list": [
+        "(...She doesn't need clumsy words of comfort.)"
+      ]
     },
     {
-      "name": null,
-      "text": "..................—Phew, ...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Making up my mind, I quietly stepped up to her side.",
+      "choice_data_list": [
+        "Heart... great job out there."
+      ]
     },
     {
-      "name": null,
-      "text": "Having made up my mind, I quietly stepped toward her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "..................—*sigh*..."
     },
     {
-      "name": null,
-      "text": "You were the one who taught me!\nLeaning forward too eagerly only leads to trouble.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "It's funny... Whenever you touch me,\nall the tension in my shoulders just... melts away."
     },
     {
-      "name": null,
-      "text": "But... no matter how close it was, a loss is a loss.\n—I couldn't reach victory.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Are your hands... magic or something?",
+      "choice_data_list": [
+        "They're just... the hands of a big worrywart."
+      ]
     },
     {
-      "name": null,
-      "text": "Okay! Here I go!\nThe first step toward... My Queendom!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "No... They feel like my favorite blanket.\nSo warm... gently wrapping around me."
     },
     {
-      "name": null,
-      "text": "Hehe... Sharp, tense...\nYou look like you're about to run the race yourself, you know?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...Your hands give me peace of mind.",
+      "choice_data_list": [
+        "(If these hands can...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Hehe, having such an excellent Trainer by my side...\nis far more reassuring than I ever imagined.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—If these hands can support her.\nI felt like, just for now, I was allowed to indulge in that happy thought."
     },
     {
-      "name": null,
-      "text": "That day when I first chased after her run.\nWatching her surge ahead alone with unmatched sharpness, I felt an overwhelming sense of awe.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hehe, you brought that bike again... Riding alongside me today too, right?"
     },
     {
-      "name": null,
-      "text": "Hehe...! \nThe wind... feels so nice. It really is a wonderful morning...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "I've got a few things I want to test out today as well.\nLet's get going! Come on, let's head out!"
     },
     {
-      "name": null,
-      "text": "...Your hand brings me such peace.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Without looking back, Daring Heart accelerates\ntoward her ideals.",
+      "choice_data_list": [
+        "(Ah... Just like back then...)"
+      ]
     },
     {
-      "name": null,
-      "text": "(...I can hear it. The sound of the wind, the thudding on the turf.\nThe breath of my rivals—... Ah, not yet. Don't rush yet.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The day I chased after her running for the very first time.\nSeeing her dash ahead with untouchable sharpness made me feel so outmatched."
     },
     {
-      "name": null,
-      "text": "Hah, hah, hah...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She felt impossibly distant. Utterly overwhelming.\nAnd yet—it set my heart ablaze. I was hopelessly captivated by her running.",
+      "choice_data_list": [
+        "(She's leaving me behind again—...!)"
+      ]
     },
     {
-      "name": null,
-      "text": "Hah—...!!\nHyaaaaaaaaah————!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I pushed hard on the pedals. At that moment—"
     },
     {
-      "name": null,
-      "text": "...Only by resting your wings can you fly higher, just as you said.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Let's ride together, Trainer!"
     },
     {
-      "name": null,
-      "text": "Right here—! Hyaaaaaaaaah!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hehe... What's with that funny face?!",
+      "choice_data_list": [
+        "How come...?"
+      ]
     },
     {
-      "name": null,
-      "text": "(This is the world I was searching for. Noble, gritty,\nclashing with our bare hearts, heart to heart—!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "You were the one who told me, weren't you?\nThat leaning too far forward isn't good."
     },
     {
-      "name": null,
-      "text": "The day of the mock race had finally arrived.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "So... I thought maybe it wouldn't hurt to match my pace\nand move forward together with someone."
     },
     {
-      "name": null,
-      "text": "Her fearless smile rekindled and set my stiff, nervous heart ablaze.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "...You said that only by resting your wings can you truly soar high."
     },
     {
-      "name": null,
-      "text": "This is the best possible beginning—with you♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "I want to become stronger.\nWith a stronger heart—I want to fly higher than ever."
     },
     {
-      "name": null,
-      "text": "Gentle morning sunlight poured over us.\nAlong the radiant path to glory... the two of us began running at the exact same pace.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "So...\nWill you be my perch?"
     },
     {
-      "name": null,
-      "text": "Let's go together! Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "—Be my partner... as my official Trainer."
     },
     {
-      "name": null,
-      "text": "And in the final stretch, each runner made their big move—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I will support and watch over her.\nUntil this beautiful, noble heart reaches the tiara—",
+      "choice_data_list": [
+        "Yeah... Let's soar into the sky together—!",
+        "Yeah... Let's soar into the sky together—!"
+      ]
     },
     {
-      "name": null,
-      "text": "(—Here they come. Those footsteps, that pressure...\nAh, it sends shivers down my spine...!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "Hehe...! The breeze feels wonderful.\nWhat a truly gorgeous morning...!"
     },
     {
-      "name": null,
-      "text": "Hehe... What's with that funny face!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Dearing Heart",
+      "text": "A perfect start... together with you♪"
     },
     {
-      "name": null,
-      "text": "With a smooth start, Daring Heart boldly pushed to the front.\nTaking command of the race, it was a daring and calculated run.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Without looking back, Daring Heart simply\naccelerated toward her own ideal.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Leading up to the race, as her temporary Trainer, I made fine adjustments and watched over Daring Heart.\nAll of it—for today.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The latest data on Craft and the others...?\nAmazing, you kept gathering info right up to the last minute.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Just a little more... Truly, just a bit—...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hehe, that bicycle... Riding alongside me again today, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So...\nHey, will you be my roost to rest upon?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ngh, hah...!\nHaa..., haa..., haa...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Soft morning sunlight showers down on us.\nAlong the path toward dazzling glory... the two of us start running at the same speed."
     }
   ],
   "no_wrap": true

@@ -1,474 +1,215 @@
 {
-  "title": "",
+  "title": "The Wolf Howling at the Solitary Moon Goes On",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 2nd year high school\nPersonality: Cheerful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The final day of the summer training camp. Training wrapped up by evening,\nbut I wonder where Sirius Symboli went."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n\"These guys\" = Assumption that other followers of Sirius are present here, though not speaking.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I saw her ditch the other girls\nand head out for a swim by herself, but...",
+      "choice_data_list": [
+        "Don't tell me she went long-distance swimming..."
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nHide bust-up sprite",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even with an Umamusume's athletic prowess,\nswimming far out alone is dangerous. Worried, I go look for her—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSame as \"Umamusume C\" from Episodes 5 & 6\n---\n★Request\nLines 17 & 18\nImage of voices arguing in the distance.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Sirius-san? Well, I heard the girls she left behind saying\nshe swam over to that islet over there..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: College student, 18–20 years old\nPersonality: Flirtatious/Frivolous",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "It's close enough to reach by rowboat, and there are\ntourists over there, so I don't think you need to worry!"
     },
     {
-      "name": null,
-      "text": "★Request\nTime passes\n---\n★Request\nDisplay: Sirius Symboli (Swimsuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Even hearing that, I can't help but worry.\nI immediately head out toward the islet she mentioned."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Phew..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "(Guess that was a decent swim.\nStill not quite enough, but time to head ba—)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nImage of acting tough/bluffing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pierced Horsegirl",
+      "text": "I told you to stop following us!\nYou guys are so annoying! We're not interested, okay?!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Student on Vacation",
+      "text": "Huh?! We're not hitting on you!\nWe just said we wanted to cheer for you guys!"
     },
     {
-      "name": null,
-      "text": "★Request\nWalk into frame: Sirius Symboli (Swimsuit)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "(...What a pain in the ass.\n...Hm?)"
     },
     {
-      "name": null,
-      "text": "★Request\nHide bust-up sprite",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Right after arriving on the islet, I stumble upon some students\nand horsegirls in the middle of a heated argument. I have to break this up."
     },
     {
-      "name": null,
-      "text": "★Request\nTime passes\n---\n★Request\nSE: Sound of waves\n---\n★Request\nDisplay: Sirius Symboli (Swimsuit)\nImage of looking up at the sky.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "It's fine. They're just students. Having spent so much time with Sirius Symboli,\nI should easily be able to handle something like this—!",
+      "choice_data_list": [
+        "C-Could you please cut it out...?"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Student on Vacation",
+      "text": "Hah?! That's our line!\nYou their chaperone or something?! Make these rude chicks apologize!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I meant to deliver a sharp, commanding rebuke like Sirius Symboli would,\nbut my voice came out much more pathetic than intended."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*\"These guys\" = There are multiple opposing students, but the speaker is imagined as one person",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Still, I have to protect our students.\nI steady myself to confront them once more, when—"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*Gasp*...\nImage of being captivated (overwhelmed) by Sirius.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Shut your yaps. I'm not in the mood for useless noise."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her voice, low yet cutting through the air with icy composure, silences the area.",
+      "choice_data_list": [
+        "Sirius...!"
+      ]
     },
     {
-      "name": null,
-      "text": "...Even hearing that, I'm worried.\nI decide to head straight for the small island I was told about.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Looks like the little pup learned how to bare its teeth."
     },
     {
-      "name": null,
-      "text": "It's fine. They're just students. Having spent all this time\nalongside Sirius Symboli, handling something like this should be—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "I'd praise you, but barking at a bunch of summer bugs won't accomplish anything.\n...Right?"
     },
     {
-      "name": null,
-      "text": "...It was what made Sirius Symboli who she is today.\nThere was no way I wouldn't be drawn to that brilliance.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Student on Vacation",
+      "text": "Wh-Who the hell are you..."
     },
     {
-      "name": null,
-      "text": "...I'll make you learn the hard way.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Pierced Horsegirl",
+      "text": "Sirius-senpai~! These guys are seriously persistent!\nThey keep saying they'll cheer for us if we're strong!"
     },
     {
-      "name": null,
-      "text": "Wh-What's your problem...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Student on Vacation",
+      "text": "W-We just...\nasked for your names so we could root for you..."
     },
     {
-      "name": null,
-      "text": "(Guess that was a decent swim.\nStill got energy to burn, but I should head b—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Heh. How generous of you."
     },
     {
-      "name": null,
-      "text": "I watched her leave the other Umamusume behind\nand go swimming all by herself, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Student on Vacation",
+      "text": "Wh... What? You gonna tell us your name instead then?\nI mean, that works too... We'll cheer for you, so... haha."
     },
     {
-      "name": null,
-      "text": "The final day of summer training camp. Training was scheduled until the evening,\nbut where did Sirius Symboli run off to?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The students shrink back from the overwhelming aura Sirius Symboli radiates.\nHer sharp glare, intimidating enough to pin them in place, is like that of a wolf."
     },
     {
-      "name": null,
-      "text": "I won't hold my breath, but I won't deny it either.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Fine, I'll tell you.\nLook for the brightest star in the sky. Your answer's right there."
     },
     {
-      "name": null,
-      "text": "—Only one will stand victorious.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "...Simple enough, yeah?"
     },
     {
-      "name": null,
-      "text": "Wh... What's the deal...? Are you gonna tell us\nyour name instead? I mean, that works too... We'll cheer for you! ...Haha.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Sirius Symboli makes no attempt to placate them.\nShe speaks with the commanding presence of a solitary sovereign demanding total fealty."
     },
     {
-      "name": null,
-      "text": "The sheer will to radiate an overwhelming light of her own,\nand the unyielding strength to stand fearlessly above all others.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "—Only one will take the victory."
     },
     {
-      "name": null,
-      "text": "Hah. Just wishful thinking? You've really learned to talk big, haven't you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "And that's me."
     },
     {
-      "name": null,
-      "text": "It's close enough to cross by rowboat or small craft,\nand there seem to be tourists around too, so no need to worry, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Nobody else gets to stand before me.\n...Got it?"
     },
     {
-      "name": null,
-      "text": "The students recoil at the aura radiating from Sirius Symboli.\nHer piercing, intimidating glare is just like that of a wolf.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Student on Vacation",
+      "text": "――――"
     },
     {
-      "name": null,
-      "text": "...Simple enough, isn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "...If you get it, get the hell out of here.\nBefore you get lost in the dark on your boat ride back."
     },
     {
-      "name": null,
-      "text": "Huh?! We're not hitting on you!\nWe just said we'd root for you, that's all!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "—Absolute charisma.\nA dazzling, searing light stood right before me."
     },
     {
-      "name": null,
-      "text": "(...What a pain in the neck this turned into.\n...Hm?)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Not a single soul uttered another word."
     },
     {
-      "name": null,
-      "text": "Sirius Symboli makes no effort to pacify them.\nLike a solitary monarch commanding total submission, she speaks.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Soon, Sirius Symboli and I were the only ones left on the islet.\nEnveloped by nothing but the sound of the crashing waves—"
     },
     {
-      "name": null,
-      "text": "And at the same time, I make my resolve.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "What's the brightest star out there?"
     },
     {
-      "name": null,
-      "text": "Is she referring to our conversation earlier? Normally, the answer would be the Sun, right?\nYet right now... I can't bring myself to believe that's the answer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Was she referring to our conversation earlier? Conventionally speaking, the Sun?\nYet right now... that didn't feel like the right answer."
     },
     {
-      "name": null,
-      "text": "Hmph. Well, aren't I flattered.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "...I bit through my leash a long time ago."
     },
     {
-      "name": null,
-      "text": "...You'd best watch yourself.\nLest you get reduced to ash standing beside me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "One day, I'll make them all realize.\nHow utterly foolish it is to be kept on a leash by meaningless ties."
     },
     {
-      "name": null,
-      "text": "Even with an Umamusume's athletic prowess,\nswimming that far alone is dangerous. Worried, I went searching for her—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "That right here, right now, is a star that will burn everything to ash—"
     },
     {
-      "name": null,
-      "text": "That there is a star right here that scorches everything in its wake—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "...I'll make them learn their lesson."
     },
     {
-      "name": null,
-      "text": "Still, I have to protect my students.\nSteeling myself to try once more, I fix my gaze on them—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The unyielding resolve to shine with her own blinding light,\nand the fearless strength to stand tall and declare herself supreme—"
     },
     {
-      "name": null,
-      "text": "...If you got the message, get lost.\nBefore you lose your way back across the water in the dark.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Those were the very things that forged the Sirius Symboli of today.\nThere was no way I could keep from being drawn to that brilliance."
     },
     {
-      "name": null,
-      "text": "I told you to stop following us!\nYou creeps are annoying! We don't have time to deal with you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And in that exact moment, I made my decision.",
+      "choice_data_list": [
+        "I'll become a Trainer worthy of you.",
+        "I'll become a Trainer worthy of standing by your side."
+      ]
     },
     {
-      "name": null,
-      "text": "I'd praise your spirit, but barking at summer pests is a waste of breath.\n...Wouldn't you agree?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "Ha. Wishful thinking? You've certainly learned how to talk big."
     },
     {
-      "name": null,
-      "text": "Looks like the pup has finally learned how to bare its teeth.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "I won't hold my breath, but I won't shoot you down either."
     },
     {
-      "name": null,
-      "text": "Hah?! That's our line!!\nAre you their guardian?! Make these rude brats apologize!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Then let me enlighten you.\nSearch for the brightest star. Your answer lies right there.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I bit through that leash a long time ago.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sirius-senpai~! These guys are seriously relentless!\nThey keep saying they'll root for us if we're strong Umamusume!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Not a single soul was left to utter a word.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One day, I'll make them realize.\nJust how foolish it is to be kept on a leash by meaningless shackles.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Absolute charisma.\nA dazzling, searing light right before my eyes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Only me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No one else gets to stand ahead of me.\n...Understood?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I intended to deliver a sharp, cutting remark like Sirius Symboli,\nbut what came out was embarrassingly pathetic.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What is the brightest star?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "W-We just...\nwanted to know your names so we could root for you...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Her voice, low yet coolly commanding, brings total silence to the scene.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Shut up. I'm in no mood for background noise.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "————",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Right after arriving at the islet, I stumbled upon some students\narguing with our Umamusume. I have to break this up immediately.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sirius-san? Well, I overheard the girls she left behind saying\nthat she swam all the way out to that islet over there...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Now only Sirius Symboli and I remain on the islet.\nAmidst the gentle roar of the waves—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Phew...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Sirius Symboli",
+      "text": "...You'd better watch yourself, though.\nMake sure you don't burn to ash at my side."
     }
   ],
   "no_wrap": true

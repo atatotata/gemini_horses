@@ -1,439 +1,171 @@
 {
-  "title": "",
+  "title": "The Saint's Diligence",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nTake out novel/book (prop1003_00)\n(Put away as appropriate)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Alas, what a disaster! The 'Holy Scripture' for studying life in the Otherworld...\ncould it truly be lost forever...?!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Sparkle\n\nDoor: Furigana is \"Locker\", but voice read as \"tobira\" (door)\n---\n★Request\nFade out / Fade in\nSparkle effect ON",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "...No! This, too, must be a trial to reach \"that land\"!\nI shall find it without fail!"
     },
     {
-      "name": null,
-      "text": "★Request\nShow Red Desire (Summer Uniform). Strikes a saintly signature pose",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "After all—I am the Saint who shall save \"that land\"!",
+      "choice_data_list": [
+        "Hey, Desire. What are you doing?",
+        "Hi, Desire. What are you doing?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade out / Fade in\n---\n★Request\nRed Desire (Summer Uniform)\nCrouches down to collect the scattered brooms",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Oh, good day, Trainer.\nTruth be told, I am searching for a book."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nDesire's roleplay\nOpening the locker = Helping others / A saint's duty\nLocker won't open = A force is obstructing the saint's duty\nStruggling with the stuck locker = A trial to overcome a great power and fulfill her duty\n---\n★Request\nRed Desire (Summer Uniform)\nWalks in around \"...Phew\"\n(Stepping away from the off-screen locker to take a short break)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "I have located 'The Medieval Carrot Compendium' and 'Castles of the Ancient World',\nbut for some reason, the 'Encyclopedia of Umamusume Legends' is nowhere to be found.",
+      "choice_data_list": [
+        "Want me to help you look for it?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nRed Desire strikes a saintly signature pose",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "No, pay it no mind. Through the power of the Saint, I shall track it down.\nThe mana of that tome is—gasp! I sense it, from that bookshelf over there...!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 2nd year middle schooler\nPersonality: Friendly gyaru\n---\n★Request\nShow Red Desire (Summer Uniform) holding an open notebook (prop1003_05)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days after becoming Red Desire's Trainer.\nSeeing her everyday life made me realize once again just how real her yearning for the 'Otherworld' was."
     },
     {
-      "name": null,
-      "text": "★Request\nRed Desire bows to the Trainer before walking out",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Beautification Committee Horsegirl",
+      "text": "Sure, it's not impossible to grow swertia and bitter grass at home.\nBut they're really, really bitter, you know?"
     },
     {
-      "name": null,
-      "text": "★Request\nAfter fade in from black\nRed Desire (Summer Uniform) is collapsed on the ground",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Ufufu, worry not. When concocting them,\nI shall use my sacred power to craft a delicious potion!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Sound of rattling and struggling to open the locker\n---\n★Request\nSparkle effect OFF\nGeneric wipe\n---\n★Request\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Beautification Committee Horsegirl",
+      "text": "Uh-huh... If you say so...?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 3rd year middle schooler\nPersonality: Gentle and easygoing\n---\n★Request\nShow Red Desire (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Desire's Classmate",
+      "text": "Desire-san, what language are you writing in that notebook?\nI've never seen those letters before."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nNotices her own nosebleed for the first time on \"Oh?\"\n---\n★Request\nRed Desire gets up (with a nosebleed)\n",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Ufufu, runes, of course♪ As a Saint, reading and writing mystical scripts\nis a basic discipline. ...Oh dear, what did this character mean again?"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Sound of locker opening (line 2)\n---\n★Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl Finished Cleaning",
+      "text": "Aargh, seriously! I'm trying to put the mop away and it won't open!\nEveryone just jams stuff in however they want!"
     },
     {
-      "name": null,
-      "text": "★Request\nShow Red Desire (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "—Hark, troubled maiden.\nThe Saint of Salvation has descended upon this very place."
     },
     {
-      "name": null,
-      "text": "★Request\nRed Desire walks out on line 2\n(Approaching the off-screen locker)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "This tightly sealed door...\nI shall unlock it with the power of the Saint."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nThe force standing in her way is not evil, but an entity seeking to help Desire grow as a saint",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl Finished Cleaning",
+      "text": "Huh? Uhh... you mean you'll do it for me?\nAh, I'm actually in a hurry, so that saves me! Sorry, I'll leave the rest to you!"
     },
     {
-      "name": null,
-      "text": "★Request\nShaking text",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "While walking down the hallway,\nI spotted Red Desire locked in fierce combat with a cleaning locker."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Rattling sound of trying to open the locker\n\nAge: 2nd year middle schooler\nPersonality: Bright and brisk\n---\n★Request\nHide model",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Ngh! Hup! ............Phew. It won't budge easily.\n—Gasp! Could this also be a... trial bestowed upon the Saint?!",
+      "choice_data_list": [
+        "Desire, what are you doing?",
+        "Desire, what are you doing?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nShow Red Desire (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Trainer...\nIt appears we are being thwarted.\nBy the workings of a grand destiny, the \"liberation\" of that locker is...!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSilence for the first second",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "However, fear not. I shall overcome this trial.\nAs the Holy Maiden destined to reach \"that realm\"—!"
     },
     {
-      "name": null,
-      "text": "★Request\nRed Desire (Summer Uniform) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Hngh! Yah! Mmmghhh~~...!!\n—Ah!! Praise be, it opened!!"
     },
     {
-      "name": null,
-      "text": "■Direction Note\nCasual speech with same-age peers",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "(CLATTER CRASH—!!)"
     },
     {
-      "name": null,
-      "text": "★Request\nRed Desire stands up",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Eeeek?!"
     },
     {
-      "name": null,
-      "text": "★Request\nFade in / After fade-in\n---\n★Request\nDisplay Red Desire (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Owwieee...",
+      "choice_data_list": [
+        "Desire, are you okay?!",
+        "Desire, are you okay?!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction Note\n\"The mana of that tome is—\" → Sensing the presence of the book she is looking for",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Yes... It was merely a falling broom that struck me... Oh?",
+      "choice_data_list": [
+        "Oh no! Your nose is bleeding!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nTime passes\nDisplay Red Desire (Summer Uniform) (no nosebleed)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Fortunately, she wasn't seriously hurt,\nand the nosebleed stopped quickly with some basic first aid."
     },
     {
-      "name": null,
-      "text": "■Direction Note\nSE: Sound of multiple brooms falling over",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Thank you.\n...Even so, it has turned into quite a mess, hasn't it?"
     },
     {
-      "name": null,
-      "text": "Yes... It's just that the falling brooms\nhappened to hit me... Oh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "And yet—fufu. This only proves it once more.\nThat I have been summoned from an alternate world as a Holy Maiden.",
+      "choice_data_list": [
+        "What do you mean, proves it?"
+      ]
     },
     {
-      "name": null,
-      "text": "Ah, heavens! The \"Scripture\" meant to teach me\nthe ways of the otherworld... Could it truly be lost...?! ",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "The falling broom, the scattered tools—...\nAll of it is a \"trial\" bestowed upon this Holy Maiden!"
     },
     {
-      "name": null,
-      "text": "Fufu, they are runes♪ As a saint, reading and writing\nmystical scripts is second nature to me. ...Oh my, what did this mean again?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "\"Thou shalt not falter at such trifles\"—\nThat is the divine message being conveyed to me!"
     },
     {
-      "name": null,
-      "text": "(Clatter, clatter, bang—!!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "Yes! No matter the hardship, I shall never fall to my knees!\nI will overcome this trial without fail!"
     },
     {
-      "name": null,
-      "text": "I see... Is that, so...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "For I am—the Holy Maiden chosen by destiny!"
     },
     {
-      "name": null,
-      "text": "I managed to find \"The Medieval Carrot Compendium\" and \"Ancient Castles of the World,\" but for some reason, the \"Dictionary of Legends Pertaining to Umamusume\" is nowhere to be found.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "—First, let us move the long-handled items to the side.\nAnd place the lighter things on the bottom, correct?"
     },
     {
-      "name": null,
-      "text": "\"Thou shalt not falter at a trifle such as this\"—\nThat is the divine message bestowed upon me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...Seeing Red Desire tackle every misfortune positively as a \"trial,\"\nI can't help but admire her unbreakable spirit.",
+      "choice_data_list": [
+        "I'll help you clean up the locker.",
+        "I'll help you clean up the locker."
+      ]
     },
     {
-      "name": null,
-      "text": "...Red Desire faces any misfortune positively as a \"trial.\"\nHer incredible mental fortitude is honestly something to admire.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...\nStill, it has become quite a mess, hasn't it?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh my...! You would walk alongside me through this trial?!\nThen first—could you pick up that mop over there?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even so—fufu. This proves it once more.\nThat I have been summoned from another world as a saint.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No, please do not fret. I shall locate it with my saintly powers.\nThe mana of that tome is—ah! I sense it, from that bookshelf...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Indeed! No matter the hardship, I shall never fall to my knees!\nI will overcome this trial without fail!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Hark, troubled Umamusume.\nThe Saint of Salvation has descended before you this very moment.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Huh? Uhh... does that mean you'll do it for me?\nAh, but I'm in a rush so that's a huge help! Sorry, I'll leave the rest to you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Eeeek?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "For I am—the saint destined to save \"that land\"!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A few days after becoming Red Desire's trainer, seeing her everyday routine made me realize once again just how genuine her longing for \"another world\" truly was.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hmph! Hah! ......Phew. It's not opening easily at all.\n—Ah! Could this also be a... trial bestowed upon the saint?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufu, please do not worry. When concocting it,\nI shall refine it into a delicious potion with holy power!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...No! Surely this too is a trial to reach \"that land\"!\nI will find it no matter what!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yet fear not. I shall overcome this trial.\nAs the saint who will reach \"that land\"—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hah! Yah! Nnnngggghhh~~...!!\n—!! I did it, it's open!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Owwie~~...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer... It seems I am being impeded.\nBy the workings of a grand destiny, from \"unsealing\" that locker...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Desire-san, what language are you writing in that notebook?\nI've never seen those letters before.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It's true that swertia and Isodon japonicus can be grown at home.\nBut they're really, really bitter, you know?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "While walking down the hallway, I spotted Red Desire locked in a fierce struggle with a cleaning locker.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, geez! I want to put the mop away, but it won't open!\nEveryone just shoves things in so carelessly!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—First, let us set the long-handled tools to the side.\nAnd place the lighter items at the bottom, yes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Both the broom collision and the scattered tools—...\nAre all \"trials\" bestowed upon this saint!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "For I am—the saint chosen by destiny!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That door, bound tight in seal...\nI shall unleash it with the power of a saint.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, good day, Trainer.\nTruth be told, I am searching for a book.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fortunately, she was not seriously hurt,\nand after some quick first aid, the nosebleed stopped right away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Red Desire",
+      "text": "My...! You will walk this trial with me!\nThen, first—could you pick up that mop over there?"
     }
   ],
   "no_wrap": true

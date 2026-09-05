@@ -1,551 +1,217 @@
 {
-  "title": "",
+  "title": "Lime-Flavored Resolve",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi takes a sip of her drink.\n\nIntentionally leaving as verbatim text rather than matching voice sync.\n---\n★ Request\nHave Tsuyoshi take a sip of her drink.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "On my day off, while out shopping, I dropped by a bookstore—"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi looks like she can't find the book she's searching for.\nShe hasn't noticed Trainer yet.\n---\n★ Request\nTsuyoshi looks like she can't find her book.\nShe hasn't noticed Trainer, so don't have her look in their direction.\nIf needed for the background framing, having her turn her back is fine too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Mmh... Nope, not here either.\nShouldn't that book be in the new non-fiction section...?"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi waves her hands wildly.\n\nSFX: Footsteps walking away\n---\n★ Request\nTsuyoshi waves her hands wildly.\nSFX: Footsteps walking away (Cue ID around 110440 would be good)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hmm. The bigger stores are one nearby, and two further out... huh.\nToday's pretty much the only day I have all to myself, though—",
+      "choice_data_list": [
+        "Having some trouble?"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nShocked\n\n*If there's a comical sound effect like a vibraslap, use it\n---\n★ Request\nTsuyoshi: Shocked",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Whoa?!\nTrainer?!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\nMaster Tsuyoshi assumes a martial arts stance.\n\n*Since this is Tsuyoshi's unhinged imagination running wild, a special-move SFX would be ideal.\n---\n★ Request\nTsuyoshi: Martial arts stance (e.g. anm_eve_type00_budo04)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Umm... I'm looking for \"Never Messy Again! The Ultimate Organization Method\" and\n\"Zero Mistakes! The Solid & Precise Accounting Guide\"."
     },
     {
-      "name": null,
-      "text": "■ Direction\nIntentionally leaving as verbatim text rather than matching voice sync.\n---\n★ Request\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Plus \"The Secret Acupoints: The Mystery of Acupressure\" and\n\"Ultimate Stamina Recipes: Delicacy Edition\"... Those four!",
+      "choice_data_list": [
+        "That's quite an eclectic lineup...",
+        "That's quite an eclectic lineup..."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Heh heh heh. Practicality comes first!\nAnd that's precisely what I need right now!",
+      "choice_data_list": [
+        "I can help you look, if you'd like."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nHolding a nata de coco drink\n---\n★ Request\nTsuyoshi holds a nata de coco drink (lime color ver. prop is currently requested)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Really?! Having you with me is like having the strength of a hundred people!\nLet's go track them down right away!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n---\n★ Request\nFade in from white\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "*pant*... *gasp*... I'm soooo tiiiired...!\nI never thought we'd have to hit every single big bookstore in town..."
     },
     {
-      "name": null,
-      "text": "■ Direction\nSmirking/Grinning to herself\n\nIntentionally leaving as verbatim text rather than matching voice sync.\n---\n★ Request\nFade in from white\n---\n★ Request\nShow Tsurumaru Tsuyoshi (Casual Clothes)\nLooking like she's grinning slyly\nSmall font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Still! Thanks to you, we managed to find all four!\nYou really saved my bacon!",
+      "choice_data_list": [
+        "Glad I could help."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Here, drink up, Trainer! Don't be shy!\nIt's my treat for helping me out today!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n---\n★ Request\nGeneric wipe\n---\n★ Request\nTsurumaru Tsuyoshi (Racing Outfit) jumps in from above\n\n*Nuance of her dramatically swooping in within her daydream, finishing work like a special attack, and sticking the landing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "*gulp*...\nAhh, that hits the spot~~!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi is startled.\n---\n★ Request\nTsuyoshi is startled.\n\n*Should be comical, so something like (anm_eve_type00_surprise12) fits the image",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "The sour lime just seeps right into my tired body...\nPhew~... This is the taste of victory, isn't it?"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi notices Trainer mid-line at \"Wah!?\"\n---\n★ Request\nTsuyoshi notices Trainer mid-line around \"Wah!?\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Heheheh...\nOnce I master everything in these four books—"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsurumaru Tsuyoshi (Casual Clothes) walks in\nTsuyoshi wanders back and forth\n\nIntentionally leaving as verbatim text rather than matching voice sync.\n---\n★ Request\nTsurumaru Tsuyoshi (Casual Clothes) walks in\nTsuyoshi wanders back and forth",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "(They'll totally rely on me!)"
     },
     {
-      "name": null,
-      "text": "■ Direction\nSFX: Transitioning into a comical daydream, so a sound like \"har-har-harp/dreamy chime\" would be ideal.\n(Ref: https://audiostock.jp/audio/396646)\n---\n★ Request\nFade to white\n---\n★ Request\nLarge font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“Haaah... The work and paperwork just keep piling up.\nI have to hunt down receipts just to file expenses... Argh, what do I do~?!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n---\n★ Request\nFade to white / Fade in from white",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "？？？",
+      "text": "Heh heh heh... Seems you're in quite a pickle!\nFret not, for you can leave it all—"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\n---\n★ Request\nTsurumaru Tsuyoshi (Racing Outfit) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "To Master Tsuyoshi!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi is holding a smartphone.\n---\n★ Request\nTsuyoshi holds a smartphone (prop1002_00)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "Secret Art of Organization...\nThousand-Fist Document Sorting Strikeーーー!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTsuyoshi is holding a nata de coco drink.\n---\n★ Request\nTime passes\n---\n★ Request\nShow Tsurumaru Tsuyoshi (Casual Clothes)\nTsuyoshi holds a nata de coco drink (lime color ver. prop requested)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“I-In just a flash, the complete chaos\nof paperwork and receipts has been perfectly sorted...!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\n---\n★ Request\nText shake",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“...Guh?! The moment I sat down to take a quick breather,\nmy eyes, shoulders, and back completely gave out~!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\n---\n★ Request\nTsurumaru Tsuyoshi (Racing Outfit) walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "Have no fear! I have studied the acupoints\nand mastered the secret arts of rejuvenation!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\n\n*Since Tsuyoshi's imagination is running wild here, a special move SFX would be ideal.\n\n*Reading: \"Senretsu\" (Thousand Strikes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "Here goes! Life-and-Death Acupoint Stimulation: Ultimate Pressure Point Strike!\nHo-atchaaaa!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n---\n★ Request\nGeneric wipe\n---\n★ Request\nNo character display",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“A-Amazing...! My blurry vision cleared up,\nand the aches in my shoulders and back are gone~~!!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\n\nSFX: End of daydream sequence, so a dreamy transition sound like the start would be ideal.\n(Ref: https://audiostock.jp/audio/396646)\n\nIntentionally leaving as verbatim text rather than matching voice sync.\n---\n★ Request\nFade to white",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“Uuu, thanks to eating terribly because of my busy schedule,\nI've fallen into a state of chronic fatigue~!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n\nSilence for the first 1 second\n---\n★ Request\nGeneric wipe\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "Heh heh heh. Long ago, in pursuit of self-strengthening,\nI tirelessly honed my craft seeking the ultimate stamina cuisine..."
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\n---\n★ Request\nTsurumaru Tsuyoshi (Racing Outfit) runs in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "My frail constitution is a thing of the past! Now, I am health incarnate! The 'Master of Vitality'!\nAllow me to serve you my masterpiece: The Explosive Meat Diamond Set Meal!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“Whoaaaa!\nStrength is surging through my whole body! I feel like I'm turning totally buff~!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n\nSFX: A gong sound or similar would be great to emphasize the smugness\n---\n★ Request\nTsuyoshi looks like she's puffing out her chest and laughing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "It also strengthens the respiratory system, so no more choking!\nMedicine and food share the same origin—leave all your health care to me!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nTrainer in her imagination\n---\n★ Request\nFade to white / Fade in from white\nGeneric wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Delusional Trainer",
+      "text": "“Incredible, Tsuyoshi! You're so dependable! Master Tsuyoshi~~!”"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMaster Tsuyoshi\nMaster Tsuyoshi acts smug.\n---\n★ Request\nBlack wipe\nShow Tsurumaru Tsuyoshi (Racing Outfit)\nTsuyoshi acts smug",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "With work and health management both mastered, I have zero weaknesses!\nMy title as the 'Most Dependable Horsegirl of the Year' is practically set in stone!"
     },
     {
-      "name": null,
-      "text": "\"You're amazing, Tsuyoshi! So dependable, Tsuyoshi! Master Tsuyoshiii!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Master Tsuyoshi",
+      "text": "Hehehe... Ahahaha... AHAHAHAAAーーー!!"
     },
     {
-      "name": null,
-      "text": "Hmm. The stores bigger than this are one nearby and two further out... huh.\nBut today's pretty much the only day I have free all day, so—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ehehe... Eheheh... Ehehehehe...♪",
+      "choice_data_list": [
+        "...Earth to Tsuyoshi."
+      ]
     },
     {
-      "name": null,
-      "text": "Hwah!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Whuh?!"
     },
     {
-      "name": null,
-      "text": "On my day off, while stopping by a bookstore during shopping—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She looked completely lost in another world, so I waved\nmy hand in front of her face and called out to her a few times."
     },
     {
-      "name": null,
-      "text": "Ehehe... Ehehehe... Ehehehehe...♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I-I'm fine, I'm listening! I can hear you!",
+      "choice_data_list": [
+        "Good. Well, I should probably get going.",
+        "Good. Well, I should probably get going."
+      ]
     },
     {
-      "name": null,
-      "text": "Fufufu... Having trouble, I see!\nFear not, for you have nothing to worry about. For here—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Th-Thank you so much!",
+      "choice_data_list": [
+        "If you ever need a hand again, just let me know."
+      ]
     },
     {
-      "name": null,
-      "text": "Hehehe. In the past, to strengthen my own body,\nI pursued the ultimate stamina dishes and honed my craft to perfection...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Yes, will do~!\nTake care~!"
     },
     {
-      "name": null,
-      "text": "No worries! Having studied pressure points, I have also mastered\nthe secret techniques to boost your vitality!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "……。\n…………。"
     },
     {
-      "name": null,
-      "text": "Yes, got it~!\nThanks for your hard work~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Huh?\nNeed... a hand?"
     },
     {
-      "name": null,
-      "text": "Really!? With you around, Trainer, I'm a hundred times stronger!\nLet's go look for them right away!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Wait a second—\nI went into town this morning to find books, looked everywhere, found nothing..."
     },
     {
-      "name": null,
-      "text": "Huh?\nBe of... help?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ran into Trainer, and got help finding—"
     },
     {
-      "name": null,
-      "text": "She seemed completely spaced out, so I waved my hand in front of\nher face and called out to her several times.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I was the one relying on them completely!\nI'm the one who got helped out!"
     },
     {
-      "name": null,
-      "text": "I-I'm okay, I'm listening! I can hear you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I mean, I literally depended on them all day long, didn't I?!"
     },
     {
-      "name": null,
-      "text": "Heheheh~...\nAs long as I master what's in these four books—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Gaaah!\nThe road to becoming a dependable Master Tsuyoshi is so long...!"
     },
     {
-      "name": null,
-      "text": "Here I go! Life-and-Death Acupressure Stimulation Technique: Final Acupressure!\nHo-atchaaa!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Still, I won't give up! By the end of this summer, I'll be a Master—\nor at least a 'Novice Master Tsuyoshi'!"
     },
     {
-      "name": null,
-      "text": "But I'm not giving up~! By the end of this summer, I'll become a master—\nOr at least become 'Slightly Master Tsuyoshi'!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Here, Trainer, please don't hesitate to drink up!\nThis is my treat to you for today!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I bumped into Trainer, and got them to help me—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Still! Thanks to you, I got all four books~!\nYou were a huuuuge help!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufufu. Practicality comes first, after all.\nAnd that is precisely what I need right now!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The tartness of the lime seeping into my exhausted body... \nPhew~... This is the taste of victory, isn't it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Th-Thank you very much!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...\n......",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Savoring the sourness spreading across her tongue,\nTsurumaru Tsuyoshi renewed her resolve.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Plus, your respiratory system will get stronger so you won't cough anymore!\nFood and medicine share the same origin, so leave all your health management to me!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Having mastered both work and wellness, I have no weaknesses!\nMy title as Trainer's 'Most Dependable Umamusume of the Year' is rock solid!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Also 'Hidden Acupoints: Mysterious Pressure Point Therapy',\nand 'Ultimate Stamina Recipes: Delicacies Edition'... I'm looking for these four books!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's see—\nI went into town this morning to find books, looked all over, but couldn't find them...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Leave it all to Master Tsuyoshi!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Mmmghhhhh... Not here either.\nShouldn't that book be in the new paperback section...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'm totally relying on them instead! Me!\nI was the one getting helped out all along!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wah!?\nTrainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I mean, in the end, didn't I just rely on them the whole day!?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufufu... Ahaha... Aaaahahahahaaa!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(They'll rely on me!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"*Sigh*... The work and documents just keep piling up.\nFiling expense claims means hunting for receipts first... Oh man, what am I gonna do~!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "My frail constitution is a thing of the past. Now, I am health personified. In other words, 'The Master of Health'!\nAllow me to serve you its culmination: the 'Explosive Diamond Meat Set Meal'!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Gaaah!\nThe road to becoming the dependable Master Tsuyoshi is a long one...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*Gulp*...\nAahhh~, it hits the spot~~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's see... 'Never Messy Again! The Ultimate Organization Guide', and\n'No More Mistakes! Thorough and Flawless Accounting Handbook'.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Guh!? I just sat down in the chair to take a short break,\nand suddenly my eyes, shoulders, and lower back have hit their limit~!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"T-The chaotic mess of documents and receipts where you couldn't tell\nwhat was where has been sorted in an instant...!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"I-Incredible...! My blurry vision cleared up,\nand the aches in my shoulders and back are gone toooo!!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Ugh, I used being busy as an excuse to eat irregularly,\nand now I'm stuck with chronic fatigue~!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Secret Art of Organization...\nThousand Strikes Document Sortingggg!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"Whoaaa!\nPower is surging through my entire body, I feel like I've gotten jacked!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*Pant*... *Gasp*... I'm sooooo tired...!\nI never imagined we'd end up hitting every single big bookstore in town...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Savoring the tart flavor filling her mouth,\nTsurumaru Tsuyoshi reaffirmed her fiery resolve."
     }
   ],
   "no_wrap": true

@@ -1,537 +1,274 @@
 {
-  "title": "",
+  "title": "Transform! A New Hero, a New Me",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nPutting on a brave front and intentionally acting cheerful.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Trainer, hurry, hurry-!\nIt's already started-!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSince she's fully roleplaying as Carrotman, she intentionally uses \"watashi\" (polite/heroic \"I\").",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Right in the middle of summer training camp.\nAfter training wrapped up, Biko Pegasus dragged me to—"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSecond line should have a broad, boyish, embarrassed grin.\n---\n★ Request\nAfter fade-out\nDisplay Biko Pegasus (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Whoa-! This really feels like summer-!\nGrilled carrots and cotton candy sound great, but—"
     },
     {
-      "name": null,
-      "text": "★ Request\nTransition wipe\nDisplay Biko Pegasus (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "First, I've gotta find my ultimate treasure...\na Carrotman mask!",
+      "choice_data_list": [
+        "Your treasure?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Yeah! I had one when I was little!\nBut they're super rare, so I've never seen one since!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n*Holding a Carrotman mask.\n\"~~!\" is a soundless gasp of intense excitement.\n---\n★ Request\nDisplay Biko Pegasus (Summer Uniform)\n---\n★ Request\nNot yet implemented, but planned to have her hold a Carrotman mask.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "But right now, Carrotman's getting a rerun on TV!\nSo I thought maybe they'd be selling... Hmm?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAn \"Eeeehhhh?!\" conveying \"Oh no, I gotta buy it fast!\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Passing Man",
+      "text": "Man, talk about nostalgic—*Nutritional Warrior Carrotman*!\nThere weren't many left, but I'm so glad I got a mask~."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFirst 1 second silence\n---\n★ Request\nAfter fade-out\nLights-out filter on\n---\n★ Request\nHide character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Huh... WHAAATTT-?!\nT-T-Trainer! This is bad, we gotta hurry...!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nHolding back tears on the second line.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mask Vendor",
+      "text": "You're in luck, little lady! Sold out everywhere else!\nSo this right here is truly the very last one.",
+      "choice_data_list": [
+        "That's awesome, Biko!",
+        "What great luck, Biko!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n\"............\" Even though heroes give it up, she is internally conflicted.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "All... RIIIGHT~~!! Okay, mister—"
     },
     {
-      "name": null,
-      "text": "★ Request\nNot yet implemented, but planned to have a transformation motion matched to Carrotman's speech.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko & Young Boy",
+      "text": "One Carrotman mask, please!\n......Huh?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 50s\nPersonality: Cheerful / Lively",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Turning toward the voice, I see a young boy standing there.\nHe's panting hard, as if he's been running all over looking for a mask."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFirst 1 second silence",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Do you love Carrotman too...?\n......"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nFirst 1 second silence\nSleeping breathing sounds.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Good for you, kid! The truth is, I already have one at home!\nSo make sure you take good care of this mask!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 20s\nPersonality: Energetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Young Boy",
+      "text": "Are you sure...? Yay, thank you!\nI'll treasure it forever, big sis!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nHide character\n\nSE: Please insert footsteps sound effect.\n---\n★ Request\nFade to black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Heheh... Did you see that, Trainer?!\nHis smile was the absolute best!",
+      "choice_data_list": [
+        "...Biko..."
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nDisplay Biko Pegasus (Summer Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "I'm totally fine!\nAfter all, heroes fight to protect everyone's smiles!"
     },
     {
-      "name": null,
-      "text": "★ Request\nFade to black\nLights-out filter off",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "So something like this is... nothing to sweat over......\n—......"
     },
     {
-      "name": null,
-      "text": "★ Request\nTransition wipe\n",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I want to be there for Biko Pegasus.\nWith that thought in mind, I spoke the words she once taught me.",
+      "choice_data_list": [
+        "Relying on others is nutrition for the heart, right?",
+        "Relying on others is nutrition for the heart, isn't it?"
+      ]
     },
     {
-      "name": null,
-      "text": "★ Request\nPut away props as appropriate from here on.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "! ......Um, hey.\nTrainer, you're my fellow hero, right?"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nPlease deliver with a sad, pleading appeal toward the Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "There's something I wanna ask of you...\nIt might sound pretty selfish, but... I...!"
     },
     {
-      "name": null,
-      "text": "I want to be there for Biko Pegasus.\nWith that in mind, I voiced the words she had once taught me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "I really don't wanna give up on getting a Carrotman mask...!\nWill you look for one with me...?",
+      "choice_data_list": [
+        "Of course! We'll definitely find one!",
+        "Yeah! Let's definitely track one down!"
+      ]
     },
     {
-      "name": null,
-      "text": "Good for you, kiddo! Actually, I already have another one!\nSo make sure you take good care of that mask!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Trainer...! Yeah!"
     },
     {
-      "name": null,
-      "text": "Looking over toward the voice, I saw a young boy.\nHe was completely out of breath, as if he had been searching everywhere for that mask.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Together with her, we visit every mask stall at the festival. However,\nit seems Carrotman masks are sold out everywhere—"
     },
     {
-      "name": null,
-      "text": "! Heheh...! There you are, Grease Monster Lardron!\nI won't let you have your way!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Haa... haa...! Dammit~...!",
+      "choice_data_list": [
+        "Wait, let me think!"
+      ]
     },
     {
-      "name": null,
-      "text": "Full of nutrients! Full of justice!\nCarotene Charge—Carrotman!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mask Vendor",
+      "text": "Oh, there you are! I heard you're still looking, and\na place came to mind. If you're lucky, maybe there...",
+      "choice_data_list": [
+        "Wait...! Please tell us more!"
+      ]
     },
     {
-      "name": null,
-      "text": "I'll protect everyone's health!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After getting the details from the vendor, Biko Pegasus and I dash out of the festival.\nRunning with all our might clinging to a ray of hope, we arrive—"
     },
     {
-      "name": null,
-      "text": "So... this much is nothing... to me....\n——....",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Th... There!\nLook, Trainer-!"
     },
     {
-      "name": null,
-      "text": "When I was little! Wearing this mask made me\nfeel like I could really become the hero I admired!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "The festival stall corner inside the hot spring resort...!\nThere really was a Carrotman mask!!",
+      "choice_data_list": [
+        "Yes! We'll take this, please...!",
+        "Yeah! One of these, please...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer...! Yeah!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "...~~! Amazing!\nThis isn't a dream, right...?!"
     },
     {
-      "name": null,
-      "text": "I want to become the greatest hero, the kind that puts smiles on everyone's faces\n——together with you, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "When I was little, whenever I wore this mask,\nI really felt like I'd become the hero I looked up to!"
     },
     {
-      "name": null,
-      "text": "The squeeze I felt in my chest was real, too.\n...So, you know, if I ever feel like giving up again...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "But I played with it so much that it broke...!\nAnd I always dreamed of getting my hands on another one...!",
+      "choice_data_list": [
+        "I'm so glad you got your treasure back.",
+        "I'm really glad you found your treasure."
+      ]
     },
     {
-      "name": null,
-      "text": "She was breathing softly in her sleep. It felt wrong to wake her...\n...That's when an idea popped into my head.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Yeah! ...Hey, there's still plenty of time\nbefore curfew, right?"
     },
     {
-      "name": null,
-      "text": "The festival stall corner at the hot springs...!\nThey really had a Carrotman mask!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "I really wanna play Carrotman pretend just like when I was a kid.\nSo... will you play along with me for just a bit?",
+      "choice_data_list": [
+        "Yeah, of course! ...Slick-and-stickyyy!",
+        "Sure, of course! ...Slick-and-stickyyy!"
+      ]
     },
     {
-      "name": null,
-      "text": "Do you love Carrotman too...?\n....",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "! Heheh...! There you are, Grease Monster Lardron!\nI won't let you have your way!"
     },
     {
-      "name": null,
-      "text": "(...Just a little longer... like this——)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Nutritious! Righteous!\nCarotene charge—Carrotman!!"
     },
     {
-      "name": null,
-      "text": "Ah, don't get me wrong! When that kid at the festival\nsmiled, I was truly happy! But——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "I will protect everyone's health-!!"
     },
     {
-      "name": null,
-      "text": "I don't want to give up on the Carrotman mask...!\nWill you help me look for it...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After staging an epic battle with little Carrotman and having a blast,\nwe decided to take the bus back to the camp lodge... but.",
+      "choice_data_list": [
+        "We've reached the bus stop. ...Huh?",
+        "We're at the bus stop... Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "As her Trainer, and as her fellow hero.\nI strongly felt the urge to support her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "...Zzz..."
     },
     {
-      "name": null,
-      "text": "One Carrotman mask, please!\n...Huh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was breathing softly in her sleep. Waking her up\nfelt wrong... and just then, an idea crossed my mind."
     },
     {
-      "name": null,
-      "text": "When your heart feels weak, you lean on your comrades to get your energy back.\nThe hero I looked up to said that. So——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "(...Huh...? Are we... moving...?)\n(Wait... don't tell me...)"
     },
     {
-      "name": null,
-      "text": "I'm totally fine!\nBecause heroes fight for everyone's smiles!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "(...Ehehe... Trainer's back\nis so warm...)"
     },
     {
-      "name": null,
-      "text": ".... *Zzz*...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "(...Just a little longer... like this...)"
     },
     {
-      "name": null,
-      "text": "Yeah, having you around, Trainer...\n...No... being able to rely on you, Trainer—I'm so glad I could!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Biko Pegasus didn't feel heavy at all.\nTrying not to wake her, I quietly headed up to the lodge—"
     },
     {
-      "name": null,
-      "text": "! ...Um, hey.\nYou're my fellow hero, right, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Thanks, you can let me down here!\nHeheh... sorry for being a handful.",
+      "choice_data_list": [
+        "I'm just glad I could help.",
+        "I'm glad I could be there for you."
+      ]
     },
     {
-      "name": null,
-      "text": "But they're airing reruns of Carrotman right now!\nSo maybe they might be sellin'... Hm?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Yeah, having you around... No... Being able to\nrely on you, Trainer—I'm so glad I could!"
     },
     {
-      "name": null,
-      "text": "I wanted to play pretend Carrotman just like when I was little.\nSo... could you play along for just a bit?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "I always thought... a hero has to be strong.\nThat leaning on someone else just wasn't an option... but."
     },
     {
-      "name": null,
-      "text": "Trainer, hurry, hurry-!\nIt's already started-!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "When your heart is weak, relying on your allies gives you strength.\nThat's what the hero I look up to said. So—"
     },
     {
-      "name": null,
-      "text": "Man, talk about nostalgia, \"Nutritional Warrior Carrotman\"!\nThere weren't many left, but I'm glad we could buy a mask~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Even if you're a hero, it's okay to lean on your\nfriends when you feel like crying."
     },
     {
-      "name": null,
-      "text": "Haa... haa...! Damn it...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Ah, don't get me wrong! When that kid at the festival\nsmiled, I was truly happy! But—"
     },
     {
-      "name": null,
-      "text": "Because when you get strength from your comrades,\nyou can get back on your feet no matter how many times it takes.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "That ache in my chest was real, too.\n...So, if I ever feel like I'm about to break down again..."
     },
     {
-      "name": null,
-      "text": "There's something I want to ask of you, Trainer...\nIt might sound a bit selfish, but... you see...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "When that happens... can I lean on you, Trainer?"
     },
     {
-      "name": null,
-      "text": "But it broke from playing with it so much...!\nI've always wanted to get my hands on one again...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "Because as long as I get energy from my allies,\nI know I can get back up no matter how many times I fall."
     },
     {
-      "name": null,
-      "text": "When that happens... can I lean on you, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Biko Pegasus",
+      "text": "I want to become the greatest hero—one who can make\neveryone smile! Together with you, Trainer!",
+      "choice_data_list": [
+        "Yeah, of course!",
+        "Yes, absolutely!"
+      ]
     },
     {
-      "name": null,
-      "text": "Right in the middle of summer training camp. After training ended,\nBiko Pegasus brought me to——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "All... riiiight-!! Well then, mister——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh, there you are! Heard you were still looking for one,\nand a place came to mind. Maybe if you check over there...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Yeah! ...Hey, we still have\nplenty of time before curfew, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Are you sure...? Yay, thank you!\nI'll treasure it forever, big sis!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Eh... WHAAAAT-!?\nTr-Trainer! This is bad, we gotta hurry...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, I used to have one when I was little!\nIt was super rare though, and I haven't seen one since!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "First, we gotta look for my treasure...\nthe Carrotman mask!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Biko Pegasus's weight didn't bother me in the slightest.\nTrying gently not to wake her, I started heading into the camp lodge——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(...Ehehe... Trainer's back...\nis so warm...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(...? ...Am I... swaying...?\nCould it be——...)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Thanks, this is far enough!\nHeheh... sorry for making you take care of me.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Heheh... Did you see that, Trainer?!\nThat kid's smile was the best!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I went around to every mask stall at the festival with her. However,\nit seemed the Carrotman masks were sold out everywhere——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You're in luck, little lady! They're sold out everywhere else!\nSo that right there is genuinely the very last one.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...-! Amazing!\nThis isn't a dream, right...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even heroes are allowed to lean on their friends\nwhen they feel like crying, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah... Look at that!\nCheck it out, Trainer!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You know... I used to think heroes had to be strong.\nSo I thought I shouldn't rely on anyone... but.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Whoa-! It really feels like summer!\nGrilled carrots and cotton candy sound great, but——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After talking with the stall owner, I slipped away from the festival with Biko Pegasus.\nRunning with all our might clinging to a glimmer of hope, we finally——",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After staging an epic battle with the little Carrotman and having our fill of fun,\nwe decided to take the bus back to the camp lodge... however.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "As her Trainer, and as her fellow hero in arms.\nI felt a burning resolve to support her all the way."
     }
   ],
   "no_wrap": true

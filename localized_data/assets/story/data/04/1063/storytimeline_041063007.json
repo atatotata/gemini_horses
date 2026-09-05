@@ -1,460 +1,279 @@
 {
-  "title": "",
+  "title": "Someday, Sometime...",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■Direction\nSFX: Sound of bicycle wheels spinning",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "On the final day of the summer training camp, I began timing Ikuno Dictus on a nearby training course."
     },
     {
-      "name": null,
-      "text": "★Request\nNo character display",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Haaaaaaahhhhhh——!!!!",
+      "choice_data_list": [
+        "Looking good! Keep that pace up!!",
+        "Looking good! Keep it up!!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second\n---\n★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "*Haah*, *haah*... *haah*...\nTrainer... what is the result?",
+      "choice_data_list": [
+        "Yes! You hit the target time!",
+        "Yes! You made the target time!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade to white → Fade in from white",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "What a relief... We made it in time for the autumn season."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "All that remains is fine-tuning our adjustments.\nThank you for your hard work."
     },
     {
-      "name": null,
-      "text": "■Direction\nSFX: Braking sound & sound of propping up a bicycle",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Ah, Trainer. There you are.\nTomorrow is a spare day, so you have no scheduled plans, correct?"
     },
     {
-      "name": null,
-      "text": "■Direction\nLast night = yūbe\n---\n★Request\nGeneric wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "In that case—I have a proposal.\nWould you mind returning to retrieve our bicycles right now?",
+      "choice_data_list": [
+        "Wait, does that mean..."
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Yes. The scenic viewpoint I wished to visit lies just beyond the nearby mountain pass.\nIf you are willing, would you care to accompany me?",
+      "choice_data_list": [
+        "Of course! Let's definitely go!",
+        "Yes! I'd love to go!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second\nSFX: Sound of bicycle wheels spinning\n---\n★Request\nPan wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Did you sleep well last night?",
+      "choice_data_list": [
+        "Yeah, I'm feeling in top shape!",
+        "Yeah, feeling in top shape!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second\n---\n★Request\nPan wipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Physical condition optimal... check.\nA mountain pass is a test of stamina, so please do not overexert yourself."
     },
     {
-      "name": null,
-      "text": "■Direction\nSFX: Sound of fireworks",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The bicycle pedaled with surprising smoothness.\nWith light, easy pedal strokes, I ended up picking up speed without realizing—",
+      "choice_data_list": [
+        "Whoaaa-whoa-whoa... !?"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second of line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Apply your brakes for a moment. And take a deep breath!\nPlease match my speed."
     },
     {
-      "name": null,
-      "text": "■Direction\nSilence for the first 1 second",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...Phew.\nFrom here on, the mountain pass gets steep. Are you mentally prepared?",
+      "choice_data_list": [
+        "Yeah, bring it on!",
+        "Yeah, I'm ready for anything!"
+      ]
     },
     {
-      "name": null,
-      "text": "■Direction\nVoice acting direction: sound of sipping a drink during the opening \"...\"\n---\n★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "That is the spirit. However, do not rush ahead.\nI will gauge our condition as we ride, so let us proceed at a gentle pace."
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Ikuno Dictus (Casual Clothes)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was paying extra attention to me today.\nIkuno Dictus felt even more dependable than usual.",
+      "choice_data_list": [
+        "You'd make a great trainer yourself.",
+        "You'd make a great trainer yourself, you know."
+      ]
     },
     {
-      "name": null,
-      "text": "There are things one notices only when relaxing their shoulders.\nWouldn't you agree, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Then allow me to act the part.\nBefore we depart, let us stretch to loosen up our muscles."
     },
     {
-      "name": null,
-      "text": "On the other hand... how was it for you?\nIt must have been tough in parts for your first real ride.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...The summer breeze and scent are quite refreshing.\nHow are you feeling, Trainer?",
+      "choice_data_list": [
+        "It feels amazing!",
+        "It feels great!"
+      ]
     },
     {
-      "name": null,
-      "text": "Please look. At those beautiful fireworks.\nAnd at this leisurely time we share.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Indeed.\nThe downhill section will be even more exhilarating."
     },
     {
-      "name": null,
-      "text": "Thank goodness... We made it in time for autumn.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After riding along the pass in high spirits for 30 minutes,\nthe viewpoint was just ahead, but my pace began to drop—",
+      "choice_data_list": [
+        "(Ugh... this isn't... just fatigue...)"
+      ]
     },
     {
-      "name": null,
-      "text": "Your pedaling appears to be faltering.\nIs anything the matter?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Your pedaling rhythm appears to be faltering.\nIs something amiss?",
+      "choice_data_list": [
+        "Sorry, truth is, my legs are killing me..."
+      ]
     },
     {
-      "name": null,
-      "text": "The only times someone like me can slow down\nare when presented with a different perspective.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "That explains it... I should have noticed sooner.\nHow severe is the pain? Do you think you can continue after resting?"
     },
     {
-      "name": null,
-      "text": "That is the spirit. However, do not rush ahead too eagerly.\nI will ride while keeping an eye on your condition, so let us head over at a relaxed pace.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Ikuno Dictus had really been looking forward to today.\nHowever, pushing myself further would only cause more trouble.",
+      "choice_data_list": [
+        "I don't think I can make it up the hill... I'm so sorry!"
+      ]
     },
     {
-      "name": null,
-      "text": "The final day of the summer training camp. On a nearby training course,\nI began timing Ikuno Dictus's run.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "No, please, there is no need to apologize.\nI have thoroughly enjoyed this ride, as it has been a long time since my last."
     },
     {
-      "name": null,
-      "text": "All that remains now is fine-tuning.\nThank you for your hard work.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "On the contrary... how was it for you?\nGiven this was your first proper ride, it must have been quite taxing in parts.",
+      "choice_data_list": [
+        "It was fun... That's why I want to try again someday."
+      ]
     },
     {
-      "name": null,
-      "text": "Yes. The observation deck I wanted to visit is just past the nearby mountain pass.\nIf you would like, care to join me?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I am glad to hear that.\nLet us gradually build up your endurance for our next attempt."
     },
     {
-      "name": null,
-      "text": "Brake for a moment. And take a deep breath!\nPlease try to match my speed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...Before we head back, we should take a proper break.\nIf only there were a place where we could sit down and rest...",
+      "choice_data_list": [
+        "Yeah, that'd be nice... Hm?"
+      ]
     },
     {
-      "name": null,
-      "text": "It is something I rarely write down, but...\nIt is an unscheduled, brand-new plan.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Down a forest path leading off the mountain pass, I spotted a sign.\nIf my eyes weren't mistaken, the letters read \"CAFE.\""
     },
     {
-      "name": null,
-      "text": "Then let us fully look the part, shall we?\nBefore departing, we will loosen our muscles with some stretching.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...Phew. That blows away the fatigue, doesn't it?"
     },
     {
-      "name": null,
-      "text": "Ah, that is right. Before I forget.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Oh, look... you can see the town nestled in the mountains.\nIt looks picture-postcard perfect."
     },
     {
-      "name": null,
-      "text": "So—here is my suggestion.\nShall we head back once to pick up our bicycles?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Let us enjoy the scenery while waiting to recover."
     },
     {
-      "name": null,
-      "text": "She is being especially considerate of me today.\nIkuno Dictus is even more dependable than usual.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "We ended up savoring the view for quite a long time.\n...I wondered if the view from the lookout point would have been just as beautiful.",
+      "choice_data_list": [
+        "I really wanted to show you the view from the overlook."
+      ]
     },
     {
-      "name": null,
-      "text": "Let us wait for your recovery while enjoying the scenery.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Trainer, please do not—"
     },
     {
-      "name": null,
-      "text": "Isn't it? \nGoing downhill is even more exhilarating.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Just then, fireworks appeared outside the window,\nbursting with light so bright it made the city lights fade."
     },
     {
-      "name": null,
-      "text": "That is my line.\n...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Oh... Could this be the final fireworks display of the summer?\nHow lovely."
     },
     {
-      "name": null,
-      "text": "It seems my fundamental nature is unlikely to change.\nNot in the past, and not in the future.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...I do not regret being unable to reach the viewpoint today.",
+      "choice_data_list": [
+        "Huh... Why is that?"
+      ]
     },
     {
-      "name": null,
-      "text": "I would like to say yes, but... it is not so simple.\nI inevitably end up prioritizing efficiency.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Please look. At those beautiful fireworks.\nAnd at this unhurried, peaceful time we share."
     },
     {
-      "name": null,
-      "text": "...Now, before rushing back on momentum, let us take a long break.\nIt would be nice if there were a place to sit down and rest...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Had we simply pressed forward without stopping, we would have missed this entirely.\nIn fact, we would never have known it existed."
     },
     {
-      "name": null,
-      "text": "Ohh... Are those the last fireworks of the summer?\nHow beautiful.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Sometimes, relaxing your shoulders allows you to notice new things.\nWould you not agree, Trainer?",
+      "choice_data_list": [
+        "Ah..."
+      ]
     },
     {
-      "name": null,
-      "text": "Ikuno Dictus had truly been looking forward to today.\nHowever, pushing myself too hard would only cause her more trouble.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Those were the exact words I had once taught Ikuno Dictus.\nI should have known it intellectually, and yet...",
+      "choice_data_list": [
+        "You got me... Our roles really were reversed today.",
+        "You got me... Our roles really were reversed today, huh."
+      ]
     },
     {
-      "name": null,
-      "text": "Haaaaaaahhhhhーー!!!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Hehe. This time, it was your turn to realize it.",
+      "choice_data_list": [
+        "You've really changed, haven't you?",
+        "You really have changed, haven't you?"
+      ]
     },
     {
-      "name": null,
-      "text": "At the end of a forest trail branching off the pass road, I spotted a signboard.\nIf my eyes didn't deceive me, the letters spelled out \"CAFE.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "I would like to say yes, but... it is not so simple.\nI still inevitably place the highest priority on efficiency."
     },
     {
-      "name": null,
-      "text": "In other words... I would appreciate it if you could continue\nto pump the brakes for me in the future.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "It seems my fundamental nature cannot be completely altered.\nNeither in the past, nor in the future."
     },
     {
-      "name": null,
-      "text": "Physical condition is fully normal... Check.\nThe mountain pass is a battle of stamina. Overexertion is strictly prohibited, after all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "The only time someone like me can slow down\nis when presented with an alternative perspective."
     },
     {
-      "name": null,
-      "text": "Splendid.\nLet us gradually build up your stamina toward our eventual rematch.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "In other words... I would appreciate it if you could continue to apply the brakes for me going forward.",
+      "choice_data_list": [
+        "Ikuno... thank you."
+      ]
     },
     {
-      "name": null,
-      "text": "\"Someday, let us go on a long ride together again.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "That is my line.\n..."
     },
     {
-      "name": null,
-      "text": "No, no, please do not apologize.\nI thoroughly enjoyed our ride together for the first time in a while.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With a resounding boom, another firework burst into color.\nNo matter how many times I saw it, it was breathtaking—a sight I'd want to share again and again."
     },
     {
-      "name": null,
-      "text": "Had I simply pushed forward, I likely would have overlooked this.\nIn fact, I would never have even known it existed.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "Ah, that reminds me. Before I forget."
     },
     {
-      "name": null,
-      "text": "Oh, look between the mountains... the town.\nIt looks picturesque enough to be a postcard.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "...There, that will do.",
+      "choice_data_list": [
+        "What did you write down?",
+        "What did you write?"
+      ]
     },
     {
-      "name": null,
-      "text": "Trainer, that is not at all――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "It is something I rarely record...\nA new, yet-to-be-scheduled entry."
     },
     {
-      "name": null,
-      "text": ".\nDid you sleep well last night?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As I started pedaling, the bicycle glided forward with astonishing smoothness.\nWith light feet, I inadvertently picked up speed――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Just then, fireworks burst into view through the window.\nThey radiated light brilliant enough to obscure the city glow.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "That was something I had once taught Ikuno Dictus myself.\nEven though I should have known it in my head...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*Haah*, *haah*... *haah*...\nTrainer... what do you think?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...There, all done.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...I do not regret being unable to reach\nthe observation deck today.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "With a resounding boom, another firework burst in the sky.\nNo matter how many times I see it, it is breathtaking—a sight I'd love to watch with her again and again.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufu. This time, it was your turn to notice.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...The summer breeze and scent feel lovely.\nHow are you doing, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...*Phew*. All my fatigue simply melts away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I ended up soaking in the scenery for quite a long time.\n...I wonder if the view from the observation deck would have been just as beautiful.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "After cycling the mountain pass in high spirits for 30 minutes.\nWe were close to the observation deck, but my pace began to slow down――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...*Phew*.\nThe steep mountain pass begins here. Are you mentally prepared?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, Trainer. There you are.\nTomorrow is a spare day, so you have no scheduled plans, correct?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No wonder... I should have noticed sooner.\nHow severe is the pain? Do you think you can ride after taking a rest?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Ikuno Dictus",
+      "text": "\"Someday, another long ride together.\""
     }
   ],
   "no_wrap": true

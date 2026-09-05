@@ -1,453 +1,226 @@
 {
-  "title": "",
+  "title": "The Pulse of the Strong",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nOguri Cap and Tamamo Cross walk into frame, looking exhausted.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "A few days after showing a lost Oguri Cap the way,\nI spotted her wandering the academy grounds with a troubled look once again..."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nGender: Female\nAge: 2nd Year High School\nPersonality: Cheerful, spirited",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Mmh... I have ended up back here again...",
+      "choice_data_list": [
+        "Where are you trying to go today?",
+        "Where are you headed today?"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nHide Oguri Cap and Tamamo Cross characters.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "You are... from the other day."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Murmurs\n---\n★Request\nOguri Cap walks into frame, changed into a jersey.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "My apologies, but could you give me directions again?\nI want to go to the training track."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSatisfied sigh\n---\n★Request\nTamamo Cross walks out of frame.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "I escorted Oguri Cap to the track."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSE: Stomach growling",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Sorry to keep you waiting, Tama."
     },
     {
-      "name": null,
-      "text": "★Request\nOguri walks into frame to where Tamamo Cross is.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Ooh, there ya are, Oguri! Well look at you!\nYa finally managed to memorize the way to the track, huh?!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nGender: Female\nAge: 3rd Year Middle School\nPersonality: Cheerful, spirited",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "I was worried ya'd get lost, but I can't be holding yer hand\nevery time. Guess playin' the tough guy paid off after—"
     },
     {
-      "name": null,
-      "text": "★Request\nFade to black.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Yes, I figured out the way.\nBecause the Trainer guided me the whole time."
     },
     {
-      "name": null,
-      "text": "★Request\nTamamo Cross runs into frame.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "So ya just had someone bring ya here after all, ya big goof!!"
     },
     {
-      "name": null,
-      "text": "★Request\nOguri Cap and Tamamo Cross walk out of frame.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "...W-Well, whatever.\nLet's get right down to our mock race, then!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nSoliloquy",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Let us. I will go get ready."
     },
     {
-      "name": null,
-      "text": "Mmh... I ended up right back here again...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Alright, me too!"
     },
     {
-      "name": null,
-      "text": "No, it's just... back home, I was never surrounded\r\nby so many girls around my own age, so...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Oguri Cap's opponent for the mock race was\nTamamo Cross, a formidable horsegirl who had already made her debut."
     },
     {
-      "name": null,
-      "text": "It is awfully noisy.\nIs there a festival starting here, perhaps?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Word of the matchup spread across the academy in no time—"
     },
     {
-      "name": null,
-      "text": "M-Man, you really are a piece of work...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Tamamo-senpai and that transfer student\nare about to have a mock race over there right now!!"
     },
     {
-      "name": null,
-      "text": "A few days after guiding the lost Oguri Cap,\r\nI spotted her wandering around the academy with a troubled look once again...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "Really?! We finally get to see what Oguri Cap-san\ncan do up close~! Come on, let's go!"
     },
     {
-      "name": null,
-      "text": "I am not used to it, so lately I have been eating meals in my room—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Mmh...?"
     },
     {
-      "name": null,
-      "text": "Aha, there ya are, Oguri! Attagirl,\r\nyou finally went and memorized the way to the track!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "It is awfully noisy.\nIs there a festival about to start here?",
+      "choice_data_list": [
+        "I think everyone came to watch you two race.",
+        "They're all here to watch your race."
+      ]
     },
     {
-      "name": null,
-      "text": "Really?! We finally get to see Oguri Cap's speed\nup close and personal! Let's go, let's go!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Oh... Is that so?\nTo have this many other horsegirls gather..."
     },
     {
-      "name": null,
-      "text": "Tama... You are fast, too. More than I expected.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Mmm...",
+      "choice_data_list": [
+        "Why are you fidgeting like that?",
+        "Why are you fidgeting like that?"
+      ]
     },
     {
-      "name": null,
-      "text": "Wait, whoa! Look at that massive crowd!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "No, it's just... back home, I was never\nsurrounded by so many people around my age..."
     },
     {
-      "name": null,
-      "text": "Heh, you bet I am! But next time,\nI'm gonna blow your expectations way outta the water.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I guess I'm not used to it... It makes me feel restless."
     },
     {
-      "name": null,
-      "text": "Oguri Cap's opponent for the mock race\r\nwas Tamamo Cross, a powerhouse Umamusume who had already debuted.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "It's the same during mealtimes... When I pile my plate high with food,\npeople can't help but stare..."
     },
     {
-      "name": null,
-      "text": "It is a very strange... yet pleasant sensation.\nCould this be... excitement...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I'm not fond of that, so lately I've been eating in my room—"
     },
     {
-      "name": null,
-      "text": ".........",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Aight, sorry to keep ya waitin', Oguri!\nI'm good an' ready to—..."
     },
     {
-      "name": null,
-      "text": "Hey, sorry to keep ya waitin', Oguri!\r\nI'm all set to roll...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Whoa, hold up?! What's with this massive crowd?!"
     },
     {
-      "name": null,
-      "text": "Well, if you get nervous,\r\njust picture all their faces as giant takoyaki!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Ah, Tama..."
     },
     {
-      "name": null,
-      "text": "I see. So this is the Central League's—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Hm? What's the matter, Oguri, ya nervous?\nYa'll never survive a GⅠ lookin' like that!"
     },
     {
-      "name": null,
-      "text": "You are... from the other day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Well, if yer gettin' stage fright,\njust picture all their faces as takoyaki!"
     },
     {
-      "name": null,
-      "text": "Right now... my heart won't stop racing.\r\nWhenever I recall that race earlier, it just starts pounding.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "\"Takoyaki\"... I see. Understood.\nI'll give it a try."
     },
     {
-      "name": null,
-      "text": "Since I am not used to it... it makes me restless.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "..................Now I've gone and made myself hungry."
     },
     {
-      "name": null,
-      "text": "...It is a rather curious feeling. My heart is supposedly strong,\r\nso it usually settles down right after a race, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Y-Yer a real piece of work, ya know that...?"
     },
     {
-      "name": null,
-      "text": "Yes, I know the way.\nThe Trainer guided me the entire way, after all.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "And so, the mock race between Oguri Cap\nand Tamamo Cross was finally underway...!"
     },
     {
-      "name": null,
-      "text": "The distance was 800 meters. Their powerful strides tore into the turf.\nNeither was willing to give an inch...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Ngh...!!"
     },
     {
-      "name": null,
-      "text": "I was worried ya'd get lost, but hey—it ain't like I can guide\r\nya everywhere. Figured bein' a bit strict would pay off—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Lemme show ya what pure Naniwa grit looks like—!!"
     },
     {
-      "name": null,
-      "text": "Let's do that. I'll go get ready.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "The distance is 800 meters. Their powerful strides gouge the turf.\nNeither gives a single inch...!"
     },
     {
-      "name": null,
-      "text": "Excuse me, could you give me directions again?\nI need to get to the training course.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Mmh...!!"
     },
     {
-      "name": null,
-      "text": "Oh... Were you watching?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Oguri...! Heh, the real race starts now!!"
     },
     {
-      "name": null,
-      "text": "...Ah, whatever, don't matter now.\nC'mon, let's get this mock race rollin'!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "The two trade the lead back and forth, over and over, until—!"
     },
     {
-      "name": null,
-      "text": "Alright, me too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "*pant*, *whew*...! A dead heat with the exact\nsame time, huh...? Not bad at all, Oguri."
     },
     {
-      "name": null,
-      "text": "The rumor spread across the academy in an instant—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Tama... you're fast, too. Even faster than I expected."
     },
     {
-      "name": null,
-      "text": "\"Takoyaki\"... I see. Understood.\r\nI'll give it a try.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "Heh, you bet I am! But next time,\nI'm gonna blow right past yer expectations."
     },
     {
-      "name": null,
-      "text": "Oh... Is that so?\nTo think this many Umamusume would come...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tamamo Cross",
+      "text": "—Alright! Now I'm all fired up!\nThink I'll go do some roadwork. Catch ya later, Oguri!"
     },
     {
-      "name": null,
-      "text": "Oguri...! Heh, we're just gettin' started!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "………………。",
+      "choice_data_list": [
+        "Great work out there. That was a wonderful race.",
+        "Great work out there. That was a wonderful race."
+      ]
     },
     {
-      "name": null,
-      "text": "Mmh...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Ah... You were watching?"
     },
     {
-      "name": null,
-      "text": "Ngh...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "...It's strange. I've always had a pretty strong heart,\nso usually my pulse settles right down after a race..."
     },
     {
-      "name": null,
-      "text": "Ah, Tama...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "Right now... it's still pounding fast.\nWhenever I think back to our race just now, my heart won't stop racing."
     },
     {
-      "name": null,
-      "text": "And with that, Oguri Cap and\nTamamo Cross's mock race finally began...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "It's so strange... yet it feels wonderful.\nCould this be... what excitement feels like...?",
+      "choice_data_list": [
+        "Sounds like you found yourself a great rival.",
+        "Sounds like you found yourself a great rival."
+      ]
     },
     {
-      "name": null,
-      "text": "I'll show ya what Naniwa grit's all about!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "A rival..."
     },
     {
-      "name": null,
-      "text": "It was the same during meals... Whenever I piled my plate high with food,\r\nI inevitably drew attention...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Oguri Cap",
+      "text": "I see. So this is what the Central—"
     },
     {
-      "name": null,
-      "text": "A rival...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So ya went and brought 'em anyway, huh?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oguri Cap stood there for a long time,\nas if savoring the lingering afterglow...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Alright, now I'm all fired up!\r\nThink I'll go for a run outside. Catch ya later, Oguri!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hm? What's up, Oguri? Gettin' cold feet?\r\nYa'll never make it in a GⅠ race like that, y'know~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sorry to keep you waiting, Tama.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Tamamo-senpai and that transfer student\nare about to run a mock race over there!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The two constantly traded the lead back and forth, and then—!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hah...!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": ".........I've started to get hungry.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I guided Oguri Cap to the track.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Haa, hah...! Dead heat, same time, huh...\r\nNot bad at all, Oguri.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hm...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Oguri Cap lingered where she stood for a long time,\nas if trying to hold on to every last bit of that sensation..."
     }
   ],
   "no_wrap": true

@@ -1,306 +1,190 @@
 {
-  "title": "",
+  "title": "What makes a reliable trainer...",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 30s\r\nPersonality: Serious",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Super Creek is a horse girl whose 'excellence' and ability are known both inside and outside the academy."
     },
     {
-      "name": null,
-      "text": "★ Request\nAttire: Gym Uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Trainer, I took 1st place~.\nEven if it was just a mock race, I'm so happy♪"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nAge: 15\r\nPersonality: Hot-blooded",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Aside from her ability, she is also widely known for one other major trait—"
     },
     {
-      "name": null,
-      "text": "★ Request\nAttire: Uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Phew, it sure is hot today~... Oh?\nTrainer, you're sweating so much. Let me wipe that off for you.",
+      "choice_data_list": [
+        "I-I'll do it myself!"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nSaying \"There, there, good boy/girl\" while gently patting Trainer on the head.\n---\n★ Request\nFade to Black",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "I reached into my pocket to grab a handkerchief... but\nthere was nothing there. Looks like I forgot to bring one..."
     },
     {
-      "name": null,
-      "text": "★ Request\nFade in from Black\n---\n★ Request\n*Visualized image after wiping Trainer's sweat\r\nand putting the handkerchief away.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Fufu, don't worry. Leave it to me..."
     },
     {
-      "name": null,
-      "text": "Is that so...?\nCome, let's go have lunch soon.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "There now, hold still.\nGood boy, good boy♪"
     },
     {
-      "name": null,
-      "text": "All right... there. All fresh and clean♪\r\nMake sure to check for your handkerchief and tissues before heading out, okay?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "In the end, I ended up getting pampered again..."
     },
     {
-      "name": null,
-      "text": "Now, now, take it off.\r\nIt's all right~, it'll only take a moment.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "All... done! That should feel much fresher♪\nMake sure to double-check for your handkerchief and tissues before heading out, okay?"
     },
     {
-      "name": null,
-      "text": "Now then, what should we do... hmm...\r\nAh, I just thought of something.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Her attentive nature is certainly a wonderful virtue. But as a trainer,\nI can't let myself be babied forever. After all—"
     },
     {
-      "name": null,
-      "text": "I reached into my pocket to pull out a handkerchief... but\r\nthere was nothing inside. It seems I forgot to bring one...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Career Trainer A",
+      "text": "Second place, huh... That was close. But your time has definitely improved.\nLet's keep up this momentum!"
     },
     {
-      "name": null,
-      "text": "At first, no one can do everything on their own.\r\nEveryone needs help from those around them.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Yes, sir! It's all thanks to your guidance, Trainer!\nI'll keep counting on you!"
     },
     {
-      "name": null,
-      "text": "Yes! It's all thanks to your guidance, Trainer!\nI'm counting on you from now on too!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "...A trainer is supposed to be someone a horsegirl can rely on.",
+      "choice_data_list": [
+        "I can't just keep letting her baby me...!"
+      ]
     },
     {
-      "name": null,
-      "text": "Helping someone fulfill their wish to \"be faster than anyone else,\"\r\nand making that reality—there is no greater wish than that.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Fufu, it's all right. Leave it to me...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "On the contrary, I hear she would help her parents\ncomfort other crying children of the same age.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "So you really don't need to worry about it.\r\nIf anything, please let me pamper you more and more♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...A Trainer ought to be someone their Umamusume can rely on.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Why, you ask...? Hmm, when you ask me like that,\r\nit's a little hard to explain, but...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "If I could help with that, wouldn't that be...\r\na truly, wonderfully lovely thing?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Let's see~... I want you to eat plenty of food\r\nwith good nutritional balance, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Her attentiveness is one of her greatest virtues. But as a Trainer,\r\nI can't let myself be pampered forever. Because—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Aside from her immense talent, her other most\r\nwell-known trait is—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Helping someone grow... In a way, that shared\na lot with how I felt toward Umamusume as a Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ever since I noticed it coming loose earlier,\nI just couldn't take my mind off it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Second place, huh... That was close. But your time is definitely improving.\nLet's keep this momentum going!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It seemed the day I could finally graduate from Super Creek's pampering\nwas still a long way off...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "There now, hold still.\r\nGood boy/girl, good boy/girl♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "In the end, I ended up getting pampered again...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Be it parents, teachers, or friends...\r\nPeople grow little by little with help from others.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "You feel the same way, Trainer...\nFufu, that makes me quite happy.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I see, so that's why you wanted me to ask a favor of you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Even when I was little at the daycare center my parents ran,\r\npeople always said, \"She's such an easy child to raise.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Watching the children who came to our daycare...\r\nWatching them grow, there's something I realized.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer, I took first place~.\nEven though it was just a practice race, I'm so happy♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No, this is a favor from me.\nCome on now♪",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Trainer, would you please...\nlet me sew that button back onto your shirt?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Super Creek",
       "text": "Did you say something?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "No, it's nothing.",
+        "Nah, it's nothing."
+      ]
     },
     {
-      "name": null,
-      "text": "Hmm, I wonder.\nEven looking back at my childhood, nothing really comes to mind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Is that so...? \nCome now, it's about time for lunch."
     },
     {
-      "name": null,
-      "text": "*Phew*, it sure is hot today, isn't it~? ...Oh my?\r\nTrainer, you're sweating so much. Here, let me wipe it for you.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Even during lunch, Super Creek keeps on pampering me.\nBut, to change my relationship with her—",
+      "choice_data_list": [
+        "Is there anything you want me to do for you?",
+        "Is there anything you want me to do?"
+      ]
     },
     {
-      "name": null,
-      "text": "Super Creek is an Umamusume widely known both inside\r\nand outside the Academy for her \"exceptional\" ability.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "Hmm, let's see... I want you, Trainer, to have a well-balanced diet,\nand eat plenty of food.",
+      "choice_data_list": [
+        "That's not what I meant..."
+      ]
     },
     {
-      "name": null,
-      "text": "...Taking care of people like this and seeing them smile\nand cheer up brings me more joy than anything else.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "...I'm happiest when I can take care of someone like this, and see them smile and feel energized."
     },
     {
-      "name": null,
-      "text": "Even during lunch, Super Creek continued to pamper me nonstop.\r\nHowever, in order to change our dynamic—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Super Creek",
+      "text": "So you don't need to worry about it.\nIf anything, please let me pamper you even more♪",
+      "choice_data_list": [
+        "Don't you ever want to be pampered yourself?",
+        "Don't you ever want to be pampered?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hmm, let me see.\nEven looking back on my childhood, nothing really comes to mind."
+    },
+    {
+      "name": "Super Creek",
+      "text": "When I was little and at the daycare my parents ran,\nthey always said I was 'such an easy child to take care of.'"
+    },
+    {
+      "name": "Super Creek",
+      "text": "In fact, they said I used to help my parents comfort the other children my age whenever they started crying.",
+      "choice_data_list": [
+        "Why are you so good at taking care of others...?",
+        "Why are you so good at taking care of others...?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Why...? Hmm, now that you ask me that directly,\nit's a bit hard to say..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Watching the children who came to our place...\nand seeing them grow, I realized something."
+    },
+    {
+      "name": "Super Creek",
+      "text": "At first, everyone can't do anything on their own.\nThey need the help of those around them."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Whether it's their parents, teachers, or friends...\nthey grow up little by little while being helped by someone."
+    },
+    {
+      "name": "Super Creek",
+      "text": "If I could be the one to help them with that, well...\nwouldn't that be just... absolutely wonderful?"
+    },
+    {
+      "name": "Narrator",
+      "text": "Helping someone grow... that really resonates with my own feelings\nas a Trainer toward my Umamusume."
+    },
+    {
+      "name": "Narrator",
+      "text": "To help them fulfill their wish of 'wanting to be faster than anyone else'—\nthere is no greater wish than to see that come true.",
+      "choice_data_list": [
+        "I feel the exact same way.",
+        "I feel the same way too."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "You feel the same way, Trainer...?\nFufu, that makes me so happy somehow."
+    },
+    {
+      "name": "Super Creek",
+      "text": "I see, so that's why you wanted me to ask something of you."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Now, what should I ask for... Hmm...\nAh, I just thought of something.",
+      "choice_data_list": [
+        "What is it?",
+        "What would that be?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Trainer... would you let me...\nsew on that loose button on your shirt?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "I noticed earlier that it was about to fall off,\nand I just haven't been able to stop thinking about it."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Come now, take it off for me.\nDon't worry~, it'll only take a moment.",
+      "choice_data_list": [
+        "You're still just pampering me!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh no, this is a favor I'm asking of you.\nCome on, hand it over♪"
+    },
+    {
+      "name": "Narrator",
+      "text": "It looks like the day I finally graduate from Super Creek's doting\nis still a long, long way off..."
     }
   ],
   "no_wrap": true

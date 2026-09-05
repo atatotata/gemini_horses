@@ -1,530 +1,236 @@
 {
-  "title": "",
+  "title": "Dance Across My Board",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nRulership accelerates and exits screen",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "Wh... Y-You......\nYou came here on your own...? To train...?"
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Air Groove (Winter Tracksuit) & Eishin Flash (Winter Tracksuit)\nRulership (Winter Tracksuit) walks in ⇒ Air Groove & Flash look at Rulership in shock",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "What a strange question to ask, Air Groove-san.\nThere's only one thing to do here, and that is train."
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Now then, Trainer.\nLet us take the route with the fewest possible moves."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*No VO recording needed\n*Approx. 3 seconds of silence (Please leave a 3–5 second silence here)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "To strike the finishing blow in the endgame, boosting stamina and burst power is top priority.\nPersonally, I want a decisive clincher to seal the checkmate.",
+      "choice_data_list": [
+        "Let's start with the uphill slopes!"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nRulership sits up abruptly and thrashes around",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Heh—I shall demonstrate results in no time."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nMuttering\n---\n★Request\nSmall Font",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Miso soup loaded with Japanese mustard spinach and tofu provides plenty of iron\nand plant-based protein... and stir-fried liver and garlic chives covers vitamin B1."
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In\nEnd of Race Scene",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "(I've thoroughly mapped out all the match patterns, too...\nAll that's left is relentlessly boosting stamina and power. Yes, right on schedule.)"
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\n---\n★Request\nRain Effect - Normal\nDisplay Air Groove (Winter Uniform), holding spectator umbrella (prop1176_04)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "(Considering the weather forecast, the board state might be rougher than anticipated...\nI need to raise my base stats a bit more. Time to up the load...!)",
+      "choice_data_list": [
+        "(She's working so hard...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Just as she laid out herself, Rulership executes each phase\nwith lively precision. Moving steadily forward all on her own—"
     },
     {
-      "name": null,
-      "text": "★Request\nRulership flusteredly tries to compose herself",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "She will surely seize a splendid victory in the debutants' race\nwith that extraordinary strategic mind of hers.",
+      "choice_data_list": [
+        "(...domi really is incredible, after all.)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nRulership accelerates",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Just as forecasted, the debutants' race takes place under unfortunate rain.\nI watch over Rulership from the stands alongside Air Groove."
     },
     {
-      "name": null,
-      "text": "★Request\nBlack Wipe\nDisplay Rulership (Winter Tracksuit) only",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "—To think that fool signed up for a debutants' race of her own accord...\nI wonder how this will unfold..."
     },
     {
-      "name": null,
-      "text": "★Request\nBlack Wipe\nDisplay Rulership (PE Clothes Orange, Bib #13, Character Name), Wet Variant\nDisplay Air Groove (Winter Uniform)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "The board is already in the palm of my hand—dance to your heart's content.",
+      "choice_data_list": [
+        "(She can definitely win... I know she can!)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "All runners set—and they're off in the debutants' race!"
     },
     {
-      "name": null,
-      "text": "★Request\nGeneric Wipe\n---\n★Request\nDisplay Rulership (Winter Tracksuit)\nCasually using chest expander (prop1464_00)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Oh, what's this?! Number 13, Rulership,\nlags far behind the pack and starts dead last!",
+      "choice_data_list": [
+        "(It's okay, this is within expectations...)",
+        "(It's fine, all part of the plan...)"
+      ]
     },
     {
-      "name": null,
-      "text": "★Request\nFade In / After Fade In\n---\n★Request\nDisplay Rulership (PE Clothes Orange, Bib #13, Character Name), Wet Variant",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "(Vying for the lead are numbers 5, 9, and 12—yes, largely standard openings.\nThe board is spreading out slightly... but the gap is well within calculations.)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 second silence at start\n---\n★Request\nRulership gradually sinks into dejection → Sits down on the spot halfway through line 2",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "(In that case, the optimal line is on the outside after all.\nThe moment to initiate tactics—is the third corner!)"
     },
     {
-      "name": null,
-      "text": "★Request\nBlack Wipe\n---\n★Request\nDisplay Rulership (PE Clothes Orange, Bib #13, Character Name), Wet Variant, walks in",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "And here comes Rulership making a massive surge!\nIsn't it a bit early to make her move?! Can she hold on?!"
     },
     {
-      "name": null,
-      "text": "★Request\nDisplay Rulership (PE Clothes Orange, Bib #13, Character Name), Wet Variant",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Heh—in the past, I wouldn't have been able to master this endgame.\nI lacked the power to push through with optimal moves and perfect timing, after all..."
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\nTime Management",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "However! Having prepared for this very day—I now possess that \"power\"!\nHAAAAAAAH!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n1 second of silence at the start\n\nThis board (The Twinkle Series)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Her acceleration is breathtaking.\nWith every stride she steadily closes in on the lead, sweeping past in an instant—"
     },
     {
-      "name": null,
-      "text": "★ Request\nRulership (Gym Clothes, Orange, Bib 13, Character Name) Wet Variant,\nruns in at an easy pace with a confident expression.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Rulership takes the lead and blows past them to the finish!!\nWhat a magnificent late charge!!"
     },
     {
-      "name": null,
-      "text": "■ Stage Direction\n* 1 second of silence at the start. Deep sigh at the beginning.\n---\n★ Request\nAir Groove holds her head and sighs at the start of line 1.\nRulership freezes with a stiff expression.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Trainers",
+      "text": "Incredible... look at that burst of speed. She has phenomenal legs.\nTo think that girl could run with such composure...!"
     },
     {
-      "name": null,
-      "text": "★ Request\nGeneric wipe\n---\n★ Request\nDisplay Rulership (Winter Uniform)\nHolding miso soup (prop1730_00) and chopsticks (prop1026_04)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Heh, haha, ahahaha...! \nFlawless...! Ahh————what an absolute rush."
     },
     {
-      "name": null,
-      "text": "★ Request\nBlack wipe\n---\n★ Request\nRain effect - Normal\nDisplay Rulership (Gym Clothes, Orange, Bib 13, Character Name), Wet Variant",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Racing isn't bad at all... I see, so this is how you clear it...\nThis might be so fun it feels like a whole different game..."
     },
     {
-      "name": null,
-      "text": "★ Request\nRulership runs out with a cool expression.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Greetings. Did you see that, Trainer?",
+      "choice_data_list": [
+        "That was amazing! You really are incredible!",
+        "That was fantastic! You truly are extraordinary!"
+      ]
     },
     {
-      "name": null,
-      "text": "Heh... In the past, I never could have mastered this endgame.\nI lacked the ability to execute the optimal moves with optimal time management, after all...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Ahahaha! Well, it was a foregone conclusion.\nBesides, I must say you have quite the discerning eye yourself."
     },
     {
-      "name": null,
-      "text": "――H-Haha. Ah... I see... How could someone like me\nmake such an egregious miscalculation... Haha... This is the absolute worst............",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "............Yes, I rather like it. Having a right-hand aide isn't so bad...\nTaking command of this board seems entertaining enough."
     },
     {
-      "name": null,
-      "text": "To strike them down in the final push, boosting stamina and burst acceleration is top priority.\nPersonally, I want a decisive blow that can seal the checkmate in any situation.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "I shall grant you front-row seats to witness my triumphs.\nYou have plenty to look forward to.",
+      "choice_data_list": [
+        "Yeah, I can't wait...!",
+        "Yes, I'm really looking forward to it...!"
+      ]
     },
     {
-      "name": null,
-      "text": "To think that fool actually signed up for the debut race herself...\nI wonder how this will go...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "At this rate, a splendid trainer is sure to scout her in no time.\nAs one of her fans, I look forward to seeing her future success!"
     },
     {
-      "name": null,
-      "text": "........................",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "And so, I will be making my debut, Air Groove-san.\nJust as you wished, I shall fully fulfill my \"duty as a Tracen Academy student.\""
     },
     {
-      "name": null,
-      "text": "However! I have prepared for this very day—and I possess that \"power\"!\nHyaaaaah!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Together with my right-hand aide right here, that is.",
+      "choice_data_list": [
+        "—Wait, what?"
+      ]
     },
     {
-      "name": null,
-      "text": "Heh—I shall produce results in the blink of an eye.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "............Huh?"
     },
     {
-      "name": null,
-      "text": "Heh, haha, ahaha...! \nPerfection...! Ahhh――it feels absolute exhilarating.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Everyone",
+      "text": "……………………。",
+      "choice_data_list": [
+        "Ah, um, sorry, you caught me off guard..."
+      ]
     },
     {
-      "name": null,
-      "text": "Really?! Yay――!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Air Groove",
+      "text": "......Ruler.\nYou haven't actually discussed a trainer contract yet, have you?"
     },
     {
-      "name": null,
-      "text": "She suddenly forces an ultimatum on me.\nEither I sign a contract to become her trainer, or she throws it all away and quits.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Huh? No, but that goes without saying............ Wait, what?\nYou're captivated by my genius, aren't you? You want to be my trainer, right?"
     },
     {
-      "name": null,
-      "text": "(I've thoroughly read through all the match patterns...\nAll that's left is single-mindedly building up stamina and power. Yep, right on track.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Her ability and strategic brilliance are so high she doesn't even need my help.\nIf she's entering a contract, it should be with someone who can offer her far greater benefits.",
+      "choice_data_list": [
+        "That's why I felt I wasn't worthy...",
+        "That's why I thought I wouldn't be fit for the job..."
+      ]
     },
     {
-      "name": null,
-      "text": "Because you're the kindest! You don't get mad, and you play board games with me!\nI definitely, definitely want YOU as my trainer!! Otherwise, I quit everything!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "————Ha, haha. Ah... I see... To think that even *I*\nmade such an egregious miscalculation... Haha... This is the worst................"
     },
     {
-      "name": null,
-      "text": "Exchanging bows with Air Groove, I solidify my resolve.\nNot merely as a fan anymore, but from now on, as the one standing by her side to support her.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "————NO WAY!! No no no no nooooo~~~~~~ Why would you do that, you idiot!\nYou should have figured that much out already, think about itttt!!",
+      "choice_data_list": [
+        "！？"
+      ]
     },
     {
-      "name": null,
-      "text": "Very well, I shall enter into a contract with you.\nI look forward to working with you as my right hand, Trainer.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "You're the nicest of them all! You never get mad and you play board games with me!\nIt's you, absolutely YOU as my trainer!! Otherwise, I'm quitting everything!!"
     },
     {
-      "name": null,
-      "text": "Just as planned, Rulership breezed through each phase\nwith vivid brilliance. All on her own, pushing steadily ahead――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rulership",
+      "text": "Sign or give up!! It's one or the otherrrr~~!!"
     },
     {
-      "name": null,
+      "text": "I'm hit with an unexpected ultimatum.\nEither sign a contract with her, or she throws in the towel and quits entirely."
+    },
+    {
+      "text": "—There is only one answer.\nI cannot allow her extraordinary talent to be buried over something like this!",
+      "choice_data_list": [
+        "I'd love nothing more than to be your trainer! Let's sign!",
+        "I would be honored to be your trainer! Let's make it official!"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Really?! Yayyy—"
+    },
+    {
+      "name": "Rulership",
+      "text": "—*Ahem*... Ah... Well, of course, of course.\nYou are utterly enthralled by my talent, after all. A natural conclusion."
+    },
+    {
+      "name": "Rulership",
+      "text": "Very well, I shall enter a contract with you.\nI look forward to working with you as my right hand, Trainer."
+    },
+    {
+      "name": "Air Groove",
       "text": "...I'm counting on you. Truly.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "I'll take full responsibility and look after her..."
+      ]
     },
     {
-      "name": null,
-      "text": "Huh? No, I mean, that goes without saying, doesn't it... Huh?\nYou're captivated by my talent, aren't you? You want to be my trainer, right?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Trading bows with Air Groove, I steel my resolve.\nNot as a mere spectator anymore, but as someone who will support her from here on out."
     },
     {
-      "name": null,
-      "text": "(The battle for the lead is between No. 5, No. 9, and No. 12—yep, pretty much standard opening book.\nThe board's widening slightly... but the gap is well within expectations.)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "At this rate, a splendid trainer will surely sign on with her in no time.\nAs one of her fans, I'm genuinely excited to see her future triumphs!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "――There is only one answer.\nI cannot allow talent like hers to go to waste over something like this!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I'll give it my all for Rulership's glorious racing career.\n――Above all else, mental care comes first!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Ruler.\nYou haven't actually spoken properly about forming a contract yet, have you?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ahaha, well, that was an inevitable outcome.\nBesides, you certainly possess quite a keen eye yourself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Her immense talent and strategic sense are so high that she hardly even needs my help.\nIf she's signing with someone, it should be a trainer who can offer her far greater benefits.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Incredible acceleration.\nWith each stride, she steadily closes in on the leader, blowing past them in an instant――",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Together with my right hand right here, that is.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Sign or resign!! You only get two choices, waaaahhh!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What a strange question to ask, Air Groove-san.\nThe only thing one does here is train, is it not?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(If so, the optimal route is definitely on the outside.\nThe time to deploy the tactic is――the third corner!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "............Huh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I shall grant you front-row seats to witness my triumph.\nYou may look forward to it.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Racing is fascinating... I see, so this is how one clears it...\nThis might be so interesting it feels like an entirely different game...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Now then, Trainer.\nLet us proceed via the route with the fewest turns.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Greetings. Did you witness that, Trainer?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "The board is already in the palm of my hand――dance to your heart's content.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so, I will be making my debut, Air Groove-san.\nI shall fulfill the \"true duty of a Tracen Academy student\" just as you desire.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Yeah, I like it. Having a \"right hand\" isn't bad at all...\nDominating this board sounds like it could be rather entertaining.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "――Nooo!! No, no, noooo~~~~ Why are you being such an idiot?!\nYou should know that much without me saying it, figure it out alreadyyy!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "(Looking at the weather forecast, the board's going to be tougher than expected...\nI need to raise my base stats a bit more. Guess I'll up the intensity...!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "As forecasted, the debut race ended up taking place in the pouring rain.\nTogether with Air Groove, I watch over Rulership from the grandstands.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "――*Ahem*... Ah... Well, of course, of course.\nYou are wholly captivated by my talent, after all. A natural conclusion.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Oh my, No. 13 Rulership\nis trailing far behind the pack, starting all the way from the very rear!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "All runners ready――and they're off in the Debut Race!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She will surely seize a magnificent victory in her debut race.\nWith that extraordinary tactical brilliance of hers.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Here comes Rulership, surging forward at an incredible pace!\nIt seems a bit early to make her move, but can she hold on?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Rulership takes the lead and pushes across the finish line!!\nWhat a spectacular late-charge victory!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Incredible... look at that late burst. What fantastic legs.\nI had no idea she could run with such tenacity...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Wha... Y-You...\nCame here of your own accord...? To train...?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A generous serving of komatsuna and tofu miso soup covers iron and plant-based protein...\nand the liver and garlic chives take care of vitamin B1.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "text": "Let's give it our all for Rulership's brilliant racing career.\n—Above all else, keeping her mental well-being in top shape!"
     }
   ],
   "no_wrap": true

@@ -1,509 +1,240 @@
 {
-  "title": "",
+  "title": "Carefree, Trotting Along, Ready to Roll!",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "■ Direction\nAge: 3rd year junior high\r\nPersonality: Easygoing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Taiyaki Vendor",
+      "text": "Taiyaki, hot taiyaki! Who wants fresh taiyaki~?\nOnly one left!",
+      "choice_data_list": [
+        "Excuse me, I'll take—"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nSFX: Stomach rumbling",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "One taiyaki, please~!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nSFX: Footsteps dashing up",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "...Gasp!\nWaaah! I-I'm so sorry! Go ahead, please, take it!",
+      "choice_data_list": [
+        "No, no, after you."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\nMachikane Tannhauser takes out a smartphone (white)\n---\n★ Request\nMachikane Tannhauser (Summer Uniform) takes out a smartphone (white)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "N-No, but we ordered at the exact same time!\n...Oh! I know!"
     },
     {
-      "name": null,
-      "text": "★ Request\nScene transition effect",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Mmm, piping hot and chewy, super-duper berry delicious~.\nThanks for the treat!",
+      "choice_data_list": [
+        "Sorry for taking half.",
+        "Thanks for sharing half with me."
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\n[Beat]: A startled, realization-like pause",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "No way, sharing makes it taste twice as good!\nWait, so you're a Trainer from the Academy, huh?"
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passage effect",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "This must be fate or something!\nHope to see you around again sometime!"
     },
     {
-      "name": null,
-      "text": "■ Direction\n[Beat]: A startled, realization-like pause",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days after that encounter..."
     },
     {
-      "name": null,
-      "text": "■ Direction\nSFX: Sound of running\n---\n★ Request\nTime passage effect\r\nCostume: Summer Tracksuit\n---\n★ Request\n* Outer track scene, please use a looping background without ground visible\r\n* Feel free to adjust the camera angles as appropriate",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Meat Bun Vendor",
+      "text": "Steamed buns, hot meat buns! Who wants a meat bun~?\nOnly one left in the steamer~!",
+      "choice_data_list": [
+        "Excuse me, one—"
+      ]
     },
     {
-      "name": null,
-      "text": "■ Direction\n\"Well-welcome\": Intentional phrasing",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "One meat bun, please~!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMachikane Tannhauser runs into frame\n---\n★ Request\nTime passage effect\n---\n★ Request\nMachikane Tannhauser runs into frame\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "...Gasp?!\nWaaah! I'm so sorr... Wait, huh?! It's you again!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMachikane Tannhauser runs into frame\n---\n★ Request\nMachikane Tannhauser runs into frame\r\nCostume: Summer Uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Ehehehe~, what are the odds of that?\n...Wanna split this one half-and-half too? Teehee."
     },
     {
-      "name": null,
-      "text": "■ Direction\nAge: 50\r\nPersonality: Energetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "After repeating that little song and dance a few more times—"
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passage effect\n---\n★ Request\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Oh, Trainer!\nLook, look! Check out this picture!"
     },
     {
-      "name": null,
-      "text": "★ Request\nTime passage effect\r\nCostume: Summer Tracksuit",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Ehehe, guess what... I snagged a brand-new plush spider!\nIsn't it just the cutest thing ever?!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nMachikane Tannhauser runs into frame\n---\n★ Request\nMachikane Tannhauser runs into frame\r\nCostume: Summer Uniform",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "We'd grown close enough to exchange small talk whenever we passed each other on campus.\nThen, one day..."
     },
     {
-      "name": null,
-      "text": "■ Direction\nMachikane Tannhauser takes out a notepad and mechanical pencil\n---\n★ Request\nMachikane Tannhauser takes out a notepad and mechanical pencil\r\n* Put away at a good timing.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Led by Mihono Bourbon,\na group of horsegirls were holding a joint uphill slope training session."
     },
     {
-      "name": null,
-      "text": "■ Direction\nSFX: Sound of multiple people running\n---\n★ Request\nTime passage effect\r\nCostume: Summer Tracksuit\nDisplay Machikane Tannhauser, Mihono Bourbon",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miho no Bourbon",
+      "text": "Slope sprint set one: completed.\nProceeding immediately to set two."
     },
     {
-      "name": null,
-      "text": "■ Direction\nAge: 50\r\nPersonality: Energetic",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "*pant, gasp*... A-Already?! Another set?!\nNo waaaay...!"
     },
     {
-      "name": null,
-      "text": "■ Direction\nAge: 3rd year junior high\r\nPersonality: Energetic\n---\n★ Request\nWipe",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Yaaikes, this is brutal~!"
     },
     {
-      "name": null,
-      "text": "Phew, that was brutal~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "I'm... done for...! *gasp*~...!\n...Ugh, and here I thought my stamina had really improved..."
     },
     {
-      "name": null,
-      "text": "Waah~! Of course! A halvsies buddy like you is\r\nwell-welcome anytime! Looking forward to working with you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "The horsegirls were utterly demoralized. Yet amid them all, Machikane Tannhauser\nwas still grinding her way up that second slope, lagging behind but pushing forward."
     },
     {
-      "name": null,
-      "text": "*gasp*, *pant*... W-We're going again alreadyyy?!\r\nNo wayyy...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "*pant, huff, wheeze, pant*!"
     },
     {
-      "name": null,
-      "text": "Oh, right, Trainer!\r\nUmm, could you maybe give me some advice?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Miho no Bourbon",
+      "text": "Set three: adding 200 meters.\n...Hah!"
     },
     {
-      "name": null,
-      "text": "Keep up, keep up, gotta... kee—urk...!\r\nYaaah, I'm completely out of gas...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "I-I'm not giving up either~!"
     },
     {
-      "name": null,
-      "text": "Hey, haven't Rice and the others been at it for over 2 hours?\r\nInterval training, was it...? Both of them are incredible.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "*wheeze, pant, huff*~... Aaargh, couldn't finish the third set~.\nBourbon-san really is incredible, isn't she—whoa, whoa!"
     },
     {
-      "name": null,
-      "text": "Come on, you stayed right on their heels until the last 300 meters.\r\nThat's plenty impressive on its own.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Are you okay?"
     },
     {
-      "name": null,
-      "text": "Incredibly positive, hardworking, and possessing solid natural grit.\r\nJust watching her over the past few days told me everything about her character.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Ahaha, I'm fine, totally fine!\nMy legs are just shaking like jelly. ...Man, I've still got a long way to go~."
     },
     {
-      "name": null,
-      "text": "Taiyaki, taiyaki! Who wants fresh taiyaki~?\r\nOnly one left!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl B",
+      "text": "Are you kidding? You kept pace with her until like the last 300 meters!\nThat's seriously amazing."
     },
     {
-      "name": null,
-      "text": "My goal for this month is \"Build That Stamina!\",\r\nso I really want to train up my slow-twitch muscles!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Mihono Bourbon's hardcore training was famous as some of the most grueling at the academy.\nIn fact, almost all the other horsegirls threw in the towel after the very first rep, and yet—",
+      "choice_data_list": [
+        "(She might not stand out, but she's got serious foundational grit.)"
+      ]
     },
     {
-      "name": null,
-      "text": "Set three. Adding 200 meters.\r\n...Hup!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "A few days after that incident..."
     },
     {
-      "name": null,
-      "text": "Mihono Bourbon's hardcore training was among the toughest in the academy.\r\nIn fact, most Umamusume tapped out after the first set, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Rice Shower",
+      "text": "*pant, huff, wheeze*...!"
     },
     {
-      "name": null,
-      "text": "Well, um, I'm still nowhere near good enough to take on the top tier,\r\nand I'm not really built for reckless, crazy training either.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Hey, haven't Rice and the others been going at it for over two hours now?\nInterval training, right...? Those two are beasts."
     },
     {
-      "name": null,
-      "text": "Ahaha, I'm fine, totally fine!\r\nMy legs are just trembling a bit. ...Still a long way to go, huh~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Keep up, keep up, gotta keep... ugh...!\nNyaaah, I've hit my absolute limit...!"
     },
     {
-      "name": null,
-      "text": "Steamed pork buns, hot steamed pork buns~!\r\nOnly one left, folks~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "*pant, gasp, wheeze*~...\nNo good~! And here I was, feeling kinda proud of my stamina..."
     },
     {
-      "name": null,
-      "text": "She wasn't the flashy, standout type.\r\nYet, depending on her growth, she seemed full of latent potential.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Horsegirl A",
+      "text": "Come on, you did amazing!\nNice fight, Machitan!"
     },
     {
-      "name": null,
-      "text": "? Is something the matter?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Aww, not really. Ugh...\n—Wait, whoa! You're that Trainer from before!"
     },
     {
-      "name": null,
-      "text": "So, I figure I'll just take it step by step with what I can do~!\r\nIf I keep at it, I know I'll be able to win someday!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Aww man, you caught me looking all pathetic~.\nI was trying to stick with them to the very end. Ehehe."
     },
     {
-      "name": null,
-      "text": "As we kept having little encounters like that—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Still, I feel like I'm finally getting the hang of long-distance pacing, yeah!\nThat was a great workout! Better jot all this down before I forget..."
     },
     {
-      "name": null,
-      "text": "And so began my days with Machikane Tannhauser—\r\na girl who was delightfully \"ordinary,\" yet delightfully quirky.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Maybe I should add a bit more stamina work.\nI also wanna practice maintaining a low-drag running form... Munnn."
     },
     {
-      "name": null,
-      "text": "A few days after that happened.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Oh, hey, Trainer!\nUm, would you mind giving me a tiny bit of advice?"
     },
     {
-      "name": null,
-      "text": "We began exchanging small talk whenever we passed each other on campus.\r\nThen, one day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "My goal for this month is 'Build Stamina!',\nso I really want to train up my slow-twitch muscles as much as I can!"
     },
     {
-      "name": null,
-      "text": "While the other Umamusume slumped in defeat, Machikane Tannhauser\r\nkept pushing forward, tackling the slope for a second set despite falling behind.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Taking a look at the notebook she handed me... it was filled with a detailed,\npretty intense self-training plan, carefully scheduled day by day.",
+      "choice_data_list": [
+        "Th-that's admirable!"
+      ]
     },
     {
-      "name": null,
-      "text": "Maybe I should add more stamina work.\r\nI also wanna practice a low-drag running form... *huff*.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Eheheh~"
     },
     {
-      "name": null,
-      "text": "No way, that was plenty awesome.\r\nNice fight, Machitan.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Well, you see, I don't really have what it takes to compete with the\nbest yet, but I'm not the type who can pull off crazy training either."
     },
     {
-      "name": null,
-      "text": "I-I won't give up either~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "So, I just focus on taking it one steady step at a time~.\nThat way, I'm sure I'll be able to win someday!",
+      "choice_data_list": [
+        "！"
+      ]
     },
     {
-      "name": null,
-      "text": "...Gasp!\r\nWaargh! I-I'm so sorry! Please, go right ahead, take it!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She was astonishingly positive, hardworking, and fundamentally capable.\nJust watching her over the past few days made her character crystal clear."
     },
     {
-      "name": null,
-      "text": "Oh my goodness~, what are the odds?\r\n...Wanna go halvsies again today? Heheh.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She certainly wasn't the flashy type.\nYet, depending on her future growth, she felt like someone who could truly transform."
     },
     {
-      "name": null,
-      "text": "No, no, we called it at the exact same time!\r\n...Ah! I know!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "? Is something wrong?",
+      "choice_data_list": [
+        "Would you form a contract with me?",
+        "Would you like to form a contract with me?"
+      ]
     },
     {
-      "name": null,
-      "text": "...Huh?!\r\nWaargh! I'm so sor—wait, WHAAA?! It's you!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "A contract?\n......Wait, does that mean you're offering to be my Trainer?!"
     },
     {
-      "name": null,
-      "text": "This has gotta be fate.\r\nSee you around sometime!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Machikane Tannhauser",
+      "text": "Whoa~! Of course! If it's with my half-and-half buddy,\nyou're more than welcome-come! I'm looking forward to working with you!"
     },
     {
-      "name": null,
-      "text": "Still, I feel like I'm getting the hang of long-distance running, yep!\r\nIt was great training! Better jot it down before I forget...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Aw shucks, not really. Ugh...\r\n—Wait, whoa! You're that person from before!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Slope dash set one complete.\r\nProceeding to set two.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Aw man, you saw me look totally pathetic.\r\nI really wanted to keep up till the very end, though. Ehehe.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A contract?\r\n............Ah, wait, are you making me an offer?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "No problem at all, sharing always makes food taste better anyway!\r\nSo you were a Trainer here at the academy after all, huh?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Are you alright?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*whew*, *pant*, *haaah*... Aaah, I couldn't finish the third set~.\r\nBourbon really is something else, huh—whoa, whoa!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Hehehe. ~.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ah, !\r\nOh yeah, oh yeah! Look at this, look at this photo!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Glancing at the notebook she handed over... I saw a fairly demanding\r\nindependent training routine neatly mapped out day by day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "I caaaan't... do it...! *haaah*...!\r\n...Ugh, and here I thought my stamina was getting pretty solid, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ehehe, guess what... I snagged a brand-new\r\nspider plushie! It's just the absolute cutest thing!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One taiyaki, please~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*pant*, *gasp*, *pant*...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*pant*, *huff*, *pant*~...\r\nNo good~! And here I had decent confidence in my stamina, too.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "A few days after that day.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Led by Mihono Bourbon,\r\nseveral Umamusume were conducting joint slope training.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Mmm, piping hot, delightfully chewy, and berry delicious~.\r\nThanks for the treat!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "*pant*, *gasp*, *whew*, *pant*!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One steamed pork bun, please~!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "And so began my days with Machikane Tannhauser—\nan \"ordinary\" yet delightfully quirky girl."
     }
   ],
   "no_wrap": true

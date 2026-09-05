@@ -1,383 +1,185 @@
 {
-  "title": "",
+  "title": "Into the Shaker, Along with Ice",
   "text_block_list": [
+    {},
     {
-      "name": null,
-      "text": "★Request\nTime Lapse Effect\n---\n★Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "One day, upon hearing a rumor that Tanino Gimlet\nwould be running in a mock race, I decided to go watch."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 30s\nPersonality: Serious",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "—Broad daylight.\nAh, a fleeting breeze caresses my cheek!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 30s\nPersonality: Serious",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "What a fitting day! Engrave it into the heavens, into the earth,\nand into those eyes of yours! My primal impulse!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 sec silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Career Trainer A",
+      "text": "Tanino Gimlet might seem eccentric, but word is her skills are legit.\nI heard she even helped turn a club team around in the past or something."
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nElbrus = High mountain at 5600m elevation",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Career Trainer B",
+      "text": "Huh! She still doesn't have a dedicated Trainer, right?\nI bet a lot of Trainers have their eyes on her...",
+      "choice_data_list": [
+        "(I had no idea...)",
+        "(Is that so...)"
+      ]
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nTwist: Bartender term meaning to add an original spin/variation",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Eccentric though she may be, it seems her racing abilities command genuine respect.\n—Just then, the mock race begins!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAge: 20s\nPersonality: Cheerful",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "And they're off for 1,600 meters on the turf!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n1 sec silence at start",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Tanino Gimlet settles into the back of the pack,\n—and holds that position as they approach the fourth corner!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nAsphodel Meadows: The general underworld in Greek mythology",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "Rounding the fourth corner into the homestretch!\nShe's still boxed inside the pack, completely boxed in! Tanino Gimlet is trailing behind!"
     },
     {
-      "name": null,
-      "text": "★Request\nCostume: Tanino Gimlet (Summer Tracksuit) Show",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Career Trainer A",
+      "text": "...This looks bad for Tanino Gimlet. The runners around her have formed a wall,\nshe can't break out. If only she could find an opening..."
     },
     {
-      "name": null,
-      "text": "★Request\nHide Character",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "(A warrior's labyrinth, is it?!\nThe thread of Ariadne I must follow has—)"
     },
     {
-      "name": null,
-      "text": "★Request\nCostume: Tanino Gimlet (Summer Tracksuit) Show",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "(Snapped.\n—Hmph...! Fascinating! Then with this body alone, I shall cut my own path through!)"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\nElysium: The paradise of the underworld in Greek mythology. Supposedly located at the edge of the ocean.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "ORAAAAAAAHHHH!!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*Labyrinth of Einherjar (Senshi no Meikyuu)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "100 meters to go, and Tanino Gimlet finally charges up from behind!"
     },
     {
-      "name": null,
-      "text": "■Stage Direction\n*Nazuru (caress/stroke) = intentional phrasing because it sounds cool\n---\n★Request\nCostume: Tanino Gimlet (Summer Tracksuit) Show",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Having broken free, Tanino Gimlet accelerated with a furious roar.\nClosing the gap with immense speed, she reached the lead pack in an instant, but—",
+      "choice_data_list": [
+        "……！"
+      ]
     },
     {
-      "name": null,
-      "text": "...I have received your words.\nYou are certain of my talent—then the first trial is cleared.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Announcer",
+      "text": "—What a monstrous final burst! Tanino Gimlet takes 3rd place!"
     },
     {
-      "name": null,
-      "text": "With that kind of speed, if she pushes forward on the mile route,\nshe'll surely achieve something incredible...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Mid-Level Trainer A",
+      "text": "She couldn't quite reach the leader after all. That must sting...!"
     },
     {
-      "name": null,
-      "text": "Haah, haah...! Gh...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "*Pant, pant*...! Damn it...!"
     },
     {
-      "name": null,
-      "text": "Hmph. Two.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "—Is the summit of Elbrus still beyond my reach...?!"
     },
     {
-      "name": null,
-      "text": "ORAAGHHHHHHHHHH!!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She had undeniably let victory slip away. And yet—",
+      "choice_data_list": [
+        "What unbelievable speed...!",
+        "What unbelievable speed...!"
+      ]
     },
     {
-      "name": null,
-      "text": "(It's cut off.\n—Hmph...! How amusing! Then I shall carve my way through on my own!)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "That closing kick to claw her way to 3rd in just the last 100 meters...!\nIf she hadn't been blocked, she would have secured an effortless victory!"
     },
     {
-      "name": null,
-      "text": "That closing burst in the final 100 meters to seize 3rd place...!\nIf she hadn't been boxed in, it would've been her absolute victory!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She doesn't have an exclusive Trainer yet, meaning that display\nwasn't the result of fine-tuning, but her own raw, god-given talent."
     },
     {
-      "name": null,
-      "text": "However, that is merely the first trial.\n...Look. How many do you see?",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "With speed like that, if she pushed down the Mile track,\nshe'd undoubtedly achieve monumental success...!"
     },
     {
-      "name": null,
-      "text": "That alone is what we must aim for.\nFor it must never be the Asphodel Meadows.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Overcome with excitement, I dashed out of the stands\nand ran onto the turf to scout her. But—"
     },
     {
-      "name": null,
-      "text": "(Is this the Labyrinth of Einherjar?!\nThe Ariadne's thread I must follow is—)",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Ooh! She doesn't have a dedicated trainer yet, right?\nI bet a lot of trainers are eyeing her...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—What a monstrous closing drive! Tanino Gimlet finishes 3rd!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "With that, she suddenly held up one finger.\nWithout understanding why, I answered honestly for the moment.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "...Tanino Gimlet is in trouble. She's completely boxed in,\nwith no way out. If only she could find an opening...",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "One day, upon hearing a rumor that Tanino Gimlet\nwould be running in an exhibition race, I decided to go watch.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "What a truly fitting day!\nInto the heavens, into the earth, and into those eyes of yours, engrave it! My raw impulse!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Final 100 meters, Tanino Gimlet is finally charging in!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "—Is the summit of Mount Elbrus still so distant...?!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "And so we shall see—both you, and I.\nWhether an Elysium truly awaits at the edge of this ocean.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Tanino Gimlet might seem eccentric, but her skill is the real deal.\nI heard she turned a club team around back in the day, or something like that.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "\"You possess an extraordinary talent. With that tremendous\nspeed, you could achieve glorious success on the mile route.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "It seemed to be a personal journal\nchronicling Tanino Gimlet's life.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "She might be an eccentric Umamusume, but everyone respected her\nracing abilities. —And with that, the exhibition race began!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "Tanino Gimlet settles into the back of the pack,\n—and now, they head into the 4th corner!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
-      "text": "To narrow possibilities down to a single one.\nYou are still—lacking.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
-    },
-    {
-      "name": null,
+      "name": "Tanino Gimlet",
       "text": "I refuse.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "choice_data_list": [
+        "Huh?"
+      ]
     },
     {
-      "name": null,
-      "text": "\"You possess an extraordinary talent. With that tremendous\nspeed, you could achieve glorious success on the mile route.\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "“You possess extraordinary talent. With that terrifying speed,\nyou could achieve marvelous things on the Mile circuit.”"
     },
     {
-      "name": null,
-      "text": "\"Do you wish to know the tale of Tanino Gimlet?\nThe eternal story that has flowed unbroken since that tender childhood day—\"",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "“You possess extraordinary talent. With that terrifying speed,\nyou could achieve marvelous things on the Mile circuit.”"
     },
     {
-      "name": null,
-      "text": "—First, I shall entrust this to you.\nFollow the words into the past, and behold the future...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "...I have received your words.\nYou have faith in my talent, meaning you have cleared the first barrier."
     },
     {
-      "name": null,
-      "text": "Then there is but one thing to do.\nI shall add a twist to you myself.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "However, that is merely the first barrier.\n...Look. How many fingers do you see?"
     },
     {
-      "name": null,
-      "text": "She may have missed the win, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "She abruptly held up a single finger.\nCompletely baffled, I answered honestly for now.",
+      "choice_data_list": [
+        "...? One."
+      ]
     },
     {
-      "name": null,
-      "text": "Looks like she couldn't reach the lead after all. That's gotta be frustrating...!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "Hmph. Two.",
+      "choice_data_list": [
+        "………………？"
+      ]
     },
     {
-      "name": null,
-      "text": "Breaking free, Tanino Gimlet accelerated with a roar.\nShe rapidly closed the distance, catching up to the lead pack in an instant, but—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "You narrow your vision down to a singular possibility.\nYou are still... lacking."
     },
     {
-      "name": null,
-      "text": "—Broad daylight.\nAh, a fleeting wind strokes my cheek!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "Then there is only one thing left to do.\nI shall impart a twist unto you.",
+      "choice_data_list": [
+        "A-A twist?"
+      ]
     },
     {
-      "name": null,
-      "text": "She doesn't have a dedicated trainer yet, which means that\nwasn't refined skill—it was her raw, God-given talent.",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "And through that, we shall ascertain—both you and I.\nWhether Utopia truly lies beyond the horizon of this boundless ocean."
     },
     {
-      "name": null,
-      "text": "Swept up in excitement, I rushed out of the stands\nand ran down to the turf to scout her. However—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "That alone is our destination.\nFor we cannot allow this to end as the Asphodel Meadows."
     },
     {
-      "name": null,
-      "text": "And they're off for the 1600-meter turf race!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "—First, I entrust you with this.\nFollow the inscription to trace the past, and discern the future...!"
     },
     {
-      "name": null,
-      "text": "Rounding the 4th corner into the home stretch!\nStill buried in the pack! Tanino Gimlet is far back in the field!",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Narrator",
+      "text": "Upon returning to my dorm and opening the letter she had handed me—"
     },
     {
-      "name": null,
-      "text": "And so, when I returned to the dorm and opened the letter she handed me—",
-      "choice_data_list": [],
-      "color_text_info_list": [],
-      "new_clip_length": null
+      "name": "Tanino Gimlet",
+      "text": "“Dost thou seek the tale of Tanino Gimlet?\nThe eternal saga that has flowed unbroken since that fateful childhood day—”"
+    },
+    {
+      "name": "Narrator",
+      "text": "It appeared to be a memoir recounting\nthe story of Tanino Gimlet's life."
     }
   ],
   "no_wrap": true
