@@ -1,0 +1,465 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "It happened on the day I accompanied Maruzensky\r\non a shopping trip to the commercial district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I see, I see... These green onions are simply gorgeous.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ma'am, along with the cabbage from earlier,\r\ncould I also get some of these green onions?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Greengrocer Auntie",
+      "text": "My, you really know your stuff, young lady!\nFor someone like you, maybe I'll throw in a few extra tickets as a bonus!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Look at you saying that~\nYou're just handing them out to everyone, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Greengrocer Auntie",
+      "text": "Hahaha, that's not true at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So-rry, so-rry!\nThanks for waiting, Trainer-kun♪",
+      "choice_data_list": [
+        "Done with your shopping?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So-rry, so-rry!\nThanks for waiting, Trainer-chan♪",
+      "choice_data_list": [
+        "Done with your shopping?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yeah, abso-tively!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Let's extend our date just a little bit longer, though!\r\nYou see, that lady told me something\njust a moment ago—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\r\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\r\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\r\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ta-daaa!\r\nWanna give it a try together?",
+      "choice_data_list": [
+        "A raffle!",
+        "It's a raffle!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Right! I got a lottery ticket from the greengrocer earlier!\nIt'd be a total waste not to use it, don'tcha think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Besides, you were nice enough to hang out with me today, Trainer-kun,\r\nso if I win a fancy prize, I figured I'd give it to you~!",
+      "choice_data_list": [
+        "I wonder if I'll win a grand prize?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Besides, you were nice enough to hang out with me today, Trainer-chan,\r\nso if I win a fancy prize, I figured I'd give it to you~!",
+      "choice_data_list": [
+        "I wonder if I'll win a grand prize?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "My! To think you would say that...\r\nI can't wait to see your reaction when it hits♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Now then, let Maruzen-chan show you\nwhat true good fortune looks like!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Will I hit it~? Or will I miss~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Humming a tune,\r\nMaruzensky grabbed the lever and spun the raffle drum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Kyaaah! Amaziiing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Trainer-kun, did you hear, did you hear!?\r\nI won the grand prize!",
+      "choice_data_list": [
+        "Amazing!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Trainer-chan, did you hear, did you hear!?\nI won the grand prize!",
+      "choice_data_list": [
+        "Amazing!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Right, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "And so! This wonderful, luxurious prize\r\ngoes right to Trainer-kun!",
+      "choice_data_list": [
+        "Is that really okay?",
+        "Is it really okay?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "And so! This wonderful, luxurious prize\r\ngoes right to Trainer-chan!",
+      "choice_data_list": [
+        "Is that really okay?",
+        "Is it really okay?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "It's totally fine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—However, it was Maruzensky's lottery ticket in the first place.\r\nIt feels a bit awkward accepting such a prize just as \"thanks for keeping her company shopping.\"",
+      "choice_data_list": [
+        "I really can't take it.",
+        "I really can't take this."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, there's no need to be so modest.\r\nYou're always such an earnest one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hmm... Understood.\nThen how about \"dating\" instead?",
+      "choice_data_list": [
+        "Wanna hang out?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Right, just like shopping today!\r\nYou're coming with me on my hot spring trip!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Right, just like shopping today!\r\nYou're coming with me on my hot spring trip!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I think I'll be a teeny-tiny bit busy this year, so~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "How about sometime next spring! What do you think? I figure we'll both be in good shape by then.",
+      "choice_data_list": [
+        "In that case...!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "All right, it's a deal!\nI'll invite you once everything's ready, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I'm gonna make this trip super fun,\r\nso you better look forward to it! Got it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"And so, I promised to accompany Maruzensky on a 'hot spring trip' next year.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu~n♪ How's that for ya!",
+      "choice_data_list": [
+        "That's Maruzensky for you!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahem!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Fufu, just kidding.\r\nDid I get a little too carried away?",
+      "choice_data_list": [
+        "Since it's 1st prize, wouldn't it be fine to ride it?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "You're a real softie for forgiving me~♪\r\nIn that case, I'm gonna get even more hyped up, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "You're a real softie for forgiving me~♪\r\nIn that case, I'm gonna get even more hyped up, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...*ahem*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Trainer-kun. Why don't we have\r\nhamburg steaks together for our next lunch?",
+      "choice_data_list": [
+        "With pleasure!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Trainer-chan. How about we get\nhamburgers together for lunch next time?",
+      "choice_data_list": [
+        "With pleasure!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu, you really know how to play along♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu, you really know how to play along♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, the Premium Carrot Hamburg Steak became the main dish for our special lunch with Maruzensky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\r\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Waaah! I got so many!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "“Still, with this much, it must put\r\nTrainer-kun in quite a bind.\nCarrots spoil faster than you'd think, after all.”",
+      "choice_data_list": [
+        "Shall we share some with everyone too?",
+        "Shall we share some with everyone too?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "“Still, with this much, it must put\r\nTrainer-chan in quite a bind.\nCarrots spoil faster than you'd think, after all.”",
+      "choice_data_list": [
+        "Shall we share some with everyone too?",
+        "Shall we share some with everyone too?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, good idea♪\r\nRoger that, loud and clear!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hiii! Gather round, hungry kids!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Both",
+      "text": "Yeeeees!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ufufu, everyone's so full of energy\r\nafter having their snacks, aren't they~?",
+      "choice_data_list": [
+        "Maruzensky, please have some too"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, thanks♪\r\nHere, Trainer-kun, have one too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, thanks♪\r\nHere, Trainer-chan, have one too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And Maruzensky and I each took\r\na carrot stick in hand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—Lightly salted, it was a flavor that soaked right into a tired body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\r\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ouch-ouch-ouch!",
+      "choice_data_list": [
+        "Let's just say we were pretty lucky."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu, that's true.\r\nJust getting it right is a win in itself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Giving just one carrot feels\na bit off, too. Hmmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I know! I'll cook it up into kinpira together with the green onions I bought earlier!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "It's a recipe straight from my mom, so it's super-duper delicious! Look forward to it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A few days later, I happily enjoyed the\nkinpira carrots she had shared with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bummer! Maruzen is super shocked~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ugh... Trainer-kun, I'm so sorry.\r\nLooks like today is totally choboriba for me...",
+      "choice_data_list": [
+        "Now, now."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ugh... Trainer-chan, I'm so sorry.\r\nLooks like today is totally choboriba for me...",
+      "choice_data_list": [
+        "Now, now."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Ah-ah, I really wanted\r\nto win a proper prize for you. Bummer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Together with a despondent Maruzensky,\r\nwe left the shopping district behind.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Late December—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "To think it would reach this point so quickly...\nWonderful, it is almost completely healed.",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "W-We did it!\nWe really pulled it off, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to careful daily training and attentive leg care, the injury healed many times faster than expected!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Fufu!\nYay, yay, I'm so happy~!",
+      "choice_data_list": [
+        "Haha... Enough to make you want to dance?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ha...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I-I'm sorry, I just got carried away.\n...Maybe the illuminations got to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Come to think of it,\nthe whole town is lit up with all kinds of illuminations.",
+      "choice_data_list": [
+        "...Right, today is Christmas."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ahaha... Well, lately we haven't really had the luxury for that, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...Oh, right.\nI heard from Nature-san that—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I heard the tower lights over that way\nare super pretty this time of year.\nWanna go check 'em out for a quick break?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Whoa...! \nThis really is amazing, no doubt about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Not just the tower itself, but the surrounding area too was gorgeously adorned with illuminations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"It's just like a giant tree...! \nThe monitor is huge, too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Wait, huh?\nWhat's showing on that monitor is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Oooora ora ora ora ora ora oraaa!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"—Gold Ship in the lead!\nShe captures the Double Crown as she crosses the line!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"Tosen Jordan crosses the finish line!\nTooosen Jordaaan!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "\"HELL YEAAAAAAAHHHH!!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "A digest reel of the Umamusume running in the Arima Kinen...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To build hype for the upcoming Arima Kinen,\nthey seem to be playing a recap video\nof each Umamusume's greatest moments.",
+      "choice_data_list": [
+        "Which means,"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Come to think of it, I feel like someone did mention that...\nU-Uwaah, I wonder which part they'll broadcast...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Deciding to keep an eye on the monitor for a while since we're here――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "‘Daaaaaaaahhhhhhh!!’",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "! W-Whoa... if I remember right, isn't this—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan A",
+      "text": "Ah, I knew it!\nIt's footage of the Takarazuka Kinen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "I know! This screaming part really hits you right in the fe... el... s...—W-Wait?! The real deal?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"No, umm... like,\ns-shh! Keep it down for now, okay...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "Ah, I-I'm sorry!\nY-You startled me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan A",
+      "text": "I-I've been watching you since the Classic year!\nI loved your battles with Orfevre!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah, thank you very much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "\"I'll be rooting for you...!\nDon't lose to Orfevre!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan A",
+      "text": "To us, Shion is the main character!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Eh, me... The lead role?\nBut, being sparkly and all—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "Look at you, aren't you just sparkling!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "She may be clumsy, but she gives it her all,\nworking hard to chase after what she admires!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "I know you were glaring right back at that Orfevre, too,\nand seeing you challenge her like that\nis sooooo dazzling...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Uh—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan B",
+      "text": "Ah, whoa whoa, I'm sorry for being gross!\nI'm so sorry! Please don't be creeped out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion Fan A",
+      "text": "I mean, it's your day off, isn't it!\nSorry for bothering you!\nGood luck at the Arima Kinen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Win Variation stood frozen, watching\nthe two fans trot away.",
+      "choice_data_list": [
+        "...They say you're the star of the show.",
+        "...They're saying you're the star."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"To me... the protagonist is this flawless,\nmost brilliant person in the whole world, you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "So I was really surprised. There are so many kinds of protagonists out there. ...But yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I'm really glad. If all my flailing and struggling... gives someone else courage, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "If a brilliance distinct from hers\n...is being born, then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...N-No! I don't feel that way about myself at all yet! But—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hehe. That gives me courage!\n...I've gotta give it my all in the Arima Kinen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To put on a fantastic race at the Arima Kinen.\nUnderneath the giant tree, Win Variation\nrenewed that very vow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, since we were already there, she and I climbed the tower together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Wah, maybe it's because of Christmas,\nbut the whole town is sparkling...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "What a magnificent view... Wonder if we can see Tracen Academy?\nThere's the station, the shopping district... Is it over there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I gaze intently at where she's pointing.\nIs that circular patch surrounded by lights\nthe athletic grounds?",
+      "choice_data_list": [
+        "Looks like it's over there",
+        "Looks like it's over there, huh?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Right?! It's so pretty, almost like stage lighting...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I know! Maybe we can even see Tokyo Racecourse from here...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Wait, huh!? Whoa, there it is!\nI found it, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing Win Variation so uncharacteristically high-spirited brought a smile to my face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Is that the turf, and over there the paddock?\nSomething's going on, it's all sparkling!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Wait, huh?\nWhat's got you smiling so much?",
+      "choice_data_list": [
+        "No, it's nothing."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while after, they wandered around the tower, completely engrossed in finding places full of memories for each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I mean...\nLooking down at the city like this makes me feel a bit...",
+      "choice_data_list": [
+        "...Does it make you want to scream?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Fufu...\nEspecially since something good just happened earlier.\nI've really picked up a bad habit, haven't I?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I thought if I could just shout \"I'm gonna do my best!\",\nit would definitely make me feel refreshed.",
+      "choice_data_list": [
+        "It should be fine if we keep our voices down, right?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Huh?\nF-For real?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There aren't many people around.\nSaying something in a whisper shouldn't bother anyone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Um, well then...\nSince we're here, just a little bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah... The Arima Kinen...!\nI'll do my best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "......\n...Ahaha. I messed up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Still, it feels pretty refreshing after all.\nLike my thoughts are finally sorted out, sort of...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...Right.\n...Could we go one more time?\"",
+      "choice_data_list": [
+        "Here you go."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...S-So, if possible, I'd really like you\nto cover your ears, though...\"",
+      "choice_data_list": [
+        "? Got it."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I obediently cover my ears.\nCombined with the low whispering voice, I can't hear what's being said at all. However—",
+      "choice_data_list": [
+        "(...\"Meeting my Trainer\")"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "From the shape of their mouth, I can somehow\nread what they are saying—",
+      "choice_data_list": [
+        "(\"I am happy\"…!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I forgot to be mindful enough to close my eyes,\nand accidentally saw those words.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Phew.\n...Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Trainer, thank ya!\nThat's enough for now!",
+      "choice_data_list": [
+        "...Do you feel refreshed?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yes! Those were words I'd been thinking about for a while now.\nSomehow... it makes me feel all warm inside. Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Beneath the cold winter sky, hearts were filled with gentle warmth—and that was how Christmas ended.",
+      "choice_data_list": []
+    }
+  ]
+}

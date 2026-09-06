@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"Ossu! Lord Trainer,\nI have thoroughly rested and recuperated!\"",
+      "choice_data_list": [
+        "Full of energy, as always.",
+        "You're full of energy, aren't you?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"Ossu. To be completely honest,\nI was engaging in a certain form of training even during our rest.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"That would be... Zazen. Days spent focusing the\nmind, quietly looking back on the path one has\nwalked, and purging every worldly thought...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Now filled with boundless energy and vitality, my spirits are at their absolute peak.\r\nPlease... grant me new training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Yaeno Muteki got the ideal amount of rest!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Nishino Flower was injured during training,\nso we came to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I'm sorry for having made you worry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Well then, now that you're patched up,\nlet's get back to training.",
+      "choice_data_list": [
+        "Are you really okay?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"Most likely... Ah, no! I'm really totally fine!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"Besides, I feel like I shouldn't be resting over\na minor injury like this... That's why...!\"",
+      "choice_data_list": [
+        "Pushing yourself too hard isn't what makes you an adult.",
+        "Let's look for something we can do."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Still... I...",
+      "choice_data_list": [
+        "Let's go with the safer option."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...You're right.\nIt'd be a real problem if the injury got worse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Understood, I'll take the rest of the day off to rest...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking disappointed, Nishino Flower headed back to the dorm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Waah! Thank you very much!\nWell then, let's get going, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Phew... Phew...\r\nT-This is nothing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...!\nO-Ouch...",
+      "choice_data_list": [
+        "Does it hurt...?",
+        "Does it hurt...?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "When I run, there's this sharp, throbbing pain...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I'm sorry. I said I'd be fine,\nbut today, I just...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Deciding that any more training would be impossible, I sent Nishino Flower back to the dorms.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"Thank goodness...! Trainer-san,\nas long as it's just light running, it doesn't hurt!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Training will probably be around this level for a while,\nso I look forward to working with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nishino Flower spoke happily and took part in a light workout, making sure not to strain her injury.",
+      "choice_data_list": []
+    }
+  ]
+}

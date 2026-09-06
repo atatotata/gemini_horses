@@ -1,0 +1,159 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, during training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Lately, our training has mostly centered around \"catching your breath\" mid-run, hasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "And slope training, prioritizing reps over speed\r\nto build up stamina...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Could your next race happen to be a Long-distance one?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mid-Level Trainer A",
+      "text": "Ahaha... Oh boy.\r\nIt hasn't been announced yet, so keep this off the record.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, I understand. I shall only concern myself\r\nwith her physical condition, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah, Trainer <username>.\r\nGood work today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems that she—magazine reporter Otonashi-san—\r\ncame for an interview, but even so...",
+      "choice_data_list": [
+        "You really know a lot about Umamusume."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, as a journalist, I possess\r\nat least a baseline level of knowledge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Having knowledge enables me to write\r\nbetter articles, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Ms. Otonashi seems to take the Umamusume\r\neven more seriously than I had thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Ah!? My apologies.\r\nI ended up talking all about myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Since we've crossed paths like this, I would love the chance to interview the girl you train.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Only as far as you are comfortable sharing, are there any issues or challenges you are currently facing?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "She insists she is strictly a reporter,\r\nbut I thought her knowledge might be dependable—",
+      "choice_data_list": [
+        "My lack of power is the problem, though...",
+        "Speed is still an issue for me, though..."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Did you just say... strength...!?\r\nTh-That's wonderful!\"",
+      "choice_data_list": [
+        "What... earlier?!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "For developing power, uphill training\r\nand weight training are effective...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "However, the absolute essential is the food!\r\nFood that builds supple and resilient muscles!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah... To think you are prepared to go gather ingredients yourself—\nOkinawan pork for longevity, bird's nests from sheer cliffs,\nand even deep-sea fish from the ocean floor—all for the ultimate meal...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(I didn't mentally prepare myself for that,\r\nbut the discussion about meals was very useful.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A few days later—while it wasn't a deep-sea fish,\r\nI caught some white fish great for building muscle and treated <chrname> to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Did you just say 'speed'... loud and clear!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It is wonderful!!",
+      "choice_data_list": [
+        "What... earlier?!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"If you're seeking speed, managing body fat percentage\r\nto cut weight without losing muscle is key...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "However, that is a very harsh ordeal.\r\nSome girls even fall out of shape from the stress.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "So Trainer, you must do your best to prevent stress from building up in your Umamusume!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah... To think you are prepared to rent out an amusement park,\nbook a cruise on a luxury liner, and even arrange\na transcontinental overseas trip...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(I didn't mentally prepare myself for that,\r\nbut the discussion on body fat percentage was very useful.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A few days later, as a reward for her grueling training,\r\nwe couldn't go on a cruise or trip abroad,\nbut <chrname> and I were able to let our hair down.",
+      "choice_data_list": []
+    }
+  ]
+}

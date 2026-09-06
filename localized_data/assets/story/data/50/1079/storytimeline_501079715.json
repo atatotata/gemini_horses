@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After training, I went out with Furioso\nto buy some missing supplies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "We got all the training supplies.\nNow tomorrow's training will—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "...Oh my, that video is...",
+      "choice_data_list": [
+        "Ah, that ad video from the train, huh.",
+        "Ah, that ad video from the train, huh."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hello, everyone~!\nIt's Hokko Tarumae, the local idol of Tomakomaiâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I am Oguri Cap.\nI've come to bring event information about Tokyo Racecourse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"We're holding an event at Tokyo Racecourse! It's called—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tarumae & Oguri",
+      "text": "\"Let's have a race against us,\nwho came from the regional circuits!\"~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "It seems special local delicacies from Kasamatsu and Tomakomai are gathered here too.\nThere are tons of gourmet dishes you can only eat here.\nWhoops... now I'm getting hungry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Geez, Oguri-san!\nAnyway! We'll be waitin' for everyone~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Passerby A",
+      "text": "Hokko Tarumae is so cute!\nShe's always such a hard worker! You just can't help but root for her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Passerby B",
+      "text": "Oguri Cap is a star back in my hometown.\nShe runs so strong... Man, I just love her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "A fellow racer from the regional circuit is making waves.\nSeeing that, how could I not fire up?",
+      "choice_data_list": [
+        "We can't afford to lose either, can we!",
+        "We're not gonna lose either, after all!",
+        "I understand how you feel, but I can't let you push yourself too hard."
+      ]
+    },
+    {
+      "name": "Furioso",
+      "text": "A fellow racer from the regional circuit is making waves.\nSeeing that, how could I not fire up?",
+      "choice_data_list": [
+        "We can't afford to lose either, can we!",
+        "We're not gonna lose either, after all!",
+        "I understand how you feel, but I can't let you push yourself too hard."
+      ]
+    },
+    {
+      "name": "Furioso",
+      "text": "Haa... haa...\nI'll hype up Funabashi too... just watch me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "……One more lap!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "...Understood.\nYou're looking out for my well-being, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "It cannot be helped. If so!\nThen all we must do tomorrow is\nincrease the quality of our training.",
+      "choice_data_list": []
+    }
+  ]
+}

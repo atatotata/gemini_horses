@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Well, well, Trainer-kun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "What a fine morning.\r\nOne might say it's prime weather for experimenting!",
+      "choice_data_list": [
+        "Looks like you got some good rest.",
+        "Looks like you got some good rest."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thanks to you. As long as one is alive,\r\none realizes that all living things need rest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Now then, shall we cheerfully begin today's experiment?\r\nIn search of the glorious possibilities of bodily remodeling, of course.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Agnes Tachyon is in good spirits.\nIt seems she got plenty of proper rest.",
+      "choice_data_list": []
+    }
+  ]
+}

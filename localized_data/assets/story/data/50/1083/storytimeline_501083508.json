@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, Symboli Kris S was rehydrating,\nbut...",
+      "choice_data_list": [
+        "It's not water today, huh?"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Yeah. Today—\nI feel like drinking something sweet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Normally... I don't care for it.\nBut right now—my body is craving it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...Still not enough.\nI need... more sugar...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I've heard that craving sugar is a sign of fatigue.\nIt might be best to review your upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Believe",
+      "text": "......Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "The light feels like... it's about to pour down—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Beside me, Believe murmurs softly\nbeneath a sky pouring with stars.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A rest day. Tonight, along with Dantsu Flame and the others,\nwe came for a night hike up to the nearby mountain summit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "The stars were truly gorgeous...!\nGetting to come all the way out here together with everyone was so much fun too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Totally~. I was thinking,\n\"Isn't a night hike kind of a high bar?\"\nbut—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I was so surprised!\nBelieve-chan was giving such spot-on\ndirections and leading the way super well~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Mountain climbing is your hobby, right?\nIf I recall correctly, you're also part\nof a local climbing club, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thanks to you, every single one of us\ngot to have such a wonderful experience.",
+      "choice_data_list": [
+        "You're right. Thank you, Believe!",
+        "Yeah. Thank you, Believe!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "No. ...Or rather,\nI think it's too early for you to be thanking me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Let us head down the mountain soon.\nWhile the moon is still bright.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "This mountain\nisn't particularly high or rugged, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...The paths are strangely intricate, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I thought I was simply retracing the path we took to descend the mountain, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Huff, puff... H-Huh~?\nDidn't we pass by this river just a moment ago...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah, you feel that way too, Senpai...!?\nI was wondering if it was just\nmy imagination, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "No, it looks familiar to me too...",
+      "choice_data_list": [
+        "Me too...",
+        "Me too..."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "That's weird... If I remember right, as we were climbing,\nthere were route markers made of fluorescent tape\nwrapped around trees all over the place, weren't there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "I haven't seen it for the longest time.\nIt'd be nice if I just happened to overlook it, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah, Believe-san! How's it lookin'?\nYou said you were checking the direction—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "The compass is going haywire.",
+      "choice_data_list": [
+        "Huh...!?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "\"It was totally fine on the way up,\nbut now it just keeps spinning and the needle won't stop.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I walked around a bit trying to check our position by the moon or stars,\nbut the foliage is so thick everywhere that I can't see the sky at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "N-Now that you mention it, feels like we've been\nwandering through this deep forest forever...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Umm, okay, so how about we all walk together to a more open area... Wait, no, if we could do that, we wouldn't be in this mess right now...!",
+      "choice_data_list": [
+        "(Th-this is...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "As their guardian, a chill ran down my spine.\nI assumed it would be fine since they climbed up so easily, but... this situation is totally—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "S-S-S-Stranded~~~?!\nThis is bad, bad, I gotta contact someone—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "...Wait! Out of service?! Why?! It was working totally fine on the way here~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Isn't this just getting lost?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Huh? Believe-chan, what... what do you mean by that~...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*Splat.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "..................Eh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......Um. Everyone... did you hear that?\nJust now... was that like... footsteps—",
+      "choice_data_list": [
+        "You heard that... right?",
+        "You heard that... didn't you?"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "*Splat.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*Splat.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*Splat.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Eep... Hieee...\nI-It's getting closer... It's coming right for us... !?",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*Splat.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*Splat.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*S p l a t.*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "~~~~~~gh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Kyaaaaaaaaaaa~~~~~!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dants's Smartphone",
+      "text": "(*Bzzz, bzzz, bzzz!!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Kyaaaaaaaaaaa~~~~~!?!?",
+      "choice_data_list": [
+        "Wait, no, wasn't that the sound of a phone!?",
+        "Wait, no, isn't that a phone ringing!?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Isn't this Dantsu-san's smartphone?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh... A-A call?! But there wasn't any signal...\nWait, whatever, for now...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Hello!? Um—\nHuh, Cafe...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...The call finally went through, didn't it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "\"Cafe-chan...!\nUm, well, right now――!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"‘Are you... alr—...?\n...Over he—... ...-tsu-san...--’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh, Cafe-chan?!\nHello?! Hellooo...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...rry. Not much, time left—\nOnly telling... what's... necessary.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"Please talk about...\nwhat makes you feel――supremely happy.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh...? T-Talk with each other?\nAbout things that... make us happy...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"Yes. That is... the only—\nthat can be—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "“――――*click*”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah!? Hello, Cafe-chan!?\nHelloooo...!?！？",
+      "choice_data_list": [
+        "Looks like it snapped...",
+        "Looks like it snapped..."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "W-We just gotta do it, don't we!?\n...Right!?\nYou know, talk to get everyone hyped up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "R-Right?!\nCafe-chan's advice at times like this\nis something you should definitely listen to, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Umm~ umm~ a happy mood... Happy...!\nAnd it says 'talk with each other', so...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ah, D-Dantsu-chan!!\nThat UmaTube video we watched while packing in the room...\nI-it was hilarious, wasn't it!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh!? Ah, that's right!!\nUmm............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "……That was so much fun, wasn't it?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Right~~~~!!\n...Oh crap, I can't hold out any longer!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "T-Trainer-san, you too! Don't you have anything!?\nAnything, anything at all, hurry up~~~!!",
+      "choice_data_list": [
+        "Y-Yeah!? Um, I'm...!!",
+        "Y-Yeah!? Um, I'm...!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, despite trembling with fear, each of them\nsomehow managed to share \"heartwarming stories\"\nwith one another, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Given the situation, there was no way we could keep the conversation going forever. Just as I was gradually getting backed into a corner—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "*pant, pant*...!\nU-Um... and then—and theeeen...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "................My dorm room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Having been deep in thought for so long—\nor perhaps carefully choosing her words—\nBelieve finally spoke up quietly.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Lala-san's and my room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "It's always so clean.\n...It really helps a lot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "…………………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Huh???",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...I feel calmer when things are neat and tidy.\nIt helps clear my head, too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "However, the dorms are double rooms.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I have my domain. And the opponent has theirs.\n...That is how it should be.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "But Ms. Lara... always makes sure to keep her own area completely spotless, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...That's why—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'm glad.\n...To have someone like you as my roommate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Ghhh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Wh-What?! No way!\nI... I totally thought—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Eeeh, I-I'm so happy~~~...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Swoosh...!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "O-Oh my?\nThe atmosphere around here just—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...!! Thank goodness—I found you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "C-Cafe-chan!?\nUm, wait, are we...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Yes. I'm... okay now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "The thing tempting you all... has departed.\nBecause you showed that you were not enticed by it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Good work.\nJust as I told you—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I am so... so glad\nto see that it brought you such joy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe & Lala",
+      "text": "…………………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Shall we head down the mountain?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Let us do that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And after making it safely down the mountain—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the curtain fell on that bizarre night.",
+      "choice_data_list": [
+        "I'm glad you and your roommate get along so well.",
+        "Th-That was quite an experience...",
+        "Th-That was quite an experience, wasn't it..."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Close friends... I wonder?\nI don't think it's quite the same kind of relationship as Dantsu-san and Mirako-san, though—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Just that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'll go shopping for cleaning supplies next time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...With Lala-san.\nThat's what we were just talking about, so...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Ah, your expression...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Shall I draw a picture of a Baku for you?",
+      "choice_data_list": [
+        "Huh...? A Baku?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes. Please place it under your pillow.\nIt will eat your bad dreams.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...It's a good-luck charm.\nMy grandma taught it to me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...The picture of the baku that Believe drew with such care\nwas simple yet warm, and that night,\nI slept even better than usual.\"",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "Ah, so close~...!",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "No, no, it's really not something\r\nyou need to worry about, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Seeing you give it your absolute all made me so happy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Um... it's getting pretty late,\r\nso shall we head back to the academy?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

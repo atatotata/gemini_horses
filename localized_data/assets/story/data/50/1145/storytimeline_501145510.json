@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rulership",
+      "text": "...Hm?\nWhat's with... this crowd of people?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Classmate Umamusume",
+      "text": "Ah, they're selling limited-edition sweets. Fruit tarts supervised by a famous pastry chef! But the crowd wanting them is rushing in...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Heh. No one can escape the battle over sweets...\nThis promises to be a thrilling contest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Now then, let's decide the buyer with a game, you two.\nOnly the last one standing...\nshall claim the limited-edition sweets...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "While looking for Rulership for their meeting,\nI spotted an unusually lively crowd in a corner of the cafeteria.",
+      "choice_data_list": [
+        "Are you playing cards?",
+        "Are you playing cards?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Yeah. It's \"Gin Rummy\"—a two-player game where you form sets like in mahjong\nand try to reduce the deadwood in your hand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"You read your opponent's hand from the discard pile, and try\nto get the total points of your unwanted cards as close to 0 as possible.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Plus the tactic of 'passing off' deadwood to stage a comeback,\nand going out with zero deadwood to block layoffs with a 'Perfect Call'—\nthe rules are truly profound.\"",
+      "choice_data_list": [
+        "This looks like the kind of game you'd like.",
+        "This seems like the kind of game you'd like."
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Heh, reading your opponent matters more than random factors.\nThat suits me much better.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Now then... among the lineup likely\nto advance from this battle...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "—And that is checkmate. As this is a duel, I shall show no mercy. Forgive me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Just as calculated. This is my victory.\nTo study the recipe, I shall go claim the tart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"Fufu. If we manage to win, let's share the sweets with everyone bit by bit.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Heh. By what twist of fate did we end up with this lineup?\nThen again... I wouldn't have it any other way.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "What, four 'Pass the Buck' cards—!?\n...Splendid. You win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "I failed to anticipate the trick play.\nTo think the plan was to let me take the lead first and turn the tables by passing the penalty onto me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "A true strategy... means guiding even your opponent's hand.\nA win is a win, don't take it personally.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pisa-san's race execution... caught me off guard.\nIt seems my calculations were still lacking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "No, no, not at all.\nI just got lucky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—I had a feeling I'd face you in the finals.\nWell then... shall we begin?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hold on... I'll be taking that discarded 2.\nIt's one of my vital pieces.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(...With this, I'll make Pisa think my hand revolves around that discard I just made...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(However, in reality, I'm building a different hand.\nThat discarded 2 won't be part of the final meld.\nIt's a bluff. Sorry, but—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "I'll discard one more card, a 2.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "I'll discard a 2 again.\nHehe... Now, I've created a connection.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"...Pisa rolled a 2 again...\nThat's three times in a row now...? Don't tell me—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Did you deliberately break up a combination of cards that was already matching?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Damn it... What's Pisa aiming for?\nAt this rate, we'll just fall right into their pace—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "...No, calm down.\nPisa said that she \"managed to build a connection\"...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Pisa's habit of trying to 'connect' everything and anything,\nand those three unnatural discards of 2s in a row...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "It's hard to believe at first, but is Pisa...\ntrying to connect every single number in her hand?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(If they made it all the way to the finals with such a high-risk playstyle... they're truly not to be underestimated.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Fufu♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(If Pisa is gathering all \"Sequences\"\nin her hand—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(If I move up half-heartedly, they'll likely turn the tables on me by \"rubbing off\"...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(There are two ways——to evade this.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(A 'perfect discard' that prevents anyone from blaming me... I'll aim for that by getting rid of all unnecessary tiles.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Another option is to sacrifice my own hand\nto block Pisa's sequence yaku.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—...I've made up my mind.\nThis is my masterstroke... to defeat you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Classmate Umamusume",
+      "text": "Oh!\nRulership won!",
+      "choice_data_list": [
+        "That was a bold power play, huh.",
+        "That was a bold power play, wasn't it?",
+        "You were quick to make the call once you'd read the situation.",
+        "You were quick to make the call once you'd read the situation, weren't you."
+      ]
+    },
+    {
+      "name": "Classmate Umamusume",
+      "text": "Oh!\nRulership won!",
+      "choice_data_list": [
+        "That was a bold power play, huh.",
+        "That was a bold power play, wasn't it?",
+        "You were quick to make the call once you'd read the situation.",
+        "You were quick to make the call once you'd read the situation, weren't you."
+      ]
+    },
+    {
+      "name": "",
+      "text": "It was a victory born of aggressive play—piling up yaku without fearing an opponent's win until reaching a \"flawless hand.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Heh... Strategies and tactics exist solely to 'win.'\nIf you lose, none of it matters. If necessary...\nI'm willing to gamble.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "That was truly a great match, everyone.\nThe sweets are... my thanks for entertaining me.\nWhoever wants some, help yourselves.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "\"Ooooh—!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And thus, everyone decided to split\nthe limited-edition sweets and share them together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—I read that Pisa would obsess over consecutive wins, and played accordingly.\nI thoroughly hoarded every card she wanted.",
+      "choice_data_list": [
+        "Didn't think my prediction would be off, huh.",
+        "I didn't think my prediction would be off."
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "...Heh. If I didn't trust my own reads,\nI wouldn't have stepped onto the board in the first place.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "I'll have... just a few sweets.\nI used my brain, after all.\nHeh... not a bad feeling.",
+      "choice_data_list": []
+    }
+  ]
+}

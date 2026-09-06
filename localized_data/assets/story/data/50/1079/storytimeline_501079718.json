@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Furioso",
+      "text": "I look forward to working with you again starting today,\nTrainer.",
+      "choice_data_list": [
+        "Did you have a good day off?",
+        "Did you have a good day off?"
+      ]
+    },
+    {
+      "name": "Furioso",
+      "text": "Yes. Since I had the chance, I tried my hand at a new dish.\nChinese-style glazed sea bass, using carrots harvested in Funabashi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "Great taste, great nutrition, great Funabashi spirit.\nIt's an energizing menu, so\nI'll treat you to some sometime, Trainer.",
+      "choice_data_list": [
+        "Yeah, I'm counting on you!",
+        "Yeah, please!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Furioso got a solid rest!",
+      "choice_data_list": []
+    }
+  ]
+}

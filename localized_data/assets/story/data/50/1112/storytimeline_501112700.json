@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daring Heart",
+      "text": "Hi... Trainer. How are you feeling?\nBecause I feel absolutely terrible...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's because a gecko snuck into my room\nlast night, you see...",
+      "choice_data_list": [
+        "Did it take you a while to catch me?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I caught it right away. But it was just so adorable, I ended up fussing over it the whole time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "*Yaaawn*... Thanks to that, I'm terribly sleep-deprived.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daring Heart couldn't get enough sleep\nand was unable to properly rest.",
+      "choice_data_list": []
+    }
+  ]
+}

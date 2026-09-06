@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I had only just started training\r\nwith Mihono Bourbon, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "*Haa*... *haa*...\r\nStatus condition 'Fatigue'... detected...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Body damage... undetected.\nPresumed cause... mild fatigue from the race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "—Issue minor. Training can continue.\r\nResuming running as scheduled.",
+      "choice_data_list": [
+        "Let's take it easy and call it a day."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Understood.\r\nI apologize for failing to execute your orders.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Since she tends to push herself even when tired,\r\nit might be best to review her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

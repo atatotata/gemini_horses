@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as I was wondering why Sakura Chiyono O\r\nhadn't shown up for training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "I'm so sorry! I ended up being late!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "I laid down to rest for a bit before training,\r\nand before I knew it, I had fallen asleep...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Actually, I watched a scary video last night,\r\nand it kept me from falling asleep for quite a while...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "So, I started baking sweets to take my mind off things,\r\nand got so absorbed that before I knew it, it was morning...\nHonestly, that was the scariest part of all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "I apologize for the trouble caused by my carelessness.\r\nI will be more careful from now on...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Chiyono O seemed remorseful,\nso I let the matter drop with just a light warning.",
+      "choice_data_list": []
+    }
+  ]
+}

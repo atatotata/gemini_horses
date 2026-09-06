@@ -1,0 +1,199 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cameraman",
+      "text": "Look this way, please~\n—Thank you very much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "All right, let me check!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Today, I've come with Fine Motion to shoot an advertisement for a photo studio.\nThe theme is an outdoor wedding photoshoot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "They said the next shoot is in the forest.\nHehe, a forest wedding sounds so lovely, doesn't it?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "It looks like preparations will take some time.\nWhy don't we go ahead and take a little stroll?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm, the air is so nice! The greenery is gorgeous too—it reminds me of the forests back home in Ireland!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I wonder if, by continuing to walk like this, I might find a fairy door\nthat connects straight back to my homeland?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(—Flicker, flicker)",
+      "choice_data_list": [
+        "(...What is it?)",
+        "(…What?)"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "What's the matter, Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I mentioned seeing a mysterious light beside Fine Motion out of nowhere.\nWas it just my imagination...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "A light? I didn't see anything, though...",
+      "choice_data_list": [
+        "Look! It just flickered again!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Wah... hehe.\nThat must be the fairies playing a trick♪",
+      "choice_data_list": [
+        "No way... There's no such thing as fairies, right...?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Who knows?\nI mean, it's such a gorgeous forest!\nWouldn't it make sense if fairies lived here?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fairies just love places with beautiful water and trees.\nIreland has tons of legends about fairies like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Helping with chores in the dead of night,\nor revealing where gold lies hidden.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Though some of them are mischievous fairies who'll occasionally whisk people away, so they say♪\"",
+      "choice_data_list": [
+        "We can't let Fine get taken away."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha, don't worry, Trainer.\nIt's not like anyone's gonna kidnap me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I like to think I'm quite good at negotiating, you know. Even if a mischievous fairy were to appear—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I shall show utmost courtesy and ask them\nto lend a hand in the development of Ireland♪",
+      "choice_data_list": [
+        "That's reassuring.",
+        "How reassuring."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu. You see, if the light\nyou saw was a real fairy, Trainer—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I'm sure the job after this\nis going to be simply wonderful♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "Fine Motion-saaan, you're up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yeees♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so,\nthe photoshoot in the forest went smoothly, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "Alright, checking the data now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "...Wait, huh, what!? Why!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "\"Perhaps it's just the lighting, but Fine Motion-san\nseems to be sparkling all around...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Were you able to take some nice photos?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "Yes! It's magnificent! A shot like this... it's practically a miracle...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fine Motion, draped in an ethereal light.\nThe poster shot on this day became\nthe talk of the town for quite some time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "That expression is wonderful...!\nHold that for a second—wait, huh? No way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "The shutter won't click?!\nWhy now~? Just when it was getting good~!",
+      "choice_data_list": [
+        "...Could it be a fairy's prank?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm, I wonder.\nI'm not sure, but maybe we should try scolding them just in case?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "You shouldn't get in everyone's way.\nIf you take your pranks too far,\nI might just have to spray you with water, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fine Motion spoke to those around her in a theatrical manner. Thanks to that, the equipment trouble was resolved before long.",
+      "choice_data_list": []
+    }
+  ]
+}

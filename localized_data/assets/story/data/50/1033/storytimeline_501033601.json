@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Vega",
+      "text": "\"...How it felt when I lost that last race...\nI haven't forgotten it for a second.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "I'd like to think I've overcome my weakness since then.",
+      "choice_data_list": [
+        "Your race tactics are absolutely perfect!",
+        "Your race tactics are perfect too!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Yes.\r\nBecause I've memorized everything—the course, the track condition, and the rivals' traits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Today's the day I take first place.",
+      "choice_data_list": []
+    }
+  ]
+}

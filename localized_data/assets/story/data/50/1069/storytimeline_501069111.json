@@ -1,0 +1,356 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Sakura Chiyono O has finished\nher first three years in the Twinkle Series.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She went on to achieve truly spectacular results—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Sakura Chiyono O-san!\nWhich race do you intend to enter next?!\nAre you aiming for a rematch with Maruzensky-san?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Is it true you promised Yaeno-san and Ardan-san to run in a certain GⅠ race together?! Do you have other secret rivals as well!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "W-Wah wah... Um, excuse me.\nPlease, one question per person!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "High School Girl A",
+      "text": "Chiyo-chaaan!\nLook over here~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "High School Girl B",
+      "text": "Kyaaah, so cute!\nShe really is the nation's little sister Umamusume! Lemme hug you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "A-A hug!? A national...!?\nWh-What... Th-Thank you so much!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hello... e-ehehe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume A",
+      "text": "Chiyono O-san,\nwould you take a look at my training sometime?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume B",
+      "text": "Ah, no fair, me, me! I'm first, right, Chiyo-senpai?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Huh!? Yes!\nIt's Chiyo-senpai!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "T-T-T-Trainer!!\nPlease, you have to help me!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "People have been acting so strange toward me lately!\nOut of nowhere, they've started putting me on a pedestal...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's true that public interest in Sakura Chiyono O\r\nhas been surging rapidly as of late.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just the other day, the academy received an offer\r\nfor a serialized TV drama called \"The Sakura Chiyono O Story.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y-You're not going to tell me... this was all a hidden camera prank, are you? Or is it a dream?",
+      "choice_data_list": [
+        "Maybe it's not a dream"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eeeeh~? No way~...\nStill, I really can't believe what's going on right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Up until now, the whole mood was all about the \"Eternal Big Three,\" wasn't it?\r\nAnd yet, all of a sudden...",
+      "choice_data_list": [
+        "Chiyono O did beat the \"Eternal Big Three,\" after all.",
+        "Chiyono O did beat the \"Eternal Big Three,\" after all."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "B-But, but besides that,\nwasn't Maruzen-san the one stealing the spotlight!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "\"Then shouldn't Maruzen-san\nbe the one featured in magazines and on TV?\"",
+      "choice_data_list": [
+        "I've even raced against Maruzensky."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Trainer.\nJust out of curiosity, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Am I doing something pretty amazing?",
+      "choice_data_list": [
+        "That's right, Chiyono O."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yes, that's why everyone is\nso captivated by Chiyo-chan.\nIt's truly Chiyo-chan fever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So, Chiyo-chan. What about that mock race?\r\nI already got the okay from him over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So, Chiyo-chan. What about that mock race?\r\nI already got the okay from her over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...! Really, Trainer-san!?\nI can run against Maruzen-san!?",
+      "choice_data_list": [
+        "Of course!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Whoa...!\nPlease do, Maruzen-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Alright, let's blast through today too~! Let's see how much stronger Chiyo-chan's gotten~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Right back at you, Maruzen-san!\nI'm not gonna lose today either!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh my... Fufu.\n...That's my line, you know♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Alright, Chiyo-chan's Trainer,\nwe're counting on you for the signal. Ready...",
+      "choice_data_list": [
+        "Bam!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "\"...Are you sure you don't mind\nnot competing against the two of them?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes. Because I'll be taking on the challenge in the real thing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Until that time comes, I shall store them up:\nmy desire and strength to triumph over them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...I imagine the same goes for you?\nArdan-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yes. ...Fufu, after all, we are \"rivals\" too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I watch over Sakura Chiyono O running alongside Maruzensky. For her, this race is the continuation of her dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If I were to meet her past self and tell her, she'd probably be shocked and think it sounded like a total pipe dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "When I saw that person run, I thought to myself:\nI want to become like Maruzen-san too,\nand stand side by side with her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No matter how mediocre an Umamusume I might be, that dream is the one thing I refuse to give up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...Amazing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Midway through Sakura Chiyono O and the others' race,\nthe voice of an unfamiliar Umamusume reached our ears.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...I want to compete with her too.\nI wonder what it'd be like if I ran desperately just like her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "I wonder if I'll find racing fun...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Haaaaaaahhh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Chiyono O was now in the position\nof being the one to inspire dreams in others.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chiyono O's Mother",
+      "text": "Chiyo~! Sorry! They asked for another autograph board!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ehh~!? I gave you 100 tickets just the other day, didn't I!?\nDid you really go through all of them? No way!\nThere's no way that's true!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chiyono O's Mother",
+      "text": "\"It's not a lie! If it's too much trouble, a handprint is fine.\r\nJust slam your hand down on a signature board like Dad!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eeeeh~... Mm-mm-mm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...No, I'll write it out properly instead of using a handprint.\nAfter all, those people asked my mom because they wanted my autograph, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Then I have to live up to those expectations!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chiyono O's Mother",
+      "text": "Fufu... Thanks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chiyono O's Mother",
+      "text": "...Hey, Chiyo. Mom's been thinking... You have a habit of calling yourself 'ordinary,' don't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chiyono O's Mother",
+      "text": "Maybe it's precisely because Chiyo was so ordinary,\r\nthat she was able to become a star everyone could dream of.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chiyono O's Mother",
+      "text": "Even if it's ordinary... it's still a very special star.\nSo keep doing your best, Chiyo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...! Fufu, yeah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(I was ordinary, yet yearned to be special.\r\nBy meeting the people who supported me,\nI was able to make my special dream come true.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(The only reason I managed that, though, was probably...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "\"You can make desserts even with just a ladle and a pot\"...\nI guess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Fufu, I just came up with a great proverb.\nI'd better write it down!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the story of Sakura Chiyono O continues—",
+      "choice_data_list": []
+    }
+  ]
+}

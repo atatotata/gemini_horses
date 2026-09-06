@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Matikane Tannhauser—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah! Look, Trainer!\r\nThey have \"Paka Petit\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Machikane Tannhauser pointed,\nthere was a crane game filled with plushies\ndesigned after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "\"It's so cute~\r\nLooking at it makes me want one for myself!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "\"...No, but I decided to get the spider plushie today,\r\nso I have to resist this one, resist...\"",
+      "choice_data_list": [
+        "Then I'll win that Paka Petit for you.",
+        "Then I'll win that Paka Petit for you!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Wah-baba! Are you sure?!",
+      "choice_data_list": [
+        "Look forward to it!",
+        "Look forward to it, okay?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe. Thank you very much~.\r\nDo your best, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

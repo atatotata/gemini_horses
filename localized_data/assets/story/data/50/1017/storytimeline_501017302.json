@@ -1,0 +1,381 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One evening, while passing through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hm? That's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\r\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\r\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hey you two, looking all close over there!\r\nCare to give it a try~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...So they say, Trainer-kun.\r\nCare to give it a try?",
+      "choice_data_list": [
+        "That's unexpected.",
+        "That's surprising."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "You mean having shown interest?\r\nIt's simply that I've earned the right to participate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Brian gave me a raffle ticket before.\nShe said she didn't need it, so I could have it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Well, they did dump the punishment onto me, but isn't a lottery actually quite a fascinating game?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Depending on your luck, the prize can be big or small.\r\nThat's when one's true worth is put to the test.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"In that case, it would tarnish my name as Symboli Rudolf, the 'Emperor', if I did not claim a prize worthy of the title.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "In other words, what we're aiming for—is the grand prize,\r\nthe 'Hot Springs Trip,' and nothing else.",
+      "choice_data_list": [
+        "(She's really getting into it, huh?)"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Now then, without further ado,\r\nshall we demonstrate our true worth?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Exchanging a nod with Symboli Rudolf,\r\nwe gripped the lever together and spun the raffle drum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Heh... It seems we were able to pull fortune\r\nto our side with our own hands.",
+      "choice_data_list": [
+        "You did it!",
+        "You did it!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Yeah. I'm honestly really happy.",
+      "choice_data_list": [
+        "...Really?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Haha, can't you tell?\r\nI'm jumping for joy far more than you think.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"However, now that I've actually hit the mark,\nI find myself a little bewildered.\"",
+      "choice_data_list": [
+        "You don't like hot springs? "
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Indeed I do. Leisurly soaking in a hot spring\r\namidst magnificent nature is the supreme form of bliss.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"However... truly wishing for a carefree, leisurely life is far beyond what I deserve right now.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "And so, there you have it.\r\nI'll leave that ticket in your care.",
+      "choice_data_list": [
+        "To me?",
+        "To me?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Yes. Whenever you feel the time is right\r\nto embark on our journey, please hand it to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I wish to entrust it to someone who can evaluate me\nfairly and squarely, without overestimating or underestimating me.",
+      "choice_data_list": [
+        "...Got it!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Heh, no need to push yourself so hard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I'll do my best too,\r\nlooking forward to the day we can journey together in harmony.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "When that day comes—\r\nI shall jump for joy with utmost delight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The hot springs ticket in my care felt heavy,\nbut that just meant there was a wonderful treat to look forward to in the future.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I see, this is a hefty, substantial hamburg steak\r\ntruly deserving of the 'special grade' title.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Still, it has been a long time since I have seen\nsuch an opulent design.\"",
+      "choice_data_list": [
+        "Not eating much?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "You're right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "When I normally eat meat,\rI make a point of choosing lean steaks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Daily meals build the body.\r\nThough I'm sure you are already well aware.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Even so, this is a reward.\r\nIt would be a waste not to enjoy every bite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sprinkle the cheese, add some parsley on the side...\r\nOh, how about we put a little flag on it?",
+      "choice_data_list": [
+        "You sure look excited.",
+        "You seem really excited."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Naturally. For an exquisite item such as this,\r\nis it not the duty of the recipient to enjoy it to the fullest?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, she shared many more of her ideas on how to garnish the Salisbury steak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\r\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I see, this is much appreciated.",
+      "choice_data_list": [
+        "Grateful?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "As part of student council measures, we were just brainstorming an event\r\nthat could help refresh and revitalize the students.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"With this many carrots,\nwe might be able to prepare a special full-course meal.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Let's quickly arrange something to see if we can pitch it to the cafeteria as a one-day-only menu item.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Would you mind helping out as well?\r\nLet's see... How does Minister of Taste-Testing sound?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I'm counting on you, Minister.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And thus, I was entrusted with this honorable duty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\r\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"...Then a question for you, Trainer.\nAmong the nutrients found in carrots,\nwhich one is worth noting?\"",
+      "choice_data_list": [
+        "...Carotene?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Indeed. Carotene is converted into Vitamin A in the body,\r\nmaintaining healthy skin and mucous membranes.\nIt also confers various other health-promoting benefits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "So then, how should it be prepared\r\nin order to efficiently absorb carotene?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Trainer-kun,\r\nlet me hear your answer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "If possible, I'd like to hear a routine that makes the absolute most of this single piece.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On the way back, we engaged in a heated debate over\nhow best to bring out the delicious potential of carrots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Tissues, huh.",
+      "choice_data_list": [
+        "That's too bad.",
+        "That's too bad."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Come now, it is nothing to be disheartened over.\r\nSuch is the peculiar charm of testing one's luck.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I was running low on pocket tissues anyway,\r\nso saving the trouble of restocking actually turned out for the best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As expected of the \"Emperor,\" Symboli Rudolf.\r\nJust as I was admiring how she showed not a shred of disappointment—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "By the way, my dear Trainer. Is there nothing else you need for today?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Fortunately, there is still time before my next appointment.\r\nSince I went out of my way to stop by, I might as well—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Bzzzt, bzzzt...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"...Forgive me, time's up.\nShall we head back to the academy?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Was it just my imagination that her back looked a little lonely...?",
+      "choice_data_list": []
+    }
+  ]
+}

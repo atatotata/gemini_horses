@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "King Halo",
+      "text": "Heheh, not too shabby.\r\nFrom here on, I'll keep honing my skills and aim even higher!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "I shall grant you the privilege of keeping it in the trainer's office.\r\nDisplay it proudly to honor King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "These plushies are my royal guard! Cherish them dearly! O-ho-ho-ho!",
+      "choice_data_list": [
+        "I was the one who got it, though...",
+        "I was the one who got it, though..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh, a first-rate trainer shouldn't\nfret over such trivial details, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

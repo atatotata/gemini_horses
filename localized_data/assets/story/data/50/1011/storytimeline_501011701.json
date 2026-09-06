@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Having woken up at the crack of dawn,\r\nI headed over to the academy early, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Good morning, Trainer-san.\r\nWhat a refreshing morning it is~âª",
+      "choice_data_list": [
+        "Good morning. You're in high spirits today.",
+        "Good morning. You're in high spirits today."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yes. I went to my koto lessons yesterday.\r\nIt was a wonderful day off~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Making wonderful sounds with your own hands\nfeels absolutely amazing~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "I have rested sufficiently for my discipline. Today as well, I shall press forward tirelessly toward the summit♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Grass Wonder seemed to have had\r\na good, restful day off.",
+      "choice_data_list": []
+    }
+  ]
+}

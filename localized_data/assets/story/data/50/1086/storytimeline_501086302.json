@@ -1,0 +1,580 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, on my way back from shopping in the district—",
+      "choice_data_list": [
+        "(Hm? Is that... over there?)"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": [
+        "Ramonu, what are you doing?",
+        "Ramonu, what are you doing?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Townsperson A",
+      "text": "Hey, look, a lottery raffle!\nLet's do it, let's do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Townsperson B",
+      "text": "Hell yeah!\nHot springs trip tickets!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed Mejiro Ramonu had been watching\nthe scene at the raffle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "—Why was that, I wonder?",
+      "choice_data_list": [
+        "...First of all, a lottery is—"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "I asked why.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "I know what a lottery is.\nHowever, why is it bustling to such an extent?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "I wonder if leaving everything to luck\nis actually fun.",
+      "choice_data_list": [
+        "Want to try it out?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I just received a raffle ticket while shopping earlier.\nWith this, Mejiro Ramonu can participate in the raffle too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "...That's true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Well then, go right ahead.",
+      "choice_data_list": [
+        "Am I the one who's supposed to back down?",
+        "I'm the one drawing?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "If I were to win the grand prize or something...\nI wonder if that'd be fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...All of a sudden, the raffle tickets in my hand\nfelt significantly heavier.",
+      "choice_data_list": [
+        "(I... I'll do it!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Under Mejiro Ramonu's watchful gaze, I braced myself and spun the raffle wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Bells ring inside my head.\nRight before Mejiro Ramonu's eyes,\nI seized the opportunity!",
+      "choice_data_list": [
+        "Yay!!"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, Trainer-san!\nYou've got some incredible luck on your side!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Or maybe it's thanks to Lady Luck herself\nwatching over me from by my side?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": [
+        "No, it's just my incredible luck!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oho, so that means...",
+      "choice_data_list": [
+        "I was lucky enough to meet her, after all!"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Haha, is that so, is that so!\nWell then, here's your \"Hot Springs Trip Voucher.\"\nGo have fun, you lucky Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Going with the flow, I headed back to the academy together with Mejiro Ramonu.",
+      "choice_data_list": [
+        "(...Ah, that's right.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It would be a waste to go on the hot spring trip I won all by myself. If anything, I want Mejiro Ramonu to use it to relieve her everyday fatigue.",
+      "choice_data_list": [
+        "Ramonu—"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Surrendering oneself to luck...\ncertainly does seem fun.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "\"Otherwise,\nthe view before my eyes would have been completely different.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "\"...If it is at the very end\nof reaching the supreme race.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "\"Talking it out doesn't sound too bad.\nAt least until our flushed skin cools down...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "See you later, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Enigmatic words... But if I continue down this path,\nperhaps the day will come when I can have a quiet, heartfelt talk with Mejiro Ramonu—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "First prize.",
+      "choice_data_list": [
+        "Oh, isn't that incredible!?",
+        "Oh, isn't that amazing!?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Which one?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "\"Winning the prize, or\nwhat you actually won. Which one makes you happier?\"",
+      "choice_data_list": [
+        "Maybe... both?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "So you're fond of the Special-Grade Carrot Hamburg Steak, I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "How wonderful for you,\nwinning your favorite food.",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Ramonu is merely stating facts.\nYet for some reason, it feels like\nI'm being treated like a child...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Why not eat it tonight?",
+      "choice_data_list": [
+        "By the way, what about Ramonu..."
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Please don't worry about me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I planned to enjoy it by myself back at the academy\nfor dinner, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For some reason, I'm currently slicing a Premium Carrot Hamburg steak while Mejiro Ramonu watches me.",
+      "choice_data_list": [
+        "(I-It's so awkward to eat...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I can't read the intention behind her gaze at all.\nWhat if I made a breach of etiquette...?\nAnxious, I brought a piece of Salisbury steak to my mouth.",
+      "choice_data_list": [
+        "!... Delicious!!"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Heh...",
+      "choice_data_list": [
+        "（……！？）"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Under Ramonu's watchful eye, though my mind\nwas completely full of question marks,\nI finished every last bite of the delicious hamburger steak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What I received was a box\npiled high with carrots.",
+      "choice_data_list": [
+        "That's an insane amount...!"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "I am pleased for you.",
+      "choice_data_list": [
+        "Ramonu, want half?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Please don't worry about me.",
+      "choice_data_list": [
+        "I figured...",
+        "I thought so..."
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "...Ah, wait.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Perhaps... I shall partake after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "—So, all of this food\nis for me...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The next day. After having the chef cook all of her share\nof the split carrots, Mejiro Ramonu called upon Mejiro Ardan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Yes.\nI'll leave the rest to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "What?!\nP-Please wait!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Um, I'm very flattered by your feelings, but...\nWhy me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "\"I want to eat carrot dishes until I'm completely full.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Yes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "You... if I recall correctly,\nsaid so before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Um, dear sister.\nCould it be that this story is...\nfrom back when you were a child?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Really?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "She is still a child even now.\nNothing has changed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Th-That's completely wrong...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "\"...However, I am happy.\nTo think you remembered such a small detail.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Thank you.\n...I'll gladly accept.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Bon appétit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "3rd prize.",
+      "choice_data_list": [
+        "It's hitting! Alright!"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "\"Hmm...\nSo that makes you happy.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Somehow I feel like they're implicitly treating me like I'm 'cheap'...",
+      "choice_data_list": [
+        "...It wasn't cheap, you know!"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "I wonder what that means.",
+      "choice_data_list": [
+        "What do you mean, 'how'…?"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When Ramonu fixes her gaze on me,\nI start losing confidence in whether\nI'm truly not just a cheap, shallow person.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Would you care to tell me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "What's not so cheap?",
+      "choice_data_list": [
+        "(…Wait, am I being teased!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Ramonu's testing gaze...\nIt made me feel as if\nI had walked right into a trap myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": [
+        "A participation prize..."
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "What a disappointment.",
+      "choice_data_list": [
+        "Ugh, sorry..."
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Why are you apologizing?",
+      "choice_data_list": [
+        "I couldn't win the grand prize..."
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "...The reason I said I was disappointed was...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Because you didn't look like you were having fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "So this is all it amounts to...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...By showing such a mediocre result,\nI betrayed Mejiro Ramonu's expectations.\"",
+      "choice_data_list": []
+    }
+  ]
+}

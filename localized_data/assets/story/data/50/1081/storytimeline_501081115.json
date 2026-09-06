@@ -1,0 +1,677 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today as well, we open the textbook\nand begin training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "And a deserted island...?",
+      "choice_data_list": [
+        "I want to run on different \"sand\" than what's at the academy.",
+        "I want to run on a different kind of \"sand\" than what we have at the academy."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Even if we broadly say 'dirt',\nthere's a wide variance in the quality of the sand.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Central dirt, regional dirt.\nOn top of that, regional tracks have different sand depths depending on the venue,\nso each racecourse has its own distinct characteristics.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Then rather than specializing in one type of sand...\nI need the versatility to adapt to any track.\"",
+      "choice_data_list": [
+        "Because the sand quality here is right in the middle."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Quit trying to sound so smart! All I gotta do is run, right?!",
+      "choice_data_list": [
+        "We'll even clock your speed with a speed gun!",
+        "We'll even clock your speed with a speed gun!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Yeah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ryaaaaaaah~~~~~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I meticulously record the speed of the accelerating Espoir City in my notebook.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Umamusume who set the pace from the front, such as Front Runners and Leaders,\nrequire precise internal clocks to gauge the race's overall tempo. And—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "WOOOOOOOO~~~ Traiiineeeer!\nI gotta be clocking 60 km/h right nooow~~!",
+      "choice_data_list": [
+        "No, right now it's 50 km/h!!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "That ain't nearly enough, is it!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To act as a pacemaker, you must know how fast you're running.\n—Honing that instinct is just as crucial.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Haaah... phew...\nTrainer... next is――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"I'll run at exactly 55 km/h.\n...Don't underestimate my internal speedometer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Espoir City continued to stack up her training after that, growing steadily...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hellll yeah!! 1st place in the mock race!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She had improved to the point where she could produce results\neven when competing against the academy's top Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Heheh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And this result\nwill guide me to the next step.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Oh, my~ Trainer and Espo too!\nHaving you two visit me together\nfeels just like a home visit♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Please, come over here and take a seat.\nWhat brings you here today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—About four months ago, her mother quietly shared her heartfelt concerns for her daughter.",
+      "choice_data_list": [
+        "(That's exactly why... I want to tell them directly how much I've grown.)"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "I totally smashed it and took 1st place in the mock race!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "There were even Umamusume who run in graded races,\nbut it was soooo totally easy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Oh my... Espo really is strong~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "――! OF COUUUUURSE!!\nTold ya it'd be a piece of cake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her eyes narrowed gently in front of her mother.\nHowever, today's report didn't end there.",
+      "choice_data_list": [
+        "She has the ability to run in Dirt GⅠ races."
+      ]
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Whaaaaat...?! Espo? In a dirt GⅠ?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "This guy's spouting nonsense\nabout \"waiting and seeing until summer,\" though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Well... she's pretty much guaranteed to run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Whoaa~! A GⅠ... is every Umamusume's dream, you know?\nMom wanted to run in one too, after all~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hmph!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The potential race for now is October's\n'Mile Championship Nambu Hai.'\nIf the timing works out—",
+      "choice_data_list": [
+        "I'll take first place at the Mile CS Nambu Hai."
+      ]
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "――！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ha, fair enough.\nNot really anything to be surprised about.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Such a magnificent goal...! Um, Trainer, do you really believe in this girl that much...?",
+      "choice_data_list": [
+        "She is strong enough to live up to those expectations."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "—Right. Someone like me can take 1st place.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "...I see...!\nHehe, you're right...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Espo. Can Mama come over to your side?\nJust for a little bit... Sorry, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "I haven't seen you in a little while and you've gotten even bigger...\nSeriously... Espo, you really are something...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "...Oh, that's right!\nI have to let Dad know too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...To my old man?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "They stepped out just before you arrived.\nI'll contact them to come right back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Seriously, why did it have to be on a day like this...?\nAnd after I told them in advance that Espo was coming home, too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "It's totally fine!!",
+      "choice_data_list": [
+        "――！"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Like I care about my old man anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "…………\nI don't wanna see 'em either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "Espo...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Overwhelmed by Espoir City's fierce intensity,\nsomething suddenly crossed my mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Idiot!\nAs if that old bastard would ever have high hopes for me!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...That guy...!\nEven though he's a trainer at a development club...!\nHe totally made me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "\"Because of that bravado, several paths\nhave closed off to her.\nIncluding the whole matter with her father.\"",
+      "choice_data_list": [
+        "(So you're Espoir City's father...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...It seems it's still too early to end our \"home visit.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Mother",
+      "text": "\"Hey, are you sure this is far enough?\nI can walk you to the station, you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Just come on! Get inside the house already!\nLet's go, Trainer!",
+      "choice_data_list": [
+        "Sorry, go on ahead without me. There's somewhere I need to stop by."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huuuh?",
+      "choice_data_list": [
+        "Sorry!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ah... HEY!!\nUrgh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "The pharmacy is right around that corner to the right! For the supermarket, take a left at the third intersection!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Warmed by her underlying thoughtfulness and kindness, I set off running toward our destination.",
+      "choice_data_list": [
+        "The biggest training club around here is—"
+      ]
+    },
+    {
+      "name": "Training Club Staff",
+      "text": "Chief! You have a visitor!\nSounds like it's your daughter's trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"Haaah? When you say your daughter's...\"",
+      "choice_data_list": [
+        "Hello, nice to meet you."
+      ]
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...Hello.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The man with sun-tanned skin had the same hair\ncolor as Espoir City... and his straight nose\nbore a striking resemblance to hers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "Here.\nIt's a cramped office, but... here's some tea.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"...It's a bit hot.\nI'll bring some water right now.\"",
+      "choice_data_list": [
+        "No, please don't worry about it!"
+      ]
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...I got a message from my wife.\nYou were at my place with Espo just a little while ago, weren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her father crossed his arms\nand fell silent for just a brief moment.\nRadiating a piercing, intimidating aura, he furrowed his brow—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "—...My wife must know it too, though.\nThings probably would've been better without me around.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "If I'm at home, she won't even be able to talk properly.\n...We wouldn't even get to talk about the important stuff, would we?",
+      "choice_data_list": [
+        "(…? Huh…?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Given Espoir City's hostility,\nI thought her father was \"her enemy.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yet meeting her in person, she's rough around the edges, but...\nawkwardness seems to win out over anything else—",
+      "choice_data_list": [
+        "Um, the reason you weren't home was..."
+      ]
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...Forget about that, let's get down to business.\nIt's about my daughter and me anyway, isn't it?",
+      "choice_data_list": [
+        "...Will you tell me about it?"
+      ]
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...By the way, Trainer,\nwhat did you say to that timid girl to get her to run?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"By putting on a brave face, she's trying to hide her true feelings... that girl.\"",
+      "choice_data_list": [
+        "I...",
+        "I..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...There was probably no need to force myself to hide anything here.\nI explained everything that had happened with her, step by step.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Because she puts on a tough front and lacks confidence in herself, coaching her through training was quite a struggle.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However... ever since using that \"textbook\"\nto give her a temporary boost of confidence,\nher condition has been on the rise.",
+      "choice_data_list": [
+        "...This is strictly a temporary fix, however."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Someday, she will have to...\nface her own weaknesses and overcome them herself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"...I see.\nYou seem to be guiding them quite skillfully.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "I couldn't do it like that.\nI ended up choosing a much more direct approach.",
+      "choice_data_list": [
+        "A direct approach, huh..."
+      ]
+    },
+    {
+      "name": "Espo's Father",
+      "text": "I told them straight out.\nTo admit their weakness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...Because mental issues\nare something that ought to be resolved quickly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "In fact, all the Umamusume I've instructed have overcome their weaknesses and grown significantly.\nAnd yet, she...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "—Even on that day, she was just doing reckless\ntraining that was way beyond her limits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"‘Admit that what you can't do, you can't do!!\nYou idiot...!!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"Haaah... You're weak as hell, so stop pushing yourself so damn hard...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "If someone didn't stop you, your legs would've been ruined.\nIf not now, then someday in the future. ...That's why.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"Admit to yourself first that you're weak!\n—Otherwise, you won't ever get any stronger!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "『――！！』",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Screw you... Screw you, screw you!\nDon't you dare call me weak!! You damn old man!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "—It started back then.\nThat's when she began rebelling like a raging fire.",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...It was supposed to be a necessary education.\nI've seen plenty of girls just like her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "However...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "...Trainer, what kind of education\ndo you think Espoir needs?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espo's Father",
+      "text": "\"For an Umamusume... for that girl.\nWhat do you think the role of an educator is?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"...So slow.\nWhen is she gonna get back?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Did you get lost or something?\nIf so, you could've at least given me a call—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Espo-saaann!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Nwah, Falco!?\nThe hell are you doing so suddenly?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "—Teach Falco all about dirt racing!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "\"Espo-san took 1st place in the mock dirt race\nthe other day, right? That's why—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Please, please!\nIt's Falco's favor of a lifetiiime☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "H-Hold up, Falco! I know what's going on, you know!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"You were on the turf! ...In the Classic Triple Crown!\nYou ran in the Satsuki Sho, dammit!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Something about wanting to be a top umadol!\n...Isn't that why you chose turf!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Yeah, but my challenge on turf is over!\nI've made up my mind, and I'm going full speed ahead on the dirt path!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "You... just 'cause it didn't suit you? Just 'cause you gave up... you're coming to the dirt?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Just because I'm weak, I'm giving up on my dream—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "It's the opposite! Falco isn't giving up on her dream!\nWhat I've always aimed to be is the 'Top Umadol on Dirt'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "\"I knew I couldn't win the Satsuki Sho.\nBut you can only sing 'winning the soul'\nif you're on the Classic Triple Crown path.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Even if I knew my true aptitude,\nI wanted to take on this first and last challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "From now on, I'm going to seriously study dirt racing!\nI'll work as hard as I can to make up for my late start!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Wait, what's with the 'Right?'...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Falco & Espo",
+      "text": "Please, please, it's the favor of a lifetiiime!\n...Whoa!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An awkward father, and his daughter's Trainer.\nA chick of the dirt, and a rebellious daughter eager to howl.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Perhaps this encounter, too,\nwill tie into our future.\"",
+      "choice_data_list": []
+    }
+  ]
+}

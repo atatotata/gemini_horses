@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Lucky Lilac",
+      "text": "—Sorry for being late!",
+      "choice_data_list": [
+        "I was worried. Did something happen?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "A-Actually... my lucky item from this morning's horoscope was a pink car.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "So I figured I'd casually look around while I was out anyway, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Before I knew it, it had gotten this late...\nI will make sure this does not happen again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's fine to lose yourself in what you love,\nbut that aside, I gave her a stern talking-to\nfor being late.",
+      "choice_data_list": []
+    }
+  ]
+}

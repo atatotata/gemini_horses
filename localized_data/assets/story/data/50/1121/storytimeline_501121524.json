@@ -1,0 +1,426 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "In the hallway, I spotted Durandal and\nZenno Rob Roy talking together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ah, my liege.\nWe were actually just discussing an epic poem starring myself.",
+      "choice_data_list": [
+        "An epic? "
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yes. Ancient warriors, Western knights, Japanese samurai.\nAcross all times and places, stories of honorable heroes—\nepics are widely composed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Naturally, there should be a story about the academy's pride and knight, Lord Durandal, as well! ...Or so I thought!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Now then, continuing where we left off...\nIf you have any heroic tales that could inspire a story,\nplease do tell me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Hmm, my heroic exploits, you say? A few come to mind,\nfor instance—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Whenever a big bug flew into the living room back home, I'd carry it outside on the tip of my sword—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Lugging bags of rice back and forth between home and the coin-operated rice polishing machine, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Even I have to admit, that didn't sound epic at all!\nDamn it, at this rate...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"Then you just have to weave it starting now.\nYour very own tale of adventure!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "A dragon-slaying epic of felling a monster after a deadly struggle?\nOr a hero's tale of rescuing an imprisoned princess?\nWeave whatever story you desire.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "T-That does sound exciting, but...\nsuch opportunities don't come around easily—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"Then I shall lend you my power.\nBe it a bloodthirsty fiend or a mad demon king,\nI will wear whatever mask you desire.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"U-Um, if I could help out too...!\nAfter all, I was the one who suggested it!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "T-Thanks!\nI definitely won't let this opportunity go to waste!",
+      "choice_data_list": [
+        "(Is it really okay to go along with this vibe...?)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "It seamlessly transitioned into a script meeting, and the rough storyline came together—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Kukuku... Are you prepared\nto become my sacrifice? Princess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ngh... You destroyed my homeland, and even took my parents...!\nEvil Dragon, I will never forgive you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh, rest assured. The dragon's belly is deep and vast—\nI am sure the kings and knights I have devoured will all be there to welcome you!",
+      "choice_data_list": [
+        "Rumble rumble rumble...!!!!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, Trainer.\nI think the sound effects could be dialed back a little...",
+      "choice_data_list": [
+        "Ah, yes."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Hehehe, the last remnant of a ruined kingdom—\nnow is the time to devour it whole!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Hold it right there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Ho... Who goes there?\nTo think someone would march into my Pandemonium all alone—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I have no name to give to an evil dragon—\nYet to put the Princess at ease, I shall proudly declare it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "My name is Durandal!\nThe knight who shall strike you down!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "(...That's it!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Gwahahaha, impudent fool!\nI shall reduce you to ash with my flames!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Prepare yourself! Haaaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"—No! Forget I said anything!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Huh!? W-What's the matter?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "A knight worthy of poetic tales shouldn't just slash away—she must display a technique befitting the climax!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I want to come up with a new special move here, but...\nHmm, what kind would be good—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Don't rely on reason. Listen to the voice of your own passion.\nThat is what will bring you inspiration—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I see, a flash of inspiration...!\nIf only I had some sort of spark...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...My Liege! Is there any word\nthat could serve as a hint!?",
+      "choice_data_list": [
+        "\"Ultimate Strongest Invincible Super Slash\"",
+        "\"I'll stake everything on this one blow!\"",
+        "\"Power Beyond Dragons\"",
+        "...Like, what you want to eat right now?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "The ultimate slash... so cool!\nI see, sharp 'acceleration' truly is my essence!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Fufu, the image is coming to me...\nA fierce charge, swinging the sword in a wide horizontal slash—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh heh heh, no matter what technique you use, my dragon scales shall withstand it!\nCome at me without haste!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Yes! I'm going to get a running start, so wait right there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "“—Hyaaaaah!!\nNew special move—”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Lightning-Flame Absolute Ice-Flash Wood Splinter Slash\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "K—Kekeke, ha ha ha ha!\nSplendidly done, knight...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah... Sir Durandal. Our kingdom...\nhas not fallen after all, has it?\nNot while a knight such as you remains.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Yes. Come, let us return—Princess.\nBack to our homeland—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"...And so, with a bit of dramatic flair added to the details,\nthe epic was successfully completed.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Lightning-Flame Absolute Ice-Flash Wood\"—\nOh, huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "O-Oops, went too far—\nWaaaahhhhh!?!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "S-Sir Durandal~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though a grand blunder was made,\nthey managed to complete the epic saga after a Take 2—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ah! Wh-What an intensely climactic thing to say...!\nI love it! It's so good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Alright! My liege!\nSince it has come to this, let us unleash our new ultimate move together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Combining the last of your strength with the companion\nwho shared your journey to unleash a sword technique—\nwhat a truly splendid situation!",
+      "choice_data_list": [
+        "(...Was that really where I stood?)",
+        "(...Wait, was that really my position?)"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "So the Gates of Ruin are to be closed by two hands, is that it?\nHeheh, how wonderfully poetic!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Let us go, my Liege!\nCome, place your hand upon this sword!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Combined Sword—'Conflict of Ouroboros'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh... Fuhahaha...! Two snakes consuming each other's tails, completely incompatible... Are you saying you achieved the contradiction of uniting their power—",
+      "choice_data_list": [
+        "...Is that really how it is, I wonder?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngh... It worked! It worked flawlessly!\nThe ultimate combination sword technique with my Liege...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "That moment... I will never forget it as long as I live!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In any case, under the guise of defeating the dragon and saving the princess... with a bit (?) of dramatic embellishment mixed in, Durandal's tale was complete.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Power... that surpasses even dragons...!?\nDo I truly have such a thing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Still, we've supposedly overcome such a difficult journey\nto get here... so having a hidden power awaken\nat the very end would be pretty cool too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Awakening, right? Alright!\nHaaaaaaaah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Trainer-san. Um...!\nI believe now is the time to play the sound effect...!",
+      "choice_data_list": [
+        "Shwin, shwin, shwin...!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "...It has arrived! This power...!\nEvil Dragon, feast your eyes upon this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Evil-vanquishing blade—\"Dragon-Slaying Coup de Vent\"!\nUoooooooh!!!!",
+      "choice_data_list": [
+        "—BOOOOOOOOOOOOM!!!!"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Guh... GUAAAAAAAHHH!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Haa, haa... How was that?\nDid I pull it off well...?",
+      "choice_data_list": [
+        "...Spot on!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Fufu... Yay!\nThanks to my liege's sound effects,\nI got all fired up...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—And so, wrapped in the assists and kindness of those around her, Durandal's chivalric tale was complete.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "F-Food, you say?\nHmm... But how would I incorporate that into a technique...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, come to think of it... On the way here,\nthere was a dango shop that looked delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"...Ha!? Speaking of dango...!\nA sharp skewer piercing three balls—or rather, a thrust...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "—I've got it! A demonic art capable of slaying even a hundred-headed dragon in a single blow—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Artisan Technique—\"Mitarashi Armor-Piercing Triple Thrust\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "…………。",
+      "choice_data_list": [
+        "…Huh? I-it's not working?"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "No, it's definitely working. It's just—\nhearing \"dango, dango\" so many times makes it a bit... *chuckle*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Now you've got me\nwanting to eat some too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Hmph. Actually, I am too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Well, having technically slain the dragon and saved the princess,\neveryone went out to celebrate\nand ate dango. The end.",
+      "choice_data_list": []
+    }
+  ]
+}

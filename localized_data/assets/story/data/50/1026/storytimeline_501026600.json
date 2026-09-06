@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "Is this... an error?\nStill, considering that...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Elevated pulse and chest tightness detected.\r\nDetermined to be an abnormal state of excitement.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Based on the above, I estimate my status\r\nas \"shivering with anticipation.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...I shall deliver victory to you, Master.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from shopping for training equipment\nwith Hokko Tarumae—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Huh~ they're holding a raffle.\nReminds me of the lotteries back home...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I've never really won anything like that.\nThe person running the raffle would always cheer me on, saying, 'You'll get it next time!'...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her words reminded me that I had received\na lottery ticket from my shopping earlier.",
+      "choice_data_list": [
+        "Wanna try the raffle?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I see. You got a ticket earlier, right?\nI hope you win something!",
+      "choice_data_list": [
+        "...Tarumae, why don't you give it a spin?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Huh? But wasn't that a freebie from\nyour shopping trip, Trainer?\nWouldn't it be weird for me to use it...?",
+      "choice_data_list": [
+        "What I bought today is something for Hokko Tarumae to use, after all."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "What kind of logic is that...?",
+      "choice_data_list": [
+        "Now is the time to settle our long-standing grudge!",
+        "Now is the time to settle our long-standing grudge!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "D-Don't make it sound so bad! It's not like I hold a grudge just because I kept losing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...*sigh* At any rate,\nI understand that you desperately\nwant me to enter the lottery, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Then how about we pull it together?\nThat way, there shouldn't be any issue\nwith your logic, right, Trainer?",
+      "choice_data_list": [
+        "Okay!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "If we're gonna do this, let's aim for the jackpot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Excuse me! May I draw a raffle ticket?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Together with Hokko Tarumae,\nI eagerly cranked the raffle wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "..................Eh?",
+      "choice_data_list": [
+        "You did it!!",
+        "We did it!!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Y-You really can win these things, huh.\nI'm just a little surprised—",
+      "choice_data_list": [
+        "Feel free to use it whenever you like."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Wait a minute.\nTrainer, are you trying to make me\nuse this ticket all by myself?",
+      "choice_data_list": [
+        "Because Tarumae was the one who won it."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Did you already forget our conversation from earlier?\nWe spun and won this together, so there's no way I could use it all by myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"So wouldn't it make the most sense for us to use this ticket?\"",
+      "choice_data_list": [
+        "Y-Yes."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Good grief—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Still, in practice, the timing is really tricky to get right...\nHmm...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Trainer.\nIf it's alright, could you hold onto\nthis hot springs trip voucher for me?",
+      "choice_data_list": [
+        "I don't really mind, but—"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...It's a crucial time right now, so\nI didn't think it'd be appropriate\nto just go off and enjoy a trip.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "So, I'm not sure when it'll be, but once things settle down a bit, let's discuss the timing again.",
+      "choice_data_list": [
+        "Got it!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Fufu. I'd love to use it for something like\nan 'Extra-Large Great Job Party'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Huh, no way!? Alright!!",
+      "choice_data_list": [
+        "That's a jackpot, huh!",
+        "That's a jackpot, isn't it!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Fufu, what a huge portion...!\nAnd it looks so delicious, too!",
+      "choice_data_list": [
+        "I can't wait to eat it."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"...Just so you know, Trainer,\nyou're eating this with me, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Because this is something the two of us\nspun the wheel together and won, after all.",
+      "choice_data_list": [
+        "Are you sure?",
+        "Are you sure?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Well of course!\nHonestly now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"...Right! Let's hurry back and eat!\nSomehow, I've suddenly gotten super hungry!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, the two of us enjoyed the spoils of victory,\nturning them into energy for tomorrow...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I did it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "“—This is way more than I expected...!\nFinishing all this might be a bit tough for just us—”",
+      "choice_data_list": [
+        "Then want me to share some with you?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...! That's the one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"I'll try contacting Rickey right away!\nAnd Acute-san and Falco-san too—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, we threw a spontaneous carrot party and happily polished it all off together with Hokko Tarumae and her friends...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Fufu, that's correct!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Winning is great and all, but...\nit's hard to figure out what to do with just one carrot.",
+      "choice_data_list": [
+        "Why don't you eat it, Tarumae?",
+        "Why don't you eat it, Tarumae?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No way! We won this prize from the raffle we drew together, so there's no way I can use it all by myself!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Hmm.\nMaybe I should just cook something with it to use it up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"I just feel like it makes the most sense\nfor us to eat it together—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Hokko Tarumae and I shared some vegetable soup she had made, warming both body and soul—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ugh... I missed...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Even though I knew the odds of losing\nwere obviously much higher,\nit's still a little disappointing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"...That being said, these are tissues we won together\nin the lottery. Shall we leave them in the Trainer's Room for shared use?\"",
+      "choice_data_list": [
+        "S-So dutiful..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Good morning.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ah...――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Mmh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while after that, every time Hokko Tarumae saw the tissue box in the trainer's room, she would remember losing and feel disappointed all over again—",
+      "choice_data_list": []
+    }
+  ]
+}

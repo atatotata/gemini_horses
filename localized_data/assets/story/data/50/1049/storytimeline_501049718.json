@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "Morning, Trainer.\nDidn't expect to run into you this early.",
+      "choice_data_list": [
+        "Were you able to get some rest yesterday?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"Yeah, don't worry.\nMy head's as clear as ever.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Though honestly, one day of peace is plenty for me.\nI've got no use for an unstimulating everyday life.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nakayama Festa flashed her usual grin.\nIt seemed she had gotten a decent amount of rest.",
+      "choice_data_list": []
+    }
+  ]
+}

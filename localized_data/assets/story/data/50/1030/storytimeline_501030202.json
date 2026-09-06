@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Spectators",
+      "text": "Bour-bon! Bour-bon!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"What incredible cheers! Even before the start, shouts anticipating the birth of a champion echo across the entire venue!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Who will be crowned this year's Derby Umamusume?\r\nThe Nippon Derby is about to start!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"Everyone is cheering\r\nfor Bourbon-san...\"",
+      "choice_data_list": [
+        "Don't let the noise around you sway you.",
+        "Don't let the noise around you sway you."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Yeah. You're right.\r\nI have to stay focused no matter what stage it is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "There's only one thing I need to catch.\r\n...And that's Bourbon-san's back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Phew... Thanks, Onii-sama. Well, I'm off then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Phew... Thanks, Onee-sama. Well, I'm off then.",
+      "choice_data_list": []
+    }
+  ]
+}

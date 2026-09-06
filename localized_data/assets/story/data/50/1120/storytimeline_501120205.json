@@ -1,0 +1,219 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the day of the Takamatsunomiya Kinen, I was called over\nby Agnes Tachyon in the corridor outside the waiting room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hey, did you drink that concoction?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That \"special drink\" was a placebo drink she made herself.\nIt was actually just plain water.",
+      "choice_data_list": [
+        "No, I haven't had anything to drink."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Since it claimed to have special effects, Calstone Light O refrained from drinking it before the race. A wise decision.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "I see. Then let me teach you a very special curse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"That drink was just plain water with no special effect at all.\"",
+      "choice_data_list": [
+        "You're going to spill the truth? Right before the show?",
+        "You're going to spill the truth? Right before the show?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Just try chanting it in front of Right O-kun.\nTrust me on this, just give it a shot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Despite being told that,\ntime passed without me being able to reveal the truth.\nConsidering the impact on the race, I couldn't say it carelessly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "What's the matter, Trainer?\nYou've got a face like you've been constipated for a week.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O has finally grown suspicious of me.\nIt wouldn't be good to leave any weird doubts lingering before the race.",
+      "choice_data_list": [
+        "A-Actually... Tachyon's drink was..."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Did that drink upset your stomach?\nPlease feel free to hole up in the restroom. Don't hold back.",
+      "choice_data_list": [
+        "It was just plain water with no effect at all!",
+        "It was just plain water with no effect at all!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Water? Just plain water?\nWater? Aqua? Wasser?\nJUST PLAIN WATER!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "What about the \"never get tired no matter how much you run\" effect?\nWhat about the \"better at counterclockwise tracks\" effect?\nWhat about the \"double kicking power\" effect?",
+      "choice_data_list": [
+        "It does NOT have that kind of effect!!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "No way...! In that case—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "So all of that was my own ability! Not the effect of the drink!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "No matter how much I run, I don't get winded anymore!\nI've gotten better at running counter-clockwise!\nMy kick power has doubled!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I can still run my usual race!\nEven without drinking that concoction!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Heh...\nLooks like I'll be beating my top speed again today!",
+      "choice_data_list": [
+        "Yeah, you're right!",
+        "Yeah, you're right!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "To think she would interpret it that way...\nWhat incredible power of conviction.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In any case, it looks like she'll show us\nher best run yet today as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Good work, Trainer.\nHow was Light O doing?",
+      "choice_data_list": [
+        "She was so fired up I was worried she'd get overexcited."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Fufu, that's wonderful! You seemed a bit exhausted lately. If you're full of energy, that's all the better!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Oh, there's Durandal over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Just when I thought I was finally catching up to the two of them.\nTo be stuck stalling like this...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Hello, Durandal-san!\nSo you came to watch too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Hello.\n...I thought I'd at least come and watch.",
+      "choice_data_list": [
+        "You're on a break right now, right...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Although Durandal debuted at the end of last year,\nshe went on a break shortly after\ndue to concerns about her legs.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I will do what I can right now.\nEven if it is against my wishes, I cannot afford to rot away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Accept the current reality and prepare for what lies ahead.\nI believe I must conduct myself as a true knight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Durandal's voice was stiff as she said that.\nHer lips were pressed tightly together, as if she were\nbiting back an uncontrollable wave of frustration...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Inhaaaale... Exhaaaale...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Focus... The real deal is all in one shot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Only when you can finish the job there\nwithout making a single mistake can you truly call yourself a pro.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Everything built up until now, right here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I will perfect it—my running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "The boiling excitement...!\nNow THIS is a GⅠ!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"A stage to elevate me.\nAnd rivals!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Today, too, I shall surpass who I was in the past!",
+      "choice_data_list": []
+    }
+  ]
+}

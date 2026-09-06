@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Right after wrapping up training with Manhattan Cafe on that day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Um... would it be okay\nif I trained... a little more?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...Since there are... a lot of people today...\r\nI think I can gain some good experience, so...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Manhattan Cafe can see\n\"something\" that is invisible to others.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Ah, they're calling for me...\r\nUm, may I... go over?",
+      "choice_data_list": [
+        "Have fun!",
+        "It's getting late, so why don't we save it for next time?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "…………U-Um...\r\nThank you so much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Well then, I'm off...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Manhattan Cafe, running all alone\non the nighttime track...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Strangely, it sounded like multiple sets of footsteps... but they all sounded like cheerful ones.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...You're right.\r\nIt's getting quite dark out, after all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Well then...\n...I'll let them know maybe next time...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"After excusing herself to an unseen 'presence,'\nshe brought that day's training to a close.\"",
+      "choice_data_list": []
+    }
+  ]
+}

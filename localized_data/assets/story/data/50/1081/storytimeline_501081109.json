@@ -1,0 +1,802 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Trainer <username>,\nI have something to discuss regarding Espoir City.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"A proposal!\nHow about we try entering the Breeders' Cup?!\"",
+      "choice_data_list": [
+        "The Breeders' Cup...!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The Breeders' Cup is a major racing event held in the United States.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A world-class event where numerous GⅠ races are held at the same time.\nNo Japanese Umamusume has ever won here before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "The URA board of directors\nhas also expressed an eager desire for it.",
+      "choice_data_list": [
+        "...Do you want her to achieve a historic first for Japan?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mm! There are high expectations\nfor Espoir City, whom you raised.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Some believe that if anyone can do it, she can\nconquer the pinnacle of classic distances...\nand claim the BC Classic.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The invitation was delightful, a moment that truly made her feel from the bottom of her heart how recognized Espoir City was.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And for a newcomer like me, it was an honor far beyond what I deserved.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Will you take the offer,\nTrainer <username>?",
+      "choice_data_list": [
+        "...Please let me take this home."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"...Indeed.\nBoth Espoir City and you\nwill need time to prepare.\"",
+      "choice_data_list": [
+        "I'll find the best path for her."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Agreed! What you and I wish for\nis to draw out the maximum potential of the Umamusume\nand help them grow so they can truly take flight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...There are no other priorities.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—If only I were a veteran trainer\nwith twenty years under my belt.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I would have traveled abroad with her without hesitation, confident that my knowledge would be useful.\nAnd yet...",
+      "choice_data_list": [
+        "Everything I have—is already inside her.",
+        "My everything—is already inside her."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...What I could teach her from here on out would only be superficial knowledge, not living wisdom.",
+      "choice_data_list": [
+        "Espo is an Uma Musume who can become even stronger."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I want her to grow stronger.\nI want to bear witness as she becomes the strongest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It's precisely because from the bottom of my heart,\nI believe you're the strongest Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "...I see. I understand the situation.\nI'll try reaching out to my overseas acquaintances as well.",
+      "choice_data_list": [
+        "Thank you very much."
+      ]
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Excuse me, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huh? Hey, Trainer.\nWho was that just now.",
+      "choice_data_list": [
+        "She's a senior who'll be looking after you... probably."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Maybe?!\nThat's pretty vague...\"",
+      "choice_data_list": [
+        "Espo, there's something important I need to tell you.",
+        "Espo, there's something important I need to tell you."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Is this the next training schedule?",
+      "choice_data_list": [
+        "Actually, you've got an offer to race overseas",
+        "Actually, you've got an offer to race overseas"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "An overseas expedition...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ah, Falco's Dubai trip!?\nLike I said, I'm not going...",
+      "choice_data_list": [
+        "No, it's the Breeders' Cup in America."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "The Breeders' Cup?! Huh?!",
+      "choice_data_list": [
+        "Ahaha, that's surprising, isn't it?",
+        "Ahaha, that's pretty surprising, huh?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Well, obviously!?\nThat's one of the craziest races in the whole world...",
+      "choice_data_list": [
+        "—I want to make you win there.",
+        "—I want to make you win there."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I'll do whatever it takes for that.\nHer \"role as an educator\" is—",
+      "choice_data_list": [
+        "(To see them off.)"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Wait.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "What the hell is she thinking?",
+      "choice_data_list": [
+        "You can become even stronger",
+        "You can become stronger."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Yeah. It will.\nIt'll only grow even more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Always have been, and always will be.\nI'm one strong-ass Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "You're—",
+      "choice_data_list": [
+        "Keep standing your ground, Espo!",
+        "Keep standing your ground, Espo."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Ghh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Why?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "You're calling someone else because you \"want to win\"!? No way...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "If it weren't for you, everything up till now would—!",
+      "choice_data_list": [
+        "Don't get so hung up on just one Trainer!",
+        "Don't get so hung up on just one Trainer!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "—Kh!",
+      "choice_data_list": [
+        "From here on, you'll meet all kinds of people and learn so much",
+        "From here on, you'll meet all kinds of people and learn so much."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "…………。",
+      "choice_data_list": [
+        "Don't let that experience and potential go to waste.",
+        "Don't let that experience and potential go to waste."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...B-But...!",
+      "choice_data_list": [
+        "To me, you're the strongest Uma Musume there is.",
+        "Because to me, you're the strongest Uma Musume there is."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "—...Ngh.",
+      "choice_data_list": [
+        "I want to see you win, no matter what kind of race it is.",
+        "I want to see you win, no matter what kind of race it is."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Are they stupid...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Are you stupid...!\nIf you act that tough, I can't even...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"I... I can choose now too...!\nI'm free to choose for myself now, aren't I...!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "I'm strong enough of an Umamusume\nthat I don't even need a Trainer\nbagging on me...!",
+      "choice_data_list": [
+        "――Thank you, Espo"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "............Idiot......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"...Today, we run counter-clockwise.\nStarting 50 meters before the corner.\"",
+      "choice_data_list": [
+        "Be careful not to drift wide at the start."
+      ]
+    },
+    {
+      "name": "Foreign Trainer",
+      "text": "Is that all the instruction\nshe needs?\n(Was that conversation really all the instructions?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "It appears so. Furthermore,\nTrainer <username> is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "I made sure Espoir City understood why she needed\nthat training before going over the key points to watch out for.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Trainer",
+      "text": "\"I see... So building rapport\nwill be crucial...\n(I see... getting \"used to it\" will be necessary.)\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "The aura in that corner is unreal...!\nAre all those people here to see Espo-san...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "No. I heard it wasn't Espo-san, but the Trainer who called.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "To confirm the principle of mutual generation in feng shui.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"Stop using feng shui analogies and just say it normally! Wait, so... you mean you're checking our compatibility? Does that mean...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "—Espo-san, are you\nparting ways with your Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"...Hah,\nwho'd you hear that from?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "\"I just asked what everyone thought\nafter watching Espo-san's recent training.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I haven't stood beside Espo-san\nas a true rival yet, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Seeing Espo-san and her Trainer up close as her roommate,\nI always thought... their relationship was in complete harmony.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "...Are you sure about this?\nIsn't that person precious to you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "......Don't act like you know everything.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Still, ever since she teamed up with her Trainer,\nEspo-san has always been—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Because you're someone important to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "――！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"That guy told me...\n'You're the strongest Umamusume who can win any race.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Then that's how I want it to look, dammit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "...Espo-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "I'll answer with that feng shui you love so much, Rickey. Mutual generation means a relationship where we elevate each other, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Then if we ain't pushin' each other to be better, it's not right, is it?\nEven if we don't gotta walk on eggshells around each other.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "I am a horse girl.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...She's an Umamusume who can become the strongest in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Besides, she's probably thinking it through too.\nShe's not gonna get reeled in by someone with just an empty title.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "She's trying to figure it out too.\n...Including whether 'she herself isn't good enough.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "...\nIs that what you want, Espo-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Doesn't matter.\n...A strong Umamusume's just gotta climb to the top, that's all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Bzzz, bzzz*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I holed myself up in the trainer's office,\nresearching overseas races and prominent trainers\nuntil the sun had completely set.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"So... I was tired.\nI think that's why I ended up calling you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"What is it, Trainer?\"",
+      "choice_data_list": [
+        "Wanna go grab some ramen?",
+        "Wanna go grab some ramen? "
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huh?\nRamen, you say... You bastard...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "I'll go! I'm coming with!\nJust you wait! And you're paying, dammit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"...Whoops, Rickey!\nI'm stepping out for a bit!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Tell 'em I won't be needin' dinner at the dorm!\nI'll be back by curfew! Thanks, leave it to you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Eeeh!? Um, well...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Off you go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "—Yeah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Haah... Trainer,\nramen for dinner, really...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "If we're gonna eat, might as well make it good.\nSomething salty and piping hot.\nWith an extra seasoned egg too.",
+      "choice_data_list": [
+        "You just casually added extra toppings too, huh.",
+        "You just casually added extra toppings too, didn't you?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "You could stand to be a little more open-minded. I'm keeping you company here, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "...They left.\nThe two of them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Even an outing at night like this\nfelt like just a normal day for the two of them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Merry Christmas, Espo-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "—May the two of them share a blissful night.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, the materials were gradually coming together.\nI wanted to tell her as soon as possible.",
+      "choice_data_list": [
+        "(Because tonight is Christmas.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For as long as I can remain someone who can give her gifts, I want to fulfill that role to the fullest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "—I see.\nSo this is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Your handwriting looks just like you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Serious, uptight... and a little annoying.",
+      "choice_data_list": [
+        "...What kind of kanji even counts as 'annoying'?",
+        "...What kind of kanji is considered 'annoying'?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "It's things like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...For now, I'll take it.\nI'll decide after that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she's satisfied with the current plan.\nI let out a soft sigh of relief.",
+      "choice_data_list": [
+        "Oh, and also! Today is Christmas, so—"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...A Christmas present?\nFrom you?",
+      "choice_data_list": [
+        "Yeah, addressed to the coolest and strongest of them all—you.",
+        "Yeah, addressed to the coolest and strongest person—you."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "That kind of stuff is annoying, too.\n......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Inside are... shoelaces, huh.",
+      "choice_data_list": [
+        "Because you're cool right down to your toes.",
+        "Because you're cool right down to your toes."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...\nSeriously, you really are...",
+      "choice_data_list": [
+        "I wanted to give you a present that suits you",
+        "I wanted to find a gift that suits you perfectly."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Aaaaaaaargh!!\nAre you freaking kidding meeeeee?!",
+      "choice_data_list": [
+        "Espo!?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Wait there! Right there!\nDon't you dare move!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "How the hell can you call yourself a strong Umamusume\nif you're always just on the receiving end?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "—'Scuse me!\nDo you sell paper and pens here!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Something nice! Something that'll last forever!\nI want really sturdy paper!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "(—As if I'd let it end without giving anything back!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Like hell I'll be an Umamusume who can't pay back what you've given me!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "(I'm not your...—!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I wait at the spot where I parted ways with Espoir City.\nMeanwhile, the clouds steadily grow thicker...",
+      "choice_data_list": [
+        "...It's snow",
+        "...Ah, snow."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Haa... haa... haa...!\nDammit............, I'm back!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Open it! It's yours, damn it!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Mm!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I opened the envelope that had been thrust upon me without room for refusal.\nInside was a single sheet of paper—",
+      "choice_data_list": [
+        "A \"Ticket to Show the Strongest\"...?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...I swear I'll show you, you bastard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "No matter where you are! No matter what you're doing!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "I'm gonna show 'em!\nDefinitely... without a damn doubt!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "The Espoir City who was by your side!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Snow falls.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On top of the ticket she gave me,\none by one, the snowflakes melt away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...The words she gave me begin to blur.",
+      "choice_data_list": [
+        "...You're really cool, you know that?",
+        "...You really are so cool."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "You know that better than anyone, don't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"...Let's head back, Trainer.\nYour nose is bright red.\"",
+      "choice_data_list": [
+        "...Same goes for you, Espo."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...'Cause it's freezin'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...It's just because it's cold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On the way back, I took off my scarf and handed it to her\nso she could stay a little warmer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She wrapped it back around my neck roughly, yet with a touch of gentleness.\nThe sound of both of us sniffling echoed under the chilly sky.",
+      "choice_data_list": []
+    }
+  ]
+}

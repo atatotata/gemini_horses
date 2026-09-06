@@ -1,0 +1,257 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After my outing with Hishi Akebono,\nI was handed a planetarium flyer in front of the station.\nApparently, an expert in space-related industries is narrating today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "We get to hear stories about the stars and space!\r\nOh, there's even a discount coupon on the flyer~",
+      "choice_data_list": [
+        "Wanna go check it out?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah! Sounds like fun~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Ooooh~!?\r\nAkebono, yahoo-marvelous☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yoo-hoo! What a coincidence!\r\nDid you come to look at the stars too, Marvelous-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "That's right☆\r\nWe're searching for sparkling Marvelous★!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hope you find something marvelous.\r\nAh, looks like it's starting!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A starry sky spreads across the domed ceiling.\nAlong with explanations of the projected constellations, the structure of stars and galaxies is narrated in detail.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "There sure are an incredible number of stars in space~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hey, hey, what do aliens eat, I wonder?\r\nWould they eat Earth food, you think~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Woman A",
+      "text": "Heh... There are actually people who believe in aliens?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man A",
+      "text": "You're totally buying into sci-fi movies, aren't you?\r\nMan, you're so pure.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "You're right... If you haven't seen it with your own eyes,\r\nit's only natural you wouldn't believe it~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "There are several terrestrial planets located in the habitable zone of the Milky Way galaxy! Those planets might even possess water.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"It's an environment where living organisms could easily exist!\r\nSpace is still full of mysteries and unknown possibilities!\nIt's marvelous☆ Space-marvelous★☆\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man A",
+      "text": "H-Hey... let's go...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Astronomy & Space Commentator",
+      "text": "Fufu, I'm glad you've taken an interest in outer space.\r\nIf you'd like, I can answer your earlier question.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Astronomy & Space Commentator",
+      "text": "I don't know what aliens eat, but...\r\nmaybe they'd enjoy Earth food.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Really!?\r\nThen I'd love to eat chanko nabe together~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Astronomy & Space Commentator",
+      "text": "Hot pot... might be a bit tricky. In zero gravity, the ingredients and broth would scatter everywhere.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "What?!\nThe ingredients and broth are all separate...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Astronomy & Space Commentator",
+      "text": "That's why liquid space food is thickened.\r\nSo that surface tension keeps it together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "What's space food like? Is it tasty?\nIs it marvelous?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Astronomy & Space Commentator",
+      "text": "I think it tastes a lot better now.\r\nSo many people have been doing research because they want astronauts to have delicious food.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Marvelous☆ Just like with Akebono!\r\nShe makes everyone marvelous with delicious food!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "You're right. So even space food is made with\r\nthe desire to give people something delicious to eat, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Now I really wanna learn\r\nmore about space food!\"",
+      "choice_data_list": [
+        "Want to try making it?",
+        "Let's buy some space food and try it!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Wah! I want to try making 'Space Chanko'!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Astronomy & Space Commentator",
+      "text": "In that case, watching videos of astronauts eating\r\nspace food might be helpful.\nThey give taste reviews too, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Taking advantage of the break, I decided to watch\r\nthe astronaut video. Since it has subtitles,\nit's great that I can watch it in places like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Whoa, water splits apart like that?!\r\nSo that's what breaking the broth apart meant!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Ooh~? Even upside down, nothing spills from the can!\nMarvelous!! But it won't mix properly, will it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Since there's zero gravity, everything just floats\r\nand won't mix together~\nCooking in space seems super hard!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah... The astronaut is saying\r\nthey're so happy to have Japanese food...\nThey said meals are their biggest joy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...It'd be nice if we could eat hot pot, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"I'm gonna come up with a recipe for Space Chanko!\r\nIf I stream making it on Umastagram, it might even help with space food development!\"",
+      "choice_data_list": [
+        "I think that's a great idea!"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Marvelous☆ Let's do it, let's do it!★\r\nLet's deliver chanko nabe to the cosmos☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah! I hope astronauts and aliens can all\r\ngather around a chanko pot together someday~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, you're right!\nThey even sell space food in the souvenir corner!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I bought some space food packs of curry and rice, plus chicken simmered in miso, and decided to head back to the academy to try them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Well then, down the hatch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Curry rice, marvelous☆\r\nIt has a super spicy flavor★",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "The chicken simmered in miso is quite rich too.\nLooks like the broth has been thickened~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Because one's sense of taste changes in a zero-gravity environment,\r\nspace food is apparently seasoned more intensely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems other measures have also been taken to protect the astronauts' health,\r\nsuch as reducing sodium and boosting nutritional value.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Space food is made with so much\nthought put into it, huh.\nAll for the sake of the astronauts...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "She must have worked so, so hard\nto achieve this flavor...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"Delicious\" is simply marvelous! ☆★☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah. \"Deliciousness\" isn't just about the taste...\r\nIt really reminded me that I shouldn't forget that either.",
+      "choice_data_list": []
+    }
+  ]
+}

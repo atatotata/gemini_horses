@@ -1,0 +1,366 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—With the Satsuki Sho behind us,\r\nthe days of striving toward the Japanese Derby continued.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For Winning Ticket,\r\nthis was the grand stage she had always dreamed of.",
+      "choice_data_list": [
+        "(No matter what it takes, I want her to win!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...Or at least, that's what I had thought, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "…………。",
+      "choice_data_list": [
+        "Ticket?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Whoaaa!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Wait, oh.\r\nIt's just you, Trainer~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sorry, sorry, I had a weird dream...\r\nSo I was just spacing out a bit.",
+      "choice_data_list": [
+        "A weird dream?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, no no, it was just a dream, so I'm fine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Alright, I'm gonna go warm up!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ever since the Satsuki Sho,\nWinning Ticket had been acting a bit off.",
+      "choice_data_list": [
+        "(Did something happen...?)",
+        "(I wonder if something happened...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as I cast a worried glance toward her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaaah!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(THUUUUD...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I was supposed to just be jogging lightly,\r\nbut my legs got tangled and I took a fall...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "A-Ahaha...! I messed up!\r\nThat scared the heck outta me~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sorry, sorry!\r\nLooks like you're not hurt though, so it's all good!",
+      "choice_data_list": [
+        "Just to be safe, should we skip training for today?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "N-No way!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Because, because, I mean,\r\nthe Japanese Derby is coming up so soon, you know!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "If you want it to be the best race ever,\nyou gotta do a ton of training!!",
+      "choice_data_list": [
+        "...Understood."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heheh!\r\nAlright, back to my run!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Don't overdo it.\"\r\nBefore I could even finish adding those words,\nshe had already sprinted off in the blink of an eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even during training after that day, she still seemed somewhat restless...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Haah, haah, haah...!!\r\nPheeewww.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "So, time, time, time!!\r\nHow was my time!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The displayed time was...\r\nfar worse than her personal best.",
+      "choice_data_list": [
+        "Hmm..."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uggghhhhh! No good, no good at all,\r\nthis won't cut it at aaaallllll!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "All right, one mooooore round!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Winning Ticket still looks eager to keep going, but the sun has already completely set, so—",
+      "choice_data_list": [
+        "That's it for today!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "\"I'm fine, totally fine!\r\nI can still keep runnin'!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Between her taking a tumble the other day and getting needlessly worked up over her lap times, something definitely seems off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Making them train\r\nisn't a Trainer's only duty.",
+      "choice_data_list": [
+        "Shall we have a little chat?",
+        "Want to chat for a bit?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Huh...? Talk...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uuuugh... Hey, I really don't think we have time to be taking walks...",
+      "choice_data_list": [
+        "What's gotten into you lately?",
+        "What's gotten into you lately?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Huh? What's the matter, you ask?",
+      "choice_data_list": [
+        "You look a bit impatient."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "...! M-Me... being impatient...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Right... Maybe so. I wonder.\r\nBut, but still...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "\"...Hey, Trainer.\r\nLately, I've been having this dream.\"",
+      "choice_data_list": [
+        "What kind of dream is that?",
+        "What kind of dream?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Umm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "—A dream where I lose the Derby.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Both Taishin and Hayahide blew right past me\r\nin the blink of an eye—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "\"No matter how much I ran, I couldn't catch up at all, and came in dead last—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "\"All the fans were so disappointed...!! They said, 'That was the worst Derby ever'...!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I'm... scared to run in the Derby right now...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Neither Taishin nor Hayahide are scared at all,\r\nso I look like a total idiot being the only one...!\nB-But it's super scaryyy~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "If I'm... if I'm this scared!\r\nThere's no way I can win the Derby...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "What should I dooooo?!\nWaaaaaaahhh!!",
+      "choice_data_list": [
+        "(――So that was it.)",
+        "(――So that's how it was.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The reason I fell from rushing was because I was scared,\r\nand the reason I wanted to shave even a single second off my time\nwas surely because I was scared, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An Umamusume who doesn't mind losing doesn't fear racing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Conversely, feeling fear means your desire to win is just that strong. In other words—\"",
+      "choice_data_list": [
+        "You hate losing more than anyone.",
+        "You hate losing more than anyone else."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "...Huh?",
+      "choice_data_list": [
+        "Those feelings will surely become your strength during the race.",
+        "Those feelings will surely become your strength during the race."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "When the time comes, when it's truly painful,\r\nthe desire to win can become a powerful driving force.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That's why—",
+      "choice_data_list": [
+        "The fear you're feeling right now isn't a weakness."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "It's... not a weakness...?",
+      "choice_data_list": [
+        "It's a weapon."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And after a moment of silence...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Winning Ticket jumped up into the air!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I see, I see, you're right!! That's totally it!!\r\nIt's a weapon!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Amazing!!\r\nSuddenly, I feel all sparkling inside~!\nI feel like running around a whole bunch right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I feel like I can win!!\nI feel like—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No, you're wrong! I'm gonna win...\nI am definitely winning the Derby!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Saying that, Winning Ticket took a huge, deep breath.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I'm gonna... win the Derbyyyy～～～～～～～～～～～!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Winning Ticket, howling beneath the moonlit sky,\r\nwas shining brilliantly, just like always—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Her battle cry, roaring from the depths of her gut,\r\nechoed powerfully as if outshining the twinkling night sky.\"",
+      "choice_data_list": []
+    }
+  ]
+}

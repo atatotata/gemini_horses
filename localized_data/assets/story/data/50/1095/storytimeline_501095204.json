@@ -1,0 +1,337 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Early morning on the day of the Sprinters Stakes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Trainer.\nI'm... going to go for a short walk outside.",
+      "choice_data_list": [
+        "Hm? Don't go too far, you hear? ",
+        "Hm? Don't go too far, okay?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes, I'll be right back.\n—Off I go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(...The air is so clean.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Phew...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(I've built it up. Layer upon layer. Everything is in place.\nFinally, today is the day—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Today is the day to reach a true pinnacle of refinement.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Believe",
+      "text": "Grandpa... Are you going to be out late tonight too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandfather",
+      "text": "Yeah. Go back to sleep.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Believe",
+      "text": "\"...You were late yesterday too, weren't you?\nYesterday, the day before, and the day before that.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Believe",
+      "text": "Isn't it hard...?\nDon't you get tired...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandfather",
+      "text": "\"Who knows.\nHaven't thought about it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Believe",
+      "text": "Is that... so...?\nThen... what are you thinking about?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandfather",
+      "text": "About work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandfather",
+      "text": "How far I push through today.\nHow far I push through tomorrow.\nHow I see it through until the very end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandfather",
+      "text": "—All I'm thinking about is my job.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Back then, Grandpa took on a job for the master of a historic, traditional ryotei restaurant.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(They asked me to repaint the plaster wall\nat the front entrance—the 'face' of the building—\nbecause it had grown old and weathered.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(A job that usually takes a few people, Grandpa finished all on his own. He said it was because they trusted his skill enough to leave it to him.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Working late for months and months.\nRepairing, base coat, intermediate coat,\ntop coat—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(The polished finish is the most critical part.\nYou rub and rub the half-dry plaster with the trowel,\nbringing out a glossy shine on the white plaster wall.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(A beautiful, mirror-like polished finish is one of a plasterer's highest arts.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(And that is precisely why, to achieve it,\nnot a single compromise can be allowed.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Powerfully. Precisely.\nAnd above all else—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Fast.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Fast.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(—Faster!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(And the work that Grandpa accomplished that way was...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Even now, always. It quietly, warmly\nwelcomes everyone who visits the restaurant.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Grandpa.\nToday is my... our day to go to work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I will see it through.\nI'll prove that I can do it... without fail.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Hm? ...Ah.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Come to think of it... after that job, if I remember correctly—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandmother",
+      "text": "Now... old man.\nThank you for your hard work this time, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandmother",
+      "text": "Well then. —I have your usual post-work\ntreat all ready for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe's Grandmother",
+      "text": "Come on, Believe, you too. Over here.\nIt's yummy, yummy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "—...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "You're right, yeah—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Reuniting with Believe after her walk, we leave the inn. Our destination: Nakayama Racecourse, home of the Sprinters Stakes—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Or rather.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Uwoooh, the excitement is insane...!!\nThey're really holding it here at Niigata Racecourse...\nThe 'Sprinters Stakes'!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "Right?! It looks totally different from the usual Nakayama Racecourse...\nWhoa, I wonder what kind of race it'll turn out to be~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Racing Umamusume",
+      "text": "Wait, no, this is completely different from what I'm used to...!!\nI knew it would be, but still~...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Racing Umamusume",
+      "text": "The course shape is totally different!\nIt's counterclockwise, not clockwise!\nAnd the elevation changes aren't even close...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Assigned Trainer",
+      "text": "Come on, calm down!\nYou've prepared properly ever since the change of venue\nwas announced, right? Remember that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Assigned Trainer",
+      "text": "If anything, there's less to think about here than on the Nakayama course, you know? There aren't any notable hills, so formulating a strategy is super simple.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Racing Umamusume",
+      "text": "“B-But... that just means there's no room for luck,\nand it turns into a pure contest of raw ability, doesn't it~?!”",
+      "choice_data_list": [
+        "(Yeah, that's true...)",
+        "(Yeah, that's true...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Due to unforeseen circumstances, the venue for this year's Sprinters Stakes was changed. The chosen battleground was Niigata Racecourse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Naturally, it handles differently from Nakayama Racecourse.\nThe competing Umamusume seemed\nmore than a little nervous about that fact, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Sorry to keep you waiting.\nEverything is ready.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I can head to the paddock.",
+      "choice_data_list": [
+        "Yeah. ...Alright, you're calm and composed, Believe.",
+        "Yeah. ...Alright, you're nice and calm, Believe."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "As for Believe, she was her usual self. Regarding the venue change, as well—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Normally, running in races with so little rest in between\nwould easily take a toll on a runner's mentality and motivation...\nYet she shows no sign of that whatsoever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And... part of me didn't find that\nparticularly surprising either.",
+      "choice_data_list": [
+        "Let's go. — Let's begin, our work.",
+        "Let's go. — Let's begin, our work."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes... Let us begin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The solidness of the foundation built is different.\nThe sheer amount of training accumulated is different.\nThe sharpness of the polished precision is different.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Right here, right now, today.\nWe can deliver our absolute finest work.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was perhaps natural—or perhaps, inevitable.",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "—It's finally starting, Bakushin O-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Yes, yes!!\nFufufu, my heart truly dances with excitement!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "Indeed. What's about to begin is a contest... that pushes one fundamental principle of racing to its absolute limit—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "In other words!!\n\"Who is the one who can run the fastest\"?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Speed! Speed! Speed!!\nOnly those who pursue pure speed to its absolute limit—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I'll seize the title of fastest in the autumn, at the very peak!!",
+      "choice_data_list": []
+    }
+  ]
+}

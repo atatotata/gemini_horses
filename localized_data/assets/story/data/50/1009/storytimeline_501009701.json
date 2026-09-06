@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Early in the morning, as I was walking toward the school building while yawning,\r\nI bumped into Daiwa Scarlet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Good morning, Trainer.\nI'll be taking first place arriving at school today, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "An honor student's foundation is early to bed, early to rise.\r\nI slept soundly last night, and my skin feels perfect.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"Look at you, yawning like that by comparison.\r\nDon't tell me you stayed up late?\"",
+      "choice_data_list": [
+        "I was putting together a training plan and..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Heh, hmm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Go to bed early tonight!\r\nIf you collapse, I'm the one who's gonna be in trouble!",
+      "choice_data_list": []
+    }
+  ]
+}

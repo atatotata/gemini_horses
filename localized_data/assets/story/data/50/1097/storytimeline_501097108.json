@@ -1,0 +1,349 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is the Spring Fan Appreciation Festival.\nTo express gratitude for their ongoing support,\nthe Umamusume entertain their fans through various competitions.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Still in Love was no exception, either—",
+      "choice_data_list": [
+        "Huh, the entry application wasn't accepted!?"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Yes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"I thought I had registered for the Obstacle Course, but it seems there was a mix-up...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"...It happens from time to time. Thinking you conveyed something,\nwhen in fact it didn't reach them at all...\"",
+      "choice_data_list": [
+        "I'll go find a sport that uses starting gates!"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "I-I'm fine...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Besides, I'm sure no one is waiting for me.",
+      "choice_data_list": [
+        "No, I'm here! Just wait a sec"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah...――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "S-Soccer... is it...!?",
+      "choice_data_list": [
+        "Looks like an opening just came up."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"I-I can't, Trainer...\nTeam competitions just aren't for me...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "They won't even notice me, and it'll all be over with me just standing there...!",
+      "choice_data_list": [
+        "Then, let's try using that to our advantage instead."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Huh...?",
+      "choice_data_list": [
+        "We're going to outwit them.",
+        "We'll catch them off guard."
+      ]
+    },
+    {
+      "name": "Umamusume",
+      "text": "—Uwoooooh!! Hey, pass!\n—Number 10 is pushing up! Fall back, fall back!\n—Don't hold back! Charge, charge!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(Ah... left out of the loop as always...\nAt times like this, the golden rule is to keep to the edge\nso as not to be a nuisance...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(...That's what I thought, but. Catching the opponent off guard...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(...The opponent's defender is... over there?\nMaybe I should... try sticking close to her for now...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah...!\nA loose ball...!",
+      "choice_data_list": [
+        "Still, take the shot!"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "!\n...H-Hup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Rumble rumble... clatter)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "...Oh? Whoaaa!? Red team scores!\nA spectacular shot right into the goalkeeper's blind spot—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Opposing Team DF",
+      "text": "...Huh? ...!?\nWh-Where did she break in from?\n...Don't tell me, from right behind me...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Team Captain",
+      "text": "...I don't know why, but I have a feeling getting the ball in front of the goal is the way to go! Let's go all-out on offense!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Making the most of her unassuming presence, Still in Love\nrelentlessly scooped up loose balls and scored.\nAs a result—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "\"Game over!\nThe winner is the Red Team!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "I-I did it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "I hope I was able to be of some help...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Teammates",
+      "text": "Yay!!\nWe won~! Everyone, bring it in for a group hug!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fans",
+      "text": "Congrats~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"...I need to get back to Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still's Fan A",
+      "text": "Lady Still...! Congratulations...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "!\nAh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still's Fan A",
+      "text": "I have witnessed your great performance\nwith my very own eyes...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still's Fan A",
+      "text": "Lady Still is indeed the goddess of fortune for our team. We, your kin, understand that well...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Thank you very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Still in Love brilliantly captured the hearts of her fans through her performance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fans",
+      "text": "Ooohh!!\nStill in Love, that's amazing...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Huh...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "When did you even join in?! And pulling off one insane super play after another like it's nothing...! I'm officially a fan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan B",
+      "text": "As expected of a Triple Tiara Umamusume!\nThat was such a huge surprise~~!\nI'm so glad I came to watch♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Team Captain",
+      "text": "Thank you, we won thanks to you!\nYour jumping in to join was a huge help!\nLet's definitely team up again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah...",
+      "choice_data_list": [
+        "Look, everyone was waiting for you.",
+        "Look, everyone was waiting for you."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "I'm so glad...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Still in Love brilliantly captured the hearts of her fans through her performance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "During a break while walking around\nthe Fan Appreciation Festival—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"Come to think of it...\nMy instincts have awakened once more.\"",
+      "choice_data_list": [
+        "Huh...—Wait, what?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Suddenly, something of great importance was confessed to me.",
+      "choice_data_list": [
+        "S... Since when?"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "It's after the Kinko Sho... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Knowing she's going to run again must have fired her up, too.",
+      "choice_data_list": [
+        "…Are you really okay?",
+        "…Are you okay?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"After her instincts subsided, she rejoiced from the bottom of her heart, enjoying peaceful, fearless days. But once again, she found herself plunged into anguish.\"",
+      "choice_data_list": [
+        "Maybe taking a break for a while is..."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Please do not let it trouble you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"You understood at the Queen Elizabeth II Cup, did you not?\nIn order to keep winning...\nwe require that girl's power.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Now that I've decided to run,\n...I want to win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"Besides, compared to before my debut...\nI understand myself much better now.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "I'm sure you will be able to control it flawlessly.",
+      "choice_data_list": [
+        "I see...",
+        "I see..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"……Once more, I digested her words.\nHer instincts had awakened... which meant I'd get to witness her breathtaking running style once again――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"Yes. So... rest easy.\nYou don't have to—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"I   w o n ' t   l e t   g o\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—At that moment,\nmy heart skipped a huge beat.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Trainer?\nHas something happened?",
+      "choice_data_list": [
+        "Huh? ...What is it?"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Because...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "She is smiling.",
+      "choice_data_list": []
+    }
+  ]
+}

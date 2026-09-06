@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"That was so close...\r\nThe crane game is a formidable foe...\"",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No, there is no need for an apology.\r\nYour thoughts alone are more than enough, Trainer-dono.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...May everyone be protected by someone kind-hearted...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

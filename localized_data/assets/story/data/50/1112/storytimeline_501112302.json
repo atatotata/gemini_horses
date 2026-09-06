@@ -1,0 +1,353 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After training, while walking through the shopping district with Daring Heart to run errands—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hey, is that...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Wow!\nSo this is the lottery everyone's talking about!\"",
+      "choice_data_list": [
+        "A rumor?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "The usual girls were making a fuss.\nHolding a huge pile of pocket tissues, shouting,\n\"We drew a blank!\"",
+      "choice_data_list": [
+        "I see..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "In short, it's a test of luck, isn't it?\nSounds like fun♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hey, if I remember correctly...\nYou just received a ticket, didn't you?",
+      "choice_data_list": [
+        "Yeah, we can draw it with this.",
+        "Yeah, now you can draw it."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Okay, let's take on the challenge!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Now then, I wonder if Lady Luck will smile upon me?\nLet's go, onsen!\nIt's showtime!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Wow! It's rattling around!\nGo, go, go!♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daring Heart happily\nturned the lottery wheel crank!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"This is incredible!\nIt's a hot spring!\"",
+      "choice_data_list": [
+        "Incredible...!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Ahaha, you're making quite a face♪\nThat just shows how lucky we are!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I wonder if even the Goddess can't help but smile\n—at someone like me♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Mm-hmm, mm-hmm...\nWhat should we do with that ticket?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "A group of us can go, right?\nShould I go with Craft and the others, or have fun with another group?",
+      "choice_data_list": [
+        "Looks like it's going to be lively and fun.",
+        "Looks like it's going to be lively and fun, huh?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh? You sound like this doesn't involve you,\nbut of course you're coming with us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "We've gotta share the fun stuff!\nWe're ride or die...\nIn this together till the end, right?",
+      "choice_data_list": [
+        "Still, tagging along on a student trip is a bit..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ah... I see.\nYou have a point... Understood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "In that case, let's go together!",
+      "choice_data_list": [
+        "...What!?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Don't worry, I won't say ASAP.\nOnce things settle down with the race, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I'll leave the ticket in your care!\nUntil then—Let's go, training♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Wow!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Is that a carrot stuck\nin the hamburger!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "D-Did I spook you? Don't worry, little lady, the taste is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Amazing!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "How totally unique!?\nExtra toppings for ramen, massive portion sizes...\nJapanese people can be pretty daring too, can't they...?!",
+      "choice_data_list": [
+        "(It's really resonating...!)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Hey, let's dig right in!\nCome on, let's go♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Mmm~~!♪\nWhat an appetizing aroma...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Shall I eat it nice and wild?\nCome on, open your mouth wide too!\"",
+      "choice_data_list": [
+        "G-Gwah...!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Ahaha, nice try!\n...A tribute to your boldness!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Ready?\n――Say 'aah'... Fufu♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Wow!\nA bushel of carrots!",
+      "choice_data_list": [
+        "What should we do? Look at this mountain of work..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Leave it to me.\nI have a great idea♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hey, everyone!\nAre you enjoying the BBQ?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "There are still plenty of carrots left!\nGo ahead and grill 'em up♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Heart's Friends",
+      "text": "\"Heart, you're the best~!\" \"Wait, there's a whole slab of meat!\"\n\"This is super authentic!\" \"The carrots are so sweet~♡\"\n\"Trainer, please have some too~♪\"",
+      "choice_data_list": [
+        "Oh, thank you..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It was the same back home.\nWhenever we got a bunch, we'd just grill 'em and grill 'em!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "We're cooking the meat low and slow, so hang in there just a little longer!\nNow, let's savor every last bite♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Only one...?\nI suppose the Goddess didn't see fit to smile upon me.",
+      "choice_data_list": [
+        "...Or maybe, on that single stick—"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh, I get it!\nIt might contain some hidden, peerless power, right!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "In other words, if I eat this...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Super strong!",
+      "choice_data_list": [
+        "...Looks strong!!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Ahaha, thank you♪\nWell then, shall we make some carrot sushi\nand dig in?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh dear...",
+      "choice_data_list": [
+        "That was unfortunate...",
+        "That was unfortunate..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Right, so the Goddess of Victory just didn't\nsmile upon me, huh.\nHmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I got dumped.\n...Will you comfort me?",
+      "choice_data_list": [
+        "...There, there."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "……You're not going to get flustered anymore?\nHow boring…… Boooo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daring Heart seemed disappointed...\nOf course, it must be because she lost.\n...Let's just blame it on the loss.",
+      "choice_data_list": []
+    }
+  ]
+}

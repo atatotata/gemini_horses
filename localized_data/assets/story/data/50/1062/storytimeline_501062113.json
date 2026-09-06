@@ -1,0 +1,468 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Some time had passed since\nMatikanetannhauser's debut race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Trainer!\nWe got big trouble, big trouble!",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Umm, well, you see!\nFor now, the TV, TV, the TV!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hurrying to turn on the TV as urged—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "\"Interviewing this year's hottest newcomers!\nOur featured debutante today is Mihono Bourbon,\nwho showcased incredible talent in her debut race!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Whoa, Bourbon-san really is\nrunning and running right there on the TV~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Well, I heard you were being interviewed!\nThat's so amazing~! As someone who debuted\naround the same time, I feel so proud!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Chukyo Racecourse, the stage of her debut race, was abuzz with excitement over Mihono Bourbon's extraordinary talent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man A",
+      "text": "A late start, followed by a ferocious charge down the final stretch\nto cross the finish line in first! Man, that gave me chills!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Woman A",
+      "text": "Her lower body is remarkably solid too,\nso I'm sure she'll just keep growing and improving, don't you think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "\"You're being called the big rookie to watch, but point-blank,\nwhat are your current goals in the Twinkle Series!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "My only target is\nto claim the Classic Triple Crown.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "I see...! Pardon me, but that's a bit surprising. I was certain you were aiming for the sprint route...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Her aptitude may lean toward sprints, but that is irrelevant.\nThe Triple Crown remains an absolute requirement.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Whoa...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The way she declared that so nonchalantly in front of the camera showed she had truly mastered the role.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ooh...! So cool!\nAs expected of Bourbon-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hm? Wait, if we're going for the Triple Crown,\ndoes that mean I'll have to race against Bourbon-san?",
+      "choice_data_list": [
+        "I suppose that's true.",
+        "I guess so."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Oh my-!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Meanwhile, around that time,\nthe same broadcast was playing in the dormitory lobby.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "“—Up next, a special feature on the Umamusume\nmaking waves in the Classic and Senior classes!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Speaking of which, you mean those two?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "Hailed now as the ultimate stayer—Mejiro McQueen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "And having swept the Satsuki Sho and Tokyo Yushun (Japanese Derby) undefeated, the genius Tokai Teio claims the Double Crown!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Man, you're really something else...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "\"A star-studded lineup of leading-lady Umamusume is assembled here today! The day they clash on the track may soon arrive!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Expert",
+      "text": "\"Indeed. Still, it's such a shame about\nTokai Teio's injury right after the Derby.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Expert",
+      "text": "\"Wasn't it six months to recover? I heard she's skipping the Kikuka Sho.\nI was so sure she'd win the Triple Crown.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "\"Indeed. There were many eager voices\nanticipating the birth of a Triple Crown Umamusume. Personally,\nI find it truly regrettable that she had to withdraw.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...If only I could've run, the Triple Crown would've been guaranteed...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...\n...That's, true... isn't it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Mmmh, ran my heart out today too!\nGood work today, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hm? Is that... Nature?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following Matikanetannhauser's gaze, I saw\nNice Nature staring out at the grounds with\na somewhat somber look on her face.",
+      "choice_data_list": [
+        "I wonder what's wrong?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm... Actually, Trainer.\nEr, she's been like that for the past few days.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "\"Honestly, I'm getting a little worried.\n...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'm going to go talk to them for a bit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Nice Nature's fortune for today:\nSmall Blessing! Might be a slightly gloomy day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Not to worry, though! Your lucky Umamusume\nis the girl whose name starts with \"Ma\" and ends with \"za\"!\nHave a chat with her and your mood will instantly brighten!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, what's up so suddenly?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? Um...\nPretending to be Fuku-chan-senpai!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Right now, this lucky horse girl is all ears for whatever you wanna talk about~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Just kiddin'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "—*giggle*, haha...!\nWhat are you even doing, seriously...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Haa, thanks.\nI made you worry, didn't I? I'm sorry.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, mind hearing me out for a second?\nMiss Umamusume whose name starts with \"Ma\" and ends with \"za\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Hey, so...\nI'm thinking I wanna run in the Kikuka Sho.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Originally, Teio inspired me to give it my all,\nso I was logging a decent amount of miles, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...I saw a TV segment lamenting how Teio couldn't run in the Kikuka Sho, and it got me thinking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Claiming that she definitely would've won the Triple Crown if she ran... People really just say whatever they want...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Teio knows that better than anyone!\n...But she still can't run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ever since I was little, my dream was to become an\nundefeated Triple Crown Umamusume, and I worked\nso hard for it, but now it's impossible...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Swallowing all that frustration, only to hear everyone say, \"She would've definitely won if she ran\"…… That's rough. Super rough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Besides, whoever wins the Kikuka Sho\nis bound to have this said about them.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "The Umamusume who won the Kikuka Sho\nthat Teio couldn't run in...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Just hypothetically, if I managed to win the Kikuka Sho, I'd definitely be super happy, you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "“Still, I guess there'll always be that asterisk—\n'if only Teio had been in the race'...”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Haha, what am I even saying\nbefore the race has even started?\nI just keep letting my mind wander to pointless stuff—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, jeez! I'm so lame!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I need to concentrate right now and really put in the miles, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Matikane Tannhauser quietly gazed\nat Nice Nature's downcast face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "What would Tannhauser do at a time like this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? If it were me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmm, yeah... But I think I normally would've thought the exact same thing as Nature.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Because it'd still bother me. I think I'd just end up feeling uneasy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Even so, setting that aside, I think deep down in the back of your mind you've always wanted to win the Kikuka Sho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...So, yeah, that's it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'll try to take 1st place so convincingly\nthat no one will ever say 'what if Teio were here!'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yeah, I think that's the only way!\nTo the point where everyone forgets about Teio—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'll win by a landslide!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "……。\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Huh? Are you listening?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A sudden silence. The two of them wore dumbfounded\nexpressions. And then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Hk, fufu, ahahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Huh? What!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, jeez! Right, that's just the kind of person you are.\n...That woke me right up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I've gotta face forward and hold my ground.\nWhining about it won't do any good, y'know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Yeah, I'll win. I'm going to leave them all in the dust. It's definitely not impossible for me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...!\nI'm not sure why, but are you feeling better now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "There it is, there it is... Thanks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Woo-hoo! We did it, we did it, we did it!\nWhat now? Wanna sprint into the sunset?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahaha!\nNo freaking way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The two head back to the academy, playfully teasing each other.\nNice Nature's face is bright and beaming.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"‘Even if you don't shine like the sun,\nthat weapon of yours is one of a kind!\nIt even has the power to take someone's hand and push them forward!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a moment, I felt as if Chairwoman Akikawa's words from that day echoed down from the high sky.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After finishing shopping for training supplies, while walking through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...A crowd?\nIs it a new case, or rather—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...!\nBoss, might I have a moment of your time!",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Actually, I got a lottery ticket\nfrom the shopping I just did!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I would like to try my luck\nat the lottery over there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Testing one's luck... That's an unusual proposition coming from Fenomeno.\nI wonder if there was a prize that caught her eye.",
+      "choice_data_list": [
+        "Of course, go right ahead!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Thank you very much!\nNow then, here I go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fenomeno excitedly spun the lottery wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...!!\nAlright, alriiiight!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "We did it, sir!\nWe have successfully secured the hot spring trip tickets!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes! Thank you so much!\nMan, I really can't believe I actually won!\nThis must be what it feels like to be on cloud nine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Here you go, Boss! Feel free to use it!",
+      "choice_data_list": [
+        "Huh, me!?",
+        "Huh, me!?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Of course, sir!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I've been thinking about this constantly lately.\nI want to show my appreciation to the Boss for everything!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Therefore, please, by all means! Accept this!\nAnd do enjoy relaxing in the hot springs!",
+      "choice_data_list": [
+        "No, but..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I'm grateful, but... this is the grand prize.\nI feel far too guilty accepting it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I see—Then how about if I were to accompany you as well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "“Yours truly, Fenomeno, shall accompany you on this retreat and fully enjoy the hot springs, sir!”",
+      "choice_data_list": [
+        "Mmm, if Fenomeno doesn't mind..."
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Of course! In fact, it is an absolute honor\nto be allowed to accompany you, sir!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Sipping coffee milk alongside the Boss, letting our thoughts wander to the future amidst the hot spring town's scenery—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Could there possibly be a better day off...!\nNo, there couldn't!",
+      "choice_data_list": [
+        "Th-that much?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Come to think of it, I spotted a bookstore earlier!\nLet us find an information magazine about the area before heading home!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"No, I'm looking forward to it, I truly am!\nHahaha! Hahahaha!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...That said, things are a bit busy right now.\nWe promised to go on a hot springs trip together\nsometime in the future once we had free time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "First prize, huh...! Arghhh!",
+      "choice_data_list": [
+        "You're amazing enough as it is!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "No... not at all! I know very well\nthat this, too, is a rare achievement!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Still, the grand prize would have been so much better...!\nI wanted to present the grand prize to you, Boss!",
+      "choice_data_list": [
+        "Huh, that's what you meant?!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes...! However... my apologies!\nThis officer's luck fell short...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...Aah... An onsen for the Boss...\n...*sigh*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fenomeno looks unusually downcast.\nWondering what to do, an idea suddenly comes to mind.",
+      "choice_data_list": [
+        "...Man, but I'm really getting hungry."
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...My stomach?",
+      "choice_data_list": [
+        "Yeah. I think I'll go with something hearty for dinner tonight."
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "B-Boss! In that case...\nIf it's hamburg steak you want, I happen to have some right here!",
+      "choice_data_list": [
+        "Ah, it's true! Mind if I take one?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes, yes!\nPlease, you must accept it!",
+      "choice_data_list": [
+        "Thank you, I'm so happy!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Not at all!\n...Fufufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"I am truly delighted that I was ultimately able\nto be of service to the Boss!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And so, alongside Fenomeno's satisfied smile,\ntonight's dinner menu was decided.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Second prize...! We didn't reach the grand prize...!",
+      "choice_data_list": [
+        "That's too bad.",
+        "That's too bad."
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes... No, but when you miss this consistently, it actually makes it easy to give up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "The prize is a massive pile of carrots, huh.\nWhat am I supposed to do with this amount—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "That's right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And the next day.\nWhere Fenomeno and I headed—was the grounds of a nearby training club.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Thank you so much for agreeing,\nespecially on such short notice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Training Club Coach",
+      "text": "Not at all, the pleasure is mine. Everyone's got a growing appetite, so I'm sure their families will appreciate it too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Training Club Coach",
+      "text": "Come on,\nif you got one, make sure to say thank you properly!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Umamusumes",
+      "text": "Thank you very much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "You're welcome!\nIt's wonderful to see everyone so full of energy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "However, you must not eat only carrots! Eat a well-balanced diet without being a picky eater!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Did you understand!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Umamusumes",
+      "text": "—Eek, I-I understand...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Ah, no, I'm not angry! Not at all!\nSo please don't run away!\nWait, this doesn't sound angry either—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In any case, the mountain of carrots made its way into the hands\nof many young Umamusume, becoming the fuel for their growth!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "3rd prize...! \nI guess winning the grand prize really was too much to ask!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"Haaah... So, what ought we to do\nwith this single carrot...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And then—the following day.\nEarly in the morning, Fenomeno came by the Trainer's office.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Good morning!\nThere's something I'd like to give to the Boss!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Here are the carrot chips, reporting for duty!",
+      "choice_data_list": [
+        "Carrot chips?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes, sir! It is a handcrafted item made by yours truly!\nHowever, it is no ordinary handcrafted item!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Behold! These round slices\nturned out quite exquisite!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It certainly looks like a remarkably clean cut,\nthough honestly, I can't really tell.\nStill, seeing that brimming confidence—",
+      "choice_data_list": [
+        "...Is that so? Thank you!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "No!\nNot at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Well then, please accept this!\nFeel free to snack on it while you work! Fufu!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...At any rate, the carrot chips I received\nhad just the right amount of salt\nand were delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "A, a, a, a miss...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"...It seems one truly must never leave things to luck. Everything in life must be seized with one's own hands...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"...I have learned a valuable lesson! Thank you for such an enriching study session!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...*sigh*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Despite saying that, Fenomeno\nseemed somewhat disappointed...",
+      "choice_data_list": []
+    }
+  ]
+}

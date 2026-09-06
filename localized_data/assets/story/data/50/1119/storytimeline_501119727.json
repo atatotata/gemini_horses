@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dream Journey",
+      "text": "To catch this many is a truly wonderful feat.\nI'm sure my juniors will be overjoyed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ah, some of the juniors already have this one.\nWould it be alright if I gave it to another committee member?",
+      "choice_data_list": [
+        "Sure. I've got plenty, want one?",
+        "Sure. I've got plenty, would you like one?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Me, with a stuffed animal?\n...It wouldn't suit me, would it?\"",
+      "choice_data_list": [
+        "That's not true, it looks great on you!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...It suits me, you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Fufu... You truly are so pure.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Since you went through the effort to win it for me, I shall gratefully accept it as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

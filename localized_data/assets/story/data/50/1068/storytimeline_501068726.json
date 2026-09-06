@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\r\nwith Kitasan Black...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ah! It's Paka Petit!\nHow nostalgic~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Kitasan Black is pointing, there is a crane game filled with plushies themed after Umamusume.",
+      "choice_data_list": [
+        "Nostalgic, you say?"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Dia-chan is super good\nat crane games!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Before I enrolled, I used to stop by all the time on my way home from watching races!\nNaturally, hoping to catch a glimpse of Teio-san and the others!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Looks like they've added more varieties since then~\nI'm pretty clumsy, so I doubt I could win one, though... Ehehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Kitasan Black seems curious about the Paka Petit.\nIn that case...",
+      "choice_data_list": [
+        "Alright, I'll do it!",
+        "Then I'll do it!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Whoa!?\nAre you sure it's okay~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

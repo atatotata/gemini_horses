@@ -1,0 +1,182 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the eve of the Tenno Sho (Spring).\nTogether with Orfevre, we made our clear intention\nto run in the Prix de l'Arc de Triomphe known to the fans.",
+      "choice_data_list": [
+        "We're eyeing the Prix de l'Arc de Triomphe this year."
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "I knew it, so that's how it is...!\nThis is wonderful news!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "\"Having become a Triple Crown Umamusume and now standing at the pinnacle of this era,\nthe fans have eagerly awaited Orfevre-san's challenge!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed, that would be so.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "By royal decree.\nMake My will known far and wide.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"And we shall gather our subjects\nin the ancient capital.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"The crown rests upon my head.\nNext is—the Spring Shield.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as Orfevre had hoped, her will was widely conveyed... and Kyoto Racecourse was filled with bright anticipation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Woman A",
+      "text": "—We really came all the way to Kyoto!\nWell, there's no way we could miss seeing\nLady Orfevre as she is right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man B",
+      "text": "Yeah. It's been a long time since I felt like this...\nlike I can't even imagine losing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man B",
+      "text": "I know Orfevre will put on the greatest performance possible! And beyond that, the Prix de l'Arc de Triomphe...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "My heart thumps at the expectant voices filling the venue.\nI don't feel pressure anymore;\ndomestically, Orfevre is invincible.",
+      "choice_data_list": [
+        "Let's use today's victory to rally even more public support!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Yeah.",
+      "choice_data_list": [
+        "...Orfe?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "What is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"It might just be my imagination, but Orfevre seems quieter than usual...\"",
+      "choice_data_list": [
+        "(It's not that she's being moody... right?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I think back to the Junior Class...\nBecause she struggled with running alone,\nI created an environment where she could train by herself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That in itself was a success, and Orfevre\nrarely loses her motivation just from being alone.",
+      "choice_data_list": [
+        "...Are you feeling sick anywhere?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "None.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfevre answered without hesitation. She manages\nher physical condition meticulously... in which case,\nshe might simply be at ease.",
+      "choice_data_list": [
+        "I see. Well then... have a good time!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Geez, Orfe this, Orfe that...\nI mean, sure, she totally wrecked me in the Arima Kinen, but still.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "I'm saying don't underestimate me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Sure is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Wah! You scared me...\nSorry, I didn't notice you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...Can't be helped.\nThat's just the kind of girl I am.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Whoa, that's dark. ...You good?\n...Wait, now is not the time to be saying that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Nail check!\nNeed to do one last touch-up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...Even though...\nI don't want to give up either.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Why did I come here?\nWhy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "—I can't help chasing after them.\nAfter that girl...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "\"Orfeeeeevre!!\nGive us that masterful victory, just like always...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—...Do not despair.",
+      "choice_data_list": []
+    }
+  ]
+}

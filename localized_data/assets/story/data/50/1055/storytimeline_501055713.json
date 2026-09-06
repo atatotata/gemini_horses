@@ -1,0 +1,102 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Marvelous Sunday was injured,\nso I brought her to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Hum hum? Hum-hum-hum...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "—Yeah, like this, I might just be able to run marvelously.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Hey, hey, Trainer.\nCan I go back to training?",
+      "choice_data_list": [
+        "Let's play it safe and rest for now.",
+        "Let's see how it goes with some light training."
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Why? I'm totally fine, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Even if the symptoms are mild right now, we can't completely rule out the risk of the injury worsening during training.\nI explained this to Marvelous Sunday.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "...I see. Even the slightest lapse in focus\ncould be fatal, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Understood. I'll behave for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Marvelous Sunday took it easy to focus\nentirely on her recovery.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even if the symptoms are mild, returning to regular training while injured carries risk.\nI told them to keep it within safe limits without pushing themselves.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Understood. I'll do as you say, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Haa... haa... ngh...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Nn... It kinda hurts a bit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "...I think I'll pass on training after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Because she pushed herself too hard,\nMarvelous Sunday's injury seems to have worsened...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "*Haa*... *haa*... Ahaha, ahahaha...!",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "—...Yup! Simply Marvelous☆★\nI can still keep running!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Marvelous Sunday continued light training\nand made a smooth return.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day on the way home,\r\nas I passed through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "It's kind of noisy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In my hand is a single raffle ticket\nfrom my shopping earlier. This is—",
+      "choice_data_list": [
+        "You've got no choice but to pull, Taishin!",
+        "You've got no choice but to pull, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Why don't you draw it by yourself?\nI'm heading home ahead of you anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Besides, these things are usually rigged\r\nso you don't win anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "The grand prize is nothing but a distant dream—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oh! Aiming for the grand prize, little lady?\r\nNice! You gotta dream big, after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh!?\r\nNo, I'm...!",
+      "choice_data_list": [
+        "We're aiming for the grand prize, Taishin!",
+        "We're aiming for the grand prize, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nnnrgh!\r\nShut up, dummy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Narita Taishin cranked the lottery wheel\r\nin near desperation!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh? ...Seriously?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I actually won... a hot springs trip.",
+      "choice_data_list": [
+        "Congratulations!!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Y-Yeah, thanks...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps she was so utterly flabbergasted\r\nthat Narita Taishin actually became somewhat docile—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "“Still, it was your lottery ticket to begin with.\r\nDoesn't that make the travel voucher yours too?”",
+      "choice_data_list": [
+        "Since Taishin won it for you, go and enjoy yourself"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…………Whatever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"...I see, so you want one of us\r\nto accompany you on a trip.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Whoaaa, sweet!\r\nIf it's a hot spring, then I—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hold on, Ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Fugoh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...You should also be more perceptive\nto the subtle nuances of your friends once in a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sorry, Taishin.\r\nWe're going to be busy for a while, so we won't be able to make it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You'll have a mountain of things to do\r\neven after the Twinkle Series, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Besides, there are probably others better suited for it than us.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"Best person for the job? ...W-Who are you talking about?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Now then, which would be more embarrassing:\nleaving it unsaid, or having me spell it all out?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nggghhh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I hate that about you, Hayahide.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Fufu, is that so? I actually find your clumsiness\r\nquite charming.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Later on, as soon as Narita Taishin walked into the Trainer's office, she marched straight up to me and practically thrust hot spring trip tickets into my hands.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "On hold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"...If you haven't found anyone in particular\r\nby the time the deadline comes—\"",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ngh...... Anyway!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "On hold for now!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I ended up holding onto\nthe hot springs voucher—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Whoa, it's huge...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Right?! Even the biggest Umamusume\nfood lovers will be totally satisfied with\na hearty portion like this!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(I'm telling you, that's way too much for me...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ah, that's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That night, while I was working in the trainer's office—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah, there you are.\n...Did you eat dinner already?",
+      "choice_data_list": [
+        "Not yet, but..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yep. ...You're not gonna tell me you dislike bolognese, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "If you break up pre-packaged burger patties,\r\nthey can double as ground meat.",
+      "choice_data_list": [
+        "You made it out of that carrot hamburg steak?!",
+        "You made it out of that carrot hamburg steak?!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "That's true, but is there a problem with that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"...It was your raffle ticket in the first place,\r\nso you've got every right to eat it too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "So... look, it's gonna get cold, so hurry up.\r\nGet ready to eat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(...Sharing a hamburger steak in half is totally out of the question, but with this—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The two of us thoroughly enjoyed\r\nNarita Taishin's special homemade bolognese.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Whoa, that really is a huge heap...\r\nOr rather, isn't this way too piled up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ah, whatever.\r\nIf that's how it's gonna be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Whoaaaaa!!\r\nIt really is a massive mountain of carrots--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "It certainly was a tall order for just the two of you\r\nto clear that amount of food.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hey, hey!\r\nAre you sure I can take as much as I want?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"Sure, but...\r\nDon't blame me if you overeat.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yaaaaay!!\r\nWe're having a carrot party when we get home!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...You weren't listening at all, were you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Now, now.\r\n...Then, I suppose I shall gratefully accept as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I was just wondering what to put in Brian's bento.\r\nYou really saved me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "If you wanna thank someone, tell that Trainer over there, okay?\r\nThe raffle tickets were theirs anyway.",
+      "choice_data_list": [
+        "Taishin was the one who suggested sharing, you know."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "THANK YOOOOU!!\r\nI knew you were nice deep down, Taishiiiiin!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Agh, give me a break! You're so annoying!\r\nIt's not like I'm being nice or anything!",
+      "choice_data_list": [
+        "Taishin's so kind, you know."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I'll kick you, you know?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, a fun carrot party was held.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...That's what they say. Here you go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Narita Taishin threw a carrot\r\nright at me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "You won the prize with your own raffle ticket,\r\nso it belongs to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Look, it's almost dinner time,\r\nso let's hurry up and go ho—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Grrrruuummmble~~~~!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…………。",
+      "choice_data_list": [
+        "Taishin... are you hungry?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiet.",
+      "choice_data_list": [
+        "Want me to give you a carrot?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Shut up, shut up!\r\nI'm not hungry, and I don't want any...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Grrrruuummmble~~~~!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uuuuggghhh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, when I offered the carrot to her once more, Narita Taishin accepted it in silence.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Tissues.",
+      "choice_data_list": [
+        "That's too bad.",
+        "That's too bad."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No, I was just forced to draw in someone else's place,\nso I don't care what prize it is anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...You can go to a hot spring\r\nwithout having to win a lottery, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Being comforted weirdly like that\r\njust makes me feel awkward, ya know?",
+      "choice_data_list": [
+        "I-I see.",
+        "O-Oh, I see."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Come on, let's go home.\r\nYou can keep the pocket tissues.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As Narita Taishin walked off with quick strides,\r\nher profile betrayed a hint of lingering frustration.",
+      "choice_data_list": []
+    }
+  ]
+}

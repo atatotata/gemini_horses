@@ -1,0 +1,416 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "Phew, haah—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "*cough cough*!!",
+      "choice_data_list": [
+        "Taishin!? Are you okay!?",
+        "Taishin!? You okay!?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah, sheesh, stop making a fuss over every little thing.\r\nI just coughed a bit, that's all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "More importantly, about our training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I feel like it's getting a bit repetitive.\r\nLike my body has already gotten used to it.",
+      "choice_data_list": [
+        "Indeed..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If aiming for victory at the Kikuka Sho, this is the time\nwhere we really need to level up significantly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Spe-chaaaan!!\r\nLet's go do sand sprint training together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Wah, Ticket-zo-san!\r\nUm, are you sure you want me!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Of coooooourse!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "If we do it together, it'll be full power × full power for super full power, and I can bring out waaaay more strength...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Let's do it togetheeeer! Uwoooooh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ticket-zo-san...!\r\nUnderstood, let's do this! Uooohh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Whoa, so stifling...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "But... ............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Narita Taishin hesitated, but I felt like\r\nI understood what she was trying to say.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Training with someone else\r\nshould be great for breaking the monotony.",
+      "choice_data_list": [
+        "Want me to go find you a training partner?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Just so you know, there's no guarantee we'll find it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ticket is, well, like that, and Hayahide\nsaid she wanted to train alone this summer, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Don't blame me if everyone turns you down,\r\nsaying there's no point practicing with a squirt like you.",
+      "choice_data_list": [
+        "There's no one who'd say things like that to you anymore.",
+        "There's no one left who would say such things to you."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Having produced stellar results in the Satsuki Sho and the Tokyo Yushun (Japanese Derby),\r\nshe is now counted among the \"Big Three\" shaking up the Classic front.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I tell her that within Tracen Academy, at least,\nthere probably isn't a single person who doubts Narita Taishin's ability—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "............Do whatever you want.",
+      "choice_data_list": [
+        "Alright, I'll go look for it!",
+        "Alright, I'll go look for it!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, running all over the beach,\r\nthe candidate we found for a practice partner turned out to be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Wait, build power by splitting watermelons?\r\nDon't tell me you're doing it barehanded?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahaha, no way~!\r\nI'll just use a bat normally~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, looking at you, you look way less like you're training and totally like a girl making the most of summer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Wah-wah-wah, Rice-chan, that's amazing, amazing!!\r\nYou brought so many tires!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-Yeah...! I wanted you to pull me a lot...\r\nto build up my guts...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Now then, which girl should I ask...?",
+      "choice_data_list": [
+        "Power Training Through Watermelon Splitting",
+        "Tire-pulling Guts training"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "W-Watermelon splitting?\nHow is that even training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "\"Welcome, Taishin-san~!\r\nI'll do the work first,\nso please give me instructions!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Direct them...!?\r\nTh-That's so sudden...",
+      "choice_data_list": [
+        "Just pretend you're controlling a game character!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hah!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Alrighty, blindfold secure~.\r\nShall we get started, then?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Two steps to the right! Then three steps forward...\r\nToo far, one and a half steps back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "And—attack!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Thank you so much, Taishin-san!\r\nYour instructions were super easy to follow~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I-I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah, Nature set up the watermelon over there\r\nfor us to eat, so let's go~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Whoa, smashing it with a bat made a total mess... Wouldn't it be better to just cut and eat it normally?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crunch...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "......Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahaha, isn't it strange~?\nEven though the watermelon looks weird, for some reason it tastes even better than usual.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "......Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Narita Taishin\r\nenjoyed a rather pleasant summer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "T-Taishin-san... Are you really sure\r\nit's okay for us to do this together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Even though being around Rice...\r\nmight bring you bad luck...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "What kind of logic is that...? I mean,\r\nI'm the one who asked for it in the first place.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "So... um.\r\n...I look forward to working with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...! Y-Yeah!\nWe're counting on you...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, training progressed smoothly, and she got thoroughly into shape...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ah! Hey, hey, there's shaved ice!\r\nI wanna have some as a reward for trying so hard~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Wah, shaved ice...!\nI wonder if they have apple flavor...?",
+      "choice_data_list": [
+        "Alright, I'll go buy enough for the three of us!",
+        "Alright, I'll go get enough for three!"
+      ]
+    },
+    {
+      "name": "Concession Stand Clerk",
+      "text": "Ah, sorry about that! Business is booming today so we're fresh out of ice. We're waiting on a restock truck right now, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Concession Stand Clerk",
+      "text": "—Mm, hello? ...What'd you say!?\r\nYou got in an accident when you're right down the street!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Eeeh!! Oh no!!\r\nEveryone's in trouble, let's go help them!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh... W-Wait, you're going!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Truck Driver",
+      "text": "Great, getting stuck on the shoulder like this...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hawawa... Wh-What should I do...? It's all Rice's fault for wanting shaved ice...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ooh, right here! Wouldn't it be easier\r\nif we just lifted the truck?\nWe'll do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...! Y-Yeah...!\nUm, we'll do it...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Truck Driver",
+      "text": "Huh!? That truck is fully loaded!?\nNo matter how strong an Umamusume is... that's a bit much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Truck Driver",
+      "text": "Asking little squirts\r\nlike you gals for help is just, well...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tch...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"...Stand back.\r\nUrara, Rice, let's do this.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Truck Driver",
+      "text": "Huh!? H-Hold on, girls... !?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmph... Aaaagh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Truck Driver",
+      "text": "Uhyaa!? A-Awesomeee...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...And so, we safely managed to\r\nget our hands on some shaved ice.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "\"Taishin-san was so cool earlier, wasn't she~!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-Yeah...! You looked so dignified...\r\nand cool...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Wh-What's with you guys all of a sudden...?",
+      "choice_data_list": []
+    }
+  ]
+}

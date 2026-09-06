@@ -1,0 +1,515 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While out shopping for daily necessities with Yaeno Muteki,\r\nwe came across a crowd in the shopping district.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Things seem quite lively here, don't they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I see, the lottery raffle, is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hey there, folks!\r\nIf you're on your way back from shopping, do you have any lottery tickets?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "A lottery ticket... Ah, yes indeed.\r\nI have received it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Then c'mon, over here!",
+      "choice_data_list": [
+        "You've got the chance, so go ahead and draw!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hmm... I hesitate to let the ticket\r\ngo to waste. And yet...",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"...To tell the truth, back in the day, I couldn't accept\r\nmy lottery result, threw a fit, and destroyed the raffle machine.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"I had been banned\r\nfrom my local lottery draw.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I am unaccustomed to lotteries...\r\nWill I be able to remain unshaken by the outcome...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Trainer-dono. If it pleases you, I would be honored if you would pull alongside me!",
+      "choice_data_list": [
+        "Got it!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Thank you. Now then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Together with Yaeno Muteki,\r\nI slowly turned the handle of the raffle machine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "The grand prize...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—...Mmm...\r\n...Humph.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—A stroke of luck.",
+      "choice_data_list": [
+        "No, no, no! Shouldn't you be happier?!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Nay! Being swayed by one's emotions is proof of immaturity!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I must remain calm at all times!!",
+      "choice_data_list": [
+        "There's no need to hold back your joy!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "I explained that as long as she didn't cross the line, celebrating to her heart's content wouldn't cause trouble for anyone, so she should go for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...D-Do you really think so...?\r\nIs it truly all right to openly express this thrilling excitement...?",
+      "choice_data_list": [
+        "Let's celebrate together!!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Together...!\r\nI-If that's the case...!",
+      "choice_data_list": [
+        "—Ready, set...!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Grand! Prize! Banzaiii!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Trainer-dono, please feel free\r\nto use this \"Hot Springs Voucher.\"",
+      "choice_data_list": [
+        "Huh? But it's your raffle ticket...",
+        "Huh? But they're your raffle tickets..."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Observing your gait, Trainer-dono, the movement in your neck, shoulders, and hips appears rather stiff.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Perhaps your muscles are stiff?\r\nI recommend hot spring therapy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Just as Yaeno Muteki observed,\r\nmy shoulders and back are definitely stiff.\nHowever, when I tell her that she must be tired too—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I am in perfect health.\r\nThanks to your guidance, Trainer, no fatigue has built up.",
+      "choice_data_list": [
+        "Still, taking time to refresh is important too.",
+        "Still, you need to take time to refresh too, you know?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Taking time to refresh is especially important\r\nfor stoic types like Yaeno Muteki.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Hm, training at a hot spring has its own charm.\r\nA change of pace might do us good.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Fortunately, the travel vouchers seem to be for a pair, so let us do this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Once things settle down, you and I could use\r\nthis hot spring voucher. How does that sound, Trainer?",
+      "choice_data_list": [
+        "Let's do that!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Thank you for readily agreeing.\nIn that case, I shall leave this ticket in Trainer-dono's care.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Fufu, I'm looking forward to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "We've added one more exciting promise\nto look forward to with Yaeno Muteki!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...T-This carrot hamburg steak is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—Trainer-dono.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "It's rice.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "It's rice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I have eaten this carrot hamburger steak before.\nIt was sent to my family home as a year-end gift.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "The deeply rich demiglace sauce goes wonderfully with rice!\r\nThe entire rice tub emptied out in no time at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Taking home only a Carrot Hamburger Steak cannot be considered fully prepared.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Let's buy some rice on our way back too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Following Yaeno Muteki's strong recommendation,\r\nwe ended up buying rice to bring home as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...*nom nom nom nom nom nom*.",
+      "choice_data_list": [
+        "The rice... I can't stop eating it...!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes, truly.\r\nThe pure bliss brought by this premium carrot hamburg steak and rice is simply sublime...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "A magnificent demi-glace sauce!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thanks to Yaeno Muteki, I was able to\r\nsavor the Special Deluxe Carrot Hamburg Steak\nand rice to my heart's content!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Goodness, this much...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "There's no way this is an amount just two people can finish.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Trainer-dono,\r\npardon me for asking something out of the blue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I am rather unfamiliar with socializing between friends,\nso I was hoping you could offer me some advice...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Would it be impolite to bring carrot dishes as a gift for my classmates...?",
+      "choice_data_list": [
+        "Yeah, I'm okay!",
+        "Yeah, it's all right!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Is that so...!\r\nIn that case, let's bring some refreshments\nto Chiyono O-san and Ardan-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mmm, that was delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "\"Yaeno-san, thank you\r\nfor the 'Carrot Set Meal'!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Every single dish was exquisite.\r\nIn particular, I quite fancy the delicate seasoning\nof this carrot takikomi gohan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...!\r\nI'm so glad it suits your taste.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Carrots are a highly nutritious vegetable...\nWhen I acquired a large quantity of them, your faces came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I know this may be presumptuous of me,\r\nbut please forgive my selfishness in wanting to wait for both of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh my... Thank you very much.\r\nFufufu, I am delighted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yeah, yeah! It's just like the proverb:\r\n\"Salt for your enemies! Carrots for your rivals!\" right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "……? ……I'm getting deja vu……",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—Maxims aside,\r\nYaeno Muteki seemed satisfied and pleased\nthat her gift of carrot dishes was enjoyed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—Hmm. One carrot...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Let's go with pickles.\r\nThey'll provide a good amount of sodium, making them the perfect snack for training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Pair it with rice balls,\r\nand it turns into a bento meal.",
+      "choice_data_list": [
+        "That's a great idea!",
+        "That's a great idea!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes, if I do say so myself, it's quite a clever idea.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "With this level of freshness,\r\nquick-pickling is the way to go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "If you would like,\r\nwould you care for a taste as well, Trainer-dono?\nI shall bring some to training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The next day, during a break in training,\r\nthe two of us snacked on some lightly pickled carrots made by Yaeno Muteki.\nThe perfectly balanced saltiness was exquisite!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "――...I see.\r\nSo this is a trial for me, then.",
+      "choice_data_list": [
+        "A trial?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Were you testing whether I could stay calm\r\neven in the face of an unacceptable outcome?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Whaah!?\r\nI-I had zero intention of doing that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Heh, no need to hide it.\r\nIt stems from my own unworthiness in the first place.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Even with such a humiliating result,\r\nI shall endure without losing my composure!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "*Deep inhale*...\r\n*Deep exhale*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Tissues...! A prize optimized for all mankind\nthat will never go to waste...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Heh... Purely in terms of quantity, a single lottery ticket\r\nhas multiplied into so many pieces of paper...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "If this isn't a stroke of good fortune, I don't know what is!\r\nAnd after that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though she seemed somewhat flustered already...\nYaeno Muteki managed to keep her composure, yet radiated frustration the entire time.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hmm...\nIt's still out of stock after all.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Actually, I've run out of my favorite hand cream...\r\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "It's not even a particularly popular item,\r\nbut it's been out of stock since last week so I can't buy it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I recommended the same cream to Pony-chan last week... I wonder if she managed to buy it?\"",
+      "choice_data_list": [
+        "Could it be... because I recommended it?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haha, no way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Believe it or not—the hand cream Fuji Kiseki regularly used became a huge hit among her Ponies,\r\nleaving her to deal with rough hands for quite some time afterward.\"",
+      "choice_data_list": []
+    }
+  ]
+}

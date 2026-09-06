@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Shinko Windy",
+      "text": "Urrgh... so sleepy...",
+      "choice_data_list": [
+        "You didn't sleep well last night, did you?",
+        "You couldn't sleep well last night?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "...Yeah. I read that popular manga. It turned out to be... pretty scary...",
+      "choice_data_list": [
+        "Could it be that you were too scared to fall asleep...?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "N-N-No way! As if!\nI-I'm not scared of ghosts in the slightest!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Why am I sleep-deprived...? Right, because I binge-read the whole thing!\nMan, it was so good! Wahahaha...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Regardless of the reason,\nShinko Windy doesn't seem to have gotten much rest\ndue to a lack of sleep...",
+      "choice_data_list": []
+    }
+  ]
+}

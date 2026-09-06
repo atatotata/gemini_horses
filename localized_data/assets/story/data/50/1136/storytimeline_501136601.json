@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Red Desire",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ever since entering the waiting room, Red Desire\nhas been praying non-stop.\nI wonder if she's praying to the heavens for victory.",
+      "choice_data_list": [
+        "It's almost time."
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Oh, Trainer!\nThank you for letting me know.",
+      "choice_data_list": [
+        "Were you praying I'd win or something?",
+        "Were you praying I'd win?"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "No? There's no need for that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "\"Since my last defeat, I have devised strategies with Trainer-san and undergone rigorous training. Today, I have no blind spots.\"",
+      "choice_data_list": [
+        "So what were you praying for?"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "I only prayed……\nthat everyone could finish the race safely……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "Because that is the duty of a saint.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing Red Desire look so composed,\nI send her off to the race with peace of mind.",
+      "choice_data_list": []
+    }
+  ]
+}

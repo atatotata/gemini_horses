@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "When I visited the waiting room before the race,\r\nSilence Suzuka was nowhere to be seen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "*pant*... *pant*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ah, Trainer-san...",
+      "choice_data_list": [
+        "Were you running?",
+        "Were you running?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "My legs were itching to run.\r\nSo around the venue...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Looks like it's about time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Only looking at the very front... running with everything I have to the end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I won't surrender the view from the front to anyone.",
+      "choice_data_list": []
+    }
+  ]
+}

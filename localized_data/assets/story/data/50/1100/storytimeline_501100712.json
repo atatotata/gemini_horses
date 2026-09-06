@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Wonder Acute didn't show up for training, so while searching for her, I spotted her crafting something in a classroom...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Alright, that should do it.",
+      "choice_data_list": [
+        "What were you making?",
+        "What were you making?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Well, I'm thinking of giving\nbeaded keychains to my classmates\nas presents, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "So, what happened to Trainer-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I told the bewildered Wonder Acute\nthat our training time had already passed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "You're just saying that, it's gotta be a prank—\nOh my, the sun really is setting out there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "I'm sorry. Once I focus,\nI lose sight of my surroundings...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She seemed genuinely remorseful, so I simply warned her to be more careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

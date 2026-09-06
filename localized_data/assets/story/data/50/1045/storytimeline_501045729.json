@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Oh dear...\r\nThat was so close.",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "There, there.\r\nNo dwelling on it too much, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Everyone has their off days, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I came to the cafeteria\r\nto have lunch—",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "NOOOOO!!\r\nI messed up biiiig tiiiime!!",
+      "choice_data_list": [
+        "W-What happened?",
+        "W-What happened?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "My vital source of power...\nI ended up forgetting my special Salsa Vida.",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Without that, El just...\r\ncan't get that hot-hot energy pumping...",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "I don't think I can keep going this afternoon eitheeeer...",
+      "choice_data_list": []
+    }
+  ]
+}

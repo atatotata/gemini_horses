@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While preparing for early morning training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, good morning.\r\nI see you're here already.",
+      "choice_data_list": [
+        "Good morning. You're early today.",
+        "Good morning. You're early today."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I woke up feeling refreshed. Since I got up\r\nearlier than usual, I came to say hello.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Well, to tell you the truth, I was planning\r\nto surprise you with a greeting when you showed up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "In the end, it seems even the \"Emperor\" cannot best you when it comes to waking up early. Heh.",
+      "choice_data_list": []
+    }
+  ]
+}

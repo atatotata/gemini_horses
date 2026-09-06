@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Ruby's Butler",
+      "text": "Milady... Will the dinner party proceed as scheduled, then?\nPerhaps you should rest until your headache subsides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "No.\nI cannot afford to rest over something like this.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "It is nothing serious.\nThere is no need for concern.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Well then, class is about to start,\nso please excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "—......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "(This level of... pain is nothing...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, Daiichi Ruby was plagued by\na headache for a while...",
+      "choice_data_list": []
+    }
+  ]
+}

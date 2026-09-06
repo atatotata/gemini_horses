@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Commentary",
+      "text": "Autumn has reached its full fruition here at Kyoto Racecourse.\r\nThe final crown of the Triple Tiara, the Shuka Sho—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"Upon which horse girl will glory shine?!\r\nThe race is about to get underway!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(WAAAAAAAH!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"...Before we head into the race,\nthere's something I want to tell you.\"",
+      "choice_data_list": [
+        "What is it?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...You've done well up to this day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "You have walked this path alongside me, and\r\nI will undoubtedly reward your efforts.",
+      "choice_data_list": [
+        "I believe in you."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Well then—\r\nI'm off.",
+      "choice_data_list": []
+    }
+  ]
+}

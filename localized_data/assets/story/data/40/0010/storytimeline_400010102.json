@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "As I was getting ready for the training camp,\nSt Lite called out to me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Seeing <chrname>'s remarkable growth\nis truly a delight, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"However...\nShe will reach even greater heights.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "What I gained from my active racing days...\nWhat I felt watching over my beloved young ones...",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "I am prepared to pour everything into <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"To ensure you attain the glory you deserve—\nI shall impart further guidance upon you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Guided by St. Lite...\n<chrname> gained wonderful insight!",
+      "choice_data_list": []
+    }
+  ]
+}

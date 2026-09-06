@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yukino Bijin",
+      "text": "You don't sell pickled plums?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ugh, what should I do...?",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Nah, me head was hurtin', so I was\nthinkin' of stickin' an umeboshi on it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Back home, folks say stickin' it to your temples makes it better...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ow ow ow... I gotta find that umeboshi soon...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yukino Bijin seems to be suffering from a headache.",
+      "choice_data_list": []
+    }
+  ]
+}

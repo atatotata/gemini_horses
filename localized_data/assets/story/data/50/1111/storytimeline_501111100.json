@@ -1,0 +1,529 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my daily report for today.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Health status: 37.6°C (normal), no body pain.\nMeals: Attached records for 3 meals + 2 snacks.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Voluntary Training Report:\n40 min outer track run (Morning),\n5 km swim (Evening)\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"That is all. Please review it.\n\n—Air Messiah\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In the trainer's office.\nI read through the daily report from my trainee,\nAir Messiah, which arrived right on time as usual.",
+      "choice_data_list": [
+        "Yeah... alright, looks like there are no issues.",
+        "Yeah... alright, seems like there's no problem."
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Air Messiah,\n\nThank you for the daily report. Acknowledged.\"",
+      "choice_data_list": [
+        "\"Looking forward to continuing our work together,\" and..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "Even though it was a message exchange they had almost every day, they still gave it one last look over before clicking the send button.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "After confirming the message was safely sent,\nI took a breather. ...Receiving her daily report had become\nmy way of realizing another day had come to an end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Normally, I would be heading home around now, but...\nThere is still one crucial task left to do today.",
+      "choice_data_list": [
+        "I have to make the race schedule...!",
+        "We've got to make the race schedule...!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...! Then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "So it's been decided, then. Your debut race.",
+      "choice_data_list": [
+        "Yeah. It's 1600m on the Kyoto turf.",
+        "Yeah. It's Kyoto Turf 1600m."
+      ]
+    },
+    {
+      "name": "",
+      "text": "I nod and urge her to check the newly created\n\"Race Schedule_1\" file in the shared cloud folder.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "We decided to create this shared cloud folder right after signing\nwith Air Messiah so we could easily discuss our future strategy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "By the way, inside the folder is a \"Skill Chart\" file\ndetailing Air Messiah's current physical abilities and such, as well as—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Various files such as \"Training Schedule\" and \"Rival Data Analysis\" are stored here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I decided to append a number like \"_1\" to the end\nof the file name, incrementing the count with each\nupdate made.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "They often say the relationship between a Trainer and an Umamusume is a three-legged race, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I believe proper information sharing is essential\nto making sure we proceed smoothly, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"It will require quite a bit of effort on your part as well, Trainer, but...\"",
+      "choice_data_list": [
+        "No, this format works better for me too.",
+        "No, this format is easier for me too."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Fufu, I'm very glad to hear that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It was also around this time that we decided to exchange daily reports.\nMy colleagues still ask me, \"Isn't that a bit too formal?\"\nfrom time to time, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Step by step. Carefully and steadily.\nLet us build upon our efforts.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "All so that we can seize victory that lies ahead.",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And now, it's finally time for the Make Debut.\nFrom here on out, our training will get even more intense, but...",
+      "choice_data_list": [
+        "Before that... first comes this weekend, right?",
+        "Before that... first comes this weekend, right?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah... yes, that's right.",
+      "choice_data_list": [
+        "I'll make sure to be on my best behavior...!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "U-Um. Please, don't be so stiff.\nThey are also—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"My mother also mentioned,\n'Please feel free to drop by anytime.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Umm... Ah!\n—Mother! Over here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Messiah! Hehe, welcome back.\nAnd also—",
+      "choice_data_list": [
+        "N-Nice to meet you! I'm <username>."
+      ]
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Oh... hello there, it is nice to meet you.\nI am Air Messiah's mother.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Thank you for making the trip out here today, Trainer.\nThere's no sense in standing around chatting... Shall we get going right away?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, I was invited to Air Messiah's home and exchanged formal greetings. Despite almost dropping my business card holder, I bowed with all my heart.",
+      "choice_data_list": [
+        "Ah, and here's this as well— I hope it's to your liking!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Mother, here.\nThis is from my Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Oh! Thank you so much for your thoughtfulness.\nFufufu... My daughter told me about you, but you truly are so polite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "\"Please, have a seat.\nWould coffee be alright with you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Um, I'll go brew some.\nMother, please continue talking with the Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Is that so? Thank you, Messiah.\nI've set out some tea sweets, so could you bring those over as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes, understood.\nPlease wait just a moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Well then, Trainer. If you don't mind,\nI would love to ask you a few things.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "\"First... yes. I've heard about it from her, but... would you mind telling me, in your own words, about when you formed your contract?\"",
+      "choice_data_list": [
+        "Yes...!"
+      ]
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "—Yes. You have a deep respect for my daughter's attitude and hard work, don't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Fufu, I suppose I feel the same way. Even as a parent,\nseeing her always so earnest and working steadily hard\nmakes me feel truly humbled.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Oh, no. Everything I have\nis a strength bestowed upon me by my mother.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Steadily, surely.\nContinuing to make an effort with an unwavering will.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "It was none other than Mother\nwho showed me that ideal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Hmm... I suppose so. You always\nsay that, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "While speaking, Air Messiah's mother glanced\nat the corkboard on the wall.\nFollowing her gaze, I looked over as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "On that board, alongside several family photos...\nwas a single sheet of drawing paper.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "On the drawing paper was a picture of an Umamusume,\nseemingly drawn with all a child's might,\nwith the title \"Passionate Newspaper\" and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"‘So, so amazing!’\n‘She works hard, she's fast, and she's so cool!’\n‘She's pretty, she's wonderful, and I love her so much!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Ah?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "M-Mother!\nWhen did you get this...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Fufu, I'm sorry. Ever since you left home,\nit's felt so lonely around here...\nSo I dragged these out to where I could look at them.",
+      "choice_data_list": [
+        "Is this... a handwritten newspaper article?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "T-Trainer...!\nUm, I'd really appreciate it if we didn't dig too deep into that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "\"Yes, Messiah wrote that for me. Even though she was still so little, she lined up all those newspapers and tried her best to copy them.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "She wanted to see my race for the first time...\nOh right, was it after I showed her\nsome articles from back then?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Y-Yes, well...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Messiah looked thoroughly embarrassed, but...\nI couldn't help taking another good, long look at her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It felt as though the very root of the deep respect and love for her mother\nthat she always speaks of was vividly depicted there,\neven through clumsy drawings and handwriting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ngh, w-will that be enough,\nTrainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "There are other places\nI'd like to show you around today, after all...!",
+      "choice_data_list": [
+        "Huh, anything else?"
+      ]
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Sorry, sorry, that's right.\nNow then... thank you very much for telling me all about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Trainer <username>.\nPlease take good care of my daughter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, after exchanging polite farewells, I left Air Messiah's home.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Next, she guided me to...\na racing school located right near her house.",
+      "choice_data_list": [
+        "Could this place be..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes... My mother works as an instructor at this Umamusume training club.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "This is where Umamusume who have set their sights on the world of racing\nlearn \"how to run in the first place\"... right here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Just as many former Tiara Umamusume who pursued the path of coaching had done before her――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"My mother also kept her trainees few in number\nand prioritized one-on-one coaching.\nNot just how to move the body, of course...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "As if passing that will, that very soul, into the hands of each and every person.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Me too. It was carefully shaped\njust like that by my mother's hands.",
+      "choice_data_list": [
+        "The time you spent here with your mother is your true starting point.",
+        "The time spent here with your mother is your true origin."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "*pant*, *pant*...!\nM-Mother, how was that...δη?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah's Mother",
+      "text": "Yes. You've executed what I taught you before\nwonderfully. Your form has become\nquite beautiful, Messiah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "Really!? ...Is that true, Mother?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "\"Did I... did I run well?\nJust like Mother! Beautifully...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"This is my beginning.\nMy aspiration. My dream. And—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "The beginning of an oath that must be fulfilled at all costs.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In that instant—the aura radiating from Air Messiah\nsharpened with an electric crackle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "You saw that article, didn't you?\nMy... handwritten article.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I remember it well. The day I wrote that.\nGripping the crayon tightly... I misjudged my strength\nand crushed a few of them into powder.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Even so, I wrote it all out with the letters I had just learned.\nWith respect, with love, and then――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Channeling my anger.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "(No, no, no! This is all wrong!\nSomething is definitely, absolutely wrong!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "(Because!! All the newspapers we saved,\nevery single one of them, all over the place!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "(Calling Mother 'almost there'!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "(Mother is so amazing!\nShe's so cool! And so beautiful!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Messiah",
+      "text": "That's why... *gh*... I'm the one who has to draw it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "From here—\nLet us begin, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Overcoming the Make Debut and the Junior Class.\nAnd now, into the pivotal second year... the Classic Class.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "The Oka Sho, Yushun Himba (Japanese Oaks), and Shuka Sho...\nI will surely seize victory along the Triple Tiara route.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Especially the Shuka Sho.\nThat race where Mother was the G1 favorite for the first time\nin her career... and suffered defeat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "As their daughter, I will win.\nAnd I will prove it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "To prove that Mother was never just 'close'!\nTo show the sacred strength of the bloodline passed down to me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "With these legs of mine—without fail!",
+      "choice_data_list": [
+        "Yeah. We'll definitely see this through together."
+      ]
+    },
+    {
+      "name": "",
+      "text": "With the vow held in my heart, I face Air Messiah.\nThe succession is fulfilled upon this ground,\nand destiny has already begun to run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Our challenge in the Twinkle Series alongside her\nis finally about to begin...!",
+      "choice_data_list": []
+    }
+  ]
+}

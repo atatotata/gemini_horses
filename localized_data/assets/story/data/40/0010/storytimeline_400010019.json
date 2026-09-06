@@ -1,0 +1,464 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "With Christmas approaching...\n<chrname> had received invitations\nto appear at various events.",
+      "choice_data_list": [
+        "(It's a generous offer, but...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Accepting every single request will impact her most important\ntraining. <chrname>'s wishes come first, but—",
+      "choice_data_list": [
+        "(I really want to live up to those expectations if I can.)",
+        "(I'd like to live up to their expectations if I can...)"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Trainer-kun.",
+      "choice_data_list": [
+        "Huh, everyone...?"
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "I have heard.\nThat you are having trouble balancing your work and training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"If so, leave it to us! ♪\nAfter all, we're pros at this!\nWe'll support you flawlessly!\"",
+      "choice_data_list": [
+        "(True, she really is the ultimate support……!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, having gained a reassuring ally...\nwe decided to accept the requests we chose after consulting with <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Today, I had my script checked for one of them...\nthe special Christmas talk show.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "—If that's the case, how about incorporating your own experiences into this section?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Concrete anecdotes enhance empathy.\nThey should captivate the audience even more.",
+      "choice_data_list": [
+        "I see... I'll make the adjustments!"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "\"Still, it sounds like it's going to be a great talk show.\nTo think you'd be appearing on stage as well.\"",
+      "choice_data_list": [
+        "At <nickname>'s request..."
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "I see.\nYou two have a great relationship.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "\"Besides, the two of you lately have been truly imposing and dignified.\nA talk show is a fitting choice.\"",
+      "choice_data_list": [
+        "You've influenced me as well, you know."
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "To me?",
+      "choice_data_list": [
+        "It's about speaking for the sake of the future."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For the sake of her ideals, Speed Symboli spoke openly\nwithout hiding a thing... and her tone was always one of\nsteadfast self-affirmation.",
+      "choice_data_list": [
+        "<nickname> must surely..."
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "...If that is the case, it surely isn't just me.\nYou too—Trainer-kun.",
+      "choice_data_list": [
+        "Me...?",
+        "M-me...?"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "“Yeah. Because...\nI want to answer their expectations.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Academy Chairwoman",
+      "text": "\"I'm sorry, Speed Symboli.\nWe won't be able to celebrate Christmas lavishly this year, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "\"What are you talking about? You're here,\nalong with Grandma Mejiro and my grandpa...\nEveryone gathered for me. That's more than lavish enough!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Family Grandfather",
+      "text": "“Now then, let's raise a toast with our prayers!\nTo the future of racing!\n—To our Speed Symboli!”",
+      "choice_data_list": [
+        "—...Speed Symboli-san?"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "...Ah, excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Now then! Lastly, a word of advice from me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "When the time comes, look into each and every one of their eyes...\nand convey your feelings without holding anything back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "It will.\n—Your heart will reach them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, with their help... we managed to successfully complete every single request by Christmas Eve!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Today, I had them look over my lessons for one\nof those events... the Christmas live concert.",
+      "choice_data_list": [
+        "<nickname>, how is it?"
+      ]
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Yes, it feels great!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Even though it was between training sessions,\nshe's getting into great shape, isn't she?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Somehow, it feels different from usual...\nLike I can sense some real fighting spirit?",
+      "choice_data_list": [
+        "I think I was inspired by you."
+      ]
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Haiseiko worked tirelessly for her fans and lived up to their expectations... and the fans embraced her with everything they had.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing that, <chrname> seemed to have decided... to take another step forward in her relationship with her fans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Ehehe... Then I'm sure\n<nickname>-chan's fans\nwill be overjoyed!",
+      "choice_data_list": [
+        "I know it'll be that much harder, so I'll support you!"
+      ]
+    },
+    {
+      "name": "Haiseiko",
+      "text": "By all means! I'm sure\n<nickname>-chan will be overjoyed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"—Trainer!\nLook, here's my outfit for the Christmas live♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"Ehehe, isn't it cute?\n...Alright, I'm feeling motivated~!\nLet's head straight into training!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"Yes, I'll be fine! After all, my Trainer is watching over me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"Because you're fighting alongside me!\n—So, please tell me I'm cute... just one more time♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"...With our Trainer's support, an Umamusume becomes invincible♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "So... here is some advice\nfrom me to you, Trainer!",
+      "choice_data_list": [
+        "For me...?",
+        "For me...?"
+      ]
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Yes! Make sure you give <nickname>-chan\nplenty of praise, okay?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, with their help... we managed to successfully complete every single request by Christmas Eve!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Today was one of those events... an early\nChristmas party that I attended with St Lite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "...<chrname> is truly\nwonderful, isn't she?",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "A presence truly worthy of the guest of honor. It is undoubtedly the fruit of everything you've built to this day.",
+      "choice_data_list": [
+        "I'm sure part of it was following your example."
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "Oh?\nFor example?",
+      "choice_data_list": [
+        "Something like... staying proud and dignified..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "St. Lite's dignified bearing, taking pride in her own achievements...\nDeeply impressed by her presence, <chrname>—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At this party, more than usual...\nshe seemed conscious of how she presented herself.",
+      "choice_data_list": [
+        "Thank you for coming along with me."
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "\"I don't mind.\nThough I'm not particularly fond of parties...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Watching you and <chrname>\nis truly a delight, after all.",
+      "choice_data_list": [
+        "O-Oh, is that so?"
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "Yes.\nIt almost feels as though...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"—Just a little is fine.\nAfter all, this surely will be... my last time with you, Sir.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"Let us appreciate one another... There is no need to rush... Let us walk slowly, and share our memories together.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"That way... even this moment\nwill become a precious memory—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "……――",
+      "choice_data_list": [
+        "Saint Lite?"
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "In short,\nwhat I wished to say was...",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "If you wish to follow my example,\nallow me to offer one piece of advice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Remember this well.\n—This view before you, which you will surely take pride in someday.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, with their help... we managed to successfully complete every single request by Christmas Eve!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fans",
+      "text": "—Oooooh!\n<chrname>~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "\"...This year's Christmas was the absolute best~! I got to see so much of <chrname>!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan B",
+      "text": "Yeah! Tomorrow's the main event, but...\nit feels like our Christmas is already complete!\nAll that's left is watching the race~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "—Isn't that wonderful?\nSo many people were delighted!",
+      "choice_data_list": [
+        "Yes...!"
+      ]
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Fufu, I have to praise\n<nickname>-chan—and Trainer!",
+      "choice_data_list": [
+        "Huh, no, no, I'm—!",
+        "Huh, no, no, I'm—!"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "For her sake and for the fans,\nI planned far ahead and poured my whole heart into giving it my all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Good work.\n—You gave it your all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "I'm sure <nickname>-chan\nhas so much she wants to tell you, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"With lots of love♪\nThank you for all your hard work!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "The bond between Trainer and Umamusume... It is precisely because it runs so deep that countless records have been set... and the racing world has achieved the status it holds today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "You and <chrname>\nare already further along that path.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "That is why we are so delighted.\nTo still witness bonds tied so strongly, even now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"Racing is our 'essence'... How rare it is to find someone who approaches it with that same dedication—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "For your caring heart toward her... I thank you from the bottom of mine.",
+      "choice_data_list": [
+        "Everyone..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Yes, they too... surely did not\nachieve great feats all on their own.\nBy their side was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There stood her Trainer,\nbound to her by a strong bond of trust.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "...Fufu. How adorable.\nIt's written all over your face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"I want to go to <chrname>'s side...\nright now... is what I thought.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Leave the rest to us.\nYou should head back to the academy.",
+      "choice_data_list": [
+        "Yes, thank you so much!"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Well then, Trainer-kun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Merry Christmas!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Merry Christmas♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Have a wonderful night.\n—Please, have a safe trip!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reporter Otonashi",
+      "text": "<username>!\r\nI have some truly wonderful news for you!",
+      "choice_data_list": [
+        "Meaning?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Actually, I'm a member of the\r\nUmamusume of the Year Selection Committee, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Knock knock)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "I bring good news from the URA.\nYou might have already received an email about it,\nbut I wanted to let you know just in case.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"...Oh, we had a guest?\r\nMy apologies.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Not at all!\r\nWe likely need the exact same thing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "I see.\r\nThen please take this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Opening the letter handed to me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"To <chrname>.\nWe are pleased to inform you that you have been\nselected as this year's Best Classic Umamusume.\"",
+      "choice_data_list": [
+        "Best Classic Category Umamusume!?"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"Yes. This award is determined and chosen based on an overall assessment of the entire year's performance.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "It is not something just anyone can obtain.\r\nThereforeâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Splendid. That single word says it all. As someone associated with this academy, I feel immensely proud.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Congratulations, truly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Congratulations from me as well!",
+      "choice_data_list": [
+        "Ah, thank you very much!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Even so, that doesn't mean your Twinkle Series is over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Without letting your guard down,\nplease run your way through the Senior Class as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, <chrname> and I promised each other to keep doing our best together next year as well.",
+      "choice_data_list": []
+    }
+  ]
+}

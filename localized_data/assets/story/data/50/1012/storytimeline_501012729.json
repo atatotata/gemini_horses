@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "Gaaah, so close, Trainy.",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "What are you talking about? Hold your head high!\r\nI saw all your hard work with my own two eyes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Well, looks like it's my time to shine!\r\nHey, Trainy, mind lending me some change?!",
+      "choice_data_list": [
+        "Um, I don't have any money left on me..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uh-oh... Is that so? Then I guess I'll whip up some of my special home cooking for the newcomers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Morning. In order to finish the work left over from yesterday,\nI headed to the Trainer's Room early—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Trainer, are you still alive!?\r\nYou don't have a hole in your stomach, do you!?",
+      "choice_data_list": [
+        "But it's not open..."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "T-Thank goodness...! So that really was a dream, then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "So neither a Trainer brainwashed by an evil syndicate\nnor one blown to smithereens taking the enemy's ultimate attack for me exists...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And so, from early in the morning, I had to soothe a bawling Kawakami Princess...\"",
+      "choice_data_list": []
+    }
+  ]
+}

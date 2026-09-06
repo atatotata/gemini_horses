@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Going to the cafeteria to take a breather,\nI spotted Hokko Tarumae.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "*sigh*... These haskap berries are delicious...\n...It might have been a while since I've just leisurely savored something...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I miss the harvest festivals...\nEveryone eating until their bellies were full...\nBasking in the sun together... *sigh*...",
+      "choice_data_list": [
+        "Are you feeling tired, by any chance?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Kh!? Trainer!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "N-No! I'm full of energy!\nI'm just feeling a little nostalgic, that's all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though she says that, her expression remains gloomy. Fatigue from running in consecutive races seems to have caught up with her, so I should reconsider our upcoming schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

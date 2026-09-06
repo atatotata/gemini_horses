@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "*Yawn*...\r\nGood morning, Trainer-san...",
+      "choice_data_list": [
+        "You look sleepy.",
+        "You look sleepy."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ehe. I accidentally stayed up late watching a music show.\r\nWatching it live is way better than recording it, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "B-But still, for the sake of Umadol research,\r\na little bit is totally fine, right~...☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Despite what she said, Smart Falcon seemed to be lacking sleep...",
+      "choice_data_list": []
+    }
+  ]
+}

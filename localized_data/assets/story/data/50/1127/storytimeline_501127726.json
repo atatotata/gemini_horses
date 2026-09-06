@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Fenomeno...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Hm, that's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Fenomeno is pointing, I spot a crane game filled with Umamusume plushies.",
+      "choice_data_list": [
+        "Phenomeno, so you're interested in Paka Puchi?",
+        "Phenomeno, are you interested in Paka Puchi?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Ah, no, I just remembered seeing some children happily holding one earlier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "If I have that, it might make it easier\nfor people to feel close to me, or—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "That's it! No matter how much I strive to be a role model\nfor the children, if they're terrified of me and won't\neven look my way, it completely defeats the purpose...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"However! If I have that plushie, they're sure to look at me with fondness!\"",
+      "choice_data_list": [
+        "Then I'll have to work hard and win it!",
+        "Then I've got to do my best to get it!"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Sir, yes, sir! Regarding that matter,\nthis officer is somewhat unfamiliar with games of that nature.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "So... Boss, if you wouldn't mind, could you please show me how it's done?!",
+      "choice_data_list": [
+        "...Understood. I'll give it a try."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

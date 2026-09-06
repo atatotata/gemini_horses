@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the train ride home after the race—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...Hey, want to take a little detour?\nLook, the sunset is so pretty, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Look, the town is dyed in red.\nAnd what's more—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Found it, found it! Look, in that tree.\nCan you see the bird's nest?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "When I came here a few weeks ago, there were still chicks...\nI guess they've already left the nest.",
+      "choice_data_list": [
+        "I wish we could've gotten here a bit earlier.",
+        "It would've been nice if we could've gotten here a bit earlier."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "—I love racing.\nBecause out there is where I can be most myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Still, doing only that... leaves me out of breath.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "So, every now and then I stop in my tracks...\nand catch my breath, watching nature at work and the setting sun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "This is my pace.\nSince you and I are gonna be together for a long time yet, I'd like you to remember it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With all these back-to-back races, she hasn't been able\nto find time for herself...\nDeeply regretting this, I swore to adjust her schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

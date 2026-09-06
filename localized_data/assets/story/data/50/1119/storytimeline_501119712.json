@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Dream Journey hasn't shown up for training despite the scheduled time.\nWhen I went looking for her, she was in the committee room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please place anything that requires review today on my desk.\nI have emailed everyone the list of new intermediary agencies, so please check it.",
+      "choice_data_list": [
+        "Journey, you're past training time"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Trainer.\nOh my, is it this late already...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I was so absorbed in my work that I didn't notice.\nI am terribly sorry. I'll be more careful from now on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dream Journey offered a heartfelt apology.\nTo prevent anything similar from happening again,\nI made sure to issue a firm warning.",
+      "choice_data_list": []
+    }
+  ]
+}

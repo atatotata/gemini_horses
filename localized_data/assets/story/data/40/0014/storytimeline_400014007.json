@@ -1,0 +1,532 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "A-A-A-Amazing~!\nSuch a magnificent building, and the garden is gorgeous!",
+      "choice_data_list": [
+        "Ah... Nagoya Castle really is a breathtaking sight!",
+        "Yeah... Nagoya Castle really is a breathtaking sight!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The third stop on our \"Ramen Training Journey\" was Nagoya City, Aichi Prefecture! To get a feel for the local area, Meisho Doto and the others visited Nagoya Castle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "The shachihoko is so brilliantly golden!\nIt's so dazzling, I couldn't take my eyes off it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Amidst the solemnity, I can also feel confidence... Hehe.\nIt's somehow reminiscent of Opera O-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Huh? Opera O-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hai-ee! It's flashy, but not obnoxious—that brilliant \"sparkle\" that brings energy to everyone who sees it is just like you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...All right! If Opera O-san is watching,\nI'll do my absolute best in Nagoya, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Man, that 'miso katsu' was delicious, wasn't it?\nTonkatsu smothered in sweet miso sauce\ngoes insanely well with rice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Wait, Doto?\nSince when were you holding that, and what is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "It's miso sauce I bought at the store.\nI was wondering if I could make delicious ramen with this...",
+      "choice_data_list": [
+        "Oh, nice! This looks like it'll turn out delicious!",
+        "W-Wow, nice! Looks like we'll make something delicious!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"Still, I know this alone isn't enough...\nI know using local specialties isn't all it takes to convey my gratitude...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I want to learn more about Nagoya's culture and all... That's what I want to do, but... ah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hm? What is it? Curious about that flyer?\n...'Café Neuer, Temp Part-Timers Wanted'?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Local... culture... part-time jobs...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Gasp!! T-T-T-This is it—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine & Top Road",
+      "text": "Welcome!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Here you go. Two Ankake Spaghettis, order up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "...Thank you, Umamusume girls. A part-timer\nsuddenly quit and I was in a bind, so you really saved me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Not at all~. We've got our own goals to take care of too.\nIt's give and take, you see~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "—Working a part-time job to learn the local culture firsthand!\nYeah, isn't that a pretty good idea?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "S-S-Sorry to keep you waiting!\nHere's your ankake spaâHYAAAAAH!!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I-I-I'm so sorry, I'm so sorry!\nI'll get something to wipe it up right—Eeeeeeek!",
+      "choice_data_list": [
+        "I-I'll go get a towel!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uuugh... I'm really just utterly hopeless.\nSomeone like me could never possibly repay\nthe debt I owe to everyone in Nagoya...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"N-No, it's okay.\nDon't fret over it so much—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "So, Nature-san! At the very least...\nLet's at least not cause trouble for the shop!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Won't you train me strictly and relentlessly!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...O-Oh, alright. Sure thing.\nI hear your passion loud and clear!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, after receiving a few hours of coaching from Nice Nature...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "H-Here, have some iced coffee!\n...Ehehe.",
+      "choice_data_list": [
+        "Oh! You pulled it off splendidly! What did you teach her?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I didn't teach them anything special, you know?\nJust told them to see things from the customer's perspective.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Stay calm, with a smile. That kind of service\nis what makes a place feel comfortable.\n...Well, I'm just parroting my mother, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I-I did it! Nature-saaan!\nWere you watching...? I... *sniff*.\nI carried the coffee... all by myself!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"She's so happy you'd think she just won a GⅠ!?\nShe really makes teaching her worthwhile...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "Thank you. In that case, could you bring\nsome salad to the same table next time?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ugh... yeees! Customer,\nyou ordered a salad too, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "No. Just the coffee.\n“From here on” is on the house.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"...Huh? From here on out?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "Then next, a boiled egg and peanuts.\nAnd Ogura toast, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Wh-Wha... A boiled egg, and peanuts...!?\nE-Even toast, too...!!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hyaaaaaaa!!!?",
+      "choice_data_list": [
+        "...Ah, the ogura toasts are floating in midair..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...You did well. You did your best, Doto.\nThis sheer volume was just too much for you too soon...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "M-Manager... S-S-S-S-Sooorry about today!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "No, it's fine. We were busy too,\nso we couldn't properly teach you the ropes anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uuu... But, I'm so sorrryyy...!\nTruly, all I ever do is cause trouble for youuu...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "\"...Aren't you hungry? I'll make us something from the kitchen.\nOur cafe's morning special.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Aaaah...! The portion size is incredible!\nI only ordered coffee, but it comes with a salad and a boiled egg too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Top-notch service. Next, I'd like an entire Manchu-Han Imperial Feast brought out when I order a coffee.\"",
+      "choice_data_list": [
+        "Though maybe that's aiming a bit too high!"
+      ]
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "This is Nagoya-style hospitality.\nThe \"Morning Service.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"A 'morning service'...\nIs that what this is called?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "Yeah. What started out as a service at one shop\nspread throughout Nagoya and became part of the culture.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "All I'm doing is just \"giving back\" to the regulars, though. Running a restaurant in Nagoya, it's one menu item I really want to be particular about.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "*sigh*... I see...\nâWhat a lovely town this is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nagoya Cafe Owner",
+      "text": "You think so?\nI don't think it's anything particularly special, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No, that's wonderful!\nAfter all, that means the people of Nagoya—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "For the sake of the customers' smiles.\nThat's why you did it, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Such thoughtfulness started from a single shop,\nthen spread, took root... and became a whole culture.\nThe people of Nagoya really are so kind...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"...Right. Like how you were so kind to me,\neven when I was messing up and completely hopeless!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "The manager had every right to be angry with me... but instead,\nseeing how down I was, he served me a meal...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ugh... Everyone in Nagoya is so dazzling.\nMy heart is shining bright like a shachihoko...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"To act purely out of a desire to make someone smile... I really look up to that!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "That's—just like that person who, through \"self-satisfaction,\" gives energy to everyone...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Fufu♪ I just found another great thing\nabout Nagoya.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"...Ah, I see...! That's ittt!\nThat's exactly what we should be doing too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"Give back what would make the other person happy!\nPut yourself in the fans' shoes and deliver it to them!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"I want our ramen to bring smiles to people's faces...\nI'll pour all those feelings right into the ramen...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uuuuuu~~~!\nI can picture it so clearly in my head, too~~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Hey. Don't be a stranger, Doto. Lean on your friends at times like this. Otherwise, I'll end up feeling lonely.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Alright. The base soup is done. Let's give it a taste.\n*lick* ...Yeah. Innnnnsanely bland. Let's add salt.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Th-Thank you so much for helping me out...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "B-But, um... why are you\nso concerned about meee?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Because I've gained a new respect for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "At first, I thought you were a cowardly, clumsy,\ngloomy Umamusume whose voice always trailed off weakly.\nI apologize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Fuehhhh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Yet I was mistaken. You were a wise Umamusume\nwith a wonderful knack for finding the good in people and places.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "—I thought she was a good girl.\nThat's why I wanted to help her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Alright, let's do this, Doto.\nWe'll finish this ramen in record time.\nWith the leftover time, I'll straighten out the way you speak, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y-Yes, indeed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And then came the day of the warrior training event.\nAt Chukyo Racecourse, they were serving ramen\n“bright and early in the morning.” Its name was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Order up! It's \"Morning Ramen\"~!\nEat this up and get all powered up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fans",
+      "text": "\"Ramen in the morning?!\" \"Wait, morning ramen is a thing?!\" \"Is it because we're in Nagoya?!\"\n\"What a wonderful service!\" \"I can't wait!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "Hm? But... huh? Appearance-wise,\nit looks like a pretty orthodox ramen, doesn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan B",
+      "text": "Yeah... Ah, shoot! I wanted to check out the paddock\nfor the next race, too! Gotta hurry over there—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan B",
+      "text": "Wait, my foot got caught—whoaaa?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "Aaah!? Senpai!?\nSenpai fell over! This is bad!!\nThe morning ramen she bought me is ruined!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "\"...Wait, huh? It didn't... spill?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yes! Morning ramen is the kind of ramen that won't spill even if you take a tumble.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan C",
+      "text": "*Slurp...* Whoa?! This soup is amazing!\nYou couldn't tell just by looking, but it's super thick!\nIt clings right to the noodles!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eheheh... I based this recipe\non Nagoya's 'Ankake Spaghetti.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Thanks to the thick broth, the noodles and toppings won't easily spill out—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Whether you're a child or anyone else! It's ramen that lets you move back and forth from the racetrack without a worry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "I see, so that's why...\nBut why make that kind of ramen?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"...I've always been clumsy, you see.\nI used to drop the ice cream my parents bought me right away.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "The second ice cream cone she bought for me after that... tasted just a little bit bitter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"...Because it had\nthe taste of an 'apology' mixed into it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I didn't want any of you to feel that way.\nThat's why I made this ramen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "If the hospitality of the people of Nagoya can bring smiles to its visitorsâthen I...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"I just wanted to make ramen that could protect that smile...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fans",
+      "text": "“Doto-chan...!” “How thoughtful...”\n“It's so delicious!” “Thank you!”\n“Thanks for the treat!” “Seconds, please!”",
+      "choice_data_list": [
+        "Looks like your feelings really got through to them!",
+        "Looks like your feelings really got through to them!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "T-Thank goodness... I-I was worried it might\nbe presumptuous of someone like me, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Even so, I still wanted to do my best...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"If even a little bit reached you...\nI'm so glad. ...Ehehe♪\"",
+      "choice_data_list": []
+    }
+  ]
+}

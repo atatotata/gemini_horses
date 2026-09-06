@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Miracle",
+      "text": "Hmm hum hum~♪\nMy long-awaited day off~. What should I do~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I think I'll just sleep and laze around all day today.\nGood niiight♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Owwie... ow, ow, ow...",
+      "choice_data_list": [
+        "A headache? Are you okay?"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Yes... somehow...",
+      "choice_data_list": [
+        "Do you know what's causing it?",
+        "Do you know what's causing it?"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"...Maybe it's because\nI slept all day yesterday without waking up once.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "You know how your head hurts when you sleep too much? It's that~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Hishi Miracle was plagued\nby a headache for a while...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While talking with Super Creek\r\nabout training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ngh, ow... my head...",
+      "choice_data_list": [
+        "Are you okay!?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh dear, I'm sorry.\r\nDid I startle you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu, you're very kind, Trainer-san.\r\nI'll be just fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "It's just a slight headache...\r\nI'm sure it'll go away soon, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "...There's no need to worry, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though she says that, she looks like she's having a rough time. I should probably keep an eye on her.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The summer training camp aiming for Tanino Gimlet's comeback was finally about to begin—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator",
+      "text": "\"It strikes me as somewhat irresponsible that Tanino Gimlet's Trainer has yet to clarify their future plans, don't you think?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer",
+      "text": "\"Tanino Gimlet has also vanished from the public eye since the press conference. Just what could her current situation be—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator",
+      "text": "\"Isn't it about time we got an explanation?\nSurely the fans are concerned about these matters as well?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—Hahaha!! Such prickly venom!\nYou could rival a wicked, tyrannical king!",
+      "choice_data_list": [
+        "I'm being treated completely like the bad guy here...",
+        "I've been made out to be the total villain, haven't I..."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Let them talk.\nIt will only add more color to my revival.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Are you prepared?\nEverything will be decided by how this summer turns out.",
+      "choice_data_list": [
+        "I'll definitely bring you back.",
+        "I'll definitely bring you back."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh—\nA foolish question.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A summer of resolution begins!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Epiphaneia",
+      "text": "Hmph, hah, and there!",
+      "choice_data_list": [
+        "...What are you doing?",
+        "...What are you doing?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Oh, Trainer! What is it? I'm so sleepy\nthat if I stop moving, I'll totally pass out!\nSo I'm just dancing for now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Though if I stop running,\nthe exhaustion's just gonna make me even sleepier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Well, whatever! As long as I'm dancing, I can stay awake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It looks like her fatigue has reached its limit.\nWe ought to reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

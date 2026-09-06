@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cheval Grand",
+      "text": "...Fufu.",
+      "choice_data_list": [
+        "Good morning, Cheval!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "ââ!! T-Trainer...\nG-G-Good, good morning...",
+      "choice_data_list": [
+        "Did something good happen?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ah... um, well........",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Yes... I went fishing yesterday...\nand had a huge haul... I even set a new personal record\nfor sea bass size...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she enjoyed a wonderful day off.\nCheval Grand appeared to be in good spirits, even if in her own modest way.",
+      "choice_data_list": []
+    }
+  ]
+}

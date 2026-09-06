@@ -1,0 +1,66 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, before training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Heeey... Onii-chan.\r\nWill you pat Curren's head?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Heeey... Onee-chan.\r\nWill you pat Curren's head?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeez, hurry up, hurry up~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At Curren Chan's pleading request,\r\nI decided to pat her on the head.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "……。",
+      "choice_data_list": [
+        "Is this okay?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...No, just a little bit more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"...When Mama did this for me before,\nmy headache went away...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "So Onii-chan...\r\n...just a little more, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "So Onee-chan...\r\n...just a little more, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Curren Chan\nis suffering from a headache...",
+      "choice_data_list": []
+    }
+  ]
+}

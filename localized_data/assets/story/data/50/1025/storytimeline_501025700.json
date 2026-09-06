@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "Yawn...",
+      "choice_data_list": [
+        "You look sleepy.",
+        "You look sleepy."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Last night... a white rabbit appeared in my dream\r\nand gave me a riddle...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"‘Why are bearded seals and set squares such good friends?’ you ask—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "“Still, I couldn't figure out the answer...\nI was so curious I couldn't sleep...”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Obsessing over the answer to the riddle,\r\nManhattan Cafe seems to have ended up\nlacking sleep...",
+      "choice_data_list": []
+    }
+  ]
+}

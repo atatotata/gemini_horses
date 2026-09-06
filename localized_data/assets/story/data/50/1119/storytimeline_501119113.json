@@ -1,0 +1,513 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—It happened one day as Dream Journey's debut race drew near.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Today, I had Dream Journey review\nthe debut race simulation that I had put together.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dream Journey is terrifyingly sharp.\nHalf-baked information wouldn't do her any good,\nso I was inwardly nervous, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――...I see.\nAnd by the fourth corner,\nwe need to have advanced this far.",
+      "choice_data_list": [
+        "Yeah. ...Was that helpful?",
+        "Yeah. ...Did that help at all?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Yes. It was very helpful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "True, considering my running style and the other Umamusume in the race, the plan you suggested is the most rational, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Thank you for putting this all together.\nWould you let me train according to this simulation for the time remaining?",
+      "choice_data_list": [
+        "Yeah, got it...!",
+        "Yeah, got it...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I felt a small sense of relief.\nJust as I was about to share the plan\nfor our upcoming training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "—Excuse me for interrupting when you're busy!\nYou're Dream Journey-san and her Trainer, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The person who appeared was a reporter. Hanging from their neck was a press pass issued by the academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "Actually, I'm putting together a special feature article on the Umamusume making their debut this year—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "We'd love to have an interview with Dream Journey!\nIf possible, could you spare us a little of your time?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...We haven't started training yet, so I don't mind at all.\nThat is, assuming it's fine with you, Trainer.\"",
+      "choice_data_list": [
+        "I'm fine with it too, as long as Journey's okay with it.",
+        "If Journey is fine with it, I'm okay too."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Well then, it's settled.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—Still, I was surprised.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"To think someone would want to interview me.\n...As you can see, I'm not a particularly flashy Umamusume.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "Oh, don't be so modest!\nOut of all the pre-debut Umamusume,\nyou're the one I'm paying the closest attention to!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "After all, it just clicked the moment I laid eyes on it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "To put it simply, Dream Journey's running style\nis clearly influenced by that \"Umamusume who saw the golden light\"—Stay Gold!",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...I am flattered.\nJust as you guessed, she is someone I truly look up to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "I knew it!\nActually, I'm a huge fan of hers!\nI've been following her races forever...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "\"And so, since Dream Journey-san reminds us so much of Stay Gold-san, we just HAD to ask about your enthusiasm for the future!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "That is—\n............an honor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "\"Getting right down to business, let's first discuss your debut race—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...After that, Dream Journey handled the rest of the interview\nflawlessly, bringing it to a successful close.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...A few days later.\nThe article based on the interview was published—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Article Body",
+      "text": "\"—Dream Journey self-proclaimed that she was heavily influenced by Stay Gold in many ways.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Article Body",
+      "text": "\"Her running truly brings back the image of that Umamusume who reached the golden heights within all of us—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "—Huh, this Dream Journey girl... her running style really does have a vibe similar to Stay Gold...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan B",
+      "text": "\"—'Admiration', huh.\nI wonder if they'll run the same path as Stay Gold?\nI can't help but hope so.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...The reception seems pretty good, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...However, this passage is... a bit—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—While reviewing the published article alone\nin the Trainer's office,\none particular part caught my eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Article Body",
+      "text": "\"—When one speaks of Stay Gold, after all,\nwhat comes to mind is her long running career\nand how memorably she clashed with so many legendary Umamusume.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Article Body",
+      "text": "\"Though unable to claim victory, their run\nhelped ignite that legendary race—an unforgettable\nperformance by a magnificent supporting player.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Article Body",
+      "text": "“Will Dream Journey's future races serve\nto remind us of her once again?\nOne cannot help but watch closely--”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...The article's assessment of Stay Gold is by no means wrong. I can see where they're coming from myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However... I have doubts about simply\npigeonholing Stay Gold as a famous supporting actor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking at the grand scope of racing history,\nthere is indeed that aspect to it... but that is not all it is.\nA part of me strongly believes that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And more than anything, it isn't about Stay Gold—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—Excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Oh. Were you reading that article as well, Trainer?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "In that case, this is perfect timing.\nThere was something about this\nthat I wanted to ask you.",
+      "choice_data_list": [
+        "Something you want to ask?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――About how \"Big Sis\" was written about.",
+      "choice_data_list": [
+        "――――"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...The aroma tickles my nostrils.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dream Journey questioned me in her usual calm tone of voice.\nAt least, she should have. And yet—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For some reason, just for a moment earlier...\nher voice and expression felt\ncompletely different.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Ah, there's no deep meaning behind it, you know?\nIt's purely out of curiosity. Take it easy.",
+      "choice_data_list": [
+        "…It'll be a pretty vague impression, but is that okay?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"I don't mind.\nPlease, do tell me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I shared with Dream Journey the strange feeling of dissonance\nI had felt regarding the public evaluation of Stay Gold...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—Is that so.\nSo you felt that way as well, Trainer?",
+      "choice_data_list": [
+        "...Could Journey be too?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes. ...Just as you say, there is no mistake in what is written.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "However... that is not the essence of it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "For example—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "A race of the century.\nWhere \"storms\" gathered to vie for supremacy—\na supreme clash still passed down in stories today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "As everyone lauded the victor's glorious feat...\nand bathed in the lingering afterglow of her brilliance—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――\"Big Sis\" suffered a crushing defeat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...She must have acutely felt her own powerlessness before that \"storm.\"\nAnd yet—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "......That person was smiling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Holding her head higher than any of the runners.\nLooking happier than even the victor.\nWith a childlike golden glint in her eyes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...I didn't understand a single thing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Why can they smile so happily,\nso joyfully, even after losing?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Precisely because I couldn't understand it at all, Iâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—I feared it, and I yearned for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Within her heart, there is likely no such thing as\nputting up a good fight, a narrow defeat, or being a lead or supporting actor.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Finding affection or purpose in those race records is surely just a matter of convenience for us, the spectators.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "The way of being, the very essence of the Umamusume known as \"Big Sis\"... lies beyond such things—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—That is what I believe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...I suppose I let my personal feelings get a bit too involved.",
+      "choice_data_list": [
+        "...No, thanks for telling me.",
+        "...No, thank you for telling me."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What you just said seems to have put into words\none aspect of that incredible aura\nI once felt from Stay Gold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, within myself... aside from the talk about Stay Gold, I still had lingering thoughts.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "......Is there something else in this article that catches your attention, Trainer-san?",
+      "choice_data_list": [
+        "Umm...—"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please tell me, if you wouldn't mind.\nYou just listened to my story earlier, after all.\nI think it's my turn now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "\"And so, Dream Journey-san, being reminiscent of Stay Gold-san,\nwe simply had to ask you about your enthusiasm for the future!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Article Body",
+      "text": "“Will Dream Journey's future races serve\nto remind us of her once again?\nOne cannot help but watch closely--”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Trainer?",
+      "choice_data_list": [
+        "—I just wanted you to look at Journey more.",
+        "—I just wanted you to look at Journey more."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...To me, the article felt as though it were reminiscing about Stay Gold\nthrough the lens of an Umamusume named Dream Journey.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And to be honest, as her Trainer...\nI didn't quite like that.",
+      "choice_data_list": [
+        "...Maybe you don't feel that way, but...",
+        "...Maybe you don't feel that way, though."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...That day, seeing herself compared to Stay Gold,\nDream Journey didn't seem to mind it at all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hence, it is also true that I felt voicing this discontent\nmight somehow end up casting a damper on things—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Indeed...\nI certainly didn't feel bad about\nbeing called 'Big Sis' again and again.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Even so, Trainer-san, you feeling dissatisfied about it\nwould by no means 'dampen the mood.'",
+      "choice_data_list": [
+        "...I see.",
+        "...I see."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...And besides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "If I deliver results from now on, I'm sure people will see me for who I truly am.\nSo please, don't worry.",
+      "choice_data_list": [
+        "Journey..."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "So... let's focus on doing our best in the debut race first.",
+      "choice_data_list": [
+        "Ah...!",
+        "Yeah...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She swore to herself to work even harder from now on so that everyone would see Dream Journey for who she truly was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...So, you just wanted me to look at you more, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Truly... such a kind person...—",
+      "choice_data_list": []
+    }
+  ]
+}

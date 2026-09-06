@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "*Yawn*...",
+      "choice_data_list": [
+        "Can't sleep?",
+        "Haven't been able to sleep?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Not really... I just had a little trouble falling asleep.",
+      "choice_data_list": [
+        "Are you okay?! Don't push yourself too hard!",
+        "Are you okay!? Don't push yourself too hard, okay!?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No, you're exaggerating...!\r\nDon't look so terrified.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "This happens all the time... When I'm feeling sick\r\nor nauseous, sometimes I just can't sleep.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ah, geez, why am I even talking about this...\r\nYou're really throwing me off my game, honestly...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Narita Taishin seems sleep-deprived...\r\nI should make sure she doesn't push herself too hard.",
+      "choice_data_list": []
+    }
+  ]
+}

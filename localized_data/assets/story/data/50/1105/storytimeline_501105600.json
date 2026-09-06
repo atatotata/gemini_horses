@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Neo Universe",
+      "text": "\"Project Management\"—\nAggregating, analyzing, estimating...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Neo Universe has been lost in thought like that for a while now...\nIs she nervous, perhaps?",
+      "choice_data_list": [
+        "...Are you okay?"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"ART\"...\nEveryone's \"signals\" have been \"analyzed.\"\nI've prepared multiple \"courses\" as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "The \"pulsar\" is visualized.\nReady for \"liftoff\" anytime. In other words—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"I see the path to victory\"... that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Watch me from there, Trainer.",
+      "choice_data_list": []
+    }
+  ]
+}

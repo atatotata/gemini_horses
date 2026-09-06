@@ -1,0 +1,46 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The Queen Elizabeth II Cup—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The distance is 2200m. Close to the Yushun Himba (Japanese Oaks) where Nishino Flower struggled. It seems bitter memories still linger strongly with her—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "......Phew.",
+      "choice_data_list": [
+        "Flower, can you make it?",
+        "Flower, you good to go?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...!\nYes, I'm okay.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...You believed that I \"could do it!\",\ndidn't you, Trainer?",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Then... I'm scared,\r\nbut I'll be fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I'll do my best...!",
+      "choice_data_list": []
+    }
+  ]
+}

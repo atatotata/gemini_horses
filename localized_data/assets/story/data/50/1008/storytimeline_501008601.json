@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "Trainer... I lost the last race\r\nand looked totally uncool, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Taking loss after loss\r\nhas nothing to do with the coolness I'm striving for!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "This time for sure, I'm gonna take 1st place!\nI'll blow everyone away with speed no one can match!",
+      "choice_data_list": [
+        "Yeah, Vodka can win!",
+        "Yeah, you can win this, Vodka!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Yeah!\r\nThanks, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Open your eyes wide and take a good, hard look!\r\nAt my... absolute coolest run ever!!",
+      "choice_data_list": []
+    }
+  ]
+}

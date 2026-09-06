@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanetannhauser",
+      "text": "Deep breath in, deep breath out...\r\nThe day has finally come, hasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Deep breath in, deep breath out... Watch me,\r\nI'll take 1st place this time for sure...",
+      "choice_data_list": [
+        "...Are you nervous?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...No, I'm just breathing deeeeeply so I don't get a nosebleed from getting too excited.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Today is an important race to redeem my honor,\nso I must avoid getting scratched due to a nosebleed...",
+      "choice_data_list": [
+        "I see... Good luck out there!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes. Well then, I'm heading off...!",
+      "choice_data_list": []
+    }
+  ]
+}

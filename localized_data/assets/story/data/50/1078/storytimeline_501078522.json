@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yamanin Zephyr",
+      "text": "My, my? Could this perhaps be...\nwhat they call a skin breakout?",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes... It seems my new skincare products\ndidn't agree with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I'll refrain from using it for now and leave the rest to my body's natural healing ability.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...I hope it heals quickly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while after, Yamanin Zephyr remained concerned about her rough skin.",
+      "choice_data_list": []
+    }
+  ]
+}

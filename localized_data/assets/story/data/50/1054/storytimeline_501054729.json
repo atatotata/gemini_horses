@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biko Pegasus",
+      "text": "Ah, no good, huh...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ah, no!\nDon't make that face, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "I'm totally fine, yep!\nSo cheer up too, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "I just have to do my best next time!\nCarrotman always says that as long as you don't give up, the future is bright!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "A little past the scheduled training time, I received an email from Ikuno Dictus.\nHowever, its contents were rather mysterious—",
+      "choice_data_list": [
+        "\"Running late. Smartphone.\" ...What's that supposed to mean?",
+        "\"Running late. Smartphone.\" ...What does that even mean?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Trainer...! S-Sorry I'm late!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "I am so terribly sorry...!!\nI dropped my smartphone earlier and it took me a while to find it—",
+      "choice_data_list": [
+        "\"Running late. Smartphone.\" ...Ah, that's what you meant.",
+        "So that's why it said \"Running late. Smartphone.\""
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ah! I sent it written like that...!\nIt was already past the time when I collected them,\nso I panicked... How embarrassing...!",
+      "choice_data_list": [
+        "Be sure to come tell me beforehand in the future.",
+        "Please come tell me beforehand from now on, okay?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing how shaken she was, it was clear\nshe truly regretted her actions...\nSo I forgave her without scolding her any further.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just like a veteran actor waiting in the wings, Cesario quietly concentrated.",
+      "choice_data_list": [
+        "Looks like your fighting spirit is fully dialed in.",
+        "Looks like your fighting spirit is fully dialed in."
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "...Yes. All that's left now is\nto make sure I seize victory in the race right before me.",
+      "choice_data_list": [
+        "You're the star today, so go out there and run with all you've got!",
+        "You are the star today, so go out there and run with all you've got!"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Thank you very much.\nNot just for the present, but also to serve as a beacon for my future students...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "With a run that captivates the hearts of all who watch,\nI shall seize glory.",
+      "choice_data_list": [
+        "A tremendous ovation surely awaits you.",
+        "A tremendous ovation surely awaits you."
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Yes... It will surely\necho throughout the entire racecourse.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Bamboo Memory",
+      "text": "Haaah...\n...Ah... Trainer, hey there...!",
+      "choice_data_list": [
+        "Are you feeling tired?"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "N-No, no, not at all!! I'm full of energy, see?!\nIn fact, I'm just about to practice my swings—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "—Wait, where's my shinai...su!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "A-Ahaha...! Come to think of it,\nI hung them to dry in my room!\nI'll go grab them real quick~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Perhaps Bamboo Memory is still fatigued from the race.\nIt seems necessary to reconsider the upcoming race schedule.\"",
+      "choice_data_list": []
+    }
+  ]
+}

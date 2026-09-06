@@ -1,0 +1,141 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Early one afternoon on a day off, I ran into\nsomeone unexpected outside an open-air café.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Huh, Trainer <username>!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "G-Good day to you.\r\nI never expected to run into you in a place like this!",
+      "choice_data_list": [
+        "Aren't you coming in?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Well, you see... it turns out the course menu I want\r\nis only available for parties of two or more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Trainer Kiryuin was looking at a sign that read,\r\n'All-You-Can-Eat Sweets & Bread!\nCome with your lover or friends.'",
+      "choice_data_list": [
+        "If you're okay with me, want me to keep you company?",
+        "If you don't mind me, shall I keep you company?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Are you sure? But having you tag along\r\nfor my own personal work is...",
+      "choice_data_list": [
+        "All-you-can-eat is our job...?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes! I heard from Meek before\r\nthat this restaurant's menu is her favorite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"In that case, I thought being able to make it with my own hands\r\nwould help boost her motivation even further!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Deeply impressed by our shared calling as Trainers,\r\nI decided to lend a hand with her 'job.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...Hm. The whipped cream on this parfait seems to prioritize the rich flavor of milk over sweetness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "By pairing it with a berry sauce,\r\nthe aftertaste is surprisingly light and refreshing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Now then, this brûlée cake is... urgh!\r\n...What a... powerful...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Thanks to you, I was able to check over\r\nevery single item on the menu!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>,\r\nthank you so very much!",
+      "choice_data_list": [
+        "Do you think you can make it turn out well?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes!\r\nI'll try making it right away when I get back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, a few days later—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Please listen! Yesterday, Meek set\r\na new fastest record!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"The sweets Trainer made for me\r\ncheered me right up,\" she said. Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"However, it's still far from complete.\nI have to research more and replicate the flavor perfectly!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I always want to provide top-class support\r\nfor Meek, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "If it's for that sake, I won't spare any effort!",
+      "choice_data_list": [
+        "I'll keep you company again."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>...!\r\nYes, by all means, please do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, to thank me for tagging along,\nTrainer Kiryuin shared some homemade sweets with me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I shared and enjoyed the sweets I received\ntogether with <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "",
+      "choice_data_list": []
+    }
+  ]
+}

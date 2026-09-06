@@ -1,0 +1,565 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Spring arrived as <chrname> moved up\nto the Classic Class.\nExcavation efforts at the hot spring resort were in full swing... but then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Lately, it feels like customer traffic\nhas kind of slowed down...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Guess the viral hype has passed...\nThough it might still be a lot compared to last year...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It'd be such a waste if things cooled off like this.\nJust when I was getting all fired up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Haaahhh~~♪ Splish splash~~♪\nWarm water so soft~~♪ Pure para~~dise~~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Young proprietress~~!\nDo you have any great ideas to get everyone hyped up?\nInformation desperately needed...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Let's see...\nHow about the legend of the \"Rainbow-Colored Hidden Spring\",\nsaid to cure all ailments?",
+      "choice_data_list": [
+        "\"The Legend of the Secret Hot Spring\"...?!"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Yes, according to the legends,\nthere was once a legendary rainbow hot spring here\nthat worked wonders for Umamusume...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "\"Cures any illness or injury on the spot!\"\n...Supposedly, it was a magical hot spring like that♪",
+      "choice_data_list": [
+        "Oh!"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "However, according to the rest of the legend,\nthe hot spring eventually stopped flowing,\nand its location is now unknown...",
+      "choice_data_list": [
+        "Aww, what a shame..."
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufufu, it really is a shame.\nIf such a magical hot spring truly existed,\njust imagine how many Umamusume it could save.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oho.\nThat's pretty cool...! It's got that tsuchinoko-like sense of wonder.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"If we find that hot spring...\nor rather, if we uncover the 'truth,'\nwouldn't that be super hot?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Does the hidden hot spring really exist?\nAre its health benefits real?\nWhy was such a legend born? ...That kind of thing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "That's true! Just how much of this legend\nis actually real...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ho-ho...! How do you read this~?\nLet's see, cursive script reader app...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "\"Oh, you're still here?\nI'm about to close up shop soon.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Whoa, sorry!\nI haven't taken a bath yet...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "...?\nWhat's got her so worked up all of a sudden?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Before bed. When I went to take a quick bath, I ran into Transcend at the entrance, looking like she had just gotten out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmm~~~...\nHidden hot spring, hidden hot spring... the legendary hidden spring!\nIf we find it, it'll be the discovery of the century~♪",
+      "choice_data_list": [
+        "You're totally hooked on the legend of the hidden hot spring, huh? ",
+        "You're totally hooked on the legend of the hidden hot spring, aren't you?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, of course!\nIf it exists, you'd wanna take a dip, right?\nA supreme hot spring nobody knows about!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"I mean, seriously! If a hot spring like that actually existed, guests would come flooding in!\nThe inn would totally be booming♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Transcend can barely contain her excitement.\nHer eyes are sparkling with anticipation...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I suddenly recall\nthe time Hokko Tarumae told me about\nhow she \"pushed herself too hard.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Back then, she had to psyche herself up\nto work toward her goals, but\nwho Transcend is today is a little different.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even with a goal in mind, she was driven by a curiosity beyond it... itching just to do the thing itself...",
+      "choice_data_list": [
+        "(It's that feeling like I just have to do it—)"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "I found info online too! And I wanna hit the library first thing tomorrow morning! Aaargh, I don't have enough eyes for this!",
+      "choice_data_list": [
+        "...Good luck!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Yeah! Leave it to meee!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "......\n............Hmm.\nOh... and then...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "The light is still on in Lady Tran's room...\nI'm worried about her sleep schedule.\nPerhaps I should bring some refreshments and check on her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Nah, just leave it in front of the sliding door.\n\"Those kinds of folks\" are fine like that.\nLet 'em do whatever until they're satisfied!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, right, I should ask for info on the bulletin board too...\nI think one of my gaming friends did research on earth science, maybe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bulletin Board",
+      "text": "\"Didn't water use to flow around here?\"\n\"Tell me how far it is from the other hot spring sources~\"\n\"I live in the next town over, and I've heard a similar rumor.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bulletin Board",
+      "text": "\"Hello. That detector is a splendid invention.\nHowever, I have a proposal to further improve its accuracy.\nMay we converse using the translator?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ooh...! Ooooh...! Here it comes, the collective wisdom of the world!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "—So, 'Detector Improvements'? You put this whole document together overnight?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yeah. Looks like the Landlady's hot spring detector still has room for an update!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "So, I've been doing some thinking... Landlady, what do you think of this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Hmm, certainly, with this we might just discover\na hot spring source at depths that never caught our instruments before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Alright, let's do it!\nAs the developer, I'll handle the tinkering.\nYou give me a hand!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Alright! That's the spirit!\nI'll go get ready right away!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so...\nTranscend and the proprietress upgraded the hot spring detector!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, it's done!\nWith this, even the secret hot spring...!\nTime to test it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "(No, wait.\nIsn't it a waste to keep such an interesting gadget\njust between ourselves...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "(There are voices on the message boards saying \"I wanna see it\" too, y'know...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "(Should I invite them? As a thank-you...!\nI mean, tourists would love this too.\nYeah, let's make it a huge event...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "……Aaargh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I don't have time to soak in hereee!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And a few days later,\na surprise project was launched at the Yukoma Inn!\nWhat was this project that brought so many together...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Well then everyone, please board the bus~!\nDeparting for the 'New Hot Spring Detector Test Meeting'~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ooooh!\nI hope we find a nice hot spring♪\nEhehe, I can't wait to be refreshed again~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I'm looking forward to the new hot spring too. Leave the digging to me! Look at all these guests... Expectations are high, aren't they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Crazy, right?\nI was wide awake all night too!\nOne thing led to another and I pulled a total all-nighter.\"",
+      "choice_data_list": [
+        "Wait, is that really okay?",
+        "Wait, is that okay?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "No, I just can't sit still!\nMaybe it's because I've been resting properly lately,\nbut I've got so much leftover energy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We arrived at a corner of the mountain behind the academy.\nWith everyone watching with bated breath, the detector was switched on...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "With the detector's previous precision, there wasn't supposed to be anything here, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It looks like it's waaay, waaay down deep underground!\nOr so this new detector of mine says.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "O-Ohhh... That's close!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Right heeeeere!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Alrighty, let's have the excavation kickoff led by our eager volunteer right here!\nLet's get a quick interview on how you're feelin' right now~\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Yes! Digging for hot springs is something\nI could rarely ever do even back home in the mountains,\nso I'm really excited.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "The excavator's all set up,\nso right now we're just waiting for the right moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Looks like you're all ready too!\nHere we go then—ready, set!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "—Heeeeeave-hooooo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The giant human-powered excavator springs into action!\nThe sheer spectacle left the tourists gasping in awe!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tourists",
+      "text": "Oho, amazing! It moved! Keep it up! Everyoneeee!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "Haaaaahhhhhーーーーっ!!",
+      "choice_data_list": [
+        "Go go go!!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crack... bubbling...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(SPLAAASH!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "It came outttt!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "…………There it is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Bingo~~!! Landladyyy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "There it is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "This scent... what a unique spring quality.\nAn iron-rich reddish spring, is it? Let's check the pH.\nOho, wouldn't this be great for drinking, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hey, hey, Landlady!\nCould this possibly be...!\nThe legendary hidden hot spring!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "A legendary hidden hot spring? Whoa, hold on...\nDid you upgrade the detector just for that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Hahaha! As if! That's obviously not it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "The water quality isn't bad, but it might be a bit too lukewarm\nto pipe all the way to the hot spring town.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hmm, guess we won't find it that easily, huh?\nStill, this detector's working like a charm, isn't it?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Yeah! At this rate, if we do some serious digging in other spots too,\nwe're bound to find an even better hot spring!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the \"New Hot Springs Detector Trial Run\" was a huge success!\nThe event generated massive buzz...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "My, my, my~!\nThe interview requests just keep flooding in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Accept every last one!\nIt's an opportunity those kids created for us.\nWhy not take advantage and promote ourselves?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Looks like things are about to get busy again.\nGood grief, talk about a happy problem.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Still, a 'legendary secret hot spring', huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "There was a time when I went looking\nfor that sort of thing too, wasn't there...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "—*Yaaawn*...!\n...Uh, after the event... and it's already 5:00 AM...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Man, I slept like a log...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Haaaaahhh~~~...\nA hot spring after a deep sleep really hits the spot...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "\"Oh my, Tran-san.\nMorning. Did you sleep well?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Whoa, talk about déjà vu.\nSomeone told me the exact same thing back in the day.\nWhen I was passed out asleep in my dorm room all day...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yeah...\nUnlike back then,\nI feel super refreshed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Aaaaargh...\nBeen ages since I went all out like that~~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "You've been running around non-stop lately, after all. Doing your training properly without slacking off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, before I knew it, I was just running full speed ahead, you know?\nI just really wanted to do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Fufufu♪ Good job, good job.\nAfter giving it your all,\nyou've got to rest with all your might too, you know~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Man, I'm not doing anything today or tomorrow.\nAahh~~, so tasty♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "You do that, you do that.\nAnd... no, that's just fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Up until yesterday, you were what folks call 'in the zone.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "In other words, extreme focus... right?\nA state where you could give 120% right when it mattered most.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "That kind of power simply can't come from a body plagued by chronic fatigue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "\"If you conserve your strength on a regular basis,\nyou can unleash it when it truly counts.\nYou've gotta run your races like that too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I see. Yeah, if you're low on HP and MP, 'Run' is your only choice even if a rare monster shows up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "You never know when that 'moment' is gonna come♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Alrighty~ Now that we've discovered yet another point to taking a break~\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Time to catch another nap\non the latest massage chair.\nZzz...♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And thus, the Hot Spring Detector was powered up.\nThe day they find the legendary hidden spring might be closer than they think...!",
+      "choice_data_list": []
+    }
+  ]
+}

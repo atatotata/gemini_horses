@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, when I went to a family restaurant, I saw Wonder Acute looking troubled, surrounded by a massive amount of food.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ah, yeah... Trainer-san.",
+      "choice_data_list": [
+        "That's an incredible amount of food, but..."
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Well, I tried to order... But they told me to order on something called a 'touch panel' or whatever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "\"I was just tapping the screen without really knowing what I was doing,\nand then it ended up like this...\"",
+      "choice_data_list": [
+        "Why don't you explain the situation?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "No, no, it's not like I can't eat it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Everything looked so tasty,\nI couldn't help touchin' the screen, y'see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "It's just, there's clearly way more food\nthan my usual meals, so I'm not quite sure what to do with it...",
+      "choice_data_list": [
+        "In that case, want me to help?",
+        "If you want to eat it, go right ahead!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oh, if you do that, then I can eat without holding back too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Well then, let's split it in half and eat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Yes, Trainer-san.\nPut your hands together, and...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Thanks for the food.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And thus, I shared the food we had over-ordered\nwith Wonder Acute, and we enjoyed a delicious meal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "...Ah, that's right.\nThat's what I was thinking when I touched it, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "I feel refreshed now.\nI think I can eat all of this up and enjoy it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Thanks for the great advice,\nTrainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And thus, Wonder Acute enjoyed the family restaurant\nto her heart's content.",
+      "choice_data_list": []
+    }
+  ]
+}

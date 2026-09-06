@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dantsu Flame",
+      "text": "Ooh~, congratulations!\nYou did it!",
+      "choice_data_list": [
+        "If you'd like, would you take it?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh? No, no, no,\nTrainer went to all the trouble to—",
+      "choice_data_list": [
+        "...Maybe you didn't need this?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "N-No, no, not at all!\nThat's not true, if anything...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...In that case, I'll gladly take you up on your offer!\nHehe, thank you so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah, then please let me thank you!\nThere's a cafe nearby that I really recommend!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "The fruit juice from that stall is so delicious!\nHow about we get some?",
+      "choice_data_list": [
+        "Sounds good, shall we go?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Thank you so much! All right, let's go~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is the Spring Fan Appreciation Festival!\nIt's a massive \"festival\" where fans are invited\nonto Tracen Academy grounds, but Inari One—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusume",
+      "text": "—Inari-senpai!\nThey're saying the Tracen Academy Yakisoba stall is burning through sauce way faster than expected...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah! In that case, the okonomiyaki stand has some breathing room, so let's pull from there!\nIn the meantime, send someone over to restock the sauce!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusume",
+      "text": "\"Y-Yes!\nThank you very much!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusume",
+      "text": "Inari~! The carrot fried rice station is completely overwhelmed~!\nCan you do something to help~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah! I just contacted the Student Council!\nBackups will be here soon, so hold the fort until then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusume",
+      "text": "Way to go, Inari~!\nYou're so efficient~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Appointed directly by the Student Council, Inari One was in charge of the food stalls at the Fan Appreciation Festival, and I was helping her out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Gaaah! We're busy enough to make your head spin!\nThough honestly, that's half the fun of a festival!",
+      "choice_data_list": [
+        "Seems to be going smoothly so far.",
+        "Seems to be going smoothly so far, huh?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah! But customer traffic is picking up fast, so we can't let our guard down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"From what I hear, an insane number of fans\ncame just to see Oguri this year.\nIt's even more packed than usual...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Well, sounds good to me!\nThe livelier the festival, the better!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Thanks for lendin' a hand, Boss!\nMust be tough bein' on the move with me since the crack of dawn.\nGet some rest while you can!",
+      "choice_data_list": [
+        "You too, Inari!",
+        "You too, Inari!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Thanks for helping out too, Big Sis!\nYou've been running around with me since early morning, so rest up while you can!\"",
+      "choice_data_list": [
+        "You too, Inari!",
+        "You too, Inari!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the busy yet delightful time slipped by—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Attending Fans",
+      "text": "(*Chatter, chatter, buzz, buzz...!!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "“—The fans arriving at the venue\ncontinued to pour in even now...!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "This is way more than I imagined...!\nTo think their numbers would increase this much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusume",
+      "text": "\"Inari, this is bad!\nAt this rate,\nwe won't be able to handle them all...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "True, the food stalls are gonna get overwhelmed at this rate...! We've gotta do something to disperse this crowd—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—HQ, do you read me?!\nWe're using the trump card we talked about!\nSend over staff for prep and crowd control right now!!",
+      "choice_data_list": [
+        "A trump card?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh, I'm a festival child raised on festivals, after all.\nI've learned all kinds of tricks from the downtown folks!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Student Council Umamusume",
+      "text": "Inari One-san! Securing space and traffic flow,\nprepping the tools, and stationing safety personnel—\nall tasks are complete...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "As expected of our Student Council!\nI gotta do my part to live up to that efficiency—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "...Ladies and gentlemen in attendance!!\nWe have an announcement for a special program right here!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Right in the plaza just a short walk down from these food stalls,\nwe'll be showing off some unprecedented \"ladder acrobatics\"!\nPlease do come and watch, folks!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Visitor",
+      "text": "\"Ladder-top stunts\"... wait, what!?\nYou don't mean doing tricks on top of\nthat super tall ladder standing over there, do you!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Visitor",
+      "text": "Guess I'll go check it out...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh—\nAlright, time to get fired up!\nLet's get this place seriously pumped up!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Hup!! Haaah!! Taaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "(Oooohh!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Inari One performed a spectacular acrobatic act atop the ladder.\nAs her performance grew more thrilling, the visitors\nbegan dispersing between the food stalls and the open plaza...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Student Council Umamusume",
+      "text": "Now, while Inari One-san is gathering the fans,\nlet's quickly get the stalls back in order!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusumes",
+      "text": "Okaaaay!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "We're nowhere near done yet!!\nFeast your eyes on my next big technique!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Waaah--!!)",
+      "choice_data_list": [
+        "Incredible, Inari...!",
+        "You're amazing, Inari...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks in part to Inari One's heroic efforts,\nthe Fan Appreciation Festival managed to handle\neven more visitors than usual without a hitch...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, at a modest \"good job\" party in the trainer's office—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Phew~!\nMan, today was exhausting!",
+      "choice_data_list": [
+        "That move was amazing!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh. Right? There was a master back in my hometown,\nand since it looked so flashy and cool,\nI had 'em teach me all kinds of stuff!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "They use that at festivals back home to spread the crowds out nicely, y'know. I remembered that, so I suggested it to the organizers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "The bigger the festival, the more crucial the prep work is.\nTaking care of everything so everyone can have a blast is what being stylish is all about!",
+      "choice_data_list": [
+        "Lookin' sharp, aren't we!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Wahahaha!\nYour behind-the-scenes support was super classy, Boss!\nWe both did great!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Wahahaha!\nYour behind-the-scenes support was super classy, Big Sis!\nWe both did great!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, praising each other's hard work, they celebrated the conclusion of the Fan Appreciation Festival...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Visitor",
+      "text": "\"Ladder-top stunts\"... wait, what!?\nYou don't mean doing tricks on top of\nthat super tall ladder standing over there, do you!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Visitor",
+      "text": "Looks like Inari One's gonna do something!\nLet's go watch!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh—\nAlright, time to get fired up!\nLet's get this place seriously pumped up!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Hup!! Haaah!! Taaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "(Oooooohh!!!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Inari One performed a spectacular acrobatic act atop the ladder.\nAs her performance grew more thrilling, the visitors\nbegan dispersing between the food stalls and the open plaza...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "Aweeesome!\nGet 'em! Inari Oneee!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "Kyaaaaaah!!\nShe waved at us~~!!\nSo coooool!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Student Council Umamusume",
+      "text": "Now, while Inari One-san is gathering the fans,\nlet's quickly get the stalls back in order!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stall Running Umamusumes",
+      "text": "Okaaaay!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "We're nowhere near done yet!!\nFeast your eyes on my next big technique!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Waaah-----!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Visitor",
+      "text": "There's a huge commotion over there!\nLet's go check it out!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Visitor",
+      "text": "Eeeh, isn't that crazy?!\nLet's go get a closer look!",
+      "choice_data_list": [
+        "Incredible, Inari...!",
+        "You're amazing, Inari...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks in part to Inari One's heroic efforts,\nthe Fan Appreciation Festival managed to handle\neven more visitors than usual without a hitch...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, at a modest \"good job\" party in the trainer's office—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Phew~!\nMan, today was exhausting!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Quite a few of my fans showed up too,\nso I couldn't help but get all fired up!",
+      "choice_data_list": [
+        "That move was amazing!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh. Right? There was a master back in my hometown,\nand since it looked so flashy and cool,\nI had 'em teach me all kinds of stuff!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "They use that at festivals back home to spread the crowds out nicely, y'know. I remembered that, so I suggested it to the organizers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "The bigger the festival, the more crucial the prep work is.\nTaking care of everything so everyone can have a blast is what being stylish is all about!",
+      "choice_data_list": [
+        "Lookin' sharp, aren't we!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Wahahaha!\nYour behind-the-scenes support was super classy, Boss!\nWe both did great!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Wahahaha!\nYour behind-the-scenes support was super classy, Big Sis!\nWe both did great!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, praising each other's hard work, they celebrated the conclusion of the Fan Appreciation Festival...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while training in preparation\nfor the NHK Mile Cup—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Trainer, Taiki Shuttle-san. Excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Wow! Tazuna-san!\nWelcome!!",
+      "choice_data_list": [
+        "How may I help you?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yes. It's on short notice, but Taiki Shuttle\r\nreceived an interview request.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, an interview...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "They said they saw great promise in you from your past races.\r\nSo they'd love to run a special feature on you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Amazing! That is a true honor, yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Starting to draw attention is proof that Taiki Shuttle's skill is the real deal—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems we have taken the first step\ntoward becoming the \"Umamusume of the Year.\"",
+      "choice_data_list": [
+        "Understood, I'll take it on."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Thank you very much!\r\nWell then, I look forward to working with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yeees! I'll do my best for the interview!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Well then, could I get some shots\nof you running next?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Okaaay!\r\nLet's goooo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Looking good!\r\nThat dynamism is on par with a top-class Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The one who set her sights on Taiki Shuttle was reporter Otonashi from Monthly Twinkle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Word has it that you have an exceptional eye\r\nfor discerning an Umamusume's abilities and future potential, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Phew... Did you get a nice shot, yes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, every single shot captures\r\nTaiki Shuttle-san's power perfectly!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "The springiness, flexibility, and propulsion power in her strides... I am truly looking forward to what she does next.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"Leave it to meee! I'll put on a grand show\r\nand become \"Horse Girl of the Year\"!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The moment Taiki Shuttle said that,\r\nReporter Otonashi's eyes widened in surprise.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Huh... But Taiki Shuttle-san's aptitude is for\n“Sprint”, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "? Yesss, that is correct, BUT?\r\nDid something happen?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "No, um. Have you not heard?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "An Umamusume from the sprint division\nhas never once been selected as Umamusume of the Year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "What!? Is that true, desu ka?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes... races like the Arima Kinen, Tenno Sho,\r\nand Japan Cup naturally leave\na much stronger impression after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "With sprint races offering limited opportunities\r\nto shine, it's unavoidable...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The concerns Reporter Otonashi expressed\r\nwere the very same things I had worried about right after the debut race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, Taiki Shuttle—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I see, I see, is that so, desu ka?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "But—no problem!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"There is *nothing* in the rules saying you can't be chosen.\r\nIs that okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Y-Yes. Of course, there is no such regulation, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "In that case, what I must do does not change.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"If no one has ever done it before,\r\nthen I will be the first!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I'm the first sprinter to be Horse Girl of the Year! And that's all right by me!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Goodness...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the face of Taiki Shuttle's overwhelming spirit—\nhaving no precedent is surely just a trivial detail.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It really made me realize that all over again...",
+      "choice_data_list": [
+        "It's going to be a tough battle, but let's do our best!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yeees! Leave it to meee!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "......Sss.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hm? S?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It is wonderful!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "A thorny path that no one has ever conquered...\r\nYet the two of you push forward without a single trace of hesitation!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah, if it's for an Umamusume's sake, you don't care about getting scratched by thorns or having hot sauce poured over your wounds—I'm so deeply moved by your dedication, Trainer~!",
+      "choice_data_list": [
+        "(Did we ever talk about that...!?)"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"I'll keep following in the footsteps of you two!\r\nTracing your hoofprints of challenge! Every step of the way!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Thank you♪\r\nPlease, keep your eyes on me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Deliver a fantastic dream\r\nto big sis too—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I will make you happy, yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Fufu. Yes, I'm really looking forward to it!",
+      "choice_data_list": []
+    }
+  ]
+}

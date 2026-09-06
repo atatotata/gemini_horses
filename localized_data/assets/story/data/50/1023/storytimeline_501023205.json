@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Commentary",
+      "text": "And now, held at Hanshin Racecourse this year, it's the Tenno Sho (Spring)!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"Which horse girl will claim the prestigious Spring Shield?\r\nKeep an eye on BNW's Narita Taishin\nand Biwa Hayahide as well!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "According to the turf conditions released yesterday,\r\nthe cushion value is also within normal range.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "And with this weather and track condition...\r\nit seems fairly close to the Academy's Course D we ran on last week.",
+      "choice_data_list": [
+        "...Can you make it?",
+        "...Think you can make it?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Naturally.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Now then, Trainer-kun. Behold,\r\nmy winning formula!",
+      "choice_data_list": []
+    }
+  ]
+}

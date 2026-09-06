@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Calstone Light O",
+      "text": "Huff...!",
+      "choice_data_list": [
+        "Amazing, your cornering today is incredible!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "It's probably because the world has looked tilted to me today.\nEver since I woke up this morning.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "If the world is tilted, cornering is practically running in a straight line.\nAnd if it's a straight line, you can run at top speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "The slight drawback is that the straight line looks a bit slanted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...That is a problem in itself.\nFatigue from recent races might still be lingering.\nLet's review the schedule.\"",
+      "choice_data_list": []
+    }
+  ]
+}

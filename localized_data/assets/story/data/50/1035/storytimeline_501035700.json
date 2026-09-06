@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After the break, I exchanged greetings\r\nwith Winning Ticket in the central plaza, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Fwaaaaaahhh~~~...\r\nTrainer-san, good morniiing~...",
+      "choice_data_list": [
+        "You look sleepy, what were you doing yesterday?",
+        "You look sleepy, what were you doing yesterday?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Well, you see, I wanted to spend my day off to the fullest.\r\nThere were sooooo many things I wanted to do, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "We spent the whole day doing eee-ve-ry-thing!\nManga, movies, food, and cycling!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "It was so much fun.\nBut... after that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Before I knew it, it was already morning...\r\nHuaaaahhh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Winning Ticket went all out even on her day off,\r\nand ended up sleep-deprived...",
+      "choice_data_list": []
+    }
+  ]
+}

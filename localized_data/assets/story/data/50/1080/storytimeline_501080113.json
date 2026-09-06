@@ -1,0 +1,311 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "(Rattle-clatter-clatter)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Classes have ended. Transcend should be\narriving at the Trainer's Room soon, but—",
+      "choice_data_list": [
+        "She's not here...? There's a note left on the table."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"\"I'm going on a little journey. Please don't look for me.\nHowever...\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"If you think you can find it, give it a shot♪\n The hint is: Mega → Giga →\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Mega, Giga... Even though you said not to come looking, I feel like you were actually telling me to try searching for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mhm-mhm, the parishioners here are so kind.\nI ended up chatting with them so much today, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, as thanks for taking good care of me,\nI introduced them to Buddhist altar circles nationwide, so I'm sure I was of help.",
+      "choice_data_list": [
+        "Yo, Tran",
+        "Hiya, Tran"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "...Huh, Trainer.\nOho, did you figure out I was here?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It was a simple riddle.\nYes, Transcend's destination was—",
+      "choice_data_list": [
+        "It goes mega, giga, tera (temple), yeah? ",
+        "It goes mega, giga, tera (temple), right? "
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Correct. Was that too easy for you, Trainy?\nNext time, I'll make it\nabout two tiers harder.",
+      "choice_data_list": [
+        "But why a temple?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Hmm, this is one of my favorite spots. I'm super close with all the grandpas around here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I've got places like that all over the place.\nSo, that means next up is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "We're traveling by Shinkansen, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(*whistle*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yay, go, go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Heeey, everyone! Long time no see!\nHow've you been?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Northern Child A",
+      "text": "Ah, Tora-chan!\nYou came! Yay~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Northern Child B",
+      "text": "Thanks to that, the hot spring's flow got a little better.\nSay, can you do something about shoveling the winter snow too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Shoveling snow... Come to think of it, a small company up in Nagano\nmentioned they made a new handy gadget for that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Let's ask if they can give us a sample.\nIn return, we can give them some\nnewly released manju~.",
+      "choice_data_list": [
+        "You came all the way out to this frozen north?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, of course. North, south, even to the dune prefecture.\nMy friends... I mean, business partners, are all across the country—no, the whole world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Now then, once we've talked a bit, next is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Transcend arrived at\na shady backstreet at night.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Fufufu, nobody saw you, right?\nDid you bring \"the goods\" as discussed?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Black Market Merchant",
+      "text": "Yeah, handle it with care.\nWhat you wanted was—this, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Black Market Merchant",
+      "text": "This is a state-of-the-art CPU board. Be careful—\nif you break it, there goes a whole year's worth of pocket money.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hehe~ thanks as always~. I'll make sure not to spend the whole year living on bread crusts~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Screeech...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oops, wonder if everyone else has gathered yet.\nLet's see, how have things been moving lately...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lady with Belly Piercing",
+      "text": "Ah, Transcend! Over here, over here!\nHow've things been lately?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Transcend was welcomed with smiles\nby a crowd of high-spirited friends.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The sheer breadth of her social circle is astonishing.\nHowever, dedicating this much time to socializing means—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I was a little worried about the future.\nCould she really balance it with her racing?",
+      "choice_data_list": [
+        "Hey, is everything okay with training?",
+        "Hey, is everything okay with training?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Hm, training? You mean... instead of spending\ntime going out, we should go for runs?",
+      "choice_data_list": [
+        "Yeah, and the Make Debut is coming up soon.",
+        "Yeah, your debut race is coming up soon, after all."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "I see. But while this might look like just fooling around,\nin truthâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It's also part of my racing activities, you know.",
+      "choice_data_list": [
+        "Interacting with acquaintances helped with the race...?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Yeah. I don't know if they realize it,\nbut in the end, we're—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "She operates within an ocean of information, doesn't she?\nEven though it looks like she's just running casually—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Making decisions in the moment based on the information gathered so far. In other words—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "The more information we have, the better.\nEven things that might just seem like noise...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "If I gather everything and properly sort through it,\nI can reach a more ideal answer. Yes—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"The kind of running we're aiming for isn't just about winning.\nIt's running that makes you shiver with excitement.\"",
+      "choice_data_list": [
+        "I-I see..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "Transcend made a good point.\nNetworking wasn't just about satisfying curiosity.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It is all for the ultimate goal—a \"thrilling run.\"\nEverything strictly according to plan...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "………………。",
+      "choice_data_list": [
+        "…No, come on, that's not right!?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "...You caught me. Tee-hee.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Man, this kind of thing happens all the time, right~?\nLike in sci-fi movies set in the near future.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Before I even realized it, all the info gathered from everyone led right to victory.\nJust like: THE END.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...No matter how you look at it, there was no way that chatting as a hobby would ever lead to victory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Well, that story was made up, but...\nHey, Trainer-chan,\ncan't you overlook this little exchange?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I'll work hard at training, too.\nAs for time, I figure my Trainer-chan can squeeze some out somehow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I think for a moment... and answer.",
+      "choice_data_list": [
+        "Should we cut back on the time we spend gaming together?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Ah, guess it can't be helped. Well then,\nI'll save the marathon gaming sessions for weekends only.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "So please adjust accordingly~.\nI'll introduce you on various SNS groups\nsometime soon, Trainy-poo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Transcend gave a goofy grin.\nAnd with that, the deal was struck.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Transcend interacted with people of all ages and genders.\nAnd they seemed to be scattered all across Japan,\nif not the entire world.",
+      "choice_data_list": []
+    }
+  ]
+}

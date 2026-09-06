@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as I was wondering\r\nwhy Machikane Tannhauser hadn't arrived yet—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "I'm so sorry! I ended up being late!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Actually, on my way here, I ran headfirst into a wall and got a nosebleed...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And my tracksuit got dirty too,\nso I thought I'd do laundry right away, but we were out of detergent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "And on top of that, on my way to look for detergent,\r\nI ended up bumping into a door...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Things that made me want to scream 'Why now of all times!?' kept happening one after another... I'm so, so sorry...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing that Matikanetannhauser was truly reflective,\r\nI told her to be more careful next time and let the matter rest.",
+      "choice_data_list": []
+    }
+  ]
+}

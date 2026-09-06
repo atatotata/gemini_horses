@@ -1,0 +1,54 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "In the morning, right around start time—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "W-Wait for meeeeee!\nDon't close the gateeeeee!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "*pant* *pant*...\nI made it in time...!",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, it is not fine...\nThere are two of them...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Of all things, both of the alarm clocks\nI set every night ran out of battery at the same time...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I thought I prepared a backup for the backup, but it seems I needed yet another.\nNext time, I should also verify its operation before going to sleep and—",
+      "choice_data_list": [
+        "...By the way, what about class?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gasp!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "My thanks! Ngh!\nI wonder if I'll make it to the classroom just in time...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Her usual intellectual composure was nowhere to be seen.\nWith her hair in complete disarray,\nBiwa Hayahide ran off toward the school building.",
+      "choice_data_list": []
+    }
+  ]
+}

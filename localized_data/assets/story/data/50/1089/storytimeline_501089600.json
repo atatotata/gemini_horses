@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cheval Grand",
+      "text": "......Phew.",
+      "choice_data_list": [
+        "You seem calmer than usual, don't you?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ah... yes. In fact, I'm practically itching\nto run... W-Why is that, I wonder...?",
+      "choice_data_list": [
+        "It's a sign of the confidence you've built up over time."
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "C-Confidence? I wonder if I even have something like that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"...B-But... I do believe\nI've done everything I possibly could, so...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "......Y-Yeah. I'll do it.\nI-I'll... Even I can—!",
+      "choice_data_list": []
+    }
+  ]
+}

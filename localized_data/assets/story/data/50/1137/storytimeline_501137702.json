@@ -1,0 +1,286 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "During our outing,\nwe stopped by a traditional folk-house café for a break—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"Huh, how charming! A blend of the old and the new... It's just like a remade masterpiece!\"",
+      "choice_data_list": [
+        "The furnishings are lovely too.",
+        "The furnishings are lovely too, aren't they?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Yes! The hanging scrolls, the vase... and even that beckoning cat!\nUm, can I take pictures for reference!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Go right ahead, I don't mind at all.\nTruth be told, when I bought this old house,\nthis came out of the storehouse in the back.",
+      "choice_data_list": [
+        "Do you have all sorts of other goods like this, too?"
+      ]
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "That's right. There are so many I haven't even been able to put them all up...\nWould you like to take a look if you have time?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"Huh, are you sure!?\nI'd love to!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "This is the storehouse. Please watch your step.\nWe haven't quite finished organizing everything yet, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Whoaa... Oh, these are the old tools from the textbook!\nIt's kind of magnificent!\nI bet there are real historical treasures here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Ahaha, true enough. There might even\nbe some things here better off donated\nto a museum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ah, ow!",
+      "choice_data_list": [
+        "What's wrong, are you okay!?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ngh, something just... popped into my head—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "...This... is...",
+      "choice_data_list": [
+        "...A magatama?"
+      ]
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Huh? Was something like that...\nreally there when I looked before?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"...A mysterious magatama stored away in the storehouse.\nToday, it was discovered completely by chance...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "T-This is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "The story... is in motion!",
+      "choice_data_list": [
+        "What do you mean?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "It's a classic manga trope! Like a spirit popping out of a treasure stored in the storehouse! Or meeting a yokai that was sealed away in a storehouse!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "When the protagonist encounters what was sleeping inside the storehouse――that's where the story begins!",
+      "choice_data_list": [
+        "It's definitely a common trope, but..."
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"That has to be it!\nA magatama that even the Owner has never seen before fell right out of the sky onto my head, you know!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Let's see, that's true.\n...If you'd like, you can have that one.",
+      "choice_data_list": [
+        "No way, what if it's something really valuable...?!"
+      ]
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Fufu, seeing everyone having so much fun made me want to join in on the amusement too.\nPlease take this as a souvenir, if you'd like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Waaah... thank you so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ehe, ehehe...♪",
+      "choice_data_list": [
+        "You're in a good mood, huh.",
+        "You seem to be in a good mood."
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Can you tell? Well, I mean...\nisn't it just so much fun?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"Things sealed away since antiquity, close encounters of the third kind...\nWhat if, through some twist of fate, it actually happened!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"What should I say first when we meet~?\nA dramatic encounter would be nice. I mean, this is special!\nEverything rides on the opening line~...!\"",
+      "choice_data_list": [
+        "(She looks like she's having fun...)"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Come to think of it, isn't it pretty common for someone to suddenly reply when you're talking to yourself?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Ah-ah, I ended up getting an amazing magatama~\nSomehow, it feels really incredible... I think~?",
+      "choice_data_list": [
+        "Did you say something?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Huh? Ah, no! ...Ah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Plop)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ahhh!?\nThe magatama is in the pond!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ah, but, but!\nWhat if it's the pattern where she falls into water by chance and revives...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "“...It's not here!\nI'm so sorry, Trainer!\nPlease help me look for it!”",
+      "choice_data_list": [
+        "Huh!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even after that, Kiseki kept trying out idea after idea as they came to mind...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Mmm, they're not waking up easily, are they?",
+      "choice_data_list": [
+        "If there's nothing there, that means..."
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"No, wait! It's too early to give up!\nThings like this, late at night when everyone is asleep...\nSometimes things move behind the scenes...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "—Ah, thank goodness you're here!\nExcuse me, but regarding that magatama from earlier,\nthere's something I need to tell you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Owner-san!\nWait, did you find something out!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Well, you see... It turns out my wife\nmade that by hand, apparently...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Huh, handmade?! That's amazing,\nI had no idea you could make something so pretty~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "……Hm? Handmade……?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Yes. Apparently they made it with leftover materials to test a new rasp. They shoved it in the storehouse and left it there until now...",
+      "choice_data_list": [
+        "So... it just fell down by chance?"
+      ]
+    },
+    {
+      "name": "Cafe Owner",
+      "text": "Um, my wife said it was totally fine to give it to you, so if you'd like... It's amateur work, so I'm a bit embarrassed, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"...I, seeee......!\n...Thank you very much......!\"",
+      "choice_data_list": [
+        "Well, don't let it get you down!",
+        "Who cares if there's nothing, right?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Y-Yes! That's right. It definitely must be fate\nthat brought it into my hands.\nI'll take good care of it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Still, are you really sure nothing's wrong?\nLike, you didn't get possessed by a wandering soul from the storehouse or anything?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Kiseki still didn't seem ready to give up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "......No, but still.\nThere's still the night!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "There might just\nbe something there...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Kiseki still didn't seem ready to give up.",
+      "choice_data_list": []
+    }
+  ]
+}

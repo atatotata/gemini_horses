@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Transcend",
+      "text": "Aw, bummer. That was so close, Trainy.",
+      "choice_data_list": [
+        "If it's come to this, I'll keep going until I get it..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Stop, stop~ You're getting way too heated.\nWhoa there, easy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "To make up for egging you on, I'll show you the ropes later.\n...Let's come back again, alright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

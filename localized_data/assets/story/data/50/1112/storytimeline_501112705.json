@@ -1,0 +1,290 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daring Heart",
+      "text": "\"Hey, Trainer. If you were to go on a date with me,\nwhere would you take me?\"",
+      "choice_data_list": [
+        "A daaate!?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, half of that was a joke. Some friends visiting from America are coming over,\nand I was wondering where to show them around.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "—Oh, I know! Since we still have time,\nwould you mind showing me around your favorite spots?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The fiercely independent Daring Heart is uncharacteristically relying on me.\nI have to guide her properly and live up to her expectations...!",
+      "choice_data_list": [
+        "Got it, leave it to me!",
+        "Got it, leave it to me!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "That's what I'm talking about!\nLet's get going!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Remembering something I saw on TV before,\nI visited a dojo popular with foreign tourists.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Wow! We get to sword fight!\nMy friends are gonna love this!\"",
+      "choice_data_list": [
+        "Right on! That's a relief.",
+        "Right?! What a relief!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hey, since we're here anyway,\nwhy not give it a try and play a bit?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hmmmmmm...\nThis play-sword is a bit worn out, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "If an Umamusume swings it, it might break.\nThis doesn't seem safe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking closely, the facilities are also deteriorating.\nCome to think of it, seeing it on TV\nwas already years ago...",
+      "choice_data_list": [
+        "Sorry, I didn't do enough research."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Don't worry about it!\nWe just have to find another spot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I wasn't able to introduce a location that met expectations.\nHowever, there are other candidates.",
+      "choice_data_list": [
+        "(Next time, I'll make sure to satisfy her...!)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Japanese sweets, huh!\nNice! We can all enjoy this together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Now then, it's tasting time♪\nMaybe I'll go with that manju!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Still, everything is so cheap.\n...A closing-down sale?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Clerk",
+      "text": "Yes, that's right.\nI'm closing down this shop today.",
+      "choice_data_list": [
+        "What!? No way...!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Oh…… I'm sorry to hear that.\nEven though it looks so delicious.\"",
+      "choice_data_list": [
+        "Sorry, this was a lack of research on my part..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Come on, don't be down!\nIt was just a string of bad luck.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Come on, keep your chin up!\nJust keep moving forward!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I've been relying on her support all day today.\nI feel like this is no different from how things usually are...",
+      "choice_data_list": [
+        "(Still, there are other candidates left...!)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Pickles, dried goods, and rice crackers!\nNow this really feels like Japan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's wonderful getting to experience the culture at the same time.\nIt's been a while since I last visited, but it's just as fascinating as always!",
+      "choice_data_list": [
+        "Ah... So you knew..."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Yes! There's an interesting shop next door...\nOh! Found it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Look, a shop with weird slogans on T-shirts!\nWhy don't you try on the one with \"Bancho\" on it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Don't hesitate—whoever has fun wins! Think of it as a dry run for guiding people!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's been nothing but failures up to this point.\n...If this can help me bounce back even a little!",
+      "choice_data_list": [
+        "Okay. I'll try on the T-shirt!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufufu, that's the spirit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Tourist",
+      "text": "Wow, so cooool!\nPlease let me take a picture!",
+      "choice_data_list": [
+        "Uh, um, sorry, sorry!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Wooo! Look at you, Miss Popular!\nIt suits you well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ufufu, I'd love to show my friends back home.\n\"Japanese Bancho,\" you know!",
+      "choice_data_list": [
+        "Maybe I should've bought a shinai too... Just kidding."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ahahaha!\nThat was a good one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, I'll have to apologize to my friends later!\nFor having fun ahead of them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Haaah, I laughed so much I'm exhausted!\nWhy don't we take a break and have a bite of this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I bought some steamed buns from the Japanese sweet shop that's closing down, just for us♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A gentle sweetness spreads through me. Introducing that Japanese sweets shop wasn't in vain after all... Wait, could it be—",
+      "choice_data_list": [
+        "These sweet buns... you were being considerate, weren't you?",
+        "These sweet buns... you were being considerate, right?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "What? Ah, no way!\nI wouldn't go out of my way to do that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's the shop's specialty, right?\nSince we're here, we might as well give it a try.",
+      "choice_data_list": [
+        "I see... Things just aren't clicking today.",
+        "I see... Things just aren't going well today, huh?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You think so?\nI've been having a great time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I make all the decisions,\nand you just go along with them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Our usual combination!\nDoesn't this just scream 'this is the one'?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Visiting all those places gave me great inspiration. It was the best date ever♪",
+      "choice_data_list": [
+        "Next time, I'll escort you flawlessly!",
+        "I guess I really am no match for you.",
+        "I guess I really am no match for you."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Visiting all those places gave me great inspiration. It was the best date ever♪",
+      "choice_data_list": [
+        "Next time, I'll escort you flawlessly!",
+        "I guess I really am no match for you.",
+        "I guess I really am no match for you."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, quite confident today, aren't we?\nWell then, I suppose I'll look forward to it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Just so you know, if you show even the slightest opening,\nI'm going to surge right past you on my own!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, just kidding!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, as long as you hold onto that frustration,\nit will bear fruit one day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I'm telling you this as someone who watches you up close,\nso there's no mistaking it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Until that time comes,\nI'll be your escort!",
+      "choice_data_list": []
+    }
+  ]
+}

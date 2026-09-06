@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fenomeno",
+      "text": "Nicely done, Boss! That was masterful handling.\nI doubt I could have done the same.",
+      "choice_data_list": [
+        "Now, it's your turn to do your best.",
+        "Now, it's your turn to do your best."
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes, after the Boss went out of her way to make this chance for me,\nI feel a massive sense of responsibility...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "However, this is a joint operation with the Boss, so to speak!\nI will definitely produce results, sir!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

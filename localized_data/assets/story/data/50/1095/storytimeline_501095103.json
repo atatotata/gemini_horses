@@ -1,0 +1,454 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The time for the summer training camp is here! Staying at a seaside facility,\nour days of intensive training begin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With the Kitakyushu Kinen fast approaching,\nI should make sure we prepare thoroughly for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Then... I'll go leave my bags in my room.",
+      "choice_data_list": [
+        "Yeah, have a safe trip!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "(Alright. Done packing and changing—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah, Believe-chan...!\nUm, we're roommates during the summer camp, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Yes. Let's do our best, Dantsu-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Yeah!\n...Yeah, um, so... about that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Um. Dants-san, is something the matter?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "!! ...Nngh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah... Um, excuse me, um!\nBelieve-chan—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "M-Me too! Would you mind if I\ntrained with you during the summer training camp...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...I see.\nSo you're thinking about switching to mile races?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "So you want to reference my daily routine\nto build a body suited for shorter distances...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "You know, ever since entering the Classic Class,\nI've run the Triple Crown route... the Satsuki Sho and Tokyo Yushun, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "To be honest... I haven't been able to run the way I wanted to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I feel like I've always been hidden\nin the shadows of Tachyon-chan and Pokke-chan—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I plan to enter the 'Kikuka Sho' this fall.\nBecause I really want to challenge for...\nthe title of the 'strongest' Umamusume after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Still, as for what comes after... I'm a bit worried.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Since the first graded race I ever won was a mile race,\nI thought maybe slightly shorter distances suited me better...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Understood. Go right ahead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Y-Yeah, you're right, I'm sorry?!\nIt's frustrating to hear me being so wishy-washy, especially with an important race coming up soon—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Wait, huh? O-Oh?\n...Are you sure it's okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I need to talk to my Trainer first, but I don't mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "—What I have to do doesn't change.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "“—And that's the situation.\nWhat do you think about Dantsu-san participating?”",
+      "choice_data_list": [
+        "You're right, I don't mind either.",
+        "Yeah, that's fine with me too."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "As I said this, I smiled at Dantsu Flame,\nwho had been fretting like a small animal the entire\ntime Believe gave her matter-of-fact explanation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "R-Really...!?\nAre you sure...!?",
+      "choice_data_list": [
+        "Yeah, I'll be in your care for a while."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She seemed so kind-hearted, worrying endlessly\nabout whether she was being a nuisance—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since I wanted to incorporate some practical training ahead of the race, I'm honestly grateful to always have a training partner available.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Well then.\n...Trainer-san.\nI'm ready for the training menu instructions.",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "M-Me too...!\nUm, I'll be in your care!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "First is the \"Box Jump,\" right?\nYou jump onto and off of a slightly high platform,\nrepeating it rapidly in a short amount of time...",
+      "choice_data_list": [
+        "Have you ever done that?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Yes. When the instructor was watching over me,\nthis was part of the regimen too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "\"There are more reps than last time, so I'll have to move\neven faster, but... it's training to boost agility, right?\nI'll do my best!\"",
+      "choice_data_list": [
+        "Alright, here we go! Ready... start!"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Phew...! Next up is hill sprints...\nall the way to the top of that hill, right?",
+      "choice_data_list": [
+        "The distance is short, but the slope is steep."
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "\"We do that while losing as little speed as possible……\nright? Understood, let's do this!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Trainer-san, could you please\ntime the laps from the top of the hill?",
+      "choice_data_list": [
+        "Got it. Watch your step so you don't trip!",
+        "Got it. Watch your step so you don't trip, okay!"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "*pant, pant*...! N-Next up is...\nthe \"Shoreline Dash\"... right?\nDashing from the shallows toward the beach...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I-I see. Starting from high-resistance water helps build an even more powerful starting dash... doesn't it! *phew*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "—I look forward to working with you!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...I look forward to working with you.",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "\"*pant, pant, phew*...!\nN-Next is—!\"",
+      "choice_data_list": [
+        "...Let's take a short break, Dantsu.",
+        "...Why don't you take a short break, Dants?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh! B-But—",
+      "choice_data_list": [
+        "Your body won't change overnight."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I cautioned her that it's better not to rush.\n—In truth, today's training menu must have been\nquite grueling for her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Up until now, she should have been training\nwith middle- and long-distance races in mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Stamina training is an absolute must, especially if we have long-distance races in mind. Therefore, up until now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"What you'd call 'low intensity, high reps'—\nin other words, plenty of long interval runs\nand uphill jogging.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On the other hand, as a sprinter, Believe\nshould focus on improving instantaneous speed and power—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The regimen is basically 'high intensity, low reps.' It revolves around applying heavy loads all at once, just like we did today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In short, she has suddenly begun tackling a training menu with almost polar opposite characteristics.",
+      "choice_data_list": [
+        "It's only natural for your body to not keep up at first"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I reasoned with Dantsu Flame that pushing herself here and getting injured would ruin everything.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Um, ...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...That's true, thank you so much!\nI'll be watching from over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "――Now then.\nLet's move on to tire-pulling sprints, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(......Ah. Look at the time already.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah...!\nUm, were you just about to go to sleep...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Dants-san... well, yes.\nHowever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Go ahead. What is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Thank you...!\nUm, there's just a tiny thing I'd like you to look at—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I reworked my independent training menu based on what we did today.\nWhat do you think...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Yes. I don't think there's any problem.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I see...!\nThank you, Believe-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "\"...Um, sorry about today.\nI couldn't keep up till the end...\nIt felt like I just ended up getting in the way.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Bother...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No, I'm not.\nI finished my entire routine on schedule.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Huh... R-Really? I seeâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...Still, you're right. Even with me flitting around you the whole time, you never lost your focus, did you, Believe-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...So amazing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Believe-chan is truly amazing.\nShe's always so unwavering, or should I say...\nshe has such an incredibly strong core.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I've always thought you were so cool.\nSo straightforward, without a trace of doubt...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Because I'm always wavering back and forth—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ah... oops, no good!\nI kept you up late. Sorry about that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Good night, Believe-chan!\nSee you tomorrow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Yes. Good night.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I look forward to working with you again tomorrow.",
+      "choice_data_list": []
+    }
+  ]
+}

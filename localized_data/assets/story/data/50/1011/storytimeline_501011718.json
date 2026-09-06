@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Grass Wonder",
+      "text": "Good morning, Trainer-san.\r\nThank you for giving me some time off~.",
+      "choice_data_list": [
+        "Were you able to take it easy?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yes. But getting too relaxed wouldn't do any good, so I made sure to get a moderate amount of exercise too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "—As the saying goes, \"In times of safety, prepare for danger.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"It's precisely on days off that we should\r\nthink about how to use our time meaningfully, after all♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Grass Wonder seemed to have spent her day off\r\nwith a healthy sense of focus.",
+      "choice_data_list": []
+    }
+  ]
+}

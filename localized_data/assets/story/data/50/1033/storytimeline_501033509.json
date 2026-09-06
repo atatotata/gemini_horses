@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I finished my training menu\r\na bit earlier than usual today.",
+      "choice_data_list": [
+        "Want to run a bit more?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "............\r\nI'm calling it a day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Because I don't want anyone to see me like this...\r\nNo one at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...I'm heading back to the dorm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Admire Vega, who usually runs until\nthe stars come out, cutting her training short so early...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"A considerable amount of fatigue seems to have built up.\r\nIt might be best to review her upcoming race plans...\"",
+      "choice_data_list": []
+    }
+  ]
+}

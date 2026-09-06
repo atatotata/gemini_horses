@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "Trainer, good morning.\nFufu, it's a pleasant morning, isn't it~?",
+      "choice_data_list": [
+        "Looks like you got plenty of rest."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah. Thanks for giving me the day off.\nIt was a really great day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I ate out the other day, and the zaru soba there was so delicious! Just thinking about it makes me want to go back again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Oh, you should come with me next time!\nThere are some other places I want to check out, so...\nHow about we go on a restaurant tour together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It looks like Buena Vista\nhad a truly fulfilling day.",
+      "choice_data_list": []
+    }
+  ]
+}

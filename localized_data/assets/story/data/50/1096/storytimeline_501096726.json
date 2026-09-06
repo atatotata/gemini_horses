@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith No Reason...",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "Trainer, behold!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Look, an adorable doll is over there!\nIt's looking right this way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction No Reason pointed, there was a crane game filled with plushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "I like it!\nI'm gonna make that mine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "No Reason challenged the crane game, but the claw failed to grasp the Paka Petit plush, ending in a clean miss.",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "Gnugh...! My opponent's pretty skilled too, hm.\nSlipping past all my attacks with ease.",
+      "choice_data_list": [
+        "Want me to get it for you?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Mmh!? So you have a plan!\nAs expected of my strategist! Most dependable!",
+      "choice_data_list": [
+        "No, it's not really that big of a deal..."
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Is that modesty? Or is it a case of deceiving your allies first to deceive your enemy? My expectations are soaring!",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "Come, Strategist, to the battlefield we ride!\nLet us strike down the Paka Puchi!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

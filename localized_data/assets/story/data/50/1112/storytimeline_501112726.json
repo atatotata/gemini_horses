@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Daring Heart—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Wow! Look at that, Trainer!\nThere are so many cute girls!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Daring Heart pointed,\nthere was a crane game filled with plushies\ndesigned after Umamusume.",
+      "choice_data_list": [
+        "You really like Paka Petits, don't you?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, surprised?\nI don't play much myself, but I actually receive quite a lot as presents.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "And keeping it in my room like that,\nI've grown kind of attached to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's quite lovely, really,\nfeeling surrounded by so many children\neven after returning to my room.",
+      "choice_data_list": [
+        "Then let me give you a present too!",
+        "In that case, let me give you a present too!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Huh, but...",
+      "choice_data_list": [
+        "The more the merrier, right?",
+        "The more the merrier, right?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Trainer... You've got a point!\nWell then, let's see what you've got.\nGood luck!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

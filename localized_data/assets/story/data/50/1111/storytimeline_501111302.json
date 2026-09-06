@@ -1,0 +1,668 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "This happened on the way back from shopping with Air Messiah in the shopping district...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "A lottery... Come to think of it,\nwe received a ticket earlier, didn't we?",
+      "choice_data_list": [
+        "Since we have the chance, let's give it a try."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. I checked when I received it,\nand it looked like the expiration date was coming up soon anyway.",
+      "choice_data_list": [
+        "Messiah seems like the type who'd actually use something like that properly."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"...Are you referring to discount coupons and the like?\nLet's see—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I don't really have a strong desire for personal gain, but...\nbreaking a set deadline makes me uncomfortable.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "For limited-time lottery tickets or discount coupons,\nI make sure to use them all up without being wasteful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Back home, we even had a file for sorting coupons like these by expiration date.\n...Naturally, hand-crafted by Mother.",
+      "choice_data_list": [
+        "(Hmm, as expected of her...)"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Oops... Sorry, I got sidetracked. More importantly, we were talking about the raffle tickets.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "—Uncle.\nMay I have a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oh, care to give it a spin?!\nStep right up, step right up!",
+      "choice_data_list": [
+        "Do your best, Messiah!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Understood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Air Messiah carefully spun the handle of the raffle box.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "! Oh my—",
+      "choice_data_list": [
+        "A-Amazing! That's incredible, Messiah!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah, thank you very much.\nTo think I'd win the grand prize...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unbelievably, she actually won the overnight hot spring trip voucher! Talk about incredible luck!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "According to the brochure the shopping district folks showed me,\nit's surrounded by rich nature, making it seem like\na peaceful getaway—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For Air Messiah, who believes that\n\"rest should also be valued,\"\nthis should be a wonderful opportunity.",
+      "choice_data_list": [
+        "Go have fun with your mother and the others."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Let's see—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"...However, from the looks of it,\nthe expiration date seems to be quite far off.\"",
+      "choice_data_list": [
+        "Ah... I guess so?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "If that is the case, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Could you please hold onto this for a little while?",
+      "choice_data_list": [
+        "…Me?",
+        "...Me?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"So, once we've both calmed down a bit, let's use it together.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Rest is important.\"\nAfter all, that applies to you as well.",
+      "choice_data_list": [
+        "Messiah..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"...I apologize.\nI may have been a bit overly pushy just now—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "How do you feel about it, Trainer?\nLike, um—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Does taking a trip with me sound boring to you?",
+      "choice_data_list": [
+        "That's not true at all!!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Whoa?! Wh-What was that?!\nThat was one crazy loud shout, bro?!",
+      "choice_data_list": [
+        "Ah, excuse me..."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Whoa?! Wh-What was that?!\nThat was one crazy loud shout, sis?!",
+      "choice_data_list": [
+        "Ah, excuse me..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Heh, ahaha—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I'm sorry, I only meant it as a joke.\n...Though you shot it down\nmuch more forcefully than I expected.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"However—no.\nThank you very much.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...I am looking forward to it as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "My, this...\nlooks absolutely delicious.",
+      "choice_data_list": [
+        "How about having this for dinner tonight?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Hmm. That sounds good too, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Um, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Do you happen to be free\nthis weekend?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Phew... Trainer, can you hear it?\nThe babbling of the river is so soothing.",
+      "choice_data_list": [
+        "Yeah... It really puts the mind at ease."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"It is thanks to the alpha waves.\nBeing surrounded by the sounds of nature\ntruly seems to produce a profound relaxing effect.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Now then... Did all that hiking\nwork up a good appetite for you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "If it's alright with you,\nmay I unpack the bento now?",
+      "choice_data_list": [
+        "To think you prepared some for me too...!",
+        "You even prepared one for me...!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Fufu, please don't be so modest. Thanks to the hamburg steaks we won the other day, the main dish was already decided, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...If anything,\nit was more about fulfilling my own request.",
+      "choice_data_list": [
+        "A request?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. ...Actually, this mountain stream was a soothing spot I found recently, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I've been looking for the right opportunity to introduce them to you someday, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...How was that?",
+      "choice_data_list": [
+        "It totally soothed me!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I emphatically pressed my point. Things had been a bit hectic around New Year's, and I knew fatigue had been building up, but—",
+      "choice_data_list": [
+        "Ever since coming here, it vanished completely!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Fufu, is that so... That's wonderful to hear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Still, isn't that a bit too much praise?\nYou're exaggerating, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "How do I put this...\nBecause you're always like that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I feel like I've become a bit of a show-off lately...",
+      "choice_data_list": [
+        "Yeah, but Messiah is amazing, you know."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "No, but you see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "—...Geez.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"This is...\nquite a spectacular amount.\"",
+      "choice_data_list": [
+        "T-That really is pretty amazing."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Since we have it,\nit would be wonderful to put it to good use.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Hm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "“—And so,\nI would be honored if you would enjoy\nthis carrot dish.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yaaaay~~~!\nIt's handmade by Messiah-san~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "To think you'd invite Cheval and me, too. Was it really alright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes, after all, they are the elder sisters\nof Vivlos-san, who always takes such good care of me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "However—I have one request before you eat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Huh, a f-favor...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. Actually—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "All the menu items we're about to serve\nare things Trainer and I took a 'bold leap' to come up with.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I have always tended to stay within conventional boundaries...\nHowever, there are times when I wish to break free from them as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I gave it some thought for the sake of that training.\nSo—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I would like each of you sisters to check\nand confirm whether that degree of 'letting loose'\nwas truly appropriate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Huh... What!?\nU-Ummâ!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Aha, that's classic Meji-senpai~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Gotcha for now! ♡\nBring 'em on, keep 'em coming~!",
+      "choice_data_list": [
+        "(You can do it, Messiah...!)",
+        "(You can do it, Messiah...!)"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "That was sooo yummy~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes, really! The carrot glacé had such a rich, buttery aroma—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Uh-huh♪\nIts shape was kind of funny too, wasn't it?",
+      "choice_data_list": [
+        "(Oh...!)"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah, you noticed?\nIndeed, while decorative carrot garnishes are usually flowers—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "This time, to everyone's surprise, I boldly decided to go with... fish.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Y-Yeah, the fish... um,\nwere cute... ehehe.\nI ate quite a lot of it, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes, I was glad.\n...Um, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "How was that?\n...Did you feel it?\nThat, you know... sheer eccentricity...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...! U-Umm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "…………Um…………",
+      "choice_data_list": [
+        "(Ah, she's getting smaller and smaller right before my eyes...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...However, in any case, the party featuring\nthose mildly uninspired carrot dishes\nturned out to be quite a hit.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Just one... This looks like it'd make a nice snack.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Perhaps I shall slice them a bit thickly\nand turn them into veggie sticks.\nA lovely accompaniment for relaxing...\"",
+      "choice_data_list": [
+        "So after this, it's relax time, huh?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes, that was my plan once I got back to the dorms.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Ah, but... come to think of it, I believe someone\nmight have already reserved the dorm kitchen—\"",
+      "choice_data_list": [
+        "Want to use the cooking equipment in the trainer's office?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It was small, but it was equipped with at least a kitchen knife and cutting board.\nI told Air Messiah that if it was alright with her,\nshe was welcome to rest in the room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "My, is it really all right?\nThen, if you'll excuse me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I have a few preparations to make, so I'll\nreturn to the dorms first and visit you again shortly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Saying that, Air Messiah came from the dorms to the Trainer's office to enjoy some relaxing downtime.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What she hurriedly placed down\non the table in front of the sofa was—",
+      "choice_data_list": [
+        "...A scale...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...It even has a set of weights.\nNo doubt about it—though it's a distant memory, it's that\nvery same balance scale used in science experiments.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah, yes. It's a balance scale—my personal one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Have you ever heard the saying that\n'staring blankly at things with repetitive movements\nbrings peace of mind'?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "It's often said that 'watching a washing machine\nspin continuously brings peace of mind,'\nor things along those lines.",
+      "choice_data_list": [
+        "Ah... Maybe...?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Naturally, you can't watch a washing machine spin\nunless you actually do laundry, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "This balance scale is what I chose\nas a relaxation item\nthat I can use at any time.",
+      "choice_data_list": [
+        "（……？）"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Well then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seated on the sofa, Air Messiah used tweezers to pick up a weight and place it onto the balance pan lined with weighing paper. The scale creaked softly as it swayed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The scales swayed back and forth for a while, but as\nshe nibbled on a carrot stick and watched—they eventually came to a stop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Phew...",
+      "choice_data_list": [
+        "（……？？？）"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After carefully wiping her hands with a handkerchief,\nAir Messiah picks up the tweezers again.\nShe places a weight on the opposite scale pan—and balances it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Fufufu.",
+      "choice_data_list": [
+        "(...For now, it looks like she's relaxing.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Apparently, that's what happened.\n...I decided to just leave it at that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Oh my.........",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Indeed,\nI cannot say I am particularly lucky, however.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Even so, she shouldn't have had exceptionally bad luck...\nNo, in a sense, does this mean she achieved a result that's off the charts...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "No, but... if we were going to break through, I wish it had been in a positive way.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sounds of Earth",
+      "text": "*yawn*... *sigh*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...Oops, Trainer.\nExcuse me.",
+      "choice_data_list": [
+        "You didn't sleep well last night?",
+        "You didn't sleep very well last night, did you?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—Sì.\nHave you ever felt 'sound' coming from the moon?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "The moon last night was just like a vibraphone.\nWith a high, uptempo resonance and sparkle, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "It's only natural to be captivated by such a grand concerto... Whew.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Sounds of Earth couldn't get a solid night's sleep.",
+      "choice_data_list": []
+    }
+  ]
+}

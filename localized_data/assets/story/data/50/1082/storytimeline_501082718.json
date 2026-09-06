@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "North Flight",
+      "text": "Thanks to you, I'm completely back on my feet!\nI'll be in your care again starting today♪",
+      "choice_data_list": [
+        "You seem to be in good condition.",
+        "You seem to be in good condition."
+      ]
+    },
+    {
+      "name": "North Flight",
+      "text": "Yes! When you can rest, you must rest thoroughly!\nWithout pushing myself, I spent a relaxing time reading books and going on walks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "Also, I've been keeping a log of my meals and sleep,\nso I can show you if you'd like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she managed herself thoroughly even during the break.\nAt this rate, our upcoming training will surely bear fruit.",
+      "choice_data_list": []
+    }
+  ]
+}

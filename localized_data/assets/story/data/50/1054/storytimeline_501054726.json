@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Biko Pegasus...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Whoaaa!?\nLook, look! Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Biko Pegasus pointed, there was a crane game filled with plushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "It's Umamusume plushies!\nI wonder if they have ones of me or Bono!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "All riiiight!\nI'm definitely gonna get it!",
+      "choice_data_list": [
+        "I'm rooting for you! Do your best!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...Ah.\nThen again, maybe I'd better not.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "I just decided not to waste any money\nbecause I really want the Carrotman belt.\nSo, I have to stay strong...!",
+      "choice_data_list": [
+        "Then I'll win it for you instead!",
+        "Then I'll win it for you instead!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Wait, really?!\nYou're sure you want to leave it to me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "—Yeah, I'm counting on you, Trainer!\nI'll be cheering with everything I've got!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "Hmm... It is an unruly machine after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "However, please do not fret over it.\nI shall simply consider that it wasn't meant to be this time.",
+      "choice_data_list": [
+        "One more time!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No. That \"just one more time\" tends to accumulate,\r\nbreeding complacency and throwing off your entire schedule.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "\"Even so...\r\nI appreciate that you tried your best to win me a plushie, Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

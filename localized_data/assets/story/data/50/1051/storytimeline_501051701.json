@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nishino Flower",
+      "text": "～♪",
+      "choice_data_list": [
+        "Did something good happen?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes! The flowers I was raising bloomed so beautifully—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Hehe♪\nI'll show Trainer-san next time too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to something nice happening on her day off,\nNishino Flower seems to be feeling full of energy!",
+      "choice_data_list": []
+    }
+  ]
+}

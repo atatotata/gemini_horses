@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "*Yawn*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah... I'm sorry.\r\nYawning during training of all times.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I tucked myself in properly, but...\r\nI had a bit of a bad dream.",
+      "choice_data_list": [
+        "What kind of dream did you have?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Well, Gold Ship-san shoved me into a rocket...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ugh... Please, no more.\r\nJust remembering it sends chills down my spine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Haaah... Even though our break just ended,\r\nmy heart feels so heavy.\"",
+      "choice_data_list": []
+    }
+  ]
+}

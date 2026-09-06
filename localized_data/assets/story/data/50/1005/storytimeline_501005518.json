@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Right in the middle of our meeting\r\nwith Fuji Kiseki……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mm, ahem...\r\nSorry, my throat's feeling a bit off...",
+      "choice_data_list": [
+        "Are you okay? Is it a cold?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah...... This isn't a cold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Actually, I went to karaoke yesterday, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "They had quite a few obscure musical songs,\nso I just got super excited...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I got so into the stage mood,\r\nI ended up singing my heart out... *cough*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haaah... Getting carried away and paying the price\r\nis the same whether it's singing or racing, huh...",
+      "choice_data_list": []
+    }
+  ]
+}

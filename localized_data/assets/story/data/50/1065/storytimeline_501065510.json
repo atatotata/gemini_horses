@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking with Daitaku Helios and talking\nabout our plans for the future...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "\"Hey, if it isn't Flowercchi!\nWhat are ya up to?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ah, Helios-san!\nParent's day observation just ended, so I'm showing my parents around the academy right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Father",
+      "text": "Hello. Thank you for always taking care of my daughter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hey hey, nice to meetcha☆\nThe academy's super fun, so check it out♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Mother",
+      "text": "Yes, it's so vast and wonderful to see.\nI wonder what you'll show me next,\nFlower-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Fufu, over there next!\nIt's the flower bed I take care of for the Beautification Committee—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "—Huh!? The fence is broken...!\nThe way it snapped... it was rotten...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ah, the wind was super strong last night.\nBut the flowers look totally fine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes... But it's dangerous if we leave it like this.\nWe have to fix it right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "20 support beams and 30 wooden boards.\nTwine for tying and a hammer... yeah.\nI should be good if I take all this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Father",
+      "text": "Huh, do you really need that many?\n...Can't you just fix the broken part?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No, the wood around the broken part\nwas rotten too.\nIt's dangerous unless we replace all of it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Mother",
+      "text": "However, carrying this much...\nWhat if Flower-chan pushes herself too hard and gets hurt...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Alrighty!\nImma call the usual crew for now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Yaaay! Helios!\nI'm here to help out♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Yo, Flower-cchi!\nWhat's up, you need this carried over~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Huh, ah, um...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "With this many people, it's a piece of cake!\nWe'll be done in seconds!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Y-Yes! ...U-Um, could you carry everything\nover to where the big hollow tree is?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ayy ayyy!\nKeep 'em co-mingggâª",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The students gathered by Daitaku Helios\ncheerfully carried the materials.\nThey finished hauling everything in no time flat!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Thank you, everyone!\nThanks to you, we were able to carry them quickly!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Helios and the Regulars",
+      "text": "Yaaay☆ Totally not a problem!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Father",
+      "text": "...Knowing you, Flower, I was worried you'd try to shoulder everything alone.\nBut... you've got seniors you can count on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yeah, that's right...!\nEveryone's so nice, they're great upperclassmen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Like, we're besties!☆\nWhenever you're feelin' down, just gimme a ring, 'kay?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Mother",
+      "text": "Oh, my...! Everyone, I hope you will all continue to be good friends with my daughter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Of couuurse!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ehehe...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Well then, time to fix this up too♪ Demon speed!",
+      "choice_data_list": [
+        "Let's divide up the work and finish this quickly!",
+        "Let's use tools to work more efficiently"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Okey-doke! Let's do this, everyone~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "Waaaay☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Flower's Father",
+      "text": "Maybe we should help out too.\nFlower, what should we do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Th-Then, I'll give\neveryone instructions...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "C'moooon! Let's blow 'em away~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "By splitting up the work, the fence was fixed in no time.\nHaving seen it through, Daitaku Helios looked so proud and happy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Roger! I'll go look for something!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Is this... an excavator?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Yup☆ Borrowed it from the janitor!\nSo, how do ya use it?",
+      "choice_data_list": [
+        "It's dangerous, so I'll do it instead."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "As expected of Trai-pi! So reliable, whoooo~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to the excavator, setting up the fence went quickly.\nI made sure to shower Daitaku Helios with praise\nfor a job well done!",
+      "choice_data_list": []
+    }
+  ]
+}

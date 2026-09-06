@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After returning from the race—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...*sigh*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, I'm sorry.\r\nSighing like that—",
+      "choice_data_list": [
+        "Are you tired?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"...I'm fine.\r\nSomething of this degree poses no problem.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"To reach the top...\nthis is just another wall I must overcome.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Even so, it's clear she's exhausted. I might need to reconsider Grass Wonder's upcoming race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

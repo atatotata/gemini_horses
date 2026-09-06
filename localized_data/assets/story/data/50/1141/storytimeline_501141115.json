@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Epiphaneia",
+      "text": "Trainer!",
+      "choice_data_list": [
+        "Whoa!? ...What happened?",
+        "Whoa!? ...What's wrong?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Next week is the Asahi Hai Futurity Stakes, right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The Asahi Hai FS is a Junior-tier GⅠ race.\nIt is held the week before Epiphaneia's goal,\nthe Hopeful Stakes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I'll be there to watch, so count on me! See ya!",
+      "choice_data_list": [
+        "Epi!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...It's like a whirlwind. Since the Asahi Hai FS wasn't\na target to begin with, watching it is\nfine. However—",
+      "choice_data_list": [
+        "(Could there be... someone she likes?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And then,\nat the end of afternoon training that day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Trainer, thanks for everything today too!\nGreat work!",
+      "choice_data_list": [
+        "Good work. Alright, let's review—"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ah!\nThe logo!!!!",
+      "choice_data_list": [
+        "—...can wait until later.",
+        "—...can wait until later."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "At the end of where Epiphaneia had dashed off to,\nthere stood an Umamusume. She was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Ah... Epi-san's Trainer.\nThank you for your hard work~",
+      "choice_data_list": [
+        "Good work, Logo."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She is Logotype. A peer of Epiphaneia's,\nan honest yet cheerful Umamusume.\nHer personality is quite different from Epiphaneia's, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Logo, you were watching, weren't you! My training! I know you were!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Yes, of course I was watching~.\nIt was so glamorous, I couldn't take my eyes off it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Right!?\nI knew you'd say that, Logo!",
+      "choice_data_list": [
+        "(Seems like she's used to this...)"
+      ]
+    },
+    {
+      "name": "Logotype",
+      "text": "Well, it's true! You've been in the spotlight ever since your Debut, haven't you, Epi?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Flashiness really is\nimportant too, huh~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "You've got plenty of flair yourself!\nYou're dazzling, Logo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"I just know it!\nYou're definitely going to win the Asahi Hai FS!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "!\n...Thank you very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Alright, as for me...\nI guess I'll just keep doing what needs to be done~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Logotype isn't evaluated that highly at the moment. She probably senses that general atmosphere from the public as well.",
+      "choice_data_list": [
+        "(But Epi seems... pretty convinced.)",
+        "(But Epi seems... pretty convinced...)"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ah, that's right! If you just execute everything you've worked on, you can win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "And—you have what it takes to \"do it right.\" So everything will definitely be okay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"The voice of destiny says so too!\nAt this point, you've got no choice but to believe in me!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Ahaha.\n...Thank you very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Yeah, that's the spirit!\nI'll definitely be there to watch you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...! I hear a voice!\nI'm heading out now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "...There they go.\nMan, they're always so full of energy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Besides... you're very kind.\nEven now, you're doing your best to encourage me when I'm so nervous.",
+      "choice_data_list": [
+        "......Were you nervous?",
+        "......Were you nervous?"
+      ]
+    },
+    {
+      "name": "Logotype",
+      "text": "My emotions don't really show on my face...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "Well, a GⅠ is a huge stage, after all.\nIt's only natural that you'd tense up a bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "\"Still, thanks to you, I've completely relaxed~. ...Epi-san is always like this, though.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"‘It's okay! You can make it look perfect!\nIt's going to be a wonderful standing signboard!\nThe voice of destiny says so too!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "—Do you have some kind of sensor\nthat sniffs out people's sorrow and anxiety?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Logotype",
+      "text": "When Epi-san is around, it brightens my heart.\n...Trainer-san, do you know what I mean~?",
+      "choice_data_list": [
+        "...Yeah, I understand.",
+        "...Yeah, I understand."
+      ]
+    },
+    {
+      "name": "Logotype",
+      "text": "\"...I'll do my very best in the Asahi Hai FS.\nWell then, I shall take my leave.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What kind of race will Logotype run—the one Epiphaneia holds in such high regard...? Let's watch the Asahi Hai FS to find out.",
+      "choice_data_list": []
+    }
+  ]
+}

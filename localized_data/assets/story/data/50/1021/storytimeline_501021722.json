@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "Ah, what the heck. Ow, that hurts.",
+      "choice_data_list": [
+        "What's the matter...?",
+        "What's wrong...?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "\"My head's been throbbing since this morning.\r\nI wonder if someone's gossiping about me...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Wait, what the heck!\r\nThat's a sneeze!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "\"...Ow-ow-ow. Shouting makes my head pound.\nI can't even play the straight man like this...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Tamamo Cross was plagued by a headache for a while, and tried to hold back on her retorts.",
+      "choice_data_list": []
+    }
+  ]
+}

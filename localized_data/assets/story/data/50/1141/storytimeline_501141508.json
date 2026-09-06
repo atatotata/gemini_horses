@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened when I was having\na meeting with Epiphaneia—",
+      "choice_data_list": [
+        "This time, we'll focus on improving stamina—"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—I see!",
+      "choice_data_list": [
+        "? So I was going to try out the new equipment too—"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—I've got it!",
+      "choice_data_list": [
+        "Um, in other words—"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—Got it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps she's exhausted; despite her energetic replies, it feels like nothing is getting through to her.\nI should probably reconsider our upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

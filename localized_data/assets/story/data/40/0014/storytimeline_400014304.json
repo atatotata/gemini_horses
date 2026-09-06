@@ -1,0 +1,216 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "With the Ramen Jamboree approaching,\nI came to scout a well-reputed shop in pursuit of even tastier ramen, but—",
+      "choice_data_list": [
+        "...You look anxious, huh?",
+        "...You seem a bit uneasy?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "U-Um... Investigating their deliciousness\n...wouldn't that make us 'spies' in the eyes of the shop...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"If our true goal gets exposed...! We really need to be careful with how we approach this...!\"",
+      "choice_data_list": [
+        "You don't need to worry that much..."
+      ]
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "......Just the two of you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hyoe!?",
+      "choice_data_list": [
+        "Th-there are two of us...!"
+      ]
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "…………\n...What are you eating?",
+      "choice_data_list": [
+        "With miso ramen..."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh, umm, umm, umm...\nS-Swish! And!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "...Miso ramen, and...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "—...It's salt, isn't it?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y-Yeees! With salt, pleaaase!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Th-The shop owner is so intimidating...!\nI-If she finds out what we're here for...\nshe might turn us into menma...!",
+      "choice_data_list": [
+        "Don't worry, that won't happen..."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "D-Do you really think so...? Well then...\nLet's pull ourselves together and scout out the kitc—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "(Glance...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hyawaa!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ah, that was close...!\nThey almost caught me checking the chicken bones for the broth...!",
+      "choice_data_list": [
+        "(Surely at least that much is forgivable...)"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Wait, h-huh? Where's the shopkeeper?\nWhere did—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopkeeper Behind",
+      "text": "...Cold water!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"Hyaaah!? I-I didn't see anything!!\nDidn't see didn't see didn't see none none none—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(CRASH!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Aaaah, did I spill the water?!\nI'm sorry, I'm sorry, I'm so sawwy!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "!? Don't move!!!!\nThe ice will make you sli—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hyoeeeeee~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uuuugh... I ended up putting on a terrible figure skating show\nright inside the shop...!\nThe shopkeeper must be so angry with meee...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Forget scouting, at this rate it feels like I just came here to be a nuisance... Ugh, I'm so sorry...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "...Hey.\n...Here's some tea.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Feh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...!\nI-It's delicious~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "...Dunno why, but you seemed\npretty nervous back there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Intimidating Shopkeeper",
+      "text": "\"...Now you should be able to understand the taste of ramen.\nHere... miso ramen and salt ramen.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...!\nS-Shopkeeper...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I-I will gladly...\npartaaake of thiiiis!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Huuuhm, that was delicious...!",
+      "choice_data_list": [
+        "That turned out to be a fruitful investigation.",
+        "That turned out to be some great research."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hai-ee. I was startled at first, but looking back now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "The text on the menu was large and easy to read, and the napkins and condiments were neatly restocked... It was filled with such subtle, thoughtful care.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Besides, not just the dining tables, but the entire kitchen as far as the eye can see is sparkling clean.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "It looks scary at first glance, but...\nthe more you look at the shop,\nthe more you can feel the owner's warm personality~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"I want to go again. I want to eat there again.\nThat kind of thoughtful hospitality that makes you feel that way――\nthat's another secret to its deliciousness!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yes—it's the spirit of hospitality!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I've decided! The mindset I learned today...\nI'm surely going to put it to good use in the Way of Ramen!",
+      "choice_data_list": []
+    }
+  ]
+}

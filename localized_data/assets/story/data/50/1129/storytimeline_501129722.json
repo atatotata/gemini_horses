@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as we were about to begin\na meeting in the trainer's office...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Oof!\nOw-ow-ow...",
+      "choice_data_list": [
+        "Is your head aching?",
+        "Is your head hurting?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Yes... Just a little since this morning.\nWhen this happens, even the lighting hurts my eyes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Excuse me, please pardon me for a moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That's a bit better.\nNow, let's start the meeting.",
+      "choice_data_list": [
+        "...If it's that tough, shall we do it another time?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thank you for your concern.\n...However, today's meeting is crucial for the\nupcoming race, is it not?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I'm taking my medicine, so I'm sure it will get better. I'd be glad if you let me continue like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Almond Eye headed into the meeting\nwhile battling a headache.",
+      "choice_data_list": []
+    }
+  ]
+}

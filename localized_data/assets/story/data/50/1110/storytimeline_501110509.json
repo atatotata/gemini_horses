@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is supposed to be pool training, but—",
+      "choice_data_list": [
+        "Um... why the track suit?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Huh...?\nAh... I wonder why...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "I left my things in the locker room...\nand came straight here.",
+      "choice_data_list": [
+        "...Change of plans. Let's stick to classroom study for today."
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "\"...Sigh.\nUnderstood.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even though it's training, she lacks focus.\nPerhaps fatigue has built up from back-to-back races.\nWe might need to review her schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

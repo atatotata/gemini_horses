@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The Senior Year summer training camp is finally starting.\nAs for Inari One—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Word is Oguri and the others are starting up in earnest after the summer training camp.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "I've gotta make the most of this training camp\nto build up enough strength to beat those guys.",
+      "choice_data_list": [
+        "This is gonna be a grueling training camp!",
+        "This is gonna be a tough training camp!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Get outta here! If I'm aimin' for the top,\nthat's a given!\nIf it'll make me stronger, I'd gladly run through hell!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The scorching training camp was about to begin...!",
+      "choice_data_list": []
+    }
+  ]
+}

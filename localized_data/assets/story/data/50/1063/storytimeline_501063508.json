@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "During our meeting, I noticed a transparent container\nsitting beside Ikuno Dictus.",
+      "choice_data_list": [
+        "Does that mean...?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "\"Ah, these are honey-marinated lemons.\nThey are effective for aiding fatigue recovery, so I prepared them.\n...Would you care for some as well, Trainer?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "*nibble*... Mmm... It's delicious.\nThat sweet and sour flavor slowly spreads...",
+      "choice_data_list": [
+        "Yeah, it really hits home..."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Fufu, we ended up finishing it in one go, didn't we?\n...I hope this helps soothe both the race fatigue and your tiredness, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...More fatigue from the race seems to linger than expected.\nIt might be best to review the schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After our outing,\nwhile walking through town with Epiphaneia—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Hey! That ramen shop over there has a crazy long line!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "It must be super delicious! Let's get in line too!\nThe voice of destiny is telling us to do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "This ramen shop is often featured on TV and social media, and the taste is undeniably good, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Quiet Customer",
+      "text": "Water check, soup spoon check, paper apron check. Seated.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Headband-wearing Customer",
+      "text": "Veggies, extra fat, flavor strong, with extra extra garlic.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...The atmosphere is all tense,\nlike the underground tunnel before a race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Indeed, this shop is famous not only for its flavor, but also for its notoriously strict, unspoken rules against disturbing order.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "They've even got a toppings menu!\nMilk, curry powder, yuzu pepper, and\nwhole narutomaki... Huh, looks interesting!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "...To the customer with the Triple Crown noodle portion, would you like garlic with that?",
+      "choice_data_list": [
+        "(Here they come...! Gotta get the order right without messing up...)"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Extra extra veggies, extra fat, extra extra garlic!\nAnd throw in all the toppings!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "…………！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Quiet Customer",
+      "text": "The Triple Crown...\nDo you have any idea how huge of a portion that is...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Headband-wearing Customer",
+      "text": "Mixing all the toppings together like that... isn't that considered heresy?\nWhere's the respect for the craft...?",
+      "choice_data_list": [
+        "W-Wait, are you really sure about that!?",
+        "W-Wait, are you really sure about that!?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I decided I wanted to eat it! And the voice of destiny says it's all good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "Here you go, thanks for waiting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Whoaaa! Look at that, it's piled so high!\nAll right, let's dig in!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "*Munch, munch*... SO GOOOOD!\nThe noodles are so chewy, the meat is fall-apart tender, and the whole naruto goes so well with the curry powder!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Quiet Customer",
+      "text": "No talking is the unwritten rule here, right...?\nWhat a daredevil...!",
+      "choice_data_list": [
+        "Y-You need to eat a little more quietly..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "No! This is my way of showing gratitude to the shopkeeper!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "If it's delicious, you gotta let them know!\nEven the voice of destiny is telling me to share the joy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "This is super delicious, Chef!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Phaaah! I ate so much!\nThank you for the feast!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "\"...Hey there, customer.\nWhy did you order that?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Extra extra veggies, extra fat, extra extra garlic.\nAre you talking about the Triple Crown with all toppings included?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Looking at the menu on the wall\ngave me a flash of inspiration!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "They're promoting it so prominently!\nThat means the shop owner really wants people to eat it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "And then, the voice of destiny gave me a push too!\nIt really was so delicious!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "...I see. To think you'd actually\nchant that call for me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "\"Truth is, it's something my mom used to whip up with whatever was left in the fridge when I was a kid.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "“Still, people treat it like some unspoken rule\nthat it's heresy to pair those together.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "No, it'll definitely become a trend! The voice of destiny gave me a boost, saying this is delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Owner",
+      "text": "The voice of destiny, huh.\nAll right. I'll choose to believe in it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Yeah!\nThanks for the food, I'll be back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Quiet Customer",
+      "text": "Huh... Ah—\nThose toppings were your actual recommendation...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Headband-wearing Customer",
+      "text": "Next time I come, maybe I'll try ordering that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Haha, it's been ages since I ate that much!\nWhat a great experience!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Whether it was coincidence or fate, I cannot say.\nYet she undeniably managed to find\nwhat the manager was looking for.",
+      "choice_data_list": [
+        "There's never a dull moment when we're together",
+        "Can you guess what I'm thinking right now?",
+        "Can you guess what I'm thinking right now?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Whether it was coincidence or fate, I cannot say.\nYet she undeniably managed to find\nwhat the manager was looking for.",
+      "choice_data_list": [
+        "There's never a dull moment when we're together",
+        "Can you guess what I'm thinking right now?",
+        "Can you guess what I'm thinking right now?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ahaha!\nHey, I had a lot of fun today too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Seeing Trainer slurping ramen so contentedly...\nThat's not something you get to see every day!",
+      "choice_data_list": [
+        "When you put it that way again, I feel kind of shy..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Why are you getting shy!\nShow me again, come on!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I don't know!",
+      "choice_data_list": [
+        "Th-to put it so bluntly..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ahaha! But it's true!\nI'm not a psychic!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "So tell me about yourself!\nBecause I want to get to know you more and more!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When Duramente didn't show up for training,\nI searched around and found her in the library.",
+      "choice_data_list": [
+        "Duramente, how's training going...?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "!? I'm sorry...!\nI was so absorbed in my book, I didn't notice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I was reading an astronomy magazine and inadvertently...\nstarted pondering... the vastness of the universe.\nLetting my consciousness drift far, far beyond the infinite reaches...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I'm truly sorry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Duramente seemed genuinely remorseful.\nI cautioned her to be more careful from now on.",
+      "choice_data_list": []
+    }
+  ]
+}

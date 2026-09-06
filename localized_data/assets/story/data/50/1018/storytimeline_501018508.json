@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Groove",
+      "text": "Haaah...",
+      "choice_data_list": [
+        "Are you feeling tired, by any chance?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Don't underestimate me.\r\nI won't be worn out by something of this level.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "More importantly, we'll discuss the issues from this race\r\nonce we're back at the academy... Now go.",
+      "choice_data_list": [
+        "Aren't you heading home together?",
+        "Not heading home together?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "I will... head back after cooling down.\r\nI'll catch up shortly, so go ahead back to the academy without me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She claims she isn't tired,\r\nbut she certainly doesn't look it.\nIt might be best to reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

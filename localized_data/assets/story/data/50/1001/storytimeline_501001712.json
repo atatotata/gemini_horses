@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Special Week didn't show up for training, and I was finally able to reach her in the evening――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "I'm so sorry I couldn't make it\r\nto training...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Actually, Suzuka-san has a race today...\r\nI just couldn't resist going to watch it, so here I am...!!",
+      "choice_data_list": [
+        "Well, watching is a learning experience too."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Trainer...!\r\nUgh, thank you so much.",
+      "choice_data_list": [
+        "Did you learn anything from Suzuka's running?",
+        "Was Suzuka's running helpful?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Veeeery! I really don't think anyone\r\ncould ever copy that big breakaway of hers—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "If \"nobody can imitate it,\"\r\nthen won't it be useless as a reference...?\nDespite thinking that, I listened to her story anyway.",
+      "choice_data_list": []
+    }
+  ]
+}

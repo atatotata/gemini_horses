@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "Ooh, not bad at all.",
+      "choice_data_list": [
+        "This is for you.",
+        "Here, this is for you."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, are you sure you want me?\r\nSeems like any other girl would be way happier with this.",
+      "choice_data_list": [
+        "I want to make you happy",
+        "I hope it makes you happy!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ehhh... like I said, it's totally out of character for me.\r\n...Well, not that I'm unhappy about it, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Alright, alright, I get it.\r\nI'll take it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

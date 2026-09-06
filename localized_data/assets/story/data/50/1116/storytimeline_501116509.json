@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I was working late refining the race schedule, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "We've both been overworking ourselves lately.\nYou, and me too.",
+      "choice_data_list": [
+        "Ah...! Gentil..."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "If you cannot discern when to wield your power,\nyou are no mighty warrior—merely an unruly beast—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"How about we both give ourselves some leeway?\nIf you have any thoughts, would you care to share?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gentildonna scolded me.\nConsidering my accumulated fatigue,\nI should probably revise my upcoming schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

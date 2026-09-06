@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Rice Shower—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah...",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "U-Um, that crane game...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Rice Shower was pointing,\r\nI saw a claw crane game filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Since everyone's been turned into plushies,\r\nI got a little curious...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe, so cute.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though reserved, Rice Shower's\r\neyes are sparkling with excitement.",
+      "choice_data_list": [
+        "I'll get it for you.",
+        "I'll get it for you."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh... Are you really okay with that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I'm worried about Rice's bad luck, but...\nI'll be cheering for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as I was wondering why Ines Fuujin hadn't shown up for training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "I'm sorry... It got so late on me.",
+      "choice_data_list": [
+        "What's up with you today?",
+        "What's wrong today?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Actually, my bike got a flat tire, and fixing it made me this late...\r\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "I always seem to pop my front tire.\r\nMaybe I'm leaning too far forward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Anyway, I'm super sorry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though her tardiness was beyond her control,\r\nI made sure Ines Fujin understood the need to reflect on it.",
+      "choice_data_list": []
+    }
+  ]
+}

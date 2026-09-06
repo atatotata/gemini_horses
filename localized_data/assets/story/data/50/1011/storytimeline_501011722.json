@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While walking down the hallway, I heard Grass Wonder's\r\nvoice coming from inside the nurse's office.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Thank you very much for the medicine.\nWell then, excuse me~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah... Trainer.",
+      "choice_data_list": [
+        "Are you feeling unwell?",
+        "Are you feeling unwell?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, I'm fine. It's just a tiny, throbbing headache—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ngh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Fufu, oh dear.\r\nIt seems the medicine is taking a while to kick in~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Grass Wonder seems to be suffering from a headache.\r\nI might need to be a little extra considerate...\"",
+      "choice_data_list": []
+    }
+  ]
+}

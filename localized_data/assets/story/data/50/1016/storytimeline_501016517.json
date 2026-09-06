@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while walking through the central\r\nplaza with Narita Brian...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Whoa?!",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...A shadow, huh?\nHow misleading...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You saw that just now, didn't you?",
+      "choice_data_list": [
+        "Well, a little..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch, this is the absolute worst...",
+      "choice_data_list": []
+    }
+  ]
+}

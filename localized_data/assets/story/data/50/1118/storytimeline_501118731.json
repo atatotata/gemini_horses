@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Groove",
+      "text": "...So, why am I the one being made to hold this?",
+      "choice_data_list": [
+        "You can have it—I had fun, so I'm satisfied!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I'll give it back—\nNo, on second thought, I'll take it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "\"You'll just force it on me even if I refuse...\nI'd rather not waste time on this back-and-forth.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

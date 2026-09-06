@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "When I went to the rooftop during lunch break,\r\nMeisho Doto was standing there...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Buuurp... I-If I drink this much,\r\nit should definitely get rid of the sluggishness...",
+      "choice_data_list": [
+        "Doto...?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Heeek!? T-T-T-Trainer-san!? This energy drink is, um, well—",
+      "choice_data_list": [
+        "That's a sports drink, y'know?",
+        "That's a sports drink, you know?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Huh... Whaaaat!?\r\nI didn't even realize I drank this much~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Her head must not be working from all the fatigue;\r\nthere are empty plastic bottles all around her feet...\nPerhaps we should reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

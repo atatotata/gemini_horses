@@ -1,0 +1,315 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On the way home from an outing with Buena Vista—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "The sky is... getting cloudy.\nIt might start raining soon.",
+      "choice_data_list": [
+        "Shall we hurry on home?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah, getting soaked would be terrible.\nLet's go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...It ended up raining after all.\nAt least we managed to find shelter for now.",
+      "choice_data_list": [
+        "It's probably just a passing shower, so let's take a break."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Huh, really? Thank you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Buena Vista has disliked the rain ever since she was a little girl.\nAnd even now, that hasn't changed—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Buena",
+      "text": "Ugh...\nAnd here we had a special outing planned, Big Brother.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Buena",
+      "text": "Ugh...\nAnd here we had a special outing planned, Big Sister.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Buena",
+      "text": "The road and my clothes are all soaking wet...\nIt's so cold, and I feel so lonely...",
+      "choice_data_list": [
+        "Are you lonely? ...Why?"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "\"...I don't know. But I don't want to.\nIf Boo-chan gets wet from the rain or snow,\nhe gets all sad and droopy...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "While sheltering from the rain, we reminisced.\nThough it was about when she was very young... it seems\nhow she feels about the rain hasn't changed a bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Even now, I still don't really know why...\nI just couldn't control this overwhelming\nfeeling of loneliness no matter what.",
+      "choice_data_list": [
+        "Everyone has things they're not good at, so—"
+      ]
+    },
+    {
+      "name": "",
+      "text": "I encouraged Buena Vista, telling her she didn't need to force herself to overcome it, hoping to lighten her load.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, but is your work okay?\nYou probably have things to do back at the office,\nso maybe we really should head back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm all grown up now, so getting a little wet won't hurt me at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Indeed, there's plenty to do.\nI want to analyze the data on our upcoming races\nand tailor training routines to match.\"",
+      "choice_data_list": [
+        "Still, we've got enough leeway to wait for rain."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You're as kind as ever.\nBut that's exactly why I want to change!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I want to do my best to overcome it someday,\nso that getting soaked by rain or snow won't bother me at all—",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Oh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I see, I totally get it. Lots of girls get all sentimental on rainy days!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Normally I'm totally hunky-dory even in the rain, but...\nsometimes I remember those lonely days and feel a little wistful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh? You too, Maruzen-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yes, but you know, there's a saying:\n\"After the rain comes bright sunshine!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Even if something totally bogus happens, it'll lead to a nice future!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Because no rain lasts forever.\nBesides, if you think back really carefully,\nthere must have been plenty of wonderful memories, too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Buena",
+      "text": "Ugh... I feel so lonely...",
+      "choice_data_list": [
+        "If you're lonely... I'll always stay by your side.",
+        "If you're lonely... I'll always stay by your side."
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big Brother did...?",
+      "choice_data_list": [
+        "I'll stay with Buena until she's not lonely anymore."
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big Sister did...?",
+      "choice_data_list": [
+        "I'll stay with Buena until she's not lonely anymore."
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Really...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Buena",
+      "text": "Until the rain stops...\nwill you stay by Bu-chan's side?",
+      "choice_data_list": [
+        "Ah, it's a promise!",
+        "Yeah, it's a promise!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yes... That's certainly true.\nIt wasn't just painful memories...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Big Brother made me... such a kind promise.\nSo why did I end up forgetting it?\"",
+      "choice_data_list": [
+        "It kept raining for a while after that, after all..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Big Sister made... a sweet promise with me.\nSo why did I end up forgetting it?",
+      "choice_data_list": [
+        "It kept raining for a while after that, after all..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I-I see...\nUgh, maybe my lonely feelings just got the better of me... Sorry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Fufu. Looks like the rain has stopped.\nMaybe I should head home with Tacchan too!",
+      "choice_data_list": [
+        "Maruzensky, I have a favor to ask!",
+        "Shall we head back, Buena!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Judging by the weather forecast website checked on my smartphone, even if it's clear now, there's no telling when it might start raining again. So—",
+      "choice_data_list": [
+        "Buena, would you come with me to see them off?",
+        "Buena, will you come with me to see them off? "
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh!?",
+      "choice_data_list": [
+        "It might rain again, so... please!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"All right, leave it to me☆\nBuena-chan, shouldn't we take into account his feelings for you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"All right, leave it to me☆\nBuena-chan, shouldn't we take into account her feelings for you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...See ya.\nUm... Trainer, you take care too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Hey, Buena-chan.\n...What a wonderful childhood friend he is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Hey, Buena-chan.\n...What a wonderful childhood friend she is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yes...\nThat person always gives me strength.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Besides, thanks to Maruzen-san's story,\nI think I might be able to push through rainy days...\njust a little better than before.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu!\nA hunky-dory ending, isn't it♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Ufufu. You two get along so well, it's wonderful.\nWell then, I shall take my leave first.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Thank you so much for today.\nPlease get home safe!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yes, ba-bye☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...The sky after the rain is so pretty, isn't it?",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm glad we could go out today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Being able to talk with Maruzen-san\nand remember our old promise—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Even on rainy days, maybe now...\nI won't feel quite as lonely as before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "The promise we made that rainy day...\nThis time, I'll never ever forget it.",
+      "choice_data_list": []
+    }
+  ]
+}

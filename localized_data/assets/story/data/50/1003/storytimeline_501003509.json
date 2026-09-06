@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After the race, Tokai Teio returned\r\nto the waiting room, but...\nshe wasn't her usual energetic self.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Haaah...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mmm, why is that...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Running is fun, and getting praised\r\nfor winning makes me happy, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"I just can't seem to stop sighing, you know~?\r\nI wonder what's gotten into me...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Perhaps due to running in consecutive races,\nTokai Teio seems to be quite exhausted.\nIt might be best to reconsider the upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

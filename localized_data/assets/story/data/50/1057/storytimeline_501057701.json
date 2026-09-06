@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mr. C.B.",
+      "text": "Ah!\nMorning, Trainer!",
+      "choice_data_list": [
+        "You're quite full of energy.",
+        "You're quite full of energy."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Yeah!\nProbably thanks to the hammock I've been using.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "The size is just right, and it feels like it gently\nwraps around you when you sleep, I suppose?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "When I saw it in the shop, it just clicked, like 'This is it!'\nAnd it was just as good as I thought!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mr. C.B.'s intuition is as sharp as ever.\nThanks to that, it seems my fatigue has completely vanished!",
+      "choice_data_list": []
+    }
+  ]
+}

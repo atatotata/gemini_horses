@@ -1,0 +1,401 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One evening, while walking through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, Trainer! Perfect timing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Could you pull for me instead?! I have to go to my part-time job now!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A piece of paper is pressed tightly into my palm.\nLooking closely at it...",
+      "choice_data_list": [
+        "...A raffle ticket?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Yup! The one to aim for is 2nd prize: a whole mountain of carrots!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "The line is over there! I'll leave the rest to you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the direction Ines Fuujin pointed, a long line of families returning from shopping had formed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": [
+        "(Let's aim for a good award...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Using the raffle ticket Ines Fuujin handed me, I enthusiastically spun the lottery wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": [
+        "Ooh...!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Eeeh~~~~?! \nPeople can actually win the grand prize~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Share some of that luck with me!\nNext time I get to try, I'll be the one\nwinning the grand prize, just watch!",
+      "choice_data_list": [
+        "Huh, this hot springs ticket is...?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Oh, I'm giving that to you.\nYou went through the trouble of winning it, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Taking a cut out of the blue\nfeels a bit much, honestly.\nHurry up and stash it back in your pocket.",
+      "choice_data_list": [
+        "But it was yours to begin with...",
+        "But it was yours to begin with..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "It's fine, just accept it graciously!",
+      "choice_data_list": [
+        "No, I can't do that."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ehh~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "*wheeze*~... *pant*~...\nTrainer, would you please\njust hurry up and take it...!",
+      "choice_data_list": [
+        "Wait, this is...!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahhh, got it!\nThen I'll do this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "This hot spring trip ticket is on hold for now! We'll go when the time is right. Got it?",
+      "choice_data_list": [
+        "Understood...!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Phew~... That settles that issue, nano.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...I'll just leave it in this room for now.\nWhenever you feel like using it, it's all yours, okay~?",
+      "choice_data_list": [
+        "Me too, Aines!",
+        "Me too, Aines~!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Geez.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "......What a hopeless person.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": [
+        "It's 1st prize!!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Welcome!\nHow many—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Trainer!?\nDid you come to eat ramen today, too!?",
+      "choice_data_list": [
+        "No, no, I actually won 1st prize!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Amaaazing, it's carrot hamburg steak!\nAre you really sure I can have it?",
+      "choice_data_list": [
+        "Of course!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Thank you~!\nI think I'll eat it after my shift!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Or rather, Trainer. Did you really come all the way\nto my part-time job just to deliver this?",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "......Ahaha.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Tomorrow would have been fine, too.\nYou're actually pretty cute sometimes, you know.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the first-prize carrot hamburg steak was handed over to Ines Fujin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A cardboard box packed full of carrots.\nI've managed to carry it to the front of the student dorms for now, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "(Grrr~...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "(Grrr~...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Ugh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Oguri Cap squeezed her eyes shut every time her stomach growled.\nCould her hunger have finally reached its absolute limit...?",
+      "choice_data_list": [
+        "(What would Agnes do at a time like this...)"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh, Oguri-san.\nDid you get hungry?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Fufu, here, I'll share some with you.\nI don't have a lot, so keep it a secret from the others, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah~ but cooked food tastes better\nthan raw ingredients anyway. Shall I\nwhip up something quick before handing it over?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "…………。",
+      "choice_data_list": [
+        "Um..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"...So that's why you're treating me to hot pot.\nI was surprised when you suddenly messaged me,\nasking me to 'come to the trainer's room after work.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ines...!\nYour Trainer's food is delicious...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"My Trainer is super capable, you know!\nWell then, I guess I'll partake in the feast too~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the cardboard box full of carrots\nvanished completely into their stomachs\nover the course of a single night...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Just one, huh~\nWell, it is a raffle, so I guess that's how it goes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "“Thanks for humoring my sudden request, though!\nThe raffle ticket expired today, so I'm glad\nit didn't go to waste!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Let me know next time you have leftover raffle tickets, Trainer.\nI'll gladly draw them for you!\"",
+      "choice_data_list": [
+        "Could something like that really happen...?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Definitely!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Maybe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, after handing Ines Fujin the carrots,\nI headed home.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": [
+        "It's a miss...!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hallo hallo~, Trainer!\nAbout the raffle tickets I gave you yesterday—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Wait, aren't you looking kinda down?\nYou've had zero energy since this morning!\"",
+      "choice_data_list": [
+        "Actually, I drew a dud in the raffle..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh!? No way!?",
+      "choice_data_list": [
+        "S-Sorry!!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Huh, no no no, that's not it!\nI had no idea you were down\nover something like that...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah... I should be apologizing to you.\nSaddling you with such weird responsibility...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I ended up making Ines Fuujin worry unnecessarily as well...",
+      "choice_data_list": []
+    }
+  ]
+}

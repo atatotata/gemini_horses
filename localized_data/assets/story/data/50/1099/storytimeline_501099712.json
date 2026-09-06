@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Hokko Tarumae hasn't shown up for training.\nAfter waiting a while—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I-I'm sorry! Thank you for waiting!",
+      "choice_data_list": [
+        "Why were you late?",
+        "Why were you late?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ugh, the truth is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"I only meant to do a short livestream,\nbut I ended up getting so many comments...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I am so, so very sorry...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since Hokko Tarumae deeply reflected on her actions, I decided to let the matter rest.",
+      "choice_data_list": []
+    }
+  ]
+}

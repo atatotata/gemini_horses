@@ -1,0 +1,269 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gentleman",
+      "text": "Oh, is that Lady Fine over there?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "You are...! It's been a while.\nNot since we met in Ireland, right?",
+      "choice_data_list": [
+        "And who might this be?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "She's in charge of diplomatic affairs in Japan.\nShe was also a great help when making arrangements for studying abroad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentleman",
+      "text": "Meeting like this must be fate. We happen to be hosting a buffet party at my home shortly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I am grateful for your invitation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "However, that is not something\nI can decide on my own discretion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentleman",
+      "text": "Oh, I see.\nTrainer, what do you think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentleman",
+      "text": "It's a casual gathering with no dress code.\r\nAs long as it fits both of your schedules...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...To be honest, I am nervous.\nRemembering our past outings that went poorly,\nI worry whether I'll end up causing trouble for her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "But—more than that.\r\nAs her Trainer and no one else,\nthis time, I want to be there for her...!",
+      "choice_data_list": [
+        "Let's definitely join in, Fine!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...You're right.\nWould you mind showing me the way, then?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentleman's Wife",
+      "text": "Oh, Lady Fine...!\nIt has been quite a while. You have grown into a wonderful young lady.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Good day. I am so glad to see that\nMadame is doing well as ever, too.",
+      "choice_data_list": [
+        "(S-So bright!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I knew it already, but her nobility in a formal setting\nis beyond words. Compared to her, my sense of not\nbelonging eats away at me. But—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Customer",
+      "text": "I hear you are the lady's Trainer?",
+      "choice_data_list": [
+        "Y-Yes...!"
+      ]
+    },
+    {
+      "name": "Customer",
+      "text": "I really wanted to speak with you. Given your current track record, what kind of path do you intend to walk with them from here on out...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"This time, I'm going to step up and act\nlike her trainer for real...!\"",
+      "choice_data_list": [
+        "Regarding that—"
+      ]
+    },
+    {
+      "name": "Customer",
+      "text": "I see, there are training methods like that too!\nMy niece is an Umamusume, you see. She just loves to run... Would you mind if I took some notes?",
+      "choice_data_list": [
+        "Yes, go ahead."
+      ]
+    },
+    {
+      "name": "Customer",
+      "text": "No, that was a very intriguing discussion.\nI hope to speak with you again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I managed to pull through somehow...\nTaking advantage of a lull in the conversation to slip away, I decided to take a break with Fine Motion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Good work~ ...Wait, huh?\nWere you more nervous than you let on?",
+      "choice_data_list": [
+        "This time, I wanted to be of help to you..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yeah, yeah! I think you did great.\nEveryone was complimenting me, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "But still... there's something that made me waaaay happier than the party being a success♪",
+      "choice_data_list": [
+        "...And what might that be?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"...It's that you worked so hard for my sake.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Even when you carefully gathered hints and helped me with the puzzles so that I could enjoy solving them—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Like when she took the lead to make sure everyone had fun,\nwanting it to become a wonderful memory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "You've been working hard right by my side this entire time.\nA hard worker like you might say that's not true, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "This pounding heart is the answer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Seeing you like that makes me so proud...\nIt makes me want to work even harder together with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Will you keep doing your best alongside me?",
+      "choice_data_list": [
+        "Likewise!",
+        "As you wish.",
+        "O-okay... I'll try even harder...!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu, that's the spirit.\nThat's my Trainer for ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Just kidding♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Customer",
+      "text": "Lady Fine, would you care to tell us\nmore about your Trainer over here?",
+      "choice_data_list": [
+        "...Shall we go, Fine?",
+        "...Let's get going, Fine!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yep♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Standing side by side with her, we returned to the circle of people.\nI resolved in my heart that I would keep walking\nalongside her from this spot going forward...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "! ...Fufu, so that's how it is, huh?\nIn that case, I will—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I have received your heartfelt spirit.\n...Please, allow me to express my gratitude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Even when I return to my distant homeland,\nall the glorious memories made in Japan will never fade\n—none of this would be possible without your devotion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"I look forward to your continued devotion.\n...My Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her noble voice makes me straighten my back.\nTo ensure her days remain brilliant,\nI will continue to support her...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With those feelings held deep in heart, a low bow was offered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha! You're really tensing up~.\nDon't push yourself—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "—No, that will surely\nbe a learning experience for us too... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Just like always!",
+      "choice_data_list": [
+        "...Ah!",
+        "...Yeah!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Heh-heh-heh~, what kind of impossible request should I make~?",
+      "choice_data_list": [
+        "G-Go easy on me... alright!?",
+        "G-Go easy on me... okay!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Her smile deepened at the words that had slipped out, yet a gentleness seeped through her expression...\nWatching her brought a comforting sense of peace.",
+      "choice_data_list": []
+    }
+  ]
+}

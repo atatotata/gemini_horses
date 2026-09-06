@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Training was over. When I visited the chairwoman's office on an errand, Tazuna-san was still working.",
+      "choice_data_list": [
+        "Please don't push yourself too hard, okay?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fufu. Thank you for your concern!\nHowever—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Seeing how hard <chrname> was working\njust naturally inspired me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please leave the operations of the \"Ramen Jamboree\" to me.\nI'll make sure it's carried out to perfection, without a single flaw!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems her sincere attitude earned quite a bit of praise!",
+      "choice_data_list": []
+    }
+  ]
+}

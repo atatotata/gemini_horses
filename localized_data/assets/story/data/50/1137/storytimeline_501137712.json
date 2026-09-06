@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kiseki",
+      "text": "Mmm, for this part of the story... I want it to feel like \"A formidable foe appears!\", but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Aha! Wait a second,\nif I bring out that demon who appeared in Episode 13...\nOh, ohooo~! Oh man, am I a genius or what?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Paint it, world of Kiseki—\"The Created Fantasy\"!\nOnce my brush starts moving, nothing can stop itttt!!",
+      "choice_data_list": [
+        "Kiseki, so you were here...! I've been looking for you!",
+        "Kiseki, so you were here...! I've been searching for you!"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Huh? ...T-Trainer!?\nWhoa, how did it get so late already...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I gave Kiseki a stern reprimand for getting completely carried away and forgetting about training.",
+      "choice_data_list": []
+    }
+  ]
+}

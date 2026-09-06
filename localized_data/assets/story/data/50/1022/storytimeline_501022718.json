@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "Good morning, Trainer!",
+      "choice_data_list": [
+        "Did you have a good day off?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yeah!\nI served Irish black tea to my friends,\nand we cooked traditional dishes together~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "The colcannon I made was a huge hit!\nNext time, I'll make some for you too, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I'm not quite used to cooking yet,\nbut I can serve this with total confidence!",
+      "choice_data_list": [
+        "If you get the chance, definitely."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu, it's a promise then♪\nTell me what you think after you eat it, okay!",
+      "choice_data_list": []
+    }
+  ]
+}

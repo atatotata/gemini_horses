@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "(WAAAAH!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Wait...! W-Wasn't she incredible?\r\nThat tiny girl!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "Mm-hmm-hmm! That late surge was insane, right?! What was their name again—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "“Narita Taishin”...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"On the grand stage of a GⅠ race,\nNarita Taishin delivered an outstanding result!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The way the public looks at her seems to be gradually changing, too...!",
+      "choice_data_list": [
+        "Nice going, Taishin!",
+        "You did it, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...It's too early to celebrate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I mean, the next one is the real deal, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"The first race of the Triple Crown route, the Satsuki Sho.\r\n...I will definitely claim it!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Together with Narita Taishin, whose fighting spirit blazed bright,\r\nour days preparing for the Satsuki Sho finally began...!",
+      "choice_data_list": []
+    }
+  ]
+}

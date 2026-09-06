@@ -1,0 +1,525 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Some time had passed since summer training camp began.\nTraining with Epiphaneia starts in the early morning—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Good morning, Trainer!!",
+      "choice_data_list": [
+        "Good morning. You're full of energy in the morning too.",
+        "Good morning. You're full of energy in the morning too."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Of course!\nMorning, noon, and night—I'm full of energy all the time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"My head is clear, and I can do anything!\nAlright, let's start training!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She diligently works through all the special summer camp routines.\nThen, taking some time in the afternoon—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "――……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ooooooh!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Brilliant, Shion, you look just like a fairy!\nSo supple and beautiful!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Eeeh~? How many times are you gonna say that~~?\nJeez~~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Alright, let's start the lesson!\nToday, we're gonna master that movement from earlier!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Being conscious of the power flowing through her entire body and controlling that explosive force—for that purpose, she was learning how to move her body through ballet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Well then, Trainer.\nReady to go?",
+      "choice_data_list": [
+        "Yeah, I'll be fine...!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Then,\nposition number 2, please.",
+      "choice_data_list": [
+        "Whoa... there...! Ow!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hmm, your body's still pretty stiff.\nLet's put a little more effort into stretching!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "How did I end up taking ballet lessons too?\nThat goes back to right after the lesson started—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Since the goal this time is to learn how to use your body through ballet, we're gonna thoroughly drill the basics!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Epi-san, have you ever seen a ballet?\nEven just a video or whatever works.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "There is one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I had friends around me who took ballet lessons, so I got invited to recitals pretty often.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I love performances that use the whole body!\nI still go see them even now!",
+      "choice_data_list": [
+        "(Epi really is a proper young lady from a good family, huh...)"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "So, you get the gist of ballet movements then.\nBasically, I'm planning to thoroughly repeat\none single movement over and over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Eventually, you'll start to understand how your body moves from the inside, and through that, you'll perceive the flow of power.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Yeah!\nNice to meet ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Alright, hold that pose!\n...Man, your core really is great. You've got great flexibility too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "You're just not mindful enough all the way to your fingertips.\nPut your strength in with a supple touch...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Supple and graceful!!",
+      "choice_data_list": [
+        "Probably haven't managed it, huh...",
+        "Probably haven't managed it, huh..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Argh! I just can't help tensing up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Honestly, Epi-san,\nyou're totally not cut out for ballet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah, I'm not trying to say it's sloppy!\nBut isn't there a better training method?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Don't worry! I can do this!! \nThe voice of destiny says so too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Above all, Trainer told me\nthat this is what I need right now!",
+      "choice_data_list": [
+        "Epi..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I've decided to believe, and their voices gave me a push!\nSo I'll do it, I'll see it through to the end!\nI'm counting on you, Shion!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...Well, since I took the job,\nI'm more than happy to teach you, though!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Epiphaneia believes in my training regimen and is working hard at it.",
+      "choice_data_list": [
+        "(Can't I be of more help, too...?)",
+        "(I wonder if there's any way I could be of more help, too...?)"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "—Ah, yeah, yeah, like that.\nA bit more like... threading a string through your fingertips...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Like this?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Wait, you're clenching your fists!\nMan, teaching someone is so hard...",
+      "choice_data_list": [
+        "...Shion, could you tell me first?",
+        "...Shion, could you tell me first?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "To Trainer?\nSure, I don't mind, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "—That's it, lookin' good, Trainer!\nThat's exactly what I mean by being aware of your fingertips!",
+      "choice_data_list": [
+        "Thank you, in other words..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Internalizing what I learned from Win Variation. And then, translating it so Epiphaneia can understand—",
+      "choice_data_list": [
+        "Imagine balancing a droplet of water on the tip of your middle finger."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "!\nI see, so like this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Whoa...! That really changed things!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "As expected of Epi-san's Trainer.\nI'd never be able to come up with phrasing like that.",
+      "choice_data_list": [
+        "Can I join the lesson, too?",
+        "Mind if I join the lesson, too?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I know best what words and actions will reach Epiphaneia.\nIf we take lessons together, I should be able to support her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Oooooh!!\nSo I get to learn alongside Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "One person, two people, makes no difference to me, so I'm totally fine with it. But... wouldn't that just be exhausting for you?",
+      "choice_data_list": [
+        "It's fine! I'm in your hands!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, starting the next day, I began taking ballet lessons with her, supporting her by breaking down the movements so Epiphaneia could understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "—Well then, Trainer.\nI'll leave the translation to you.",
+      "choice_data_list": [
+        "Imagine placing a jewel just below your navel!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Like this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yeah, your core is totally aligned now!\nIt feels way better than before!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Even so, I feel like I need a bit more finesse,\ny'know? Like being conscious down to the very last\nsingle nerve...\"",
+      "choice_data_list": [
+        "Delicately..."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Ah, look at the time.\nLet's wrap it up here for today!",
+      "choice_data_list": [
+        "Thank you very much!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Alright, time for solo training!\nI'm gonna learn to be delicate!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Then a lesson where we can stay keenly aware of every single movement would be best.\nIf so, I really want to emphasize the basics.\"",
+      "choice_data_list": [
+        "An adagio lesson that requires strength",
+        "A variety of port de bras that take real guts"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Adagio refers to performing a sequence of movements in a slow, fluid tempo. You use your muscular strength to maintain posture and meticulously control your movements.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Got it, let's do this!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Slowly...\nOne by one...",
+      "choice_data_list": [
+        "(...So beautiful.)",
+        "(...So pretty.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "To an untrained eye, Epiphaneia's movements as she focused looked dynamic and beautiful.\nShe is steadily evolving—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"...Yes!\nAlright, you're next!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Port de bras literally translates to 'carriage of the arms.'\nIt means executing designated movements without losing arm posture.\nEnduring it will cultivate fine awareness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Got it, I'll give it my all!\nI know I can do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "—If it's me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"I CAN DO IT!!!!\nWOOOOOOOOO!!!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though her expression and voice were boisterous, her form held completely steady.\nThere wasn't a hint of clumsiness in her movements.",
+      "choice_data_list": [
+        "(She's steadily evolving—)"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"...Yes!\nAlright, you're next!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Oh, right!! Let's put on some music!\nIt'll be way more fun that way♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Then dance to the music!",
+      "choice_data_list": [
+        "H-Hold on! It can pop!?",
+        "W-Wait! It can pop!?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"I can play it!\nI took lessons, after all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "When it comes to classic ballet, it's gotta be music in triple meter! In that case...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "…………♪",
+      "choice_data_list": [
+        "(Whoa... ...Delicious!!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I'm reminded once again of just how incredible\nEpiphaneia's upbringing was...\nAnd as we practice, time slips away—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Whew, good work today—\n...Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Trainer!\nOver here!!",
+      "choice_data_list": [
+        "Epi!? (My muscles are killing me, though...!)",
+        "Epi!? (My muscles are so sore, though...!)"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "It's festival time!!!!",
+      "choice_data_list": [
+        "Ooh...!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I've got a feeling something fun's gonna happen!\nDestiny really does love me after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Trainer, let's play!\nFirst, superball scooping, then takoyaki, yakisoba, and the shooting gallery!!",
+      "choice_data_list": [
+        "Momentum!!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Yes!!\nEvery single shot hit!!!!",
+      "choice_data_list": [
+        "As expected, that's amazing!!",
+        "As expected, that's amazing!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "We enjoy various festival stalls to her heart's content.\nEpiphaneia truly is exceptional—\nno matter what she tries, she picks up the knack in no time.",
+      "choice_data_list": [
+        "(…And yet, it's because of me—)",
+        "(...And yet, because of me—)"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...Even though it was... the Derby.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...Trainer?",
+      "choice_data_list": [
+        "...About the Derby, I'm sorry."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I wasn't able to give her the result she wanted.\nI will never forget that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And her feelings, still placing her trust in me\neven after all that...",
+      "choice_data_list": [
+        "Thank you for believing in me once more."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I'll always believe in you.",
+      "choice_data_list": [
+        "――！"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I am loved by fate!\nThat's why everything that happens around me\nhas to have a meaning!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I'm certain of it, Trainer.\nThe Kikuka Sho—everything we've done so far has been to win there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Just like the Satsuki Sho was for Logo, my stage is—the Kikuka Sho!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"The voice of destiny says so too!\nAll you gotta do is believe that, too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "At the Kikuka Sho, you're going to...\nbroaden my destiny! Am I right?!",
+      "choice_data_list": [
+        "...Ah, absolutely!",
+        "...Yeah, without fail!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...Without thinking, I gripped the letter of resignation hidden in my breast pocket. Someday, I will tear this up and throw it away—I will make sure she wins.",
+      "choice_data_list": []
+    }
+  ]
+}

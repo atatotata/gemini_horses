@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daring Heart",
+      "text": "...I'd like to go to the mountains.",
+      "choice_data_list": [
+        "That's pretty sudden."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "In a mountain lodge... I felt like sitting by the fireplace.\nWith a big white dog by my side, of course.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Rocking in an armchair while toasting marshmallows to eat.\nHehe, that sounds like so much fun...",
+      "choice_data_list": [
+        "Heart, are you okay?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Did I say something strange just now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daring Heart seems so exhausted that she's\non the verge of trying to escape reality.\nIt might be time to rethink her upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

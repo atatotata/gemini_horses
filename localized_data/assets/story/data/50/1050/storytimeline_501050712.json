@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Narita Taishin didn't show up even though it was time for training,\r\nso when I went looking for her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"...Another easy win! The arcade version isn't really that different from the app, huh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Alright!\r\nI'm gonna keep this win streak going!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah! I lost again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Who the heck is this \"Wagahai-chan\"?!\r\nDarting around all over the place since earlier...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Our skills seemed pretty evenly matched, though...\nDamn it, next time I'm definitely taking the win!",
+      "choice_data_list": [
+        "Um, Taishin... what about training?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh? ...Wait, is it that late already?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "......Sorry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I accepted her apology\r\nand warned her to be more careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

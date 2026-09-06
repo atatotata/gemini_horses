@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cheval Grand",
+      "text": "Ah... Um, well...",
+      "choice_data_list": [
+        "How pathetic..."
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I-It's alright.\nThis was meant to be practice anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "It comes down to positioning, arm strength, and a bit of luck.\nSkill alone won't guarantee a catch—\nwhich is kind of like fishing... wouldn't you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"Let's take our revenge again...!\nIf it's you, Trainer-san, you'll definitely improve...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

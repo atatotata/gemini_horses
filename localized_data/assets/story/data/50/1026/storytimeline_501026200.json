@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "At last, it's time for Mihono Bourbon's\nDebut Race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…………。",
+      "choice_data_list": [
+        "Getting nervous?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "—Initiating scan. Heart rate and blood pressure are both normal.\nStatus estimated as 'Relaxed.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "In other words, I am not \"nervous.\" If necessary, I can execute \"nervousness.\" Would you like to place an order for it?",
+      "choice_data_list": [
+        "No, I'm okay!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "She looks calm and composed, just as usual, which puts me at ease.",
+      "choice_data_list": [
+        "Go run with everything you've got!",
+        "Go out there and run your heart out!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Order received.\nExecuting: \"Run with all my might.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Well then, I'm heading out, Master.",
+      "choice_data_list": []
+    }
+  ]
+}

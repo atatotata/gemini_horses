@@ -1,0 +1,122 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I brought an injured Durandal\nto the nurse's office.",
+      "choice_data_list": [
+        "How's your injury doing?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "There is no need for concern.\nIt is only a slight pain.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "However...",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "...Trainer-dono.\nCould you at least allow me\nto do my daily routine training?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Daily discipline is vital for swordplay.\nIf you neglect your devotion,\nyour body will forget the movements ingrained within it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Running is the same.\nI do not wish to dull this explosive power forged through training by resting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Please, I entrust this to you\nto maintain the \"Holy Sword's\" sharpness.",
+      "choice_data_list": [
+        "Training can wait until your injury is fully healed.",
+        "If it won't make you overdo it..."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "However...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Taking a short break won't dull her instantaneous acceleration.\nAnd that's because—",
+      "choice_data_list": [
+        "Your body remembers, so you'll get your feel back in no time"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Trainer-dono...!\nWhat deeply honoring words...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Understood.\nIn that case, I will focus entirely on my recovery.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Thank you very much.\nNow, let us head to the track.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Durandal began with a lighter routine, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngh...!",
+      "choice_data_list": [
+        "Durandal…!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "...How careless of me. To misjudge her condition like that...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I am terribly sorry.\nI shall rest for a little while longer...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal's injury has worsened.\nIt seems like it will take some time for her to fully recover...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, when Durandal tried starting with a light routine...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Phew...\nThere don't seem to be any issues.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "With this,\nthe Holy Sword's edge will surely not dull.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal went through her daily routine at a reasonable pace,\naiming for her comeback.\"",
+      "choice_data_list": []
+    }
+  ]
+}

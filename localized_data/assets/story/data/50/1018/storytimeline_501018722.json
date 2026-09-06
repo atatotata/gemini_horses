@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I was explaining the training routine to Air Groove, but she didn't seem to be feeling well at all...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"It's nothing... pay it no mind.\r\nContinue your explanation.\"",
+      "choice_data_list": [
+        "You don't look so good.",
+        "You don't look so good."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Aargh, I told you I'm fine, didn't I?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ouch...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "My apologies. How careless of me...\r\nI've had a terrible headache lately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "I'm feeling strangely irritated... *sigh*",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Groove seems to be suffering from a headache...",
+      "choice_data_list": []
+    }
+  ]
+}

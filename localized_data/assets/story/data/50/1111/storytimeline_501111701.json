@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "\"—On the last day of vacation, I watched a movie.\nIt was a fine piece of cinema centered around family bonds.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"\"I have compiled my thoughts and analysis of the movie into a document and attached it.\nI would appreciate it if you could read it in your spare time.\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I opened the attached file from the email.\nA formal document appeared, and as I scrolled through reading it...",
+      "choice_data_list": [
+        "Th-There are over 10 pages...!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Good morning, Trainer-san.\n...Could you perhaps be reviewing the attached documents?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I got a bit carried away while putting my thoughts to paper.\nI hesitated for a moment on whether I should actually send it, but...",
+      "choice_data_list": [
+        "I'm glad. I'm just happy you had a nice break."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "! Yes...!\nBoth my body and soul feel rejuvenated. Fufu...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I'll reply to the essay comments later, but—\nit seems Air Messiah thoroughly rested\nher mind and body over the break.",
+      "choice_data_list": []
+    }
+  ]
+}

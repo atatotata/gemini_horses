@@ -1,0 +1,77 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The summer training camp season has arrived once again this year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Phew! We're finally here!\nAaah... the fresh air out here tastes delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "\"This really is a nice place.\nSpacious, refreshing, and so comfortable.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ah! There you are, CB-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "We're rooming together this year, right!\nLet's have a great year, CB-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "So that's what happened.\nYeah, I look forward to working with you too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Well then.\nSee you later!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, heading out already?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Yeah, I was wondering if that tanuki nest I found last year was still there.\nThere were babies too, and they were so cute.",
+      "choice_data_list": [
+        "(A-A tanuki nest...?)"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Totally rad~! You know about that stuff?\nAs expected of CB-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ahaha, you're in surprisingly\nhigh spirits today, Maruzen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Geez, I'm just tickled pink to room together!\nCome on, it'll be a total bummer if we get caught!\nLet's skedaddle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before anyone could stop them, the two happily ran off to search for a tanuki den...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "All in all,\nand so the summer training camp began.",
+      "choice_data_list": []
+    }
+  ]
+}

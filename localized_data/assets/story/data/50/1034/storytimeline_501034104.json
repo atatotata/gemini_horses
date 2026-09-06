@@ -1,0 +1,337 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "As summer camp reached the halfway mark,\na night walk was organized as part of\nthe camp's recreational activities.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though called a \"night walk,\" it was practically a test of courage contest, and I ended up getting involved as a chaperone...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh...\nIt kinda gives that classic summer vibe...\nPretty nice, ain't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Ghost or whatever, bring it the hell on, dammit!",
+      "choice_data_list": [
+        "...Are you bad with scary things?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "\"D-Don't talk nonsense!\nWho do you think I am?!\nThere ain't nothing in this world that scares Lady Inari!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Just you watch, I'll be back in no time with room to spare!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Staff Umamusume",
+      "text": "—Well then, we're gonna draw lots for pairs,\nand you'll be making a round trip\nfrom here to the destination and back~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Inari One's partner turned out to be Tamamo Cross, a Kansai-born Umamusume renowned for her fierce competitive spirit and explosive closing speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Normally, both of them are cheerful, energetic,\nand the dependable type who others rely on, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—L-Like hell I care! I know you're shaking in your boots! If you wanna run home with your tail between your legs, now's your chance, Tama!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "N-Nonsense, Inari!\nWhy don't you hurry back to your room,\nwrap yourself in your futon, and bawl your eyes out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh...! You can talk all you want, but aren't your legs shaking?\nIt's totally obvious you're just bluffing...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ha...! Look who's talking! Isn't your own voice trembling?\nActing tough ain't foolin' nobody...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Nghhh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Grrr...!",
+      "choice_data_list": [
+        "Aren't you two scared—"
+      ]
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "I ain't scared!\nNot scared one bit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Staff Umamusume",
+      "text": "“—Next up, the pair of Inari One and\nTamamo Cross will be departing~!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Both of their expressions are slightly stiff,\nso I tried to think of some advice to ease their fear,\nand what came to mind was—",
+      "choice_data_list": [
+        "Shouting loudly will take your mind off it.",
+        "It's best to walk briskly."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Y-Yeah, that might actually be good every now and then!\nFeel free to yell as loud as you want anytime!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Aah?! That's my line!\nYou're the one who should be glad\nI'm letting you yell louder than usual!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the two loudly set off—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—O-Ohoho! Now ain't this quite the atmospheric forest!\nNice, cool, and feels damn good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y-You got that right!\nIt's real quiet and calm, honest!\nAaah, so relaxing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Rustle, rustle, rustle...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Hk...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Chatter chatter chatter...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Hyaah...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Wha, what's your problem, Tama!\nDon't let out such a ridiculous shriek!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y-You're the one who sounds like she's about to burst into tears, Inari!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Fwhooooosh......!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Aaaahhh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "What's the big deal?!\nYou got quite the loud voice there, Tama!\nGuess you're totally freakin' out after all, huh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Shut up!!\nYou're the one yelling so loud my ears almost died!\nJeez, seriously, having a scaredy-cat around is bad for my heart!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Rustle, whoooosh!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Aaaaahhh!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "*pant*... *pant*...\nF-Finally made it back, huh...â",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "*gasp*... *pant*...\nI-I thought my throat was gonna give out...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "......Oh, Tama.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "…………Inari.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Let's just... let bygones be bygones for tonight...\nLet's just... let bygones be bygones for tonight, okay...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Inari One and Tamamo Cross shared a secret summer memory together...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Did you hear that, Tama?! Fine, I guess I'll\nkeep you company on your speed-walk!\nYou'd better be grateful!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Aah?! That's my line!\nI'm keeping up with your front-running pace,\nso you should be thanking me, Inari!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the two briskly set off—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—O-Ohoho! Now ain't this quite the atmospheric forest!\nNice, cool, and feels damn good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y-You got that right!\nIt's real quiet and calm, honest!\nAaah, so relaxing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Rustle, rustle, rustle...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Hk...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Chatter chatter chatter...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Hyaah...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Wha, what's your problem, Tama!\nDon't let out such a ridiculous shriek!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y-You're the one who sounds like she's about to burst into tears, Inari!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Fwhooooosh......!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heh, heheh...\nIt's fine, Tama.\nYou go right ahead and run away as fast as you can...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hah, that's enough of your cheek...!\nI know full well that you wanna turn tail\nand run right outta here too...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Noise",
+      "text": "(Rustle, whoooosh!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Nnnrgh!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "*pant*... *pant*...\nEven I'm... worn out from that...â",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "*pant*... *wheeze*...\nI really went and gave it everything I had...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "......Oh, Tama.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "…………Inari.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari & Tamamo",
+      "text": "Let's just... let bygones be bygones for tonight...\nLet's just... let bygones be bygones for tonight, okay...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Inari One and Tamamo Cross shared a secret summer memory together...",
+      "choice_data_list": []
+    }
+  ]
+}

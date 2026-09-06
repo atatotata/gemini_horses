@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, as Wonder Acute and I were walking\ndown the hallway on our way to training...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ow, ow, ow...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "...My head hurts a bit, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "\"Hey, hey, you'll be fine.\nJust stick a pickled plum on your temple and it'll cure right up.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Go on ahead to the track. I'll catch up soon. ...Ow ow ow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Wonder Acute is suffering from a headache...",
+      "choice_data_list": []
+    }
+  ]
+}

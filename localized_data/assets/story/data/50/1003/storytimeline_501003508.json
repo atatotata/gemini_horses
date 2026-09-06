@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After the race concluded...\r\nTokai Teio let out a deep sigh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hey, Trainer!\r\nI'm super hungry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "I really want some snow-aged carrot steak\nand additive-free carrot juice right now!",
+      "choice_data_list": [
+        "Right this second is a bit..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Eeeh! No way, no way! I'm starving,\r\nso do something about it~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "And・moreover~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"I'm working this hard, so praise me more~!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Tokai Teio is acting unusually selfish and fussy.\r\nShe must be thoroughly exhausted.\nPerhaps I should reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

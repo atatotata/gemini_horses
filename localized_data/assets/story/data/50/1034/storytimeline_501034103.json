@@ -1,0 +1,23 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The Summer Training Camp finally begins today!\n...However, Inari One was slated to run\nin the Japan Dirt Derby.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh, the training camp sounds fun and all,\nbut right now I just can't wait for\nthe Japan Dirt Derby.",
+      "choice_data_list": [
+        "Let's get some results and head back to the training camp, alright?",
+        "Let's get good results and head back to the training camp, okay?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hell yeah!\nJust you wait, Oi Racecourse!",
+      "choice_data_list": []
+    }
+  ]
+}

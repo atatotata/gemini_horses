@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Haa... Somehow, even more than usual...",
+      "choice_data_list": [
+        "Creek, you don't look so good..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh my, I'm sorry for making you worry.\r\nI'm fine, really. It's nothing serious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "It's just that she seems to be getting tired\r\nmore easily than usual...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ah, it's not your fault at all, Trainer!\r\nI'm sure it's just that I got a little too carried away~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Super Creek is smiling, but something is clearly off. It might be best to reconsider her future race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

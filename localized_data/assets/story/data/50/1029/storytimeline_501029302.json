@@ -1,0 +1,486 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from shopping with Yukino Bijin, as we passed through the shopping arcade...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Aya!\nTrainer, look at this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"A hot spring trip sounds wonderful!\nI absolutely loooove them!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Man, I'm really curious...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Come to think of it, when I went shopping earlier,\nI received a single lottery ticket.",
+      "choice_data_list": [
+        "Wanna draw one?",
+        "Wanna draw one?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Are ya really sure!?\nWell then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yukino Bijin, heading out now!\nPlease cheer for me, yes please!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yukino Bijin eagerly\nturned the handle of the lottery machine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Wh-wh-wh-what?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "T-Trainer-san!\nA h-ho, hot spring trip!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Aaah, amazing!\nI-I'm starting to shake for some reason...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I've never won a grand prize like this before in my life...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I've really done it nowww...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "O-Ohh... I've been running this raffle for years,\nbut I've never seen someone so deeply touched before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Because it's the grand prize, you know!? The grand prize! An onsen trip...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Haaah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yeah, gotta keep it\nsafe and sound.",
+      "choice_data_list": [
+        "You're putting it away?",
+        "Are you putting it away?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes!\nAfter all, this is a crucial time for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I think I'll save it as a reward.\nThat way, I feel like I can rest more peacefully.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I'll look forward to it\nand give it my all from here on out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Gaaah! That's really impressive.\nI'll be rooting for you too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "!\nThank you so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "～～♪",
+      "choice_data_list": [
+        "Are you that happy about the hot springs?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah!\nOf course I'm happy, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hearing you say you'll support me makes me so happy!\nNo matter how many times I hear it, it's pure bliss.",
+      "choice_data_list": [
+        "Let's take a bunch more."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes.\nThat way, taking a dip in the hot springs will feel extra good too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Gotta make sure you get plenty of rest to shake off all that fatigue too, Trainer.\"",
+      "choice_data_list": [
+        "...Hm? Me too?",
+        "…Huh? Me too?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Eh, ah!?\nAh, wait, did I just...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Waaaah...\nTh-This is so embarrassing...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"B-Because I've been with you for so long, Trainer... I just assumed...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I wanna curl up in a hole and hide!\nNo, just let me start diggin' one right now!",
+      "choice_data_list": [
+        "...Alright, then it's a promise.",
+        "...Alright, then it's a promise, okay?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Y-Yeees...\nI'm so sorry, thank ya so much...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, we decided to save the hot springs trip\nas a reward for all our hard work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Wah, it looks delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "At our house, hamburger steaks\nare a special treat for big occasions!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "There's a super famous hamburger steak place, and my family and I used to go there all the time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "There were so many toppings, it was super fun.\nThey even had pineapple on top and stuff!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "When my little sister grew up and could eat solid food,\nthe first time we went to a restaurant together,\nI picked out all kinds of things for her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Seeing you eat it so happily\nmade me happy too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……。",
+      "choice_data_list": [
+        "...Shall we go buy some pineapple?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, we returned to the academy\nand had a pleasant chat while eating the customized Salisbury steaks together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ooh~! What a bountiful harvest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Think you can carry that home?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Of course!\nLeave it to me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "âHup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ooooh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yukino Bijin casually hoisted a huge stack of\ncardboard boxes, carrying them on the way back\nwith absolute ease—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"—Whew,\nwe've arrived!\"",
+      "choice_data_list": [
+        "Good work today."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Nope.\nThis is way lighter than hauling farm tools.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "Whoaaaa...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "I've been watching you the whole time!\nYou're insanely strong!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "Hey, how do I get super strong?!\nTell me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "What?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hm, hmm~...?\nHmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Like, eating carrots, maybe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "Eeeh, but I hate carrots!\n...Though, if it'll make me stronger...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "Give me one!\n...I'll try eating it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes!\nDo yer best out there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Just one, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...That's it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Um, I have a favor to ask, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ehehe,\nI'm glad you grilled it for me!",
+      "choice_data_list": [
+        "Incredible, it's so piping hot and fluffy."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yeah, it's super delicious!\nYou gotta try some too, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Chomp...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "What do you think?",
+      "choice_data_list": [
+        "Sweet and delicious!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Right?! One of the villagers\ntaught me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I'm glad to share such\na delicious way to eat it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Gaaah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Tissues, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I'm so sorry.\nEven though you were looking forward to the hot springs so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah, no, please!\nYou don't have to apologize, sir...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ugh, I made them apologize...\nYukino, you dummy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yukino Bijin seemed more disappointed about\nmaking the shopping district folks apologize\nthan missing out on the grand prize...",
+      "choice_data_list": []
+    }
+  ]
+}

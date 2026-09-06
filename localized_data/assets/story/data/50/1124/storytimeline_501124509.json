@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer, ya got a quick sec?",
+      "choice_data_list": [
+        "You sound really stuffed up... Are you okay?"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ah, my bad, my bad.\nWell, as you can see, I've got a terrible stuffy nose.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nine times out of ten, the cause is the back-to-back races lately.\nLike the fatigue just hasn't worn off yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "I know we've got important races back-to-back.\nBut I'd really love to have a proper break somewhere in between.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bubble Gum Fellow seems to have accumulated quite a bit of fatigue.\nWe should reconsider her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

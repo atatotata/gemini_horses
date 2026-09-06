@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Orfevre",
+      "text": "...Do you have an excuse?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Clerk",
+      "text": "I-I am so terribly sorry. Due to an ordering error on our end,\nour usual tea leaves haven't arrived, and our stock has run dry...\nI sincerely apologize!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Making the King come in person and wasting our time.\nShould such disrespect occur again—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Clerk",
+      "text": "I-I-I-I'm so sorry! N-Never again...\nI-I will formulate a proper plan for the future and report back, so please, have mercy, I beg of you~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfevre tried to enjoy some tea at an antique café for a change of pace, but it seems she didn't have a very good time...",
+      "choice_data_list": []
+    }
+  ]
+}

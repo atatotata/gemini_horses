@@ -1,0 +1,484 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While out shopping with Verxina\nfor training supplies—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Ah... Please look.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "A lottery, you say?\nHow nostalgic...",
+      "choice_data_list": [
+        "You look... pretty happy.",
+        "You seem... happy somehow."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "I was just reminiscing a little.\nAbout how I used to take on these challenges with my younger sisters.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Vivlos",
+      "text": "No! I'm not going home till I get first prize!\nI want the sparkliest ooooone!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Cheval",
+      "text": "......A miss again...\nWhy am I the only one who always loses... *sob*, ugh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Verxina",
+      "text": "\"Vivlos, you can spin Big Sis's turn too.\nCheval... come on, over here.\nLet's ask Mama for some meat buns, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Trainer,\ndid you get a raffle ticket\nwhen we went shopping earlier?",
+      "choice_data_list": [
+        "Yeah, just one ticket.",
+        "Yeah, just one shot."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Then please, allow me to try.\nIt's been a while, and I feel like giving it a shot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Our aim is, of course—the top.\nThe grand prize, naturally!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Verxina pumped herself up\nand gave the raffle crank a spin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Ah...!",
+      "choice_data_list": [
+        "You did it, Verxina!",
+        "You did it, Verxina!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Fufu, a hot spring, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Was our family trip the last time, I wonder?\nI'm getting so excited.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "The hot springs here are seriously amazing~!\nWhen I took my ma here, she was absolutely thrilled!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "You should go with someone special too, little lady.\nAh, with your Trainer would be totally fine, of course!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Y-Yes, that is true...\nIf it is someone 'precious' to youâ",
+      "choice_data_list": [
+        "No, that's not me."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Uh—",
+      "choice_data_list": [
+        "She has other people who are important to her!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If Verxina is going on a trip,\nit would be best for her to go with her family.\nShe'll be able to unwind better that way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On the way back. As I tried to hand the hot spring tickets\nI was still holding to Verxina, who had grown quiet for some reason—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "No, please hold on to it\njust like that, Trainer.",
+      "choice_data_list": [
+        "Wait, but then you'll—",
+        "Wait, but then you'll—"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "You can make it, can't you?\nBecause... you too...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...You seem to know\nmy schedule quite well, don't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Right now is still a time where I must work hard...\nCould you perhaps hand it to me\nonce things have settled down?",
+      "choice_data_list": [
+        "Of course, I don't mind, but..."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes.\nI'm counting on you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "All it takes is for the future me to muster up some courage.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, without fully understanding why,\nI ended up holding onto the hot springs ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "First prize...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"Trainer!\nFirst place—I took number one, 1st place!\"",
+      "choice_data_list": [
+        "Good for you.",
+        "I'm glad to hear it!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Verxina is happier about the award itself\nrather than the actual prize.\nHowever, the Salisbury steak looks rather sad.",
+      "choice_data_list": [
+        "Um, Verxina, the hamburg steak..."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Ah, that's right...!\nOf course, I would be delighted to partake.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "What we must do in a time like this... is clear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Thanks for the food!",
+      "choice_data_list": [
+        "Thanks for the food!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Later on, when Verxina's family gathered,\nI was invited to a lavish dinner\nfeaturing a prime Salisbury steak as the main dish.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Mother",
+      "text": "Oh, Verxina...\nShe was that happy about it?",
+      "choice_data_list": [
+        "Yes, enough to make me forget about the prize."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Trainer...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Keep talking like that, and I'll stuff a hamburger patty in your mouth, you hear?",
+      "choice_data_list": [
+        "I thought it was adorable, but..."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Aah, there it is!\nTotally head over heels~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "?\nWhat's that...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "I-It's fine!\nHere, eat it while it's still warm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With the hamburg steak at the center,\nthe lively feast continued—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": [
+        "Oh, that's amazing!",
+        "Oh, that's awesome!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "S-Second prize...?\nEven here...!",
+      "choice_data_list": [
+        "V-Vilshina?"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes, it all started that day...!\nEver since that moment...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Back when I was a kid... at the club I belonged to,\nthose days when I was undefeated...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "—My very first...\nhumiliating second place...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Back then, when I felt almost invincible,\na memory of defeat was etched deeply, so deeply into me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Ever since then!\nEvery single time... and only when it matters most!\nThe number \"2\"... won't stop haunting me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Verxina was devastated.\nHowever, this 2nd place prize is not to blame. The shopping district folks\nalso seem somewhat disheartened... Right now, I should—",
+      "choice_data_list": [
+        "Look, though, there are tons of carrots!",
+        "Look, though, there are tons of carrots!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Huh...?",
+      "choice_data_list": [
+        "It's not 2, it's a bunch! ...A ton of food!",
+        "It's not 2, it's a bunch! ...A ton of food!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Fufu!\nYes... that's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"Shall we hand these out to everyone...\nlike my little sisters, Tarumae-san,\nand Golshi-san?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Verxina and I happily headed home with a massive haul of carrots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Oh, my... What a pity.",
+      "choice_data_list": [
+        "It doesn't really look like it, though..."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "...It felt a bit better emotionally\nthan drawing second prize, at least.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "“However, what should we do? With just one—”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Umamusume",
+      "text": "What a pretty orange color.\nLooks so delicious~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Fufu.\nWant a bite?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Umamusume",
+      "text": "!\nBig Sis, are you sure!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Of course. I'm sure the carrots are\neager for you to eat them up, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "It's hard, so be careful when you nibble on it.\nEat lots and grow big and strong, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Verxina handed the carrot to the child with practiced ease.\nHer heart seemed filled with gentle warmth.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "A losing ticket...?\nNot even second prize...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Ghh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"Please allow me\nto challenge it once more!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "This time for sure!\nI will show you my victory...!",
+      "choice_data_list": [
+        "This isn't a race, you know...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Apparently something had struck a nerve,\nas Verxina got far more heated\nthan I had ever imagined...",
+      "choice_data_list": []
+    }
+  ]
+}

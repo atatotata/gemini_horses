@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Cheval Grand hasn't shown up for training,\neven though it's past our scheduled time.\nJust as I start to worry—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "*pant, pant*...!\nI-I-I'm, s-so, so sorry...!",
+      "choice_data_list": [
+        "Did something happen?",
+        "Did something happen?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Well... um...\nI was watching some fishing videos, and...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"Secret Tips for Choosing Lures\",\n\"The Ultimate Fishing Bait Showdown!\"...\nRecommended videos kept popping up one after another...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I got so carried away... and before I knew it...\n...I'm so very sorry...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She seemed truly remorseful,\nso I decided to let the matter drop.",
+      "choice_data_list": []
+    }
+  ]
+}

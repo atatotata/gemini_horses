@@ -1,0 +1,243 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Jewelry Store Clerk",
+      "text": "Please check these over.\nThis time, you left six pieces of jewelry, a pedestal,\nand two pieces of goldwork in our care.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Right now, I'm at a jewelry shop.\nThe gems I received from the clerk\nare ornaments for Orfevre's racing outfit—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It happened one day after I had signed a contract with Orfevre and had grown quite accustomed to serving her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—For some reason, I found myself being dragged\nthrough an ultra-luxury department store\nby Orfevre and Dream Journey.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "That tailor over there has been a family favorite for generations.\nNot only is the fabric of supreme quality, but the comfort is simply unmatched.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――Ah, that tea specialty shop over there carries Orfevre's favorite tea leaves.\nPlease keep that in mind, if you'd like.",
+      "choice_data_list": [
+        "Ah, I see. I'll keep that in mind..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Ever since earlier, they've been giving me an explanation every time one of their favorite shops comes into view.\nWhy the sudden tour...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—Over this way, Trainer.",
+      "choice_data_list": [
+        "A jewelry store? ...Is this our destination?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes.\nI came to retrieve what was left in my care.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jewelry Store Clerk",
+      "text": "Welcome.\n—Ah, Lady Dream Journey.\nI shall prepare your item. Please, step inside.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jewelry Store Clerk",
+      "text": "Thank you for waiting.\nPlease, take a look and confirm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What the clerk presented with refined gestures was\nfamiliar jewelry and goldwork—\n...Could this be... for her racing outfit...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Fufu. You're quite quick on the uptake, as expected.\nJust as you guessed, it's an accessory for Orfe's racing racewear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I've been on close terms with this shop for a long time.\nTheir discerning eye and their skill are both truly reliable.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Maintenance is crucial for both jewels and goldwork.\nEspecially on a racing outfit... When dealing with stubborn stains,\nit's best to let a professional polish it up.",
+      "choice_data_list": [
+        "You really take meticulous care of it...",
+        "You really take meticulous care of it, don't you..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Naturally, it is of utmost importance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—That was the true formal attire of a \"King.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "“And it is also the symbol of my path of conquest.\nTherefore—it must always shine brilliantly.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "We were extraordinarily selective with both design and materials.\nTo ensure it was worthy of Orfevre the 'King',\nwe gathered candidates from all over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Orfevre's discerning eye in choosing the absolute best among them\nwas truly that of a 'King'—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I pulled every string to gather the absolute finest materials...\nExcept for the goldwork used in the decorations, which I asked my father to craft.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "It is only natural to place your commission with the finest artisan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Fufu, I think so too.\nThanks to that, it turned into a truly wonderful racing outfit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Listening to their conversation, you could tell how much care\nOrfevre put into making the racing racewear,\nand how much emotion went into it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At the same time, it offered a glimpse into\nthe deep bond of trust unique to family—",
+      "choice_data_list": [
+        "(It feels so far away...)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Keep that in mind as well.",
+      "choice_data_list": [
+        "......Huh?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...What are you dazing off for?",
+      "choice_data_list": [
+        "Um... what do you mean by memorize...?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "The location of this shop. The types of accessories that need maintenance.\nChecklist items for when requesting and picking up orders, and so forth.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Everything Or wears... especially her racing silk, must be\nmanaged by someone exceptionally trustworthy.\nThat is why... as her older sister, I handle it all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"However, there may be times when I am absent in the future. In preparation for such occasions, I would like you to gradually learn the management methods as well.\"",
+      "choice_data_list": [
+        "...Are you sure?",
+        "...Are you sure?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Very well.\nAs my loyal retainer, manage it properly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "“—You're entrusting this to me? To think you'd give such an important task to me... Just that alone makes my heart swell.”",
+      "choice_data_list": [
+        "I'll do my duty with everything I've got...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Heh. Keep up the good work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Since then, I've grown quite used to managing her accessories.\nI take the accessories and racing outfit I just received and bring them to Orfevre.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Mm. Very good.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I am not yet trusted enough to handle everything.\nAs a subject, I am only halfway along the path. Even so... to bear a part of the management fills me with unexpected joy.",
+      "choice_data_list": [
+        "Thanks for trusting me with this.",
+        "I'll do my best to earn your trust even more."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Discerning the abilities and loyalty of one's subjects\nand assigning them fitting duties is the responsibility of a ruler.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"I am merely assigning work befitting her capabilities. —It is not out of kindness.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Looked at another way, this must mean\nthey acknowledge my work.\n—I'll do my best!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...What are you doing? Do you intend to claim\nyou can shoulder everything like my sister does? —How insolent.\"",
+      "choice_data_list": [
+        "Ah, no, that's not what I meant...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I frantically explain that I was just expressing my enthusiasm.\n—To which, for some reason, a sudden smile crosses her face.\nDid that mean... I hadn't upset her after all?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Very well. Bear in mind that whatever authority\nyou are granted will depend entirely on your own performance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—I expect your continued, faithful service.",
+      "choice_data_list": []
+    }
+  ]
+}

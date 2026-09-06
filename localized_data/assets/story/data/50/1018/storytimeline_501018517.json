@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I saw Air Groove looking dejected\r\nin the plaza and called out to her, but――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...This has nothing to do with you.\r\nThere is no need for you to pry.",
+      "choice_data_list": [
+        "Aren't you feeling under the weather?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...You don't need to worry that much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "It's just that I let the flower wither through my own carelessness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "How careless of me...\nCould I really have let my guard down...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "For a while after that, she remained in poor shape.",
+      "choice_data_list": []
+    }
+  ]
+}

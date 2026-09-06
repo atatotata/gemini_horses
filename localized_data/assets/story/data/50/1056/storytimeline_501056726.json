@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Matikanefukukitaru—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Look, Trainer!\r\nThat is truly an omen of good fortune!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking over to where Matikane Fukukitaru pointed,\r\nthere was a claw machine filled with plushies\ndesigned after the Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "My lucky item for today\r\nis a plushie!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "And so, being able to find this plushie must truly be the divine guidance of Lady Shiraoki!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"If you win it for me, Trainer, since you're my lucky person,\r\nit'll bring super-duper mega great fortune!\"",
+      "choice_data_list": [
+        "Do you really want it that badly?",
+        "Do you really want it that badly?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Of course!\r\nI trust you to get plenty for me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"If that happens, Trainer,\r\nI'll welcome you by waving a big fisherman's flag~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

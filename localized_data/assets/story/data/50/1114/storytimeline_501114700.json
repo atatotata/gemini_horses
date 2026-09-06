@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I arrived at the trainer's office for the meeting,\nBuena Vista was softly snoring away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "*Zzz*... *zzz*...\n—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm sorry!\nIt's already time for the meeting, right?",
+      "choice_data_list": [
+        "You didn't get much rest yesterday?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Well, you see... while cleaning my room,\nI happened to find an old photo album.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Big bro—I mean, Trainer,\nI got caught up reminiscing about old times with you\nand stayed up late... I'm sorry.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I was reminiscing about the old days with my big si... I mean, with you, Trainer, and ended up staying up late... I'm so sorry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Immersing herself too deeply in memories of bygone days,\nit seems she wasn't able to rest well...",
+      "choice_data_list": []
+    }
+  ]
+}

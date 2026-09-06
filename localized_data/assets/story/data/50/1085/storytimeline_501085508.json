@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiichi Ruby",
+      "text": "...*sigh*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before the meeting began,\nDaiichi Ruby let out a faint sigh.",
+      "choice_data_list": [
+        "Shall we take a quick break?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "“—If you are simply being considerate,\nit is unnecessary.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"I have taken every precaution so that no fatigue carries over into tomorrow.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"If you judge that rest is necessary, please present a convincing rationale.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It seems Daiichi Ruby herself recognizes\nher fatigue. I should reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

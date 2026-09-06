@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day after a heavy downpour,\r\nout on the training track—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ugh...\r\nTrainer...",
+      "choice_data_list": [
+        "What's wrong?!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "On my way here,\r\nI took a huge tumble right into a puddle...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Uuu! And here I got all pumped up\r\nso the rain wouldn't get to me, too~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems an unexpected stroke of bad luck\nhas dampened their precious motivation...",
+      "choice_data_list": []
+    }
+  ]
+}

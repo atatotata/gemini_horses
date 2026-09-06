@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On our way back from an outing, Gran Alegria invited me to the park.\nThere, we saw—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Loves-chan, Boku-kun!\nAre you doing well today too~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "Ah, Gran-oneechan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hii! Gran-chan.\nHello to you too, Trainer-san!",
+      "choice_data_list": [
+        "Hello. ...And who is this?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "We're friends!\nAlright, let's play! Today,\nmy Trainer's with us too~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Without much of an explanation,\nGran Alegria pushed me forward,\nand I ended up playing with the children.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After spending about an hour\nplaying hide-and-seek and tag—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Oh dear, she fell asleep.\nWe'd better wake her up before it gets dark.",
+      "choice_data_list": [
+        "I'm exhausted..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu. You really ran around a lot, didn't you? Thank you, Trainer♡ See, she's all smiles now too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Thank goodness, what a relief!\nAfter all, nobody wants to see a sad face~.",
+      "choice_data_list": [
+        "Are you lonely?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yes. Truth is, this child's father is overseas on a business trip, and her mother is always working late.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Mom's the type who just can't say no.\nShe said that whenever someone asks her, she ends up taking it on even if it's not her job.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Still, if we could tell her that this child is lonely,\nI'm sure she would come rushing back\nat the speed of an Umamusume, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "I see, your house is right across the way.\nStill, you shouldn't be alone in the park once it gets dark, okay~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "That's right. Because the people who care about you will be terribly worried!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "I'm totally fine! I even have a smartphone now, see? Mommy and Daddy told me I can call them anytime if I ever get lonely!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "\"Still, work is tough, so... I have to be patient and hold back.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "They're just kids, so I don't really think\nthey need to hold back that much, though~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "You're right.\nYour parents surely feel the same way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Besides, rather than talking on the phone, I'd really be much happier if you just came home early.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"If she doesn't get in the way of work, you'll be able to come home that much sooner...\nThat's what this little girl believes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"...'I want to see you as soon as possible,' huh...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As Gran Alegria gently patted the child's head,\nshe began to ponder something—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "Hmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah, you're awake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "—Alright, let's get going then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "*Yaaawn*... Huh?\nWhere are you going, Big Sis?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"To the station, of course!\nI'm going to welcome Mama.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "If you get even one mile closer,\nyou'll get to see them that much sooner, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "E-Eh!? Really!?\nWow... It's my first time going to pick someone up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "My! What a wonderful Love♡Surprise!\nI have her contact info, so I'll shoot\nher a message to get permission!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's a great idea, but—\nI briefly hold back\nthe three excited girls.",
+      "choice_data_list": [
+        "We should check the time to head home first.",
+        "If you were already planning to work overtime—"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ah, you're right. Aside from getting permission,\nI have to consider the time as well.\nI'm sorry. I just got way too excited.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "It's okay! If I text her saying I'll come pick her up,\nI bet she'll come right back home!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child",
+      "text": "B-But... wouldn't that be selfish of me...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "We won't know unless we ask!\nIf they say no, then next time.\nIf they say okay, then yay! Right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's so like Gran Alegria to act purely as she pleases—\njust as she always has.\nEven if it felt a little forceful...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child's Mother",
+      "text": "Sorry to keep you, I'm back~!\nI'm so happy you came to meet me!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Whether it's good or bad cannot be known without seeing the results.\nAnd to see the results, one must take action.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing the smiles on the child and mother,\nI realized that sometimes, momentum matters\nmore than overthinking things.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I speak in a low voice so the kids won't hear.\nIf I get their hopes up and we can't pull it off, it might be getting ahead of ourselves—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "When that happens, let's head straight to the office!",
+      "choice_data_list": [
+        "Huh!?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Just dropping by to say hi shouldn't be a problem, right?\nYou can just tell them to keep up the good work and head right back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Fufu!\nThat's right. It's not like everything is impossible,\nor that I can't do anything at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"There should at least be time to share some love♡\n...As well as how lonely it feels.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child's Mother",
+      "text": "I'm so sorry for making you feel lonely...! Mommy will learn to say no! Starting tomorrow... no, starting right now!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gran Alegria and Loves Only You grin\nand flash peace signs at me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Don't give up thinking it's impossible;\nsearch for what's feasible, look for what you can do.\nI felt like I learned just how important that is.",
+      "choice_data_list": []
+    }
+  ]
+}

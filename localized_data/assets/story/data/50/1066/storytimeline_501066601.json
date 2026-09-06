@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Twin Turbo",
+      "text": "......Ugh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Twin Turbo was uncharacteristically quiet. Was she feeling nervous after her defeat in the last race...?",
+      "choice_data_list": [
+        "Try not to be so stiff—"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Whoaaaaaaa~!!\nIt's race time--!! I'm gonna win this---!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Twin Turbo, blast off!!\nVroooom!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It was merely burning quietly.",
+      "choice_data_list": []
+    }
+  ]
+}

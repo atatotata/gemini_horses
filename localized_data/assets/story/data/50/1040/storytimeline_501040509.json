@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While working in the trainer's office,\r\nGold City came in looking exhausted.",
+      "choice_data_list": [
+        "What about class?",
+        "What happened to your class?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "I'll go once I've rested, so...\r\ncan't you just let me stay here a little longer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "I don't want anyone seeing me completely worn out.\nI hate being worried over, and I hate being looked down on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"I know I can't go on like this, but...\r\nI just can't seem to get fired up... *sigh*.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "She seems terribly exhausted. Could it be due to\r\nhaving so many races in a row recently?\nIt might be best to review her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

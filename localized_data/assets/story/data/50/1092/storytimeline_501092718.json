@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dantsu Flame",
+      "text": "Good morning, Trainer-san.\nThank you so much\nfor giving me yesterday off!",
+      "choice_data_list": [
+        "Did you enjoy your day off?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Yes, thanks to you!\nI got to do so many things,\nit was a really fulfilling day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Going shopping with friends, helping rearrange rooms!\nHelping till the fields was a ton of fun too~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Taking a breather really is important, isn't it?\nI still have plenty of requests left, so I'd love to continue on my next day off!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It looked like Dantsu Flame was able\nto spend a thoroughly fulfilling day.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While training outside with T.M. Opera O—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Um... you're T.M. Opera O-san, right?\r\nI'm a huge fan of yours!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Oho!\r\nYou seem to have quite the discerning eye!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "For someone like you, I have a special photo print\nthat was just freshly taken the other day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Hm?\r\n...Mmgh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "It's gone!\nWhere did my special bromide photo go?!",
+      "choice_data_list": [
+        "Weren't they handing out a ton of them earlier?",
+        "Weren't they handing out a ton of them earlier?"
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "D-Drat!\r\nDid I hand them all out back then?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "\"...Forgive me, my friend.\r\nPlease let me off with just an autograph this time.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In stark contrast to the fan rejoicing over the autograph,\r\nTM Opera O became thoroughly dejected.",
+      "choice_data_list": []
+    }
+  ]
+}

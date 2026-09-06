@@ -1,0 +1,405 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, as I passed by the Director's office, I heard Chairwoman Akikawa's voice coming from behind the door.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Alright! ...No, thank you as well for all your hard work, Tazuna. Finally... it's finally time...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Ah, you!\nRejoice... The event preparations are finally mostly complete.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mm...! I'm truly looking forward\nto the day itself...",
+      "choice_data_list": [
+        "...You look a little tired?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Haha, no, no. Having cleared the hardest part,\nI suppose I let my guard down a little.\nThat won't do. The real deal is still to come...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Can you not picture it clearly?\nThe students... rejoicing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"—Chairwoman? Chairwoman!?\nOh no, this is terrible!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "The Chairwoman... collapsed!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "She's laid up in the nurse's office right now...?\nIs she gonna be okay?!",
+      "choice_data_list": [
+        "They said it was probably overwork, but...",
+        "They said it was probably overwork, but..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "...You were already busy enough as it is,\nyet you still helped with event preparations... and even the field work, didn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"The Chairwoman... she really pushed herself\nto the absolute limit for us, didn't she?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "For our sake—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Madam Chairwoman.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"...I want you all to keep having fun running forever.\nThat might just be my own ego talking, though...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...It was also my one and only dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…………。",
+      "choice_data_list": [
+        "...Now is the time to repay the favor!",
+        "...Now is the time to repay the favor!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Yeah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Yeah. We might've only thought of the event day itself, but all the students have been preparing all along.\n...We can do this, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Of course! If I don't give it my all right now,\nwhen am I ever gonna do it?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"It was still in the prototype phase, but...\nwith everyone's feelings united, we'll make it work somehow!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "All right! I'll go call the others over!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Mmh! This carrot... its fighting spirit is different!\nIt will surely nourish the Chairwoman!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "This potato over here is huge too!\nThis'll give us energy! Let's dig 'em all up together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Spe, Trainer, grab that side!\nHere we go, one, two, heave!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ready, aaand!!",
+      "choice_data_list": [
+        "Heave-ho!"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "(Right. Even back during our first training camp...\nthe Chairwoman lent a helping hand, didn't she?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "(I'll never forget the taste of the meal we shared...!\nPlease wait for me... Chairwoman!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hmph! Special Move: Garlic Mash!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "O-Over here,\nI finished peeling the carrots and potatoes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Thank you so much!\nFirst, prep the carrots, and...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Leave the vegetable chopping to me!\nRice will chop, chop, chop away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Feel free to toss the chopped veggies right into the pot~!\nI'll cook them all up together~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "(Cooking that makes both heart and body buono! Time to pay back the Chairwoman~!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "(Thanks to the Chairwoman, we were able\nto learn so, so much about food...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(The Chairwoman was thinking of us\nthe whole time...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(I have to tell her...!\nI have to tell the Chairwoman...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(Our feelings... the feelings of everyone!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Mmh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Chairwoman, you've regained consciousness!?\nThank goodness...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Tazuna... I see.\nDid I... collapse?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Good grief, my body just won't get up right now. After telling the students to stay healthy and full of energy, how pathetic of me... haha.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "It's because you pushed yourself too hard.\n...No matter how many times I tell you,\nyou just won't listen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"...Attending the Great Harvest Festival might be... a bit\ntricky. However... the preparations are complete.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "This is fine. I have created an opportunity for the students\nto experience wonderful cuisine. I am... satisfied.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...... The Chairwoman certainly is that kind of person, isn't she?\n...However.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...The students will surely be sad\nif you're unable to show your face, Chairwoman.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um... Chairwoman, are you there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mmh...! ...Tazuna.\r\nHelp me sit up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Chairwoman... Are you feeling alright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "No need to worry.\nI'm well enough to stand right up like this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Still... it might be tough for me to take the lead\nin managing things on the day. I'll probably have to rely\non you guys and Tazuna... Sorry about that.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Madam Chairwoman. Actually...\nthere's something I'd like you to have.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...? Come to think of it, I've noticed something...\nsmelling unusually good for a while now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"What an extravagant meal!\nDid you two really make all this...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I know your body hurts right now, but...\nUm, just take a single bite, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...All right. I shall gladly savor it!\nAnd not just one bite, but two or three!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "(That said... the way I am now,\nI wonder if I can even properly taste it...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Thank you for the meal!\n......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "............\n...Wh... Wh-What... is... this...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Soooo goooood!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Wha, what is this flavor!?\nIt's like an electric shock—\nvitality has returned throughout my entire body...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "I can attend... I can totally attend!\nAttending the Great Harvest Festival is a piece of cake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "R-Really!? ...Thank goodness...!\nI'm so... so glad...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Profoundly moved, I am! Thank you...!\nTo think the students themselves would prepare such an exquisite feast for the Grand Harvest Festival!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...The thing is... this dish is different.\nIt wasn't made for the Great Harvest Festival.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"I made this dish\nspecifically for the Chairwoman.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "That's right. After countless discussions and\ncombining our efforts—\nwe finally arrived at this recipe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "W-What... No way...!?\nYou're all doing this... for me...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "It's not just us~! It's everyone—all the students!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "\"We discussed and decided on both the ingredients and the cooking method, right?\nMan... I was so nervous that the Chairwoman might find out.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "…………！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"The Chairwoman told us, remember?\nThat her only wish is for Rice and everyone else\nto keep running in good health.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "That's why Rice and the others felt the same way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"For the Chairwoman to stay happy and healthy forever.\nThat's our wish.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "“...... Tazuna.\nRight now, I have an intense urge... to be alone.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"I feel as though I won't be able to stop...\nthe tears from flowing in front of the students.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...I really think it would be better to show them.",
+      "choice_data_list": []
+    }
+  ]
+}

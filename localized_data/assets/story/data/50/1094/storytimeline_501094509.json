@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Having some business with Jungle Pocket,\nI headed over to her hangout spot and found――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stray Dog & Stray Cat",
+      "text": "Whimper...\nMeow.",
+      "choice_data_list": [
+        "Is that Pokke and—the animals from here?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Animals are gathering and snuggling close to a dispirited Jungle Pocket...\nThe scene almost looks like a corner of a zoo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "...Phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Is the fatigue building up from racing day after day?\nIt might be best to reconsider the upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kawakami Princess",
+      "text": "Trainer,\r\ngood morning to you!",
+      "choice_data_list": [
+        "Good morning, did you get some good rest?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Yes, plenty! Over the break,\r\nI even managed to rewatch the past PreFie series!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Purify☆'s [Stars], set in outer space, is great and all,\r\nbut wouldn't you say Purify vs. Dark Purify is equally hard to pass up~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems getting plenty of rest\nhas helped restore her energy.",
+      "choice_data_list": []
+    }
+  ]
+}

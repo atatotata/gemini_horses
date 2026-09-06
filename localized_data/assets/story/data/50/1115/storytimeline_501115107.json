@@ -1,0 +1,463 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vassals",
+      "text": "\"Lady Orfevre!!\nHappy Valentine's Day!!\"",
+      "choice_data_list": [
+        "Whoa, you scared me...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Now then,\nshow me what you've achieved this year.",
+      "choice_data_list": [
+        "Results...?"
+      ]
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "Every year on Valentine's Day,\nour subjects come together\nto present us with chocolates.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "Not only the flavor, but to please the eyes of the King...\nwe spent an entire year planning and crafting it.\nEvery year, the scale grows even larger—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—Told that there was no longer enough room indoors\nthis year, I was guided all the way up to the rooftop...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "Hello, Trainer-san.\nI am your personal court painter.",
+      "choice_data_list": [
+        "(So they even have court painters...)"
+      ]
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "Without further ado!! By all means!!\nPlease have a look!!\nThis is this year's chocolate tribute...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "At that moment, the giant white sheet draped in the back was pulled away—revealing the entire picture.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "\"—This piece is titled...\n'The Trajectory of Lord Orfevre.'\"",
+      "choice_data_list": [
+        "O-Ohhh...!!!!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "A sigh of admiration escaped my lips. It was a painting...\nA massive masterpiece across eleven canvases, depicting Orfevre in various forms.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "I used chocolate pens to depict the trajectory of Lady Orfevre's journey up to this day—using painterly motifs.",
+      "choice_data_list": [
+        "!? W-With a chocolate decorating pen... !?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "No matter how you look at it, it's a beautiful piece of art.\nThe details are exquisite, the colors rich...\nIt's hard to believe it was drawn with a chocolate pen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ho...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "!!\nThe King's admiration...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "Aaah, my life has truly been splendid...\nThat is all from me, farewell...",
+      "choice_data_list": [
+        "You haven't told me what you thought yet!? ",
+        "You haven't told me what you thought yet!?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...That picture is from the Make Debut.\nThe one over there is... the Japanese Derby?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Truly, a magnificent sight.\nYou have done well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainers",
+      "text": "!!!\n*Bows down reverently*!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "It is a royal decree.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "All of my great deeds yet to come—\ndepict them in full, and present them to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Artistic Vassal",
+      "text": "...! Yes, absolutely!\nFrom now on, I will continue to depict...\nLady Orfevre's great achievements!! With chocolate!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—And what about you?",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "My subjects have made their offerings.\nWhat of you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...It seems I'm also expected to give a Valentine's\npresent. I hadn't thought about it, but first of all—",
+      "choice_data_list": [
+        "(Following up a masterpiece like that, huh...?!)"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "“—I had a look beforehand as well...\nIt was truly a masterpiece again this year.”",
+      "choice_data_list": [
+        "...By the way, what are you giving?",
+        "...By the way, what are you giving?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"I gave it to him first thing in the morning.\nIt has become a yearly tradition for me to gift him homemade sweets.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "It's very simple, but...\nI brought some extra-sweet chocolate,\njust the way Orfe likes it.",
+      "choice_data_list": [
+        "Huh... In that case, I'll—",
+        "Huh... In that case, I'll—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Chocolates from my sister and my retainers are more than enough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You must offer me something far more lavish\nthan what my vassals present.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Before Valentine's Day comes to an end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...I was in quite a bind. It was already afternoon, and considering the preparation time, there was no time to hesitate—",
+      "choice_data_list": [
+        "(Alright, let's just make a move!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And so, venturing out into the city full of enthusiasm...\nwe immediately found a clue.",
+      "choice_data_list": [
+        "(The \"Valentine's Fireworks Festival\"?)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "There was only a single poster taped to a utility pole, with no other details...\nEven after searching on social media, no information came up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local A",
+      "text": "Ah, that? Curious about it?\nAn elderly pyrotechnician is just putting on\na small, private show for the neighborhood folks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local A",
+      "text": "If you promise not to tell anyone, want me to tell you the time?\nThough—it's tonight, actually.",
+      "choice_data_list": [
+        "!! Please, teach me!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Once night fell... keeping the destination a secret,\nI managed to drive Orfevre out to a spot\nwith a clear view of the fireworks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Kept me waiting a whole day, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You seem remarkably confident.\nI take it I may have high expectations?",
+      "choice_data_list": [
+        "...I have no clue!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "What did you say?",
+      "choice_data_list": [
+        "Still, I wanted to show you.",
+        "Still, I really wanted to show you."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "You want to show me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Gloom...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I see.\nFireworks, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "One firework after another launches into the sky.\nIn the clear winter air, the fireworks\nlook so vivid and brilliantly bright—",
+      "choice_data_list": [
+        "It's so beautiful...",
+        "It's beautiful..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Right at that moment—\nan exceptionally large firework burst into the sky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—A colossal,\nheart-shaped firework burst across the sky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Was that what you wanted to show me?",
+      "choice_data_list": [
+        "Th-That was unexpected!!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"So your loyalty to me\nis less than that, you say.\"",
+      "choice_data_list": [
+        "W-Well, that's..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hm?",
+      "choice_data_list": [
+        "...Even more than that!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "(Ignore it!!)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Now then. I doubt it is more lavish than what my subjects possess, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Not bad for an offering.\nIt gets a passing grade.\"",
+      "choice_data_list": [
+        "(Thank goodness...!)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Still, nice find.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Just as I was about to say it was a coincidence, a playful thought struck me.\nSince I have the chance, I might as well give her a proper scare.",
+      "choice_data_list": [
+        "...Actually, I made it myself."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Not bad.\nI shall grant you praise.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "And so.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Making a shell of that size normally takes\nover two months... How did you shorten the time?",
+      "choice_data_list": [
+        "Ugh"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmph. If you wish to deceive me,\nfirst wipe that smirk off your face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Now then, what shall your punishment be...?\nThe crime of rebellion is severe.",
+      "choice_data_list": [
+        "Ugh, please go easy on me..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I've decided.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Next year, bring me a chocolate as grand as those fireworks.",
+      "choice_data_list": [
+        "Huh!? T-That's reckless—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "You must be quite fond\nof this King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Then—put in the effort.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"If I hadn't gone out into town and tried gathering info solely on social media... I might never have found it.\"",
+      "choice_data_list": [
+        "It was just a coincidence, pure luck."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "There are no coincidences.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Everything is inevitable.\nOr perhaps—you brought this upon yourself.",
+      "choice_data_list": [
+        "Huh...?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "There is no reason you would be out of luck.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—I have met my lifelong King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Standing side by side with the King,\nwe watch the fireworks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Could there be any fortune\ngreater than this?\"",
+      "choice_data_list": [
+        "...Probably not, right?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "None.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Say it with certainty.\n...You fool.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Orfevre smiles with absolute confidence.\nUnder the colorful glow of the fireworks... she was shining brilliantly, like a kaleidoscope.",
+      "choice_data_list": []
+    }
+  ]
+}

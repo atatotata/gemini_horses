@@ -1,0 +1,114 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I brought an injured Gold Ship\r\nto the nurse's office, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "D-D-Damage confirmed.\r\nGolshi-roid, executing scan.",
+      "choice_data_list": [
+        "W-What happened?!",
+        "W-What's wrong!?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Damage minor, able to continue mission.\r\nAwaiting Commander's decision... Beep-beep-beep.",
+      "choice_data_list": [
+        "Repairing the damaged areas comes first",
+        "Let's upgrade the program right now!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Rescanning... Beep.\r\nMission execution is possible. Requesting withdrawal of your proposal.",
+      "choice_data_list": [
+        "Denied. Prioritizing repairs."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Heeey!!\nLike I said, I told you I'm totally fine!\"",
+      "choice_data_list": [
+        "Commander's orders!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Orders from the commander, huh... Grrr.\r\nAs Golshiroid, I can't go against that...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "*Sigh*...\r\nRoger, prioritizing repairs... Beep beep beep.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, Gold Ship took time off to rest\nwith a grumpy look, but a few days later,\nher injury was fully healed and she was back to running wild.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Proposal confirmed.\nGolshi-roid, upgrade approved!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Initiating immediate upgrade...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Wait, ow?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "What the heck... Everything was totally fine just a minute ago...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "At this rate, I'm just a complete\r\nfailure... *sigh*",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Whether downcast from the self-diagnosis results or not, Gold Ship grew eerily quiet for a while...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "C-C-Commander's proposal confirmed.\r\nUpgrade approved!",
+      "choice_data_list": [
+        "Let's get even stronger!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hmm... Still under deliberation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Okay. Under these conditions, I request an upgrade to the existing workout program.",
+      "choice_data_list": [
+        "Conditions?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "BEEP BEEP BEEP... Requesting ice cream from the store.\r\nUntil approved, upgrade to Golshi-roid is suspended.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Realizing there was no point in resisting,\r\nI meekly accepted her conditions, and together we\nrevised our training regimen.",
+      "choice_data_list": []
+    }
+  ]
+}

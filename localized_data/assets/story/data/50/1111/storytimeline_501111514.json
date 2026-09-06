@@ -1,0 +1,244 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, while walking with Air Messiah\ndown the junior high classroom hallway—",
+      "choice_data_list": [
+        "There's a 100-yen coin on the ground..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Lost property... When it's cash,\nit seems quite difficult to identify the owner.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Messiah and I examined the 100-yen coin,\nbut there were no notable features.\nJust a tiny scratch next to the '1', perhaps.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "However, based on where and how it was dropped,\nit seems possible to narrow it down to some extent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "When you came to the classroom to call for me, Trainer,\nthere wasn't anything dropped around here, was there?",
+      "choice_data_list": [
+        "Yeah, you didn't drop at all.",
+        "Yeah, it didn't fall off."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"If that's the case, the owner must be someone who just passed through here.\nPlus, since this is near the junior high classrooms...\"",
+      "choice_data_list": [
+        "There's a high chance she's an Uma Musume enrolled in middle school."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. Let's go around the classrooms\nand ask if anyone knows anything.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Hmm, I don't think it's mine.\nI forgot my wallet today, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "I asked everyone in the classroom, but they said it's probably not it. I'm sorry I couldn't be of more help.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"No, that was plenty helpful.\nI'll go ask the other girls.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "\"We'll keep asking around too.\nI hope we find it soon!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "What you dropped was just a 100-yen coin?\nAw, I thought it was a secret key or something like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "B-But you can buy plenty of things with 100 yen.\nLike candy, or gum...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Jeez, that's not what I'm talking about!\nYou had such a serious look on your face, I thought something terrible happened! What a waste of worry!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I apologize for causing you such distress.\nThank you for your cooperation. I'll try asking our seniors as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Hmm, it's not mine.\nDo you know whose it might be, Sei-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, that's mine!\nI can't believe it came back to me! Thank you so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Phew... I see.\nI'm so glad it was found safely, Trainer.",
+      "choice_data_list": [
+        "Yeah. Here you go.",
+        "Yeah. Here you go."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah............ Sorry. That was a lie just now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nyahaha~! I didn't mean anything bad by it!\nYou two were just so into it, I couldn't resist teasing you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "You've been asking around for quite a while, haven't you?\nYou did your duty, so shouldn't it be fine to take it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "No, lost property is still lost property.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Once I finish asking around, I plan to drop it off\nin the academy's lost and found box along with a note\nexplaining how I found it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Man, you really give it your all, don't you?\nWhether you're just too nice or overly serious...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Ah~, come to think of it,\nI saw a girl looking for something outside!\nI think she's still around the tree-lined path~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"It's not here... It's not... It's not anywhere!\nNo way, it's nowhere to be found... Uuuuugh...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"When I visited the spot Seiun Sky told me about, Meisho Doto was on the verge of tears, peering all around the path.\"",
+      "choice_data_list": [
+        "Is this what you're looking for by any chance?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Huh... Ah...!!\nM-May I see that, please...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"The mint year matches, and that tiny scratch next to the 1...\nThere's no doubt, this is the 100-yen coin I was looking for...!\nIt's found... It's a miracle... Uuuu...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I found this near the junior high classrooms.\nI'm so glad, it was an important 100 yen, wasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yes, it's my treasure!\nOpera O-san gave this to me, you see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "O-Opera O-san...!\nI-I bought the throat lozenges you asked for.\nAnd here's your 100 yen change...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "I'm truly sorry, Doto!\nThanks to you,\nI can head into the interview in top condition!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ah, keep the change.\nIt's a small token of my appreciation—go buy yourself some sweets!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "With those words, she pressed this\n100-yen coin into my hand...\nI could never bring myself to spend it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Thank you so very, very much\nfor delivering this!\nI will never forget this kindness!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"I only did what anyone would do.\nPlease take care not to lose it again.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Phew... That settles that matter.\nThank you for your hard work, Trainer.\"",
+      "choice_data_list": [
+        "No. As expected of you, Messiah—you saw it through to the end.",
+        "Doing a good deed really puts you in a good mood.",
+        "Doing a good deed really makes you feel good, doesn't it?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Phew... That settles that matter.\nThank you for your hard work, Trainer.\"",
+      "choice_data_list": [
+        "No. As expected of you, Messiah—you saw it through to the end.",
+        "Doing a good deed really puts you in a good mood.",
+        "Doing a good deed really makes you feel good, doesn't it?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Right back at you.\n...I truly am glad you're my Trainer.\nYou face everything with the exact same feelings as me.",
+      "choice_data_list": [
+        "Let's keep taking it step by step."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. Steadily and diligently, true to who we are.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. Even if people laugh at me for being too serious, if there is someone out there who will be happy, it is well worth the effort.",
+      "choice_data_list": [
+        "Let's take pride in being diligent."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. Both of us, holding our heads high.",
+      "choice_data_list": []
+    }
+  ]
+}

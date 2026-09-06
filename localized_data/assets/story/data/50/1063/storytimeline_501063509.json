@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After finishing training, I shared a proposed schedule adjustment with Ikuno Dictus, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……。\n…………。",
+      "choice_data_list": [
+        "Umm... Ikuno?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ah... I'm sorry, my thoughts just... won't focus...\nThis... won't do, will it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Phew... My apologies, but we shall continue this tomorrow.\nI must attend to recovering from race fatigue immediately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems fatigue has built up more than anticipated.\nWe should review the schedule once.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Copano Rickey",
+      "text": "Hmm, I see... If I combine this\nwith the method I tested yesterday...\n...Mm-hmm, yes, yes—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "*Yaaaaawn*...",
+      "choice_data_list": [
+        "You've looked sleepy all the time lately.",
+        "You've looked sleepy all the time lately."
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Yeah... I ordered a few feng shui books\nfrom overseas, and all of their theories\nare super interesting~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I kept reading and trying things out over and over,\nso I ended up barely getting any sleep...",
+      "choice_data_list": [
+        "Don't overdo it, alright?",
+        "Don't overdo it, okay?"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Okaaay...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Being eager to study is great and all,\nbut Copano Rickey was clearly suffering from a lack of sleep...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I came running up after hearing\r\nGold Ship's bizarre shrieks from the rooftop, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kieeeeeeeeegh!!",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "*pant* *pant*...\r\nThe academy is safe... Don't worry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Once again, we managed to protect the academy\r\nfrom the threat of the great cosmos, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"I used up way too much energy...\r\nMan, it's gonna take a while to recover... *sigh*\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Cosmic threats aside,\r\nthe physical exhaustion was very real, and their movements remained sluggish for a while afterwards...",
+      "choice_data_list": []
+    }
+  ]
+}

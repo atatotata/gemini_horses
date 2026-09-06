@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Um, this part—is finished.\nWhat do you think—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Library Committee Member",
+      "text": "Whoa, thank you so much!\nTidying it up so nicely like this... it must have been tough, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "No, don't worry about it...\nIt made me uneasy seeing everything scattered around.",
+      "choice_data_list": [
+        "Yeah, that really is a well-balanced shelf.",
+        "Yeah, it really is a nicely balanced shelf."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Huh, Trai... ner...?\nAh... it's time for... training...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "I'm sorry... The messy bookshelf caught my eye, so I offered to help tidy it up...\nI'll be more careful from now on...",
+      "choice_data_list": []
+    }
+  ]
+}

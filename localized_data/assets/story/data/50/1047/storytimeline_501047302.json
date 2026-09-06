@@ -1,0 +1,581 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One winter day.\nWhile walking through the shopping district with Zenno Rob Roy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I-I'm sorry! For keeping you out this late\naccompanying me on my personal shopping...",
+      "choice_data_list": [
+        "Don't worry about it."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No, thank you so much...!\nThanks to you, I was able to buy the book I was looking for.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ehehe, since I went bookstore hopping, I ended\nup getting distracted by books other than the ones\nI was looking for, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Wait, huh?\nThere's... a crowd gathering over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "T-The lottery...!\nCome to think of it, I did get a ticket\nat the bookstore earlier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A lottery... testing my luck, huh...",
+      "choice_data_list": [
+        "Curious?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Uh, umm...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Y-You've already stayed this late for me as it is...\nI'd feel awful asking for any more of your time...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"...B-But... well,\nI kind of thought... maybe a true hero needs a bit of luck too...!\"",
+      "choice_data_list": [
+        "Alright, let's test our luck!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "W-Wah, are you sure it's okay...!?\nThank you so much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Well then... E-Excuse me!\nOne turn, please...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Alright, one raffle ticket!\nCome on now, give it a good spin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "H-Here I go!\nGoddess of Destiny, bear witness to me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy enthusiastically\nturned the raffle wheel handle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Huh... Wait?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Eeeh~~~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"A-Ah-wa-wa... I thought 2nd prize would be amazing enough...\nGrand prize!?\"",
+      "choice_data_list": [
+        "Luck is just another sign of a true hero! Congratulations!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "D-Do you think so...? I sure hope so...\nThank you so much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Fufufu, a hot spring trip, huh... Oh, right!\nTrainer, do you happen to know any\nlegends about hot springs?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"You see, because Japan has many volcanoes, there are naturally countless 'ancient hot springs' that bubble up from the earth—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Just like historical buildings, such hot springs are often enriched with various anecdotes, legends, and myths!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "For example, there are hot springs said to have been\ndiscovered by great generals of the Heian period,\nand famous waters where mythical gods are said to have bathed—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "—Ah. S-Sorry, I just got carried away...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A-Anyway...! The hot springs we can visit with these travel vouchers might have similar legends behind them, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "So, um... err...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "W-Would you care to... join me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Of course, that is provided\nthings have settled down with the Twinkle Series, but...",
+      "choice_data_list": [
+        "Of course, with pleasure!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "R-Really!? Yay...!\n...It's a promise, okay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Once a hero's tale reaches a milestone, a hot spring trip. An intermission like that isn't so bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "To make this pleasant intermission truly shine, and to fully stretch my wings at the hot springs, I fired myself up to keep giving it my all from tomorrow on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Whoa, first prize...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I-It seems Lady Luck\nhas smiled upon us...!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, thank you very much...!\nWell then, this \"Special Carrot Hamburg Steak\" is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I-If it's alright with you... Trainer, I'd like you to have this...",
+      "choice_data_list": [
+        "Was there something in there you don't like?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "N-No...! \nIt's not that, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I'm not really much of a gourmet, so...\nI feel like getting the \"Special Grade\" would be a bit of a waste on me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "S-Since it's such high quality, I think the Salisbury steak would be happier being eaten by someone with a refined palate...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "H-Here you go...! If you don't mind, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I actually got a\n\"Special Deluxe Carrot Hamburg Steak\"...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That night.\nI pondered in front of the \"Special Carrot Hamburg Steak\"\nI had received.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "We could just eat it as is, but\nZenno Rob Roy is the one who won it, after all—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"I really do want her to eat it...!\nI decided to arrange it into a bento and bring it to the academy tomorrow!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Having lunch on the rooftop... somehow feels so... youthfully cinematic...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"Still, why the rooftop...?\nI mean, having lunch with you is, um, really nice, but...\"",
+      "choice_data_list": [
+        "I made a boxed lunch for us.",
+        "I made a bento for you!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Huh? Wait, you did, Trainer...!?\nHandmade...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"A-Are you sure I can eat this?\nIt feels... almost like a waste to eat something so nice...!\"",
+      "choice_data_list": [
+        "Because I wanted you to eat it...",
+        "Because I wanted you to eat it..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Even though all I did was heat up a pre-packaged hamburger steak and pack it...\"\nI open the bento box and hand it over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, is this yesterday's\n\"Premium Carrot Hamburg Steak\"...?",
+      "choice_data_list": [
+        "Well, since we're here."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Y-Yes...!\nWell then... bon appétit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Munch, munch...)\n...Mmh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...I-It's delicious.\nIt really is way better than a normal carrot hamburg steak...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "It's strange... I never used to give any thought to the value of luxury items...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Why is this so delicious...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(…Could it be…)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Is it... because I'm eating together with Trainer...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I spent the lunch break eating bento with Zenno Rob Roy.\nIt seems she really enjoyed it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Whoa...!\nSecond prize is still plenty lucky, isn't it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I'm so happy...! But this is an incredible amount...!\nWhat should I do? Maybe I should share some with you, Trainer...?",
+      "choice_data_list": [
+        "I appreciate the thought, but..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "When I replied that Zenno Rob Roy had gone out of her way to win it for her, she fell into deep thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hmm... I could hand them out at the dorm,\nor give some to my roommate... and then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Ah, that's right...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy looked as though she had thought of something.\nAfter the two of us carried the prize carrots back to the dorm,\nwe called it a day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The next day—the table in the Trainer's office was packed wall-to-wall with carrot-based sweets!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ehehe, you see...\nThese are all sweets that appear\nin my favorite stories...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I remembered there was a recipe book in the library compiling ways to recreate fictional sweets like that, you see...",
+      "choice_data_list": [
+        "Amazing! You made this so well."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, thank you very much...\nThough, of course it wasn't just on my own—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "My roommate Rice-san is great at cooking, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A little—no, a lot, or rather, immensely...\nThey helped me out so much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "S-So... I can guarantee it's delicious...!\nPlease go ahead and try some...!",
+      "choice_data_list": [
+        "Thanks for the food!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "After putting my hands together in thanks,\nI pick out the most misshapen piece.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, that's...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Because that is likely what\nZenno Rob Roy created.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Wh-What do you think...?",
+      "choice_data_list": [
+        "Delicious!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...!\n...Thank goodness...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That day was spent enjoying delicious sweets with Zenno Rob Roy and the other Umamusume who visited the Trainer's Office!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, thank you very much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "It looks delicious, but hmm...",
+      "choice_data_list": [
+        "Were you a little disappointed?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, no, that's not it...!\nI just don't usually do much cooking, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I was wondering how best to eat it.\nI couldn't really think of any recipes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy and I stared at the carrots in our hands and pondered for a bit.\nMiso soup, whole-roasted... there are plenty of options, but—",
+      "choice_data_list": [
+        "...Why not just nibble on it on the way home?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-Eating on the go...!?\nAnd raw whole carrots, at that...!?\nThat's just—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "That actually sounds a bit outlaw-like!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "T-Thank you for the food...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Mmm, so good...!\nHehe, sometimes you just want to do something a little naughty like this, you know...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy headed home while munching on a carrot.\nHer steps were noticeably more confident than usual—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Or so it felt.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Au...\nAh, no, thank you very much...",
+      "choice_data_list": [
+        "That was a bit of a shame."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yes... b-but you see!\nThere are figures who are regarded as heroes\ndespite their misfortune...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "For example,\nthe hero who slew the evil dragon in Germanic mythology\nbecame immortal after bathing in dragon's blood, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Back then, by sheer bad luck,\na leaf had stuck to his back,\nso that was the only spot that didn't become invincible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "In the end, his weakness was exploited, costing him his life—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...I knew it,\nthat's a bit of bad luck...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy ended up feeling\na little down in the dumps...",
+      "choice_data_list": []
+    }
+  ]
+}

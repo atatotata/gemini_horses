@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fenomeno",
+      "text": "Mmh...",
+      "choice_data_list": [
+        "W-What, did something bad happen?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "? Ahh...\nI've done it again, sir...",
+      "choice_data_list": [
+        "Again?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Lately, it seems I've been unconsciously tensing up my face...\nAnd everyone has been even more frightened of me than usual...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Perhaps due to consecutive races,\nit seems she's having trouble\nswitching between on and off mode, sir...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She seems to have accumulated far more fatigue than expected.\nI need to urgently reconsider her schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

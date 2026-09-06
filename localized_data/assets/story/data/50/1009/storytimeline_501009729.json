@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah, darn it!\nThat was so close, wasn't it~...!",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "H-Hmph, what are you fretting about?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"If you had fun, that's all that matters, right?\nAt least I'm satisfied.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "It's getting late.\nCome on, let's head back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

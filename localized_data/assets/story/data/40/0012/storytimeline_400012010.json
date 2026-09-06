@@ -1,0 +1,359 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Wonder Acute",
+      "text": "\"—Town revitalization, huh...\nMaybe I should do something too...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "—Haa~~! Heave-ho~♪\nHorse girls stompin'~~♪ In the hot sprin~gs~~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oh, collecting towels?\nThey must be heavy soaking up all that water, yet your voice is full of energy.\nYou're certainly working hard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Oh, thank you very much.\nI hope we weren't too loud?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "No, not at all~\nEchoing across the sky feels so nice.\nIt makes me want to sing along♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufufu, apparently back in the day,\neven more people used to sing together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "The origins of the bath-treading song date back to long ago—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "\"While the Umamusume of this region were running and singing in a circle...\nA hot spring supposedly erupted right from the center of the ring!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "\"And then, wishing for the prosperity of the hot spring resort,\nthe Umamusume began playing together\nin the shallow waters...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "It is said that this is how\nthe \"Bath-Treading Song\" was born.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Ever since, people in this region would sing\ntogether whenever doing work related to hot springs...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "My, so such a wonderful history\nis how the tradition was born.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufufu, though at this point,\nI'm basically the only one who sings it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Something that once nearly faded away with time\nwas somehow preserved in records by the proprietress.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Huh... A hot water-treading song sung by a huge crowd must have been quite lively, wouldn't it...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "\"...Ah!\nThat's it...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Say, young proprietress.\nDon't you think showcasing traditions like that\ncould help revitalize the town too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And,\nthe plan that Wonder Acute came up with is—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Come one, come all, the tradition returns!\nThe 'Yufumi Foot-Bathing Show' is about to begin~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "How do I look, Trainer-san?\nThis outfit! The young proprietress dressed me in it\nsince I'm the 'organizer'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "In other words...\n*I'm* the \"leeeader\"!\nFuhooo-!!",
+      "choice_data_list": [
+        "It really suits you! Good luck!"
+      ]
+    },
+    {
+      "name": "Tourists",
+      "text": "\"This'll be my first time seeing a hot spring treading show~! I hear it has unique songs and steps...! Ooh, how charming~~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "\"Well, well, the crowd sure has\nhigh hopes for us.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Everyooone! Are you all ready?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Yeees!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufufu...♪\nTo think I'd be doing this together with everyone.\n...*Deep breath*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "—Yu~~~koma, what a wonderful place~~♪\n—The water is so nice and warm~~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Haaah~~ Yum yum!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Yukoma Onseeeen~~♪\nHyoi-ya! Soi-soi!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Splash! Splash! Thud! Ba-dump!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tourists",
+      "text": "Wah, the steam is...♪\nYou keep rhythm with your feet!\nIt's so powerful~!",
+      "choice_data_list": [
+        "(What a lively bunch!)",
+        "(It's so lively!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The powerful singing voices and footsteps of the Umamusume made the earth and the very air tremble...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sound of Foot Bathing",
+      "text": "(Splash! Splash! Thud! Ba-dump!)\n(Haa~~♪ Pyoi-ya♪ Soi-soi♪)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The steam billows high into the air. Moistening the dry mountain air and the trees... the impact reverberates through the ground, spreading deep into the mountains...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sound of Foot Bathing",
+      "text": "(Dan! Da-dan! Mowa-mowa... !)\n(Haa~~♪ Pyoi-ya♪ Soi-soi!♪)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Creak... creak... crack...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oh? What's that sound...? It seems quite noisy towards the mountains...?",
+      "choice_data_list": [
+        "A sound?"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "I can hear it.\nA sound so faint that likely\nonly an Umamusume could pick it up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Ruuuuumble...*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A thunderous roar echoed from afar.\nI can feel the rumble of the earth through the soles of my shoes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*RUUUUUUUUMBLE—!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just then...! A pillar of rainbow-colored light rose against the mountain slope. No, wait. That's not light. That's—!",
+      "choice_data_list": [
+        "It's hot waterーー!!?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Eeeeh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Oh dear me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Fuhooo!!\nWell, that blew me away!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "What in the world is that?!\nIs it a reflection? Even so,\nwhat kind of components would make such a color...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "However, that color...! This aroma...!",
+      "choice_data_list": [
+        "Ah, Landlady!"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Proprietress~~~!\nAh, there you are...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Where I caught up, clear hot water was trickling up from the ground.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "My, what beautiful hot water.\nAnd such a mysterious scent.\nUp close, it isn't rainbow-colored, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Ah, I've never seen a hot spring source like this before...!\nJust one drop is enough to feel its exquisite, silky texture on the skin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Guh...! Ahahaha!\nI never imagined something like this\nactually existed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Amazing...! It's a miracle!\nSo the legendary hidden hot spring really did exist.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "It's still just a small spring, but\nat this rate, if we dig deeper...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Aargh...!\nGood grief, what a mess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Even though you never showed up once\nback when Yunohana was an active racer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufufu, you're right!\nIt's a little frustrating.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Still... isn't this also because you kept doing your best\nhere all this time, Landlady?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "\"The bath-treading song... Had it not been for the proprietress, it likely would have faded away, wouldn't it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Hah...! Good grief... Tradition really is something to be treasured.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Fufufu!\nLet's work it to the absolute bone♪\nFor the sake of the girls who come after us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Way ahead of you.\nNow, let's take it back and analyze the ingredients!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Truly, many a true word is spoken in jest...\nOr rather, truth is stranger than fiction...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The “rainbow-colored secret spring that cures all ailments.”\nThe origin of that legend turned out to be an embellished tale of the landlady's exploits...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However! The ultimate origin of the legend lay in the ancient \"Hot Spring Stepping Song.\" That is why it has all connected here today...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Woah, talk about serendipity!\nOf course it probably won't cure *everything*, but a hidden hot spring with the finest waters is...!",
+      "choice_data_list": [
+        "So it really existed!",
+        "So it really existed!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Yes, it's a miracle born from history!\nThe feelings of so many years, slowly accumulated...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Such a miracle—!",
+      "choice_data_list": []
+    }
+  ]
+}

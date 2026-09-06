@@ -1,0 +1,313 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Before leaving the hotel, I ponder the words I want to say to <chrname> for the Prix de l'Arc de Triomphe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—The world's wall is thick.\nFormidable rivals await.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"I've trained endlessly to counter that.\nI believe I've done everything I possibly can.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...We can't do any more training.\nThere is very little left\nthat can be done for <chrname> now.",
+      "choice_data_list": [
+        "...Don't be nervous, me.",
+        "...Don't be nervous, me."
+      ]
+    },
+    {
+      "name": "",
+      "text": "...My right hand is trembling.\nI steady it with my left hand and exhale.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—It's time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Longchamp Spectator",
+      "text": "\"This year is L'Iguannotte's year.\"\n\"No, it's Venus Park's.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The crowd surging into the venue\nshouts the names of the Umamusume they believe in.",
+      "choice_data_list": [
+        "(This year for sure, <chrname> will...!)"
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"...Trainer <username>,\ntake a deep breath.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "No matter who the opponent is,\n<chrname> will be just fine.",
+      "choice_data_list": [
+        "...Yes."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...That's right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Trainer <username>!\nHave no fear!\nWe will become your confidence!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With those words, Chairwoman Akikawa hurriedly spread out a large piece of cloth—",
+      "choice_data_list": [
+        "Chairwoman, that's...!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—This is a message for you all!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Words of encouragement fill the banner.\n'You can do it' 'Run all the way to the end'—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Tracen Academy and the URA collaborated to gather messages of support from all across Japan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Rally 'round! This flag alone cannot hold it all!\nWe've received countless words of encouragement!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—Everyone believes in you all!!",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Never forget! There are people who are captivated by your strength and entrust their hopes to you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Even if Rigantona and Venus Park\nare frighteningly strong—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"To us, you girls are the ones who shine far too brightly!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"To us, you girls are the stars we truly believe can become the best in the world!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...You're strong.",
+      "choice_data_list": [
+        "...Chairwoman."
+      ]
+    },
+    {
+      "name": "",
+      "text": "...I exhale the air trapped in my lungs.\nBreathe out, let it all out, breathe in—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I turn back to face <chrname>.\nThis is my final major task left before the Prix de l'Arc de Triomphe.",
+      "choice_data_list": [
+        "...You don't need to feel like you have to win."
+      ]
+    },
+    {
+      "name": "",
+      "text": "I don't need thoughts like \"What if I lose?\" either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "During our preparation period up until now,\nan appetite for growth was necessary as fuel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "However, on the world's grandest stage,\neven desire itself can sometimes become a distraction to one's focus.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Swallowing down all my lingering feelings,\nI decided to convey it to <chrname>.",
+      "choice_data_list": [
+        "—Because you're going to win.",
+        "—Because you're going to win."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...That was a great send-off, Yayoi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...I wanted to be of use, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Because you've always been the one helping me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mei. You've chased the dream of becoming the best in the world with me.\nEven after I took over for Mother.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "This project was something you really wanted to continue with Mother and the others...\nYet you ended up stuck working with me, someone who knows nothing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Yeah, thanks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "I bet old man Symboli and\ngrandma Mejiro feel the same way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "From the past to the future.\n...Because there were those who inherited feelings from long ago,\nthe romance of the \"Prix de l'Arc de Triomphe\" continues to this day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Yours truly is glad I could serve\nas a bridge to Yayoi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Let's witness the moment\nJapan's long-cherished dream is fulfilled together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—I can hear their prayers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Japanese Fan A",
+      "text": "Please...! <chrname>...!\nHang in there, hang in there...! Give it everything...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—There was a feeling that had lingered in my heart all this time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man Looking at Phone",
+      "text": "Don't you dare lose...!\nI'm definitely gonna see you win...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—No matter how many times I lose, no matter how impossible they say it is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Woman on a Date",
+      "text": "You can do it...!\nIf it's <chrname>, the title of world's best is――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—There was an ideal I kept yearning for.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Matriarch",
+      "text": "It is no longer an unreachable ideal.\n...The summit is already in sight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—I have continued entrusting hope to a future called \"someday.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Family Grandfather",
+      "text": "Compete with each other. Win and lose.\nShow me what lies “beyond” this road—with those legs of yours.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "...Our dreams.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A single, pure emotion.\nA heart that yearns to be 'number one in the world.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The romance that had driven us up to this day—was right here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rigauntona",
+      "text": "...Come here.\nJapanese horse girl.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rigauntona",
+      "text": "...There is only one victor.\nI'll leave my mark on you, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Venus Park",
+      "text": "\"Then that victory shall be mine.\nI'll take you all down together, understood?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Venus Park",
+      "text": "\"For the pride of France...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "“And so, the Prix de l'Arc de Triomphe begins once again this year—”",
+      "choice_data_list": []
+    }
+  ]
+}

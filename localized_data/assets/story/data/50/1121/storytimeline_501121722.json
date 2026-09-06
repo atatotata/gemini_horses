@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "Trainer-dono, your cup is empty.\nAllow me to get you a fresh one—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Kh, ouch...!",
+      "choice_data_list": [
+        "Are you okay...?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "...There is no problem.\nI just had a slight headache, that is all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "More importantly, the drinks—\nKgh...!",
+      "choice_data_list": [
+        "I can pour it myself, so don't push yourself."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Guh...!\nI am deeply sorry, Trainer-dono.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "To think I've caused my master to worry... I will have this pain healed right away, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngh, not again...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal suffered from\na headache for a while...\"",
+      "choice_data_list": []
+    }
+  ]
+}

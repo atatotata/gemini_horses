@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, not bad, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Not quite on my level,\nbut you're pretty good.",
+      "choice_data_list": [
+        "Since we're at it, I'll give that to you."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Huh, really!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Yay, thank you!\nI'll take good care of itâª",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

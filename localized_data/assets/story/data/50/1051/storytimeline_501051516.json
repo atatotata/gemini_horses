@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I went to the cafeteria, I found Nishino Flower\nwith a large assortment of traditional Japanese sweets laid out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ah, Trainer.\nThat's an incredible amount of snacks, isn't it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Everyone from the shopping district handed this to me, saying,\r\n\"Eat a lot and grow big!\"...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I wonder if I can eat it all...\nStill, it was so kind of them, so I have to\neat properly and grow big and strong...",
+      "choice_data_list": [
+        "Overeating isn't good.",
+        "Eating well is essential for growth."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "T-That's true, isn't it...\nPotted flowers will wither if you give them too much water, too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Understood. I won't eat it all at once,\nI'll enjoy a little bit each day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Nishino Flower accepted their kindness without overexerting herself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes! I'll do my best to eat plenty,\r\nand make everyone say, \"Look how big you've gotten!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "First, I want to be tall enough to write\r\non the blackboard without standing on a stool...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Nishino Flower ate everything they kindly offered in one go.",
+      "choice_data_list": []
+    }
+  ]
+}

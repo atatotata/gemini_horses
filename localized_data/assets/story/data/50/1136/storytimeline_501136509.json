@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In the middle of a meeting with Red Desire—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "—Leave at once!",
+      "choice_data_list": [
+        "W-What's gotten into you all of a sudden!?",
+        "W-What's gotten into you all of a sudden!?"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "I-I'm sorry... An evil presence has\ninterfered... I will swiftly exorcise i—\nse... me—",
+      "choice_data_list": [
+        "D-Desire..."
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Gasp!? B-Begone from here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She seems so fatigued that she can barely stay awake.\nRevising the race schedule might be an urgent priority.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"King\"—namely, the title of a monarch.\nIt refers to the supreme sovereign\nof a single nation or people.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That is how a standard dictionary defines it.\nHowever, in my dictionary—\nthere is only one single meaning recorded.",
+      "choice_data_list": [
+        "A king is, in other words—Orfevre"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Audacious and unprecedented.\nOne and only...",
+      "choice_data_list": [
+        "—My King.",
+        "—My King."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The three years I spent with her...\nso many things happened.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I learned how hard it is to build trusting relationships.\nWe also lived through the Great Earthquake,\nwhose scars still linger across the land...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There was a time when I let go of her hand.\nEven so, together with Orfevre,\nI held up the light... and came to reign supreme.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And—my story with Orfevre will soon enter a new chapter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Radio Sound",
+      "text": "\"—And with that, it is time to say goodbye on Late Night Music Salon. Wrapping things up, here is the wildly popular youth band, 'Orfevre'—\"",
+      "choice_data_list": [
+        "(...I can't sleep.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—The sky had begun to lighten with dawn.\nAs if drawn by some inexplicable pull,\nI made my way to the beach... and found \"her\" there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "\"...Oh?\nIt's been a while!\"",
+      "choice_data_list": [
+        "You're...",
+        "You are..."
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "What happened to that goldwork?\n...Ah, so its purpose has been fulfilled.",
+      "choice_data_list": [
+        "You know something!?",
+        "You know something!?"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "Hahaha. Nope, not a thing!\nI just... feel it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "I'm sure that must be... \"someone's feelings.\"",
+      "choice_data_list": [
+        "My feelings..."
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "It happens. That's just how it is.\nWhen 'that' is strong enough, it takes form... and travels.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "From somewhere far, far away, across time and space itself.\nTo appeal something to us...",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "âLook, once again...\nI've been drawn in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――……。",
+      "choice_data_list": [
+        "Orfe!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...What were you talking to that guy about?",
+      "choice_data_list": [
+        "No, it's just a little thing—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "When I turned around, she was—\nalready gone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"She left long ago.\n...That's just the kind of person she is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Speak of love, and it vanishes.\nPray for it, and it will not appear; forget it, and it arrives...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I do not care for this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Enough about her.\nAre the preparations for \"that\" complete?",
+      "choice_data_list": [
+        "...Of course, it's perfect.",
+        "...Of course, it's perfect!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Very well.\nThen, let us conquer—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "To that distant land.\nWe shall reclaim the crown of the Prix de l'Arc de Triomphe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "—Time flies when you're having fun, so that means\nthere's only one song left for the Special Live!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Band Member A",
+      "text": "\"Once again, to everyone who worked so hard to make this happen,\nand to all the locals who welcomed us with open arms...\nThank you so very much.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Band Member A",
+      "text": "\"I am so happy to play music in this place.\nWe've finally... met!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Local Fan A",
+      "text": "Mm... yeah, yeah...!\nI've been waiting for youuuuuu!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "...Shoot, I'm gonna cry!\nBefore I lose my voice, here's the last song!",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "This is the song dedicated to her that gave our band its name!\nSo it reaches that girl who's setting off on her journey,\nwe will sing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—It brings back memories of last year.\nBack then, I came to see you off just like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Or hasn't changed. She remains magnificent.\nIn fact, she has grown even stronger than last year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "However... what about you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "“—For some reason, a chill ran down my spine.\nDream Journey wore her usual\ncalm, gentle smile.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Would you say\nI've grown compared to back then?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Otherwise...\nthere'd be no reason for it to be you.\"",
+      "choice_data_list": [
+        "…I'm okay."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "And what is your basis for that?",
+      "choice_data_list": [
+        "They trust each other."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...I see.\nThat is... crucial evidence.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Hey, Trainer.\nYou bastard...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Don't wander off on your own.",
+      "choice_data_list": [
+        "I told you Orfevre was in the way!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "I'm not saying it right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Fufu...\nSame as ever, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...Elder Sister.\nDo not worry.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The sun sets.\nHowever—I shall shine for all eternity.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Yeah.\nI know—Orfe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "\"Lady Orfevre!\nIt is almost time.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "From Japan, all the way over to where you are...\nI'll be cheering for you with all my might...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Mm-hmm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Fans",
+      "text": "Orfeeeeevre!!",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—What the gathered fans unfurled was a massive flag... Emblazoned with Orfevre's name alongside the Hinomaru.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Fans",
+      "text": "It's time for revenge! This time—we can win!\nYou gave us hope back then...\nNow it's our turn!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Fans",
+      "text": "Together with Trainer!\nShow them the power of our King~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hear me, my people.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I shall accept\nyour loyalty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Rejoice in the destiny\nthat had you born in my era.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Dreams will crumble.\nWhat emerges next—is the glory brought by the King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Ooooohh...!!)",
+      "choice_data_list": [
+        "...It's time.",
+        "...It's time."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "Orfe?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……――",
+      "choice_data_list": [
+        "...I'm right here.",
+        "...I'm right here."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "！",
+      "choice_data_list": [
+        "Let's go, Orfe!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Heh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cheeky brat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hey, don't walk ahead of me.\n—Walk beside me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Take care, you two.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Have a good journey.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And so, cane firmly in hand, comfortably familiar,\nthe King once again set foot upon that land.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Now then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"I am thoroughly satisfied.\nNothing is lacking.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "There is nothing beyond my grasp.\nEverything is—",
+      "choice_data_list": [
+        "As the King's heart desires"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "O staff. Guide me toward inevitable victory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"—Until all of creation prostrates itself before Orfevre.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "How it ended for them—\nwill surely be passed down by those who love the great king.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "Good morning, my \"King\"!",
+      "choice_data_list": [
+        "Looks like you got plenty of rest.",
+        "Looks like you got plenty of rest, huh?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Yes, exactly as ordered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I stretch before bed, drink hot milk, and play audiobooks of chivalric tales from my phone by the pillow to ensure a natural sleep!",
+      "choice_data_list": [
+        "It's amazing that you're so thorough!",
+        "It's amazing that you're so thorough!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "I-I am deeply honored! Hehehe...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal seems to have gotten\nan ideal amount of rest!\"",
+      "choice_data_list": []
+    }
+  ]
+}

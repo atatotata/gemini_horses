@@ -1,0 +1,381 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day after training.\nWith curfew fast approaching, I walked\nBiwa Hayahide back to her dorm, when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Welcome back, Hayahide!\r\nIt's rare for you to come back at this hour.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"I got a little too carried away with training—\r\nAre you doing your dorm head duties? It must be tough working so late...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "That's not true. Greeting the little ponies after all their hard work is always fun for me anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "—Oh, by the way... Did you happen to see\r\nSweep and Marvelous on your way here?",
+      "choice_data_list": [
+        "She still hasn't come back?",
+        "She still hasn't come back?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I tried reaching out to her on her phone, but got no reply. She's one of the younger girls in the dorm, so I'm worried.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Looks like we'd better hurry and search for it...\r\nI'll help too!",
+      "choice_data_list": [
+        "I'll help out too!",
+        "I'll help too!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thank you, both of you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Let's split into two groups then. You two look for Hayahide and the others!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Understood.\r\nIs there any info that might serve as a clue to their destination?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Apparently Marvelous went out on a \"marvelous hunt☆,\"\r\nwhile Sweep went looking for \"magic ingredients,\" but—",
+      "choice_data_list": [
+        "Let's look for a Sweep who can help narrow down the destination.",
+        "Let's search for Marvelous things that could be in a lot of places."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"When it comes to things that could serve as magic ingredients,\r\nthe possibilities are rather limited, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Let's find her quickly\r\nand join up with Fuji-kun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Just in case we crossed paths, I left a note on the dorm door saying,\n\"Call the Dorm Head's cell once you return,\" and began my search.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"No good... Not this one.\nBut that one over there is the wrong color...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Found you, Sweep!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Hyaaaaaah!? Wh-Why are Hayahide-san\r\nand the others at my gathering spot!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Fuji-kun asked me to look for you.",
+      "choice_data_list": [
+        "Curfew's coming up soon, so let's head back."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"No way!\r\nIs it really that time already!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "B-But no! I am de-fi-nite-ly not going home\r\nuntil I find the medicinal herbs for the ingredients!",
+      "choice_data_list": [
+        "(What should I do...)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...There must be a reason behind this, right?\r\nWon't you talk to us?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sweep isn't the kind of magical girl\r\nwho would break the rules for no good reason.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "......Ugh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Uggghhh... That's right.\r\nYesterday, Grandma came down with a fever and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Her fever hasn't gone down today either.\r\nSo, I want to use magic to help her feel all better!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "However, if you don't return past curfew,\r\nFuji-kun and everyone at the dorm will worry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Grandma might get notified as well.\r\nThat isn't what you want, is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Oh, of course!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "In that case, would you let us\r\nhelp you look for the medicinal herbs?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "If we analyze the information you gave me\nand narrow down the candidates, we should find it in no time.",
+      "choice_data_list": [
+        "Let's find everyone quickly so we don't miss curfew!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...A-All right, fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And—\r\nthanks to Biwa Hayahide, we were able to find\nthe plant we were looking for much faster than expected.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I'm so glad both Sweep\r\nand Marvelous were found safe and sound.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "W-Well, you were a big help today.\n...See you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "My, what kind of magic did you use\r\nto make her act so meek and mild?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Nothing at all.\r\nI was just poking my nose into your business.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Seeing her reminded me of my younger sister,\r\nand I just couldn't leave her alone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I see. That \"meddling\" of yours\r\nhas saved both me and everyone in the dorm, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"It was the same today.\r\nLet me thank you once again, Hayahide.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Perhaps surprised by Fuji Kiseki's words,\r\nBiwa Hayahide looked\na little embarrassed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yeah.\r\nWith more people on our side, we ought to take charge of that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "First, let's track down every spot on the grounds\nthat might be linked to the word 'Marvelous.'",
+      "choice_data_list": [
+        "Got it!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Just in case we crossed paths, I left a note on the dorm door saying,\n\"Call the Dorm Head's cell once you return,\" and began my search.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Not on stage, huh......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "She's not in front of the Three Goddesses statue either...\r\nDoes that mean she's indoors?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "A marvelous place in the school building, huh...\r\nMaybe around the music room?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yet with no one here right now,\nshe shouldn't be feeling inspired by anyone—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Red and gorgeous, so marvelous☆\nSuper sparkly, marvelouuus★",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Marvelous...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Huh, it's Hayahide!\r\nWhat're you doing in a place like this~?☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "*Sigh*...\r\nThat's my line.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"I heard it was a 'Marvelous Hunt,' but what on earth were you actually doing?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Well, you see, there's this marvelous rumor that if you run through the school building at night,\r\na red light will chase after you—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"When I tried running, a red light really came chasing after me, so I had a blast~☆\"",
+      "choice_data_list": [
+        "...Is it a ghost?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "G-G-G-Ghosts are entirely illogical!\r\nThere is no way such things could possibly exist in this world!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "If by some remote chance it does exist,\r\nhow should I deal with it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Heeey... Heeey...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Oh!\r\nA red light~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gyaaaaaah!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Waaah~☆\nHayahide, that was crazy fast~★",
+      "choice_data_list": [
+        "Or rather, the red light's true identity is..."
+      ]
+    },
+    {
+      "name": "Security Guard",
+      "text": "Sorry, sorry,\r\nlooks like I scared you a bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Security Guard",
+      "text": "Curfew's coming up soon for you guys too, so hurry on home, okay~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I'm sorry, you two...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Frenzied as I was,\r\nI committed the sheer folly of fleeing on my own.\"",
+      "choice_data_list": [
+        "No, don't worry about it."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Right, right. In the end,\r\nboth Marvelous and Sweep made it back safely anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"...Still, being bad with ghosts is\r\nquite a cute weakness for you, Hayahide.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Guh...!\r\nWell, what else could I have done?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Its ecology is unknown, and past cases are completely unreliable!\r\nHow are we supposed to deal with this?!",
+      "choice_data_list": [
+        "I was a security guard this time, so I'm fine!",
+        "I was a security guard this time, so it's okay!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y-Yeah, you're right...\r\nThanks to that, I think I can sleep peacefully tonight...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide let out a sigh as she said that,\r\nlooking thoroughly relieved from the bottom of her heart.",
+      "choice_data_list": []
+    }
+  ]
+}

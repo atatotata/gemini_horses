@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm. The GII Yayoi Sho, is it?\r\nSeems like quite a decent lineup has gathered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Well, but...\r\nIt's still a bit lacking to gather sufficient data.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A sudden pang of unease strikes me\nat Agnes Tachyon's words.",
+      "choice_data_list": [
+        "You're gonna run properly, right...?",
+        "You're going to run properly, right...?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Of course.\r\nThis race leads into the Satsuki Sho.\nWe shouldn't narrow down our options.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Besides, even if it's not a GⅠ, it's not a race\r\nyou can afford to take lightly.",
+      "choice_data_list": []
+    }
+  ]
+}

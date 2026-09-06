@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"...The new year has begun.\nStarting this year, <chrname> is in the Senior Class.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"On the track, despite it being early morning,\nthe members of 'Project L'Arc'\nwere already putting in running laps.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Are you here to observe as well?",
+      "choice_data_list": [
+        "...Yes."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "The number of supporters hasn't dropped.\nWe expect to provide the same level of backing as last year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "I think we should start making our serious moves\nbeginning with the \"Representative Exchange Match\" in late March.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Until then, I want you to build up your strength and prepare for the Prix de l'Arc de Triomphe.\n...Though I imagine you are already doing so.",
+      "choice_data_list": [
+        "...I'll do my best."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Yeah.\nThis year, let's make our dream a reality!",
+      "choice_data_list": []
+    }
+  ]
+}

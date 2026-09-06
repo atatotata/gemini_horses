@@ -1,0 +1,434 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One evening, while passing through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"...U-Um, you know what,\r\nOnii-sama?\"",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"...U-Um, you know what,\r\nOnee-sama?\"",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "H-Here, you can hab dis ticket!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I received a sheet of paper from a trembling, nervous Rice Shower.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That piece of paper was—",
+      "choice_data_list": [
+        "A lottery ticket?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yeah! Urara-chan taught me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "They said they're holding a \"New Autumn Lottery Draw!\"\ndown at the shopping district.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I heard the grand prize is an extravagant prize!\r\nSo... you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"I thought you might want to try it too, Big Brother.\r\nSo Rice got it ready.\"",
+      "choice_data_list": [
+        "...Well then, shall we give it a try together?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I thought maybe Big Sister would like to try it too.\r\nSo Rice got it ready.",
+      "choice_data_list": [
+        "...Well then, shall we give it a try together?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh, no way! If Rice is there,\nwe'll never win the prize—",
+      "choice_data_list": [
+        "Don't say things like that!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hawawa... Big Brother!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hawawa... Big Sister!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\r\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\r\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": [
+        "I'll participate!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oh, that's the spirit!\r\nWell then, give it a shot right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I-Is it really okay... for Rice to do it too?",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And praying together, the two of them grasped the lever and turned the raffle drum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Waaah! Yay, yay!\r\nCongratulations, Onii-sama!",
+      "choice_data_list": [
+        "Congratulations, Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Waaah! Yay, yay!\r\nCongratulations, Onee-sama!",
+      "choice_data_list": [
+        "Congratulations, Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe, you shouldn't be congratulating Rice.\r\nAfter all, you're the one who won it, Big Brother.",
+      "choice_data_list": [
+        "Still, Rice pulled along with me, right?",
+        "Still, Rice pulled along with me, didn't you?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe, you shouldn't be congratulating Rice.\r\nAfter all, you're the one who won it, Big Sister.",
+      "choice_data_list": [
+        "Still, Rice pulled along with me, right?",
+        "Still, Rice pulled along with me, didn't you?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah...!",
+      "choice_data_list": [
+        "So this grand prize belongs to both of us!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And Rice Shower should also have\r\nthe right to receive this grand prize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"...Is it really okay\r\nfor Rice to have some too?\"",
+      "choice_data_list": [
+        "Of course!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "U-Um... in that case,\r\num... you know!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Could we maybe... use it together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Since it's something the two of us won together...\r\nI was thinking I'd like us to... enjoy the trip together too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...No?",
+      "choice_data_list": [
+        "If Rice Shower says so!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Wah, really?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Fufu. Once we finish everything we want to do\r\nand feel like relaxing,\nlet's go together! Big Brother!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Fufu. Once we finish everything we want to do\r\nand feel like relaxing,\nlet's go together! Big Sister!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"And with the 'Hot Springs Trip Ticket' in hand,\r\nI promised Rice Shower that we would go\ntogether one day.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "F-First place!? Onii-sama, you're amazing!",
+      "choice_data_list": [
+        "Maybe it's because I drew it together with Rice Shower!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "F-First place!? Onee-sama, you're amazing!",
+      "choice_data_list": [
+        "Maybe it's because I drew it together with Rice Shower!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe. That's not... true at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Here you go, you two! Your prize!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "*yawn*... That looks so delicious...\nJust looking at it makes my mouth—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Uuuugh~~~~...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hawawa, tummy!? Why're you rumbling right now!?",
+      "choice_data_list": [
+        "Let's hurry home and get something to eat"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Ehehe, yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With all the joy and surprise, it's no wonder she ended up so hungry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The two of them thoroughly enjoyed the\r\n'Special Carrot Hamburg Steak' they had obtained.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\r\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Incredible... I can't believe something like this happened...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Look, look, Big Brother!\r\nThere are so many carrots!",
+      "choice_data_list": [
+        "How should we eat this?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Look, look, Big Sister!\r\nThere are so many carrots!",
+      "choice_data_list": [
+        "How should we eat this?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Oh, I get it!\r\nWith this much food,\nit'd be tough to finish it all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um, uh, well...\r\nUuu~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Big Brother, can you eat\r\nsweets made by Rice?",
+      "choice_data_list": [
+        "I want to eat!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"...Big Sis, can you eat\nthe sweets Rice made?\"",
+      "choice_data_list": [
+        "I want to eat!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yay! Rice will make looooots for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Later on, the two of us enjoyed\nthe carrot cookies that Rice Shower had baked.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\r\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Big Brother, it's not a dud!",
+      "choice_data_list": [
+        "Yeah.",
+        "That's true."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Big Sister, you're not a dud!",
+      "choice_data_list": [
+        "Yeah.",
+        "That's true."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe... Wow, things like this really happen. I just assumed I'd lose out like always.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It was only 3rd prize, but a win is a win.\r\nI gave the prize carrot to Rice Shower\nas a memento of today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uuugh... It really was Rice's fault~.\nI'm so sorry, Onii-sama~.",
+      "choice_data_list": [
+        "Still, it's really appreciated around this time of year!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uuugh... It really was Rice's fault~.\nI'm so sorry, Onee-sama~.",
+      "choice_data_list": [
+        "Still, it's really appreciated around this time of year!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "But still, but still, I really wanted you to win a good prize... *sniff*",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"...And so, for Rice Shower's teary eyes,\r\nI immediately put the very first tissue to use.\"",
+      "choice_data_list": []
+    }
+  ]
+}

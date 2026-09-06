@@ -1,0 +1,591 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Under the scorching sun, training continued\nheading toward the Sprinters Stakes.",
+      "choice_data_list": [
+        "Pump your arms! Lengthen your stride!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What we are working on now is the acceleration burst right after the start.\nSpecifically, trying to reinforce the initial acceleration.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Mmh... When I step down firmly,\nit seems I slip...",
+      "choice_data_list": [
+        "That's because you aren't stepping straight forward."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Which means that a portion of the force from your kick is being wasted.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I didn't even notice.\nThis won't do! I must fix it completely!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"Calstone-san's acceleration was in a league of its own, after all.\nPerhaps there was simply no need for counter-strategies until now?\"",
+      "choice_data_list": [
+        "Yeah. I figured it could wait, so it wasn't a problem",
+        "Yeah. It was totally fine to put it off."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If it weren't for the showdown with Sakura Bakushin O, I probably would have put off dealing with it until later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Accelerative sprinting requires powerful foot strikes and a widened stride.\nIt's the exact opposite of mid-race sprinting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I had avoided training them simultaneously out of concern that it might disrupt her form during the middle phase of the run. However—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If you can't secure the position you planned beforehand,\nit becomes harder to run the race you envisioned.\nImproving acceleration is essential for positioning.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Kick off with all my might. Lengthen my stride...\nFocus on moving horizontally across the ground...",
+      "choice_data_list": [
+        "Let's try doing it together with Bakushin O next time."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "It is my turn, then. Leave it to me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I see, so as long as I can accelerate\nfaster than Bakushin O, I'm good. Got it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Bakushin O, I'm counting on you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, Light O-kun. That's quite a large meal for you, how rare.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Didn't you usually cut back on carbs,\nsaying you couldn't run as fast if you gained weight?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "These are my Trainer's instructions.\nTraining camp involves high-intensity workouts,\nso I was told to eat this much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm... 60% carbohydrates, 20% protein, 20% fat... Fat primarily from omega-3s via mackerel and perilla oil. Plus protein, I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "I see, this menu has been designed\nwith building both muscle and endurance in mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "By the way, what's the training menu for this afternoon?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I heard it would be light.\nYou did say there wouldn't be any endurance running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Is there something bothering you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No, quite the opposite. Your Trainer's\nrisk hedging seems to be impeccable!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Even if you increase the engine displacement,\nif the frame is fragile, it could tear apart from gravity and wind resistance.\nStrengthening both to the same level... That's the ideal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"...Tachyon, you're beating around the bush. Just say what you want to say!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahahaha! My apologies.\nWhat I meant to say is...\nyou should accurately assess your airframe's specs.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I don't get it at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Now then, what will you be doing this afternoon?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I did plenty of runs this morning to build acceleration,\nwhich put a heavy load on my legs. So this afternoon,\nI intend to do only light, playful exercise, but—",
+      "choice_data_list": [
+        "Is there a game you'd like to play?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Slacking off is not allowed, Trainer.\nIt is still time for training.",
+      "choice_data_list": [
+        "No, no, this play is actually part of your training."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hey, hey, Right O-senpai!\nWhy not join in together?\nPlaying all by yourself isn't really fun, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Come to think of it, you're right.\nPlaying by yourself on a summer beach.\nIt's way too loaded with meaning. Visually speaking, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Training while playing is always more fun\nwith more people, after all~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Biko Pegasus, an Umamusume with a heart of justice,\nand Hishi Akebono, who excels at cooking,\ninvited me to a joint training session.",
+      "choice_data_list": [
+        "I'd love for you to join me."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yay~!\nWhat sounds good, Biko-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hmm... Smashing watermelons wrapped in straw or a free-diving contest!\nWhen it comes to games that are easy on the legs, these are it!",
+      "choice_data_list": [
+        "Why something easy on the legs?"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "I was watching your morning training!\nAnyone's legs would turn to jelly after running that much with Bakushin O-senpai!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sand is soft, but it takes power to run on.\nIt really tires out your legs, ya know~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"To think you saw right through me!\nHonestly, if I let my guard down, my legs would start shaking.\nJust like a newborn fawn.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ahaha, that's such a classic short-distance Umamusume thing~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "So, which one do you wanna do—the water-straw-melon split or a skin-diving contest?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Since it is considered a part of training, I will leave the decision to you, Trainer.",
+      "choice_data_list": [
+        "Watermelon splitting...?",
+        "A free-diving showdown!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Watermelon splitting plus roof tile breaking equals: Water-tile Splitting!\nYou put a roof tile on a watermelon,\nand smash 'em both in one punch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "There's a watermelon under ten roof tiles,\nso it takes quite a lot of strength~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Also, if you don't hit it dead center,\nit'll wobble and collapse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "A high-difficulty watermelon split, huh?\nNow that gets me fired up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I see. To cleanly break roof tiles and watermelons,\nhow you apply force is key.\nIt seems core strength will be tested as well.",
+      "choice_data_list": [
+        "This looks like it'll be great training!",
+        "Looks like it'll be great training!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hup... whoa-whoa-whoa!\nStacking roof tiles on top of a watermelon is seriously hard...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Leave it to me. Lining things up straight is my specialty.\nWhether it's vertically or horizontally.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Alright, how about this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Waaah, it's super stable!\nThe roof tiles haven't shifted at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Usually the roof tiles stick out a bit and end up all uneven. These look like they'll be easy to break~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Alright, I'll go first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Pegasus Screw Attack!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Dammit, I only broke the tiles...\nAnd I put my whole body into that hit, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Is the trick to use your body?",
+      "choice_data_list": [
+        "I don't think you can crack it with arm strength alone."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If you strike with just your arms, the watermelon will probably just roll away.\nBecause your balance will be off, it will be hard to split unless you channel your full body's strength all the way down in one go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I'll try next!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Here it comes~, Buono Megaton Puuunch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Aw man, the watermelon split, but five roof tiles are still left standing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "The roof tiles collapsed midway.\nAnd she crushed the watermelon with pure brute force.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I see~, so as far as splitting a straw watermelon goes, it's a failure.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Then it's your turn, Right O-senpai.\nWhy don't you shout out a special move name too?\nIt really puts power into it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I don't have a special move.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Then I'll come up with one!\nHow about \"Mach Straight Attack\"?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Too long. I prefer it shorter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hmm... Then 'Mach Straight Line' it is!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I can't put strength into words that end with \"n.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Y-You're being too picky...\nHow about \"Mach Straight Line Boss\"?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Let's go with that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Mach-Speed Straightaway Master!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crack-crack-crack! SPLIIIIIIIT!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Wh... What was that sound just now?\nI've never heard a noise like that before...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Look, Biko-chan!\nBoth the tiles and the watermelon were split clean in two!\nSuch a straight, beautiful cross-section~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Because force was applied literally straight on,\nthe roof tile and watermelon split cleanly from the center.\nIt was truly a textbook strike.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Whoa!\nThat's practically master level!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Heh, a master of straw-watermelon splitting, eh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That's so uncool! If you're gonna call me anything, make it \"Straightaway Master\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Alright, first up is a long-distance swim to a deserted island~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Why? If it's just skin diving, you could do that around here, couldn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"We're not competing over who stays under the longest,\nwe're competing to see who gathers the most shells!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "The lodge caretaker said it was fine to gather shellfish as long as it's near the deserted island.\nIf we catch a lot, let's all eat 'em together~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Two birds with one stone, huh? I'm all for it.\nIt has excellent cost-performance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "All right, gonna swim all the way to the deserted island!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I heard there are lots of seashells a bit further from the shore.\nYou saw them when you swam over, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yes.\nTrainer, I leave the signal to you.",
+      "choice_data_list": [
+        "Ready... start!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I'll gather the most clams at top speed!\nHaaaaaaah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The three dove into the sea and swam off together.\nReaching a deeper area,\nthey plunged beneath the surface. However—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Splash! Splas-splash-splash!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "*gasp*! *pant*, *pant*... I can't stay under!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O couldn't duck under...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Huh!? Right O-senpai, you can't dive?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yeah. For some reason, I've always floated.\nI thought I might be able to dive in the sea, but...",
+      "choice_data_list": [
+        "You float more easily in the ocean than in a pool, you know."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Seawater is heavier and more buoyant than fresh water.\nThat's why it's easier to float in the ocean.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Kh, so you're saying I have no chance of winning?\nFrustrating! Losing by forfeit is far too frustrating!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "In that case, how about Right O-san\ngathers them where his feet can touch the ground?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "It's a free-diving showdown, so keep your faces in the water!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Right! Right O-senpai, think you can gather some shellfish with that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Let's give it a try.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "*gasp*!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "(Alright, I can reach it at this depth.\nThough walking kicks up the sand and ruins visibility.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "(Right, a handstand!\nIf I do a handstand, I can grab the shells before kicking up sand!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Looks like Right O-senpai\nis picking them up while doing a handstand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah. All you can see are legs sticking out of the sea~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...You know, for some reason, this whole scene feels super familiar...",
+      "choice_data_list": [
+        "Did you see that in a detective mystery drama or something?"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ah! That's it!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "*gasp*! Alright, big haul!\nOne more time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oops, Biko-chan, let's get going too!\nOr Daitaku Helios will beat us~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the free-diving showdown, the three gathered a mountain of shellfish. There were far too many, so the match was declared void. They kept only an appropriate amount and returned the rest to the sea.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And the shellfish we gathered\nwere deliciously cooked by Hishi Akebono,\nand we all savored the meal together.\"",
+      "choice_data_list": []
+    }
+  ]
+}

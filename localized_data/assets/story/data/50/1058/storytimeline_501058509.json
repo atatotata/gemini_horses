@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day when I went out into town, I saw Meisho Doto bowing politely to a statue in front of the station...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I'm so sorry, I'm truly sorry!\r\nAre you hurt? Did your clothes get dirty?",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Trainer! Um, while I was walking,\r\nmy legs felt heavy and I tripped.\nAnd then, I bumped right into this person...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "The shock made your face turn so pale...\r\nWait, huh? W-What?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "A st-st-statue?\r\nWhy on earth am I apologizing to a bronze statue~~~!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Meisho Doto might be carrying quite a bit of fatigue...\nIt would be wise to reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

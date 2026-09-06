@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Hishi Miracle didn't show up for training,\nso getting worried, I went looking around for her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Hmm... What should I do...?\nI still have plenty of lip balm left...",
+      "choice_data_list": [
+        "Hishi Miracle"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "âAh, Trainer-san.",
+      "choice_data_list": [
+        "Um, it's training time, but..."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Huh... Ah, training!\nAh, I completely forgot...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I'm sorry...\nMy head was completely filled with the thought of having to use my coupon before today ended...",
+      "choice_data_list": [
+        "A coupon?"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "The discount coupon here expires today.\nBut I just can't seem to find anything\nI actually want to buy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I am truly very sorry...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since Hishi Miracle seemed deeply remorseful,\nI simply warned her to be more careful next time.",
+      "choice_data_list": []
+    }
+  ]
+}

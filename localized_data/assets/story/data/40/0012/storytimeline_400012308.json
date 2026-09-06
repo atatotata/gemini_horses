@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Transcend's Friend",
+      "text": "Hm? Are you... Tran!?\nYo, good to see you since our last meetup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While walking through Yukoma Onsen,\na woman in her early twenties called out to us.\nShe seemed to recognize Transcend.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ooh~~, what a coincidence!\nWhatcha doing here?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend's Friend",
+      "text": "I'm so glad you asked...!\nHey Tran, mind hearing me out for a second!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend's Friend",
+      "text": "—So, I'm doing a PR gig here right now.\nI was planning to build a sauna by hand and upload a vlog of the process, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend's Friend",
+      "text": "I can't think of what would be good at all, man...\nTran, what do you think I should do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Local PR for Yukoma Onsen, huh...\n...Hey, Trainy. Don't you get the feeling\nthis might not be entirely unrelated to us?",
+      "choice_data_list": [
+        "Yeah, we can't just leave it alone!",
+        "Yeah, we can't just leave it alone!"
+      ]
+    },
+    {
+      "name": "Transcend's Friend",
+      "text": "Huh... Seriously? Are you sure?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Leave it to me, leave it to me.\nFirst, let's nail down the concept.\nTrainy, what kind of vibe do you think is good?",
+      "choice_data_list": [
+        "Let me think..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"In situations like this, it's probably important to consider\nthe user's perspective. In that case—\"",
+      "choice_data_list": [
+        "Maybe we should get ideas from everyone."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, I like that. Let's do that!\nAlright then, off we go on our inquiry investigation~",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "What kind of sauna is best?\nThere can only be one answer!\n—A sauna that makes the beautiful me shine even more radiantly!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmm... I see.",
+      "choice_data_list": [
+        "...It does."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Um, how about\nyour friend who came along with you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "\"...We didn't come together. We just ran into each other.\nI prefer... a quiet sauna.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hmm, let's see...",
+      "choice_data_list": [
+        "Hmm, hmm..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "...That answer might've been a bit too eccentric.\nWhat're we gonna do, Trai-chan? Got any ideas?",
+      "choice_data_list": [
+        "Let me think..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I try recalling the clues gathered from asking around...\n\"Where a beautiful me can shine even brighter\"—\n\"A quiet place\"—",
+      "choice_data_list": [
+        "—Ah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "As I pondered, a certain place came to mind.\nI decided to take Transcend there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ohh! What a nice, cool place this is.\nIt's pretty, and so quiet—",
+      "choice_data_list": [
+        "Right, I thought somewhere pretty and quiet would be nice."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "This is—a river fairly close to the hot spring town.\nIt's a spot where swimming is permitted as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "! I see. So that's how you took what just happened.\nNot bad at all, Trainy~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yeah, looks nice. We could even play in the river instead of using a cold bath!",
+      "choice_data_list": [
+        "Right? I'm sure it'll feel amazing once you get in—",
+        "Right? I'm sure it'd feel amazing once you get in—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Sliiiip*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—My footing slipped.\nBy the time I realized something was wrong, it was already too late.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(SPLAAAAAAASH!!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Whoa!? Trainey, are you okay...!?",
+      "choice_data_list": [
+        "I-I'm fine...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Fortunately, it looks like she isn't injured.\nAnd what's more—",
+      "choice_data_list": [
+        "(Huh, it's cold but it feels kinda nice...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"It feels just like stepping into a cold bath after a sauna.\nThe river water is so soothing on a body overheated by late summer...\"",
+      "choice_data_list": [
+        "This actually works!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "...Yes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I see. It really is nice and cool.\nIt's perfect to use instead of a cold plunge~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "――Ah. Hey, a fish just swam by.\nRight below your knees, Trai-chan――",
+      "choice_data_list": [
+        "You're right! Wait, now it's heading toward Tran—"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Wait... No way!?\n—Whoa, it's true!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "...Ahaha, ahahahaha!\nWait, wait, that tickles!",
+      "choice_data_list": [
+        "Could this be... a brand-new thrill discovered...!?",
+        "Could this be... a brand-new thrill discovered, I wonder...!?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Thrill, or rather, it's just tickling—\n—Ahaha! Wait, I can't take it anymore!\nStop it, really... Ahahaha!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We agreed on using the river as a cold plunge,\nand soaked our feet in the water for a while to cool off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend's Friend",
+      "text": "A riverside sauna?\nPlaying in the river as a cold plunge!? Whoa,\nthat gets me so freakin' pumped!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, having secured the necessary permissions,\nwe decided to build a sauna by the river.\n—Let's make it an amazing sauna, for promotion's sake too!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "No Reason",
+      "text": "Ow... ngh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "Grrr...! The enemy is attacking from inside my head...!",
+      "choice_data_list": [
+        "Do you have a headache?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "That's exactly it!\nUgh... what a formidable bunch...!",
+      "choice_data_list": [
+        "Maybe we should hold off on training...",
+        "Maybe we should take it easy on training..."
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Nay! That alone must be avoided!",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "Suspending training... In other words, admitting defeat to a headache!",
+      "choice_data_list": [
+        "But we can't just keep training like this..."
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Do not rush! It is precisely at times like this that we must stay calm\nand devise a strategy to fend off the enemy's attack!",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "Mmmph...! The more I think,\nthe more my opponent goes wild inside my head~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, No Reason continued to be plagued by headaches afterward.",
+      "choice_data_list": []
+    }
+  ]
+}

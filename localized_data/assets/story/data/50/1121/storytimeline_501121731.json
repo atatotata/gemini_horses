@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "Splendidly done, Trainer-dono!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I'm sure the whole family will welcome our new friend!\n...Fufu.",
+      "choice_data_list": [
+        "If your family is happy, that's what matters most.",
+        "If it makes your family happy, nothing could make me happier."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "I appreciate your thoughtfulness.\nI will be sure to convey your kindness\nto my family, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

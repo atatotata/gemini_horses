@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "When it comes to summer... That's right!\n\"Eating ramen at a beach shack\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "So with that said! Let's serve ramen to everyone\nat the academy during the summer training camp!",
+      "choice_data_list": [
+        "I see, it’s a chance to get some feedback, huh?",
+        "I see, it’s a chance to get some feedback, right?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yes! And using the feedback I receive,\nI'll keep polishing my ramen-making skills!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "And so~... hip, hip, hooray!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "\"Hip, hip, hooray!\"\n\"Hip, hip, ra... Oh, it's the normal one too?!\"",
+      "choice_data_list": []
+    }
+  ]
+}

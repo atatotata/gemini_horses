@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Inari One",
+      "text": "Ugh...! My head's been\npounding since this morning!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Guess I got no choice, I'll keep the headband on for a while...",
+      "choice_data_list": [
+        "Why a headband...?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Why? Because a headband is the best cure for a headache, right?\nThere's even a phrase for it: 'headache headband.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Tightenin' somethin' around my temples eases the headache, see.",
+      "choice_data_list": [
+        "I see..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "What's that look for? Don't tell me ya don't trust me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"If I recall, wasn't it something like... the headband compresses the blood vessels in your head to ease the pain...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Ngh... Thinking about all that complicated stuff\nmade the pain flare right back up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, though I recommended headache medicine to Inari One instead of a headband, she was plagued by a headache for a while.",
+      "choice_data_list": []
+    }
+  ]
+}

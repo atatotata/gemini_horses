@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Spectator A",
+      "text": "“—Hey, which girl are you keeping an eye on\nin today's race?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "What are you talking about? With this lineup,\nEishin Flash is the only choice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Right~. With \"this lineup,\" it's pretty much gotta be Eishin Flash—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The day of the Keisei Hai.\nAttention on Eishin Flash was remarkably high among the runners, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "I wouldn't call that a positive assessment.\nIt's a passive choice.",
+      "choice_data_list": [
+        "Still, expectations are expectations.",
+        "Still, expectations are expectations."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Indeed.\nI want to live up to those feelings.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, rather...\nI must be someone worthy of living up to expectations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "This race is merely a stepping stone.\nI cannot afford to stumble here.",
+      "choice_data_list": [
+        "You'll be just fine as long as you run like your usual self.",
+        "You'll be fine if you just run like you always do."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Indeed, just as always.\nI will do what must be done.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "And we'll carry this momentum into the first leg\nof the Classic Triple Crown, the Satsuki Sho.",
+      "choice_data_list": []
+    }
+  ]
+}

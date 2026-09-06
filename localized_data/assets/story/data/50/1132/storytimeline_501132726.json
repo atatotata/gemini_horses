@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Loves Only You...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Look, look, Trainer-kun!\nI found a Paka Puchi!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Look, look, Trainer-chan!\nI found a Paka Puchi!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Loves Only You is pointing,\nI see a crane game filled with plushies\nthemed after various Umamusume.",
+      "choice_data_list": [
+        "How cute!",
+        "How cute!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Right, right~?\nDon't you think that plushie is super photogenic?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"If I set this out while streaming,\nit'd make the screen look super cute~.\"",
+      "choice_data_list": [
+        "Then I'll get it for you!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Are you sure? Thank you.\nYou're so sweet, Trainer-kun♡\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Are you sure? Thank you.\nYou're so sweet, Trainer-chan♡\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu, I can't wait for today's stream♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

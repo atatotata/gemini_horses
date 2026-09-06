@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After the break, I exchanged greetings\r\nwith Winning Ticket in the central plaza.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Trainer! Mornin'~!\r\nThanks for giving me yesterday off!",
+      "choice_data_list": [
+        "Did you get a good rest?",
+        "Were you able to get some proper rest?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Mm-hmm, looking perfect~!\nBoth body and heart are packed with full power!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Starting today, bam-bam, non-stop!\r\nI'm gonna do my absolute best with training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Winning Ticket seemed to have refreshed both her mind and body.",
+      "choice_data_list": []
+    }
+  ]
+}

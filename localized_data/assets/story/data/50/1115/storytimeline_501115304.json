@@ -1,0 +1,340 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—I had a dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Someone so beautiful, bearing a name of gold...\nis being met with thunderous applause in a foreign land.\nHer heroic figure makes my heart tremble and swell with passion...!",
+      "choice_data_list": [
+        "\"Someday, I too—\""
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...I woke up. Trying to calm my chest,\nwhich was still lingering with excitement—\nI touched a cold, intricately crafted gold pendant.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"About two months have passed since entering the Classic Year. While running in races, I've continued training all on my own, but—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Haaaah!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The issue where Orfevre's motivation drops\nwhenever she runs alone has now...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Not bad.",
+      "choice_data_list": [
+        "(Yeah, looks like it's stopped dropping.)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Now then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hey.\nOne more set.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Engrave it deeply—into your mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Heh—... Haaaaaaaah!",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Having gained real race experience,\nOrfevre's running was honed even further...\nshowing remarkable growth day by day.\"",
+      "choice_data_list": [
+        "Amazing! You beat your target time!",
+        "Amazing! You beat your target time!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "I see.",
+      "choice_data_list": [
+        "I can't wait. The Classic Triple Crown...!",
+        "I can't wait. The Classic Triple Crown...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...How pure and honest.",
+      "choice_data_list": [
+        "(Still, she really did her best...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Normally, being in a situation without her vassals—\nwithout the freedom to be as selfish as she pleased—\nwould have been quite stressful for her.\"",
+      "choice_data_list": [
+        "Thank you, Orfe."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "What is it?",
+      "choice_data_list": [
+        "Working so hard all on your own..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "Shall I call in my subjects soon?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Either is fine with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "It may be insufficient,\nbut it's still usable.",
+      "choice_data_list": [
+        "Uh—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "That's all for today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The sun feels pleasant.\nI will head into town.",
+      "choice_data_list": [
+        "The menu is still there, for what it's worth, but..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "I reached the goal.\nWhat more is there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Considering her performance so far and that last result,\nwrapping things up early shouldn't be an issue.\nIt's best to prioritize her motivation right now.",
+      "choice_data_list": [
+        "I'll adjust tomorrow's schedule after this.",
+        "I'll adjust tomorrow's schedule after this, okay?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "What are you saying?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You are my attendant,\nare you not?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Follow me.\nDo not lag behind.",
+      "choice_data_list": [
+        "…! Ah!",
+        "…! Yeah!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Huh?\nThey were just here a moment ago...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"I wanted to ask for a tandem run, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Looking for Orfevre-san?\nLooks like she went out to have some fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "T-Totally effortless~~...!\nIt's actually kind of refreshing~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Aah, forget it, let's just run!\nI'll surpass genius... with hard work!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After getting ready, I headed into town with\nOrfevre... and something delightful happened right away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "U-U-U-Um...!\nO-O-O-O-Orfevre-sama...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan B",
+      "text": "Wait! S-See, your head really is held too high!\nF-Forgive us, Lady Orfevre!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I permit it.\n...And what of you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "We are unworthy of such grace...!\nWe are Lord Orfevre's loyal \"subjects\"...!",
+      "choice_data_list": [
+        "S-Subjects?"
+      ]
+    },
+    {
+      "name": "Race Fan A",
+      "text": "\"Since Lady Orfevre is our King,\nthat makes us fans her loyal subjects, so...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's true that Orfevre referred to people as her subjects, but...\nwho would have thought a fan would actually refer to herself as one?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I see.",
+      "choice_data_list": [
+        "(She looks satisfied.)",
+        "(She looks satisfied...)"
+      ]
+    },
+    {
+      "name": "Race Fan B",
+      "text": "I watched your debut race and,\nif I may be so bold, it was love at first sight...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan B",
+      "text": "\"Lady Orfevre...\nYou'll be taking the Classic Triple Crown path, won't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Naturally.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"The royal road is,\nquite simply, my road.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fans A & B",
+      "text": "...!!!!\nS-So cool...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "\"I can't wait to see\nLady Orfevre's coronation...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "—Whoa!?\nOrfevre's actually here...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Band Member A",
+      "text": "Ah, that's what our band's named after.\nWant me to go talk to her?",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "\"...No, no way, absolutely not!\nHow am I supposed to talk to people when I haven't even made it big yet?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "Our crowds are finally picking up!\nUntil our name echoes all the way to her...!\nLet's sell out, sell out, and sell like crazy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even after parting ways with her passionate fans,\nOrfevre seemed to be in a surprisingly good mood.",
+      "choice_data_list": [
+        "Word of your kingly presence is really getting around, huh",
+        "Word of your kingly presence is really getting around, isn't it"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed.\nYet it is not enough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The world is full of nothing but foolish masses...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Orfevre glares around imperiously at her surroundings.\nAll around her, ordinary townspeople who likely don't know who she is\nare chatting merrily.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Once I wear the Triple Crown,\neven the most ignorant will come to understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The King whom they ought to worship.\n—I look forward to seeing all their foolish faces lined up.",
+      "choice_data_list": [
+        "(This is it...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The Classic Triple Crown route I've had my sights on for so long...\nFirst is the opening leg, the Satsuki Sho—as king, a battle I cannot afford to lose begins.",
+      "choice_data_list": []
+    }
+  ]
+}

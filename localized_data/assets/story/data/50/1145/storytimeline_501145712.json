@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Rulership didn't show up for training.\nShe's been slacking off a lot lately,\nso I go to pick her up and give her a stern talking-to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Whoa!? Trainer!?\nWhat's with the scary face...\nI-It's not like I was planning to play games or anything...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "I know! This is \"preserving physical resources\"...\na tactic looking towards the long game!",
+      "choice_data_list": [
+        "\"Rules\" are meant to be strictly followed, right?",
+        "\"Rules\" are meant to be strictly followed, right?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "......*sigh*, you're right.\nOn the board, rules are absolute.\nMy bad...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I gave them a stern talking-to\nto ensure they would never do the same thing again.",
+      "choice_data_list": []
+    }
+  ]
+}

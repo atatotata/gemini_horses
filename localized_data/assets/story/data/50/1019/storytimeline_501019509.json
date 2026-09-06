@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking with Agnes Digital and discussing her next race...\nwe passed by two Umamusume who seemed quite close.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hehe! If you cling to me that tightly,\r\nit's kind of hard to walk~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Hm? H-Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Just now, I felt... a wave of emo-ness... W-Was it just my imagination...?",
+      "choice_data_list": [
+        "...Are you okay?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, yes! Sorry to interrupt out of nowhere...\r\nSo, what were we talking about...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For her to miss out on 'emo vibes'...\r\nShe must be completely exhausted.\nMaybe I should reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

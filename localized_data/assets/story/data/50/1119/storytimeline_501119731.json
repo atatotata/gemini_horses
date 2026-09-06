@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dream Journey",
+      "text": "Thank you very much.\nI'd like to give you something in return...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I told Dream Journey that no thanks were necessary,\nand that I was just glad to have been of help.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Devoting one's heart entirely for the sake of others like this...\nis truly not something just anyone can do.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Thanks to you, I believe I'll get to see my junior's smile.\"",
+      "choice_data_list": [
+        "You're the kind one here. You really care about your juniors.",
+        "You're the kind one here. You really care about your juniors, don't you?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I simply try my best every day\nto make sure all our committee members feel comfortable.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Because doing so will also help us work with greater enthusiasm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

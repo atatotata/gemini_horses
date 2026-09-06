@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "During training, Rice Shower crouched down\nand curled up into a ball...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-Yeah... Rice is okay... so\r\nI have to do my best for the next race...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I run in lots of races...\r\nbecause I want to make everyone happy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems I'm pushing her too hard.\nI might need to rethink her upcoming race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "All right, let's do our best at the Ramen Jamboree\ntoday! Ei, ei, Jamboree!",
+      "choice_data_list": []
+    },
+    {
+      "name": "All",
+      "text": "\"Jamboree!\"\n\"Jamboree! ...Looks like our call-and-responses grew again.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Today is finally the opening day of the Ramen Jamboree! Everyone, including <chrname>, seemed fully pumped up, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hmm. This is drawing far bigger crowds than expected. The line is insane.\nService speed isn't keeping up. In that case—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Fastest! Fastest! Haaaaaaaah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I apologize. In my panic, I ended up executing the\nforbidden \"High-Speed Noodle Drain.\" I will reflect on this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, I understand how you feel... Huh?\nWait. Doesn't that noodle strainer have a hole in it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Huh...? Is this all the seaweed we have?\nAt this rate, we might run out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ah... I'm so, so, so, so sooorrryyyy!!\nI messed up the order~~~!! Waaaah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Don't worry. I'll go buy the noodle strainer and the nori!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Excuse me, then. —Heh.",
+      "choice_data_list": [
+        "S-So reliable...!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Indeed, Tazuna-san's performance during this event was truly remarkable—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "Hmm... So, it seems we need to think about\nwhich company to rent the noodle boiler from...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Ah, if it's about that... I just sent over\nthe materials a moment ago, so please check them.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Light Hello",
+      "text": "Huh... Ah! Amazing! Did you make\na list of companies for me!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yes. You expressed concern during our meeting the other day,\nafter all. I just wanted to be of help!",
+      "choice_data_list": [
+        "(As expected, so thoughtful...)"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Trainer, do you have a moment?",
+      "choice_data_list": [
+        "Yes! What can I do for you?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Regarding the 'Ramen Jamboree',\nthe academy has also come up with some promotional ideas.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I've put together about 10 proposals, so please look them over...\nI would truly appreciate your feedback!",
+      "choice_data_list": [
+        "Huh, ten different proposals?!"
+      ]
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Impressive as always! I knew you've been gathering\ningredients for our ramen research and helping set up events,\nbut to go this far too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "I-I'm so grateful, truly...\nOnce she returns, I must give her my thanks...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "After everything she's done for us, I have to...\nmake sure to look after Tazuna-san...!",
+      "choice_data_list": [
+        "Yeah. That sounds good.",
+        "Yeah. Sounds good to me."
+      ]
+    },
+    {
+      "name": "",
+      "text": "However, the nearest supermarket is quite far from this venue.\nIt would take a considerable amount of time to get back—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I'm back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Here are the nori seaweed and the noodle strainer! Please check them over!",
+      "choice_data_list": [
+        "...Y-You're back very quickly, aren't you?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That was a huge help, thank you so much.\nI will repay this favor someday—no, right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Oh, right. I'm going to make staff ramen,\nso please eat up. Consider it a token of my gratitude!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"W-Wah, thank you very much!\nHehe, I'll enjoy it later, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "T-Tazuna-san! Th-Th-Thank you sho sho much! ...So much~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"Buying seaweed for us was wonderful too, but...\nyou're always there, supporting us Umamusume\nfrom behind the scenes...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"...Gasp! C-C-Could it be that just saying\nthank you isn't enough~~~?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fufu. No, please don't worry about it.\nIt's something I want to do myself!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Besides, it's the first time running this event! With things\nbeing unfamiliar, making mistakes is only natural.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "At times like that, please rely on me—on us adults! That's what we're here for!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "T-Tazuna-san...!",
+      "choice_data_list": [
+        "(...I have to do my best too, just like her!)",
+        "(...I have to do my best too, just like her!)"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "And now! Let's have everyone\nsavor your lovely feelings to the fullest♪",
+      "choice_data_list": []
+    }
+  ]
+}

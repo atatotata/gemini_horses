@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "――One day in December.\nWhile logging today's recorded times on the tablet,\nI check our progress toward the next race.",
+      "choice_data_list": [
+        "(Come to think of it, the Arima Kinen is coming up soon.)",
+        "(Come to think of it, the Arima Kinen is coming up soon.)"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "...Trainer.\nI've finished my cool-down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "...What is the matter?\nIs there an issue with the upcoming schedule...?",
+      "choice_data_list": [
+        "No, I was just thinking that the Arima Kinen is coming up."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Based on the fan vote results, it wasn't impossible\nfor Chrono Genesis to enter the race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"However, due to conditioning issues and timing,\nit seemed difficult to enter in top condition,\nso we had decided to skip the race this year.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Let's see... Ah!\nTh-this time... I'm planning to go watch as a spectator!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "What happened at the Takarazuka Kinen\nwon't happen again... So, p-please don't worry!",
+      "choice_data_list": [
+        "Then do you want to go together? To the Arima Kinen."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "! I... I'll go! P-Please... by all means, let me join you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In late December, we'll be watching the Arima Kinen.\nLet's make sure not to schedule any races then.",
+      "choice_data_list": []
+    }
+  ]
+}

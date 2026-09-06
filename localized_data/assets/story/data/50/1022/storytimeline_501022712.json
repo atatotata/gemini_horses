@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Fine Motion didn't show up even though it was time for training,\r\nso while I was searching around campus...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mumu... I can't overlook this news...!\nIt'll affect not just Ireland, but other countries too...",
+      "choice_data_list": [
+        "Is that... a tabloid magazine?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, Trainer. Want to read too?\r\nPolitical articles are always so intriguing...!",
+      "choice_data_list": [
+        "It's already time for training, though..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Huh?! Is it that time already?\nI-I'm so sorry, I got completely carried away...",
+      "choice_data_list": [
+        "Make sure you read this later.",
+        "Make sure you read this later, okay?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yes... I let my guard down.\r\nI'll be more careful from now on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fine Motion seems genuinely apologetic.\nI let her off with a light warning.",
+      "choice_data_list": []
+    }
+  ]
+}

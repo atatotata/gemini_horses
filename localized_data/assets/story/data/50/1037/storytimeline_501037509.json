@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "Hah... hah... Today's strength training\r\nis now complete...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Um, what time is it now...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "? We've finished much earlier than scheduled...",
+      "choice_data_list": [
+        "No, aren't we running a little late...?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!?\nY-You're right...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Haaah... How careless of me;\r\nI mixed up the hour hand and the minute hand...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "For her to misread the clock,\r\nshe must have built up a lot of fatigue.\nIt seems I'll need to reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

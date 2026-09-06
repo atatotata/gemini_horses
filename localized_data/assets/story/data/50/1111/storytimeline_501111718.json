@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my report from my time off.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Meal details attached in the document.\nOn sunny days, light jogs to break a light sweat;\notherwise focused on rest through reading and studying.\" —",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I look over the vacation report sent by Air Messiah.\nJust as I finish reading it, the door opens.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Good morning, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I will return to training starting today.\nI look forward to your continued guidance and support.",
+      "choice_data_list": [
+        "Yeah. Let's give it our all again starting today.",
+        "Yeah. Let's give it our all again starting today."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Air Messiah's complexion looks great.\nJust as the report said, it seems she enjoyed a relaxing break\nand rested both mind and body thoroughly.",
+      "choice_data_list": []
+    }
+  ]
+}

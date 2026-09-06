@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After the break.\r\nWhen I visited the Trainer's office for a meeting with Fuji Kiseki—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...*snooze*, *snooze*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "T-Trainer...!?\r\nDid I fall asleep, by any chance—",
+      "choice_data_list": [
+        "Slept like a log, of course."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah... I'm sorry.\nI've shown you an unsightly side of myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "One of the girls in the dorm was feeling homesick, you see.\nI stayed by her side until she fell asleep, but... *yawn*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to Fuji Kiseki, the girl in the dorm was able to sleep peacefully,\nthough it seems Fuji herself didn't get much rest.",
+      "choice_data_list": []
+    }
+  ]
+}

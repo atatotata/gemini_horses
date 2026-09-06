@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After hanging out with Sakura Laurel,\nshe extended an invitation to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "After this, I'm planning to borrow the kitchen\nin the cafeteria to make some espresso.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"So... if it's alright with you,\nwould you please have some?\"",
+      "choice_data_list": [
+        "You're letting me drink it?",
+        "Are you going to let me drink that?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yes.\n...Actually, I've been researching brewing methods lately, and I'd love to hear your thoughts on it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"My goal is to recreate 'authentic French espresso'\nand brew a cup for my father!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I just thought it'd be wonderful to have familiar flavors while you're back in the country!",
+      "choice_data_list": [
+        "If that's the case, I'd be happy to help."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Heh-heh-hmm, hmm...♪ Alright, nice! Looks like the tamping turned out great too.",
+      "choice_data_list": [
+        "You're really skilled with your hands!",
+        "You're really skilled with your hands!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ufufu, Cafe-chan actually taught me,\nand I practiced a whole lo~t!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Laurel began to happily talk about when she practiced—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Roasting is a battle against time...\nPlease quickly remove the coffee beans\nfrom the machine and cool them down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yeah, got it! Quick and easy, right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah... Ow, ow, hot...!\nRoasters get this hot!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Are you okay...?\nIf you got burned, you should put some ice on it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "No, I barely grazed it, so I'm fine!\nMore importantly, we've got to hurry, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Next, we grind the beans...\nEspresso requires an extra-fine grind. ...However,\nthe hand grinder I have doesn't produce a uniform size.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Please regrind it in the mill several times...\nPatience is key... again and again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "......Yeah, looks evenly mixed now, right?\nHow's this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Almost there.\nPlease gather beans of similar size...\nIf we regrind them, I believe the grind will even out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I see...! Yeah, got it!\nI'll spin it round and round until it gets delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Phew... It's finished, I think?!\nThis is my espresso...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Well then... itadakimasu!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Mmm... Huh?! It's super bitter!!\nWhy...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...I believe it's because... it took time\nto cool the beans after taking them out of the roaster.\nThe roasting continues even during that interval, you see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "And also... you turned the mill plenty of times, but... it's not quite there.\n...There's a slight inconsistency in the flavor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I see, I see... Even after taking them out of the machine,\nthe beans continue to roast... and the bean size\nalso changes the flavor profile, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Which means you can fine-tune the taste just by changing the roast and grind size!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "All right, one step forward!\nI'll aim for the flavor Dad loves,\nand try as many times as it takes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Fufu... Crafting the ideal espresso...\nI will help you... all the way to the end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"The brew time was spot on... and yep!\nA gorgeous caramel color! The crema is perfect too♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Laurel handles the coffee with meticulous care right to the very end. It was clear she had mastered the skill after challenging herself through countless failures.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Here you go, the finest espresso!\nPlease enjoy, Trainer♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "How does it taste...?",
+      "choice_data_list": [
+        "Yeah... 100 points!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yay, 100 points! Woo-hoo~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Well now, I'm gonna give it a try too!\nDown the hatch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Mm... Yeah! It's delicious!\nBut—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Dad likes a pleasant acidity, so maybe a slightly milder flavor would be better.\n—Alright, let's do this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Trainer, could you taste test\nagain for me next time too?",
+      "choice_data_list": [
+        "Of course!",
+        "The coffee tastes delicious as it is, too—I really like it."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Leave it to me!\nI'll leap right over your expectations, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah, maybe next time I'll try making some treats that go well with espresso too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Please give that one a taste too, Trainer-san♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "So this is what you like, Trainer...\nHm, hm. I'll make sure to remember that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Fufu, I'm so glad\nyou drank it, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Hearing you say it's delicious\ngives me so much confidence♪",
+      "choice_data_list": []
+    }
+  ]
+}

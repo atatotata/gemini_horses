@@ -1,0 +1,456 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Ines Fujin",
+      "text": "Done with cool-down!\r\nOff to my part-time job now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Once the scheduled training is over,\r\nInes Fujin vanishes like the wind.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"As I was reviewing the data gathered today\r\nand considering what the next training menu should be...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nature-san. Would you mind accompanying me\r\nfor about 3 more laps?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ooh... You really never get tired, Ikuno~.\r\nAlright. Let's do some self-practice together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having finished their training, the Umamusume began doing their own independent practice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While a common sight at Tracen Academy, Ines Fujin is rarely a part of it.\r\n",
+      "choice_data_list": [
+        "Practice volume really does make a difference after all...",
+        "Practice volume really does make a difference after all..."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "—Yeah! That's the form, Bright!\r\nYour core is nice and steady.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "*pant*... *pant*...\r\nYeees, thank you so much~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The girl calmly catching her breath is, if I recall,\na horse girl from the same Mejiro family as Mejiro Ryan...\nMejiro Bright.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Hawaaa~, it feels like all those days of worrying were just a dream.\r\nYou resolve everything in an instant, Big Sister~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Practice isn't just about quantity, quality matters too!\r\nWe've always got to make our training meaningful!\n...Just repeating what Grandmother said, though!",
+      "choice_data_list": [
+        "(Not just quantity, but quality too...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...That's true.\r\nRather than lamenting our lack of practice time,\nwe must first strive to improve its quality!\"",
+      "choice_data_list": [
+        "I need to study harder too!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so this week, I decided to visit the bookstores and sports shops my senior recommended to look for magazines and video materials!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Still, the bookstore she recommended has huge floors.\r\nJust finding where the specialized magazines are\nseems like it'll be a hassle on its own...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Clerk",
+      "text": "Are you looking for racing magazines?\r\nThose can be found on the second floor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems someone else is lost just like me.\r\nThinking this is my lucky break, I look over—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Right this way, follow me!",
+      "choice_data_list": [
+        "Ines!?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "If you are looking for anything in particular,\nplease feel free to ask a staff member~!",
+      "choice_data_list": [
+        "Aines!?!?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Here you go, ramen's up!",
+      "choice_data_list": [
+        "Aines!?!?!?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Trainer, I wanted to discuss\r\ntomorrow's training menu—",
+      "choice_data_list": [
+        "Aines!?!?!?!?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh? What?! It's me, Ines, though!?",
+      "choice_data_list": [
+        "Because this week, everywhere I looked, you were there...",
+        "Because this week, everywhere I looked, you were there..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah~, yeah, the chances of running into each other were pretty high.\r\nWe even ran into each other at that one-off part-time gig.",
+      "choice_data_list": [
+        "Just a single pull?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Truth is, long-term gigs are better across the board.\nWith one-offs, you never know when they'll start recruiting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Long-term gigs are tricky, though, unless the place is pretty flexible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Because if I submit my shift preferences and then a race I *desperately* want to run pops up, that'd be a huge problem, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "That's why for long-term ones, I only do three that let me adjust my shifts on short notice: the ramen shop, flyer distribution, and the convenience store.\n...I owe a lot to the managers there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Juggling three long-term part-time jobs on top of short-term gigs... Amazed by her lifestyle, a sudden question came to mind.",
+      "choice_data_list": [
+        "By the way, are your studies going all right?",
+        "By the way, are your studies going all right?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah! That look on your face... You don't think I failed my test, do you~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Hey now! I'm not slacking off on my races, schoolwork, or part-time job!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"If you're that worried, why not see for yourself?\nI think I'm being a pretty good big sister, you know~?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "\"God, God, God, for real God-tier!!\nInes's notes, huge thanks don't even begin to cover it!!\"",
+      "choice_data_list": [
+        "That is..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Those two are Ines Fujin's classmates,\nDaitaku Helios and Mejiro Palmer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "You're exaggerating, I only lent you a notebook!\r\nStill, I'm glad it helped~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "\"No, it was seriously super easy to read!\nI finally understood what was written on that math worksheet!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Classmate",
+      "text": "Ines, class doesn't start for another 5 minutes, you know~?\r\nThe teacher isn't even here yet, so why not just relax~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Well, I gotta study at least a little bit, y'know? Failing and taking makeup exams is the one thing I wanna avoid!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Classmate",
+      "text": "Huh? Ines, is that all you're having for lunch?\r\nAnd why are you wearing your gym clothes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Yeah! I ate a big breakfast!\nThe track is empty during lunch break, so\nI want to double-check my form!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Welcoooome!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "“—Watching Ines Fujin all day today\ngot me thinking about something.”",
+      "choice_data_list": [
+        "(...She gives it her all no matter what she does.)"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huuuh~? Trainer,\nare you still extending your surveillance on me~?",
+      "choice_data_list": [
+        "Huh!? Ah!? That's not what I meant!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Fufu, I got it, I got it.\r\nBoss, one special ramen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Coming right up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"...Ah, I'm not treating you, okay? Make sure you pay for your own, alright?\"",
+      "choice_data_list": [
+        "Yes..."
+      ]
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Haha, so you're Fuu's Trainer!\r\nShe's really got you under her thumb, huh~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Yeah, exactly, it's so super fluffy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Ahaha, you never change, Fuu!\n...By the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "How does my running look to you?\r\nThink I've got what it takes to win in the Twinkle Series?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Actually, I'm friends with her mother.\r\nSounds like Fuu-chan's been holding back all this time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Helping around the house and taking care of her younger sister in place of her mother, who was constantly going back and forth from the hospital.\r\nShe spent all her time until middle school doing everything for her family.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "My little sisters' lessons still cost a lot even now,\r\nso I took up a part-time job of my own accord\nto send money home and help out with the family finances.",
+      "choice_data_list": [
+        "...It seems that way."
+      ]
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Haha, amazing, isn't it?\r\nI wonder how she can push herself so hard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "...I wish she'd just cut corners somewhere.\nEven at her part-time job, she's the best worker there, giving it her all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Even though her life is tougher than an ordinary girl's,\r\nshe spends every day looking so happy.\n...Just because she's in an environment where she can chase her dreams.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "\"...Hey, do you think Fuu\r\ncan win in the Twinkle Series?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ramen Shop Manager",
+      "text": "Thank you very much~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Leaving the ramen shop, I take a breather.\nThe streets are alive with light, cheerful footsteps.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hey, let's hang out a little longer before going home!\r\nI wanna go to karaoke!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Ehh~? Only for 30 minutes, okay~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Thanks for your hard work, Manager!\r\nLet's do this again sometime!!",
+      "choice_data_list": [
+        "You done with your part-time job?",
+        "Are you done with your part-time job?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, Trainer.\r\nI just finished my shift at the ramen shop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "It's not completely over yet. Next up is the convenience store.",
+      "choice_data_list": [
+        "There's still more!?",
+        "There's more!?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Yeah. Today's the day to cram as many shifts in as possible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Starting tomorrow, I want to focus even more\r\non training for my debut race!\"",
+      "choice_data_list": [
+        "You're amazing...",
+        "You're amazing..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing her smile like that,\nmy drive to do my best and my desire\nto help her grew even stronger—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I decided to at least carry her school bag\non our way to the convenience store.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hey, you okay? My bag's pretty heavy, isn't it?",
+      "choice_data_list": [
+        "No, at least let me carry this much."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hmm... Really?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Part-Time Gal",
+      "text": "Ah~, you're on shift today too, Ines?\r\nWait, who's that...? Oho~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The woman staring intently at me...\r\nis likely Ines Fujin's coworker.\nI bowed to introduce myself as her Trainer.",
+      "choice_data_list": [
+        "Thank you for always taking care of her."
+      ]
+    },
+    {
+      "name": "Part-Time Gal",
+      "text": "Ohhh, is this that 'older person's embrace'\r\nthing~? Ines, I hope you'll be happy~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Part-Time Gal",
+      "text": "I mean, right~? Making you carry their bags and coming all the way to your workplace? Sounds pretty lovey-dovey to me~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Ah~. I see~?\r\nRight, right, this person is the partner\nwho's gonna make me happy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "I mean, Trainer!\r\nYou said that on purpose, didn't you?! Jeez!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Part-Time Gal",
+      "text": "Eeeh, is that so~?\r\nOh well, good luck with our shift today too~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Yeah, yeah. ...Come on, hurry up, Trainer!\r\nIf we keep strolling along like this,\nI'm gonna be late for my part-time job!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I chase after Ines Fujin as she runs off to the convenience store.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "My own footsteps fall in trailing rhythm behind hers ahead. Dreaming of the day when we can run truly side by side as one—",
+      "choice_data_list": []
+    }
+  ]
+}

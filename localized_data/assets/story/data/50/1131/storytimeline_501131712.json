@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Even though the appointed time arrived, Gran Alegria\ndidn't show up for training. When I went looking for her...\nsurprisingly, she was playing with birds!",
+      "choice_data_list": [
+        "Hey, what about training?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Huh? —Ahhh!!\nI'm so sorry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "This little bird just pecked me a moment ago!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"'Play with mischievous birds with all your might!'\nThat's another rule of mine!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Puzzled by the unique personal rule, I still warned them\nto be more careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

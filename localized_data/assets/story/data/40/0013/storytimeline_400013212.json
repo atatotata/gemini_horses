@@ -1,0 +1,314 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day after school, on a training rest day.\nHaving some business to attend to, I stopped by the library with <chrname>—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "…………。",
+      "choice_data_list": [
+        "Studying?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Oh, what a coincidence!\nYep, I'm working on homework. Since today's my day off, I figured I'd knock out everything that's due.",
+      "choice_data_list": [
+        "That's impressive. Is there quite a lot of it?",
+        "That's impressive. Is there quite a lot of it?"
+      ]
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"With the handouts, the workbooks, and the ones due next week... maybe about five?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Come to think of it, <chrname> was\nassigned a pretty massive pile of homework too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Practically speaking, balancing academics and training is a serious matter. I hope all the team members can manage it well...",
+      "choice_data_list": [
+        "...Want to have a homework session?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Sounds great!\nWith a meeting like that, everyone can get on the same page and focus on training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Alright, I'll go call out\nto Espo-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Sheesh... Why do we gotta gather up\njust for some stupid homework...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"Huh? Which order was this again?\nJowa Incident? Or was the Otenmon Gate first? Hmmmm??\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Let's see? Ah, was the Jōwa Incident first?\nHmm... I'm a bit unsure, so let's double-check\nthe textbook just in case. What page was it again—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "............\n...Are you guys talking about history?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ah, yes! It's Japanese history, the Heian period!\nIt's a chronological ordering question, but\nI just can't help feeling unsure about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ah... that worksheet's the one made by that teacher with the glasses, right? It's always got way too many sorting questions.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Anyway, ya just gotta catch the vibe.\nThat's the part where the Northern Fujiwara clan takes the top, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"...So, even after Fujiwara no Mototsune took over,\nhe kept going on the offensive and totally beat down Sugawara no Michizane!\nIt was completely the Fujiwara era! ...That's pretty much how it goes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "I-I see...!\nThen for this question, it's... B → A → C → D!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Espo-san! Thank you so much!\nThat was super easy to understand!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"Thanks to you, Senpai, I think I can aim for a high score on the next test! Having a smart and kind upperclassman is truly a blessing!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Mmhmm. You're so reliable, kind, and caring. I'm so happy to be on the same team as you, Espo-san, and to be studying together like this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "~~~~~~~gh, shut up!!\nIt's not like thaaaat at aaaaall!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Besides, I already finished my assignment!\nI got no business here anymore! I'm going home!!",
+      "choice_data_list": [
+        "(She left...)"
+      ]
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"Espo-san is so shy~\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufufu. Thanks to Espo-san,\nI feel like history has become my strong suit♪\nJust one last push, let's do our best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward—the study sessions became a regular team tradition.\nHere's hoping we can keep this momentum going and stay fully in sync!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Alright, I'll go call out\nto Yan-ko-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "Phew~~... Yeah, we've made quite a bit of progress!\nShall we take a short break?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Doing it together really makes things go faster!\nA homework session might actually be a great idea♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "...Hm? What are you drawing, Marche?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Whoa! Is this drawing a bulldog?\nSo cute~! As expected of Maru-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "\"Whoa. Seriously cute~! As expected of Maru~!\nLike, isn't this amazing? The way each dog breed is drawn differently!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Right~ It's hard even in chibi style...\nDog, dog... Hmm, something like this...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "...Is that... like a slime?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Huh? No, no, this is...\nsupposed to be a running dog... ehehe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "Aha, ahahahaha! Whuuut~~ so cute!\nIs it derpy, or like, avant-garde art?!\nCan I snap a pic? Can I? It'll totally go viral!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"I totally get you, Yanko-san!\nI love Love-chan's unique art style too—\nit's super cute!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ugh, I'm happy you like it,\nbut I have mixed feelings~! I really want to draw\na dog that looks a bit more like a dog...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"I think it's best to leave space between your ears! And have the tail sprout from near the top of your bottom...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hmm, I see.\nKeep ears triangular, maintain distance... l-like this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "...A monster with ears and a tail?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Right～～～～～?!\nDrawing has so much depth to it～～～!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Forever Young",
+      "text": "Ahaha! But seriously, I totally love these\nkinda goofy-cute mystery creature drawings!\n...Hey, can I post this on Umastagram?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "We meant to take just a short break, but ended up spending quite a lot of time drawing... Still, it seems everyone has gotten a little closer. Let's keep holding these study sessions!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Alright, I'll go call out\nto Desire-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "\"Are you and Marche-san working on the Japanese literature assignment, Loves-san?\n...How nostalgic. I read that story last year too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "All the dreams the protagonist has are romantic\nand wonderful, but... that makes them a bit\nelusive. It's quite difficult to interpret, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "You're right. Besides, couldn't this story... be made even more dramatic?",
+      "choice_data_list": [
+        "(...Hm?)"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "First, let's assume this dream is a prophetic vision of the saintess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "On the first night, a sorrowful future seen by the saint...\nLeaving behind her savior partner and beloved prince,\nshe foresaw her own life ending halfway through her quest!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "I-I see...?! The character setting suddenly became so dramatic and easy to grasp...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "This is a future that must be averted at all costs.\nThe saintess declares in her dream: \"Wait a hundred years.\nI shall travel back a hundred years and change the future!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "—Yes! It was the miasma filling this land that ate away at the god's power and the Saint's very life!\nBut... the source of the miasma lay much further in the past.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"Just how many years back would we have to go?!\n—Gasp, no way, all the way to the Age of the Gods...?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "Yes, that is the fifth night.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "No way...!\nWhat on earth is going to happen...?",
+      "choice_data_list": [
+        "(What's really going to happen now...?)",
+        "(What's really going to happen now...?)"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "\"Saint Legend, Night 10! The Demon Lord, who was the Prince in a past life! Meeting in a dream, the Saint soothes the Demon Lord's deep solitude, and joining hands, the two purify the miasma swamp—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"A happy ending...!!\nAmazing... I feel like I could draw a picture book based on this...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Written by Desire-san, illustrated by Maru-chan\", right...?! I'm definitely going to buy it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Regardless of how much homework actually got done,\nthe study session was a huge success! Hopefully,\nthis gathering will continue to strengthen our bond in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

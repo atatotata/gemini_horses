@@ -1,0 +1,464 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Tonight is Christmas. With all her goal races for the year completed, things had settled down a bit...\nI told Duramente to get plenty of rest.",
+      "choice_data_list": [
+        "(But if it's Dura, maybe...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—She must be doing some extra training.\nThinking that, I made my way to the track at night...",
+      "choice_data_list": [
+        "There you are, just as I thought."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "!\nTrainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I'm just wrapping things up.\nI kept it on the lighter side, too.",
+      "choice_data_list": [
+        "Don't worry, because I have faith in you.",
+        "It's okay, I believe in you"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "\"...I see.\nThank you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Then,\ndid you come to check on me?",
+      "choice_data_list": [
+        "No, I came to invite you.",
+        "No, I came to invite you."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "An invitation...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Trainer, this is...",
+      "choice_data_list": [
+        "Merry Christmas, Dura!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I was sure Duramente would be working hard at training even on Christmas.\nThinking that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hoping to give them a breather and let them enjoy\nthe holiday spirit, I put together a simple\nChristmas party.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "The decorations, the food, the drinks...\nDid you do all of this?",
+      "choice_data_list": [
+        "They're all simple things, though."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...For my sake...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Ah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Trainer,\nis it alright if I go change?",
+      "choice_data_list": [
+        "You're fine just the way you are.",
+        "You're fine just the way you are."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "No. I wouldn't want to attend your party\nin a dirty track jacket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Since you went out of your way to set this up,\njust wait a little bit for me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Pardon me,\nsorry to keep you waiting.",
+      "choice_data_list": [
+        "I wasn't waiting at all.",
+        "I haven't been waiting long at all."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "In fact, Duramente came back in what felt like five seconds flat. ...She might have actually run somewhat seriously somewhere along the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Great.\nNow we can have the party.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "By the way, today's decorations...\nthey're so lively, I like it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Did you pick all of these out yourself?",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Hanging decorations from the lights too, huh?\nI see. It looks like the sky. How pretty.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "And this is...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "The tree is gorgeous too.\n...Ah, there's a snowman hiding in there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I looked out the window earlier and was amazed.\nA snow-covered town... It's so lovely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Yeah...\nIt's cute.",
+      "choice_data_list": [
+        "...It is certainly cute.",
+        "...It really is cute, isn't it?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Yeah.",
+      "choice_data_list": [
+        "Dura..."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Ah—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her eyes sparkling at the decorations, she wanders around the Trainer's Office... sharing her thoughts on every single one.",
+      "choice_data_list": [
+        "I thought it was cute, like a child."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Wait, that...\nThat wasn't a compliment, was it?",
+      "choice_data_list": [
+        "You're praising me!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "...Is that true?",
+      "choice_data_list": [
+        "Really!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "...I see.\nI believe you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Thank you.\nWhat else did you prepare for me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—Ah, this salad... is delicious.\nAnd its nutritional balance is flawless. Next is...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I spent a wonderful Christmas together with Duramente.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—Sorry to keep you waiting.",
+      "choice_data_list": [
+        "Dura, that outfit..."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "One is supposed to dress up\nfor a party, is one not?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I talked it over with Crown...\nand picked out an outfit with Christmas colors.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I know I might be\na little out of place here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Even so, today's party embodies your feelings.\nI want to... receive them with all my heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Thank you.\nFor wanting to do something for my sake.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I'm so happy.\nYour feelings are always... so comforting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Let me say it too.\nMerry Christmas!\"",
+      "choice_data_list": [
+        "...Ah!",
+        "...Yeah!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "And so... I was thinking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"—Would you do me the honor\nof dancing with me after this?\"",
+      "choice_data_list": [
+        "…Huh? Dance?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "You gave me a party as a present.\nI want to return the favor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Right now, I want to give back...\nthe very same special feelings that I carry within me.\"",
+      "choice_data_list": [
+        "That was... dancing?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Dancing is something special.\nIt was what sparked the contract between you and me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Back then, she was looking for an escort for the dance party celebrating her debut into her blooming period... and she just happened to ask me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Do you still remember... how I escorted you back then?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Let's dance, Trainer.\nI will gift you a wonderful feeling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—Ah, just like that...\nYes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the quiet school at night with nobody around...\nI practiced my dancing while Duramente checked my moves.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dancing face-to-face with her while a piano arrangement\nof a Christmas song plays...\nIt was truly an extraordinary experience—",
+      "choice_data_list": [
+        "(I feel kind of... restless.)"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Trainer...\nCould it be that you're nervous?",
+      "choice_data_list": [
+        "...Did you find out?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Yeah.\nI could just kind of... feel it through your hand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Your opponent is me.\nThere are no spectators either.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "You can relax.",
+      "choice_data_list": [
+        "Still..."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Hm?",
+      "choice_data_list": [
+        "You seem a little different than usual too.",
+        "You seem a little different than usual, too."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "No...?",
+      "choice_data_list": [
+        "A mature feel."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Hahaha.",
+      "choice_data_list": [
+        "W-Why are you laughing?",
+        "W-Why are you laughing?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Forgive me,\nthat was slightly amusing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Because usually...\nyou're the mature one.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "It's strange. When your perspective changes... even people look different.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I feel the same way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I didn't mean to look down on you at all.\nIf I offended you, I'm sorry. But—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Right now, you're...\ncute.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "\"...Alright.\nThis time, I shall escort you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Things might get a little rough,\nbut stay with me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"...Yeah, you're right.\nI promise.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She looks straight at me, with sheer, unwavering earnestness.\nIt's the dazzling gaze she wears before a race—utterly and completely beautiful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Trust me and follow my lead.\nIf you do...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I will take you to the view from the absolute peak.\n—Come, take my hand.",
+      "choice_data_list": []
+    }
+  ]
+}

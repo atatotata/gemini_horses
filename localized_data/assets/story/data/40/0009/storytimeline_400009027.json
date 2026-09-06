@@ -1,0 +1,570 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, I bumped into Dr. Reiz picking\nup scattered documents in the hallway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Good grief...\nCarrying all this by myself was reckless after all.",
+      "choice_data_list": [
+        "I'll help! Where are we carrying this?"
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "! Perfect timing, Trainer.\nI was just heading over to you two.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"This is the research data from <chrname> and the others.\nI thought I'd give back to everyone the information\nwe gathered through our repeated training runs.\"",
+      "choice_data_list": [
+        "All the more reason to let me help."
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Fufu, yeah. That helps a lot.\nNow then, who should we hand them out to first...",
+      "choice_data_list": [
+        "Biwa Hayahide",
+        "Narita Taishin",
+        "Air Shakur",
+        "Symboli Kris S",
+        "Tanino Gimlet",
+        "Dr. Lights"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "As expected of you. I had gathered data in my own way,\nbut now I have access to much more detailed statistics.\nI will use this as reference.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I see.\nIf I was able to help, then I'm glad... yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...\nDoctor, could you please look this way for a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Your eyes are a bit bloodshot after all.\nYou pushed yourself too hard putting this together, didn't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Huh... Ah, no. That's not the case at all.\n...Though I did go to bed just a tiny bit later than usual.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "There are dairy and banana sweets.\nLet's give them those.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"The tryptophan contained in them serves as the raw material\nfor components that improve sleep quality.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Are you eating three meals a day? You must not neglect your diet\njust because you're busy.\nYou need to consciously make time to eat—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Ah, yeah. Understood...\nYou're right. I'll be careful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…………Ah.\nI'm sorry. I just tend to worry too much...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Huh? ...Ah, no, no.\nThere is no need to beat yourself up, Hayahide.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "That is one of your good qualities, after all—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"...This is bad. Looks like rain.\nI'd rather not let the wheelchair get wet, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "—I see you're still here after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You didn't seem satisfied with the measurements earlier, so I thought, just maybe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I'll hold the umbrella.\nNow then, let us verify the data to your heart's content.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "It really made me realize once more.\nIt's precisely because of your thoughtfulness that we've made it this far.",
+      "choice_data_list": [
+        "That's not a weakness, it's one of your strengths",
+        "That's not a weakness—it's one of your strengths"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...I see. Looking at it from a different perspective, that's true.\nHeh... you've opened my eyes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Now then, for your own sake...\nCould you please take a proper rest?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Guh... True, sleep is indeed important.\nI should reflect on my own actions as well...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "*pant*, *pant*...\nJust a little more... just a little bit more...",
+      "choice_data_list": [
+        "Taishin! Dr. Lights gave us the report!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...\nJust leave it there.",
+      "choice_data_list": [
+        "Ah, Taishin!?"
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"...Fufu. I see you are devoted to your training.\nIn that case, I shall take my leave.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Gulp... gulp...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"Come to think of it... the doctors came by.\n...Something about a report?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "......Huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "This is... this much data.\n...In just a few days...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "One day, while discussing future plans\nwith Dr. Reiz—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "......This.",
+      "choice_data_list": [
+        "...Eh? What's up with that bento?",
+        "...Eh? What's with that boxed lunch?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Startled, I exchange glances with Dr. Wright.\nAs I try to make sense of what on earth is going on—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I just made too many sandwiches, that's all.\nIf you don't want any, I'll take them home.",
+      "choice_data_list": [
+        "No, no, no! I'll gratefully accept it!"
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"Exactly...! How long has it been since I last had such a civilized meal?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh? Cultured...?\nAll I did was cut it and sandwich it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Wash the container\nbefore you give it back, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Yeah.\nJust put it down over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "...By the way, what are you doing with that?\nIt looks like blueprints for a 3D model, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hey, don't go snooping around.\n...It's just a hobby, that's all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "A fully autonomous pacing robot. It's a flash\nof inspiration, but the concept itself was already there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I didn't think it was worth the return,\nso I kept it on ice for a long time, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Well.\nIf it's just something I can whip up in my spare time, sure.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Fufu... I see. Shakur, have you finally\nawakened to the joy of building robots?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Alright, if that's the case—\nAs a pioneer, allow me to offer some advice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Not like I asked ya to tell me, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"That covers most of my advice regarding 3D modeling.\nAs for the OS...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "—\"I'll let Parcae ride. She's my partner who knows everything about me. She's perfect for the job.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...With this, it's one step closer to completion.",
+      "choice_data_list": [
+        "I hope it goes well!",
+        "I hope it goes well, huh!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Aah? What's that supposed to mean?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She claimed it was just a casual hobby on the side, but...\nwatching Air Shakur's dedication made it immediately clear that wasn't the case.",
+      "choice_data_list": [
+        "She seems really serious about building that robot!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tsk.\nKnock that crap off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Still... Dr. Wrights went and proved\nit ain't impossible.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "That's why I'm just doing it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Though her words sounded listless, there was an unmistakable\nfire burning in her eyes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "\"Report――appreciated. With this,\ntraining――more, efficient――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"You've done so much for me, after all. Or rather,\nyou're still taking care of me even now, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...Shall we? Today as well.",
+      "choice_data_list": [
+        "Huh... What is it?"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "1... 2... 3... 4...\nPace, disrupted――gradually.",
+      "choice_data_list": [
+        "(It was muscle training! And she's taking it super seriously!)"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "\"Keep—mind the tempo.\nDon't rush, lower it—slowly...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Ngggh...!!\nL-Like this...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "――No. More.\nWith how you are now――you can do even more――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "......No.\nIt's... nothing.",
+      "choice_data_list": [
+        "...? What's up so suddenly?",
+        "...? What's brought this on all of a sudden?"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "\"...Coaching. ——With my way of doing things——\nI often end up——scaring people.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "My juniors... always cower before me. That's why—\n—I was being careful, and yet...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "I'm sorry...",
+      "choice_data_list": [
+        "I see, so that's..."
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "...\nKris S, watch me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having said that, Dr. Leitz brought out several roof tiles from somewhere and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Phew...... Hah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Craaaash!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "This is the proof. Proof of how upright—and how exceptional of a leader you truly are.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"So please. Don't hold back on my account...\nWill you continue providing the 'guidance' you see fit?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...Professor... I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Then... let's continue.\n—Next up, crunches.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As Symboli Kris S said that, it almost\nseemed as though... she was smiling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Bwahahaha! So the tome recording all of my hoofprints is finally complete!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "My thanks, Princess of Wheels. With this, I shall hasten\nall the faster toward the garden of the twilight maidens.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "――Now then, time to inspect the great casks in the cellar.\nAs thanks for this occasion, what I should offer you is――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—\"Dum spiro, spero.\"\nIt's a non-alcoholic twist on a Golden Dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "...Oh! It's quite sweet.\nYet, it's not overly rich...",
+      "choice_data_list": [
+        "Yeah! It's smooth and delicious!",
+        "Yeah! It's so easy to drink and delicious!"
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"Ah, seriously... you whipped this up in no time\nat all?! That's incredible!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "No. I took my time with the aging. —Twice. Twice I have watched the moon wane—and wax full again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"...So you've been doing this for about two months?\nWhy would you do such a thing—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh... You don't understand?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "That day, when the beast of reason and intellect unraveled ST-2—\nit convinced me that I could even reach the sun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Yes! You have continually displayed your aesthetics—\nand arrived here! You have claimed the winged sandals!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "That is precisely why—aesthetics must be met with aesthetics.\nI merely responded in my own way.",
+      "choice_data_list": [
+        "Gimlet..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing her heartfelt feelings strikes a chord within me as well.\nIt was a celebratory drink truly befitting of her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "...Thank you. I never expected such a wonderful\ngift... How could I ever repay you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh-heh. It is too early to applaud the final curtain.\nI will collect my payment in due time――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "On the day of reckoning that will eventually come.\n—At Tokyo Racecourse!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Just carrying luggage felt insufficient to repay\nthe devoted Dr. Reiz for her kindness. And so—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Thank you, Trainer.\nThanks to you, I was able to give them out to everyone.",
+      "choice_data_list": [
+        "No, I'm the one who should be thanking you.",
+        "No, I'm the one who should be thanking you."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I checked the report for <chrname> as well...\nand the contents were very informative.\nSo, to repay the favor, even if just a little—",
+      "choice_data_list": [
+        "...Could I have just a moment of your time?"
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "...What is this?",
+      "choice_data_list": [
+        "This is the ST-2 report I put together myself.",
+        "This is the ST-2 report I put together in my own way."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even so, it's just a makeshift compilation of the notes I took during training.\nIt can't even begin to compare to her report, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "......No, it's fine.\nYeah... it's fine. Very much so.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "It's not through the eyes of a researcher.\nIt's as if ST-2 is treated like an individual Umamusume...\nThat kind of perspective exists here—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Ah, I see... Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "You really were my Trainer, weren't you?",
+      "choice_data_list": []
+    }
+  ]
+}

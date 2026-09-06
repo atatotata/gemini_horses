@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fenomeno",
+      "text": "...*inhale*............ *gasp*!\n............*mm*............*inhale*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fenomeno was studying with her textbook, but she kept nodding off and jerking back awake.",
+      "choice_data_list": [
+        "Hey, are you okay?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"...Gasp! I-I'm terribly sorry, Boss!\nTo fall asleep when I should be a model student...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I'll go wash my face\nand psych myself up all over again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fenomeno seems to be accumulating fatigue.\nIt might be necessary to review her schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

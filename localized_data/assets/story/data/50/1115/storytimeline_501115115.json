@@ -1,0 +1,488 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I want to earn Orfevre's trust.\nI want to become someone she can entrust her heart to—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"For that reason, I want to learn more about Orfevre.\nStarting by watching her daily life closely...\nHer days are truly dazzling.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "\"Lady Orfe, we have secured a seat for you.\nPlease, this way.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "Today, Set A is fried chicken and Set B is a salad bowl.\nWhich one would you like?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Forget it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The school store it is.\nLead the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainers",
+      "text": "Yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I've changed my mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "We are heading outside. Make the arrangements at once.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "Y-Yes!\nI will make a reservation right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Always surrounded by retainers, Orfevre stands out no matter what.\nNaturally, all sorts of chatter can be heard from around her...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "She's amazing as always, huh?\nShe only just debuted, so how can she act so high and mighty?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Haaah, Lady Orfevre...\nSo cool again today...\nI think I wanna be led around by the nose by her, too♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Envy, fear, jealousy... Though opinions are divided, stirring up such a myriad of intense emotions is surely part of Orfevre's charm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume C",
+      "text": "“Still, though, I can totally see why she acts like that.\nI saw Orfe-san run the other day, and...\nit was incredible.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume C",
+      "text": "That kind of form right after debut...\nLike she's completely flawless? No wonder she's so confident.",
+      "choice_data_list": [
+        "(Flawless and perfect, huh...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "While she shows some immaturity typical of the Junior Class,\nOrfevre currently has no other prominent, noticeable weaknesses.",
+      "choice_data_list": [
+        "(That's why the bar is set so high, though.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Amidst all this, one day during training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I see none of my subjects present.",
+      "choice_data_list": [
+        "It seems everyone's busy today..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I was invited to the subjects' group LANE as well, but...\nall of them happened to have other matters to attend to, and unusually, not a single one could make it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Well, very well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You will work enough to make up for them.",
+      "choice_data_list": [
+        "(Th-This is bad...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—However, the real struggle\nbegan after this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmph...!",
+      "choice_data_list": [
+        "(Huh...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "We somehow managed to start training as usual\nand Orfevre began to run... but there was a distinct lack\nof her usual explosive power in her stride.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Put plainly, it was an unfocused run,\nunbecoming of a king.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Perhaps she isn't feeling well. I give her a quick check just in case and ask her directly, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "No problem.",
+      "choice_data_list": [
+        "I see..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Continue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—In the end, training that day lacked its usual spark... leaving us scratching our heads when it came to a close.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "—Lady Orfevre,\nI sincerely apologize for my rudeness yesterday.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "All of us are present today, so please do not hesitate to ask for anything you need.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Heh... Haaaaaahh!!",
+      "choice_data_list": [
+        "(Huh, that's her usual movement.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "During today's training, Orfevre delivered a magnificent run,\nas if yesterday's awkwardness had never even happened.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "As expected of you, Lady Orfevre!\nI have learned so much from you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed.\nGood work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainers",
+      "text": "Yes!\nThank you very much!",
+      "choice_data_list": [
+        "(If anything's different from yesterday... it's them.)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hey.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "What are you spacing out for?",
+      "choice_data_list": [
+        "Ah, sorry—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "No, you're wrong.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Make your concerns known swiftly and in detail.\nI've told you this before.",
+      "choice_data_list": [
+        "...There's something I'd like to try out for a bit."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, having tested it several times, I realized something.\nIt was Orfevre's \"opening\"—something that shouldn't have existed.",
+      "choice_data_list": [
+        "(She's not very good at running all on her own.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps because her spirits don't rise when she's alone, she can't seem to perform at her full potential.\nGiven that she's quite moody—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her mental state had always been prone to affecting her running. Though she's powering through on raw talent for now, it could easily become a liability down the road.",
+      "choice_data_list": [
+        "(That doesn't befit an absolute, flawless king—)"
+      ]
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "Huh?!\nLeave the King all alone during training?",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while, we'll have Orfevre train on her own.\nWe'll also ask her retainers to refrain from joining—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Getting used to being alone might reduce the mental impact of whether others are around or not.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "...As long as it is for the King's sake, we have no objection, however...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...And you are certain\nthis is the course we must take?",
+      "choice_data_list": [
+        "Yeah, I'm sure it'll help you going forward!",
+        "Yeah, this will definitely help you in the future!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Foolish insolence.",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Did you truly think\nsuch a trifle could bend me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Know your place.\nEnough. Step down—",
+      "choice_data_list": [
+        "Th... That's a top-tier opinion!",
+        "Th... That's a top-tier opinion!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hooh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I recall what happened after the debut race.\nOrfevre should be willing to consider it\nif I explain a rationale that makes sense to her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Be grateful.\nI shall put your reasoning to the test.",
+      "choice_data_list": [
+        "Please think about the Prix de l'Arc de Triomphe.",
+        "Think about the Prix de l'Arc de Triomphe."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "An overseas campaign means being exposed to harsh environments.\nThere will be more occasions where you must run alone.\nWhen that time comes, what becomes vital... is your mentality.",
+      "choice_data_list": [
+        "I want to prepare so I can remain absolutely flawless even on the other side."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I shall trample everything in that land.\nAre these the preparations for it, then?",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Understood.",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Inform all my subjects.\nThey need not attend to me for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainers",
+      "text": "Huh... Ah, y-yes...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trainer, it begins tomorrow.\nReport to the dorms.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Dismissing my subjects?\nThen who will serve the king?",
+      "choice_data_list": [
+        "…Me!?",
+        "...Me?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "When I said I'd leave you alone, I meant during training; I didn't mean to include your private life...",
+      "choice_data_list": [
+        "Um, even if you aren't usually alone—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Rejoice.\nI shall bestow an honor upon you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You are being entrusted to the King's side.\nSurely you are filled with utmost dread and honor?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Work hard, will you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Too slow.",
+      "choice_data_list": [
+        "Sorry! Here are the snacks you requested!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...What is this?",
+      "choice_data_list": [
+        "You like sweets, don't you?",
+        "You like sweets, don't you?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Carrot flavor, huh...\n...I'm not feeling it.",
+      "choice_data_list": [
+        "Thinking that might happen, I prepared three other types!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Strawberry milk. Vanilla. Marshmallow. Grapes. Peach. Persimmon. Mandarin orange. There is an assortment of all varieties as well, yes?",
+      "choice_data_list": [
+        "T-That's going a bit too far...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmph...\n—Do it over.",
+      "choice_data_list": [
+        "Eeeh!!"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...I heard from a friend in her entourage,\nand apparently the Trainer's doing literally everything\nfor Orfe-san right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "\"I see.\nSounds tough...\"",
+      "choice_data_list": [
+        "(...It's for Orfe's sake. Hang in there, me!)",
+        "(...It's for Orfe's sake. Hang in there, me!)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "What is the matter?\nGo.",
+      "choice_data_list": [
+        "Yes!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, for the time being, alongside training...\nI also ended up working hard\nas Orfevre's attendant.",
+      "choice_data_list": []
+    }
+  ]
+}

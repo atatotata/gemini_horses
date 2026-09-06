@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mr. C.B.",
+      "text": "Mmm...",
+      "choice_data_list": [
+        "She looks sleepy just at a glance, huh.",
+        "She looks sleepy just at a glance, doesn't she?"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I did sleep, but... hmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I was dreaming about running as fast as I could across an open field,\nand then I tumbled right out of my hammock.",
+      "choice_data_list": [
+        "Huh, are you hurt!?"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I'm fine on that front. But when I tried to go back to sleep, I just couldn't drift off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Mr. C.B. gives a troubled smile.\nIt seems she didn't get much rest.",
+      "choice_data_list": []
+    }
+  ]
+}

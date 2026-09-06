@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While training with Narita Taishin—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "*pant*... *pant*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Damn it,\r\nwinded already...!",
+      "choice_data_list": [
+        "Still tired from the race?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "It was a total breeze, and I'm running in the next race too, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Guh...!",
+      "choice_data_list": [
+        "Maybe it's better to rest after all..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"I told you, I'm fine!\r\nLet's hurry up and get back to training.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems that running back-to-back races\r\nhas built up quite a bit of fatigue.\nWe'll have to reconsider the upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

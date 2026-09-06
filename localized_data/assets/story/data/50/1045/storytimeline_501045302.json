@@ -1,0 +1,436 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On our way back from accompanying\nSuper Creek on her shopping trip\nat the shopping street—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "We bought this, that, and everything in between,\r\nand before we knew it, it got so late~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Oh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\r\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\r\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hey you two, looking all close over there!\r\nCare to give it a try~?!",
+      "choice_data_list": [
+        "That sounds interesting.",
+        "Sounds like fun."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Well then, since we have raffle tickets,\nshall we give it a spin~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"...And on that note,\r\ndo your best, Trainer♪\"",
+      "choice_data_list": [
+        "Huh, me?",
+        "Huh, me?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Just watching is fun enough for me, so...\r\nGo for it♪ Keep it up♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Encouraged by Super Creek's warm cheers,\r\nI turn the lottery wheel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"My, oh my...!\nWinning the grand prize is simply incredible!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "This must be a reward\nfor you being such a good person every day, Trainer~♪",
+      "choice_data_list": [
+        "This belongs to Creek, who gave us the raffle ticket.",
+        "This belongs to Creek, who gave us the raffle ticket."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "No. You're the one who pulled it, Trainer,\r\nso it belongs to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"Please take a nice, long soak in the hot springs\r\nand let all your fatigue melt away♪\"",
+      "choice_data_list": [
+        "I want Creek to get some rest too!",
+        "I want Creek to get some rest too."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"...You're as kind as ever,\r\nTrainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Then, how about\r\nwe go together~?",
+      "choice_data_list": [
+        "Are you okay with that, Creek?",
+        "Are you okay with that, Creek?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Of course.\r\nIt'll make the trip so much more fun anyway♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Still, considering the timing right now...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"It's an important period for you as well, Trainer...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ah, that's it! What if you made your dream\r\ncome true in the Twinkle Series?",
+      "choice_data_list": [
+        "Nice, a well-deserved post-work trip.",
+        "Sounds good, a nice vacation to unwind."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu.\r\nI'm really looking forward to it♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "After making a promise with Super Creek,\r\nI ended up holding onto the hot springs trip ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, my♪\r\nCongratulations!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"First-class meat and carrots; a melt-in-your-mouth flavor that tastes like pure kindness,\" it says.",
+      "choice_data_list": [
+        "That looks really good.",
+        "That looks delicious, doesn't it?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"Fufu. Oh, Trainer... you've got the face of a total glutton right now...♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Still, if it makes you that happy,\r\nI'm sure the carrot hamburg steak is happy too.",
+      "choice_data_list": [
+        "Hm? Isn't Creek going to eat it?",
+        "Huh? Creek, aren't you the one eating that?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "You were the one who drew the 1st prize, Trainer,\r\nso the reward belongs to you too~.",
+      "choice_data_list": [
+        "Then you should eat with us too, Creek!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "When I told her that I only won first prize\r\nthanks to the lottery ticket she gave me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Are you sure?\r\nWell then, if you insist...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Now then, since we've been allowed to use the kitchen,\r\nshall we begin cooking?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Not just the hamburg steak, I'll make the salad and soup\r\nto your liking as well, Trainer~",
+      "choice_data_list": [
+        "I'm looking forward to it!",
+        "I'm looking forward to it!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Yes~.\nLet's savor the taste of kindness together, just the two of us♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, together with Super Creek, I savored the exquisite flavor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\r\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, my...\r\nSo very many carrots...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "That's wonderful, Trainer♪",
+      "choice_data_list": [
+        "Isn't this Creek's?",
+        "Isn't this Creek's?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Not at all. You're the one who won the lottery, Trainer,\r\nso the prize belongs to you~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though she says that, winning second prize was entirely thanks to her giving me the raffle ticket.",
+      "choice_data_list": [
+        "That raffle ticket's yours, so take it!",
+        "That raffle ticket is yours, please take it!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hmm, well, if you insist, I can hardly refuse~\r\n...Then I shall gladly take you up on that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu.\r\nI've made up my mind, Trainer♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Using this carrot, I'll cook meals for you every single day from now on, Trainer~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Something that everyone can enjoy eating,\nwhether they love carrots or hate them...♪",
+      "choice_data_list": [
+        "Huh!?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ah, don't worry.\r\nI've got plenty of recipes in my repertoire~.",
+      "choice_data_list": [
+        "...If possible, I'd like Creek to eat some too.",
+        "...If possible, I'd love Creek to try some too."
+      ]
+    },
+    {
+      "name": "",
+      "text": "I told them I wouldn't be able to finish this much alone,\r\nand that eating by myself would feel lonely—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "My, oh my, how careless of me...!\r\nWell then, I shall join you for meals as well~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu,\r\nI'm looking forward to tomorrow and beyond~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "After exchanging a promise with Super Creek,\r\nI headed home.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\r\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh my, what lovely carrots~.\r\nThey're so glossy and look delightfully crisp♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Hearing that, I look at the prize,\nand it certainly does look high quality.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Looking at the label, it read:\r\n'Organic Carrots Grown in the Northern Lands.'\"",
+      "choice_data_list": [
+        "Then I'll give the prize to Creek."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Huh, are you sure?",
+      "choice_data_list": [
+        "Super Creek's the one who gave me the raffle ticket, after all.",
+        "Super Creek's the one who gave me the raffle ticket, you know."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Then if you don't mind...\r\nThank you very much♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, right, since we have them,\r\nwhy don't we try planting these carrots in the field...♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "If we get a big harvest,\neveryone at the academy can eat together~.",
+      "choice_data_list": [
+        "That's a great idea!",
+        "That's a great idea!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu.\r\nLet's go plant them tomorrow first thing~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, sprouts safely emerged from the planted carrots. Gazing at the fresh buds... I felt a strange sense of renewed energy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh dear...",
+      "choice_data_list": [
+        "I'm sorry I couldn't live up to your expectations."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "No, no, as long as you enjoyed yourself,\nTrainer, that's all that matters to me...♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Her kindness only makes my frustration grow all the more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Feeling I should at least give her a prize,\nI got some pocket tissues from the prize counter\nand handed them to Super Creek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Is it really okay for me to have this?",
+      "choice_data_list": [
+        "Super Creek's the one who gave me the raffle ticket, after all.",
+        "Super Creek's the one who gave me the raffle ticket, you know."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Well then, gratefully...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Um, Trainer-san...\nPlease don't fret too much over it, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "When you look so sad, Trainer,\nit makes me sad too, you know~",
+      "choice_data_list": [
+        "Ah...",
+        "Yeah..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "We shared our disappointment together with Super Creek for a while.",
+      "choice_data_list": []
+    }
+  ]
+}

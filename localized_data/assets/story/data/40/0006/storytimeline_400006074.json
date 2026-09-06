@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The morning of the Takarazuka Kinen.\nFrom the empty grandstands,\nI check the condition of the racecourse turf.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "—I knew you'd be here!\nGood morning!!",
+      "choice_data_list": [
+        "Ms. Otonashi!? You're up early, aren't you!?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes, I haven't been able to sleep since last night!\nWould it be all right if I got a quick comment from you right now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Today's favorites... no, those regarded as the top favorites in the entire world, please allow me to interview you about your enthusiasm!!",
+      "choice_data_list": [
+        "...! Well then—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And as I told Reporter Otonashi about <chrname>'s\nincredible feats while soothing her overexcited reactions,\ntime slipped away—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "It's finally here, the Takarazuka Kinen!\nI wonder who will claim the grand finale of this spring...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "Isn't it obvious! <chrname>—!\nShow them the power that's taking you to the world stage—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...I can hear everyone's voices.",
+      "choice_data_list": [
+        "I will meet these expectations and show them a dream."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "So that <chrname> could carry the dream of\n\"a Japanese Umamusume shining as the best in the world\"\nupon her shoulders.",
+      "choice_data_list": [
+        "Well then, it's about time—"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...! Right you are, pardon me.\nHave a safe trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...Together with our dreams.",
+      "choice_data_list": []
+    }
+  ]
+}

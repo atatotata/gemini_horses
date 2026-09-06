@@ -1,0 +1,514 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After finishing our shopping for training supplies, Gentildonna and I were walking through the shopping district when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "How loud.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Huh, sounds interesting.",
+      "choice_data_list": [
+        "Are you interested?",
+        "Are you interested?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "You seem surprised.\nI don't dislike testing my luck, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Having luck on your side\nis also proof of being strong, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ever since we were little, my siblings and I\nwould test our luck against one another in all sorts of ways.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "For example, with a pet alligator kept at an acquaintance's house... Oh, perhaps that was supposed to be a secret.",
+      "choice_data_list": [
+        "(...I'll just pretend I didn't hear that.)"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "It's just that I'm not very familiar with lucky draws.",
+      "choice_data_list": [
+        "Alright, wanna give it a shot?",
+        "Alright, wanna give it a try?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "From the shopping earlier,\nI had been given exactly one lottery ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Yes.\nLet us take on the challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Still... what a remarkably flimsy lever.\nMy pinky finger alone is more than enough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Gentildonna slowly turned the handle\nof the raffle lottery wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hohoho...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Behold the power of the strong.",
+      "choice_data_list": [
+        "More importantly, congratulations!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Ah, was the grand prize\na ticket for a hot spring trip?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "A gift for you.",
+      "choice_data_list": [
+        "Huh, why?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "You like hot springs,\ndon't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "I can go wherever I please,\nwhenever I want.",
+      "choice_data_list": [
+        "Still... you probably won't go.",
+        "Still... you probably won't go, will you?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Gentildonna is remarkably stoic.\nEven if she knows how to unwind, she won't take\na real break unless practically forced to.",
+      "choice_data_list": [
+        "...Let's think about why you won this ticket."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Because I won a test of luck.\nThat's all it is.",
+      "choice_data_list": [
+        "No, maybe God is telling me to rest."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Fufu!\nA god, you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Even though I told you that I brought this upon myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Ah, if so...\nCould it be a matter of timing?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "I understand how you feel.\nIn that case, do not borrow another's name—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Why don't you say it from your own perspective?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In other words... Gentildonna\nmight actually listen... if the words come from me\nas her \"Trainer\".",
+      "choice_data_list": [
+        "Please rest, Gentile.",
+        "Please get some rest, Gentile."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Understood.\nWhen the right time comes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Then make sure you,\ntoo, prepare thoroughly.",
+      "choice_data_list": [
+        "Me too?",
+        "Me too?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Yes. As my Trainer... you will let me rest plenty, won't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...When the time comes,\nit seems I'll be shouldering a massive responsibility.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "First prize...\nI suppose my luck held out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "What I won was the Deluxe Carrot Hamburg Steak...\nI'd heard rumors about how popular it is among Umamusume.\nSeeing it in person, though—",
+      "choice_data_list": [
+        "That looks delicious...!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"...It certainly has visual impact.\nSo you like this sort of thing too, I see.\"",
+      "choice_data_list": [
+        "Doesn't it appeal to you?",
+        "Aren't you drawn to it?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "As a sculpture,\nI find it quite fascinating.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"Pleasing the eyes is also an important element\nof cooking, after all. But...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"If it's purely about appearances, then I'll pass.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Little lady, you look like quite the gourmet, but...\ndon't you worry, this Hamburg steak is top-notch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I've energized all the Umamusume girls with these hamburg steaks!\nTake a bite and you'll see!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...You are saying that in all seriousness, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "...!!\nO-Of course! I'm completely serious...!",
+      "choice_data_list": [
+        "(What is this tension...!?)"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Understood.\nThen I shall partake.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so... back at the academy,\nI reheated the special carrot hamburg steak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Thanks for the food.",
+      "choice_data_list": [
+        "(*thump thump*...)"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Thank you for the meal.",
+      "choice_data_list": [
+        "How was it...?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Could you call the chef for me?\nI'd like to express my gratitude for such a wonderful flavor.",
+      "choice_data_list": [
+        "...! Right away!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Afterward, I shared Gentildonna's thoughts with the shopping district folks over the phone...\nWe rejoiced together, feeling a strangely touching sense of emotion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "My, so many.\nIt seems your luck isn't bad at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Looks like getting the nutrients I need won't be\na problem for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Perhaps I should call for our private chef\nto prepare a few dishes for us.",
+      "choice_data_list": [
+        "Come to think of it, do you cook?",
+        "Come to think of it, do you cook?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"Which question are you asking?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "If you're asking if I *can* cook, yes.\nIf you're asking if I *will*, no.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"Surrounded by professionals in this environment,\nthere's no point in doing it myself.\"",
+      "choice_data_list": [
+        "I see..."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"And you?\nDo you cook?\"",
+      "choice_data_list": [
+        "If it's something simple, sure."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Then, would you take a few of these carrots with you?",
+      "choice_data_list": [
+        "...Hm?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"As a Trainer,\nyou ought to have knowledge of dietary management as well.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"Would you teach me about\na professional diet?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"...Put that way,\nmy pride as a Trainer was stoked,\nand I couldn't very well refuse.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—And so, the next day.\nAfter doing my own research and thinking it over...\nI brought along several dishes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...The nutritional balance seems flawless.\nHowever, that is all it prioritizes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"If one abandons flavor, it is no longer cooking.\nHardly the work of a professional, wouldn't you say?\"",
+      "choice_data_list": [
+        "Ugh, I'll work harder...!"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...A food critic and a chef?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "What, only this much?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "So my luck...\nboils down to a single carrot.",
+      "choice_data_list": [
+        "Still, it looks really delicious!",
+        "Still, it looks really delicious."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "If that's the case—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(CRACK!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Please, you have some too.",
+      "choice_data_list": [
+        "Oh, thank you..."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "H-Holy crap... The carrot's split clean in two...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Looking at the carrot split perfectly in half, showing a cross-section so clean it looked as if it were cut with a knife...\nI exchanged glances with the shopping district folks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Oh, a miss.",
+      "choice_data_list": [
+        "That's too bad.",
+        "That's too bad."
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "…………。",
+      "choice_data_list": [
+        "...Gentil?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"It is merely an entertainment.\nHowever...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Luck, too, is a form of strength—\nand to have let it slip away...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...That doesn't sit well with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...It seems Gentildonna was a little—or rather,\nquite a bit frustrated.",
+      "choice_data_list": []
+    }
+  ]
+}

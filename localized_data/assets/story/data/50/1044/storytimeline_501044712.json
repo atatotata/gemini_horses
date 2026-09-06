@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Since Sweep Tosho didn't show up for training,\nI searched all over, only to finally find her\nin the library once evening came.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "—Oh, if it isn't my familiar.\nDid you need something?",
+      "choice_data_list": [
+        "I thought we had training today.",
+        "I thought we were supposed to have training today."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "…………Ah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "I-It's not like I forgot!\nI was just a little busy practicing my magic,\nthat's all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hold on right there!\nI'll use magic to turn back time before training!\nI definitely will!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Smoky Orange Reversal!\nSmoky Orange Reversaaal!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Turn back time already! You're so cheeky!\nFluffy Orange Reversal——!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing her desperately trying to use magic, she seemed aware that she had done something wrong, so I simply told her to be more careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

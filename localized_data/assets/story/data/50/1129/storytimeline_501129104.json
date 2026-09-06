@@ -1,0 +1,562 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The days at the summer training camp were truly fulfilling.\nToday, once again, the alarm rings at 4:00 AM—",
+      "choice_data_list": [
+        "(Alright, let's do this! First, stretches!)",
+        "(Alright, let's do it! First, stretches!)"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Good morning, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I'm finished stretching.\nI'm ready whenever. —How about you?",
+      "choice_data_list": [
+        "All good on this end too.",
+        "We're all set over here too!"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Alright then, let's go!\n—First, at a nice and easy pace to warm up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I jog at a relaxed pace alongside Almond Eye.\nEver since training camp started, we've gathered at sunrise,\nand I've been accompanying her on light jogs.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Running beside her allows me to read her breathing and movements clearly.\nFar better than watching from a distance, I can closely assess her condition—that was the reasoning behind it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Huff, puff...",
+      "choice_data_list": [
+        "Come to think of it, did you win the capsule toy you wanted?",
+        "Come to think of it, did you win the capsule toy you wanted?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No... not a single one!\nI try every time I go to the cafeteria,\nbut so far, I have zero Rare Q-marus...",
+      "choice_data_list": [
+        "I'm trying my best too, but I've still got a long way to go...",
+        "I'm doing my best too, but it's just not working at all..."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"Ugh, thank you! But really, in the first place...\nwhy is there a capsule toy machine in the cafeteria?\nIt's a mystery...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even while making small talk, I'm constantly wondering if there's anything different about her.\nMy mind is completely full of Almond Eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "—Mmh~...!\nMy body feels all nice and warm!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"Looking good!\nAlright, let's start training—\"",
+      "choice_data_list": [
+        "Ai, right now... your fatigue level is at '3', right?",
+        "Ai, right now... your fatigue level is at \"3,\" isn't it?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Uh! ...No!\n'Two'!",
+      "choice_data_list": [
+        "And the truth?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...... It's a 『3』.\nI hear you, let's keep it moderate today!",
+      "choice_data_list": [
+        "Let's rest for now and start in the afternoon."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Through thorough communication, she remains in great condition.\nThough her actual number of training sessions is fewer than the others—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "By structuring the training menu with clear variations, we're achieving the results we originally aimed for.\nThis turned out to be a pleasant surprise.",
+      "choice_data_list": [
+        "(I'm glad things are going smoothly...!)"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Blast Onepiece",
+      "text": "――Ah, you're back!\nGood morning, Ai-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Good morning, Blast!\n...And—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Good morning, Ai-chan!\nYour eyes are sparkling today too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her name is Kiseki. Last year's Kikuka Sho winner, a GⅠ Umamusume who, true to her name, performed a miracle by tearing through an unprecedentedly bad track.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She hasn't seen a win since then, but because\nshe brings all kinds of surprises every time she runs,\nshe remains hugely popular with racing fans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Man, that's seriously amazing.\nThe way these highlights are done is gonna be\nsuch good reference for character design...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "H-Hold on...\nAren't you staring a bit too much?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ah! Sorry, sorry!\nYou're just so pretty, I guess I'll never quite get used to it.",
+      "choice_data_list": [
+        "By the way, did you need something from Ai?",
+        "By the way, did you need something from Ai?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ah, that's it, that's right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "I was hanging out with Blast-chan and came up with all sorts of moves!\nI really want Ai-chan to try them out too!",
+      "choice_data_list": [
+        "Technique...?"
+      ]
+    },
+    {
+      "name": "Blast Onepiece",
+      "text": "\"Are you interested?!\nThen play with us too, Trainer!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Blast Onepiece",
+      "text": "First, a demonstration!\nWhich one do you want, the \"Giant Blast\"\nor the \"Kiseki-Style Amazing Sault\"!?",
+      "choice_data_list": [
+        "What!? I-I..."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...I'm not sure what kind of example to follow,\nbut I'll leave it to you.",
+      "choice_data_list": [
+        "\"Giant Blast\"",
+        "'Kiseki-Style Amazing Salto'"
+      ]
+    },
+    {
+      "name": "Blast Onepiece",
+      "text": "Here goes!\n\"Giant Blast\"—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*BOOOOOOOM!!!!!*)",
+      "choice_data_list": [
+        "Oooooh...!!"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "—T-that tackle was incredible...!\nThe punching bag is completely wrecked...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "A dynamic move making full use of Blast-chan's build that knocks you out in one hit!\nAugh, I want to see it in a full-page spread!",
+      "choice_data_list": [
+        "By the way, why are you developing special moves?",
+        "By the way, why are you developing special moves?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For some reason, mats were laid out outside,\ncomplete with steel posts and ropes.\nIt looked just like a pro wrestling ring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "We were thinking up special moves for a battle manga, and decided to actually try doing them ourselves!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "And then your face popped into my head, Ai-chan! You're so athletic, I just had to see what it'd look like if you gave it a shot!",
+      "choice_data_list": [
+        "Are you gonna do it, Ai...?",
+        "Are you gonna do it, Ai...?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Everyone's expecting a lot from me, so\nfor now—let's give it a shot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Here I go...!\n\"Giant Blast\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*BAM!!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Blast Onepiece",
+      "text": "Ooh~~!\nThat acceleration clicked right in... So smart!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Still, it wouldn't have the same impact as yours, would it?\nIf I were to do it...\nI'd want to use the rebound of the ropes too!",
+      "choice_data_list": [
+        "(She's taking this so seriously...)"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I wonder if the day will ever come when I can reveal\nmy newly developed \"Three-Through Spear\"...?",
+      "choice_data_list": [
+        "My \"Trainer Chop\" too...",
+        "My \"Trainer Chop\" too..."
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Now is the hour to take flight!\nUnleash! 'Kiseki-Style Amazing Salto'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(...*hup!* *spin, spin, spin, spin—bam!*)",
+      "choice_data_list": [
+        "Oooooh...!!"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Look at all those somersaults...!\nIt's just like a circus!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Heheh! I wanted to surprise everyone,\nso I pulled off a diving attack right off the top turnbuckle!",
+      "choice_data_list": [
+        "By the way, why are you developing special moves?",
+        "By the way, why are you developing special moves?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For some reason, mats were laid out outside,\ncomplete with turnbuckles and ropes.\nIt looked just like a pro wrestling ring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "We were thinking up special moves for a battle manga, and decided to actually try doing them ourselves!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "And then your face popped into my head, Ai-chan! You're so athletic, I just had to see what it'd look like if you gave it a shot!",
+      "choice_data_list": [
+        "Are you gonna do it, Ai...?",
+        "Are you gonna do it, Ai...?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Everyone's expecting a lot from me, so\nfor now—let's give it a shot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I'll decide it with all my might!\n—\"Kiseki-style Amazing Salto\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(...*glide!* *spin, spin, spin—tap!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "W-What brilliance...!\nTruly taking flight! And each and every\none of those spins is gorgeous...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Still, that was one less spin than you.\nIf I were to do it,\nI'd want it to be even flashier...!",
+      "choice_data_list": [
+        "(She's taking this so seriously...)"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I wonder if the day will ever come when I can reveal\nmy newly developed \"Thunder Eye Shot\"...?",
+      "choice_data_list": [
+        "My \"Trainer Chop\" too...",
+        "My \"Trainer Chop\" too..."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Well then...\nShall we start training soon?",
+      "choice_data_list": [
+        "Yeah, I fixed up the menu too, so take a look.",
+        "Yeah, I fixed up the menu too, so take a look!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What I showed her was the whiteboard.\nBecause the regimen changes frequently depending on her condition, I've recently been writing it on the board to share with her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Oh? You can actually tackle this pretty thoroughly, can't you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "The workload is higher than the day before yesterday...\nEven though we agreed to take it easy this morning.",
+      "choice_data_list": [
+        "I saw how you were doing earlier and thought you could pull it off."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...You're confident, aren't you?",
+      "choice_data_list": [
+        "Yeah. I'll make sure you get thorough care too!",
+        "Yeah. We'll take care of you perfectly, too!"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Right! Well then,\nI'll give it everything I've got, too!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Hehe.",
+      "choice_data_list": [
+        "Ai?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"I have to win the Shuka Sho!\n—For your sake, too.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"...Huh?\nJust now... I...\"",
+      "choice_data_list": [
+        "...Are you saying you're doing this for my sake?",
+        "...Are you saying it's for my sake?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Ah, I see.\nSince when did...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...I'm not lying.\nFor now, isn't that enough?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Now, let's get down to training!\nI'm going to give it my all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "—*Haa*... *haa*...\n*Phew*............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...That's all for today.\n............\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hm? That is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "*brrr*... So cold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Well, that's a relief. But you startled me, you know?\nYou were staring out at the sea so blankly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I was training just a moment ago...\nMy face got a little flushed, you see.\nI was just cooling off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...Are you okay?\nWhat about Trainer?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "She's watching over me from over there\nwhile adjusting my regimen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "This level of fatigue is well within expectations.\nI've adjusted the workload so it builds strength without causing heat buildup.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Man, they're really going the extra mile, huh?\n...Well, guess you don't wanna slack off.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...If I win the next one too,\nthat'll be the Triple Tiara, won't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ah......\nCome to think of it, you're right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...\"Come to think of it\"? Really?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Ai-san... really doesn't care\nabout that title at all, does she?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That's right. What I'm aiming for... is to win the races I want to win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Titles will follow once you win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "“...I'm sure Ai-san's gonna win the Triple Tiara.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I think it'd be an honor if I pulled it off!\nBut I don't know if that's how it'll go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"You never know what will happen in a race. ...The next one to win might just be you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "………………—\nAre you... really serious about that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "It's true! That's why I train, and why I never let my guard down. I make adjustments right down to the wire.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "—Because I definitely want to win!\nDon't you feel the same?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "—I'm...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "New Year's—after wrapping up my light first duties, I took a breather.\nFrom the hallway, I could hear\nUmamusume exchanging New Year's greetings.",
+      "choice_data_list": [
+        "(I wonder how Hishi Miracle is doing.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...I have a hunch what it's about, but still.\nThinking that, I cleared off my desk\nand decided to head out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "...Huh? Trainer?\nOh, what a coincidence.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Happy New Year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I bumped into Hishi Miracle at the shopping street.\nI exchanged New Year's greetings, but since I never\nexpected to run into her, I blurted it out without thinking.",
+      "choice_data_list": [
+        "I thought you'd be lounging around at home...",
+        "I thought you'd be lounging around at home..."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ah, so mean!\nYou're making me sound like a total slacker fiend!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I'm not gonna laze around forever~. The me of this year is completely different, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Look, I felt like moving around, so I went out\nfor a walk on my own. Pretty impressive, huh?",
+      "choice_data_list": [
+        "Then why don't you get some more exercise?",
+        "Then why don't you get some more exercise?"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Is that... perhaps some kind of training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Nah, no way, no way in hell~! It's New Year's, you know? It's bright red on the calendar! A holiday among holidays!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "You should make the most of your precious vacation.\nToday is your day off too, Trainer! Right?",
+      "choice_data_list": [
+        "Yeah, that's true too.",
+        "Yeah, that's true too, huh."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Huh... She backed off quite easily.",
+      "choice_data_list": [
+        "Because you worked so hard last year.",
+        "Because you worked so hard last year."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Once her debut was locked in, Hishi Miracle\ndiligently trained day in and day out.\nIn her own way, she really kept at it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "…………\nEhehe... hearing you say that makes me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Yeah, looking back, I really feel like I worked hard\nlast year. Compared to before my debut,\nI've genuinely put in the effort.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Look at me, I can do it when I try.\"\n...Or something like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "So this year... I think I'll do my best.\nWell, at my own pace, of course.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Even so, that starts after our break. Today, we play!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "By the way, Trainer, what kind of things\ndo you do for fun? I'm kind of curious~.",
+      "choice_data_list": [
+        "Conquering every ride at the amusement park",
+        "Spending some relaxing time at the cafe",
+        "Test your luck with a lucky bag!"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I see, so we're going all out to have maximum fun!\nSounds great~ I want to play with everything I've got too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I went to the amusement park with Hishi Miracle.\nUpon arriving at the entrance, we ran into two people we knew very well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Mirako, Happy New Marvelous☆★☆ What an incredible coincidence! Statistically super, ultra rare! Let's give thanks for this marvelous twist of fate★",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mm-hmm! I'm so happy somehow!\nHey, hey, wanna check out the attractions together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Oh, good idea! Trainer, with the two of you, I bet you know the best way to get around the attractions efficiently!\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "In that case, leave it to Maya and the crew!\nI'll guide you through a route where we can easily ride everything!",
+      "choice_data_list": [
+        "I'll definitely be counting on you!"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Ahahaha! MAAARVELOOOUUUS☆\nRoller coaster going zoom-zoom-zooom★",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Hyaaaaaah!\n...Aha, hahaha~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ah! Maya figured it out! I solved the escape puzzle! Everyone, this way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I finally caught— wait, you're running again?!\nWait for me~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Yay yay, conquered all the attractionsâ\nMarvelousââ Next, let's conquer the souvenir shops!",
+      "choice_data_list": [
+        "Those two are always so full of energy...",
+        "Those two are always so full of energy..."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Yeah... So this is the rumored \"Boot Camp\"...\nIt's fifty times harder than I imagined...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Hishi Miracle unintentionally ended up\nhaving a rather grueling New Year's.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"I love relaxing at a cafe too~.\nShall we head over right now?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I entered a cozy cafe with Hishi Miracle.\nThen, a familiar face came over to serve us.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Welcome! Oh, Hishi Miracle.\nHappy New Year!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Wait, Ryan-chan?\nYou surprised me. A part-time job?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "An acquaintance runs this place. They helped me out\na ton before, so I'm helping out as thanks!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Fueh~, well look at that.\nThanks for all your hard work right from New Year's~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ahaha, I'm having a blast doing it!\nWell, call me over once you've decided on your order.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"...Did you hear? She's helping out, completely free of charge.\nIt's just so like Ryan-chan, isn't it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Spending your precious day off like that... I could never do it.\nSeriously, you're amazing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "U-Um... Ryan-san!\nCould you shake my hand, please!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Yes, with pleasure!\n—Now then, may I take your hand?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "You're really going all out, even with fan service.\nI mean, you look so used to dealing with fans~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "We really live in different worlds, don't we?\nAh~, this caffe latte is so good~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though impressed by Mejiro Ryan's diligence,\nHishi Miracle continued to relax without a care in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "A lucky bag! I wanna see what's inside~.\nTrainer, can I come along with you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "――Ah, the one standing in front of the lucky bag cart...\nIsn't that Nakayama-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Amidst the crowd at the special venue, Nakayama Festa\ncould be seen in the front row, scrutinizing the lucky bags.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "It certainly promises more items than the price tag suggests...\nHowever, the question is whether I can actually use them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Last year, I misread the situation and drew the short straw.\n—This year, I'll see right through it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Naturally, we're aiming for the high-price tier!\nHigh risk, high return is the true thrill of a gamble!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "The bag's size, color, placement...\nThe bet derived from all this is—THIS ONE!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "...That's, kind of amazing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I'm amazed you can take a chance on expensive lucky bags.\nI've struck out with them before,\nso I'm too scared to buy expensive ones.",
+      "choice_data_list": [
+        "Aren't you buying any more lucky bags?"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "No, I just don't take reckless gambles.\nI do buy the popular lucky bags every year since they're guaranteed to be a good deal~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "If we're here, I'd recommend the import grocery lucky bags.\nCare to try one?",
+      "choice_data_list": [
+        "Yeah, maybe I'll buy that one too.",
+        "Yeah, maybe I'll buy that one too."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Alright then, how about we try some safe,\nsound, and foolproof luck testing~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If I can help it, I'd rather not fail.\nAnd so, I went with Hishi Miracle to test our luck on a grab bag that was guaranteed a win.",
+      "choice_data_list": []
+    }
+  ]
+}

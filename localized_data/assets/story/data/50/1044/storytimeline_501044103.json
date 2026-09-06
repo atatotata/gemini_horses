@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Summer training camp starts today!\nIn a special environment, it's time to tackle\na menu aimed at intensive reinforcement!",
+      "choice_data_list": [
+        "Starting today, right away—"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "............I can't do any more today.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "I mean, we were on the bus for super long, you know?\nIt was rocking and swaying the whole entire time...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Uuuggghhh...\nThis is why I hate the bus~~...!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Carrying Sweep Tosho's luggage to her room for her after seeing her look uncharacteristically timid, I sat down to draft the training camp schedule starting tomorrow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Uuuugh...",
+      "choice_data_list": []
+    }
+  ]
+}

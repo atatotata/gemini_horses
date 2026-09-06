@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Nishino Flower...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ah, Paka Petit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Nishino Flower pointed, there was a crane game filled with plushies themed after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"...Whoops, um...\nThat's, well, it's cute...\"",
+      "choice_data_list": [
+        "Do you want to try taking on the challenge?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Huh...!?\nE-Ehehe... yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "A-Alright... which one should I aim for...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ugh... I couldn't get a single one...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I suppose there's a trick to it after all.\r\nIt certainly doesn't come easily...",
+      "choice_data_list": [
+        "I'll get it for you.",
+        "I'll get it for you."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Wait, are you sure... Is that really okay!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "In that case, I'll cheer you on with all my might!\r\nTrainer, do your best!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

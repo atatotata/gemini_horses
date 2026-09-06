@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Marvelous Sunday came walking from down the hallway,\nlooking unwell...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Aha, marve... ngh!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "You know... my head is just full of marvelous things.",
+      "choice_data_list": [
+        "In your head?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"Yeah. Like a spiky ball is\nspinning round and round in your head?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"Sometimes, deep behind my eyes,\nsparks go crackle-crackle, flashing bright...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "It feels so painfully funny, it's totally marvelous—ouch, owowow!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Marvelous Sunday\nis suffering from a headache...",
+      "choice_data_list": []
+    }
+  ]
+}

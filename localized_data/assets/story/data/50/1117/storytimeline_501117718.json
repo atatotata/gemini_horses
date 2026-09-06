@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Win Variation",
+      "text": "Ah, Trainer.\nThank you for giving me some time off.",
+      "choice_data_list": [
+        "Did you get to refresh yourself?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yes. I watched a musical over the break!\nIt was a story about a dancer seizing the lead role on a grand stage, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Even when everyone around said it was impossible,\nseeing them believe in themselves and keep striving was so inspiring...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "During that final scene, my body just started moving on its own...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Win Variation gained energy from the success story, seemingly refreshed in both body and mind.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while Mejiro Ardan was training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Haa... haa... haa...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Ugh, my body feels so heavy.\r\nCould this be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(――CRACK!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Kh...!?",
+      "choice_data_list": [
+        "Ardan!?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...I'm fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "My leg hurts a bit...\r\nBut it's nothing serious, just a little rest and...—",
+      "choice_data_list": [
+        "No, let's call it a day."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "......I am terribly sorry.\r\nIt's all because of my own inadequacy—",
+      "choice_data_list": [
+        "No. It's my negligence as your trainer",
+        "No. It's my negligence as your trainer"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Trainer...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It seems running in consecutive races recently\nhas placed an excessive burden on Mejiro Ardan's legs...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I need to review her upcoming race schedule and rebuild it so she doesn't run too many races in a row...",
+      "choice_data_list": []
+    }
+  ]
+}

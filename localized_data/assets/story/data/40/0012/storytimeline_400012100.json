@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Good work.\nI was watching your training session.\nYou really seem to be working hard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Keep up the good work,\nand continue to guide <nickname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The proprietress praised our training session!\nIt seems she views us favorably.",
+      "choice_data_list": []
+    }
+  ]
+}

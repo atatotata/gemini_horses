@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Twin Turbo",
+      "text": "Aaargh!! So frustrating, frustrating, frustrating~!!\nI lost again~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Turbo worked so hard, too!!\nI don't wanna race anymore~!!",
+      "choice_data_list": [
+        "You can't win a race if you don't enter it, you know?"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "\"...Ah!! It's true!!\"",
+      "choice_data_list": [
+        "Let's train thoroughly so we won't lose again.",
+        "Let's keep trying until you win!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "I'm gonna train a whole bunch!\nRev my Turbo Engine to the MAX, and then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "I'm gonna get so strong I'll blow you away, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "WOOOOOO!! Got it!\nI'll go full turbo and run run run my heart out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ei, ei, TURBOOO!!",
+      "choice_data_list": []
+    }
+  ]
+}

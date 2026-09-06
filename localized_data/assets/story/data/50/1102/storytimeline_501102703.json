@@ -1,0 +1,277 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as we finished our business with Sounds of Earth and were about to head home...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Snap)",
+      "choice_data_list": [
+        "Ah, my shoelace is..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Lo sapevo... Shall we head to the shoe store?\nWe still have time before curfew, after all.",
+      "choice_data_list": [
+        "I can go by myself, so don't worry."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "What an elegant person!\nI see, so you intend to walk alongside any girl,\nno matter how difficult she might be?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "What an elegant person!\nI see, so you intend to walk alongside any girl,\nno matter how difficult she might be?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"However... you mustn't mistake self-sacrifice for love, Direttore.\nI fear for your well-being.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"However... you mustn't mistake self-sacrifice for love, Direttrice.\nI fear for your well-being.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth leans in so close I can feel her breath, peering into my face.\nTaken aback by the proximity, I reflexively turn my head away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Fufu... It's decided.\nAs your scorta, I will accompany you no matter what.\nTake my hand so you don't trip.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shoe Store Clerk",
+      "text": "Thank you for waiting!\nI brought a few pairs of sneakers in the size you requested.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Grazie!\nNow then, let us try them in order!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "There's no need to rush.\nIf it means finding the ultimate pair, I am prepared to dedicate this entire evening to the search……!",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Why is she so passionate about this?\nSpeaking of which, when a shoelace snaps, they say...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Certo!\nIt's just like a snapped shoelace.\nOnce you re-string it, it'll sing again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It reminds me of when a violin string snapped.\nI admired how she routinely handled the delicate care\nand effort required for such a sensitive instrument.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I'm worried about your well-being\"—she said that earlier.\nCould she be...",
+      "choice_data_list": [
+        "(Is she planning to take care of me?)",
+        "(Are you planning on taking care of me?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "To think a Trainer would make their trainee worry about them. Feeling pathetic, I quickly tried on the shoes that were prepared...",
+      "choice_data_list": [
+        "Maybe I'll go with this one."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Hold on.\nThere's a faint dissonance.\nDoes the instep not fit right?",
+      "choice_data_list": [
+        "As long as we tie the string nice and tight, it'll be fine."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Mamma mia!\nTurning down the volume doesn't get rid of the noise!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Shower yourself with more love!\nFor you are a wonderful person, shining just like the sun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Pardon me, signorina!\nI have a favor to ask—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before long, a towering pile of shoeboxes had formed,\nalmost reaching all the way to the ceiling...",
+      "choice_data_list": [
+        "You're going to try all of them!?",
+        "You're going to try all of them!?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Certo!\nThere's definitely a pair out there that will make you Cenerentola!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth is dead serious. She intends to discern... or rather, \"listen\" out for the shoes that truly fit her feet!",
+      "choice_data_list": [
+        "(I have no choice but to do it!)"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I feel a slight interference.\nIs your ankle hitting against something?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "No noise, yet devoid of joy.\nSeems she isn't fond of the design.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "A fantastico chord!\nHowever, that is not the sound that plays you!\nNext! Try the next one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She kept trying on more shoes after that,\nbut none seemed to be the one.\nBefore we knew it, we were down to the very last pair...",
+      "choice_data_list": [
+        "(Put on the shoes.)"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"A snug fit that completely hugs the entire foot,\nand shifting weight feels as smooth as if being pushed from behind.\nThis thrilling sensation with every step is...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Molto bene!! That's it! You understand too, don't you?!",
+      "choice_data_list": [
+        "I get it! That's wonderful!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I have been waiting for you, Cenerentola!\nNow, it is time for the ball!\nLet me hear the melody of your running!!",
+      "choice_data_list": [
+        "Are you going to run just like that?!",
+        "Are you going to run just like that?!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Sì! The gates are open...!\nLet your music resonate across the sunset sky!",
+      "choice_data_list": [
+        "I-I'll go pay the bill real quick!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Hahaha! Fantastico!\nIt is brimming with joy and excitement!\nLet us speed it up a little! Towards the grand finale!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah, Cenerentola!\nWhat a brilliant sound you resonate!",
+      "choice_data_list": [
+        "I'm glad we had such a great session!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The ultimate session—that is her reason for running.\nHowever, to make it reality, the Trainer must also be\nat their absolute best. I need to change my mindset.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Bravo! Meraviglioso!!\nNext time, run with me.\nBis... encore!",
+      "choice_data_list": [
+        "You're gonna run again!?",
+        "You're running again!?",
+        "Maybe I'm a little tired...",
+        "I might be a bit tired..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Brava! Meraviglioso!!\nNext time, run with me.\nBis... encore!",
+      "choice_data_list": [
+        "You're gonna run again!?",
+        "You're running again!?",
+        "Maybe I'm a little tired...",
+        "I might be a bit tired..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Sì! Rest easy.\nA moderate tempo, and the baton is in your hands.\nLet us go forth freely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Now, take my hand.\nLet me feel your heartbeat.\nI want us to play a benissimo chord together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With a racing heart, I take the hand and start running.\nPerhaps because the shoes fit so well,\nrunning has become mysteriously fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Haah, haah, haah... Heheh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thank you for choosing such good shoes—\nI'm sure you can already tell by the \"sound,\"\nbut I'll put it into words once our session is over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Oops... forgive me!\nEven after the clock struck midnight, your music\nwas so beautiful that I just got greedy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "You must be tired from dancing, Cenerentola.\nLet us go to that quiet café over there.\nRest your feet to your heart's content.",
+      "choice_data_list": [
+        "Thank you."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even when she gets completely absorbed in something,\nshe never forgets to be considerate of those around her.\nHer kindness warmed my heart.",
+      "choice_data_list": []
+    }
+  ]
+}

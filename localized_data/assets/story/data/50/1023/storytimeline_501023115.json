@@ -1,0 +1,308 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In preparation for the Tenno Sho (Spring),\nwe decided to hold an open practice session for the press.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Murmur, murmur, murmur...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Staff",
+      "text": "With that, the public training session is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Excuse me, Biwa Hayahide!\nCould we request an additional solo interview with you?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Narita Taishin-san is running in the Tenno Sho (Spring) too, right!?\nAs one of the BNW...",
+      "choice_data_list": [
+        "P-Please calm down!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Steadily producing results, Biwa Hayahide\nhad gratefully become one of the Umamusume\ngarnering massive attention from the public.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Press Crew",
+      "text": "Biwa Hayahide-san! Biwa Hayahide-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...However, as expected, we couldn't accept all the interview requests.\nI bowed apologetically to the reporters who came that day and sent them home.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Fufu, Trainer-kun.\nI really didn't mind, you know.",
+      "choice_data_list": [
+        "Still, I want you to focus.",
+        "But it's because I want you to stay focused"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I'll take you up on that, then. Would you be willing\nto give me some of your time this coming weekend?",
+      "choice_data_list": [
+        "The weekend?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yeah. I have some important business to take care of.\nImportant to both of us, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And on the promised day,\nthe place Biwa Hayahide called me out to was—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "We've been blessed with perfect weather\nhere at Nakayama Racecourse today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"The fan favorite for the Satsuki Sho is this girl right here,\nNarita Brian!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Waaaaaaaaaaaaahhhh!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "What terrifying popularity.\nI suppose all of this is what makes \"Narita Brian.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(KER-CLUNK!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Narita Brian holds a good position.\nComing around the first corner, the trailing pack is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In contrast to the excited spectators, Biwa Hayahide watched quietly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "The race proceeds at a slightly fast pace. 800 meters remaining!\nHow will this tempo affect the runners?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "It's a fast pace, but there's no gap between the leader\nand the front pack—they're virtually running as one solid group.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "A contest down the homestretch after burning through their stamina.\nWill it come down to a duel down to the wire—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Narita Brian!\nNarita Brian breaks away!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "In the lead is Narita Brian! Three lengths,\nfour lengths ahead of the pack. She keeps extending her lead!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "What an overwhelming victory! And in record-setting time!!\nNarita Brian is a force of nature—claiming her very first crown!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Waaaaaaaaaaaaahhhh!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Narita Brian. To think she'd win\nwhile setting an unexpected course record...!",
+      "choice_data_list": [
+        "(A course record...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"It's the indisputable fact that she is 'faster' than any Umamusume who has ever run 2000 meters at this Nakayama Racecourse.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Analysis",
+      "text": "That late kick she showed at the end was on another level entirely.\nTo think an Umamusume like this would appear...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Say, Trainer.",
+      "choice_data_list": [
+        "...What is it, Hayahide?",
+        "...What is it, Hayahide?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "—I will defeat her.",
+      "choice_data_list": [
+        "！！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...If she could see this race before the Kikuka Sho,\nI wonder what she'd say.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The only thing that can be said for sure is that her fighting spirit is burning hotter than ever before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Bzzz, bzzz, bzzz*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hm? Looks like you have a call.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Prompted by Biwa Hayahide, I check my smartphone.\nThe name displayed on the screen was...",
+      "choice_data_list": [
+        "...Tazuna-san?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...I see. So this year's Tenno Sho (Spring)\nwill be held at Hanshin Racecourse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Due to renovations at Kyoto Racecourse,\nthe venue for the Spring Tenno Sho has apparently been changed to Hanshin Racecourse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, that was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Hm. Both Kyoto and Hanshin are clockwise tracks, but their slopes are vastly different. While Kyoto is flat before the goal, Hanshin has a fairly steep hill.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Unavoidable though it may be, our data so far\nand our planned strategy... won't work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...This will drastically overturn the theories\nwe've built up with Biwa Hayahide\nleading up to the Tenno Sho (Spring).",
+      "choice_data_list": [
+        "(At a time like this...)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm. Then let us reconstruct\nthe winning formula once more.",
+      "choice_data_list": [
+        "Huh?!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Fufu. What is it, Trainer-kun?\nAren't we proving it with actual results?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No matter how little time we have left,\nall we can do is give it our all toward victory\nand deliver results.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "—Just like back during the Kikuka Sho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"...We're rebuilding practically from scratch, you know?\nIt will definitely take up your free time as well.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...The girl who was once lost\nwas no longer there.\"",
+      "choice_data_list": [
+        "You've grown a whole lot more, haven't you?",
+        "You've grown a whole lot more, haven't you?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...? Trainer-kun,\nwhy are you staring at my face—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "M-My head hasn't gotten big, okay!?\nIt's totally normal size!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...No matter what situation she faced, her resolve no longer wavered.\nShe had undeniably grown.",
+      "choice_data_list": []
+    }
+  ]
+}

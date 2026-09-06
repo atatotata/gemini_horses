@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "Waaaaaaah!\r\nTrainer-saaaan!!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "The teacher got mad at me because my test scores were terrible!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"If my next test is bad too, Sensei said\r\nit'll be one-on-one extra lessons, 'desu'!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uuugh... I really need to study this-desu ne...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Because of this incident, Taiki Shuttle was feeling down for a while.\"",
+      "choice_data_list": []
+    }
+  ]
+}

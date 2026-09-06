@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Commentary",
+      "text": "In 1st place is <chrname>!\n<chrname> reaches the goooal!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stream Chat",
+      "text": "\"Whoa, that's French turf!\"\n\"Holding off the international competition, isn't that a massive feat!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stream Chat",
+      "text": "\"‘So who were the foreign runners anyway?’\n‘WOOOOOOOO, <chrname>!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stream Chat",
+      "text": "\"Way too many issues. You shouldn't go around saying\nyou'll definitely win this race, you know.\"\n\"Hurry up and give me the next schedule.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Comments poured in one after another.\nHowever—",
+      "choice_data_list": [
+        "(I might actually be able to win...!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "I felt like I finally got a real grasp on it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Congratulations,\nTrainer <username>!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "You ran hard until the very end.\nPeople's opinion of you all must have risen as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"I bow in response to Mei Satake's praise.\nHowever, our true destination still lies further ahead.\"",
+      "choice_data_list": [
+        "I'll keep giving it my best."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...!\nYeah, I'm counting on you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Back in the trainer's office, I ponder.\nThrough her days in Project L'Arc,\n<chrname>'s abilities have improved.",
+      "choice_data_list": [
+        "(But everyone's expectations...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...Thinking back on the comments from the Representative Exhibition.\nWe still haven't won the heartfelt trust of the people of Japan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"In order to gain 'supporters'... I have to become someone with the potential to take on the world, someone they can't help but root for passionately.\"",
+      "choice_data_list": [
+        "...First, let's reach the top in Japan."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I explain things to <chrname> when she arrives\nat the trainer's office, including how her abilities\nhave blossomed through Project L'Arc.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And together, we steel our resolve.\n—That to become the vessel of the world's best, we must prove ourselves on Japan's grandest stage: the Japanese Derby.",
+      "choice_data_list": []
+    }
+  ]
+}

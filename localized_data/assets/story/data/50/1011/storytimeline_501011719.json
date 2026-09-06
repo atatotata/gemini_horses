@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "When I came to the classroom to pick up Grass Wonder so we could begin training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh dear...\r\nI'm so sorry for making you come all the way here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "However, would it be alright if I took today off from training...?",
+      "choice_data_list": [
+        "Are you feeling unwell or something?",
+        "Are you feeling unwell or something?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, it's not quite that... I am in perfectly good health, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hey, hey, Grass-cha~n!\r\nWhat does \"kotoshigeshi\" mean~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Ah, no fair!\r\nI was going to ask my English question first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Right away, I'll be there in just a moment~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"...I'm sorry, Trainer.\r\nSo that's how it is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, Grass Wonder apologized\r\nand took her leave with an apologetic look.",
+      "choice_data_list": []
+    }
+  ]
+}

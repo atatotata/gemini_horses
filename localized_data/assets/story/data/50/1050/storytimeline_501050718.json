@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After the holidays, Narita Taishin\ncame to the Trainer's Office.",
+      "choice_data_list": [
+        "How was your day off?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh?\nLike that has anything to do with you... actually, it does.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nothing special, just the usual.\r\nI had a normal break and got to take it easy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It looks like Narita Taishin was able to get some proper rest.",
+      "choice_data_list": []
+    }
+  ]
+}

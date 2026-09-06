@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While searching for marvelous things by\nthe riverside with Marvelous Sunday...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(SPLASH!!)",
+      "choice_data_list": [
+        "Something jumped in the river! What could it be?",
+        "Something jumped in the river! What could it be?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "…………。",
+      "choice_data_list": [
+        "...Marvelous?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"......Huh? Trainer, what's the matter?\"",
+      "choice_data_list": [
+        "Something just splashed in the river..."
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Really!? I sense something marvelous☆\nHey, hey, let's go check it out★",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Marvelous Sunday's reactions are sluggish.\nFatigue might be piling up.\nWe may need to review her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

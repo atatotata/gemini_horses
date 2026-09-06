@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "During our outing,\nas Sounds of Earth was playing his violin as usual...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Snap)",
+      "choice_data_list": [
+        "What was that sound?!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Oops, seems I sang with a bit too much passion\nand snapped a string.",
+      "choice_data_list": [
+        "The strings... is the instrument alright?",
+        "The strings... is the instrument alright?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Certo!\nIt's just like a snapped shoelace.\nOnce you re-string it, it'll sing again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Are you frightened, Agnellino?\nI'm sorry for startling you.\nSuch a destructive sound must have been scary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "How kind of you!\nI know, since we're here, I'll teach you about instruments.\nFollow me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, we arrived at\na small string instrument shop with an attached workshop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Sorry to have kept you waiting, Direttore!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Sorry to have kept you waiting, Direttrice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I was procuring spare strings.\nI feel terribly uneasy running out of them, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth, looking relieved,\nwas holding nothing at all.\nWhen asked what was going on—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"Ah, I left that with the shopkeeper.\nNo need to worry, it's just routine maintenance.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I get checkups at this shop regularly.\nI usually make an appointment,\nbut they just happened to have an opening, so I dropped by.",
+      "choice_data_list": [
+        "So musical instruments need maintenance too, huh?",
+        "Musical instruments need maintenance too, huh?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Sì. She is a delicate princess, after all.\nIt would be quite rude to neglect re-hairing the bow or adjusting the bridge and ruin her beautiful singing voice, wouldn't it?",
+      "choice_data_list": [
+        "Rehairing? What's reshaping the bow?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Fufu, I thought you might take an interest.\nWait right there for a moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth picked up a book from the shelf in the waiting room and began flipping through its pages.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "This is a specialized book for craftsmen.\nIt goes into great detail about violins.",
+      "choice_data_list": [
+        "What kind of things are written there?",
+        "What kind of things are written there?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "That's right—\nFor example, this page explains how the bridge affects sound quality...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "The bridge is the wooden piece that supports the strings.\nIts shape changes how sound transfers to the body.\nHowever, the tension from the strings causes the bridge to warp, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Sitting beside me, she explained things while showing me the book.\nThough there were many unfamiliar terms, I listened desperately, wanting to understand...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah... Even when perplexed, you are adorable!\nThough, was that perhaps a bit too technical?",
+      "choice_data_list": [
+        "It's difficult, but very fascinating."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"Is that true...!? O sole mio!\nThen let me tell you more!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Fufu, as for the bow, that one is...\nMaybe this soundpost is a bit gentler?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Books pulled from the shelves one after another\nwere piled high in a towering stack right before my eyes...",
+      "choice_data_list": [
+        "Don't tell me you read all of this?!",
+        "Don't tell me you read all of this?!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Sì. The violin is my voice, my other half.\nI would do anything in my power to preserve its beautiful singing voice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She says it with such a calm face, but reading this many books\nis no small feat.\nIt shows just how deeply she treasures music.",
+      "choice_data_list": [
+        "It's amazing that you take care of things to that extent!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Is that so? I'm surprised that caught you off guard.\nYou're quite the attentive one yourself, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"That can't be true. I'm always full of admiration for how attentive and caring she is toward everyone around her.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "String Instrument Shop Owner",
+      "text": "Earth-san, the maintenance is all done.\nI adjusted the position of the bridge slightly, so could you check if it's alright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Grazie!!\nThey took such good care of you, my princess!\nVery well, let us play a song!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The moment she took the instrument, she began to play.\nA passionate melody resonated throughout the shop...",
+      "choice_data_list": [
+        "(This sound is the fruit of all her hard work)",
+        "(This sound is the fruit of all her hard work)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Understanding the instrument and never neglecting its care.\nThat tone must be born from her insatiable greed for the ultimate session.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When the performance ended a short while later,\neveryone in the shop broke into enraptured applause.",
+      "choice_data_list": [
+        "That was a heart-stirring performance!",
+        "It looked like your fingers were dancing!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Grazie!\nThis is all thanks to the shopkeeper's fantastico work!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah, I cannot contain my joy!\nLet us have a session for one song, Direttore!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah, I cannot contain my joy!\nLet us have a session for one song, Direttrice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Clatter, clatter...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as I was swept up in the excitement and about to nod, the sound of the doorbell announced a visitor.",
+      "choice_data_list": [
+        "Let's save the session for another time"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Forgive me, I was simply blinded by joy.\nShall we head back for today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Molto bene! What a fascinating way to put it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "A new melody was born from your words.\nNow, listen! To this music of pure joy...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Clatter, clatter...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as I was swept up in the excitement and about to nod, the sound of the doorbell announced a visitor.",
+      "choice_data_list": [
+        "Will you play it for me again next time?",
+        "Will you play it for me again next time?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Forgive me, I was simply blinded by joy.\nShall we head back for today?",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Taiki Shuttle—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Wow! Amazing!\nTrainer!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Look at that machine!\nIt's packed full of Umamusume toys!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Taiki Shuttle pointed,\nthere was a crane game filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "It says \"Paka Petit\"! Ahaha, it's so very cute!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "If I send these souvenirs to my little sisters in America,\nthey will surely be thrilled!",
+      "choice_data_list": [
+        "Alright, I'll get it!",
+        "Alright, I'll get it!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Wow! Really!?\nThank you! I have high hopes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

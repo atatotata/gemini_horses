@@ -1,0 +1,560 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day in early February—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Katsuragi Ace and I had come to watch\nthe Kyodo News Hai, where Mr. C.B. was running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "—She's cornered Mr. C.B.!!\nNeck and neck, and they cross the finish line!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(WOOOOOOOH!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Incredible...! Coming all the way from the back in one go...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "\"Man, CB really is the real deal!\nI'm so begging her to go for the Triple Crown!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "C.B. was so cool, wasn't she...\nI just can't take my eyes off her...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Mmm-mmph...! That was such a good race...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "That guy... after running a race like that,\nhow can she look so unbothered already...?!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "\"CB! That was so cool!\nGood luck next time too! We're rooting for you!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Thanks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(WOOOOOOOH!!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...I'm glad I got to see it in person.",
+      "choice_data_list": [
+        "Ace, how did CB look to you?"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"In a word...\n'astounding' is how it feels.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"...I already knew she was an amazing Umamusume,\nbut she's still got an insane amount\nof potential left...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"It really drove home the fact that the next time we race,\nyou're gonna be even stronger than today, whether I like it or not.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I agreed with Katsuragi Ace's analysis.\nToday, I was once again reminded of Mr. C.B.'s immense potential...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "—But that's fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "It's precisely because she leaves common sense behind\nand charges far beyond everything,\nbecause she's Mr. C.B.—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "I feel a strong urge to surpass them...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Even after witnessing Mr. C.B.'s current strength firsthand, Katsuragi Ace doesn't seem overwhelmed in the slightest.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Far from it; you could say her competitive spirit\nis burning even more fiercely.\nIt's truly reassuring...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Hey, Trainer.\nDo you mind if I go see C.B. for a bit?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "If I'm gonna fight CB, I really want to\ncompete on the Classic Triple Crown route...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "So, I'm gonna tell them directly...!\nThat I'm aiming for the Satsuki Sho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "So I'll get her even a little bit interested...\nand then show her how I run from now on to make her want to take me on!",
+      "choice_data_list": [
+        "...If that's the case, let's go see them!",
+        "...If that's the case, shall we go see them?"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Alright! No time like the present, let's go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When I headed ahead to meet Mr. C.B.—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Murmur, murmur, murmur, murmur...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "What is it? It's getting awfully noisy over there—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "—Thank you for your hard work in the Kyodo News Hai!\nThat was a magnificent run...! How are you feeling about the Triple Crown path after this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "A run like that is sure to raise the fans' expectations!\nThere's a massive demand to see her enter the Satsuki Sho—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Hmm. Let's see—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Trainer, sorry!\nLet me go right now!",
+      "choice_data_list": [
+        "Right now?!"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "It's like a gut feeling, or...!\nI feel like if I don't tell them right now, the moment will pass, and I'll miss my chance...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Katsuragi Ace surely knows Mr. C.B.'s personality better than I do.\nIf that's what her intuition tells her—",
+      "choice_data_list": [
+        "...Understood. Go get 'em!",
+        "...Understood. Have a good run!"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...! Thank you!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Cee Beeee!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "—If you're hesitating, then come to the Satsuki Sho!!\nAnd face me head-to-head!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ace—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Huh, isn't that... Katsuragi Ace?\nWhy right now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter C",
+      "text": "Don't stop filming...!\nThis is gonna get interesting...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Not just the Satsuki Sho!\nThe Japanese Derby, and the Kikuka Sho, too!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "It's a best-of-three showdown between you and me in the Classic Triple Crown!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "—Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Haha, ahahaha...!!\nMan, Ace really is something else...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Showing up out of the blue and dropping something like that on me...\" attitude?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "—Sure, let's do it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I'm running the Classic Triple Crown too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporters",
+      "text": "(Oooooohhh!?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "First is the Satsuki Sho—\nWe settle things there, Ace.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Hell yeah! That's a promise!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "MC",
+      "text": "\"Now that Mr. C.B.'s entry in the Classic Triple Crown is confirmed, Twinkle Series fans everywhere seem to be brimming with excitement!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator",
+      "text": "\"Well, everyone was hoping for it.\nI'm sure many fans were relieved to hear it straight from her own mouth.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator",
+      "text": "\"I, too, have been looking forward to seeing\nwhat she can do, so I can't wait.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "MC",
+      "text": "“Katsuragi Ace, who suddenly appeared and threw down the gauntlet to Mr. C.B., certainly gave quite the spirited speech, didn't she~?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Whoa! It really showed me on screen!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator",
+      "text": "\"She seems to be an up-and-coming Umamusume, but\nC.B. is likely several steps ahead of her.\nThough she threw down the gauntlet, will she truly—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Good grief.\nIt's like you're saying I don't stand a chance from the start.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Even online, people keep saying I'm 'out of my depth' and all that, so—",
+      "choice_data_list": [
+        "...Curious?",
+        "...Curious?"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Nah, it's more like, \"Bring it on!\"\nI'm used to being underestimated, anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "I'll show 'em all!\nThose guys looking down on me... and CB, too!!",
+      "choice_data_list": [
+        "How reassuring!",
+        "You're so reliable!"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Heheh—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Alright, let's get started today too!\nMy warrior's journey\nis far from over, after all!",
+      "choice_data_list": [
+        "Let's give it all we've got!"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Oooooh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, a promise for a best-of-three match with Mr. C.B. was struck—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Gaaah! It never eeeends!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "(Getting so absorbed in training that I forgot my homework?\nAm I an idiot or what...?!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "(If I don't finish this today,\nit'll affect tomorrow's training...!\nNwaaaah!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "—Ah, there you are.\nGood work, Ace-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "Heard you forgot your assignment, and wow, you really did! We'll give you a hand~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Huh, seriously!?\nHonestly, that's a huge help...! Thank you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "—Hell yeah! All done~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Thanks, you two!\nBecause of you, I can turn this in first thing tomorrow morning!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "Fufu, you're welcome.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "I'll definitely make it up to you next time! Wanna grab some food on me? Or maybe—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "\"No, no~! In fact, this is our way of saying thanks!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "\"...I saw the footage of you challenging CB-chan, Ace-chan.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "You know, what you did, S-cchi...\nit really encouraged all of us.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "Back when S-cchi first enrolled,\nto be totally blunt... she had a super rough time, didn't she?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "\"Whaaat!? S-cchi, you do this much muscle training every single day!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"Huh? Yeah. I mean, if I don't train hard,\nI won't be able to catch up, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "\"\"T-There's a limit to everything...!\nYou need to rest properly and split up muscle groups!\nResting is just as important when it comes to muscle training!\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "\"Huh...! No one's ever taught me stuff like that before.\nMind if I hear a bit more about it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "\"I mean, that's fine, but...\nI see... So you never even got taught at a club, huh...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "—Coming all the way to Tokyo alone and enrolling here...\nit felt like I was learning things everyone else already knew, over and over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Ah~. That reminds me of when someone saw me caring for my shoes my own way and using the same pair forever, and looked totally creeped out...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "And yet, Ace-chan didn't care about the differences between us or the other girls,\nand kept working hard without ever losing heart, ever since that time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "Look forward, keep moving forward—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "—We've finally made it to the point where we can stand\nat the pinnacle of our generation and say, 'Let's settle this.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "Seeing you stand tall without backing down an inch, even right in front of CB-chan, Ace-chan... you were so incredibly cool...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "“—And that made me think,\n'We can't let ourselves lose either.'”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "\"It made me realize all over again that Esc-chi, who struggled the most out of all of us, kept working the hardest.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "That's why we have to do our best too,\nright where we are...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "I realized... that I have to fight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "You two...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "(It's different this time...!\nThose eyes... They haven't given up!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red Ribbon",
+      "text": "\"We're gonna look ahead just like Esc-chi and become someone we can be prouder of than we are now!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black-Rimmed Glasses",
+      "text": "So give it your all, Ace-chan...!\nAs our—\"Ace\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ngh...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "......Thanks, you two.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "I will definitely live up to those words.\nSo, let's fight together...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "âIn the classroom bathed in the setting sun, that vow echoed quietly,\nyet with undeniable strength.",
+      "choice_data_list": []
+    }
+  ]
+}

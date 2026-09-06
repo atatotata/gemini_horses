@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Victoire Pisa",
+      "text": "...Trainer.\nCould you lend me a hand for a moment?",
+      "choice_data_list": [
+        "My hand? Sure."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(Squeeze...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"...Can you tell? That I am trembling.\nThis trembling is the excitement in my heart.\"",
+      "choice_data_list": [
+        "This is so exciting.",
+        "This is so exciting, isn't it?"
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Fufu, yes.\nVery much so.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "I'll make sure to pass along this excitement\nto everyone watching the race too.",
+      "choice_data_list": []
+    }
+  ]
+}

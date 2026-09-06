@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rulership",
+      "text": "\"So that's how you're playing it... Not bad, Trainer.\nThen my next move should be...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "U-Um......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "『………………』",
+      "choice_data_list": [
+        "Ruler Ship...?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "*Inhale*...\n*Zzz*... *zzz*...",
+      "choice_data_list": [
+        "(Is she asleep...?)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Falling asleep while thinking over tactics means\nshe must be exhausted from the race.\nIt would be best to reconsider our schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

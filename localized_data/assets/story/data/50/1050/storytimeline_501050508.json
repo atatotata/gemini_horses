@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I spotted Narita Taishin in front of the school gate, but she seemed less energetic than usual.",
+      "choice_data_list": [
+        "Are you feeling unwell?",
+        "Are you feeling under the weather?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Huh? Who's what?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I'm handling my races just fine, aren't I?\r\nI'm not that fragile...!",
+      "choice_data_list": [
+        "Still..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Shut up, you're way too overprotective!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(...What am I doing?\r\nGetting tired, irritated, and taking it out on others...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Maybe I really should take a break,\r\njust like they said...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I parted ways with Narita Taishin,\nthough her back lacked energy even as she walked away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Perhaps fatigue has been catching up with her. It looks like we'll need to reconsider our upcoming racing schedule.\"",
+      "choice_data_list": []
+    }
+  ]
+}

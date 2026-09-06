@@ -1,0 +1,112 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I brought Almond Eye to the infirmary after she suffered a minor injury.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "It's no big deal.\nThere's barely any pain at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Once first aid is done,\nshall we get back to training?",
+      "choice_data_list": [
+        "No, let's just wrap it up for today."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Huh? ...I'm happy you're worried about me,\nbut it really isn't a big deal, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Here, look into my eyes.\nDo I look like I'm lying to you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……――",
+      "choice_data_list": [
+        "Hmm, I can't see it, though..."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "See, right?\nIt's fine, so let's continue training, okay?",
+      "choice_data_list": [
+        "I want you to rest now so you can keep winning in the future.",
+        "I'll adjust the menu a little, okay?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "For the sake of winning...\nThen that's all the more reason—",
+      "choice_data_list": [
+        "Look into my eyes, Eye.",
+        "Look me in the eyes, Ai"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...Understood. I trust your judgment.\nAdmittedly, I wasn't being very level-headed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Let's win the race and prove\nthat today's decision wasn't a mistake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Yes, I got it!\nWell then, right away—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Eep!",
+      "choice_data_list": [
+        "Ai!?"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I-I'm sorry.\nIt hurts a bit more than it did earlier...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the end, we called training off early to keep it from getting any worse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Yes!\nThank you, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "—Yeah, looks like this much should be just fine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Way to go, Trainer!\n...All right, let's keep it up just a little longer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, training continued\nwithin a reasonable range.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Considering today's weather... wind speed and humidity...\r\n...Yeah, this should work.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"...Sorry to keep you waiting, Trainer-kun.\nI have finished revising the theory.\"",
+      "choice_data_list": [
+        "So, how's your confidence? "
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Heh... That is a foolish question.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "The more refined a theory is, the simpler it becomes.\r\nAllow me to show you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "The ultimate answer that is victory...!",
+      "choice_data_list": []
+    }
+  ]
+}

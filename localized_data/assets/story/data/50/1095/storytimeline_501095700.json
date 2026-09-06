@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In the morning, I saw Believe briskly\nweaving her way through the students.",
+      "choice_data_list": [
+        "Believe, what's got you in such a hurry?",
+        "Believe, why are you in such a hurry?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "\"...I need to redo\nthe work I took on yesterday.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(The wall I repaired today...\nI had a bit of trouble around the edges...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(............Ah! If I had smoothed it out from the opposite direction,\nwouldn't it have looked much cleaner...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Right...\nAnd then I do this to that part...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I spent all of last night worrying about a mistake at work... *yaawn*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'm sorry, I'm in a rush.\nPlease excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Believe wasn't able to rest well last night.",
+      "choice_data_list": []
+    }
+  ]
+}

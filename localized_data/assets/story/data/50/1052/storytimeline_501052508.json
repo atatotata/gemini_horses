@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "We're in the middle of training,\nbut Haru Urara seems down about something.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Waaah...\nThat cloud looks like Trainer, doesn't it...?",
+      "choice_data_list": [
+        "You're spacing out.",
+        "You're spacing out."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Hmm... It's strange lately.\nMy body feels so heavy, like lead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "I wonder why~...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For the sake of her future success, it seems we'll need to review her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

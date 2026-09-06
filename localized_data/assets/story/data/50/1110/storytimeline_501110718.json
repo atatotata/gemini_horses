@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cesario",
+      "text": "Good morning, Trainer.\nI look forward to your guidance again today.",
+      "choice_data_list": [
+        "Yeah. Were you able to get some good rest over the break?",
+        "Yeah. Did you get some good rest over the break?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Yes. Rest is also part of training.\nI made sure to take it easy—cooking at my own pace,\ngoing for strolls, and relaxing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Thanks to that, I was able to thoroughly\nrest my mind and body.\nI will tackle this with full focus.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To ensure effective training,\nshe managed herself well over the break\nand seems to have come back fully refreshed.",
+      "choice_data_list": []
+    }
+  ]
+}

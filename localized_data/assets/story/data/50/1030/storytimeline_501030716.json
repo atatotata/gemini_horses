@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I had come to the cafeteria\r\nwith Rice Shower to have lunch.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A ripe apple triangle pie...!\r\nLooks delicious...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Still... no, as I thought...",
+      "choice_data_list": [
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "You know... in world fairy tales, the ones\r\nwho eat their fill are usually the villains...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice is eating a lot too...\nAt this rate... Rice will become a villain...",
+      "choice_data_list": [
+        "We can still make it!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I wonder if that's true...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Still... I'll do my best.\r\nRice doesn't want to become the villain...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, Rice Shower desperately began\nrestricting how much she ate...",
+      "choice_data_list": []
+    }
+  ]
+}

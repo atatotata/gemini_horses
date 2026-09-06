@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "I apologize.\nI ended up going to bed late last night.",
+      "choice_data_list": [
+        "Days like that happen. You were studying, right?",
+        "Days like that happen. You were studying, weren't you?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes, I was doing a few math workbooks.\nEverything was going smoothly up until grading them, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I found an alternative solution listed in the answer key,\nand was deciphering it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Um, I was thinking that if I can come up with an alternative solution at the critical moment, I might be able to break through...",
+      "choice_data_list": [
+        "True, being able to find an alternate solution might be amazing... maybe...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Breakthrough or not, Air Messiah didn't seem to have gotten much rest...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "Well, that's about how it goes.",
+      "choice_data_list": [
+        "I want to celebrate your victory!",
+        "Let's stay focused for the next race too."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "True that.\nGrabbing a bite to celebrate this victory wouldn't be half bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Why don't we peek into one of the back alleys around here?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "I don't need any safe bets.\nI want a race that makes my skin tingle.",
+      "choice_data_list": []
+    }
+  ]
+}

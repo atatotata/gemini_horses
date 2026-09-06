@@ -1,0 +1,105 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Ines Fujin got injured during training,\r\nso I brought her to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"It's okay, really.\r\nIt's nothing serious, so please don't worry.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "The treatment's all done,\r\nso let's hurry back to training!",
+      "choice_data_list": [
+        "Are you really going to be all right?",
+        "Are you really going to be all right?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Of course! It barely hurts at all anymore!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Besides, I'll definitely feel better if I run!\nSee, I just love running so much♪\"",
+      "choice_data_list": [
+        "I'm worried about you, so make sure to get some proper rest.",
+        "Let's keep it within reason."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Jeez, you're exaggerating. I might not look it, but I'm super strong, you know?",
+      "choice_data_list": [
+        "Still, what if it gets worse...?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ugh. When you make a face like that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "I understand. I don't want to make you worry, so I'll rest up for today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ines Fujin sounded a little disappointed\r\nas she headed back to the dorm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "As expected~! You really understand!\nWell then, let's head out to the track right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "—Ouch.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While having her do a light jog,\r\nInes Fujin's face contorted in pain.",
+      "choice_data_list": [
+        "Are you okay...?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ugh... I might not be totally okay after all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sorry, even after talking so big...\r\nIt looks like I really can't do it today...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ines Fujin gave up on training\r\nand returned to the dorm looking crestfallen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Phew. Just a light jog\r\ndoesn't seem to be a problem.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ehehe. Even though I got hurt,\r\nI'm just so happy I can keep training without giving in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mindful of her injury, Ines Fujin\r\ntrained within reasonable limits.",
+      "choice_data_list": []
+    }
+  ]
+}

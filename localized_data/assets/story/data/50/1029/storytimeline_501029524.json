@@ -1,0 +1,341 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On my day off, I went out to have fun in a nearby big city—\nand spotted Yukino Bijin in front of a vending machine, struggling with something.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hmm, beats me. I heard ya could use\nthese IC cards at vending machines too, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Mrmph... Focus, focus! Knowing how to properly use\ncity folk tools like this is what makes a\nproper \"City Girl\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It seems she wants to buy a drink\nwith her IC card app,\nbut doesn't know how to do it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Man, as expected of you, Trainer! I see, so you press the button beforehand, huh!",
+      "choice_data_list": [
+        "So you came to play too?",
+        "Did you come here to play too?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes. I figured if I wanna become a \"City Girl,\"\nI gotta get used to the city first, y'know?\nSo I was plannin' on checkin' out some city-like spots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Still, now that I'm actually here, everything's way too big-city for me... I don't have the faintest clue where to go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I had trouble even buying a drink,\nand now I'm feeling kinda discouraged...\nMaybe I should just head back and try again another day.",
+      "choice_data_list": [
+        "If you'd like, shall I go with you?",
+        "If you'd like, shall I go with you?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Whoa! That's mighty kind of ya...!\nWith Trainer-san by my side, I feel as strong as a hundred people!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "In that case, how 'bout recommending\na spot that feels totally \"Big City!\" to you?",
+      "choice_data_list": [
+        "Wanna check out a more obscure spot?",
+        "Want to check out a more obscure spot?",
+        "Let's go somewhere with a view of the whole city.",
+        "How about some window shopping?",
+        "How about window shopping?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "In that case, how 'bout recommending\na spot that feels totally \"Big City!\" to you?",
+      "choice_data_list": [
+        "Wanna check out a more obscure spot?",
+        "Want to check out a more obscure spot?",
+        "Let's go somewhere with a view of the whole city.",
+        "How about some window shopping?",
+        "How about window shopping?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "D-Deep...? Sounds like somethin' mighty impressive...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, we arrived at the flagship store\nof a famous shop that sells Umamusume\nand racing-related merchandise.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hae~, even off the racetrack, there are shops\nlike this right in the middle of town...\nThe big city sure is somethin' else...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Man, this place is insanely huge.\nJust how big is it, I wonder?\"",
+      "choice_data_list": [
+        "If I remember correctly, it should be the entire floor of this building."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Whaaah?! T-That's a whole 'nother level of digits...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"This is definitely worth checking out!\nI bet City-san's merchandise is displayed in tons of prime spots!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Man, look at the size of this place...!\nI gotta get my head in the game\nand search properly... Hm?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, Digital-san!\nJust the dependable person I wanted to see!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Wahaa!? Y-Y-Y-Yukino-san!?\nGuaaah, a sneak attack of pure-hearted aura!!\nMy soul is burning up!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, m-my apologies! *inhale-exhale*!\nDid you need something from Digitan?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Well... it's a bit embarrassing, but\nI'm really not used to big fancy stores like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I just need a rough idea, so it'd be a big help\nif you could tell me a little about\nwhat's being sold where.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "! I see...!\nSo you want to enter this world too, Yukino!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "! That's right, gansu!\nToday is pretty much an intro!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Understood! That's true, nowadays online shopping leaves nothing to be desired, but nothing beats browsing an actual physical store!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Yours truly, Digi-tan, will gladly guide you through every corner,\nacross all generations, JRA and NAR alike, with my whole heart and soul!\nLeave it to me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ohh, you'd go that far for me!?\nMuch obliged! Please do!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Being able to cruise through fancy shops like this has gotta be what makes a real 'City Girl'!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Whether it was very \"City Girl\"-like or not...\nYukino Bijin thoroughly enjoyed the deep subculture world\nunder Agnes Digital's guidance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ooh, so this is one of those\nscenic city spots! I can't wait~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Whoaaa!? W-Well knock me down with a feather!\nThat huge buildin' looks\nlike it could fit right in the palm of yer hand...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "There's always a bigger fish, ain't there?\nSo this is what a skyscraper looks like...!\nMan oh man, what a sight...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Well now, I sure got to see somethin' great! As expected of a Trainer who's used to the big city!",
+      "choice_data_list": [
+        "You're welcome."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Man, though... what is this feeling? Even with such an amazing\nview, it feels strangely nostalgic too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "—Ah, that's it! It looks just like when I used to gaze out over the streets of Morioka from the mountain observatory as a kid!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "I could see the whole giant city all at once... It made me so hyped, wanting to visit every single place that caught my eye!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"...Thass right. Ain't no reason to get cold feet.\nJust gotta be honest, like I was back then!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yeah, exactly! I wanna walk around even more!\nExplore this amazin' city with my own two feet!",
+      "choice_data_list": [
+        "Feels like you've gotten a bit used to the big city.",
+        "Feels like you've gotten a bit used to the big city."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yes! Ehehe... Well now, wonder if that puts me one step closer to bein' a \"city girl.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah, I know! How about we look out from here\nand decide where to go next?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Trainer! Come on, over here!\nLet's take a look through the telescope together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Yukino Bijin spent the entire day exploring the city, looking quite satisfied with having taken a step forward as a \"city girl.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh! Now that's classic!\nLet's go, let's go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Whoaa-aaah...! It's so huge...!\nEvery single shop looks so fancy and all...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"...Whoops, no good, no good.\nBacking down like this ain't cool at all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "A \"City Girl\" would strut around\nwith her head held high! Alrighty...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Just like walkin' through the Morioka shopping mall...\nOff to battle I go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Man, we really saw a whole bunch of places. I wonder if I've gotten a little used to the city vibe now... hehehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "\"Man, there are so many people though...\nI'm getting a little tired.\nMaybe somewhere I could take a quick rest—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Hm? Whaat's that?\nThat nostalgic smell—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "La France pears, Jajamian noodles, yogurt... Wh-What is all this!?\nThere's so much stuff from back home right here!",
+      "choice_data_list": [
+        "It's like an Iwate specialty shop.",
+        "It's like an Iwate specialty shop."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Haeee...! Wow, this brings back memories, it does...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah! Trainer,\nthese cold noodles are so deliiicious!\nLet me get one as a souvenir—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Man, I never thought I'd run into something from my hometown in a fancy place like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "When you're surrounded by nothing but unfamiliar things,\nsomething like this really soothes the soul, doesn't it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Hehehe.",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "The big city really runs deep, don't it?\nIt ain't just fancy, huge,\nand glittery all around.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "It's got a big-hearted warmth that puts even a country bumpkin like me at ease.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hehehe. Somehow, I feel like I've got\na bit of a firsthand feel for the big city now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having learned the city's many faces, Yukino Bijin showed a look of satisfaction... as if she had truly shed her old skin and become a \"City Girl.\"",
+      "choice_data_list": []
+    }
+  ]
+}

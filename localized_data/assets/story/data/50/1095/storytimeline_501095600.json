@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Believe",
+      "text": "…………。\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When I entered the waiting room, Believe was working out.\nFor a second, I thought she might be nervous, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Yeah.\nWith this—",
+      "choice_data_list": [
+        "Were you checking your condition?",
+        "Were you checking how your body was feeling?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Because Grandpa always checks his tools\nbefore starting work, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "It's the same as that.\nI was just checking to see if I was ready.",
+      "choice_data_list": [
+        "I see... Are you feeling in top shape today?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "—I will not lose.",
+      "choice_data_list": []
+    }
+  ]
+}

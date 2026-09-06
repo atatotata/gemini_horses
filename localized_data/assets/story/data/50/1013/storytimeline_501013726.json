@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Mejiro McQueen—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Oh, look, Trainer.\nWhat an adorable plushie.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following Mejiro McQueen's gaze,\nI saw plushies modeled after Umamusume\ndisplayed as crane game prizes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Fufu...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro McQueen must really like the plushie,\nas she's staring intently at it...",
+      "choice_data_list": [
+        "Do you want that plushie?",
+        "Do you want that plushie?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "N-No, it's not that.\nI was just a little curious...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Besides, this game looks quite difficult.\nI doubt I could ever win that plushie.\"",
+      "choice_data_list": [
+        "Then I'll get it.",
+        "Then I'll take it."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Huh!? Trainer-san is...? \nA-Are you sure about that!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

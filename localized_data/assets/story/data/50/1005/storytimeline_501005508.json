@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Something seems a bit off with Fuji Kiseki\r\nduring her warm-up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haaah... That's strange.\nMy body isn't moving the way I want it to...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, no... It's nothing!\r\nDon't worry about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Still... maybe I'll take a little break.\r\nI think I'll feel better once I've rested!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki looks exhausted...\r\nIt might be best to reconsider our upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

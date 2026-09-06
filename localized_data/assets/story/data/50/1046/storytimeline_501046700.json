@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "\"...Uuuugh.\r\nTrainer, can I take a little break?\"",
+      "choice_data_list": [
+        "Are you still feeling tired?",
+        "Are you still feeling tired?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No, I'm just running on a little less sleep than usual.\r\nI was up late writing the comments for the flyers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Isn't a hard-working Falco cute too?\r\n*yaaawn*... Well then, good night...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her dedication was admirable, but it seemed\r\nSmart Falcon wasn't getting proper rest...",
+      "choice_data_list": []
+    }
+  ]
+}

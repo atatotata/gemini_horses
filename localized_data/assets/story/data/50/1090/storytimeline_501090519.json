@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Verxina apparently got a high score\non a difficult written exam.\nI offered her some words of praise, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "…………。",
+      "choice_data_list": [
+        "Verxina? You okay?",
+        "Verxina? Are you okay?"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Huh? Ah, yes! What is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Ah, sorry.\nI've always been like this...\nOnce I finish a task, my brain just stops working...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps as a rebound from putting everything into studying,\nVerxina seemed completely burned out.\nShe might stay spaced out for a while.",
+      "choice_data_list": []
+    }
+  ]
+}

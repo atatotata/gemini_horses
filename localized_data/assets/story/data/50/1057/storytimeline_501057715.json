@@ -1,0 +1,103 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While we were working hard at training,\na light drizzle began to fall.",
+      "choice_data_list": [
+        "Mr. C.B., let's get out soon!"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "? Why?\nThe rain feels so nice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Fufu, today's the only day to experience this exact rain!\nIt'd be such a waste not to run in it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "\"I'm fine! I'm used to getting soaked in the rain!\nYou can go on ahead without me.\"",
+      "choice_data_list": [
+        "Then I'll come along with you.",
+        "I can't do any more today"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Huh, it's not going up?\nEven though I'm really fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Running in wet weather carries greater risks than usual.\nAs her Trainer, I can't simply overlook it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "You know all that, yet you're not going to stop them?",
+      "choice_data_list": [
+        "Because you want to run, don't you?",
+        "Because you want to run, don't you?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Then I will devote myself entirely to supporting you.\"\nWhen I answered that, her eyes sparkled.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "—Yeah, that's it.\nRight now, I'm just itching to run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Fufufu!\nThank you, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I watched over Mr. C.B. as she ran freely in the rain,\nmaking sure she wouldn't get injured.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Why?\nEven though my heart yearns to run.",
+      "choice_data_list": [
+        "It's to protect your freedom.",
+        "It's to protect your freedom."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...Though ironically, that freedom is being restricted right now.",
+      "choice_data_list": [
+        "If you get injured, you won't have time to worry about that."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Hmm... When you put it like that, I'm helpless.\nAlright, I surrender.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Still... fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "That stubbornness... is starting to look familiar, don't you think?\nI know someone just like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mr. C.B. laughed as she said that, bringing that day's training to an early close.",
+      "choice_data_list": []
+    }
+  ]
+}

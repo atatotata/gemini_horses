@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cesario",
+      "text": "It's a new recipe, but it actually turned out pretty—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Urk...!",
+      "choice_data_list": [
+        "W-What's the matter?",
+        "W-What's wrong?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "\"It seems I made a mistake with the seasoning.\nHow careless of me...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "I thought it turned out well, but...\n*sigh*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That's an uncharacteristic mistake for Cesario, who's great at cooking.\nCould race fatigue be piling up?\nMaybe I should review her schedule and commitments.",
+      "choice_data_list": []
+    }
+  ]
+}

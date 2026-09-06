@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Washing Machine",
+      "text": "(Tweet! Tweet!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ah, finished washing the towels...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "......!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...You forgot to put in the fabric softener.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having forgotten to add fabric softener\nto her favorite fluffy towel, Admire Vega\nwas left feeling rather dejected.",
+      "choice_data_list": []
+    }
+  ]
+}

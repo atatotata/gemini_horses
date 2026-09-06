@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After declaring \"I'll definitely get one!\",\nI tried my best to get at least one... but failed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "…………。",
+      "choice_data_list": [
+        "(I wonder if she's disappointed in me...)"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Oh, are you all finished with your business?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "In that case, let's go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She was the same Mejiro Ramonu as always.\nIn the end, all that mattered to her was the race.",
+      "choice_data_list": [
+        "(Maybe she just wasn't interested to begin with...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

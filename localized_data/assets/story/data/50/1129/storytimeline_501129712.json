@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Almond Eye",
+      "text": "—I am so, so very sorry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"That day, Almond Eye didn't show up for training.\n...Apparently, she got completely caught up in a street race.\"",
+      "choice_data_list": [
+        "As long as you've learned from it, that's fine. Just make up for it tomorrow."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No, not tomorrow—I'll do it right now.\nWait for me, I'll get ready right—",
+      "choice_data_list": [
+        "What you need to do right now is get rid of that fatigue."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That's...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...No, you're right. That's exactly it.\nI'm truly sorry, Trainer.",
+      "choice_data_list": []
+    }
+  ]
+}

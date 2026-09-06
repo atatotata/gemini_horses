@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Heading into the cafe, Fuji Kiseki had just finished lunch with her juniors.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Fuji-senpai, that limited-edition caramel\nbanana cake everyone was talking about was so delicious~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Yeah, that's true. It was very delicious.\r\nBut more than anything—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Just being able to see you enjoy eating your cake makes me happy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume",
+      "text": "Fuji-senpai...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Well, I have somewhere to be, so I'll be going now.\r\nInvite me again sometime.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Phew......",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, yeah... Just a bit of heartburn.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Whenever I eat sweets,\r\nsometimes I end up like this... haha.",
+      "choice_data_list": []
+    }
+  ]
+}

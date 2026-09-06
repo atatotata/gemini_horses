@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Before the race,\nI went to check on No Reason...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "......Phew————",
+      "choice_data_list": [
+        "No Reason?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Ah... Forgive me.\n—It is about that time, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "No Reason",
+      "text": "I shall depart.",
+      "choice_data_list": []
+    }
+  ]
+}

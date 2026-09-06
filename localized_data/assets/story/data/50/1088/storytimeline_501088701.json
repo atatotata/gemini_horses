@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Satono Crown",
+      "text": "Trainer, thanks for letting me take yesterday off!\nI was able to get some great rest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Here, this is for you as a thank-you!\nThere's herbal medicine inside.",
+      "choice_data_list": [
+        "Huh, thank you!"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "This works wonders for restoring energy and stamina. You've seemed tired lately, so here, take it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I can guarantee its effectiveness.\nI drank it yesterday, and look at me now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Cheer up with this, okay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having rested thoroughly and gained vigor from the herbal medicine, Satono Crown seems to have fully restored her strength!",
+      "choice_data_list": []
+    }
+  ]
+}

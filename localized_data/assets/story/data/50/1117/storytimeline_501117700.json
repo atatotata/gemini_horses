@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Win Variation",
+      "text": "...*yawn*...",
+      "choice_data_list": [
+        "Are you not getting enough sleep?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "I got a Japanese class assignment to write a haiku, but expressing myself freely is pretty tough...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "No matter how much I racked my brain, nothing came to mind,\nand before I knew it, the night had grown late...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Red apple so red,\nDelicious and sweet to eat,\nTasty little fruit.\"\nDoes this count as a haiku, you think...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems Win Variation couldn't get a good rest,\ntroubled by her assignments.",
+      "choice_data_list": []
+    }
+  ]
+}

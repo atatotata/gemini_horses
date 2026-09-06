@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mnh-mnh... Hold 'em uuuuup...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh?!\r\nHuh, where's the bounty target—",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hmm... So-so. The return deadline\r\nfor the Western movie I rented is coming up, YES!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "It felt like a waste if I didn't watch it all,\r\nso I stayed up without sleeping to watch... *yawn*",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Taiki Shuttle continued to look sleepy the entire time afterward...",
+      "choice_data_list": []
+    }
+  ]
+}

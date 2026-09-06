@@ -1,0 +1,329 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "That message arrived one morning during our training camp.\nI hurried over to Calstone Light O.",
+      "choice_data_list": [
+        "Light O, got a sec?",
+        "Light O, do you have a moment?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer?\nWhat's the matter, in such a rush?",
+      "choice_data_list": [
+        "The \"Sprinters Stakes\" has been moved to Niigata!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Niigata?\nIs it not going to be at Nakayama Racecourse?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as she said, the Sprinters Stakes is usually held at Nakayama Racecourse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, flaws were found in the grandstand facilities,\nand we were suddenly notified that the venue would be\nchanged to Niigata Racecourse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I just went to Niigata for the Ibis Summer Dash.\nIt feels like a strange twist of fate.",
+      "choice_data_list": [
+        "Yeah. Having that experience under your belt might give you an edge.",
+        "Yeah. Having that experience might give you an advantage."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Among the runners in the Sprinters Stakes,\nfew Umamusume have experience running at Niigata Racecourse.\nThat difference in experience might play a part.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Compared to Nakayama Racecourse with its steep hill,\nNiigata Racecourse's 1200m course has the distinct difference\nof being almost entirely flat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looks like we'll need to rethink our training\nheading into the Sprinters Stakes.",
+      "choice_data_list": [
+        "I'll rework the training menu. Let's have a meeting about it later."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Understood.\nI'll be counting on you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While discussing a new training regimen with Calstone Light O at the camp lodge...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"Calstone-san, Trainer-san, good morning!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Are those your plans for today?",
+      "choice_data_list": [
+        "That's true, but...?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "In that case, let's cancel the entire schedule!\nAllow me to propose a far more splendid\nand meaningful regimen!",
+      "choice_data_list": [
+        "You haven't even looked at what's on the menu, have you!?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I can tell without even looking!\nAfter all, I am the Class President!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "A routine more meaningful than the current one? There's no way it could surpass the Trainer's plan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "A race!!\nLet's settle this with a match, Daitaku Helios-san!",
+      "choice_data_list": [
+        "Let's do it!!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "An instant answer!?\nTo think Trainer's speed could surpass my own...!",
+      "choice_data_list": [
+        "Because it's Sakura Bakushin O, you know?!",
+        "Because it's Sakura Bakushin O, you know?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Bakushin O...\nthe undisputed, supreme sprinter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She suffered only a single defeat in sprint races.\nThough she has now stepped away from the front lines, her strength\nis still revered as an unfading legend.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To think I can run with that Sakura Bakushin O.\nI am certain to gain a great deal of insight.",
+      "choice_data_list": [
+        "Let's gain some experience racing against the strongest sprinter!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Grrr, so frustrating! Utterly frustrating!\nAre you implying Bakushin O is faster than me!?\nI am deeply dissatisfied with this!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Like seeing a stray cat you've been secretly feeding\ncozying up to someone else!\nI'm jealous! Burning with envy!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Then let's take all that burning passion\nand unleash it on the racetrack!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yes! I'll show off my speed! And win back Trainer's attention!!",
+      "choice_data_list": [
+        "(This was for Light O in the first place, though...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I don't think Calstone Light O will listen properly if I talk to him now.\nI'll have a serious talk with him later once he calms down...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We decided to rent an outdoor racetrack near the training camp.\nAnticipating the Sprinters Stakes, I requested a 1,200m setup.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "As far as I'm concerned,\na straight 1000m course would have been just fine too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "1,200m is my specialty distance!\nI'll run it as if it's the real Sprinters Stakes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Breaking my top speed.\nThat is the sole objective I strive for!",
+      "choice_data_list": [
+        "Gate in... complete. Now then—",
+        "Gate in... complete. Well then—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(CLUNK!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Haaaaah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Wh-what... She passed me?! Kh!",
+      "choice_data_list": [
+        "Light O, don't rush! Your form is falling apart!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haa, haa...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The result was a crushing victory for Sakura Bakushin O.\nCalstone Light O wasn't allowed\nto run her own race at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Bakushin O seized the lead right from the start. She completely controlled the race from beginning to end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Bakushin O shows her true clutch strength as expected. Her tactical execution is brilliant, and on top of that, her speed is outstanding.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"That really is some incredible speed, Daitaku Helios-san!\nJust as expected of someone striving for top-end velocity!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I return those words right back to you.\nYou beat me, which means you were the faster one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Yes, because I am extraordinarily fast!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That race just now made me realize...\nBakushin O is beyond my top speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "You're very fast. I respect that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Fufu, what sweet words! But after watching the Ibis Summer Dash, you're the one I wanted to compete against.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "My Bakushin instincts were tingling!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"Calstone-san, won't you master speed together with me?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "We shall multiply my speed\nwith your speed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Bakushin O times Right O\nmakes double the king!!",
+      "choice_data_list": [
+        "...If it's King times King, wouldn't that be King squared?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "It's the same thing!\nRight O-san, you will claim another crown—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I can evolve into\n\"Calstone Light O-Oh\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Calstone Light Oooo...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That is... that sounds insanely fast!!",
+      "choice_data_list": [
+        "What part of that!?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "There's an extra long dash in my name now!\nThat means I'm definitely fast!!",
+      "choice_data_list": [
+        "I see, so that's it!"
+      ]
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Perhaps they felt a sense of sympathy.\nAs fellow sprinters, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Bakushin O-chan is also a girl\nwith an exceptionally strong desire to run fast.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "If we train together, I'm sure we can inspire each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Oho, I've received the Goddesses' seal of approval!\nNaturally, because I'm me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Well then, I look forward to working with you!\nYou can count on me big time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Calstone Light O managed to secure Sakura Bakushin O's cooperation.",
+      "choice_data_list": []
+    }
+  ]
+}

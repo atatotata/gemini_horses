@@ -1,0 +1,418 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day during summer training camp.\nDuramente was garnering a bit of attention among the Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "\"...Duramente-san's menu\nis on the light side today as well, huh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "So... the rumor that you gave up on the\nPrix de l'Arc de Triomphe due to an injury is really true?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If she were an ordinary girl, it would be no surprise if the rumors\nand gazes bothered her and broke her concentration.\nHowever, Duramente herself was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "……。",
+      "choice_data_list": [
+        "(...She doesn't care in the slightest.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "True, her strong sense of responsibility showed a slight vulnerability to pressure, but at her core, she doesn't let others get to her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Of course, during races she maintains proper vigilance and inputs all necessary information.\nHowever, she makes no attempt to interact with them beyond that.",
+      "choice_data_list": [
+        "...Is Dura..."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "What is it?",
+      "choice_data_list": [
+        "Who are you close with among the girls in your generation?",
+        "Who are you close with among the girls in your generation?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Friends...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I talk with Crown quite often.",
+      "choice_data_list": [
+        "Well, you guys are roommates, after all.",
+        "Well, you guys are roommates, after all."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "...I talk about the weather properly too.\nAnd... if someone talks to me, I'll reply.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I don't think they necessarily have to be best friends, but classmates are bound to cross paths time and time again.\nYou'd think she could show a little more interest, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "—Duramente-san, ni hao!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Are you on break right now?\nI am, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Care to chat with me for a bit?\nIf it's about upcoming races... you'd\nlike that too, wouldn't you?",
+      "choice_data_list": [
+        "Just in the nick of time!"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Alright, I brought Cheval along too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "H-Hello...?",
+      "choice_data_list": [
+        "Huh, where's Kitasan Black?"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "It looks like she's training\nwithout even taking a break.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Tough, or rather...\nWell, I'm sure she'll be fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "And? What are you planning\nto do with all of us gathered here?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"Could it be... you want to run a mock race?\nAs far as I'm concerned, that's just what I was hoping for♪\"",
+      "choice_data_list": [
+        "I wanted you to keep Dura company while she takes a break"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Hao ya!\nI was just looking for a refreshing break myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Frankly speaking, I haven't been in great shape lately.\nMaybe this will give me a hint on how to break out of it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Hey, why don't you hang out\nand play for a bit too, Cheval?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Hang out, you say...\n...What exactly do you do?",
+      "choice_data_list": [
+        "Powerful Sumo",
+        "A Hide-and-Seek Test of Endurance"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Sumo...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Japan's national sport, huh!\nSounds pretty interesting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "By the way, Duramente, do you also\nhave relatives who are sumo wrestlers?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...They're here.",
+      "choice_data_list": [
+        "They're really here...!",
+        "You're really here...!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Sumo wrestlers are athletes too.\nThe way they build their muscles is fascinating.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Building soft, pliable muscles is considered ideal.\nJust as muscle quality differs between sprinters and stayers, they build bodies specifically tailored for sumo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"Hmm...! And then, and then?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...I wonder if they won't do sumo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Ah, you wanted to get started right away?\nMy apologies.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ehh.\nN-No, I didn't mean it like that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Cheval.\nI shall be your opponent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—Bring it on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Eep...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"What's the matter, Cheval? Step into it more!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Whoa, whoa, whoa...",
+      "choice_data_list": [
+        "(Yeah, the atmosphere is great!)",
+        "(Yeah, the atmosphere is great!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—With things like that happening along the way,\nthe days of the summer training camp went by...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Hide-and-seek...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...I did when I was a kid, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Doing this with this group...\nsomehow sounds kind of fun♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Alright, let's decide who's 'it' right away!\nRock, paper...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "—Hup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—Crown. Found you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Wah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I thought it would take a little longer!\nHow did you figure it out?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "During races, you always keep a very close eye on your surroundings.\nAnd you prefer taking full control right from the start.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Then I figured you'd choose here—where you could get a clear view of my movements, with heavy foot traffic to blend right in.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I see.\nSo you've seen right through everything, huh? ♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Then there's Cheval Grand...\nShe's a formidable opponent, but I'll definitely take the win...—\"",
+      "choice_data_list": [
+        "They look so full of life..."
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "That's right!\nDuramente-san is really fired up, isn't she?",
+      "choice_data_list": [
+        "...You seem pretty happy considering you were found right away.",
+        "...You seem pretty happy considering you were found right away."
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Ahaha.\nTrainer, you really do have your guard up around me, don't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "It's not like I got caught on purpose.\nI wasn't checking to see how she feels about me...\nor anything like that♪",
+      "choice_data_list": [
+        "You are, aren't you?",
+        "You are, aren't you?"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Nope!\nHehehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—With things like that happening along the way,\nthe days of the summer training camp went by...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "(...I know I should hold back on training. But...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "(...I want to run.\nEven if it's just a little bit...—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fellow Trainer A",
+      "text": "—Trainer <username>!\nI've been waiting for you. Let's do our best today too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fellow Trainer B",
+      "text": "\"Footage of the GⅠ races just arrived from America! Let's study it thoroughly!\"",
+      "choice_data_list": [
+        "Yeah, let's give it everything we've got!",
+        "Yeah, let's do our best!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After finishing training with Duramente, attending an overseas racing study group run by volunteers had become my routine.",
+      "choice_data_list": [
+        "(Next year, I'll definitely be useful to Dura!)"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Time to sleep, huh.\nI'll do my best too—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "—*pant*... *pant*... *pant*...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Haa... haa...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Phew.........",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Not yet!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...I thought I'd find you here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Kita-chan...—",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from our outing, I accepted Fuji Kiseki's\ninvitation to watch a play at an outdoor theater, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Truly magnificent...\nYour singing, your acting...!\r\nNo, everything! Everything was simply marvelous...!",
+      "choice_data_list": [
+        "Was an acquaintance in it?",
+        "Was someone you know participating?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Yeah. The lead actor is an acquaintance of my mother's,\r\nand they took great care of me when I was little.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, right! I'd like to go\r\nsay hello for a bit, if that's okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hello, long time no see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "Oh, Fuji-chan! You came to watch~♪\r\nMy, haven't you grown quite dashing since I last saw you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thank you. But seeing your performance today,\r\nI still don't hold a candle to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "My, you've gotten good at flattery, haven't you!\r\nSo, who is the person next to you?",
+      "choice_data_list": [
+        "I'm Fuji Kiseki's Trainer"
+      ]
+    },
+    {
+      "name": "Stage Actor",
+      "text": "Ah. So you're Fuji-chan's...\nHuh... So you're the one, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "...This girl must be quite a handful for you, isn't she?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Stage Actor",
+      "text": "\"Because! Back at the company, this girl\r\nwas known as the 'Prankster Prince.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "During rehearsal breaks, I'd dangle prop spiders from above\r\nand startle the cast members~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "\"Well, thanks to the prince, there was never a dull moment,\r\nand it was quite a nice breath of fresh air.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haha, that was a long time ago. Obviously,\r\nI don't do childish things like that anymore.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "Oh, really? It's a bit of a shame\r\nthat we won't get to see that adorable little prince.",
+      "choice_data_list": [
+        "Indeed, that's a shame."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Now, now, not you too, Trainer.\r\nGive me a break here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "You two get along so well♪ I'm glad I got to see that.\r\nWell then, I need to get changed soon, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Yes. My apologies.\r\nIf you ever perform nearby again, I will definitely come to watch.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "Yes. Thank you. ...Oh, that's right.\r\nTrainer, do you have a moment to talk?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "…………？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "\"...You know, I really wanted\nthat child to become an actor.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "On the same stage someday—her as the lead and me supporting. Creating the ultimate performance together... Just kidding.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "\"To be honest, I was feeling pretty gloomy about it...\r\nbut talking to you cleared all those feelings right up.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "...She had such a wonderful expression. I'm sure she found\r\na place even better than the stage, and a wonderful partner.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stage Actor",
+      "text": "Fufu, please take good care of her.\r\nOur beloved treasure—we entrust her to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Welcome back.\r\n...So, what did you talk about?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"...Like having to listen\nto other embarrassing stories... or something?\"",
+      "choice_data_list": [
+        "They pointed out a lot of my weaknesses.",
+        "She just taught me how to enjoy the show"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Geez, I had a feeling that was it!\nSo, what kind of story did you hear?",
+      "choice_data_list": [
+        "It's a secret."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "A secret, huh...\r\nSomething that could become my weakness is... ah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Could it be the story about how I hated wearing heels\r\nand threw a tantrum?",
+      "choice_data_list": [
+        "Is that so?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Judging by that reaction, nope...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Maybe she's talking about the curtains...\r\nOr maybe that thing that happened five times in a row...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Well, whatever. Even if it was a mistake born of childhood innocence,\r\n'my sin is my own,' as they say. Besides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Besides, I doubt you'd go blabbing\nmy secret to anyone, right, Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Silenced with just a simple wink... Fuji Kiseki certainly possesses all the qualities of a first-rate stage actor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I see!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Do you really think I'll buy that?\nLying doesn't suit you, Trainer.",
+      "choice_data_list": [
+        "How do you know that?",
+        "How do you know that?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "“Liars are usually the best at seeing through lies.\r\nAnd the greatest entertainer is also the most brilliant liar, after all.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Realizing I couldn't brush it off...\nI conveyed the shared feelings and entrusted wishes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "On the same stage as me, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "True, that kind of future might have been\r\npossible. But...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I chose a different path.\nIf that person can bless it and believe in me, then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "We've got to put on entertainment that surpasses even the show we saw today.\n—Right out there on the turf!",
+      "choice_data_list": [
+        "Leave the staging to me",
+        "Leave the staging to me"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Yeah. Together, let's produce\r\nthe greatest 'Fuji Kiseki' ever!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The stage isn't the only place to enchant the fans.\r\nAfterward, I headed home while discussing\nfuture plans with Fuji Kiseki.",
+      "choice_data_list": []
+    }
+  ]
+}

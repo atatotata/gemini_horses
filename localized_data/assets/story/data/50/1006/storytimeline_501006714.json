@@ -1,0 +1,102 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "During training, Oguri Cap looked unwell, so I brought her to the nurse's office...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"...'Rest for a few days', huh...\r\nTrying to push through the pain ended up backfiring...\"",
+      "choice_data_list": [
+        "So you were injured...",
+        "So you were injured, huh..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"...Forgive me. I didn't mean to hide it.\nI thought I could push through it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Besides, being unable to run\r\nbecause of an injury... is the last thing I wanted.",
+      "choice_data_list": [
+        "Don't rush—first, let's just get some good rest.",
+        "Then let's get you healed up quickly so we can run again!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "You're not... going to blame me...?",
+      "choice_data_list": [
+        "Because I know how much you love to run."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Thank you. Yeah,\nI... love running.",
+      "choice_data_list": [
+        "Then let's focus on getting you healed up for now."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Understood.\r\nI want to run soon, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That day, to be on the safe side, I decided to let Oguri Cap rest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Yeah.\r\nI feel the same way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I'll start running right away...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"Still, the doctor told you to get plenty of rest.\r\nHmm, which one of us should I listen to?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The encouraging words ended up confusing her instead,\nand her treatment was prolonged...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Soon... which means we don't have many days.\r\nUnderstood. I will give it a try.",
+      "choice_data_list": [
+        "Want to give it a try?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Convincing your mind... the plabowso effect, was it?\r\nA person I met in the forest long ago taught me about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Heal up now and run, heal up now and run,\r\nI will heal up right now and run...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Her sheer conviction seemed to work wonders...\r\nThe very next day, Oguri Cap showed up for training full of energy.",
+      "choice_data_list": []
+    }
+  ]
+}

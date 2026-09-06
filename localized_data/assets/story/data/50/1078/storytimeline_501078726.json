@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Yamanin Zephyr...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ah, how pitiful...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction she was facing,\nthere was a crane game filled with plushies\ndesigned after Umamusume.",
+      "choice_data_list": [
+        "That plushie?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes. Blocked by the glass,\nI can't feel the wind...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "If only I could help them and let them feel the wind...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I do not possess much experience in the matter,\nso I am certain it would prove utterly futile.",
+      "choice_data_list": [
+        "Shall I get it for you?",
+        "Shall I get that for you?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Are you sure?\nBy all means, please do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

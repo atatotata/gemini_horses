@@ -1,0 +1,237 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On a day off. Having some business to attend to,\nHokko Tarumae and I arrived at a port town by ferry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Ugh, w-well then... let's begin.\nA simulation... for creating the video.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "As part of her locodol activities, we are producing a video introducing a travel itinerary for Tomakomai. Today's business is the dry run for that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The actual filming will take place in Tomakomai, but today's goal is to ensure the course layout is reasonable. That is why we traveled to this town, but—",
+      "choice_data_list": [
+        "Are you feeling okay... not seasick?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Y-Yes... This time it's the full-immersion course... Being a bit dizzy from the long journey makes it all the more realistic...!",
+      "choice_data_list": [
+        "You didn't have to go as far as taking a boat..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No, but...! I really wanted people\nto see the port town of Tomakomai from the sea, too...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Knowing how seriously she obsesses over things,\neven a dry run won't be straightforward.\nFor now, we took a break until she recovered—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Now then, having arrived in town...\nfirst up is getting some food, I'd imagine.\nAnd of course, you'll want to try the local specialties.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "What kind of local specialty should we pick...?\nTrainer, what do you think?",
+      "choice_data_list": [
+        "S-something hearty... maybe?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Yeah... Yeah, I see. In that case,\nwould this naturally be the time to recommend surf clam curry?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"...Then! Let's go find a place\nwhere we can eat seafood curry!\nActually tasting it is what's important!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Like how many side dishes we can add!\nOr how heavy our stomachs will feel after eating!\nLet's test it out together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—And naturally, it goes without saying...\nI really should prepare... separate recommended menus...\nfor Umamusume and humans...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"—Alright, we've moved on to Lake Utonai.\nRemember, we are at Lake Utonai now.\nPlease use this picture to visualize it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Standing before a sign that clearly showed the park's name,\nHokko Tarumae proudly spoke while displaying a photo of Lake Utonai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "If we include this in the plan, I suppose the trip would have to be during the migratory bird season—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Trainer.\nI'm gonna go be a migratory bird for a bit.",
+      "choice_data_list": [
+        "……！？"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"Picture a swan in your mind while you watch me run, Trainer.\nJust relax and enjoy the show like a tourist!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Well then... ready, set, go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Phew! Alright!\nHow was that, Trainer?",
+      "choice_data_list": [
+        "That was amazi... ng?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hmm... Can you do a little better?",
+      "choice_data_list": [
+        "Did you shave some time off?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Thank you... Wait, no!\nRight now, that's not the comment I wanted to hear!",
+      "choice_data_list": [
+        "…I was moved by the beauty of the migratory birds"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"Ah, I see! In that case, it makes total sense that you'd want a souvenir related to migratory birds!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Thank you very much! If that's the case...\nat the end of the intro, I'll add a brief explanation\nabout the nearby souvenir shop, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—Hmm, I see a mountain of modest height over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "If we take that to be Mount Tarumae...\nwhat would people think first when looking at it, I wonder...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"...Do you think they'll 'want to climb it' after all?\nIf so, we'll need to mention in the video that they should\nproperly prepare for mountain climbing before going—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"I have to take into account the difference in stamina between an Umamusume and a human.\n—Trainer-san, do you still have some time?\"",
+      "choice_data_list": [
+        "I'm okay, though..."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"—Well then, let's do a little climbing!\nI did bring along the bare minimum equipment, just in case.\"",
+      "choice_data_list": [
+        "...What!?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "And following Hokko Tarumae's lead,\nI ended up hiking up the mountain,\npanting and gasping all the way—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Thank you so much for keeping me company today!\nThanks to you, it was really helpful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Being able to verify it from both an Umamusume's and a human's perspective was huge. ...Though we might want to narrow the concept down a bit more to suit the latter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "If we were to make one of these the main focus...\nwhich one did you think was best, Trainer?",
+      "choice_data_list": [
+        "I was deeply moved by the strength of the migratory birds.",
+        "I guess the curry was good, huh?",
+        "Now I want to actually climb Mt. Tarumae myself."
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Really? That's great!\nIt was totally worth actually running\nand doing that migratory bird simulation!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Well then... maybe in the video,\nI'll add a scene where I run like a migratory bird.\nHehehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Regardless, it seemed to have served as a meaningful rehearsal for Hokko Tarumae.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"Indeed. That delicious flavor and spice will revitalize them, putting a spring in their step for sightseeing.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "That's actually what turns into the surf clam curry, after all. It'll definitely make for a great memory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Regardless, it seemed to have served as a meaningful rehearsal for Hokko Tarumae.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Did you think so? Fufu, it really was\nworth climbing the mountain, wasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "“Still, if you ever think about climbing the real Mount Tarumae,\nplease let me know beforehand.\nChoosing the right gear and route is essential for mountain climbing!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Regardless, it seemed to have served as a meaningful rehearsal for Hokko Tarumae.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Troubled Woman",
+      "text": "Huuuhm... What should I do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Excuse me, is something the matter?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Troubled Woman",
+      "text": "Ah, no... my shoelace\nsuddenly broke on me, you see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Oh dear... that does sound troublesome.\nIn that case—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "It may only be a makeshift fix, but please use my shoelaces.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Troubled Woman",
+      "text": "Wait, really?!\nFor you to go that far for me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Fufu, it's quite alright. I'm already on my way back,\nand I can easily get new shoelaces once I return to the Academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Student",
+      "text": "*pant* *pant*... Pisa-chan,\nthanks for running alongside me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Fufu, you are most welcome.\nPlease feel free to call on me anytime.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Victoire Pisa, whom I occasionally see on the course, is gentle as always and kind to everyone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Indeed. As if she weren't even aware\nof the representative selection at all—\"",
+      "choice_data_list": [
+        "...No. That can't be right."
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "However, as for this path leading to the world—\nI am sorry, but I cannot yield it to anyone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "...Let us both give it our all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her feelings regarding the Prix de l'Arc de Triomphe\nare far from ordinary.\nThere's no doubt about that.",
+      "choice_data_list": [
+        "(...I'd like to check for myself.)"
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Hello, Trainer-san.\nIs something the matter?",
+      "choice_data_list": [
+        "I want you to keep <chrname> company."
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Yes, of course I don't mind.\nHowever—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "...Side-by-side training?\nOr as a mock race?",
+      "choice_data_list": [
+        "...I'd like us to give it everything we've got."
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "“...... Understood.\nI will give it everything I have right now.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Haaaaaaahh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the running Victoire Pisa displayed did not disappoint—\nno, it was far more terrifying than anyone could have predicted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "...Phew.\nI already knew it, but... they're truly strong.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Even so, I cannot yield the way.",
+      "choice_data_list": [
+        "What's your reason for wanting to run in the Prix de l'Arc de Triomphe?",
+        "Why do you want to run in the Prix de l'Arc de Triomphe?"
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "...It is to connect our 'bonds' across the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so—Victoire Pisa began\nto speak of an event from\nher Junior year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Now then. What should I do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "—Are you troubled?\nAbout that matter?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "What, did you hear it from Yayoi?\nOr was it from Tazuna-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "...Challenging the 'Prix de l'Arc de Triomphe' during the Classic Year.\nSo that is what you are considering.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "――... Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Challenging the Prix de l'Arc de Triomphe in the Classic Year carries many advantages. If that path is forged, the chances of conquering the race will increase.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"Still... the adjustments required are on a completely\ndifferent scale compared to domestic races. You'd be spending\nirreplaceable time spanning from the Junior to Classic Class.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "In other words... it is practically asking me\nto stake my entire racing career on the Prix de l'Arc de Triomphe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "It's not a leap to be taken lightly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "......\nEven so.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"I am—prepared to wager\neverything on the Prix de l'Arc de Triomphe.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "No matter what the outcome may be,\nI will have no regrets.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Why do you have such resolve?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "—A long time ago, I saw something truly wonderful.\nA single, shining \"ring.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "It is the sight of everyone in the stands enveloped in frenzy and excitement, receiving hope and courage before the race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "The reason I run is that I want to connect as many people as possible through such a \"circle.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"If I can deliver an amazing performance in the Prix de l'Arc de Triomphe—I'm sure I can expand that circle across the entire world.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"...I want to see that.\nIt is well worth staking everything on.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "So... please, I beg of you.\nGive me—the chance to run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...A 'bond' that spans the world. A cause worthy of betting everything on, is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "(............ If there's a girl who feels that way about me...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "—Shall we open it?\nThe gate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "...I know you all have your own reasons not to lose.\nYou have dreams. You carry all your fans'\nhopes on your shoulders... I understand that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Even so—I want to win.\nI don't want to waste the opportunity I was given.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "To spread the \"circle\" to the world.",
+      "choice_data_list": []
+    }
+  ]
+}

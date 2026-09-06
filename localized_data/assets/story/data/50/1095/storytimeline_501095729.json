@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Believe",
+      "text": "Thank you for the attempt.\nEven though you couldn't get it,\nit's shifted to a flatter spot.",
+      "choice_data_list": [
+        "......Sorry."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "No, it doesn't bother me anymore now. It really doesn't, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Leaving that aside...\nI am curious about the craftsmanship of the plushie.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "—Would it be all right if I peeked in for a moment? Even just learning by watching...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

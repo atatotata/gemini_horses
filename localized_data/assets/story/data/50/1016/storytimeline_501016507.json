@@ -1,0 +1,66 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I had called Narita Brian over\r\nto hand her some fan letters, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Fan letters... I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "If you don't need anything else, I'm heading back.",
+      "choice_data_list": [
+        "You're not going to read it?",
+        "Aren't you going to read it?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Guess so.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "This is a letter addressed to me.\nWhat I do with it is my own business, isn't it?",
+      "choice_data_list": [
+        "Anything but throwing it away!",
+        "Please, just don't throw it out!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Wha--!? As if I'd ever do something like that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nnh... I won't read it here.\nThat's what it means.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"There's no way she would throw away\r\nletters from her fans...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You done? Let's head back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Narita Brian walked away brusquely.\r\nHowever, she treasured the fan letter,\ntucking it carefully into her jacket.",
+      "choice_data_list": []
+    }
+  ]
+}

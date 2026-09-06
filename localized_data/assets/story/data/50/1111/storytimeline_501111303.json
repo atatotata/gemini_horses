@@ -1,0 +1,418 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "Phew, huff... I'm back.",
+      "choice_data_list": [
+        "Good work, Messiah."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Thank you very much.\nI feel I did enough to leave no regrets behind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Phew... I'm sorry.\nAs expected... it's taking a while to catch my breath.",
+      "choice_data_list": [
+        "I have water. Room temperature and cold..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "! Thank you very much. In that case, I'd like the cold one, please.",
+      "choice_data_list": [
+        "Do you need salt too? Ah, and energy as well..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"I knew you were traveling with quite a lot of luggage,\nbut still...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Thank you for preparing so meticulously.\n...Just as expected of you, Trainer.",
+      "choice_data_list": [
+        "Ah, no! Maybe that was a bit of an exaggeration—"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "No, that's a big help. Salt and energy, please.\nI need to properly prepare\nfor the Winning Live, after all.",
+      "choice_data_list": [
+        "...Yeah. I'm just glad it helped."
+      ]
+    },
+    {
+      "name": "",
+      "text": "She was the only one who never laughed at my overly serious nature. My debut race with Air Messiah came to a close with fantastic results.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The day after the Make Debut. After returning to the academy by Shinkansen,\nwe held a meeting in our usual Trainer's room.\nThe agenda was—",
+      "choice_data_list": [
+        "This is about our next target race, I guess."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Indeed. Of course, I understand that this is something\nbest decided early on, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I have a proposal. Before that, how about\nwe take a period of rest?",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "In the pleasant, mild weather, the breeze quietly sways the leaves.\nBeside me, Air Messiah's chest rose and fell softly,\nas if breathing in the dense scent of greenery.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Thank you for accepting my proposal,\nTrainer. And also for accompanying\nme today.",
+      "choice_data_list": [
+        "No. Resting is definitely important too.",
+        "No. Taking a break is definitely important, too."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. Personally, that is an area\nwhere I am quite particular.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Steadily, surely. In building things up step by step,\nwhat becomes crucial is the 'power of persistence.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"And in order to 'continue,'\nsometimes it is vital to 'stop' by your own choice.\nSo that you do not come to an unintended 'halt.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "That is how I see it.",
+      "choice_data_list": [
+        "I think that's an important way of thinking. I'll follow your example.",
+        "I think that's an important way of thinking. I'll follow your example, too."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Fufu, hearing you say that makes me feel rather proud.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah... Since we're here,\nwould you like to check out that area over there too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Looking in the direction Air Messiah pointed,\nI unfolded the park map I grabbed at the entrance.\nIf I recall, in that direction lies—",
+      "choice_data_list": [
+        "There's a flower bed? Sounds good, let's go!",
+        "There's a flower bed? Nice, let's go!"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "“—And then, Sweep-san went and...\nWait, ah?!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Wah, it's Messiah-san and the others!\nHeyyy, helloooo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Oh, Craft-san... and everyone else too.\nWhat a coincidence.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Really! We were just taking a break from our run right now~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Are you and Messiah refreshing yourselves here?\nIf I recall correctly, you submitted a request for a rest day today, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Heheh, once again, congrats on your Make Debut!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Thank you very much.\nFollowing Heart-san and Craft-san,\nI managed to pull through safely as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "That run was just so like Messiah-san.\nIntelligent, cool... and sharp!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "—Though my debut timing fell behind the others,\nI can't afford to lose either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"I shall be watching your debut race closely as well,\nCesario-san.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Next year... as one of the rivals we must watch out for\non the Classic-tier Triple Tiara route.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Rhein Kraft, Daring Heart, and Cesario.\nIn the same grade and class, seemingly on great terms, they—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "If they debut in the same class like this,\nthese Umamusume will become rivals competing\nfor the singular crown of the \"Triple Tiara.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Yes. They all, just like Air Messiah,\nare striving to grasp that magnificent crown—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Hey, hey, everyone, what kind of autumn flowers do you like?\nI mean, look, so many are blooming right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "\"For me, I'd say cosmos flowers!\nThey're so delicate and cute—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Yeah, their lovely vibe kinda reminds me of the Tiara Umamusume!\nAnd also how there are sooooo many colors!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "More than anyone, Rhein Kraft seemed to hold a deep longing to be a \"Tiara Umamusume.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "I want to bloom in my own colors too.\nJust like the cosmos flowers. And just like\nall the senior Tiara Umamusume!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "And with that, I'll deliver my running into someone's heart.\nSo strong and dazzling that it stays with them forever and ever!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "As for me—well, if we're talking autumn flowers, it'd have to be the dahlia!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's wonderful how delightfully gorgeous this flower is, isn't it?\nSo brilliant, so dignified.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"A flower fit for a 'Queen.'\nIn other words, a flower fit for me!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "An exchange student, as well as a noble, cheerful elite.\nDaring Heart smiles gracefully.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "So, if I'm getting a bouquet, I'd want something super vivid♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Even so, my own brilliance will not fade.\nI'll show you that I can become the most magnificent Queen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "For me... globe amaranth, perhaps.\nIt's often used in dried flower arrangements.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "“Immortal,” “undying.”\nNever ever fading away—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "That can truly be called my ideal form.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Possessing a striking duality between \"On\" and \"Off\"...\nas well as an overwhelmingly high perspective and immense ability—Cesario.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Brilliantly adorned and still shining to this day—\nthe history of the Tiara Umamusume...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "To become an Umamusume who kindles a new light there.\nTo become a cornerstone Tiara Umamusume—I surely will, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Trainer. ...Those two\nwill surely be our greatest obstacle going forward.",
+      "choice_data_list": [
+        "Looks like she's going to be... pretty tough."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "......Yes, truly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Both the resolve to seek the Tiara—\nand of course, the strength to match.\nThey possess both without a single flaw.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I nod deeply. The mock race between Air Messiah\nand Cesario that I watched before signing the contract\ncomes rushing back to mind. That sharpness, that burst of speed—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "On top of that, I was able to hear Daring Heart and Rhein Kraft's outlook on their futures earlier, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I hear both of you have set your main sights on the Hanshin Juvenile Fillies...\none of the Junior Division GⅠ races.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "With her sights set on next year's Triple Tiara... it seems she's already taking on the highest echelon of racing.",
+      "choice_data_list": [
+        "Ah...",
+        "Yeah..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"So then, what should we do?\"\nIn the end, that was the question one couldn't help but ponder.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "To stand against rivals who already radiate such immense pressure—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Let's prepare.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Just fully prepared. To the utmost of our ability.\n—In our own way.",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"It won't change.\nIn fact, I believe it must not change,\nTrainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Naturally, if we can say the preparations are complete,\nentering a race would be a fine choice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "However, our greatest goal\nis next year's Triple Tiara.\nWe must produce results there, without fail.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"So for now, let us prepare.\nAccumulating training and experience, step by step.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...What do you think?",
+      "choice_data_list": [
+        "Yeah. ...I think that's the best way forward too.",
+        "Yeah. ...I think that's the best option too."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...That's the best outcome.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Well then—shall we head back soon?\nIt's starting to get chilly.",
+      "choice_data_list": [
+        "That's true."
+      ]
+    },
+    {
+      "name": "",
+      "text": "I nod, watching Air Messiah\nas she walks away, lost in thought.",
+      "choice_data_list": [
+        "(I need to... get on firmer footing myself.)",
+        "(I need to... find a more solid footing myself.)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"One step at a time, steadily and surely.\"\nSo that I can say with utmost conviction\nthat this is the best, and this is the strongest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "For now, all I can do is keep working hard.",
+      "choice_data_list": []
+    }
+  ]
+}

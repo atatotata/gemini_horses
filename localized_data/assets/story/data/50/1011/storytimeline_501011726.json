@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\r\nwith Grass Wonder...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh? Trainer-san,\nthere are Umamusume plushies.\nThey look like crane game prizes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "I wonder what kind of girls are there.\nIt sounds a bit noisy, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Grass Wonder is deeply curious,\nbut she seems a bit intimidated by the lively atmosphere.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "I can't see very well from here.\nI wonder if they have plushies\nof Spe-chan and El too?",
+      "choice_data_list": [
+        "I'll go get it for you!",
+        "I'll go get it for you!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh my, are you sure?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"Still, I feel bad just watching from the sidelines.\nIf there's any way I could help out\nand work hard alongside you...\"",
+      "choice_data_list": [
+        "I want your support."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "In that case, it sounds like I can be of help.\nUnderstood. Leave it to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "I'll be cheering you on with all my heart.\nBest of luck to you~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

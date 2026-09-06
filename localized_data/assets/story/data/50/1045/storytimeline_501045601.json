@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "\"Last time ended with disappointing results, but this time will be different~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "I'll run a race worthy of all your hard work, Trainer.\r\nSo please, keep your eyes on me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"And without fail, I will make sure\r\nto fill you with smiles, Trainer!\"",
+      "choice_data_list": [
+        "I'll be waiting for you at the finish line!",
+        "I'll be waiting at the finish line!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Yes. I'll be back right away.\r\nPlease welcome me back with a sparkling smile♪",
+      "choice_data_list": []
+    }
+  ]
+}

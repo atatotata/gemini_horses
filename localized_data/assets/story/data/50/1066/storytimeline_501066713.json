@@ -1,0 +1,93 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Twin Turbo got hurt, so we went to the\ninfirmary together. She looked like she was in a\nlot of pain at first, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "W-Yay!\nIt doesn't hurt at all anymore!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Turbo's gonna go hit the track!",
+      "choice_data_list": [
+        "...It still hurts, doesn't it?",
+        "...It still hurts, doesn't it, though?"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "—*Gasp*!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Hey, hey! Come on, Trainer!\nStaying still is so boring~!",
+      "choice_data_list": [
+        "I'm worried, so let's get some rest.",
+        "Light exercise should be fine."
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Eeeeeh!! No, no, nooo!!\nThis is so boooring--!!",
+      "choice_data_list": [
+        "I bought a fun game, want to challenge me?"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Huh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Since it can't be helped, I'll do it for you!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We played games that put no strain on the body\nand spent the time recuperating.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Got it!\nTurbo Engine, igniting just a little bit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Gyaaaa!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ugh... it hurts~... The Turbo Engine\nhas stalled out completelyyy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I frantically tended to Twin Turbo,\nand it was decided she would need to rest for a while...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "\"Vroooom!\nTurbo, comin' through!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Look, look!\nTurbo didn't lose to her injury!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Twin Turbo pushed through her injury with a smile\nand made a smooth return afterward.",
+      "choice_data_list": []
+    }
+  ]
+}

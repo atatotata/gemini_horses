@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "The day after a day off.\r\nUpon arriving at the Trainer's office—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "*Zzz*, *zzz*...",
+      "choice_data_list": [
+        "Are you asleep?",
+        "Are you asleep?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "—Ah. S-Sorry.\r\nI only meant to rest on the sofa for a little bit...",
+      "choice_data_list": [
+        "Were you able to sleep well last night?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Um. I was gazing at my moss terrarium and lost track of time; it's already quite late.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "It's a type of gardening where you grow moss inside glass containers,\nand it's so delightful watching it grow day by day~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "However, I will be mindful of my lack\r\nof sleep from now on... *yawn*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Grass Wonder, who seems to have stayed up late,\r\ndidn't appear to be very well-rested.",
+      "choice_data_list": []
+    }
+  ]
+}

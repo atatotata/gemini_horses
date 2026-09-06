@@ -1,0 +1,163 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I brought Tosen Jordan, who hasn't been feeling well lately,\r\nto pray at the shrine...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, hey, Nakayama. You here to pray?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Not at all, just taking a stroll.\r\nLooking to see if there's someone around to bet with.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Seeing you visit a shrine is quite the rare sight.",
+      "choice_data_list": [
+        "She seems to not be feeling well lately..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Huh, what a coincidence.\nTo be honest, I've had a ridiculously bad losing streak lately myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"Times like this, you just need a win—doesn't matter what it is.\r\n...Hey, Jordan. How about a bet with me?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Huh? A bet?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Yeah, I'll win and turn my luck around!\r\nBut! If I lose, I'll spiral even worse than before!\nStraight to rock bottom...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ehh, what a drag. Who cares about luck anyway...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ho... Are you afraid of losing?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Haa...? I never said anything like that.",
+      "choice_data_list": [
+        "There's no need to force a confrontation anyway.",
+        "There's really no need to force a competition, either."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "\"Hey, it's not like I can't do it!\r\nFine, bring it on!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Heh-heh! That's what I like to hear!\r\nAs for the match... how about guessing whether the next visitor to these shrine grounds will be a human or an Umamusume?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Hmm... In that case,\r\nI'm betting on the Umamusume!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Then I shall take the humans.\r\nNow, let the battle begin--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "WOOOOOOH-----!!\r\nWhere the heck are youuuu~~~~~~!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Someone's here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Hey, it's Ticket-zo-san!\r\nYay! I win~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah! Found you, Joooordan!\r\nI've been looking for you!\nI couldn't wait to tell youuuu!",
+      "choice_data_list": [
+        "Did something happen?",
+        "Did something happen?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Listen to this! A present addressed to Jordan\r\narrived at our dorm room!\nIn a super fashionable boooox!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Fo' real!? Maybe I won it!\r\nFrom that online giveaway!\nWhoa! Good things just keep comin'♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Is that so?! That's awesome!!\r\nSeeing you so happy makes me happy too, Jordan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Hah. A total defeat...\nLooks like luck was entirely on your side.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Oh right, are you doing okay? With that whole... rock bottom thing, was it...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "I ain't the kind of person who needs your pity.\r\nHeh, this is actually gettin' me fired up.\nNow then, let's see how I crawl my way back up...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nakayama Festa left looking satisfied.\nEver since, Tosen Jordan's slump\nhas cleared up as if it were all a lie!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—However, no one appeared in the shrine grounds.\r\nDorm curfew is coming up soon...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "My mood's totally tanking...\r\nWhy isn't anyone coming? Seriously, no way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"...Tch, fine. We'll call it a draw for today.\nWe are definitely settling this someday, though.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the showdown was put on hold.\r\nHer so-called luck remained unchanged, and Tosen Jordan stayed in a slump.",
+      "choice_data_list": []
+    }
+  ]
+}

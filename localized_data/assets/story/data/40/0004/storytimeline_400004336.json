@@ -1,0 +1,259 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Bonjour! Comment allez-vous!\nLet the blood-soaked game of \"Who's the Werewolf?\" begin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Heh, interesting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gold Ship's \"Who Is the Werewolf? Game\" was about to begin.\r\nThe participants were Gold Ship, Nakayama Festa,\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sirius Symboli, El Condor Pasa,",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Manhattan Cafe, Satono Diamond,\r\nand myself, who somehow got dragged into this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "The rules are simple! Find the 'werewolf' hiding\r\namong us through discussion!\nNo fistfights, alright?! You know the drill, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The roles are: 2 Werewolves, 1 Possessed,\r\n1 Seer, 1 Medium, and 2 Villagers.\nMy role is 'Villager.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Then without further ado, game start!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Since there aren't many of us,\r\nI'll go ahead and claim Fortune Teller right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha, bluffing right out of the gate, Sirius?\r\nI'm coming out as the Fortune Teller too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Heh-heh, picking a fight with me so casually.\nI'll make you regret it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Whoa, whoa, is one of them the Werewolf... or more likely the Lunatic? Then again, both of them act like lunatics on a regular basis, so I can't tell at all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius & Nakayama",
+      "text": "Look who's talking!",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...Hey, that El who's usually so loud\r\nis awfully quiet, isn't she?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...The werewolf usually tends to grow quiet.\nI believe we should vote for El-san...",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Que!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"The start of Day 2...\r\nOh woe is me, the tragic heroine Golshi-chan, bitten by a wolf, shall watch over you all from heaven!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "\"Fortune result:\r\nManhattan Cafe is the 'Werewolf.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"Fortune result:\r\nSatono Diamond is the 'Werewolf.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Um... if that's the case,\r\nfrom my point of view, Nakayama-san is definitely the fake \"Seer.\"\nWhich makes Cafe-san the \"Werewolf.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...I think... the opposite.\r\n...Satono-san is the 'Werewolf.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Well, we'll just be talking in circles at this rate.\nThough that's the best part of this game.\n...Hehe, now I'm getting fired up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If things continue along this path,\nSirius Symboli and Satono Diamond will vote for Manhattan Cafe, and\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nakayama Festa and Manhattan Cafe\nwill probably vote for Satono Diamond.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Manhattan Cafe and Satono Diamond.\r\nThe game will be decided by who I vote for!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Trainer, please remember.\r\nWho was the very first person to suspect El just now?",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Indeed. And it seems her deduction was correct.\r\nWhich means... the Werewolf is...!",
+      "choice_data_list": [
+        "Manhattan Cafe is the werewolf!",
+        "...Satono Diamond is the werewolf."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"And now, the results announcement—!\r\nThe winner is... the Werewolf team!\"",
+      "choice_data_list": [
+        "Eeeeeek...!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Sirius Symboli was the one who saw through El Condor Pasa as the Werewolf.\nDoesn't that mean Sirius Symboli must be the true Seer!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Hahaha, sorry for making you trust me, Trainer.\r\nIt was a betrayal from within.\nAs the 'Madman', I sold out El, the 'Werewolf'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "By deliberately 'finding' the Werewolf,\r\nI looked way more like the real 'Seer,' right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Haha, the Madman took down the Werewolf, huh?\nNice, totally throwing standard theory out the window.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Thanks to that, my Fortune Teller bluff carried even more weight. We won in the end, so no harm done, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sirius-senpaaaai! Thank you so muuuuch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...But I got lynched on Day 1, desu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Haha, that was some good bait, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Fufu, we won!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I was completely fooled.\nI spent a truly fulfilling time together with them,\nimpressed by how remarkably clever they all were.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"And now, the results announcement—!\r\nThe winner is... the Villager team!\"",
+      "choice_data_list": [
+        "Yay!"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Good grief, it didn't go that smoothly, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's true that Sirius Symboli was the first\r\nto suspect El Condor Pasa.\nHowever, she was likely just cutting ties with her own circle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Whether she was the Madman or a Werewolf, intentionally 'discovering' a Werewolf\r\nserved to make her fake claim as the Seer much more convincing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It occurred to me that making such a tricky wager would be just like Sirius Symboli.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Thank you, Trainer.\r\nYour judgment... wasn't bad at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Impressive you didn't let Sirius fool you.\r\nNot half bad, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yay! A huge victory for Golshi-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Wait, Golshi-chan didn't do anything!\r\nYou guys... no, Satono!\nDon't kill the Medium on Night 1!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I managed to secure a victory by a hair's breadth.\nThrowing myself into such a thrilling game made for a truly fulfilling time.",
+      "choice_data_list": []
+    }
+  ]
+}

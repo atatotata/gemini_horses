@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Sakura Laurel hasn't shown up for training...\nThinking something might have happened,\nI search the academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Yeah, this makes no sense after all.\nMaybe I'm just interpreting it wrong?",
+      "choice_data_list": [
+        "Laurel?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "—Eh? Trainer?\nWhat's the matter?",
+      "choice_data_list": [
+        "You're past training time."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"No way!? S-Sorry!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Um... while translating a French book, I came across a sentence that just didn't make any sense...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I got so stubborn with researching that it's already this late...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I am so, so sorry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Sakura Laurel seems truly remorseful.\nI reminded her to be more careful from now on.",
+      "choice_data_list": []
+    }
+  ]
+}

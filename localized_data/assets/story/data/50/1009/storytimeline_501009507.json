@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "A fan letter arrived for Daiwa Scarlet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "H-Huh~\nFan mail arrived for me, you say. I see.",
+      "choice_data_list": [
+        "I'm glad."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "H-Hmph! If anything, someone like me\r\ndeserves to be getting a whole lot more!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "If I'm aiming for number one,\r\nI can't act like a baby over something like this--",
+      "choice_data_list": [
+        "You're grinning, you know"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I-I'm not smirking!\nCome on, let's hurry up and get to training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...I'll prove I can live up to it.\nTo everyone's expectations of me—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiwa Scarlet spent that entire day\r\nworking hard on her training, looking cheerful throughout.",
+      "choice_data_list": []
+    }
+  ]
+}

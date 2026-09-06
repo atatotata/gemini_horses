@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "(Uwooooooah!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "\"Man, this year's Derby was intense too...\n—Hey, what're you messing with your phone for?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "I'm looking into it. That \"Prix de l'Arc de Triomphe\" thing you mentioned earlier. ...Because <chrname> was great.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "They say there's a 'Representative Exchange Match' next month.\nAnd they're taking supporter sign-ups too...\n............I'm definitely joining.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "Talk about fast on your feet!?\n...Still, maybe that ain't bad, huh?\nI do wanna see what becomes of <chrname>, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "(...<chrname> and the others are\nsteadily generating excitement.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "(Draw in this heat and let it blaze.\nThat blazing wind will become a tailwind to carry me to the world.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "—Then I will too. Pour everything you can as the leader into everyone in 'Project L'Arc.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "First, in the upcoming Representative Exchange Match.\nWe'll scale it up compared to last time and draw people in.\nMore runners, more PR... spreading to the general public, too—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "I'll make sure to arrange a race worthy of Team Japan\nat the \"Representative Exchange Race\"...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After the race. Checking the reception for <chrname> mixed in with the cheers, I go to greet her in the underground tunnel.",
+      "choice_data_list": [
+        "...You really delivered results.",
+        "...We got the results we wanted."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Let's move forward. To earn our ticket as Japan's representative in next month's Exchange Match.\nTo make our dream of becoming the best in the world come true—",
+      "choice_data_list": []
+    }
+  ]
+}

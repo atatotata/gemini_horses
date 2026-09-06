@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In the morning, while working in the Trainer's Room,\nI received a phone call from Sakura Laurel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"...Trainer-san, I'm sorry.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "To tell the truth, the race the other day\nis still taking a toll on my legs...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I wanted to consult you as early as possible, so I called.\n...Sorry for calling so early in the morning.",
+      "choice_data_list": [
+        "\"Got it, thanks for letting me know.\""
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Still!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"There are things I can do!\nMy hands and brain still work.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"...I want to grow, even if it's just a little.\"",
+      "choice_data_list": [
+        "...Yeah, I'll build the menu around that schedule.",
+        "...Yeah, I'll plan the training menu around that schedule."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The race seems to have worn Sakura Laurel out\nmore than usual.\n...I'll need to reconsider her schedule with that in mind.\"",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, I received a phone call from Reporter Otonashi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"‘Sorry for calling so suddenly!\r\nI just had to tell you right away!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Actually, in recognition of <chrname>'s\r\nperformances this year—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"I was chosen\nto be the Best Junior Umamusume!\"",
+      "choice_data_list": [
+        "！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Reporter Otonashi continued to offer her\npolite congratulations afterwards as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I finished the call and was savoring the joy,\r\nthinking about how we'd keep doing our best together, when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Knock knock)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Trainer Kiryuin paid a visit,\r\nalong with the gentle Umamusume under her charge, Happy Meek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Excuse me!\nTrainer <username>!\nI heard the news about your selection!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Congratulations! Your achievements this year\nhave truly been nothing short of spectacular after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Congratulations.",
+      "choice_data_list": [
+        "Thank you!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Thinking that your trainee is from the same class as me\nmakes me feel so nostalgic!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I just couldn't sit still! Huge congratulations to you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Mm. Cheers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Besides, it really made me feel like... next year, it'll definitely be our turn!",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"Let's both keep doing our best as classmates and as rivals!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Afterward, <chrname> and I promised each other to do our best next year so that we wouldn't lose.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dream Journey",
+      "text": "—A hotel with high soundproofing, in a quiet location,\nand a short distance from the training grounds, correct?\nDo you have any other requests?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'd appreciate it if I could choose a buckwheat hull pillow.\nThough it's peak season, so if that's impossible—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Don't worry.\nI've picked out a few candidates, so I'll send them over by email.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please let me know once you've decided on your preferred hotel.\nI'll make the arrangements right away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Pardon the intrusion! Calstone Light O, here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ah, welcome.\nRight O, your rental application for the expedition equipment has been accepted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "However, the date, time, and intended race were left blank. I'm here to confirm those details with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "It's the Aoi Stakes in May!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Understood.\nThat completes the procedures for both of you.\nPlease wait to hear from us.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Are you traveling for an away race too, Believe? Where to?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'm at Kyoto too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Could it be the Aoi Stakes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No. I... I can't run in the Aoi Stakes.\nBecause I lost yesterday...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I see. Are you not feeling well?\nTruth be told, I'm not in great shape either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Her acceleration isn't building up as well as before.\nShe's on a losing streak in mock races, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Is that so?\nStill... they seem relaxed, or rather, completely normal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ah, sorry!\nI didn't mean it in a weird way...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "True, she's on a losing streak right now.\nHowever, if we can win the Aoi Stakes, there won't be a problem.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "My Trainer told me they would make me win.\nThat they'd figure out a way for me to come out on top.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"That's why I just aim for maximum speed.\nI can keep my focus entirely on that.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "So that's why... she doesn't waver...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Believe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No. ...That is true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Stay true to the path I've set out on.\nThat's the only thing I need to do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Oh, Trainer, you look a bit down.\nIs something on your mind?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While reviewing Calstone Light O's mock race in the VR Umalator, Godolphin Barb called out to me.",
+      "choice_data_list": [
+        "Actually, I'm conflicted on our strategy for the Aoi Stakes..."
+      ]
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "\"Could it have something to do with\nthat mock race we watched earlier?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Now, the Umamusume are approaching the 3rd corner!\nCalstone Light O, who's in the lead, drifts wide!\nThe trailing pack is closing the gap!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Rounding the 4th corner and into the straight!\nHere comes Durandal from the back!\nWith a razor-sharp late burst, she blows right past them all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Lately, Calstone Light O hasn't been able to win\nin either the Umulator simulation races\nor the mock races.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In other words, winning the Aoi Stakes is in jeopardy.",
+      "choice_data_list": [
+        "I'm being held back by that assignment..."
+      ]
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "\"You mean what we talked about the other day—cornering, race development, and all that, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "However, didn't you claim that all problems\ncould be overcome with sheer speed?",
+      "choice_data_list": [
+        "I haven't been able to build up that much speed."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "We had already established a long-term training plan. So for this stage, her rate of growth could be considered right on schedule.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, it's still not fast enough to overcome the challenge.\nWhether we can reach sufficient speed by the Aoi Stakes or not...",
+      "choice_data_list": [
+        "I can't say for certain that speed alone will be enough to win..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "To increase our win rate, should we spend the remaining time addressing challenges like cornering?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I promised to lead Calstone Light O to victory.\nThat's why, while aiming for top speed,\nI want to show her a path that guarantees a win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "...It seems she'll need one more push\nto truly, fully believe in the possibilities.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "In that case, how about something like this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Setting the races you'd like to run, you mean?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Yes. It's nice to do that once in a while, isn't it?\nWhat kind of race would you like to compete in, Right-O-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Anything is fine?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Of course.\nWith the Umulator, you can customize the settings however you like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "A cheetah!!\nI want to run with a cheetah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Understood, a cheetah, right?\nAnything else?",
+      "choice_data_list": [
+        "Cheetah, is that really okay!?"
+      ]
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Ehehe, because we're free.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Then kangaroo, lion, gazelle, giraffe,\nostrich, and jaguar too, please!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "What course?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "On the straight!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "...Yes. How is this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Oooooh!!\nThere really is a cheetah here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "There aren't any gates, but that's the starting line.\nDon't worry, the animals are controlled\nto make sure they run straight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ah, to think I can race against the fastest animal, a cheetah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I'm so happy! So happy! I'm so happy I just wanna dance!\nHyah-hoy, wah-hoy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Animals are lined up side by side on a turf course created in virtual space. It seems we're really going to race like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...And then, I noticed a single Umamusume\nmixed in among the animals.",
+      "choice_data_list": [
+        "That girl is..."
+      ]
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Fufufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She is an Umamusume who set a world record in the 1,000 meters.\nIt seems this was all orchestrated by Godolphin Barb.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Here we go! On your mark, get set――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(BANG!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaah! ...What?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the blink of an eye, the cheetah pulled away, sprinting gracefully into the distance.\nBefore long, its silhouette had vanished.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ghk... The cheetah really is fast...!\nHowever...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I won't let go!! OOOOOOHHH!\nI can still see the tip of that tail!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With a sudden surge!! Calstone Light O accelerates.\nThe force of her grip on the ground propels her body forward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her accelerating body felt as if it floated lightly into the air.\nIn that split second, she closed the gap on the cheetah at a gliding speed.\nShe's hit top speed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her strides across the turf steadily quicken their tempo,\naccelerating even further. This is—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Here it comes... It's here, it's here! I've got you in my sights, Cheetah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O finally\nclosed in on the cheetah.",
+      "choice_data_list": [
+        "You've gotta be kidding me...",
+        "No way..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A cheetah's top speed is 110 km/h. Even if it can only sprint full-tilt for about 300 meters, to close down that advantage...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I can do it, I can do it! I've still got more in me!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"A roar to spur oneself on.\nAs if in response, the sound of hoofbeats rings out loudly.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(RUUUUMBLE!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "My heart beats faster, as if in resonance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Her flowing jet-black hair soon forms a single straight line,\nand her very form transforms into a single black arrow.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "I've caught up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At that moment, Calstone Light O and the cheetah were running neck and neck.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "From here on out!!",
+      "choice_data_list": [
+        "She recovered?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "100 meters remaining—normally, she would be decelerating here.\nHer energy should be practically spent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However... she pulled it together.\nChanneling her desire to run at peak speed—\nfaster than anything else—into pure power.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Aaaaaaaaargh!!\nI am! Going to beat! A cheeeeeeetah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The black arrow pierced through,\nleaving the cheetah far behind.\nYet, a new shadow galloped even faster than the arrow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Because of the distance,\nCalstone Light O doesn't notice.\nHowever, as if sensing something—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "More... even more! Beyond that light!!\nHAAAAAAAAAAAH!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her leg turnover and arm swings grew even faster.\nForward, even a millimeter forward! Her whole body screams it!",
+      "choice_data_list": [
+        "Goooooo! Right O!!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Nwaaaaaaaaaagh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "*pant, pant, pant*...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I stood frozen in utter shock...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O—won.\nAgainst the fastest land animal, the cheetah.\nAnd drew neck-and-neck with the world's fastest Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Letting that truth sink in once more, I realized something.\nThis was the exact same feeling I had\nthe very first time I saw her run...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer, did you see that?\nI actually beat a cheetah!",
+      "choice_data_list": [
+        "Yeah... That was so cool!",
+        "Yeah... That was so cool!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I was astonished by her incredible speed, and my heart fluttered with excitement.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The boundless potential hidden within her.\nI want to see... where it will lead.",
+      "choice_data_list": [
+        "You're—fast. Terrifyingly fast!",
+        "You're—fast. Terribly, incredibly fast!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "! Yes.\nHearing you say that directly is kind of embarrassing, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "However, I want to become even faster.\nFast enough to surpass even a cheetah's top speed.",
+      "choice_data_list": [
+        "Let's aim for that speed!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It's an absurdly ambitious goal, sure.\nBut if I keep pushing my speed to the absolute limit,\nmaybe I'll reach it one day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O\neven made me think that way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "Fufu, it looks like you've made up your mind.",
+      "choice_data_list": [
+        "Yes!"
+      ]
+    },
+    {
+      "name": "Godolphin Barb",
+      "text": "I'll be wishing you the best of luck from here as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later. The final mock race before the Aoi Stakes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer.\nHow should we run today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A glittering roster of front-line competitors gathered for the spring graded stakes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To lead Calstone Light O to victory.\nThe instructions to give are—",
+      "choice_data_list": [
+        "Give it everything and run for top speed!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "No need to worry about cornering, stamina pacing,\nor race developments.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Wanting to reach top speed.\nWith that desire alone, she can deliver her greatest run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Understood!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mid-Level Trainer",
+      "text": "Wait... What is that?!\nThat's not a strategy at all.\nPeople are going to question your leadership, you know?",
+      "choice_data_list": [
+        "This is fine, really!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I believe.\nIn Calstone Light O's speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaaaah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Observing Student A",
+      "text": "So fast...! No way, she is an Umamusume, right?\nCan anyone really get that fast?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Observing Student B",
+      "text": "Ehh, amazing, amazing!\nSo fast! So cool!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That's why I want everyone to feel it too.\nThe thrill of discovering just how fast one can become.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And I want you to see it.\nHer running, faster and more beautiful than anything else—\"",
+      "choice_data_list": []
+    }
+  ]
+}

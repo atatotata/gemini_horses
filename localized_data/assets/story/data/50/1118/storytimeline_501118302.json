@@ -1,0 +1,376 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I got a lottery ticket from the shopping street. It's always nice to win even a small prize.\nI think I'll let Admire Groove draw it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "So, while showing off the raffle tickets stuffed into the bulging bag alongside the purchases—",
+      "choice_data_list": [
+        "Alv, go test your luck and draw one"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Why me?",
+      "choice_data_list": [
+        "No, no, both my hands are full...",
+        "No, no, both my hands are full..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "Using the excuse that my hands were completely full with luggage, I urged her to go on ahead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "—...Understood.\nPlease don't complain even if you don't win, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Yes, welcome! One ticket for the lottery, right?\nI'm sure you'll win something good, young lady.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(...Things don't go that smoothly in the real world.\nStatistically speaking, there are far more misses than hits anyway.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Admire Groove slowly turns\nthe lever of the raffle drum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "A hot spring trip... apparently.\nTo think we actually won...",
+      "choice_data_list": [
+        "Congratulations! Have fun!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Why is it suddenly decided that I'm the one going?",
+      "choice_data_list": [
+        "Because Alv was the one who won it..."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...These lottery tickets were yours to begin with, Trainer.",
+      "choice_data_list": [
+        "It's for two, so you know, maybe with Air Groove or someone."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "That's not the issue—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Well, let's put this discussion on hold for now.\nFortunately, the expiration date is more than a year away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Besides, I really don't have time for that right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "To defeat the powerhouses of the Senior Class, I must be stricter with myself than ever before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "While I want them to cherish the bond that's finally formed, forcing it on them any further would be impossible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Let's head back quickly.\nAfter all, we have plenty to do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so,\nwhat to do with the travel tickets was shelved for another day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "\"'The supreme dish generously made with the shopping district's prized specialty ingredients'...\nI think before—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "All the ingredients used at the academy are high quality and packed with nutrients. Perfect for building up the body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "However... in this shopping district, \"special ingredients\"\nthat disregard cost and surpass even the academy's food\nin nutritional value occasionally circulate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Could such a thing really...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Above all, the \"Special Carrot Hamburg Steak\" made entirely\nfrom those ingredients boasts tremendous restorative effects\nagainst fatigue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "I ate that before as well and threw myself into even more training. You should give it a try if you get the chance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(...Once, that person did the same, using it as the source of strength to elevate himself to that realm...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(The ideals she pursues are high. That goes... for me as well. In that case—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Beyond the 'Special Carrot Hamburg Steak,'\nlies Air Groove-san's... and my own path.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "\"...I'll be taking this with me.\nIs that all right?\"",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "She had an overbearing air that brooked no argument, but her sincerity came through.\nIn her own way, she might have been paying respect to someone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": [
+        "Talk about lucky, it looks super fresh.",
+        "Talk about lucky, it looks super fresh."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Yes, well.\nOne look is all it takes to understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "\"With this much, it looks like we can make all kinds of dishes—salads, grilled dishes, stir-fries, and stews.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(...Ideally, the best move is to eat it before it loses its freshness...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(There are a few conditioning routines\nI'd like to try... If I'm going to test them, it's now.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Trainer.",
+      "choice_data_list": [
+        "Wh-What...?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I'll use these to make a body-building menu.\nA full-course carrot meal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I will only teach you this once, so please remember it.",
+      "choice_data_list": [
+        "A full-course meal?!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Carrots are an all-purpose ingredient that prevents rough skin, boosts immunity, maintains mucous membranes, and regulates intestinal function.\nThis will directly lead to improved performance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "\"There will be benefits for you as well, Trainer.\nEven recently—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Well then, excuse me.",
+      "choice_data_list": [
+        "Good work today... *yawn*..."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "“...Lacking sleep again?\nYou're going to ruin your health, you know.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Please take care of your own health.\nIf you collapse, work will grind to a halt.",
+      "choice_data_list": [
+        "(I wonder if she's actually trying to warn me...?)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Perhaps she is gradually becoming able to pay attention\nto things beyond just herself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Once you can cook a full-course carrot meal,\nyou should be able to prevent it yourself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I'll head back and start selecting recipes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "—...Or so they say.",
+      "choice_data_list": [
+        "Like I said earlier, my hands are full, so..."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...\nWhat am I supposed to do with this?",
+      "choice_data_list": [
+        "Umm... please help yourself."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "*sigh* No ideas, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "In the trainer's office fridge...\nthere were some apples and lemons left over, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Let's buy some more bananas on the way home.\nI'll make juice out of them to drink before morning practice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Admire Groove wasted nothing that could serve\nas nourishment for her to grow stronger.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...\nWell, about what I expected.",
+      "choice_data_list": [
+        "W-Well, you might as well take it..."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "After you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I have quite enough, thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"I hurriedly chased after her\nas she walked briskly away from the scene.\"",
+      "choice_data_list": []
+    }
+  ]
+}

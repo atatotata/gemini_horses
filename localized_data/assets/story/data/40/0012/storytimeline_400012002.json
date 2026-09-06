@@ -1,0 +1,232 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Good work.\nRight now, I am offering detailed explanations\nof \"Yukoma Onsen Village\" to anyone interested—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<username>, \ndo you need an explanation?",
+      "choice_data_list": [
+        "Listen to the explanation",
+        "Skip the explanation"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Now then, what would you like me to explain?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Speaking of what you'd like to ask about training for the \"Yukoma Hot Spring Resort\"—",
+      "choice_data_list": [
+        "About revitalizing the hot spring town",
+        "About selecting hot spring sources",
+        "About the excavation",
+        "About Hot Spring Power",
+        "I'm alright now."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You want to know about \"Revitalizing the Hot Spring Resort\", right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "To revitalize the hot spring village,\neveryone will be tasked with excavating the hot spring source.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "As you dig further, the inn's rank will increase!\nThe inn's rank rises depending on\nthe number of hot springs fully excavated.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "We can also get Ryokan Rank Bonuses, so let's use those as a guide for our excavation!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, to reward the Umamusume,\nwe have scheduled 3 'Hot Springs Gatherings'♪\nA higher Inn Rank seems to boost their satisfaction!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "To earn a higher Ryokan Rank, let's excavate efficiently and increase the number of hot spring sources!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "By the way, you'll be participating in these activities alongside the Twinkle Series.\nPlease do your best with your daily training too, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please note that depending on training conditions,\nyour training may conclude even while participating in the\nHot Springs Resort Revitalization, so please be careful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation\nfor \"Revitalizing the Hot Spring Resort\".\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You want to know about \"Hot Spring Source Selection\", right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Before proceeding with excavation,\nplease select the target hot spring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hot springs are composed of three types of strata: \"Sand,\"\n\"Soil,\" and \"Rock.\" You will excavate them using\ndrilling equipment corresponding to each stratum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "The combination and thickness of the strata\nvary depending on the hot spring's source.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"And when selecting a spring source,\nyou can level up one piece of excavation equipment\nto boost excavation efficiency!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hot springs offer various beneficial effects.\nWhen a trainee Umamusume bathes, \"Hot Spring Power\"\nwill grant helpful buffs for training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Be sure to check carefully before making a choice.\nThink about the effects you want, and choose which springs to excavate!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation for \"Hot Spring Source Selection\".\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You'd like to know about \"Excavation,\" then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Excavation will automatically progress when you choose \"Training,\" \"Rest,\" \"Go Out,\" or \"Enter a Race.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "In the case of Training,\nthe excavation yield varies based on the \"number\nof Support Cards training together.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, the amount excavated is heavily influenced by a bonus called Excavation Power!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Excavation power for each stratum is determined by\nthe 'Trained Umamusume's Base Stats',\n'Excavation Equipment Level', and 'Base Stat Factors'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can acquire basic stats depending on your excavation progress, so let's keep digging away♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "However, excavating consumes Energy.\nWhen training, please be mindful\nof your remaining Energy as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation\nfor \"Excavation.\"\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You want to know about \"Hot Spring Power\", right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Using a Bath Ticket to soak in the hot springs\nallows you to activate Hot Spring Power.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Activating Hot Spring Power grants advantageous effects for training\nand recovers your energy! Let's refresh ourselves at the hot springs and do our best♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Moreover, consuming a large amount of Energy might trigger 'Ultra Recovery'...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "With \"Super Recovery,\" energy can exceed the maximum limit,\nand your stats will increase as well!\nBe proactive about spending your energy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"The effects of Hot Spring Power will be enhanced\nwith additional benefits from the spring sources once excavation is completed♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can sometimes obtain Bath Tickets\nthrough \"PR Activities\" or various events!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"PR Activities\" is a command\nto promote the hot spring town.\nYou can earn 1 Bath Ticket each time you perform it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation for \"Hot Spring Power\".\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Are you truly all right?",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understood♪ Just to be sure, I have a brief summary right here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can review that explanation at any time\nby tapping the 'i' button in the top left.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Well then, best of luck.\nI'll be cheering you on quietly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understood. In that case, do your best,\nokay? I'll be quietly cheering you on.",
+      "choice_data_list": []
+    }
+  ]
+}

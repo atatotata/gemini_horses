@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Um, Trainer?\nIs there something troubling you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Are you feeling lonely, craving company,\r\nor wanting a lap pillow or something?",
+      "choice_data_list": [
+        "W-What's wrong?",
+        "W-What's wrong?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "The truth is, lately...\r\nno one has been letting me pamper them...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "I really want to pet her and give her a big hug\nand tell her what a good girl she is, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Haaah... I feel lonely.\nTrainer... will you pamper me...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Unable to pamper anyone like she usually does, Super Creek seemed to have fallen out of form...",
+      "choice_data_list": []
+    }
+  ]
+}

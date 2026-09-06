@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from our outing,\nEspoir City received an incoming call on her smartphone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "—Mm. That item came in, huh?\nGot it. I'll go pick it up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Trainer.\nI'm gonna take a little detour, 'kay?",
+      "choice_data_list": [
+        "Where are you going?",
+        "Where are you going?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "It's a joint I hang out at.\nCome along if you want, but...\ndon't blame me if you get cold feet along the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following behind Espoir City, she turns\nonto an increasingly dim and deserted path.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"This back alley, see. It's narrow and a bit thrilling,\nbut it's a shortcut. At least for my 'regulars.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Crow",
+      "text": "OAAAAAAH~~! OAAAAAAH~~!",
+      "choice_data_list": [
+        "It feels kind of creepy..."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "D-Don't chicken out over something like this.\nC'mon, let's get a move on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hardly anyone around here, right?\nIt's the perfect spot for taking a stroll.",
+      "choice_data_list": [
+        "(It's so quiet, it's kind of unnerving...)"
+      ]
+    },
+    {
+      "name": "Large Dog",
+      "text": "Woof, woof!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking over, a large dog was barking fiercely from a house\nwith a \"Beware of Dog\" sticker. It looked ready to pounce at any second.",
+      "choice_data_list": [
+        "Whoa! That was scary..."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...*in-haaale*...\n..................",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...I-I'm not scared at all, okay...?\nLook, see, it's chained up, isn't it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Like this... I'm all bark\nand no bite.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Large Dog",
+      "text": "Grrrrrr...!",
+      "choice_data_list": [
+        "You're looking pretty reliable today.",
+        "You're looking pretty reliable today, aren't you?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "H-Hmph... I'm used to it.\nThis road is basically my backyard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "W-Well... if you're scared, don't stray away from me, got it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even after that, I followed behind Espoir City through the dim, narrow alleyway. The place we eventually arrived at was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Yeah. Right here, right here.",
+      "choice_data_list": [
+        "Your regular hangout is... a penny candy store?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "That's right.\nWhat? Got a problem with that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Ah! There you are, Espo-chan. I made sure to keep your share. Here, an assorted pack of lollipops.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Yeah.\nJust ran out, so that really helps.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Fufu, thank you for your patronage as always♪ ...Ah!\nI left out the popping candy stuff from last time,\nso you don't need to worry, okay~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Tch...\nStop blabbing useless crap...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Inside the candy shop, there was a calming, relaxing atmosphere. It made the tense air of that back alley feel like a total lie.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Oh yeah, I also stocked up on those new snacks with lottery prizes.\nYou love this kind of thing, don't you, Espo-chan?\nWanna give it a shot?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ahhh... I'll pass for now.\nI just wanna head home already today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"If we pass by while that noisy one's tied up,\nthis one won't get spooked either.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Oh, you did another patrol for me?\nThen you must have been quite scared too, Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Those words bring back the memory of a large dog's\nbark suddenly echoing through a quiet alley.",
+      "choice_data_list": [
+        "Could it be that large dog?"
+      ]
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Right, right. That big, scary doggy. I got barked at by that doggy before too, and it surprised me so much that I fell over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "There's really one of those things here?\nWhat a pain in the ass.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Tch. Should I go over there and bark at 'em to 'keep it down'? ...Sheesh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Since then, Espo-chan always checks to make sure I'm safely tied up before coming over. Even though it means going out of her way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Candy Shop Owner",
+      "text": "Thanks to you, on the days Espo-chan comes by,\nI can walk around without a worry.\nThank you so much, Espo-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"W-Wha...!! I ain't doing that at all!\nI just take that path 'cause I like it, that's all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Unlike a certain Trainer over there,\nI ain't gonna get freaked out by some dog!\"",
+      "choice_data_list": [
+        "Good on you for helping someone out, Espo!",
+        "Good on you for helping someone out, Espo!",
+        "In that case, let's head back via that road one more time."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "\"Unlike a certain Trainer over there,\nI ain't gonna get freaked out by some dog!\"",
+      "choice_data_list": [
+        "Good on you for helping someone out, Espo!",
+        "Good on you for helping someone out, Espo!",
+        "In that case, let's head back via that road one more time."
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Liiike I said!\nI told you it's not like that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "I-If you say any more weird crap,\nI'm gonna punch your lights out, got it?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Y-Yeah. If you liked it that much,\nI wouldn't mind coming back one more time, though?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Well, I am kinda curious how it's doing.\nGuess I'll go check up on it. That dog, I mean.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\r\nwith Ines Fujin...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, Paka Petit!\r\nThey're all so cute~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ines Fuujin was gazing at a crane game filled with plushies styled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"My little sisters beg me all the time, too,\nbut I'm really bad at crane games... Ahaha.\"",
+      "choice_data_list": [
+        "In that case, I'll get it for you.",
+        "In that case, I'll get it for you."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh, really!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Well then, don't mind if I do!\r\nBig Sis will cheer you on with all her might!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth didn't show up for training,\nso I went out looking for her.\nI found her performing at a shopping mall.",
+      "choice_data_list": [
+        "Training time has already passed, you know."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Affrettando!\nHas it gotten that late already?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"I was asked to play some music to liven up the mall,\nand I suppose I got a bit carried away.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I am terribly sorry!\nI had no intention of wasting our precious time together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I warned Sounds of Earth to be careful from then on.",
+      "choice_data_list": []
+    }
+  ]
+}

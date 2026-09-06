@@ -1,0 +1,95 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby got injured,\nso I immediately had her treated in the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Doctor, thank you very much for treating me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Trainer.\nLet us resume our training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I have no time to be\npreoccupied with pain of this degree.",
+      "choice_data_list": [
+        "Let's not rush—let's get some rest.",
+        "As long as it's within reason..."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...I cannot accept that.\nPlease provide valid reasoning as to why rest is necessary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thinking she'd say that, I spread out the latest research paper I had printed out to show her.",
+      "choice_data_list": [
+        "Pushing through the pain won't do you any good."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Understood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Then, I shall focus on my treatment.\n...Please excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Understood.\nLet us begin with some light jogging, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...gh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"When she tried running, her form was off...\nJudging from her expression, she likely knows it's the lingering effect of her injury.\"",
+      "choice_data_list": [
+        "Let's call it a day here."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Understood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, she immediately went on rest, but...\nperhaps letting her run a bit was a mistake, as it took\nquite a while for her to get back into top shape.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "—...I'm back.",
+      "choice_data_list": [
+        "Looks like there's no problem!",
+        "Looks like there's no problem, huh!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I don't feel any pain at all either.\nAt this rate, I should be able to make a quick return.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby calmly overcame her injury,\nmaking her return remarkably smooth.",
+      "choice_data_list": []
+    }
+  ]
+}

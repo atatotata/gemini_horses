@@ -1,0 +1,404 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One evening. Accompanying T.M. Opera O on her stroll\r\nthrough the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Hm, Trainer-kun! Look ahead.\nIt seems a crowd has gathered, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "A duel, is it? In that case, I must mediate.\r\nOr perhaps I shall make a dashing entrance myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "When I got closer... just as I thought,\r\nit wasn't a duel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hey there, passing opera star!\r\nCare to give it a try~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Bwahaha! I was hiding in the audience,\r\nbut I suppose it can't be helped once I've been spotted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "A lottery, is it? Sounds delightful. I've always had\r\na fascination with that rotating contraption.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Now, Trainer-kun, pull the lottery ticket from\r\nyour pocket with a flourish. Pinched between your index and middle fingers, if you please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Even how she drew it out was quite the performance.\r\nDrawing the single raffle ticket like a card,\nshe handed it to the old man.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Then let us begin. Trainer,\r\ngrip the raffle wheel's lever together with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Now, staking our fate on the line!\r\nTurn, gears of destiny! Haaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With both of our hands raised toward the heavens,\r\nwe turned the raffle wheel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Oho, from the sky... a ray of light is coming down!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Grand prize!! Indeed! Even Lady Luck herself\r\ncan't resist a star like me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Bwahahaha!\r\nAh-hahaha!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "A hot springs trip sounds wonderful.\r\nI'd love to go right away, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "I guess it won't be that simple after all.\r\nI'm still only halfway along my path to supremacy, after all.",
+      "choice_data_list": [
+        "Are you going to hold back?",
+        "Are you going to hold back?"
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ah, along the path of conquest,\r\nthere is no resting ground to be found. That is why...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "I'd rather the hot springs come to me!\r\nShouldn't they make haste and present themselves before me!?",
+      "choice_data_list": [
+        "Hot springs... I can't walk in them, so..."
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "I see. You're surprisingly inflexible, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Then it cannot be helped.\r\nPlease, keep that ticket for yourself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Until the proper time comes, please seal it with\r\nthe king's crest in wax and keep it safe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, I ended up holding onto the hot spring trip voucher.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Fufu, fufufu... Can you see it?\r\nBecause I—I can see it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "At the end of the road to supremacy—lies a hot spring!\r\nAnd it's free-flowing straight from the source! Hwahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With the hot springs trip to look forward to,\r\nTM Opera O's morale skyrocketed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ho, first prize! Isn't this quite the impressive result!\nAs expected of me, beloved by lady luck!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "ââ!! And what's more... it's the Holy Sword Salisbury Steak!\r\nIsn't this the Holy Sword Salisbury Steak?!",
+      "choice_data_list": [
+        "What is Holy Sword Hamburger Steak?"
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Behold! In the middle of this mound of minced meat,\r\na carrot is plunged right in with a \"BAM!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Only one who possesses the qualifications of a king\r\ncan pull this carrot from the ground.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "If that's the case, I can't just sit around. I'll head right home and start cooking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Alright, it's done!\r\nTrainer-kun, are the preparations in order?",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Once I pull it out,\r\nyou'd better say a line filled with pure astonishment, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ready, and! SHOOVE!!",
+      "choice_data_list": [
+        "Oh, you are the true king!"
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Indeed! Ha ha ha ha!\r\n*munch munch*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Mmm, this Holy Sword... delicious!\r\nTruly delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"T.M. Opera O eating the holy sword. Having had fun playing and enjoying a delicious meal, she looked thoroughly satisfied.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\r\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Hmm, 2nd prize, huh. A bit underwhelming for me, but\r\nno, wait...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Look at all this! If I hand them out filled with my love,\r\nthey might make great keepsakes for the fans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Oh, perfect timing! Hey there, young man,\r\nI'll give you a carrot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Ehhh... I don't want it...\r\nI don't even like carrots...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Bwahahaha, what are you saying? As if this were just\r\nan ordinary carrot, when my love is baked right into it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "I don't waaaant any more...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "H-Hey there, young man!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Good grief... Well, I understand how you feel.\nOnce you've tasted this, no other food will ever satisfy you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "\"Ah, I can bear it no longer! Trainer-kun,\r\nlet us partake of this ourselves.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Dancing fresh carrot sashimi, je t'aime!\r\nYou and I and the carrots will all dance together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Eating a carrot while performing a mysterious dance.\nIt tasted just like a normal carrot, but was delicious all the same.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\r\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "What's this?! Only a single carrot?!\r\nAren't you ashamed of such a pathetic showing?",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Say something, won't you!\r\nYou carrot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I take my anger out on the carrot.\r\nNot that it could ever reply.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "If that's how it is, I shall pour this sorrow into song.\r\nWith a carrot for a microphone, it's time for a recital.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "I might as well sing some down-to-earth downtown tune I'd never normally utter, and indulge in self-deprecation. Start the accompaniment!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ah, heave-ho! Ah, heave-ho!\r\nHere we, here we, here we go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Welcome to the Carrot Kingdom!\nCarrot Soldiers, un, deux, trois!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "T.M. Opera O singing half out of desperation.\r\nEven so, the kids in the shopping district seemed quite thrilled.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ooooh... The absolute lowest of all possibilities...\r\n*I* got... the consolation prize?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "To think I only got\na pack of pocket tissues...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Ah, it is not tissue. It is tis-sue,\r\ntis-sue. Pronounce it with elegance, please.",
+      "choice_data_list": [
+        "Y-Yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Trainer-kun! I bestow upon you an imperial decree!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Go trade this pocket tissue packet\r\nfor an onsen trip somewhere!",
+      "choice_data_list": [
+        "That's so unreasonable..."
+      ]
+    },
+    {
+      "name": "TM Opera O",
+      "text": "Aargh, I will hear no excuses!\r\nCrushed by tragic fate, I have become the Mad King [Raver Lord]!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TM Opera O",
+      "text": "If you fail, I shall have you\r\nimprisoned in the Conciergerie!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The cruel lottery had completely changed the King.\r\nIt looks like she won't be in a good mood for the rest of the day.",
+      "choice_data_list": []
+    }
+  ]
+}

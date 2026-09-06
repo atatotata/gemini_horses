@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Bamboo Memory",
+      "text": "Good morning!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even though it was early in the morning, Bamboo Memory's\nloud greeting could already be heard\ncoming from the gate.",
+      "choice_data_list": [
+        "You're unusually early today.",
+        "You're here unusually early today."
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Yes!\nIt's all thanks to getting plenty of rest!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Actually, I managed to wake up before my alarm today!\nI already won my first match of the morning, so I'm in top form!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Alright, starting today, I'm gonna give it everything I've got again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It looks like Bamboo Memory was able\nto get plenty of proper rest.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Oh dear, what a shame...",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Don't apologize so much. I really don't mind at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Things don't always go smoothly.\nDon't let it get to you, Trainer-kun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Things don't always go smoothly.\nDon't let it get to you, Trainer-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

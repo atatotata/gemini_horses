@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "North Flight",
+      "text": "Good morning, Trainer-san!\nFufuâª",
+      "choice_data_list": [
+        "Did something good happen?",
+        "Did something good happen?"
+      ]
+    },
+    {
+      "name": "North Flight",
+      "text": "Yes!\nActually, I found a new aroma blend at my favorite shop yesterday!",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "The scent was so wonderful that I slept like a log all night.\nThat's why my mind and body feel so light!",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "Have you been sleeping well lately, Trainer?\nIf you'd like, I can share some with you next time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Not only was I grateful for her thoughtfulness,\nher beaming smile filled me with energy.\nIt seems she got some good rest.",
+      "choice_data_list": []
+    }
+  ]
+}

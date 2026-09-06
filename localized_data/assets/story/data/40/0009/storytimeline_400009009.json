@@ -1,0 +1,394 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mecha... Expo?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "“Yes. It is an event to be held shortly.\nA tradition for roboticists, and...”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "It is a very important event.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Many researchers from all across the country gather with their prized robots. And then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Let's exchange information.\nWe should be able to get useful intel for upgrading ST-2, as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "So... that's coming out, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I want to run. By all means. But...",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Ah...... I don't have the confidence to socialize well.\nIn crowded places, I can barely even move around...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"Dressed like this, I'll just end up making the researchers who talk to me feel uncomfortable...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It was a harmless place to any other researcher,\nbut to Dr. Reitz,\nit seemed slightly intimidating.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Well then, Doctor. I shall accompany you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Hayahide...\nYou did?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yes. Let's mediate smoothly\nso they don't feel burdened with unnecessary worries.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Think of it as acting as a temporary assistant.\nAnd also helping with wheelchair transport...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Then I'm going too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Taishin?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I can help support with travel logistics.\nHayahide, you just focus on acting as the mediator.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah, yeah... That's a help, but...\nThat's rare of you, Taishin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "If anything, Narita Taishin isn't the type who\nenjoys socializing or being in bustling places.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And yet, why...\ndid they jump at the chance to play along?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I see. Thank you, both of you.\nNow then, as a small token of my appreciation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I'll prepare the outfits for the Mecha Expo. So that we can stand at the same booth together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And on the day of the Mecha Expo—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Excuse me, could you make some room, please?\nA wheelchair is trying to get through.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Professor, over here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher A",
+      "text": "\"Huh, so this is the Mecha Umamusume ST-2.\nIt's pretty legit.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher B",
+      "text": "What was the purpose of its development...? Ah, excuse me.\nPerhaps that wasn't something I should have asked.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Ah, no, um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher B",
+      "text": "Well then, please excuse me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, please feel free to ask.\nIt's not something I'm particularly trying to hide, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "The ST-2 was not designed for nursing care, but as a full-dive robot operated by the professor's consciousness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "T-That's right. It is not as if I am hiding it,\nnor do I care about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher B",
+      "text": "Is that so! Well then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "If anyone else would like to speak with Dr. Wright,\nplease go ahead. We would also love to hear\nyour thoughts on our future development...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide skillfully managed the room.\nThanks to her, Dr. Wrights was able to exchange information with many researchers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "As for Dr. Leitz... I think it's fine to leave things in Hayahide's hands for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"Then I'll go check out the venue...\nPamphlets, documents, anything that might\nbe useful for ST-2...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh, this robot... looks pretty neat.\nThey've got it playing soccer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "It's different from making someone run faster,\nbut maybe it could serve as a reference for something...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Excuse me, could I take\none of these pamphlets?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher C",
+      "text": "Ah, sorry.\nThat's actually not for handing out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah, I see...\nI'm sorry...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher C",
+      "text": "Heh... But... that's a really cool outfit you're wearing.\nIs it cosplay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No, it's not a cosplay costume...\nI had it made with proper, sturdy materials...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "It has been tailored so it can be worn in races as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher C",
+      "text": "I see...\nYou've shown me something quite splendid.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher C",
+      "text": "Very well.\nI'll give you a copy as a special treat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Are you sure?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Robotics Researcher C",
+      "text": "Yeah. It wouldn't be fair if I were the only one\ngetting to see such wonderful things.\nThank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "N-No, thank you...\nvery much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And as the event drew near its close—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Phew, I'm a bit tired, Trainer.\nLet's get some fresh air...",
+      "choice_data_list": [
+        "Yes, I think it would be best to take a rest."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh...? Professor...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"Oh, Taishin. What's up?\nTaking a break too?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Yeah. Just like you, Doctor, I'm not very good with crowds either...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I see. And yet... why did you help me today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I'd been wondering about that too. Why Narita Taishin, who's usually so blunt, had worked this hard for Dr. Reits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "It's really nothing much.\nIt's just...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I couldn't get it out of my head... those words.",
+      "choice_data_list": []
+    },
+    {
+      "name": "ST-2 (Satie)",
+      "text": "Look closely, look even closer!\nThis ST-2 can make it, it can definitely make it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "ST-2 (Satie)",
+      "text": "I'm betting everything on this machine!\nThis is... all I have left!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"There's no other way.\" Hearing those words made me feel... a little, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "People kept telling me, 'With a small body like that,\nyou'll never make it in racing.'\nEven so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I didn't give up.\nBecause running... was all I had left.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "If you throw away the one thing that matters most to you,\nyou'll have nothing left.\nI didn't want that to happen...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I just... had a momentary lapse in judgment.\n—That is all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I see, thank you...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"You were a huge help today.\nAmong all those pamphlets you gathered,\nthere was plenty of information we'd completely overlooked.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "I'll be sure to read it thoroughly\nand with great gratitude later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Mm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In her own way, Narita Taishin seemed\nto feel some sympathy for Dr. Wright.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ding-dang-dong♪)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah... It's almost time to finish up.\nTime to pack things away, I guess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "\"Yeah, I'm counting on you till the end.\nI'll head back to Hayahide, and then—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sugar Lights",
+      "text": "Once we get back to the lab, let's have a small celebration for our hard work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, our Mecha Expo booth was a huge success.\nDr. Wright and Narita Taishin seemed to understand each other on a deep, heartfelt level.",
+      "choice_data_list": []
+    }
+  ]
+}

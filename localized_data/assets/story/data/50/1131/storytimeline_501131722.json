@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking down the hallway, I ran into\nGran Alegria holding her head.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Hmm... Hmmmm...",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah... Um...\nAbout three miles? Maybe...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "My head was spinning around and around,\nand my vision was swaying back and forth... like that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "...Wait, ugh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Uuugh, wah-wah-wah~!?\nIt turned into 4 miles~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And so, Gran Alegria was troubled\nby a headache...\"",
+      "choice_data_list": []
+    }
+  ]
+}

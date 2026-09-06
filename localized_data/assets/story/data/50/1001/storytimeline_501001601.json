@@ -1,0 +1,23 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "Trainer!\r\nPlease watch my run closely today!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "\"I had such a disappointing run last time... but this time, I'll definitely blow everyone away!\"",
+      "choice_data_list": [
+        "I'm counting on you!",
+        "I'm counting on you!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Yes!\r\nI'm gonna put everything I've worked for out there!",
+      "choice_data_list": []
+    }
+  ]
+}

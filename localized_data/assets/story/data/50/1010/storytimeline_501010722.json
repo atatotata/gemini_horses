@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ouch! Ouch-ouch!\nI'm taking hits here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Taiki Shuttle is struggling...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Someone has boarded my head!\nIt must be a Japanese ninja!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Pricking, and sometimes throbbing, pain!\r\nRhythmical Kunai are coming for you, ya hear!",
+      "choice_data_list": [
+        "You mean you have a headache?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ohh, anything is fine!\r\nBegone, great Buddha, goodbye paiin!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"And so, Taiki Shuttle was troubled\r\nby a headache...\"",
+      "choice_data_list": []
+    }
+  ]
+}

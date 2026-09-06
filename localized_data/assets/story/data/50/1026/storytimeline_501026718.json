@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "Master, good morning.\r\nEnergy replenishment has been completed via time off.",
+      "choice_data_list": [
+        "Feeling refreshed?",
+        "Did you get to refresh yourself?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Affirmative. Switching to sleep mode,\r\nexecuting minimal activity such as respiration and blinking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Result: Successfully purged fatigue.\nConclusion: 'Refreshed' status achieved.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Switching to Active Mode complete.\r\nI look forward to working with you again starting today.",
+      "choice_data_list": []
+    }
+  ]
+}

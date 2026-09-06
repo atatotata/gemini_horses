@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fenomeno",
+      "text": "Ah! Ngh, ow-ow-ow...",
+      "choice_data_list": [
+        "Are you feeling unwell?",
+        "Are you feeling sick?"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes, a slight headache...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I guide pedestrians across the crosswalk in front of the station every morning, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "So many dangerous acts...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Looking at phones while walking, riding bicycles on the sidewalk...\nCars that only pause for a split second at stop signs.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I was racking my brain trying to figure out a solution, and then my head started hurting...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fenomeno's headache seemed\nto have quite deep roots.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way to the trainer's office,\r\nI bumped right into Seiun Sky—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...*yaawn*~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nnngh... I'm so sleepy...",
+      "choice_data_list": [
+        "Aren't you napping a bit too much?",
+        "Aren't you napping a bit too much?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "That's totally not it~\nLately, I've just gotten hooked on watching\nvideos of chess tournaments before bed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "I found myself thinking, \"If it were me, I'd attack like this...\" or \"Oh, that's a neat trick!\" and just got really into it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "What an incredible clash of offense and defense.\nI'd love to spar with them myself someday.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "*Yaaawn*...\nI can't right now, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Long before her dreamed-of chess match could ever happen,\nSeiun Sky was already about to lose to the sandman.",
+      "choice_data_list": []
+    }
+  ]
+}

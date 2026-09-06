@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day during a meeting.\nSeeing Lucky Lilac looking somewhat dispirited,\nI threw a joke her way to see how she was doing, and—",
+      "choice_data_list": [
+        "I spaced out for a second and there was a Buddha in my pocket!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "…………。",
+      "choice_data_list": [
+        "Forget Buddha, just leave him be! ...Just kidding, y'know?"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Hehe, how amusing.",
+      "choice_data_list": [
+        "Huh...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Unable to even crack a comeback, she just gave a feeble laugh.\nShe seems to have built up quite a bit of fatigue.\nWe might want to reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

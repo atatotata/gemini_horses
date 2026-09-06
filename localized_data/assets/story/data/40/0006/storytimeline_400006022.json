@@ -1,0 +1,171 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Following the Prix de l'Arc de Triomphe, all members of Project L'Arc returned home to Japan together.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "News Program",
+      "text": "\"And now for today's news.\nThe national soccer team, which began training recently—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later, and the talk of the town moved on.\nOur Prix de l'Arc de Triomphe had already become a thing of the past.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "I suppose the favorites for this year's Japan Cup and Arima Kinen will likely be Senior Year runners~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "More importantly, we should focus on the Mile races!\nAt the Mile Championship, I'm sure—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cutting through the various voices,\nI give instructions to <chrname>\nand begin today's training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Once she finishes warming up, I'll re-measure her times.\nIn order to review her fundamentals heading into next year...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—...?\nSomething's off about <chrname>'s running.",
+      "choice_data_list": [
+        "Your form's falling apart? No, more importantly—"
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...No...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "“You've got to be kidding...?\nDon't tell me you too...”",
+      "choice_data_list": [
+        "Ms. Satake?"
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "My apologies, Trainer <username>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Could you stop her? Right this second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I quickly halted training\nand took <chrname> to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "School Nurse",
+      "text": "From a brief examination, it doesn't look like an injury,\nbut just in case, I will write a referral to the university hospital\nso please get a detailed checkup.",
+      "choice_data_list": [
+        "...Understood."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Manhattan Cafe, and Satono Diamond too, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Damn it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Academy Chairwoman",
+      "text": "\"...Are her legs all right!?\nIt looked like in the second half of the race—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "I won't let that girl race for a while.\nRest will be our top priority.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "\"We completely overlooked it.\nThe risks of the Prix de l'Arc de Triomphe.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "Her damage is severe.\nIt's most likely caused by\nrunning in the Prix de l'Arc de Triomphe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "European racecourses are completely different from Japan's.\nWhen the environment changes, it's only natural\nfor fatigue and stress to build up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "\"...However, excessive excitement paralyzes the brain.\nIt fools you into thinking it's okay for everything to end here.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Doctor",
+      "text": "Your awareness of the pain fades away.\nTo the point where you can easily ignore your own limits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Academy Chairwoman",
+      "text": "\"...I wonder if she would've avoided that injury and slump if she'd never shared this dream with us.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Academy Chairwoman",
+      "text": "Mei. What we're lacking\nis always experience.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Academy Chairwoman",
+      "text": "Make sure... you don't make a mistake.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"...Who was it that drove them to this?\nWho was it that failed to stop them?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "A girl's life could completely change depending on the support of those around her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Who blinded their eyes with dreams?!\nWho crushed them beneath expectations?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "What was I doing...!\nI'm supposed to be the one in charge...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "You don't have the slightest right\nto rob them of their potential...!!",
+      "choice_data_list": []
+    }
+  ]
+}

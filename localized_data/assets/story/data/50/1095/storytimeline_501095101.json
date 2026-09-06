@@ -1,0 +1,387 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Believe",
+      "text": "Phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Daily necessities... I think that's everything.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "And this year is a super blowout special!\nFirst prize is a pair of tickets for a \"Luxury Bus Tour\"~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hey there, little lady!\nDone with your shopping? Got a lottery ticket?\nFeel free to come give it a spin~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ah... yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Well... it's better than taking it home and throwing it away—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Rattle-clatter-rattle! ...Clink)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oh! Congratulations, first prize!!\nYou've won the 'Luxury Bus Tour'!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Eh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "So, here you go.",
+      "choice_data_list": [
+        "No, no, no!? You're the one who won it...!",
+        "No, no, no!? You're the one who won it...!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "No. I'm not really one for traveling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Here you go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the end, I had it shoved into my hands anyway...\nAs I looked over the tour's contents, something suddenly caught my attention.",
+      "choice_data_list": [
+        "It's called the \"Good Old Historic Buildings Tour\"!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Eh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so—along with Believe,\nI was set to embark on a luxury bus tour.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"First we head to the destination via the highway,\nand after that, there's apparently a sightseeing tour.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tour Conductor",
+      "text": "Thank you for traveling all this way, everyone!\nWe'll be taking a 15-minute break here~.\nPlease relax and take your time.",
+      "choice_data_list": [
+        "Shall we go stretch our legs for a bit?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Understood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I get off the bus at a rest stop to stretch out and relax.\nWhile I'm at it, I take a peek into the souvenir shop—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thinking the break was almost over,\nas I started back toward the bus...\na heartwarming scene caught my eye.",
+      "choice_data_list": [
+        "There's a dog park over there.",
+        "There's a dog park over there, huh?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Ah... That's true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Huh? That gate...\nlooks a little rickety—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "*CRASH!*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Woof! Woof woof!\"\n\"Eek~!? Wait, wait!\nDon't go out thereーーー!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I-I'll go after them!",
+      "choice_data_list": [
+        "B-Be careful!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I warned her because of the heavy traffic nearby,\nbut it seemed my worries were unfounded.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The average running speed of a large dog is about 40 km/h.\nIn comparison, an Umamusume averages over 60 km/h.\nOn top of that, Believe is... a sprinter!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "—Hmph...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dog",
+      "text": "Woof... !?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Owner",
+      "text": "Ahhh, thank you so much...! I never expected the dog run gate to break suddenly like that... You really saved me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Owner",
+      "text": "Um, if it's all right,\nis there any way I can thank you!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No.\nI have to get back to the bus soon―",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Huh?",
+      "choice_data_list": [
+        "Hm? ...Wait, huh!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Prompted by Believe's wide-eyed reaction,\nI looked around the parking lot and gasped.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The tour bus we rode in on...\nis nowhere to be seen!!",
+      "choice_data_list": [
+        "I-I got left behind because of a roll call mistake...?!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Looks like it.\nBeing late for the meetup probably didn't help either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Owner",
+      "text": "Eh, what!? I-I'm so, so sorry!\nUm, then let me pay for the taxi fare...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Man A",
+      "text": "Hey, you guys!\n—Y'all sure are makin' a big fuss.\nDid somethin' happen?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Woman A",
+      "text": "Aw, so you got left behind!\nPoor thing~. It's fine, hop on in!\nWe've got plenty of room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Man A",
+      "text": "Hey, I'm headin' to Tokyo, see.\nSorry for surroundin' ya with nothin' but old folks.",
+      "choice_data_list": [
+        "No, not at all, I'm truly grateful...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"To think a passing tour bus would let me hop on...\nEven though I had to give up on my trip,\nit was truly a dream come true.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Woman B",
+      "text": "Aaah, Believe-chan is running in a race, huh.\nBrings back memories~ I used to go to Kokura all the time in the past too, you know~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I see.\nSo Kokura Racecourse is a nice place, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Woman B",
+      "text": "Mhm-mhm, it's a great place~! It was so much fun.\nIf you ever get the chance to go, Believe-chan,\nyou should check out all kinds of things.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Yes, I'll do that.\n...Um, by the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Is the AC too strong?\nShall I adjust the airflow so it isn't blowing right at you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Woman B",
+      "text": "Oh! Are ya sure?\nThank ya kindly~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Man B",
+      "text": "\"Believe-chan, I got chocolate, have some! I'm a sucker for sweets, ya see, so I always buy these huge bags!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Man B",
+      "text": "Umm, hold on a sec.\n...Ngh... Nnnngh...!!\nAh, darn it, my hands are shakin'â",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'll open it.\nMay I borrow it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Thank you for the chocolates.\nMay I open one of yours as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Singing... Is any song fine?\nUmm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"O'er the fields of golden blossoms,\nthe setting sun gently fades...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Woman A",
+      "text": "My, my~ What a lovely voice...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elderly Man A",
+      "text": "Mm-hmm... What a lovely voice, and what a good girl.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "\"Believe-chan is soooo great...!\"",
+      "choice_data_list": [
+        "(She became an idol just like that...!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Surrounded by thoroughly relaxed seniors, Believe's expression seemed somewhat softer too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a moment I wondered how things would turn out, but...\nsomehow, we ended up having a really nice time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, parting ways with the reluctant tour guests,\nwe returned to the academy...\nback to our usual everyday lives.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...It's certainly turned into quite an unusual New Year, hasn't it?",
+      "choice_data_list": [
+        "It was such a lively, fun day!",
+        "It was such a lively, fun day, wasn't it!",
+        "That song was amazing!",
+        "That song was really great!",
+        "Let's go touring buildings again sometime!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...It's certainly turned into quite an unusual New Year, hasn't it?",
+      "choice_data_list": [
+        "It was such a lively, fun day!",
+        "It was such a lively, fun day, wasn't it!",
+        "That song was amazing!",
+        "That song was really great!",
+        "Let's go touring buildings again sometime!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...I want them to stay well.\nFor as long... as possible.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Huh? Ah...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...Um, thank you very much.\nEven though they were mostly old songs...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(...I remember now.\nSinging with Grandma...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Come to think of it, that was my goal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...You're right.\nI missed it this time... so, another day.",
+      "choice_data_list": []
+    }
+  ]
+}

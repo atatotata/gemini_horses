@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened during an outing with Aston Machan—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Phew, it's a bit early to head home, isn't it~?\nWhat should we do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When asked what we should do, what came to mind was the \"Mascot Research\" we did at the aquarium before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Back then, I was just helping out with her research, but...\nmaybe there's something else I can do to assist...?",
+      "choice_data_list": [
+        "Let's go do some \"Mascot Research\"!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "I see, hmm. Making good use of time and full of motivation. I think that's fantastic.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Look! It's the amusement park's mascot\nand absolute monarch: Carrot Queen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Number one in both popularity and merch in the park.\nIt has undeniably great design,\nwith cute yet elegant movements...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ehehe, you're so cute, you could make\neven Chan-chan go all soft and mushy...",
+      "choice_data_list": [
+        "Charisma is important, you know!",
+        "Charisma is important, isn't it!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Oh, you have an eye for quality.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Well then, let us charge in as well.\nUnder the guise of observing, into the greeting queue...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcement",
+      "text": "\"Did everyone enjoy the story of the stars?\nLook up at the night sky and try talking\nto the stars, okay!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "This is Hoshimi-chan, the planetarium's pride and joy.\nI think her intellectual aura is quite splendid.",
+      "choice_data_list": [
+        "I'll go ask right away if we can talk!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Huh? Ah... That's true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"This zoo has a lot of mascots too, after all~. Pandas, okapis, and then...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zookeeper",
+      "text": "We're handing out numbered tickets for the petting zoo area!\nIf you'd like to enter, please line up here!",
+      "choice_data_list": [
+        "I'll go get it!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...\n..........Hrmm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I grabbed a numbered ticket and came back.\nHowever, Aston Machan was nowhere to be seen...",
+      "choice_data_list": [
+        "Where did you go?",
+        "Where did they go?"
+      ]
+    },
+    {
+      "name": "Child",
+      "text": "\"Mommy! Ehehe, look!\nThere's an Umamusume big sis mixed in with the goats!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mother",
+      "text": "Oh my, hehe.\nThey're marching right along together~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Goat",
+      "text": "\"Baaaaaaah...\nMaaaaaaah...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Turning toward the voice, I see Aston Machan\npouting among a herd of goats on a walk through the park.",
+      "choice_data_list": [
+        "Chan!?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Baaah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We took a break for now, but Aston Machan has been awfully quiet for a while. I apologized for getting separated, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "You don't need to apologize.\nMachan was the one who took action, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...More to the point, that's not what I'm talking about.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...You haven't forgotten about Machan, have you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "It's great that you're so devoted to mascot research.\nHowever, the number one mascot you need to keep your eyes on is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Could that be... Chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...I may have lost sight of what was truly important.\nIn my eagerness to help with the research, I took my eyes off Aston Machan herself.\"",
+      "choice_data_list": [
+        "I'll keep a much closer eye on you from now on!",
+        "I'll make the most of today's reflections..."
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"Of course!\nBut since you seem to remember now, I won't hold it against you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"...Setting that aside.\nThose grilled carrots over there look delicious.\"",
+      "choice_data_list": [
+        "I'll go buy it!"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Welcome back.\nNow then, please take a cute photo\nof this carrot and Curren-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "...Make sure you capture me properly\nin the lens, okay? ♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Aston Machan smiled brightly, carrot in hand.\nThat sight was firmly etched into my own lens as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hmm, that's an admirable attitude.\nStill, getting too down on yourself isn't good either...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"...Machan was in the wrong too.\nSo, shall we have a reflection meeting?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Let's eat something delicious and have a post-match review...\nOr rather, a strategy meeting!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, the two of us chatted at a cafe about future plans.\nThe awkwardness gradually faded, and we had a fulfilling time.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "...Phew.",
+      "choice_data_list": [
+        "Are you nervous?",
+        "Nervous?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Yes, a little... No, I can't lie.\r\nIt's actually quite a lot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Still... yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "...I'll give it everything, all that I am right now!",
+      "choice_data_list": []
+    }
+  ]
+}

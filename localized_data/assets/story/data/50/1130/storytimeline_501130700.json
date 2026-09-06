@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Lucky Lilac",
+      "text": "*Yawn*...",
+      "choice_data_list": [
+        "You look sleepy."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Ah. No, forgive me.\nI'm just a little short on sleep.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Still... I'll be fine.\nI'll be sure to reset my mindset...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "…………。",
+      "choice_data_list": [
+        "...The pipe went *kaboom*."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...Huh? ...Ah, sorry.\nWhat did you just say?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She even missed a word she would normally catch.\nLucky Lilac doesn't seem to be getting much rest...",
+      "choice_data_list": []
+    }
+  ]
+}

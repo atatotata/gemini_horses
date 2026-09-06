@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Fusaichi Pandora...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ah—! There are new \"Paka Puchi\" plushies in stock~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Fusaichi Pandora was pointing,\nthere was a claw machine filled with plushies\ndesigned after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Mmm, they're all so cute~♡\nIt totally makes you wanna collect them all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hey, Trainer♡",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah, that's true."
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "......Hey, hurry up and take it!",
+      "choice_data_list": [
+        "Huh, me!?",
+        "Wait, me?!"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "If you win it for me, I might be suuuper motivated\nfor tomorrow's training~â¡",
+      "choice_data_list": [
+        "I hope you can stay motivated even if you don't get it..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

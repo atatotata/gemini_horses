@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Epiphaneia got injured during training,\nso I brought her to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Good grief, you're making such a fuss, Trainer.\nIt's just a little pain.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Come on, it really was just a minor injury!",
+      "choice_data_list": [
+        "Because stopping you there is my job."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Hmm? I'm totally fine, though.\nBeing a Trainer sure sounds tough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Well, whatever! I know what condition I'm in, so let's get back to training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"My body's finally warmed up nicely.\nIt'd be a waste to stop here!\"",
+      "choice_data_list": [
+        "No. You're resting today.",
+        "No. You're taking today off.",
+        "If you say so..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"My body's finally warmed up nicely.\nIt'd be a waste to stop here!\"",
+      "choice_data_list": [
+        "No. You're resting today.",
+        "No. You're taking today off.",
+        "If you say so..."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Why are you stopping me, Trainer?! I'm totally fine with this much!",
+      "choice_data_list": [
+        "It's to keep the injury from getting worse.",
+        "It's to keep the injury from getting worse, okay?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Worsen... it could worsen, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "True, not being able to run because of that\nmight be boring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Alright, let's rest! Even the 'voice of destiny'\nis telling me that's the right move!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Then we've gotta decide how to spend our break right away! A café, shopping—well, once we head outside, we'll know where to go!",
+      "choice_data_list": [
+        "Hold on a second!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I ended up double-checking what rest truly entailed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ooh, as expected, Trainer!\nYou really get me!",
+      "choice_data_list": [
+        "But I'll stop if it gets dangerous."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Yeah, that works!\nThough you definitely won't need to worry!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "*Haa, fuu*...",
+      "choice_data_list": [
+        "...How does it feel running at an easy pace?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Yeah. This won't do at all! You should get some rest!",
+      "choice_data_list": [
+        "D-Does it hurt!?",
+        "I-Is it painful!?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "No. But I realized going any further wouldn't be good.\nI wouldn't have known if I hadn't run,\nso I'm glad I tried it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To prevent the injury from worsening any further, we decided to have her rest for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "WOOOOOO!\nWe can do it, we're gonna make it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Haa, haa... phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "How's that, Trainer? Even running at full power, it doesn't hurt at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "The 'Voice of Destiny' was right after all!",
+      "choice_data_list": [
+        "Yeah, but just to be safe, let's take it easy from here on out.",
+        "Yeah, but just to be safe, let's take it easy after this."
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "You worry too much, Trainer.\nWell, I feel refreshed after running with all my might,\nso that's fine by me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Epiphaneia continued training without pushing herself too hard.",
+      "choice_data_list": []
+    }
+  ]
+}

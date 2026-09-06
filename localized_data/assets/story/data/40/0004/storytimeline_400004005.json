@@ -1,0 +1,129 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Campus Broadcast",
+      "text": "\"—Trainer <username>,\nplease report to the Chairwoman's Office immediately.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Summoned by an alarming broadcast,\r\nI hurried over to the Chairwoman's office.\"",
+      "choice_data_list": [
+        "This is <username>."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed, come in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Please, have a seat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "……。",
+      "choice_data_list": [
+        "U-Um...?"
+      ]
+    },
+    {
+      "name": "Tazuna & Chairwoman",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An eerie silence...! The stillness continued for several minutes afterwards—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...I'm starting to get uneasy.\r\nCould it be that something terrible\nhas happened?\"",
+      "choice_data_list": [
+        "Um! What in the world is going on...?!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Appreciation!!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Today, I asked you out here\r\nso I could express my gratitude to you, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Oh, right! The trainee you're in charge of,\r\n<chrname>, isâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "She ran through the crucial third year\r\nof the Twinkle Series with a magnificent brilliance!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"The path she carves will without a doubt become a shining beacon not just for her peers, but for future generations of Umamusume too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Therefore... You have my huuuuuge gratitude!!\r\nSplendidly done, Trainer!",
+      "choice_data_list": [
+        "Ah, thank you very much!"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed! And... EXPECTATION!!\r\nI eagerly await your unprecedented, legendary triumphs\nfrom here on out!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"From me as well... truly, thank you for all your hard work as always.\r\nIf there's anything I can help with,\nplease feel free to ask me anytime.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems I've received some words of praise!\r\nI'm grateful, but...\nthere was one thing that caught my attention.",
+      "choice_data_list": [
+        "What was that silence all about?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Of course!! A surprise!!",
+      "choice_data_list": [
+        "A-A surprise..."
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Indeed! I just felt like... that would build up\r\nmore excitement!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I-I'm sorry.\r\nI did try to stop them, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I do feel like retorting,\r\nbut I'm honestly glad to be praised.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later, I told <chrname> about this,\r\nand the two of us shared the joy together!",
+      "choice_data_list": []
+    }
+  ]
+}

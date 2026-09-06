@@ -1,0 +1,546 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, after buying daily necessities\nat the shopping district, I was heading back—",
+      "choice_data_list": [
+        "Ruby?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Trainer.",
+      "choice_data_list": [
+        "Why are you here?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby at the shopping district... When I asked about such a rare sight,\nshe turned her gaze toward the auto repair shop just down the street—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "On our way back, my butler noticed an issue with the driving performance.\nA contracted garage happened to be nearby, so it is currently undergoing inspection.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"Since they said it would take a while, I was about to head home first,\njust as you approached from the opposite direction.\"",
+      "choice_data_list": [
+        "...Were you waiting for me?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "We share the same destination, and we have matters to discuss.\nTherefore, I determined that utilizing our travel time would be the most efficient course of action.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Well then, let us be on our way.",
+      "choice_data_list": [
+        "S-Sorry! Can you wait just a little bit?"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...The lottery.",
+      "choice_data_list": [
+        "I really wanted to do that before going home..."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"I don't mind.\nIt shouldn't take very long anyway.\"",
+      "choice_data_list": [
+        "Want to give it a try too, Ruby?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I must decline.",
+      "choice_data_list": [
+        "Right on!",
+        "Right?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "With Daiichi Ruby watching over me,\nI spun the raffle wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Congratulations.",
+      "choice_data_list": [
+        "Thank you...!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oho, look at you all thrilled! Makes me happy to see!\nDo you love hot springs that much?",
+      "choice_data_list": [
+        "I thought it would be good for a refresh."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oho, you look quite exhausted... Wait,\nthat badge means you're a Trainer!\nAnd the young lady is a Tracen student...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hahaha? Little lady,\nyou're pretty harsh on this guy, aren't you?\nYou shouldn't be like that, gotta show him some love.",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Thank you for your valuable feedback—",
+      "choice_data_list": [
+        "She's such a kind girl, you know"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Huh?",
+      "choice_data_list": [
+        "She's a very kind girl."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Y-Yeah... I see.\nSorry for meddling!\nHave fun on your trip!",
+      "choice_data_list": [
+        "Yes, thank you so much!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "—I believe describing it as \"kind\" would be inaccurate.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I'm referring to the assessment of me that you gave\nto the shopping district folks earlier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Allow me to state beforehand that, in the first place,\nthere was no need for you to be considerate toward me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Even so, even if you were shielding them,\nwasn't the word 'kind' a bit unfitting?",
+      "choice_data_list": [
+        "True, to be more precise...",
+        "Yeah, to put it correctly..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Kind\" was merely echoing what was said to him.\nWhat it really meant was that Daiichi Ruby had been treating him with more than enough care—",
+      "choice_data_list": [
+        "I guess that means showing some respect."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"...Once the dates for the trip are decided,\nplease let me know.\"",
+      "choice_data_list": [
+        "No, I'm going to save it for later!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I am in no position to be carefree on a trip right now.\nUntil I grow, get results, and feel satisfied with myself,\nI cannot accept any rewards.",
+      "choice_data_list": [
+        "I'll do my best until I can be just like Ruby!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"...There is absolutely no need\nfor you to become like me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "However... I think it is wonderful to keep striving\nuntil the day comes where you can be satisfied with yourself.",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, until the day comes when we can relax\nand soak in the hot springs at our leisure...\nthe trip voucher was tucked away safely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"This Salisbury steak is suuuper tasty!\nAnd really filling, too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Wouldn't it be just the right amount\nif you shared it with the young lady with you?",
+      "choice_data_list": [
+        "...Ruby."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Please, Trainer,\neat all of it.",
+      "choice_data_list": [
+        "Right on!",
+        "Right?!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "...Mm, Ruby...? Wait, young lady,\nare you from the 'Illustrious Lineage'...!?",
+      "choice_data_list": [
+        "Yes, she is Daiichi Ruby."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "“...T-Then, look! Wouldn't you\nplease try this hamburger steak... after all?!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Would you be willing to tell me the reason?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "A young lady like you must have a refined palate.\nI'd love your stamp of approval!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Packed with the pride of the shopping district, the \"Special Carrot Hamburg Steak\"—\nIt's guaranteed to win over anyone's stomach!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": [
+        "...Ruby, what do you want to do?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"...If all you require is for me to have some\nand share my impressions... then by all means.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "! Yes, that works for me!\nThank you so much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Returning to the academy, I eat the cooked\nhamburger steak together with Daiichi Ruby...",
+      "choice_data_list": [
+        "(It's so delicious! ...Except—)"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby's expression remained unchanged.\nMy heart pounded as I watched to see what she thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "H-How did it go...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": [
+        "(Gulp...)"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Thank you for the meal.\n—It was exquisitely delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "!!!!\nALRIIIIIGHT--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems the folks from the shopping district had been watching anxiously with bated breath...\nas sudden cheers and applause broke out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oh, you won something great!\nOur carrots are super delicious~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "You're a Tracen Academy girl, so you\nmust love carrots too, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "It contains a lot of nutrients,\nso I make a conscious effort to consume it actively.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "...Um, does that mean you like it?",
+      "choice_data_list": [
+        "It means you're needed."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I see, I see!\nWell then, dig in and enjoy every last bite!",
+      "choice_data_list": [
+        "Even so, this amount..."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"...If you are at a loss as to what to do with it,\nI do have an idea.\"",
+      "choice_data_list": [
+        "I'd like to leave it to you."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Understood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Please arrange for these carrots to be delivered\nto the Tracen Academy cafeteria.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Could I borrow a pen and paper as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Ah, look! It says all-you-can-eat carrot salad\nagain today! I'm so happy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Rumor has it, a note in wonderfully elegant handwriting was delivered to the cafeteria saying 'A donation.'\nIt must be from a wonderful gentleman!",
+      "choice_data_list": [
+        "Old man..."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...I shall take my lunch as well,\nso please excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Sorry there's only one skewer. Make sure you enjoy it, alright!",
+      "choice_data_list": [
+        "By the way, what about Ruby..."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Thank you for your concern.\nPlease go ahead and enjoy it yourself, Trainer.",
+      "choice_data_list": [
+        "I wonder if it turned out tasty..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I know my own cooking skills.\nEven if I tried cooking for myself,\nit wouldn't turn out impressively delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Cooking carrots in oil enhances the absorption rate of beta-carotene.",
+      "choice_data_list": [
+        "Huh~..."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "You must be done with your business now.\nLet us return to the academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Back in the room, I cooked the carrots in oil just as Daiichi Ruby instructed.\nTaking a bite, a gentle sweetness spread across my tongue.",
+      "choice_data_list": [
+        "(I'm not particularly moved, but still...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to Daiichi Ruby's advice,\nthe nutritional value should be a bit higher.\nI felt like... I somehow got a little more energized.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "A participation prize...",
+      "choice_data_list": [
+        "Too bad..."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Now, now, these things happen!\nI'll be waiting for your next challenge!",
+      "choice_data_list": [
+        "I know, let's go shopping again...!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Pardon me, but please refrain from making an unsightly scene.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "The result is what it is.\nIt would be best to simply accept it gracefully.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "If there is something you desire that badly,\ndo not leave it to luck—seize it with your own abilities.",
+      "choice_data_list": [
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Sorry about this from me too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...No.",
+      "choice_data_list": []
+    }
+  ]
+}

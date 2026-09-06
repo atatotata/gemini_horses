@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Good morning, Trainer-san.\nThe refreshing morning breeze feels wonderful today.",
+      "choice_data_list": [
+        "Looks like you got some proper rest.",
+        "Looks like you got some proper rest."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes. Yesterday I went hiking in the mountains from morning,\nand was able to listen closely to the voice of nature.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "The rustling sound of tree leaves,\nthe melodious songs of little birds,\na breeze sweeping through carrying the scent of the earth—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "If I could, I found myself wishing\nI could stay in the mountains forever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While thinking that wouldn't do, I felt relieved seeing that Yamanin Zephyr seemed to have gotten a proper rest.",
+      "choice_data_list": []
+    }
+  ]
+}

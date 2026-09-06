@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "During training with Air Groove, she was constantly dozing off...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Sorry.\r\nCould you go over that explanation one more time?",
+      "choice_data_list": [
+        "Are you okay? You don't look so good.",
+        "Are you okay? You don't look so good."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"...I haven't been able to sleep lately.\r\nThe student council work has been piling up, you see.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "If I start tinkering with it before bed,\r\nbefore I know it, morning has come...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Regardless, it is something I must do myself.\r\nYou need not concern yourself with it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though Air Groove acts tough, she still\nseems unwell. I should keep a close eye on her.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day around noon, when I visited the\nExpedition Support Committee—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—...Thank you for the meal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Thank you for the meal.\n...How was it, Orfe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The flavor of the alfonsino comes through beautifully.\nIt was truly delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I see! Then we shall continue sourcing from this vendor.",
+      "choice_data_list": [
+        "What are you eating?",
+        "What are you eating?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Oh, Trainer-san.\nWould you like some as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ochazuke.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Apparently, the two of them absolutely love ochazuke, and often go out to eat it or experiment with tasty new ways to prepare it.",
+      "choice_data_list": [
+        "You really love ochazuke that much, huh?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes. My father was quite fond of it too,\nso I have eaten it often ever since childhood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"It's easy to prepare, yet the combinations are endless.\nWhich rice, which tea, which broth to choose...\nThe deeper your dedication, the richer the world becomes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Above all... that gentle flavor is truly one of a kind. Right, Or?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed. Separating the rice from the broth and savoring them alternately is quite pleasant in its own right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Get the broth ready first, maaann! Soaking it till it's dripping wet is the best way to eat it!",
+      "choice_data_list": [
+        "So you like ochazuke too, huh.",
+        "So you like ochazuke too, huh?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "You bet!\nI'm always throwin' down with these guys over tea, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes. Golshi-san's fresh ideas are always quite entertaining.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Wait, this is no time to be shooting the breeze!\nJourney, we're in serious trouble!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"GOG\" is ruined!\nIt's the end of the wooorld!",
+      "choice_data_list": [
+        "『GOG』……？"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Where Gold Ship took me was a mountain of bowls... and every single one was filled with what looked like ochazuke.",
+      "choice_data_list": [
+        "What the heck is this!? What's going on!?",
+        "What is this!? What's going on!?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Russian... ochazuke... Ha... of all people, for me to... How pathetic.",
+      "choice_data_list": [
+        "Russian roulette ochazuke...?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Since she said she wasn't interested in chazuke,\nI put a winning bowl in one out of every thousand.\nâSuper-spicy, super-bitter, super-wasabi chazuke!",
+      "choice_data_list": [
+        "Don't tell me..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"A thrilling gamble like this... There's no way I'd pass it up.\nOf course... I managed to hit the jackpot on the first try—\"",
+      "choice_data_list": [
+        "Ah..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"The rice keeps soaking up the broth and swelling up bigger and bigger!\nNo matter how much I eat, I can't keep up...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Even as we speak... Ahh!\nOur fun \"Gold Ochazuke Gig\"\nhas turned into a demonic festival!",
+      "choice_data_list": [
+        "\"GOG\" means that...?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I was looking forward to the Ochazuke Festival...\nWhat a shame.\nSo, you came to ask for my help with that?",
+      "choice_data_list": [
+        "Huh, speaking of which, where is Orfevre?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I asked to stay behind.\nI wanted Orfevre to savor the aftertaste of the meal, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Hey, please, Journey!\nOur blessed Godmother!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dream Journey is already eating ochazuke.\nI thought she would refuse, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Understood.\nI'll lend a hand.",
+      "choice_data_list": [
+        "Wait, is this edible...?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I don't know. However, someone with whom I shared a pot of rice...\nor rather, ochazuke, is in trouble.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "There's no way\nI can just leave them without helping.",
+      "choice_data_list": [
+        "Alright, let's try them all on!",
+        "Let's get Orfevre to help too",
+        "Let's run around and ask for cooperation."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "WOOOH!!\nThat's our Journey, get 'em!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Receiving such encouragement, how could I not give it my all?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—...Thank you for the food.",
+      "choice_data_list": [
+        "A-Amazing... You finished the whole thing...!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Well, since it is a request from Golshi-san...\n...Please, next time, do consult with me beforehand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...From a quick glance,\nthe balance between the rice and the broth is completely ruined.\nI wonder if this will suit Orfevre's palate.\"",
+      "choice_data_list": [
+        "She loves ochazuke, so maybe she'll like it."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Shall I try calling out to them?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――...The flavor has completely faded.\nStill, not bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"So you can enjoy things like this too. Truly impressive, Orfevre. Good boy...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "You're right...\nIt really is a race against time, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Let's hurry and search for it\nso Rice doesn't swell up any further.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Yay~, so much ochazuke♪\nDown the hatch~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...The right person for the right job, I suppose.\nThis looks like it'll be settled in no time.",
+      "choice_data_list": []
+    }
+  ]
+}

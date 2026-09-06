@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day after Vivlos took a day off,\nthe two of us were having a meeting, when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Fnyaaah~~... I'm so sleepy...",
+      "choice_data_list": [
+        "Can't sleep?",
+        "Haven't been able to sleep?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ughhh... I was helping a friend with fashion advice\nuntil late last night~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "...I hope my advice helped boost their confidence a bit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "And so~ since I'm pretty tired~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trainie, can I have a lap pillow, pleeease?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I politely declined while expressing concern over their lack of sleep.",
+      "choice_data_list": []
+    }
+  ]
+}

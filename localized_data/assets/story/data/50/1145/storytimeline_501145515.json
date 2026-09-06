@@ -1,0 +1,285 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While facing off against Rulership in a new board game\nat her stronghold—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Hey, is Ruler around?\nI need to talk with her for a bit.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ugh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I just heard an \"Ack!\" from in there.\nYou're home, right? Pretending you're not won't work on me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hey, hold on.\nIsn't it common courtesy to get the owner's permission before entering a room?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...You're a chronic slacker. You're the last person\nI want a lecture on manners from.",
+      "choice_data_list": [
+        "...Um, you're...",
+        "...Um, you are..."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "......Mejiro Dober.\nI'm sorry for causing such a fuss.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Mejiro Dober.\nSorry to drop in on you out of nowhere.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Isn't that way different from how you treat me...?\n...Whatever. So, what do you need?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"What's it about,\" you ask...?\nYou ditched the match race that Air Groove-senpai\nset up for you again, didn't you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Oh, that matter? I properly contacted\nAir Groove-san to cancel, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "You only contacted me the night before!\nEven though you went through all the trouble of preparing for it, Senior.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"So that's why you went out of your way to come nag me on behalf of your beloved senpai, huh... How admirable.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Even Air Groove-san gave her approval this time, you know? Though she did tell me there won't be a next time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Stop taking advantage of Senpai's generosity...!\nIf you keep causing trouble, I won't forgive you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Oh, how terrifying.\nYou say you won't forgive me, little miss, but do you have a plan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I've only been bringing you these handouts because our desks are next to each other, but I'm going to stop now. Besides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Whenever you skip homeroom at the end of the day\nor rush off early, I'm gonna tattle to Air Groove-senpai every single time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Haaah!? Whoa, that card is totally banned!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...There'd be no need for that\nif you just led a proper life, you know?",
+      "choice_data_list": [
+        "(It doesn't seem like they're on bad terms, but...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I watched the two interact,\nthinking what a truly curious relationship they had.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Haa, hah....\nKh...! Not yet――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Yo, putting in some dead-serious running today, huh?\nStill, aren't you running yourself a bit too ragged?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ngh, ...I don't have time to act calm.\nJust leave me alone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Because next time, I absolutely cannot afford to lose.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ah, come to think of it, you have a mock race coming up.\nYou want to avenge your previous loss, is that it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...After Air Groove-senpai went out of her way\nto coach me, how could I put on such a pathetic display?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "If you understand, then stay out of my way.\nRight now, every single second counts.\nIn order to... win at all costs...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"...All the more reason to stop.\nIf you narrow your vision, you'll never see the path to victory.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Racing isn't just about charging straight ahead.\nIf you want to win, you've got to have tricky tactics in your hand, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—I can deal you the best hand possible.\nWell? ...Are you in?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ruler...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "――I'm in.\nIf it's to win... I'll do whatever it takes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(\"Take a bird's-eye view. Look at the whole battle, not just what's in front of you. Even view yourself as just another piece on the board—\")",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Whoa! An unexpected surge here from Mejiro Dober!\nSo fast, so fast! She's closing the gap in an instant!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentating Umamusume",
+      "text": "She pushed too far forward early on and seemed to run\ntoo eagerly, but... was that impatience all an act?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Haaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Ruler.\nI won the practice race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Yeah, I was watching. The strategy I gave you worked like a charm, didn't it? Just like I said.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yeah...\nUm, th-thank—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Then in exchange, can I assume you'll turn a blind eye to any minor issues down the road?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No. That's one thing, this is another!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Just when I was starting to think better of you... Can't you do something about that lack of seriousness?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "No, no, if I turned into some straight-laced goody two-shoes, I'd totally lose my identity.\nRight, Trainer?",
+      "choice_data_list": [
+        "Well, fair enough.",
+        "Well, that's true, yeah.",
+        "Still, it might be better to be a little more proper."
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "No, no, if I turned into some straight-laced goody two-shoes, I'd totally lose my identity.\nRight, Trainer?",
+      "choice_data_list": [
+        "Well, fair enough.",
+        "Well, that's true, yeah.",
+        "Still, it might be better to be a little more proper."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Knowing the importance of tactics and with plenty of match experience,\nthere's a path to victory only she can see.",
+      "choice_data_list": [
+        "And I've seen situations like that plenty of times before."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Even so, I want her to pull herself together\nso she doesn't trouble Air Groove-senpai or anyone else...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Haha— If you want me to obey, you can just beat me at chess. How about it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Geez! You know I'm bad at chess!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "What's that...!\nTrainer, are you on the opposing team's side?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Good.\nIt seems my Trainer has some common sense after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Um... please take care of Ruler.\nMake sure she doesn't cause trouble for anyone...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I look forward to continuing to work with you.\nAs fellow supporters of the Ruler,\nlet's keep a sharp eye out together.",
+      "choice_data_list": []
+    }
+  ]
+}

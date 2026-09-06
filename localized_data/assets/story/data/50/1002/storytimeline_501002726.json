@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Silence Suzuka—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, could that be...?",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "About that plushie...\nSpe-chan was telling me about it the other day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Silence Suzuka pointed,\nI saw a claw machine filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Apparently, it's really popular these days.\nShe said her friend had one...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I wonder if Spe-chan would be happy if I gave this to her...",
+      "choice_data_list": [
+        "Shall I go get it for you?",
+        "Shall I go grab it?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Huh? But...",
+      "choice_data_list": [
+        "Don't worry, leave it to me.",
+        "It's okay, leave it to me"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Really? In that case...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Trainer, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

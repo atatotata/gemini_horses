@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "North Flight",
+      "text": "\"‘Every day is so fulfilling!\nTrainer's instructions are so thorough and easy\nto understand, so training is—’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "“—Huh, Trainer...? Wait, GAAH!?\nTraining time is already past...!?”",
+      "choice_data_list": [
+        "\"Are you okay? Did something happen?\""
+      ]
+    },
+    {
+      "name": "North Flight",
+      "text": "N-No! I'm sorry!\nI was writing a letter to my big sister\nand got totally absorbed in it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "I am truly sorry!\nI'll be right there! Right away!\nTo apologize in person...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "North Flight seems deeply remorseful.\nI tell her to calm down and caution her\nto be more careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

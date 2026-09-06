@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "……♪",
+      "choice_data_list": [
+        "Looks like you got plenty of rest!",
+        "Looks like you got a good rest!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Whoa, it's you.\r\n...Well, yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I casually dropped by a park yesterday,\r\nand there was nobody around at all.\nWhew, had myself a great nap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Even if your suffocatingly intense face is the first thing I see in the morning,\r\nwell, I'll let it slide today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Narita Taishin seems to be feeling much better!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I asked Duramente if she was able to spend her day off relaxing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I got a message from my older sisters and gave them an update on how I've been doing.",
+      "choice_data_list": [
+        "What did you talk about with your big sister?",
+        "What did you talk about with your big sister?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "It was mainly about racing.\nMy sister asked me questions quite often.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Are your uphill times improving? What's your current muscle mass?\nBe careful not to overtrain.\n...Just our usual conversation like always.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Having a long chat with my sisters\nwas a great way to refresh myself.",
+      "choice_data_list": []
+    }
+  ]
+}

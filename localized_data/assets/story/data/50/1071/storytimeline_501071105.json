@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Greeting the Senior Year summer training camp under the blazing sun! As for Mejiro Ardan—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "\"—During this summer training camp, I'd like to\nsurpass my limits at least a thousand times.\"",
+      "choice_data_list": [
+        "1,000 times?!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Fufu, I'm only joking♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "\"However, it is true that\nI wish to push past my limits.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "\"It is an ideal opportunity to train rigorously\nin preparation for the Mainichi Okan.\"",
+      "choice_data_list": [
+        "Let's get fired up!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—The hot and passionate summer training camp begins once again!!",
+      "choice_data_list": []
+    }
+  ]
+}

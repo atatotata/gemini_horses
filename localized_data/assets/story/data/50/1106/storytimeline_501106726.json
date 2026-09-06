@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\nwith Hishi Miracle...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ah! There are Paka Petit figures!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Hishi Miracle pointed,\nI saw a crane game filled with plushies\nthemed after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "It's so round and cute, isn't it~?\nIt's really popular in my class, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "“These are really tough, though.\nI've tried so many times,\nand I haven't gotten a single one...”",
+      "choice_data_list": [
+        "Here, let me get it for you.",
+        "Then I'll get it for you."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Huh, are you sure?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Thank you very much!\nI'll be cheering you on with all my might~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

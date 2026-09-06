@@ -1,0 +1,76 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Epiphaneia—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Aaah! That's it!",
+      "choice_data_list": [
+        "W-what's wrong all of a sudden...?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Look, Trainer. That's exactly what I've been searching for!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Epiphaneia pointed,\nthere was a crane game filled with plushies\nin the likeness of Umamusume.",
+      "choice_data_list": [
+        "Did you want a Paka Petit?",
+        "Did you want a Paka Petit?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "It's not so much about the Paka Petit itself;\nI just wanted something that fits my room's decor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "And that was those Paka Petit figures!\nThe moment I laid eyes on them, a spark hit me—this is it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Yeah, every single one is great.\nThere's no way I can choose!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Alright, I'm bringing everyone home!\nEven if it takes every last bit of my allowance!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looks like the momentum really caught fire. At this rate, it doesn't look like she'll settle down until her money or Paka Pouch runs completely dry.",
+      "choice_data_list": [
+        "...Would you let me take this one?",
+        "...Could you let me take this one?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Hm, however—",
+      "choice_data_list": [
+        "I want you to trust me.",
+        "I want you to believe in me"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Haha, how reassuring!\nAlright, let's see what you can do!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

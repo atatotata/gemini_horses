@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "King Halo",
+      "text": "W-What did you say...?!",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeez, you clumsy fool!\r\nApologizing isn't going to fix anything!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Make sure you put the experience you gained from working hard for King to good use in the future. Understood?",
+      "choice_data_list": [
+        "...Yeah, you're right.",
+        "...Yeah, that's true."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph, don't think something like this will get me down.\r\nResetting my mindset is first-rate too...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dream Journey",
+      "text": "...Phew.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the middle of our discussion about future plans,\nDream Journey let out a sigh.\nShe looked somewhat languid.",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Ah, excuse me. I'm quite alright.\nI was just thinking about what I should do\nto bring your plan to fruition...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I will do my very best, more than ever before,\nto live up to your expectations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I might be pushing Dream Journey too hard.\nI should probably review her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day of the Osaka Hai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Winning Ticket and Narita Taishin are running too?!\nThis is gonna be a great race!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "The battle between BNW at the Kikuka Sho\nwas super intense too, wasn't it?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the stands, many voices rose in anticipation\nof the showdown between Winning Ticket and Narita Taishin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "So many fans called out to me on my way here today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That just means everyone has high hopes for it, right?!\r\nFor a fiery run... for the best race ever!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Haaah~... Can I really live up to their expectations?\r\nI'm so nervous my whole body is starting to itch...!",
+      "choice_data_list": [
+        "Go out there and bring back the best result!",
+        "Go out there and deliver the best result!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Alright, I'm gonna do my best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "\"I did my best with training,\r\nso all that's left is pure fighting spirit! Uwoooogh!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Alright, I'm heading out!!\r\nTrainer!!",
+      "choice_data_list": []
+    }
+  ]
+}

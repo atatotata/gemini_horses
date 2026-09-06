@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Zenno Rob Roy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Was that... \"Paka Petit\"?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Zenno Rob Roy was pointing,\nthere was a claw machine filled with plushies styled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"...If I could display this on my bookshelf, it feels like it would brighten up the whole room...\"",
+      "choice_data_list": [
+        "Shall I go get it for you?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Wait, no... I'd feel bad accepting that...!",
+      "choice_data_list": [
+        "Don't worry, leave it to me!",
+        "Don't worry, leave it to me!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A-Are you really sure about this...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Well then... um, please do your best!\nI'm cheering for you, Trainer...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

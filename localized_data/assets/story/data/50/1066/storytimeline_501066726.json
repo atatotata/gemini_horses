@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Twin Turbo—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ah—! So many plushies~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following Twin Turbo's gaze, I saw a crane game\nfilled with plushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "\"—I just had a great idea!\nI'm gonna make a video with this plushie!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "All right! I'm gonna get it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "—Aah!! Dropped it again~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Gaaah!! Why can't I get it?!",
+      "choice_data_list": [
+        "I'll give it a shot, too...!",
+        "I'll give it a shot, too...!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Mmh!?\nThen you'll have to take on Turbo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

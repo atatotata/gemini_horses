@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "Good day, Trainer!\nIt's a lovely morning♪",
+      "choice_data_list": [
+        "Looks like you got some good rest.",
+        "Looks like you got some good rest, huh?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I had a great dream today too!\nI had a parade together with all the fairies!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "There's a banshee, a dullahan,\nand a púca!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I looked up the fairies she mentioned on my smartphone... Is it just my imagination, or do they all look sinister?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu.\r\nI wonder if it'll come out again~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Although there were a few minor points of concern,\r\nFine Motion seems to have gotten plenty of rest.\"",
+      "choice_data_list": []
+    }
+  ]
+}

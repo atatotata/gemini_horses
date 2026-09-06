@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In the morning, on my way to the Trainer's Room,\nI spotted Daiwa Scarlet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh... Since it's relative frequency... I calculate the total\r\nfrequency... and then... um... *sigh*",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah...!!\r\nG-Good morn—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Wait, oh... it's just you.\r\nI'm studying, obviously... The exams are coming up soon...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Haaah... An honor student is expected to get a perfect score... right?\nThere's no time... to sleep... at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems she hasn't been getting much sleep.\r\nWe'll need to keep a close eye on her physical condition.",
+      "choice_data_list": []
+    }
+  ]
+}

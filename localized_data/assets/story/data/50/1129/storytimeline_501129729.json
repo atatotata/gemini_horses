@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Almond Eye",
+      "text": "\"H-Hold on, Trainer...\nYou really should stop—\"",
+      "choice_data_list": [
+        "Ughhh... No, one more time!"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...I see. I get it now.\nSo that's how you felt earlier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Let's not do this after all, Trainer.\n—I finally understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"Sore losers like us need to know when to walk away from this game!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Let's head home...\n...before my wallet suffers irreversible damage!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

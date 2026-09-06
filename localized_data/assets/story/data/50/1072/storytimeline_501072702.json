@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While out on an outing with Yaeno Muteki,\r\nwe ran into Bamboo Memory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"Ah, Bamboo-san.\nAre you heading out somewhere?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "\"The museum! My mom told me to go check it out,\nand apparently they're holding this super rare\nspecial exhibition!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "What was it again... apparently they're exhibiting diaries and essays—or whatever they're called—from various eras, sir.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ho... Perhaps there might even be diaries of renowned martial artists.\nFascinating indeed...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I ended up accompanying Bamboo Memory\nto the museum she was heading to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "\"—Man, the vibes were great, y'know!\nAll the handwriting was all squiggly though,\nso I couldn't really understand what it said!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "…………。",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...There was an exhibit that caught my eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Come to think of it, you were looking really closely at someone's diary, right?\nAccording to the explanation next to it, it was about...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—\"All of the martial arts felt utterly empty.\"\nYears of endless battles... \"emptiness\" born from reaching the pinnacle of the way. That heartfelt sentiment was vividly recorded.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I... know of someone.\nSomeone who has reached that very same realm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"She was an Umamusume and my senior disciple.\nOne of the foremost talents among the master's pupils,\nshe was a master pugilist licensed in the full traditions at a young age.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "A bold yet kind-hearted figure, and above all, devoted\nwholeheartedly to mastering the martial arts. Many disciples,\nmyself included, deeply admired that about them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "My senior disciple changed after...\nshe took part in a tournament called the\n'Heaven and Earth Strongest Tournament.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Senior Disciple",
+      "text": "—In that final, I threw \"everything\" I had at her.\nEverything nurtured at the Yaegaki, against someone who fought her way up after beating the world's strongest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Senior Disciple",
+      "text": "I had a truly wonderful time. In the prime of my physical strength, I got to have the best battle with the best opponent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Senior Disciple",
+      "text": "...Makes sense, I guess. That everything felt so empty\nafter that, no matter what I did.\nIn my life... there's nothing 'beyond that' anymore.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—After that, they fled the Kongo Yaegaki style.\nTo this day, their whereabouts remain unknown.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...The path of self-improvement is supposed to be endless.\nYet... what if, like my senior apprentice,\nI were to see the \"end of the road\"?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "What... should I do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "...Hmm.\nYaeno, got a minute?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I have changed as instructed, but...\nBamboo-san, what are we going to do now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "\"That's obvious! \n—We run!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "\"No matter what, I'm gonna overtake you! This is an all-out, no-holds-barred showdown, let's goooo!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Bamboo-san...!?\nKuh, please wait!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "What's wrong, what's wrong?! Is that all you've got?!\nI won't let you off if you lose without giving it your all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ngh...! Not yet!\nLet me show you... the true strength of Yaegaki!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno & Bamboo",
+      "text": "—Uooooooh!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Haa, haa...! Bamboo-san,\nit looks like your skills have improved yet again...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "—Heheh. Listen up, Yaeno.\nLet me just say this one thing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Even if Yaeno ends up seeing 'the end'...\nus rivals will definitely pass you right back!\nWe won't leave you any time to feel empty!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Then Yaeno will get waay stronger!\nAnd we'll get waaay stronger, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "\"Then everything's totally fine, right! There's nothing to mope about at all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Bamboo-san...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"...Fufu. I truly am...\nblessed with wonderful people around me.\"",
+      "choice_data_list": [
+        "If we all run together, there's nothing to be scared of, huh?",
+        "If we all run together, there's nothing to be scared of, right?",
+        "This might be a hint to save our senior disciple's heart.",
+        "This might be the hint to save our senior disciple's heart, you know."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"...Fufu. I truly am...\nblessed with wonderful people around me.\"",
+      "choice_data_list": [
+        "If we all run together, there's nothing to be scared of, huh?",
+        "If we all run together, there's nothing to be scared of, right?",
+        "This might be a hint to save our senior disciple's heart.",
+        "This might be the hint to save our senior disciple's heart, you know."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes. A formidable rival...\nWhat a wonderful word that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"...Now, looking back, I can't help but wonder.\nIf my senior disciple had also\nfelt the way I do now...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yaeno Muteki looked up at the sky with a clear, resolved expression.\nYet in that look, there also seemed to linger a touch of loneliness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"Indeed... If I can prove myself worthy\nas a formidable rival to my senior disciple.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—No, I shall become one.\nNot just in terms of \"strength,\" but to reach a level where\nI can truly empathize with that person's anguish!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "To welcome that day... I will continue to devote myself to my training! Osu!!",
+      "choice_data_list": []
+    }
+  ]
+}

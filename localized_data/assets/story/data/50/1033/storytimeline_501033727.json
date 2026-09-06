@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Vega",
+      "text": "So many...",
+      "choice_data_list": [
+        "Was that a bit too much...?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "About this much is just right.\r\nIt's lively, so they'll probably love it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "So much fluffiness...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "............\r\nThank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

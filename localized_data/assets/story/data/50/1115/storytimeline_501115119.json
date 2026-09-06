@@ -1,0 +1,531 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Orfevre",
+      "text": "—What did you just say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Huh? Uh, um...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"You dare...\nmake a fool of this King?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "How displeasing.\nStand up. I shall deal with you personally.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "L-Lord Orfe...!\nThat person over there was only talking about the race!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Do you wish to be slaughtered as well?",
+      "choice_data_list": [
+        "Orfevre...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Tch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Fools, the lot of you...\nTo lecture a king is far above your station!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "E-Eeeek...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ever since returning home from the Prix de l'Arc de Triomphe,\nOrfevre had been in a state of wild turbulence.\nHer fury grew more intense with each passing day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Whoa-whoa-whoaaa!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "A-Are you alright, sir?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oof, ouch, ow. Man, she's got\none heck of a kick.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Still though... that's crazy stuff.\nEven the great Golshi-chan chickened out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Don't... come any closer, anyone!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"...So anyway, my bad.\nCouldn't drag the King along.\"",
+      "choice_data_list": [
+        "No, thanks for your help."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfevre turned her back on everything,\ntrenching herself in the Trainer's office and refusing entry\neven to those closest to her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Quite a few complaints have reached the disciplinary committee as well,\nsaying that Orfevre's intensity is terrifying...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "L-Lord Orfevre...!\nHow pitiable...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Things have been peaceful lately.\nIn the past, I used to see this fire quite often.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Everything pisses me off...\nGiving in to the inner urge, destroy, destroy, destroy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Once Orfe gets like this,\nshe won't stop until she's burned everything to ashes.\"",
+      "choice_data_list": [
+        "...I'm worried.",
+        "...I'm worried."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...\nHowever, you do not seem to be in any rush.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Could it be...\nyou're confident you can soothe Orfe's flames?\"",
+      "choice_data_list": [
+        "I'm not confident, but..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Watching Orfevre these past few days... I can tell she feels the humiliation of defeat. But that isn't the true cause of her anger.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"She's definitely carrying something heavy.\nNot because of how it affects those around her, but purely for her sake... I wanted to know her true feelings.\"",
+      "choice_data_list": [
+        "I'll face it. As your trainer."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Then I leave it in your hands.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I'm counting on you,\nOrfevre's Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The trainer's office was unlocked.\nI timidly stepped into the heavy, oppressive darkness—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—I told you...\nnot to come near.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I feel a stinging, tense pressure... Still, step by step, little by little... I walk toward the sound of Orfevre's voice.",
+      "choice_data_list": [
+        "...Let me get closer.",
+        "...Let me get closer."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Why?",
+      "choice_data_list": [
+        "Because I want to know everything you're feeling...",
+        "Because I want to know everything about how you feel..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Don't get cocky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before I knew it, she was right in front of my eyes.\nA vivid, brilliant rage burst forth from her...\n—A shiver of sheer terror pierced through my entire body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "It seems they fancy themselves\nequal to the King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "There is no throne for you.\nNowhere at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "And yet... you want to get closer?\nYou want to know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—There's no way you can touch me.\nOr would you rather be destroyed?!",
+      "choice_data_list": [
+        "...It won't break."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...What did you say?",
+      "choice_data_list": [
+        "I'm your cane—I can support whatever weight you carry.",
+        "I'm your cane — I can shoulder it all."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—I'll test you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfevre grabbed both of my wrists with all her might... and slammed me against the wall.\nThe impact made my vision flash—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "What's wrong?!\nYou don't break, do you?!",
+      "choice_data_list": [
+        "...Ngh, I'm totally fine!!",
+        "...Ngh, totally fine!!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "If you're just putting on a tough front... I'm going to smash through it with everything I've got!",
+      "choice_data_list": [
+        "Bring it! I'll take on—everything you've got!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ngh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Whyâweren't you there?!",
+      "choice_data_list": [
+        "...!?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"How can someone who isn't even here\ntake it in?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The staff that wasn't in my hand is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I shall lead you to the throne.",
+      "choice_data_list": [
+        "...Instead, though—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "As if I'd ever trade places with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The more accustomed I become,\nthe more the time we've spent together...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "With every day that passed,\nour synchronized breaths grew stronger!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "As if anyone could take her place...!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ngh, ......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I'm so mad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...No matter how much devotion they show.\nEven if I am worshiped by the masses...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Alone.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I was...—all alone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Unable to even see a guiding light.",
+      "choice_data_list": [
+        "...Sorry, Orfe."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "I didn't understand anything at all.",
+        "I didn't understand a single thing."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "…………。",
+      "choice_data_list": [
+        "You... needed me, and yet...",
+        "And yet... you needed me..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Too slow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Too slow...",
+      "choice_data_list": [
+        "It's not too late...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...",
+      "choice_data_list": [
+        "I swear it."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even under her direct gaze, fear no longer lingers.\nAll that remains before her...\nis pure resolve.",
+      "choice_data_list": [
+        "I swear I'll never leave you alone again.",
+        "I swear, I will never leave you alone again."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "How will you prove\nyour sincerity?",
+      "choice_data_list": [
+        "This pain is the proof.",
+        "This pain is the proof."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "My wrists, gripped tightly by Orfevre...\nI squeezed down hard over them, as if to sear that pain into my memory for the rest of my life.",
+      "choice_data_list": [
+        "I'll keep feeling your flame right there with you.",
+        "I'll keep feeling your flame right there with you"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...That heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Never, ever forget that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With Orfevre's anger subsiding, we decided to review the Prix de l'Arc de Triomphe, which we hadn't been able to do yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—The Prix de l'Arc de Triomphe was\nincomprehensible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I tried to accelerate just like that...\nHowever...",
+      "choice_data_list": [
+        "As if guided by something, towards the inner rail..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since then, I watched the footage over and over again. But no matter how many times I watch it, I can't understand why she lost. It truly was an inexplicable defeat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...You felt it as well, did you?\nIndeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The cause is entirely unknown.\n...Which makes it all the more infuriating.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An inexplicable cause for defeat must have also added fuel\nto her anger. Smart as she is, if she knew the reason,\nshe wouldn't have been this upset.",
+      "choice_data_list": [
+        "We have to figure out the cause by next year."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Next year?",
+      "choice_data_list": [
+        "You're going to win back your crown, right?",
+        "We'll take back your crown, won't we?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...That's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Naturally.\nI will not let things end... like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Now that we had reached an agreement, there was one more thing we needed to confirm.\nAnd that was our next target: the \"Japan Cup\"...",
+      "choice_data_list": [
+        "You're entering, is that okay?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Isn't it obvious?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"I remain weary.\nA diversion is in order.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I'll go on a little rampage.\n—I just hope someone out there is sturdier than you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Heading into a race right after a grueling overseas expedition without sufficient rest... But I cannot let anything cloud her future.",
+      "choice_data_list": [
+        "(I'll get her into perfect shape!)",
+        "(I'll make it perfect!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—That night, I had another... dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Orfevre is defeated by the strongest Triple Tiara Umamusume.\n...The dream of the Japan Cup.\"",
+      "choice_data_list": []
+    }
+  ]
+}

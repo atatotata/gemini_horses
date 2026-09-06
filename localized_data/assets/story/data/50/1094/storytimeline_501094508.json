@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Wolf-Cut Umamusume",
+      "text": "Pokke-san...!\nHere are some refreshments from everyone!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wolf-Cut Umamusume",
+      "text": "You just had a race recently, so I've gathered everything you'll need to blow that fatigue away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "Tired, huh... Haha, you're worrying too much!\nBut thanks. I'll eat it later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "...Whaddya want?\nIs there somethin' on my face?",
+      "choice_data_list": [
+        "No, not quite that, but—"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Looking back, her recent movements\nseemed to lack their usual luster.\nPerhaps we should review her schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

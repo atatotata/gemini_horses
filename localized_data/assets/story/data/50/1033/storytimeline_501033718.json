@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Vega",
+      "text": "I did some solo training during the break.\nI'll hand you the data later—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...What?",
+      "choice_data_list": [
+        "I was just wondering if you got some proper rest."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...What?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...\n..........I did take a rest, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In her own way, it seems Admire Vega\nwas able to enjoy a fulfilling day off.",
+      "choice_data_list": []
+    }
+  ]
+}

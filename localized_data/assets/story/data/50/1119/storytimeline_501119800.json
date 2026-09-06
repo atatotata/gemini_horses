@@ -1,0 +1,286 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, as Christmas drew near.\nDream Journey and the others were gathered,\ndiscussing the Christmas tree at their family home.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...I still can't find it after all.\nThat pewter ornament is essential for this year's tree, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Father and Mother are plotting a grand party to celebrate Sister's debut...\nAn inferior tree would compromise my dignity as a king.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes... As I thought, I really want that \"Phantom Pewter Craft,\" but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Orfe",
+      "text": "That snowflake ornament... it's beautiful.\nIt rivals even my father's creations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Journey",
+      "text": "Is this pewter craft? The intricate patterns are quite beautiful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Father",
+      "text": "Ah, magnificent craftsmanship.\nI'd love to speak with the artisan directly... Where might they be?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Mother",
+      "text": "Let's all look for it together! Orfe, Journey, you good with that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Orfe",
+      "text": "Hmph... Very well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"We asked around a lot and found the craftsman.\nFufu... Dad was unusually talkative\nin front of him.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Even as a child, my heart would dance with excitement, like going on a treasure hunt.",
+      "choice_data_list": [
+        "So it's a commemorative ornament.",
+        "So it's a commemorative decoration, right?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "That's right.\nAh... it makes me want to get my hands on it all the more.\nLet's try looking into it from a different angle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "(—According to the investigation,\nthe Eastern European workshop of \"The Phantom Pewter\"\nclosed down when its craftsman retired.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "(However... there is an apprentice in Japan who inherited the master's craft.\nCrushed by the master's overwhelming talent, it seems\nhe currently makes a living wholesaling metal, but...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "(Rumor has it they've kept honing their craft.\n...Shall we have them step back onto the main stage?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "About that pewter craft...\nWe managed to locate the apprentice,\nbut apparently they aren't taking any commissions right now.",
+      "choice_data_list": [
+        "Huh... Then..."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I'm thinking of heading over to negotiate now.\nWould you mind accompanying me, Trainer?",
+      "choice_data_list": [
+        "Sure, but... do you need me there...?",
+        "Sure, but... do you need me there...?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes, of course. I'm counting on you,\nTrainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Guided by Dream Journey,\nwe arrived at a workshop deep in the mountains.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Stepping into the workshop, a pewter snowflake craft catches my eye.\nUnwavering lines trace a delicate, intricate pattern,\ngiving off a gentle gleam.",
+      "choice_data_list": [
+        "Incredible... It's breathtaking...",
+        "Amazing... It's so beautiful..."
+      ]
+    },
+    {
+      "name": "Pewtersmith",
+      "text": "...It's just a prototype. Basically junk.",
+      "choice_data_list": [
+        "Oh gosh...! That was so moving!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I passionately explain that even without touching it, its smoothness\nand warmth seem to transmit straight through.\nThe artisan offered a small smile in return.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ah... Truly magnificent.\nSuch master craftsmanship, breathing life into metal...\nJust like the pewter craft I saw back then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pewtersmith",
+      "text": "...Did you see that somewhere?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "A long time ago... I saw them with my family at a market in Eastern Europe.\nWe were completely captivated at first glance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "My whole family searched frantically for that artisan...\nand conveyed our overwhelming emotions to them.\nFufu... it was tough, but it was so much fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "When I learned you were an apprentice of that craftsman...\nI came to this shop. I wanted to spend time with my family\njust like that Christmas.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pewtersmith",
+      "text": "I'm sorry, we aren't accepting custom orders at the moment.\nI apologize for not meeting your expectations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Is that so...\n—Then, would it be possible for you\nto let me have that snowflake ornament over there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pewtersmith",
+      "text": "Huh...? But my work\ncould never compare to Master's—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "No. My father was a goldsmith, so I am quite confident in my eye for craftsmanship—\nand your work is truly magnificent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "It has a special brilliance that surpasses even Master's technique.\nA gentle light... that warms people's hearts.\n—Don't you think, Trainer?",
+      "choice_data_list": [
+        "Yeah. It made me feel really happy too.",
+        "Yes. It made me feel really happy too."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "This radiance will bring our family the same joy...\nor perhaps even greater emotion than that day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pewtersmith",
+      "text": "\"...To think you hold my work in such high regard...\n—Understood.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pewtersmith",
+      "text": "Could you let me know your detailed requests?\n—I would love the chance to craft a new one for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yesterday, the pewter ornament arrived.\nIt truly is a magnificent piece.",
+      "choice_data_list": [
+        "That's great!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please do come to the party.\nI would love for you to see it.\nAfter all, you are the greatest contributor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Welcome, Trainer.\nWe were just putting up decorations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yes, this is the brilliance.\nIt matches the brilliance in my memories down to the finest detail.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Father",
+      "text": "Though it's a quiet piece, it commands a powerful presence...\nSo this is what it means for a work of art to have a soul.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Mother",
+      "text": "Those two are completely engrossed.\nJourney, thank you for a wonderful Christmas.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Fufu... You're quite welcome.",
+      "choice_data_list": [
+        "I'm glad they liked it, aren't you?",
+        "Mind if I help with the decorating too?",
+        "Mind if I help with the decorating too?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Fufu... You're quite welcome.",
+      "choice_data_list": [
+        "I'm glad they liked it, aren't you?",
+        "Mind if I help with the decorating too?",
+        "Mind if I help with the decorating too?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes, truly.\nThis happy sight is exactly what I wanted to see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "This is all thanks to you, Trainer. My heartfelt thanks for your exceptional work. ...Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Of course. Then...\nwould you please place the pewter star on top?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please, guide it to completion with your own hands.\nOur greatest Christmas tree.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I doubt this one possesses any sense.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Then please, follow Orfe's instructions.\nFufu... I have high expectations of you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Oh my... I truly appreciate the sentiment,\nbut you are our valued guest, Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please, make yourself comfortable.\nThe party will begin shortly. ...Alright?",
+      "choice_data_list": []
+    }
+  ]
+}

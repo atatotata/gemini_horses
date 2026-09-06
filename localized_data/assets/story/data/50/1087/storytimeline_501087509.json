@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Aston Machan isn't answering her phone.\nWhile searching for her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ah... Trainer-san...",
+      "choice_data_list": [
+        "Where are you heading to?",
+        "Where are you heading off to?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"...Machan is going to look at the ocean.\nTo calm her heart with the blue scenery,\nand relax listening to the sound of the waves...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "I'm going to... talk with everyone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Concerned, I decided to accompany her, but...\nAston Machan seems utterly exhausted from consecutive races. I should reconsider her future schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

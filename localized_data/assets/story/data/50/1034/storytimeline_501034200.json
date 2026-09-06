@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day of the debut race has finally arrived.\nAs for Inari One—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "It's a festival--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "It's finally, finally, finally starting!\nLady Inari's grand brawl tourney, her very first battle!",
+      "choice_data_list": [
+        "You're fully fired up! ",
+        "You're fully fired up, aren't you!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Get outta here! That goes without sayin'!\nA good start is everything!\nTrippin' right out of the gate would totally ruin the mood!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "I'll give you a real good look.\nAt the stylish running style of a true Edokko!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Make sure you watch from the best seat in the house, Boss!\nYou're gonna see Lady Inari's flashy grand opening fireworks!",
+      "choice_data_list": [
+        "I'm counting on you!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Make sure you watch from the front row too, Big Sis!\nSee the flashy first fireworks of the great Inari!\"",
+      "choice_data_list": [
+        "I'm counting on you!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah!\nAlright, I'm heading out!",
+      "choice_data_list": []
+    }
+  ]
+}

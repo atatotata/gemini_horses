@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Tsurumaru Tsuyoshi tends to push herself too hard and overdo it.\nI always keep an eye on her health, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Phew... Cool-down complete!\nThat's all for today's menu!",
+      "choice_data_list": [
+        "(Good, just like always.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I headed home relieved, but...\nA familiar pair of legs is sticking out of the flowerbed.",
+      "choice_data_list": [
+        "Tsuyoshi!? Are you okay!?",
+        "Tsuyoshi!? Are you alright!?"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "? Trainer? Why are you in my room—\nWait, huh?! This isn't my room?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Tsurumaru Tsuyoshi really does seem to be worn out.\nIt might be best to reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

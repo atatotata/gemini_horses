@@ -1,0 +1,589 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "――With the world still abuzz over Tanino Gimlet, I was about to discuss something with Tazuna-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You're... retiring as a Trainer...?!",
+      "choice_data_list": [
+        "...Yes."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Did you make that decision... based on\nwhat happened with Tanino Gimlet?\"",
+      "choice_data_list": [
+        "...Half of that is true."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I explained that this decision came from my responsibility for failing to prevent her injury, as well as a sense that both she and I had given it our all—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"...I understand your thinking. But have you\nalready discussed this with Tanino Gimlet...?\"",
+      "choice_data_list": [
+        "No—I'm not quite ready yet."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "......I see. Then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I know it might not be my place to say, but please, consult Tanino Gimlet at least once before making your final decision.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"If the two of you have truly made up your minds—\nthen the Academy will respect your wishes.\"",
+      "choice_data_list": [
+        "...Understood."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "――――――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "(I thought we might share a drink together\nto celebrate a delightful bout of boredom, but...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "(Confound these chains of destiny... So that's how you want to play it...?!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "――No, that's not right...!\nYou... aren't supposed to be like this...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Well then, I will take my leave――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The day after speaking with Tazuna. Having made up my mind\nand gathered my thoughts, I decided to talk to Tanino Gimlet\nabout my future as her Trainer, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "――Kept you waiting, Trainer.",
+      "choice_data_list": [
+        "No, not at all—wait, Vodka?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "……'Sup!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Sorry to cut in, but could you give this one some advice before we talk?\nSeems she's hit a bit of a slump lately.",
+      "choice_data_list": [
+        "Um, well—"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sorry to spring this on you out of nowhere, Trainer.\nI just really, really want to become stronger!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ever since I watched the Derby, I've thought...\nI have to run amazingly, just like you, Senpai!\nThat's what I've been aiming for!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "So she came to me for advice about various things.\n...I figured that you'd be much better suited\nto teach her than me, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "After all, you are the formidable Trainer—\nwho managed to see me through the Mile Championship rotation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...Can I leave it to you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Hearing that from Tanino Gimlet, there was no way I could refuse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "ââHaa, haa...!!",
+      "choice_data_list": [
+        "Right there, Vodka!!",
+        "That's the spot, Vodka!!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Yes, sir!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "—Uwooooooooh!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Ho...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh-heh. What a splendid spurt.\nYou maintained your top speed remarkably well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"Y-Yes...!\nIt felt super easy to run even for me...!\nSo that was where I should've accelerated...!\"",
+      "choice_data_list": [
+        "You've gotten better at shifting your weight through the corners, too."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Until yesterday, I was seriously stressing over how to make sharp, snappy moves like you, Senpai, but that last run felt amazing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "It's all thanks to your guidance, Trainer!\nThank you so, so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "…………Yeah.\nI'd expect nothing less... from all of you――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "…………U-Um, Trainer!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"It doesn't have to be right now.\nSomeday...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"Someday, would you please train me! I mean, like――――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Into an Umamusume who can win the Japan Derby!!",
+      "choice_data_list": [
+        "That is—"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "I know it's a mercenary request...\nand I know it's incredibly rude...!\nI understand that!! But—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"The Trainer who coached Senpai told me about it—it was a race where Senpai looked insanely cool, and...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"I wanna win too!!!\nI wanna become an incredible Umamusume, too!!!\"",
+      "choice_data_list": [
+        "Vodka..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It was a truly honoring request. But\nI cannot guide her future.\nBecause I have already...... stopped in my tracks.",
+      "choice_data_list": [
+        "...Sorry. I can't do that.",
+        "...Sorry. I can't do that."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—Because we still have\nthings left to do.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "What?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Wait, but senpai is—\nHuh? The other day... wait, what?\nHold on, please wait—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "No way... It can't be...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Senpai, could it be—wait, is it actually,\nreally happening――?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Yeah.\n—From here on, we're aiming for our comeback.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "G-Gimlet-senpaaaaaaaai!!!\nI did iiiiiiit!!!",
+      "choice_data_list": [
+        "Why—"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Vodka. I apologize, but after this,\nI need to speak with my Trainer\nabout what lies ahead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Keep what you heard today to yourself for a while.\n...You can manage that, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Y-Yes, ma'am!!\nI won't tell a soul, 'ssu!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—Good girl.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After parting ways with Vodka, who couldn't conceal her joy, Tanino Gimlet and I were left alone—",
+      "choice_data_list": [
+        "What on earth do you think you're doing?",
+        "What on earth do you think you're doing?"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"...I'll admit that I acted unfairly.\nI needlessly misled you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "About that... I'm sorry.",
+      "choice_data_list": [
+        "...You'll tell me about it, right?",
+        "...You'll tell me about it, won't you?"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...I was able to complete the MC rotation exactly the way I wanted to. I have no regrets whatsoever about that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Likewise, completing the Mile Championship rotation and exhausting all of her potential... brought not a shred of fear or regret.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Even if there were an alternate timeline where I managed to complete the MC rotation on my own... I wouldn't have hesitated to fade into the background.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "But――――I had you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Burning through my potential poses no issue at all. In fact, it feels like destiny.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Still, you're different...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...Seeing how you coached Vodka today made me certain once more.\nYou are an indispensable presence for the glorious chaos to come.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Your potential and brilliance as a Trainer\nare by no means things that should be extinguished now...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Even more so, having your potential\nlocked away because of my actions—\ngoes against my entire aesthetic!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "I would never wish for an end like that!!",
+      "choice_data_list": [
+        "――――"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A warmth welled up from deep within, but it was immediately capped by a cold emotion, tucked away into the depths of my heart...",
+      "choice_data_list": [
+        "Still, I... for you...—",
+        "Still, I... with you...—"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "You feel responsible, you say?\nSplendid. In that case—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Take responsibility and walk this harsh path with me once more,\nfor the culmination of my ideals.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—Will I be able to achieve a greater feat\nthan the Mile Championship rotation?",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "One more time, Trainer.\nWrite the script again with me—and with *me*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"And through that great achievement...\nGrant further eternity to this fleeting, dazzling brilliance!\nGrant continuity to your potential!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—The sound of something breaking echoed within me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"...I have shown you the path.\nThe one who makes the final choice... is you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Did you————see it through to the end?",
+      "choice_data_list": [
+        "........................No way!!!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I grasp Tanino Gimlet's hand firmly. Then, without any embellishment, I put what wells up inside me into words.",
+      "choice_data_list": [
+        "I!! Want to get even more drunk on you!!!",
+        "I... I want to be even more intoxicated by you!!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "So that her words won't dissolve into the evening sky.\nSo that Tanino Gimlet won't vanish.\nI fasten the chain to her.",
+      "choice_data_list": [
+        "So take on the challenge with me one more time!!",
+        "So take on the challenge with me one more time!!"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "The curtain has risen once more.\n————Our second act begins now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"...Now then.\nRegarding a 'greater feat than the MC rotation'—\ndo you have any ideas?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...There was only one grueling rotation in my mind\nthat could serve as an extension\nof the Mile Championship rotation.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Still, I felt a certain hesitation\nabout proposing that idea myself.\nAnd that was because――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Are you saying that failing to prevent my injury\nstrips you of the right to make a proposal?",
+      "choice_data_list": [
+        "(Sh-she's onto me...!)"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh. What an expressive face.\nThanks to that, I'm now certain you're thinking\nthe exact same thing as me...!",
+      "choice_data_list": [
+        "Gimlet too...?"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Now, let's check your answers. Let me hear it.\nThe ruinous vision of the future that you hold!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...With that push of encouragement, I make up my mind\nand speak my thoughts aloud.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To begin with, the \"MC Rotation\"\nis meant to prove one's innate, god-given talent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At its core lies the philosophy of proving the \"speed\" to conquer the mile and the \"strength\" to conquer 2,400m during the Classic year, before the body is fully mature.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If you aim for achievements beyond that—\nyou need to show the results of rigorous training,\nin addition to your natural talent...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In other words, in your Senior year with a fully developed body, you'll deliver results across back-to-back mile and medium-distance races. The stage for that is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "From the race that crowns the pinnacle of milers, to the festival that determines the strongest of the medium-distance era.\nA grueling series of back-to-back races in June. In other words—",
+      "choice_data_list": [
+        "The Yasuda Kinen and the Takarazuka Kinen, back-to-back...!"
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Heh-heh... Hahahaha...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Bwaaaaa-hahahahaaa!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "How utterly delightful!\nTo lead all those observers by the nose,\nonly to choose an even harsher path!",
+      "choice_data_list": [
+        "—This time, I will definitely protect you.",
+        "—This time, I will protect you no matter what."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...Those are good eyes.\nMadness is swirling within them once more—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With the major goal of targeting the Senior Year's Yasuda Kinen and Takarazuka Kinen decided,\nthe next step was to go over the plans for her upcoming comeback—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"...While rest is the fundamental priority,\nI must do rehab-oriented training\nto prevent my body from going dull.\"",
+      "choice_data_list": [
+        "Let's be especially careful this June."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Yeah. We shouldn't enter any races at all,\nand instead make this a period to build up power in my legs.",
+      "choice_data_list": [
+        "During summer camp, we'll monitor your recovery step by step."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "No objections here. Heh heh—\nWalking on thin ice in the heat of summer, is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "And so, where shall we set the stage for my rebirth?",
+      "choice_data_list": [
+        "Let's make the Kobe Shimbun Hai the stage for your full comeback."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The \"Kobe Shimbun Hai\" is a GII race held in September.\nNormally, Umamusume aiming for the \"Kikuka Sho\"\nrun it as an interim milestone, but――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "2400m on turf... I see. By getting results at the same distance as the Japan Derby, I will prove that I'm still as formidable as ever...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Besides, the timing is good. If there's no sign of recovery by then, the path would be cut off either way—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "It is decided, then.\nNow... let us journey together into this summer of rebirth.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, setting the Kobe Shimbun Hai as the goal for her complete comeback, she began taking steps forward with Tanino Gimlet once again...!",
+      "choice_data_list": []
+    }
+  ]
+}

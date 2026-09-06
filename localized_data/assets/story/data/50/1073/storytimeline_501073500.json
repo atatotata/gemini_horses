@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Tsurumaru Tsuyoshi was doing distance runs on the training track.",
+      "choice_data_list": [
+        "Alright, that's it for today!"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Huh?! I can still keep running!",
+      "choice_data_list": [
+        "Let's call it a day here."
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "If you're saying that, Trainer,\nit must mean any more would be too much of a strain, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Got it!\nI'll go do some cool-down exercises then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Food, yummy food~♪\nYou gotta eat well and have a balanced diet, right!",
+      "choice_data_list": [
+        "With today's menu, dessert would be—"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "An orange!\nThat's perfect for recovering from fatigue, isn't it!",
+      "choice_data_list": [
+        "Correct!"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ehehe, I'm starting to understand\nwhat I should eat to stay healthy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hum-hum~♪",
+      "choice_data_list": [
+        "You're in a good mood, huh?"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Yes! I'm in great spirits,\nand in tip-top shape!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I don't tire out as easily lately, and I've been able to pay closer attention to my health in all sorts of ways.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "This is all thanks to you, Trainer!\nYou taught me my limits and how to manage my physical condition!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I'll do my absolute best so that\nall the support I've received doesn't go to waste!",
+      "choice_data_list": [
+        "That's also thanks to your hard work, Tsuyoshi"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "You really think so!? Thank you so much!\nAll right, Tsuyoshi's gonna run with all she's got, woohoo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "...*cough*!? I-I choked...!",
+      "choice_data_list": []
+    }
+  ]
+}

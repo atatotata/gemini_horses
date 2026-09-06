@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Aston Machan—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ah, there are Paka Petits here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At the end of Aston Machan's gaze\nwas a crane game filled with plushies\nthemed after Umamusume.",
+      "choice_data_list": [
+        "Do you want it?",
+        "Do you want this?"
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"They are rivals to the Mar-chan Doll, after all.\nMar-chan wanted to investigate what makes them so popular.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "The texture, the cushioning, the stitch strength...\nThere are so many things I want to inspect.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "\"Mar-chan goods don't end\njust by being delivered. Mar-chan wants to bring\nthe greatest happiness to everyone who picks them up.\"",
+      "choice_data_list": [
+        "In that case, I'll get it for the sake of research."
+      ]
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Is that so? Then I shall cheer with the Chan-doll.\nHip, hip, hooray.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

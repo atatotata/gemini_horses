@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Orfevre—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hooh.",
+      "choice_data_list": [
+        "Did you find something interesting?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Behold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Orfevre pointed, there was a claw machine filled with plushies themed after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Clasping the doll with slender mechanical claws,\ncarrying it precariously toward the goal without dropping it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Heh, it's just like a tightrope walking act.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"You.\nEntertain me with this.\"",
+      "choice_data_list": [
+        "Huh, I'm the one doing it?",
+        "Huh, I'm the one doing it?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Consider it an honor.\nAfter all, you are serving your king.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Fulfill your duties as a subject.\n...Do not bore me.",
+      "choice_data_list": [
+        "Alright, I'll give it a shot!",
+        "Yeah, I'll try!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Furioso",
+      "text": "I-I look forward to working with you, Trainer...",
+      "choice_data_list": [
+        "...You seem down.",
+        "...You seem a bit down."
+      ]
+    },
+    {
+      "name": "Furioso",
+      "text": "I-I'm so sorry!\nI had to make a quick trip out to Funabashi...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "—Ah, n-no. When I said Funabashi,\nI just meant I was exploring the city\non an online map, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "\"Even so, I just got caught up in having fun\ntouring the city... and stayed up late――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Furioso wasn't able\nto get much rest—",
+      "choice_data_list": []
+    }
+  ]
+}

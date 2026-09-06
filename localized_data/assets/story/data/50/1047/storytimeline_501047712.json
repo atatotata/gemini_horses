@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I searched for Zenno Rob Roy, who hadn't shown up despite it being time for training,\nand found her on a hill...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, Trainer!\nLook at this cityscape.\nThe buildings and the park's location... there's no doubt about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"This town was the model for where the protagonist grew up!\nThe scene where they train by running all around town was so memorable—\"",
+      "choice_data_list": [
+        "Looks like it's time for your training too.",
+        "Time for your training too, huh?"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah...! I-I-I'm so sorry!\nWhat have I done...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Zenno Rob Roy got too caught up researching the book\nand ended up skipping training.\nI warned her to be more careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

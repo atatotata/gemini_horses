@@ -1,0 +1,123 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Duramente suffered an injury during training.",
+      "choice_data_list": [
+        "Does it hurt?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "No, I am fine.\nI have applied athletic tape, so it will not be an issue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "The pain will probably linger for a few days, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "As long as we don't put strain on the injured area, it shouldn't cause any problems.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Let's get back to training.",
+      "choice_data_list": [
+        "You should get some rest for now.",
+        "If we change up the menu and see how it goes..."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Resting would cause that much of a delay.\nIf the schedule leading up to the race was thrown off drastically—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I explained that moving while favoring an injury puts strain on other parts, and that this was to prevent a chain reaction of risks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "If favoring an injury leads to even more injuries,\nit'll throw off the schedule even further, huh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Understood.\nFor now, as you say, I'll take a rest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Once the break is over—I'll make up for lost time all at once.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Duramente ended up\ndedicating herself to treating her injury.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I tell her that if it gets even slightly worse,\nwe will stop right on the spot.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Yeah, that's fine with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...!",
+      "choice_data_list": [
+        "Are you okay...?!",
+        "Are you all right...?!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "...Was my assessment too optimistic?\nAnd to think it concerned my very own body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"...Forgive me.\nIt seems I should indeed rest quietly for a while.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having aggravated her injury, she would have to\ntake a break from training for a while...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Pheeew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Alright.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Movement at this level won't affect anything.\n...I'm going to run one more light lap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Heh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Without worsening her injury, Duramente was able to make an early comeback.",
+      "choice_data_list": []
+    }
+  ]
+}

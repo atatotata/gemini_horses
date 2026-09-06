@@ -1,0 +1,475 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On our way back after going to buy equipment together with Win Variation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...? Isn't that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Huh, a lottery raffle, huh. Takes me back.",
+      "choice_data_list": [
+        "Nostalgic?"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah, they held it in front of the ballet studio a lot.\nSo on my way home,\nI'd sometimes stop by with my little sisters.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "“Still, we always ended up getting pocket tissues,\nand everyone was so disappointed.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Wait, I mean, huh?\nCome to think of it, when we were shopping just now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Win Variation rummaged through her\ncoat pocket, and then...\nShe suddenly looked up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I got a lottery ticket...!",
+      "choice_data_list": [
+        "Oh! Since we're here, let's give it a shot."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yeah...\n...But I wonder if I can guess it right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Um, Trainer-san,\ncould you spin it in my place?",
+      "choice_data_list": [
+        "Since we have the chance, let's get our revenge."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "A rematch...?",
+      "choice_data_list": [
+        "Next time, we're winning the grand prize, not tissues."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah...! Ahaha...!\nRight, from what we were talking about earlier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "The grand prize instead of tissues, huh.\n...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "If that's the case, maybe I'll give it a try.\nI'm sure it feels great to catch one, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Fufu, not bad.\nYou sure know how to hype me up, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Win Variation eagerly spun the raffle wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...\n............Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Eh, wha, what!?\nWhoa, whoaaaa...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "No way!?",
+      "choice_data_list": [
+        "It's not a lie. Congratulations, Shion!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Aah, thank you so much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I can't believe... my revenge actually worked...\nI really got the special prize...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "................I'm... so happy...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hahaha! By the way, that hot springs ticket\ndoes have an expiration date.\nMake sure you don't let it expire!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Hot springs?\n...Ah, right, this was a hot springs trip voucher.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "U-Understood. Thank you very much!\nThough honestly, it's way too precious to actually use...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I know!\nTrainer, if you'd like, with someone—",
+      "choice_data_list": [
+        "No, no, I'd feel terrible taking that!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ugh.\nY... Yeah, you're right... What should I do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the end, it was decided that the hot springs voucher would be put on display in the Trainer's Room for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "......The grand prize, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Ahaha. Sorry, I'm still taking it all in...\nTo think that someone who always drew pocket tissues could actually win a prize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Calling it \"moving\" might be an exaggeration, I guess. It's just a test of luck, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "“Still... thank you for\noffering me a chance at a rematch.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while after that day,\nyou could catch glimpses of her gazing up at the onsen trip ticket,\nbasking in the emotion of it all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Whoa, I did it...!\nEven if it wasn't... the grand prize!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "B-But still, that revenge was a total success, right,\nTrainer-san!",
+      "choice_data_list": [
+        "Congratulations, Shion!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Thank you!\nEhehe...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Special Deluxe Carrot Hamburg Steak\"...\nUsing plenty of top-tier ingredients, straight from\nthe recipe of a three-star restaurant...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I guess this is a flavor\nyou don't get to taste very often...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Still, it's really huge, isn't it?\nSince we have the chance, maybe one more person—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mmm~~~~~gh!\nSo thick and juicy...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Too delicious...! Ah, sorry about that,\nhere I am getting in on what was meant for the two of you!",
+      "choice_data_list": [
+        "No, no."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "We couldn't finish it with just the two of us. Plus, I wanted you to have some too, Nature-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"To me? Why—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mmm!? Wait, this half tastes totally different!?\nIs this... pepper!? What flavor is this!?\nI have no idea, but it's soo good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Wait, whoa, even the carrots have this subtle, refined sweetness~.\nHow do you even simmer them to turn out like this~? So good, thank you~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...I just had a feeling I'd get to see a wonderful reaction.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh? Did you say something?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I also whipped up some pot-au-feu and carrot rappé.\nWould you like some?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, obviously I'm gonna eat it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Win Variation happily watched over Nice Nature as she relished every bite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Second prize...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "No, but... I'm really happy!\nAt least it's better than pocket tissues.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Still, that's an incredible amount.\nI wonder if we can finish it all...\nMaybe we should give some to someone with a big appetite—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah, hello?\nDid the carrots arrive, I wonder?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion's Mother",
+      "text": "\"Yeah. Thanks a bunch.\nThat really helps me out.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion's Mother",
+      "text": "\"Those kids have been eating more and more lately, no matter how many ingredients we have, it's never enough.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "That's great. Tell him to eat plenty\nand grow nice and big, alright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion's Mother",
+      "text": "\"...That's true. I could tell them myself,\nbut it'd be nice if you did once in a while too, Shion.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shion's Mother",
+      "text": "\"Come visit anytime for a breather, okay?\nI'll make something delicious and wait for you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Yeah, thanks, Mom.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Win Variation continued to enjoy talking with her family on the phone for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Th-Third... place...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"This is...\ncutting it razor-thin, huh...?\"",
+      "choice_data_list": [
+        "Well, even so, 3rd prize is still 3rd prize."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Indeed. My apologies,\nthat was disrespectful to the 3rd prize. I will gladly\naccept this single carrot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And after that, when I took the single carrot\nback to the Trainer's Room—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Grind, grind, grind, grind...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Alright, all done.\nMy special carrot-apple juice, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I should accept this 3rd prize with gratitude\nand keep doing my best starting tomorrow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Now then, cheers, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the carrot apple juice we drank after that\nwas sweet, rich, and had a hint of bitterness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...A-Ahaha. I'm sorry.\nIt didn't work out after all.",
+      "choice_data_list": [
+        "No, next time for sure...!"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ugh... ngh.\nY-You're right. I can't let myself get discouraged...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"If I get another chance, next time for sure...!\nNext time, I'm getting that grand prize...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...That being said, Win Variation still seemed\nto look just a little downcast.\"",
+      "choice_data_list": []
+    }
+  ]
+}

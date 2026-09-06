@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby didn't show up for training.\nWhile searching around for her with worry...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Screech... click)",
+      "choice_data_list": [
+        "That car is...!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I am terribly sorry for not being able to make it to training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Please accept my heartfelt apologies.",
+      "choice_data_list": [
+        "Why were you late?",
+        "Why were you late?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...... Once again, I sincerely apologize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I cannot tell you, as the reason pertains to confidential matters of the family.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Saying something like this\nwill inevitably make me lose your trust. That is precisely why—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"I intend to devote myself even more than ever\nin order to regain your trust from now on.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby seemed to be reflecting deeply.\nI decided to put this matter behind us and look forward to what was to come.",
+      "choice_data_list": []
+    }
+  ]
+}

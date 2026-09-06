@@ -1,0 +1,159 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day off, in a restaurant I entered for lunch,\nI spotted Victoire Pisa and Rose Kingdom.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "How about it, Rose?\nIs there anything on the menu that catches your eye?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Ah, or rather, pretty much everything.\nJust when you think there's Hayashi rice, there's\nOmelet rice and Omelet Hayashi? Way too confusing...",
+      "choice_data_list": [
+        "Is something troubling you?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Hm, Pisa's Trainer?\nTruth be told, I wanted to get used to dining in unfamiliar places.\nSo I asked her to show me around, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"You don't need to be so tense; it's perfectly fine to just pick whatever catches your eye, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "...You've got a point.\nIn that case, the thing that stands out most is—definitely this.",
+      "choice_data_list": [
+        "Huh, Toruko Rice?"
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Indeed. Turkish cuisine, counted among the three great culinary traditions of the world.\nI wonder what kind of dish bearing that name will be served...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "If I remember correctly, it was several dishes served on a single plate.\nThe beautiful name left quite an impression on me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Oh, there's a detailed explanation right here♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "\"A local delicacy originating from Nagasaki.\nA single-plate dish consisting of tonkatsu, pilaf, and pasta.\"\nMy, is that so?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Hmm, while the question of why it's called 'Turkish' in Nagasaki\nremains, does it not look exceptionally delicious?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Yes. It's wonderful how popular dishes like tonkatsu, pilaf, and pasta come together on a single plate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "I've decided. I'll have the Turkish rice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Then I'll have the same.\nFufu, I can't wait for it to arrive.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, what was brought to the table a moment later was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "What's this?! Th-This is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What was served was a platter piled absurdly high, reaching all the way up to eye level.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Toruko Rice is served in\nsuch massive portions, isn't it...",
+      "choice_data_list": [
+        "No, I think this shop is just an exception..."
+      ]
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "However, is it really okay to finish this much food? It's definitely going to affect my weight...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Still, leaving leftovers is a bit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Whenever I imagine food left all alone\non an empty plate... my heart just aches...",
+      "choice_data_list": [
+        "Let's ask for takeout.",
+        "Let's eat everything we ordered"
+      ]
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Ah, it looks like you can take leftovers home after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "\"Then I shall return home\nand treat Ruler and the others to some as well.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Yes, let's do that.\nI'm so glad no one was left behind...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having enjoyed a moderate, delicious meal,\nthe two headed home carrying heavily laden souvenir bags.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "You're right. It is our responsibility\nto face this plate head-on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rose Kingdom",
+      "text": "Ah, what kind of king would I be if I could not overcome a mountain like this?\nLet us go, Pisa.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Yes, Rose-san.\nLet's enjoy it delicious to the very last bite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having steeled their resolve, the two of them finished the meal without leaving behind a single grain of rice.",
+      "choice_data_list": []
+    }
+  ]
+}

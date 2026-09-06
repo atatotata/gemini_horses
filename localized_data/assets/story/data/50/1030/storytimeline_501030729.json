@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "\"Ugh, it was so close, but\r\nthe crane arm suddenly started wobbling……\"",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-No, that's not it.\r\nIt must be Rice's bad luck causing this...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Even though Big Brother worked so hard for Rice's sake...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Even though Big Sister worked so hard for Rice's sake...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice is the one who's causing trouble,\nso I'm so sorry...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

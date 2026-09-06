@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Waaah!\nHe fell into the sea of lava~!!",
+      "choice_data_list": [
+        "Wait, was that part of the setting!?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Look at that... look at her face...\nShe's staying totally unfazed right to the end...",
+      "choice_data_list": [
+        "Well, it's just a stuffed animal, so..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hehe... Even if it's just the survivors among us,\nwe've gotta stay strong and live on...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

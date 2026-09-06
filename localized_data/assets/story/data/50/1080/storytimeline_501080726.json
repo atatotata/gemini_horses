@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Transcend—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, my, my.\nThis eye-catching arcade cabinet, if I recall...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Transcend pointed,\nthere was a claw machine filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yeah, the Paka Puchi. Even though they're tiny,\nthe chibi design is really well done.",
+      "choice_data_list": [
+        "...If you're curious, want to play with it?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Huh? Me?\nHmm, I mean, I am good at this stuff, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hey, Trainy, you give it a try.",
+      "choice_data_list": [
+        "Huh...? Me?",
+        "Huh...? Me?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Right, right.\nWatching Trai-chan fret from the side while I make a big fuss, that's the drill!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Trai-chan, how are your gaming skills?\nGood? Average? ...Or maybe, super terrible?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "And next~ maybe win a mountain of Paka Pouch plushies?\n...You'd be lying if you said this didn't give you chills!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "And with that, let's get to it~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Casino Drive",
+      "text": "\"Your evaluation for this period is—\n'Excellent'!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yay♪ This'll make a great story\nto share with everyone in the stream community.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "\"Yeah! I'm sure they'll love it♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Lately, I feel like we're really coming together as a team in particular.",
+      "choice_data_list": [
+        "Were you inspired by Casino Drive's story?"
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "It's a bit embarrassing to hear that...\nThough if it helped improve your training results,\nthen it was well worth discussing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Team morale is on the rise.\nLet's ride this momentum and plan out our strategy for the next season.",
+      "choice_data_list": []
+    }
+  ]
+}

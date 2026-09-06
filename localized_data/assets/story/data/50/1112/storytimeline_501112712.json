@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While searching around for Daring Heart,\nwho hadn't shown up despite it being time for training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Yeah! That's the spirit!\nAiming to be cool is great and all, but first you gotta set your heart on fire!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Children",
+      "text": "Yes! Sensei Heart!",
+      "choice_data_list": [
+        "It's quite a full house, Dr. Heart."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, isn't it?\nEven though it's an impromptu dance class,\neveryone is so motivated... Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Sorry, Trainer!\nI completely lost track of time.\nI'll be much more careful next time...!",
+      "choice_data_list": []
+    }
+  ]
+}

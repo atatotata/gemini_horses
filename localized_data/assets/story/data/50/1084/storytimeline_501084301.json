@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—After wrapping up a productive summer training camp, Tanino Gimlet was interviewed by reporters the moment she returned to the academy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "Your classmate and rival Symboli Kris S\nwill also be running in your next race, the Tenno Sho (Autumn)!\nPlease, tell us your thoughts—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "...In your eyes,\nwhen was my greatest race?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "Huh? ...The \"Japanese Derby\", perhaps?\nNo, the \"Yasuda Kinen\" was deeply moving as well, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "—At the Tenno Sho (Autumn),\nI'll show you a level of fervor that far surpasses that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "Now, feast your eyes!\nUpon the descent of the \"God of Destruction,\"\nwho will revolutionize the entire world you see!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "The promised time is drawing near―――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter",
+      "text": "Ah, T-Tanino Gimlet-san!!\nPlease talk to me a little more!",
+      "choice_data_list": [
+        "And that concludes our interview~..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Summer came to an end...\nand the Tenno Sho (Autumn) was drawing near.",
+      "choice_data_list": []
+    }
+  ]
+}

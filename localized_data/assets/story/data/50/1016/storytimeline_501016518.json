@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, I spotted Narita Brian weeding the field alongside the groundskeeper.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Swarming all over... How annoying!\r\nJust how many of you do I have to take down!?",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Wh-what... Trainer?!\r\nTh-this is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Janitor",
+      "text": "It's a punishment. She walked into the field and stepped on the seedlings, so I'm having her pull weeds.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I told you I didn't do it on purpose, didn't I!?\r\nDammit...! I'm just utterly out of luck!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"Argh! In that case, I'll just go wild!\r\nPrepare yourselves, you measly weeds!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She vigorously rushed off to pull weeds.\r\nStaying hunched over weeding for so long\nwould be exhausting, even for her...",
+      "choice_data_list": []
+    }
+  ]
+}

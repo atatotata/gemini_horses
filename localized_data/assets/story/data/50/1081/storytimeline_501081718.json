@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espoir City",
+      "text": "~♪ ~♪\nOh, look who it is! Hey there, Trainer.",
+      "choice_data_list": [
+        "You seem full of energy!",
+        "You seem full of energy!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huh? Got a problem with me being energetic, punk?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Eat three square meals, move around a bit, and sleep...\nAnyone'd feel refreshed after that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Espoir City",
+      "text": "Come on! I'm gonna break away with everything I've got...\nSo don't you dare slack on coaching me, either!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Espoir City spent a healthy day off\nand seemed to have restored her energy.",
+      "choice_data_list": []
+    }
+  ]
+}

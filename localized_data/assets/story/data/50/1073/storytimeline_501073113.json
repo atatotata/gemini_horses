@@ -1,0 +1,400 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "\"That day, as I was walking down the hallway\nwith Tsurumaru Tsuyoshi...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ah!\nTrainer, over there, over there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Following Tsurumaru Tsuyoshi's gaze,\nthere was student council vice president Air Groove and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "It's Student Council President Symboli Rudolf...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Symboli Rudolf, the student council president\nand the Umamusume Tsurumaru Tsuyoshi looked up to, was there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "President. Regarding the inspection tour proposed by the Chairwoman for next week...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Yeah. I plan to bring this child along as an introduction as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Heheh! I'm gonna do my best on this inspection with the President too!",
+      "choice_data_list": [
+        "(Ah! Tokai Teio too!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tokai Teio is a Classic Double Crown Umamusume\nwho conquered the Satsuki Sho and the Tokyo Yushun (Japanese Derby).",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though she suffered through an injury-plagued season at one point, she went on to claim GⅠ victories in both the Japan Cup and the Arima Kinen after entering the Senior Class.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "In particular, her victory at the Arima Kinen—racing for the first time in a year after suffering an injury—has become legendary as a miraculous comeback.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "To become an \"Empress\" who surpasses\neven the \"Emperor\" Symboli Rudolf.\nAww, what a truly cool declaration that is~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Mm-hmm, it's so cool how they back up their words with actions.\nThat miraculous comeback in the Arima Kinen was incredible too!\nLike, \"I'm the only absolute!\"♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Right, right! And on top of that,\nthere's even a rumor she'll be the next student council president!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Waaah~~! Waaahhhh~~!\nSo nice, so cool~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Like the younger students watching their idol from a distance,\nTsurumaru Tsuyoshi's eyes shone brightly.",
+      "choice_data_list": [
+        "(I hope someday she can get a little closer to the one she admires...)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "At the end of the week of that encounter...\n...a single phone call came.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Voice on the Phone",
+      "text": "\"Haaah-hah-ha!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsuyoshi on the Phone",
+      "text": "\"Teio-chan!? What are you doing with my phone—!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"Ahem!\nTsuru-chan is in my custody!\nIf you want to save her, come to the arcade!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, I received an energetic summons\nfrom \"Teio-chan.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Over here, over here!\nTsuru-chan's Trainer! Over this way~♪",
+      "choice_data_list": [
+        "Hello, you two."
+      ]
+    },
+    {
+      "name": "Tsuyoshi & Teio",
+      "text": "Hello!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Not that! I'm so sorry on your day off!\nTeio-chan, really... geez!",
+      "choice_data_list": [
+        "I don't mind. More importantly, you two seem to get along well.",
+        "I don't mind. You two seem really close, huh?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Heh-heh! Tsuru-chan loves the Prez just like I do, so we're comrades! Right~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Plus, there's something I really need to say,\nloud and clear, to Tsuru-chan's trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Huh, to my Trainer!?\nFrom Teio-chan!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"Right. Both of you, stand at attention!\nAre you ready?\"",
+      "choice_data_list": [
+        "Yeah, I'd definitely love to hear it.",
+        "Yeah, I'd love to hear it."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Alright, alright♪\nThen let's... get started right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photo Sticker Booth",
+      "text": "\"Please choose a photoshoot course♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hm? Teio-chan,\nwhat happened to the 'thing you wanted to say'...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"We can worry about that later!\nCome on, you two, get in the photo booth!\"",
+      "choice_data_list": [
+        "Huh?!"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Whoa!?\nTeio-chan~!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And just like that, Tsurumaru Tsuyoshi\nand I were shoved into the photo booth together...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Um, well... Trainer.",
+      "choice_data_list": [
+        "What does this mean...?"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ahaha~.\nI don't get it at aaaaall...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photo Sticker Booth",
+      "text": "\"Alright then, let's start the photoshoot♪\nHere's the pose I recommend★\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "...Should we strike a pose for now?",
+      "choice_data_list": [
+        "Ah, yeah. You're right...",
+        "Y-Yeah. That's true..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "I limply make a finger heart with Tsurumaru Tsuyoshi.\nIs this really what Tokai Teio intended...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "—No, no, noooo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Geez, that's what I'm talking about, you two!\nWhen someone says \"strike a pose,\" you gotta...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "It's obviously this one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "ââ!!\nTeio-chan, that pose isâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"I recognized that 'pose'. After all,\nit was far too famous in the racing world.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "—\"When she resolves to win,\nthis Umamusume is an absolute certainty!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "That pose is the one President Rudolf did\nwhen she won the Triple Crown...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Shishishi! Tsuru-chan,\nyour debut's coming up real soon, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Now then, you two, prepare yourselves!\nOnce you debut, the road to the Triple Crown will pass in the blink of an eye!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "And as her Trainer, you must believe in\nthe \"absolute\" that lies within Tsuru-chan!",
+      "choice_data_list": [
+        "\"Absolute\"...!"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "――……I promise.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Yeah. I had my own absolute, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No matter where, no matter what condition I'm in,\nno matter how impossible or painful the situation,\neven if everyone says there's no chance at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "There's an absolute within you too, Tsuru-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "So please believe in her. Watch over her, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Trainer is Tsuru-chan's absolute.",
+      "choice_data_list": [
+        "...Yeah, got it.",
+        "...Yeah, got it."
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "――~~~, alright!\nTeio-chan!! Trainer-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I will become a Triple Crown Umamusume!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I'm gonna be an \"absolutely\" strong Umamusume,\njust like President Rudolf with her \"absolute strength\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nishishi! Nice, nice!!\nCome on, Tsuru-chan's Trainer too!",
+      "choice_data_list": [
+        "Yeah! Tsuyoshi, let's aim for the Triple Crown!!",
+        "Yeah! Tsuyoshi, we're aiming for the Triple Crown!!"
+      ]
+    },
+    {
+      "name": "Tsuyoshi & Teio",
+      "text": "Whoaaa!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "\"WOOOOOOOO!\nI'm getting fired up!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Teio-chan!\nLeave doodling on these purikura to me!\nI'm gonna give it my all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Triple Crown, Triple Crown—did she do it!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tsuru-chan!? Wh-what...\nTrainer, go buy something cold to drink!\nHer finger... Tsuru-chan's finger is—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, they spent the rest of the day playing their hearts out at the arcade—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "...Trainer!\nThank you so much for all your help yesterday!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ehehe. And then, you see~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ta-da!",
+      "choice_data_list": [
+        "Oh! That's...!",
+        "Ah! That's...!"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Yes! It's the picture of the three of us doing the 'Triple Crown Pose' with Teio-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I set it as my lock screen! Ever since I made that vow that day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I'll become \"absolute\"!\nI'll be a Triple Crown Umamusume too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And she raised three fingers.\nWith the same bright smile\nas the photo set as her wallpaper.",
+      "choice_data_list": []
+    }
+  ]
+}

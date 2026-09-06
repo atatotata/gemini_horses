@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "During lunch break, Daiwa Scarlet came up to talk to me,\r\nlooking restless.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Seriously! Jeez...! This makes no sense!\r\nI know for a fact I didn't eat that much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Why does my uniform feel so tight all of a sudden...?\r\n...Anyway, we're doing lunch training, Trainer!",
+      "choice_data_list": [
+        "I need to lose a little weight!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ngggh! What's your problem?! You carrot-brain!\r\nI'll lose weight, geez!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Pouting and fuming the whole time,\nDaiwa Scarlet worked out and successfully shed some weight.",
+      "choice_data_list": []
+    }
+  ]
+}

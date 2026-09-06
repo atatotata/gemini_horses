@@ -1,0 +1,581 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On New Year's Day, while lounging around\nspending a lazy holiday—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Happy New Year,\nTrainer. Are you there?",
+      "choice_data_list": [
+        "Light O?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I instinctively checked the calendar. But it was a day off.\nTraining with her wasn't supposed to start until the first day of the semester.\nCould it be some kind of emergency?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Your bedhead is crazy. Can I take a photo?\nI wanna show Durandal too.",
+      "choice_data_list": [
+        "Absolutely not!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Tch.\nHere's a souvenir from my trip home. Take it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Thank you very much for taking care of my daughter.\nThis is just a small token of gratitude. It's completely legal.\nPlease accept it,\" said my father.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Is there something suspicious in it?\nOr was the explanation simply very detailed?\nFor now, I'll gratefully accept it.",
+      "choice_data_list": [
+        "You could have waited until after the break, though."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"My parents said greetings are best done early.\nSo, I came as fast as I could.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer.\nCould you give me an assignment?",
+      "choice_data_list": [
+        "Challenges? Do you mean the training menu?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yes. I do not wish to waste a single minute or second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An admirable mindset.\nIt must stem from your fierce desire to reach peak speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"However, this New Year period is meant for rest.\nSince rest can also spur growth,\nwe should avoid intense training.\"",
+      "choice_data_list": [
+        "Then let's challenge a proper New Year's task."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "What kind of task would be fitting for New Year's?",
+      "choice_data_list": [
+        "Let's pound some mochi!",
+        "Let's go to the New Year's buffet.",
+        "How about Umamusume Karuta?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ah, they're holding it in the shopping district.\nThe \"Friendly Mochi-Pounding Festival.\"",
+      "choice_data_list": [
+        "Thrusting practice should make for good training.",
+        "Thrusting practice should make for good training."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Indeed, getting to eat mochi too makes it killing two birds with one stone. Ah, I'll make sure Trainer gets some too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ah, Light O-san!\nCould you be taking part in the mochi-pounding festival?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Helpful Umamusume Kitasan Black called out.\nIt seemed she was helping out with the\n'Community Mochi-Pounding Event.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That's right. I want to be the pounder.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Yay, you're a lifesaver!\nWe were in trouble without someone to pound the mochi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Looking forward to it!\nI'll handle flipping the mochi!",
+      "choice_data_list": [
+        "It might be hard to make them as a pair..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O is guaranteed to pound mochi fast.\nI've never seen it, but it's definitely fast.\nNo ordinary mochi-turner could ever keep up with that speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I see...\nIn that case, could you accompany me for just a little bit? If it looks impossible, I'll give up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Understood. —I shall borrow the mallet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Here I go—\nHmph-hmph-hmph-hmph-hm-hm-hm-hm-hm-hm-hmph!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Uhyaa, you're seriously fast!\nBut still...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I think I can return this! Light O's rhythm was so clear, and keeping to a beat is my specialty!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "You think you can keep up with my speed?\nInteresting. Let's see you try.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Right O & Kitasan",
+      "text": "Ready, and!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Right O & Kitasan",
+      "text": "Hum-hum-hum-hum-hum-hum-hum-hum-humph!\nTake that take that take that ta-ta-ta-ta-yah!",
+      "choice_data_list": [
+        "S-So fast...!"
+      ]
+    },
+    {
+      "name": "Shopping District Man",
+      "text": "H-Hey, look at that mochi pounding!\nIt's so fast... I can't even see their hands!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "Whoaaa! You big sisters are amazing!\nJust like a mochi-pounding machine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Magnificent, Kitasan.\nWorking together was fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Same here!\nThe mochi turned out super soft and stretchy too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Let's hand them out to the guests right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Calstone Light O and Kitasan Black's high-speed mochi pounding brought great joy to the shopping district's customers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Does it feel like New Year's to you?\nYou just want to eat it, don't you, Trainer?",
+      "choice_data_list": [
+        "Ugh... I got sick of cup noodles, too."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Your diet is completely ruined. This won't do.\nLet's get you some proper nutrition at the buffet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "May I take a photo of the food?\nI'd also like to post it on Umastagram.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Restaurant Server",
+      "text": "Kyaa~, Curren-chan!? So cute!\nOf course you can take pictures and post them to Umastagram!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At the hotel restaurant buffet. I spotted Curren Chan there, taking pictures of the dishes laid out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmm, the plating's kind of ruined...\nIt feels wrong to post it like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Excuse me, Curren. Is that spot open?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ah, Right O-san!\nSorry, I didn't notice you. Go right ahead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "This square aspic looks delicious.\nAbove all, its shape is wonderful. I shall have it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O took some aspic and lined it up\non her plate. In a perfectly straight line.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Waaah, you plated it so well!\nIt looks just like when it was first served!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Um, Light O-san,\nwould it be okay if I took a photo of your plate?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"This aspic is so cute,\nI just had to post it on Umastagram!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yeah. I don't mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Thank you!\nEhe, I'm so happy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Then let me take a picture at our table.\nSince we're here, let's eat together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yes. Is Trainer okay with it too?",
+      "choice_data_list": [
+        "Of course, with pleasure!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ahaha! Right O-san, you plated everything\nin a straight line! That's so cute~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Mhm, isn't it cute?\nStraight lines are beautiful and cute.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Fufu, let's take a selfie together to commemorate how cute it is!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yes! And on the straight~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Right O & Curren",
+      "text": "Cute!\nSo cute.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Calstone Light O\nhad a delightful time at the buffet with Curren Chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Are we doing this? Umamusume Karuta.\nContesting giant cards... between you and me, Trainer.\nYou certainly have a death wish.\"",
+      "choice_data_list": [
+        "It's an Umamusume karuta tournament!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If I recall, there should be a tournament being held nearby.\nOf course, we can't participate, but they have a hands-on karuta corner set up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I see. Catch a stray Umamusume\nand make her my sparring partner. That's what you mean, right?",
+      "choice_data_list": [
+        "That's true, but you could've worded it better..."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Karuta is also a contest of speed.\nIt seems like it would make for good exercise.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, are you trying out karuta too, Light O-san? Let's definitely play together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"I'm only here for the participation gift money,\nso please go easy on me~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer, please do the honors of being the reader.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The fortune-loving Umamusume Matikanefukukitaru\nand the totally average Umamusume Hishi Miracle\nagreed to play karuta with me.",
+      "choice_data_list": [
+        "\"On this tranquil spring day of eternal light...\""
+      ]
+    },
+    {
+      "name": "Right O & Fukukitaru",
+      "text": "Yes!\nUh, uh, uh... found it! Here you go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Gyaaaah! A foul!\nI grabbed the wrong card starting with \"O\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Got the \"Hi\" card! \nI win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"Calstone-san, you committed a foul too, didn't you!\nThe second half of the poem is: 'So gently, so calm, the cherry blossom buds'!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"The concluding hemistich\"? What's that?",
+      "choice_data_list": [
+        "Sorry, looks like they don't know the rules...",
+        "Sorry, looks like I don't know the rules..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Umamusume Karuta uses the \"Ogura Hyakunin Isshu.\"\nYou read the first half of the poem, and take the card with the second half.\nThe second half is read aloud in the latter part.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh dear. In that case, how about you read the second half of the poem, and we play like regular karuta!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Thank you. I'll leave it to you, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "By the way, the correct answer is: I ate it~ Sneaky me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "So you two made a false start, which means you skip a turn, right?\nYay~ Guess I'll take the next one too~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ghk, we're in a pinch right out of the gate...!\nNot bad, Mira-ko.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Calstone-chan, you're way too fast~.\nHow about listening carefully to the reader before making your move?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Slowly.\" That is what I am worst at.\nHowever, if that is the trick, I shall endure and try it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, through karuta, Calstone Light O learned to wait just a little bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I headed to the academy's Trainer's office.\nI had remembered there was a TV special covering the Twinkle Series.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Program Host",
+      "text": "Next up is a special feature:\n'Road to the Crown'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Program Host",
+      "text": "\"We'd like to introduce the Umamusume expected\nto shine in the upcoming spring Classic campaign.\nFirst up is this Umamusume.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Program Host",
+      "text": "Agnes Tachyon!\nA complete victory in her debut, followed by yet another in the graded stakes race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Program Host",
+      "text": "Setting aside her exceptional talent,\nher greatest asset is her flawless race management.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Program Host",
+      "text": "True to her name, her running is just like light itself!\nShe is the foremost favorite for the Classic Triple Crown!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"A tachyon is a hypothetical particle that always travels faster than the speed of light.\"",
+      "choice_data_list": [
+        "W-What is it? So suddenly...",
+        "W-What's wrong? So suddenly..."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That is what my mother taught me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tachyon told me before:\nto go ask Mother.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "It looks like we're debuting in the same year.\nWe're classmates of the same class, so to speak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Heheh, you and I share quite a curious bond.\nPerhaps it's because we're so alike?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Are we similar?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"You are similar.\nEspecially with the madness you harbor behind your eyes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Those are the eyes of one captivated by the light, one who has devoted everything to it.\nYou, and me both.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "I wonder if it's fate, bearing 'Light' in my name.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Light in the name... Which part?\n'Gnes'? 'Nesta'? Or maybe 'Stachy'?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahahaha! Why not ask your mother?\nIt ought to be her area of expertise.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "It's a refreshing, youthful episode about Tachyon and me.",
+      "choice_data_list": [
+        "So it wasn't totally unrefreshing after all!?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ever since then,\nI've felt a bit closer to Tachyon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "The world Tachyon sees\nmust be similar to the world I'm aiming for.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That might very well be true.\nI've heard Agnes Tachyon continues her research\nin pursuit of pure speed as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, when it comes to their running, the two are polar opposites. While Calstone Light O pursues nothing but pure speed—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Agnes Tachyon is utterly flawless in every aspect.\nThere is not a single opening in her running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Therefore, she is the top contender for the Classic Triple Crown.\nAnd without running at that level,\none cannot win through the Twinkle Series...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer? Is something wrong?",
+      "choice_data_list": [
+        "...No, it's nothing."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A small feeling of unease arises in my chest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Can she truly advance to victory\non speed alone?",
+      "choice_data_list": []
+    }
+  ]
+}

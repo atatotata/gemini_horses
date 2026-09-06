@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, Trainer.\r\nGood morni— *yaaaawn*...",
+      "choice_data_list": [
+        "You look sleepy.",
+        "You look sleepy."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Um... I just couldn't stop thinking about what El said in her sleep last night...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "She was shouting names of Spanish dishes all night long, like \"Plancha!\" and \"Gazpacho!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Geez, El...\nJust how articulate can one's sleep-talking get?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Thanks to that, I couldn't fall asleep until morning... *yawn*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems Grass Wonder\r\nis lacking sleep...",
+      "choice_data_list": []
+    }
+  ]
+}

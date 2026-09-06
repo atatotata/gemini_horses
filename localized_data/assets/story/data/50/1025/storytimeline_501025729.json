@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "...That looked quite difficult.",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No, please don't apologize...\r\n...I'm grateful for how hard you worked for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...Huh? ...Yeah... I understand.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...My 'friend' is saying it too.\r\n'Don't worry about it,' she says...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

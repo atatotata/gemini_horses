@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I got so absorbed in my work that it got late.\r\nAs I was rushing back home...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"...Oh?\r\nTrainer, you're still here?\"",
+      "choice_data_list": [
+        "Self-training this late?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"...I just couldn't get the race off my mind.\nI thought going for a run might clear my head, but—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Haaah... It won't go that smoothly, huh.\r\nWhich strategy should I employ next...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It looks like fatigue from the race has built up...\r\nI should probably reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

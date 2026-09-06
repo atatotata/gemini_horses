@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Shakur",
+      "text": "*Yaaawn*... Ah, dammit.",
+      "choice_data_list": [
+        "Were you up late last night?",
+        "Were you up late last night?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Not really.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...What's so wrong with spendin' time workin' when I can't fall asleep easily anyway?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "*Gasp*, ah...\nJust... stay out of this...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unable to fall asleep, she ended up staying awake the whole night... Air Shakur looked completely exhausted all day.",
+      "choice_data_list": []
+    }
+  ]
+}

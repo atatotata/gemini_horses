@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Now that we've finished everything on today's schedule,\nI call out to Cesario.",
+      "choice_data_list": [
+        "Good work. Shall we wrap things up for today?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "……。",
+      "choice_data_list": [
+        "Umm... you can relax now, you know?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "No... I'm merely enduring\na headache—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Ouch...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "...I am sorry.\nI will just head home for today...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cesario seems to be troubled by a headache.",
+      "choice_data_list": []
+    }
+  ]
+}

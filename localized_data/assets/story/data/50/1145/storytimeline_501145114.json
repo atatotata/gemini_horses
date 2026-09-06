@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rulership",
+      "text": "Trainer,\nabout early December...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Rulership came over to talk to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "I think I'll refrain from entering the race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "It's the time of year when Junior Class GⅠs are concentrated, but I've already decided to \"lie low.\"",
+      "choice_data_list": [
+        "...Got it!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Respecting Rulership's wishes,\nwe decided to skip racing in early December.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ah―― Trainer-san.\nGood morning.",
+      "choice_data_list": [
+        "Good morning! Did you rest well yesterday?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes—thanks to you.\nWere you able to get proper rest, Trainer?",
+      "choice_data_list": [
+        "Yeah, perfect!",
+        "Yeah, perfect!"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu... What a relief.\nYour complexion looks much brighter too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"You always seem so busy, so I've been worried about you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "I hope... you are doing well today too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Kind-hearted Curren Bouquetd'or seemed more concerned about whether I had gotten proper rest than about herself.",
+      "choice_data_list": []
+    }
+  ]
+}

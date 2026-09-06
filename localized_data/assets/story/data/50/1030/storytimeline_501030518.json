@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Toward the end of lunch break,\r\nI saw Rice Shower in the courtyard\nand asked her what was going on—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "We can't find Urara-chan anywhere...!",
+      "choice_data_list": [
+        "Missing...mini-?!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, no... I was playing hide-and-seek, but I haven't been able to find them yet...\r\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I know I should say it's time to stop...\r\nbut that would ruin our game of hide-and-seek...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"If we do that, Urara-chan might tell us 'I'm not playing with you anymore'—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "So, before the lunch break chime rings...\r\nI definitely have to find it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Rice Shower tracked down Haru Urara\r\nthrough sheer willpower, but it seemed\nto have completely drained her stamina...",
+      "choice_data_list": []
+    }
+  ]
+}

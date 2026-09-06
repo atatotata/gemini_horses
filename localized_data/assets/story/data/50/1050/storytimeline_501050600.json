@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "……Alright. Let's go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Narita Taishin seems to have even more fighting spirit than usual today...!",
+      "choice_data_list": [
+        "You're really fired up!",
+        "You're really fired up!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Huh? Not really... It's just business as usual.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I'm not a hot-blooded idiot like Ticket.\nI don't waste my energy getting fired up for nothing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I'll just win, no matter what. That's all.",
+      "choice_data_list": []
+    }
+  ]
+}

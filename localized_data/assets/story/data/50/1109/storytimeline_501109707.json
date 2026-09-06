@@ -1,0 +1,150 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I visited the shrine together with Rhein Kraft,\nwho hasn't been feeling well lately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Howaaa, what lovely weather~.\nIt's a perfect day for sunbathing~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Oh, Craft-san.\nWhat a coincidence.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Messiah-san, hello~.\nAre you here to pray today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Just for a change of pace. I've been cooped up in my room organizing data all this time, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Oh, are you totally exhausted, by any chance?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I feel a slight fatigue around my eyes, but there is no need for concern.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "You know, I know the perfect place for a change of pace.\nWould you like to come along, Messiah-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I would love to visit. But... aren't Craft and the others planning to go make their shrine visit?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Mmm~~, maybe I'll visit the shrine later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "I mean, the sun is just so warm and cozy today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Maybe God is taking an afternoon nap too?",
+      "choice_data_list": [
+        "True. It'd be bad to interrupt a nap.",
+        "True. It'd be bad to get in the way of a nap, after all."
+      ]
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "So, let's all go sunbathe together~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Warm sunlight filtering through the trees, a pleasant breeze...\nIt's such a peaceful, relaxing place, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"It truly lives up to your recommendation, Craft-san.\nThanks to the greenery, the fatigue in my eyes seems to be melting away.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Come to think of it, looking at green is supposed to be good for your eyes, right?\nEhehe, I'm glad I could be of help.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Mnyaaa~.\nSoaking up all that sun felt so nice~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Indeed. All of my fatigue has completely vanished,\nand I feel fully refreshed.",
+      "choice_data_list": [
+        "Shall we pay our respects and head home, then?"
+      ]
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Yes. It's about time for God\nto wake up from His afternoon nap, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "I feel like we'll receive some great blessings!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps thanks to the wonderful shrine visit,\nRhein Kraft was able to\nregain her form.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Well, we've soaked up plenty of sun.\nShall we visit the shrine and head home?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinto Priest",
+      "text": "Sorry, young ladies.\nThere's a shrine event tonight, so from here on out\nthe grounds are off-limits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinto Priest",
+      "text": "I apologize, but could you come\nvisit the shrine another time?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Gaaaaaaaahn!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "It is unfortunate, but it cannot be helped.\nLet us take our leave before we cause any trouble.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ugh... That's true...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Perhaps because she was unable to pray at the shrine,\nRhein Kraft seemed unable\nto regain her top form.",
+      "choice_data_list": []
+    }
+  ]
+}

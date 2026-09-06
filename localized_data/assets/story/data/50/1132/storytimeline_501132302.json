@@ -1,0 +1,516 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way home from going\nshopping with Loves Only You—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Trainer-kun. You got a lottery ticket earlier, didn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Trainer-chan.\nYou got a raffle ticket earlier, didn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hey, why not give it a shot?\nWho knows, you might even win a hot spring trip!",
+      "choice_data_list": [
+        "Then why doesn't Loves do it instead?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Huh, why?\nDidn't you receive that, Trainer-kun?",
+      "choice_data_list": [
+        "I was thinking it could make good stream material."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Huh, why?\nDidn't you receive that, Trainer-chan?",
+      "choice_data_list": [
+        "I was thinking it could make good stream material."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hmm, true.\nWhichever one wins, it'll probably make for a good story...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hehe♪\nIf we win anything, we'll split it between the two of us♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Well then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Loves Only You eagerly turned the handle of the lottery machine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"...Yay♡ Yaay~~♡♡\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Trainer-kun! Hot springs! It's hot springs time♪",
+      "choice_data_list": [
+        "Impressive as always!",
+        "Impressive as always!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Trainer-chan! Hot springs! Hot springs♪",
+      "choice_data_list": [
+        "Impressive as always!",
+        "Impressive as always!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ehehe~♪\nI never expected to win the grand prize!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Let's enjoy the hot springs to the fullest together♪",
+      "choice_data_list": [
+        "About that, though..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hm?",
+      "choice_data_list": [
+        "...I think I'll pass.",
+        "...I'll pass."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Huh?! Why? Don't you like hot springs?",
+      "choice_data_list": [
+        "Because when I think about the community members..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "......Ufufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, really! That's what you were worried about~?\nYou really are so serious~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"It's okay, everyone will understand♪\nWe've known each other for so long, and you get it too, right?\"",
+      "choice_data_list": [
+        "That is..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"It's okay, everyone will understand♪\nWe've known each other for so long, and you get it too, right?\"",
+      "choice_data_list": [
+        "That is..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...I know! If you're that curious, let's just ask everyone right here and now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"\"I won a 'Hot Springs Trip Voucher' in the lottery~♡\nWho should I go with, guys?\" ...and posted.\"",
+      "choice_data_list": [
+        "Ah, if you ask like that...!"
+      ]
+    },
+    {
+      "name": "Community Members",
+      "text": "\"\"? Isn't it obvious?\"\n\"Ah, don't tell me someone's dragging their feet~?\"\n\"Honestly, don't give Loves such a hard time.\"",
+      "choice_data_list": [
+        "\"...Yes. I'm sorry.\""
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ehehe♪ Well then, once again—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "I can't wait for our hot springs trip ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I made a promise with Loves Only You to go on a hot spring trip together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yay~! Look, look~ 1st prize♡",
+      "choice_data_list": [
+        "Wow, that looks incredibly delicious!",
+        "Wow, that looks incredibly delicious, doesn't it?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yeah! Just what you'd expect from first prize, huh?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Well then, let's split it up and eat!",
+      "choice_data_list": [
+        "Since we're doing this anyway, want to eat it on stream?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Oh, that's great!\nNot a cooking stream, but an eating stream♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"With everyone preparing food for me too, it feels just like a party~♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Alright then,\ndoes everyone have their food ready~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Middle-Aged Gym Bro",
+      "text": "\"Of course! For me,\nthe usual salad chicken and broccoli!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Easily Bored Girl",
+      "text": "\"I'm on a diet, so I'll just look!\n...Today's day four of my diet, you know.\nI'll break the three-day quitter curse once and for all...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hardworker@Overseas Assignment",
+      "text": "\"So, what about you, Loves-chan? What do you want to eat?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Me? As for meee——",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "It's the carrot hamburg steak I won from the lottery~~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Community Members",
+      "text": "\"Oooooh!!\" \"You won that in the raffle?!\"\n\"You've really got the luck, huh~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "It'll be hard to reply to comments while I'm eating,\nso sorry about that in advance♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Alright, everyone together—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Community Members",
+      "text": "\"THANKS FOR THE FOOO-OOOD!!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Look, look! It's this juicy just from heating it up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Whoaa, just pressing down with a fork makes the juices overflow♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hafu, hafu~~ Mmm~~~♡\nSo delicious~~♡♡♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Community Members",
+      "text": "\"\"............\"\" \"\"This is a bit...\"\"\n\"\"I wonder if there's anything in the fridge...\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Middle-Aged Gym Bro",
+      "text": "\"...Gaaah!\nToday is officially a cheat day!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Easily Bored Girl",
+      "text": "\"...No good. I can't take this anymore...!\nI'm going to the convenience store...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Phew, thank you for the delicious meal♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Paying no mind to the absolute pandemonium in the comments section,\nshe finished her meal happily.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Whoa, look at that crazy amount of carrots!\nTheir color is gorgeous, and they all look so fresh~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Now then, how should I cook this up, I wonder♪",
+      "choice_data_list": [
+        "You're going to make it, Loves?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, of course it is!\nAfter all, cooking is my specialty!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Today's stream is definitely going to be cooking♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Well then, Love Me♡ Love You♡\nThis was Loves Only You! See ya~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Ufufu, I got so excited that I ended up using it all up♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "And so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "What should I dooo~!? I made way too much~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Spread out before us was a full-course\ncarrot dinner filling the entire table.\nThere's no way just the two of us can finish this...",
+      "choice_data_list": [
+        "Let's call for help."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Y-Yeah! I'm sure they'll help out!\nI'll go ask everyone♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Feel free to eat as much as you'd like~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yay!\nThen I'll take the carrot salad!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Every dish is prepared with such exquisite care...\nWasn't this an awful lot of work to make?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Not really.\nWhen I stream while doing it, it flies by in a flash♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, while having fun with her friends,\nshe was able to finish all the carrot dishes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Mmm~~, what a bit of a bummer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Just one, huh...",
+      "choice_data_list": [
+        "Why don't you take it home with you?",
+        "You take it home with you."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"I can't let that happen. We promised to share, didn't we?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yeah... alright!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Let's eat them on the way home♪\nThey're fresh, and if we wipe them off a bit, we can eat them right up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*snap*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Here, I'll give you the bigger one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "*munch munch*... Fufu, having raw carrots every now and then is nice too~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gazing at the sunset,\nthe two of us munched on carrots together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh dear~...",
+      "choice_data_list": [
+        "Too bad..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yes... but still!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"If anything, a bad draw makes for small talk that's far easier for others to relate to.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "I've made up my mind. Today's stream will be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "It's decided: the \"Disappointing Moments Presentation\"...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her attitude of turning even painful experiences into content for her stream was something truly worth emulating.",
+      "choice_data_list": []
+    }
+  ]
+}

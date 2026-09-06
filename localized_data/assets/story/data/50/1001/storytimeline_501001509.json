@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I'm having a meal with Special Week,\r\nbut she seems down in the dumps for some reason.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "......*Sigh*......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "I'm sorry... Lately, it feels like all I do is sigh... *sigh*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "\"I love racing, but...\r\nit's just not thrilling, I guess...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Even food doesn't taste good anymore...\r\nWhat in the world is happening to me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For the sake of her future success, it seems we'll need to review her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "As I was getting ready for the training camp,\nHaiseiko called out to me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Trainer!\n<nickname> is really shining bright right now, aren't they!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"My heart is pounding!\nI just want to connect with you even more,\n<nickname>-chan!\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Her own dreams, the fans' feelings, their expectations...\nI'm sure she's shouldering so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "Turn everything into a springboard to become stronger!\nIf it's you, <nickname>-chan,\nI know you can do it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haiseiko",
+      "text": "\"Let me help you sparkle even brighter♪\nPlease, leave it to me!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Guided by Haiseiko...\n<chrname> gained wonderful insight!",
+      "choice_data_list": []
+    }
+  ]
+}

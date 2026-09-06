@@ -1,0 +1,238 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On the way back from an outing with Zenno Rob Roy, we noticed an elderly person looking around anxiously.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Hmm, which way was the station, I wonder...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "U-Um...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-Excuse me...\nAre you by any chance looking for the station...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Yes. I'm afraid I'm not very familiar with this area...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Um... if it's alright with you,\nshall I guide you to the station...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Well, thank you!\nIn that case, could I leave it to you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"Y-Yes...! I'll show you the way...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Um... from here on...\nthere are two ways we can go—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "First, take the route where you turn right at the crossroad 300 meters ahead, by the liquor store.\nIt takes about 8 minutes to reach the station.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "It's the shortest route, but there are two hills along the way, so it might be a bit tough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"The other route is to go straight and take a right\nat the end of the road. It's flat, but it will take\nabout four minutes longer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I'd like you to choose whichever path you prefer...\nB-But what do you think...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Oh my, what a big help! In that case,\ncould you show me a route without any hills, dear?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Yes, understood...!\nAh, allow me to carry your luggage...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Phew... Sorry for taking things so slow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, no, please don't mind me...! Um,\nif you're tired, would you like to sit down and rest?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Oh, is that so? Well, sorry to trouble you,\nbut I'll take you up on that offer, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "\"Y-Yes...! Of course...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Um, if I remember right, the nearest bench isâ\njust around this left turn.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Right this way, ma'am.\nAllow me to guide you.",
+      "choice_data_list": [
+        "(Rob Roy looks so full of life!)",
+        "(Rob Roy looks so full of life!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "After resting on a bench for a while,\nwe began walking back toward the station,\nwhen dark clouds suddenly started rolling in across the sky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Oh, the weather's looking rather grim.\nI didn't bring an umbrella, so we'd better hurry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "My umbrella is... Yeah, but it's fine! Let's change to a route where we won't get wet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "It's just one turn off the path, so the distance hardly changes at all. Come, this way...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "This shopping district has a covered arcade, so no worries even if it rains!\nOnce we make it through here, the station is right ahead!",
+      "choice_data_list": [
+        "(I can't believe she even knows a route to stay dry!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thanks to Zenno Rob Roy's precise directions,\nwe arrived safely at the station!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "Aww, thank you so much!\nYou took care of absolutely everything for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "No, I'm just glad I could help!\nPlease take care on the rest of your way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandma",
+      "text": "\"Thanks so much for your kindness!\nSee ya later, then.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Haa... thank goodness.\nLooks like I guided them properly...!",
+      "choice_data_list": [
+        "That was amazing! You memorized the whole route!",
+        "That was amazing! You memorized the whole route!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ehehe... Thank you very much.\nTo tell the truth, I've always been pretty good at giving directions...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ever since I was little, I've loved looking at maps\nof the settings while reading stories.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Through forests, highways, and even city alleyways—\nRecalling the story, unrolling the map,\nimagining every single corner of that world...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Maybe having fun playing like that helped me get a little better at remembering the scenery...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "When it was decided that I'd enter Tracen Academy,\nthe first thing I did was look at a map of this town and\nimagine all sorts of things about what kind of place it would be.",
+      "choice_data_list": [
+        "That's a talent only Rob Roy could pull off!",
+        "That's a talent only Rob Roy could pull off, huh!",
+        "Maybe I'll have you show me around somewhere next time!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "When it was decided that I'd enter Tracen Academy,\nthe first thing I did was look at a map of this town and\nimagine all sorts of things about what kind of place it would be.",
+      "choice_data_list": [
+        "That's a talent only Rob Roy could pull off!",
+        "That's a talent only Rob Roy could pull off, huh!",
+        "Maybe I'll have you show me around somewhere next time!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "! A special skill, unique to me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I see... A specialty that's mine and mine alone...!\nYou're right...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy savored the joy, feeling her confidence grow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, yes, leave it to me...!\nI think I can guide you to most shops and facilities\nwithin walking distance from the academy...!",
+      "choice_data_list": [
+        "What!? That's way too amazing...!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ehehe... Hearing you say that\nmakes me feel confident, yeah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy savored the small spark\nof confidence within herself.",
+      "choice_data_list": []
+    }
+  ]
+}

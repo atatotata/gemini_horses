@@ -1,0 +1,333 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The unusual behavior Orfevre displayed during the Tenno Sho (Spring) seemed to be only temporary, with no particular symptoms showing afterward—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We managed to set off for the Takarazuka Kinen without issue.\nHowever, I can't let my guard down until\nthe final pre-race checks are complete.",
+      "choice_data_list": [
+        "Orfevre, how are you feeling?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Tedious.\nI have already told you it is fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "So noisy from dawn till dusk...\nEnough already, sit down.",
+      "choice_data_list": [
+        "If anything happens, tell me right away!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And as the bullet train began to move...\nperhaps from sheer mental exhaustion, a wave of sleepiness washed over me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hey.",
+      "choice_data_list": [
+        "...Ngh, y-yes, water!?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Ugh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Too slow.\nReact faster.",
+      "choice_data_list": [
+        "I'm... so... sorr...—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……Fool.\nDo not close your eyes before Me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Heh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Don't forget it.\nNever forget that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before the race, just to be safe, we had the medical staff\ncheck things out, and the diagnosis came back\nthat there was no problem.",
+      "choice_data_list": [
+        "I'm so glad...!",
+        "I'm so glad...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmph.\nYour worries run far too deep.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"The common rabble as well...\nDisrespectful though they were.\"",
+      "choice_data_list": [
+        "...Holding that press conference was the right move, wasn't it?",
+        "...I'm glad we held the press conference, aren't you?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The voices of doubt cast toward Orfevre after her run in the Tenno Sho (Spring)... I could tell they thoroughly displeased her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "So on the day before the race, in front of the press and officials—\nthey declared that there was absolutely nothing to worry about regarding Orfevre.",
+      "choice_data_list": [
+        "There's nothing wrong with Orfevre"
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "So... in tomorrow's Takarazuka Kinen,\nyou will be running just as you always have?",
+      "choice_data_list": [
+        "Yes, I can say that with certainty."
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "Oh, so powerful...!\nIs that true,\nOrfevre-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...It's just as\nthat thing said.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporters",
+      "text": "...Looks like you're really doing fine.\nThe fans are worried too...\nI'll publish the article right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As a result, Orfevre commands overwhelming support today as well.\nThe sheer strength she has shown up to now is so rock-solid\nthat it cannot be easily shaken.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Fan A",
+      "text": "I just can't forget it, after all.\nLady Orfevre's kingly stride...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Fan B",
+      "text": "I want Orfevre to achieve a complete, decisive victory. Carrying our dreams with her—to the world!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "This will likely be the final domestic race\nbefore taking on the Prix de l'Arc de Triomphe.\nTo the fans, a powerful—",
+      "choice_data_list": [
+        "Let's show them how amazing you are!",
+        "Let's show them how amazing you are!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Show it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"The people need only know one thing:\nthe might of a king whom none dare defy.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Looks like this is going to be a boring race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Right before the race. Just as I was about to send Orfevre off—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Um!",
+      "choice_data_list": [
+        "(Win Variation...)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Looks like your body is doing better now.\n...Phew, what a relief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "There was... something I wanted to talk about today.\nUm... well...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Very well.\nI shall grant you an audience.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Those crimson eyes.\nThey get on my nerves.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Speak, without delay.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Don't you dare look down on meee!\nI am not... your subject!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...I know you... don't really care about me at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "“Still... I just...\nI couldn't just brush it off.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I've always been watching your back.\nAlways... always... alwaaa... ays...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...I still don't have confidence, you know.\nBut... I hate this even more!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "—If I can't beat you...\nIt feels like I'll be stuck in the dark forever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "So... I'm declaring war for myself!\nToday, I'm... gonna win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Strongest in the country? Unrivaled? No! Your rival... is right here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"I don't care about hope.\nDreams don't matter!\nI won't let you... go to the 'Prix de l'Arc de Triomphe'!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I'm dragging you down!\nI'm going to be――the star!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Too little, too late...\n—Win Variation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You and I\nhave long since grown apart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "If they had attacked alongside the recent rain, they might have borne fruit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You think you can lay a hand on\nmy rock-solid throne after all this time?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...I'll make it reach! \nBecause... the race hasn't even started yet!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Fufu...\nHahaha...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yeah.\n—Pathetic.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Even a cornered rat can, at best,\nonly bite the cat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Show your fangs to a lion,\nand you'll see what happens... I shall trample you.\"",
+      "choice_data_list": []
+    }
+  ]
+}

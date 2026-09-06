@@ -1,0 +1,240 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "During an outing with Inari One,\njust as we started to feel a bit peckish—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Shall we get some food soon? Is there anything you're craving?",
+      "choice_data_list": [
+        "Anything is fine."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "What's with the half-hearted attitude?\nYou really sayin' anything goes?",
+      "choice_data_list": [
+        "Hmm... as long as it fills our bellies..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hmm, is that so?\nAnything, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Well, that actually makes things even more interesting! This great Inari just came up with a brilliant idea.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "How about a little side game? We draw lots\nto decide what we're eating—what do ya say?",
+      "choice_data_list": [
+        "Nice.",
+        "Sure."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Alright! Guess I'll whip up the lottery real quick then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Alright! That's pretty much that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Alright then, draw a ticket. Once you open the paper, the shop's name will be on it.",
+      "choice_data_list": [
+        "By the way, what kinds of shops are among the choices?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Oh, curious?\nI was just about to announce that right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "“—First, the town's specialty: the famous, ultra-spicy hot pot from 'Agonizing Super Mala.'”",
+      "choice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hehehe. Pop open the lid of the cauldron of hell,\nand you'll find a crimson scorching inferno.\nThey say one bite'll keep the fire burning for three days straight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Whoa there, the others aren't any less impressive either!\n'Tokumori Dojo', the competitive-eating restaurant where Umamusume food fighters clash daily and leaving leftovers is strictly forbidden!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "The bug cuisine specialty shop, \"Survival Instinct\"! The taste is top-notch, but you need some nerve to try it!\nThere's a whole bunch of other fun shops lined up too, heheh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Oh, can't forget this.\nThere's also that classic onigiri shop, Toyouke-an.\nTheir inari sushi is seriously delicious too.",
+      "choice_data_list": [
+        "That's what's so great about it..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Whoa, that kind of thing is up to the gods.\nWell, just go ahead and draw one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What started as a casual remark turned into a huge deal. Pleading desperately for the final shop, I nervously drew a ticket—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Oh, Toyoukean, huh?\nMan, you've got some crazy luck!",
+      "choice_data_list": [
+        "Thank goodness..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "...Heheh. Now that it's settled, let's go buy them right away.\nI know a spot nearby with a great view, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And so we moved on to the shop in question, bought some inari sushi,\nand headed to the scenic spot\nthat Inari One recommended.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Gaaah! This is the stuff!\nThis sweet and savory flavor is simply irresistible!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"How's that, Trainer-san?\nKnowing you won it in a lottery makes it taste the absolute best, don't it!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When I nodded without hesitation, for some reason Inari One began to snicker quietly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "...Pffft... Ahhahaha!",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ah, nah. Sorry about that, Trainer. Looks like I went and caused some trouble.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "About that raffle... The truth is, from the very start,\nit only had tickets for the rice ball shop in it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Hehe, since you told me anything goes,\nLady Inari just couldn't resist a little mischief, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Still, Boss, eating good food in a place with a great view like this really hits different, doesn't it?\"",
+      "choice_data_list": [
+        "That's certainly true..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Still, Big Sis, eating good food in a place with a great view like this really hits different, doesn't it?\"",
+      "choice_data_list": [
+        "That's certainly true..."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Even when it comes to a single meal, you can't be careless.\nYou've gotta make sure you don't forget\nto take proper care of yourself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "...After all, this fleeting world is a tough place.\nThings rarely go as smoothly as you'd like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"That's precisely why. No matter what, keep a cool head.\nThat way, whatever happens,\nyou can stand firm and enjoy it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Inari One talking while gazing at the sky.\nCould that prank have been her way of passing down that quintessential Edokko spirit, I wonder—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Whoops, went on a bit of a tangent there.\nWell, anyway, having that kind of mindset\nis what being \"chic\" is all about!",
+      "choice_data_list": [
+        "I want to become a classy person too.",
+        "I want to become a refined person too.",
+        "Still, this inari sushi is delicious!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Whoops, went on a bit of a tangent there.\nWell, anyway, having that kind of mindset\nis what being \"chic\" is all about!",
+      "choice_data_list": [
+        "I want to become a classy person too.",
+        "I want to become a refined person too.",
+        "Still, this inari sushi is delicious!"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah, no need to worry about that.\nAfter all, you've got a role model\nright by your side!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "That said, I ain't gonna spell it out every single time like I just did.\nOverexplaining things ain't stylish.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "At the end of the day... it just means follow my lead!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Weren't you listening?! Sheesh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "—Well, it's fine. Doesn't change the fact that I pulled a prank, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Eat up and enjoy. ...Heh.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, while training\nwith Katsuragi Ace—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Pheeew...――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Lately, Katsuragi Ace has been showing\nsigns of deep fatigue.",
+      "choice_data_list": [
+        "...Are you feeling unwell?",
+        "...Are you not feeling well?"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Mmm, nothing hurts or feels especially bad, but lately it feels like it's gotten a wee bit harder to shake off fatigue...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "I'm able to eat, but still...\nHmmmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Perhaps the fatigue from running\nthe Classic Triple Crown route\nis still lingering within her...?\"",
+      "choice_data_list": [
+        "Maybe we should hold off on entering races for the rest of the month."
+      ]
+    },
+    {
+      "name": "",
+      "text": "For the sake of challenging the Senior year next year, it wouldn't hurt to play it safe for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Yeah!\nI don't wanna rush now and ruin next year.\nLet's be careful and focus on what we can do right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—And so, we decided to refrain from entering any races for the rest of the month, prioritizing Katsuragi Ace's recovery.",
+      "choice_data_list": []
+    }
+  ]
+}

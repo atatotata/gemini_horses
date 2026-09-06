@@ -1,0 +1,46 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Starting today is the \"Summer Training Camp\"—\r\nIntensive training to improve skills begins.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"So this is the training camp...\r\nTrainer, there's something I'd like to ask you.\"",
+      "choice_data_list": [
+        "What is it?",
+        "What is it?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I wonder if this training camp facility...\r\nhas a buffet?",
+      "choice_data_list": [
+        "...Haven't you forgotten this is a training camp?",
+        "...Haven't you forgotten we're at training camp?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"No, I haven't forgotten.\nNor have I forgotten how important this training camp is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "To win every single race,\r\nI plan on training thoroughly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"I'll be fine. I'll do my best.\r\n...I just think meals are important too, that's all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Our intense summer training camp with Oguri Cap has begun!",
+      "choice_data_list": []
+    }
+  ]
+}

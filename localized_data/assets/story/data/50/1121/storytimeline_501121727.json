@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "\"To have won so many plushies...!\nI am in awe of your masterful skill!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Would you mind if I took half, then?\nFufu, my family will be thrilled.",
+      "choice_data_list": [
+        "Forget half, I'll give you the whole thing!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Huh...?\nOh no, I couldn't possibly!\"",
+      "choice_data_list": [
+        "I want to give a present to someone who cares about their family so much.",
+        "I want to give a present to someone who cares about their family so much."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "...!\nTrainer-dono...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Thank you very much.\nWell then, maybe I'll display one of them in my dorm room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "My heart flutters every time\nI look at this girl... Fufu!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

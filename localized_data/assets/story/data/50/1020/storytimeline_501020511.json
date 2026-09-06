@@ -1,0 +1,306 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Lunch break. I spotted Seiun Sky and was about\nto call out to her, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "\"Sei-chan, that thing the other day was amazing~!\nI felt like I got so much out of it!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Fufu, we have other featured items too~.\nWe make a killing with them.\nIf you want those too, I can set them aside for you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Yeah, please do! Ah, that's right!\r\nCan I tell my other friends about it too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sounds good to me. Everyone wins, after all.\nFeel free to keep referring them my way~. Later!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...What an indescribably suspicious conversation.\nJust as I hesitated over whether to call out to them...",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Sky-san!\nStop with the shady business this instant!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whoa, you scared me!\r\nHuh, what are you talking about?",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Don't play dumb! Talking about making a fortune, brokering deals! You were clearly talking about shady underworld business!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Ah. I see, I see.\nSo that's how it is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hmm, this is bad. I've been found out, huh...\nAs expected of King... or should I say, Great Detective King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "\"You're sorely mistaken if you think you can escape my sight!\nNow, turn over a new—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, before that. What kind of dirt\ndo they have on you, Sei-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "You're a great detective, after all. Naturally,\nyou've already secured decisive evidence, haven't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Ah...... Of course I did!!\nDon't underestimate the King's investigative skills!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, scary, scary. Looks like Sei-chan better get her affairs in order.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Kh... In that case,\r\nI have to catch their tail no matter what...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "\"...Hey, you over there!\nSky-san's Trainer, who's been watching from the side this whole time!\"",
+      "choice_data_list": [
+        "Me?!",
+        "Me!?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "\"Cooperate with the investigation! Aren't you\nworried about Sky-san too!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "\"So as a special privilege, I'll grant you the right\nto suggest how we should gather evidence! Let's hear it!\"",
+      "choice_data_list": [
+        "Chase after Seiun Sky",
+        "Catch them in the act and storm in!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "I see, a stakeout and tailing!\nNow that that's settled, let's go after them right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Phew. All right, one more lap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Seiun Sky is doing voluntary training...?! How suspicious! There has to be something going on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oho, if it isn't Great Detective King...\nIs your Trainer your assistant, perhaps?",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Sky-san... It's bizarre seeing you\ntrain eagerly on your own.\nThere's definitely something up, isn't there?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Well, it might sound suspicious, sure~\nBut what do you mean by 'something', for example?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "T-That's, uhm... She could be testing out\nthe performance of illegally forged horseshoes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "...No! I bet she's pretending to do voluntary training,\ngoing around making contacts for underground deals,\nor secretly smuggling black market goods!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oho, what a bold and imaginative deduction.\nAs expected of you, King. I'm truly impressed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Ohohoho, isn't that right!\nJust give it up already!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Alright, alright. Guess it's about time I give in\nand show it to you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "—Prized vegetables grown by Sei-chan's family.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Haaah!? You were just sharing\nvegetables with everyoneeee!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Yeah. My family sent a bunch of stuff over~\nso Sei-chan's feeling totally energized now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "W-Why didn't you tell me?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Fufufu, let's just say I wanted to see what\nthe 'baffled detective' King is capable of.\n...Farewell!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Wh-Wh-Wh... What the heck?!\nSky-saaaan!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seiun Sky leading the charge, pursued by King Halo.\nI watched the two of them sprint away with mixed emotions...",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "I see! Instead of gathering trivial evidence, we'll catch them red-handed at the scene!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, King Halo's friends joined in,\nand everyone decided to stake out together.\nAnd then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Haaah, I'm exhausted...\nMan, carrying \"this\" around isn't easy either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bob-Haired Umamusume",
+      "text": "...Uhh, King. This is Point A.\nSeiun Sky is currently taking a break~.\nShe has an extremely suspicious-looking bag right next to her~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Alright! Now's our chance!\nEveryone, let's go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Give it up, Sky-san! I've finally caught you red-handed with decisive proof!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cat-Eyed Umamusume",
+      "text": "You're under arrest! Surrender now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ohoho, if it isn't the King Detective Agency!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...And then.\nWhen I examined the contents of the crucial package—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Wh... What is this?\nThere are only vegetables in here...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Because I was just handing out vegetables sent from my family home to everyone. We're a farming family, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "N-No way...\nSo, it was all just a misunderstanding on my part...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hehehe.\nQuite the colossal swing and miss there, 'Detective' King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cat-Eyed Umamusume",
+      "text": "...Well, anyways.\r\nThose vegetables look delicious, Sky-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, if you want some, I can bring it later.\nI still have plenty left over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mmm, but that adds yet another delivery destination. Even as muscle training, this might be a bit much~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "I kinda want someone to help me out here, nya~\n...Like a certain someone who suspected me of weird things, for instance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "A-Alright, fine!\nI'll help you out to make up for it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...A few days later, word came that Seiun Sky,\nwith King Halo's help, had successfully\nfinished handing out all the vegetables.\"",
+      "choice_data_list": []
+    }
+  ]
+}

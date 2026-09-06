@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Super Creek—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "—Oh.\r\nFufu, that might actually be nice...♪",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Look over there~\r\nThere are so many Paka Petit plushes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Super Creek points,\r\nthere's a claw machine filled with plushies styled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu, aren't they adorable?\r\nI feel like I want to take care of all of them~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "“Still, I haven't really played\nthese kinds of games much before...”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Super Creek made a troubled expression.",
+      "choice_data_list": [
+        "...Shall I get that for you?",
+        "...Shall I take that?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Huh, really? In that case...\r\nI'll gladly take you up on that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "\"Please do your best!\r\nAh, but pushing yourself too hard is a big no-no!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

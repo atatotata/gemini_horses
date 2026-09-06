@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—Hearing that Mejiro Ardan had fallen ill during class, I rushed frantically to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Trainer.",
+      "choice_data_list": [
+        "Are you okay?!",
+        "Are you okay!?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yes... I am deeply ashamed.\nIt was a history class, so I suppose I got a bit carried away—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "“Still, I only got a little dizzy,\nand I'm already feeling better... ugh—”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...It feels like my body is telling me\nnot to push myself too hard today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Being able to tell your physical condition like this gives mixed feelings—I'm not sure if it's good or bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Mejiro Ardan let out a deep breath and lay down on her bed.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Commentary",
+      "text": "The winner of this year's Spring Grand Prix is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The winner's name was called out.\nHowever, that name was not\n<chrname>'s.",
+      "choice_data_list": [
+        "(I really wanted to win this one, though...!)"
+      ]
+    },
+    {
+      "name": "Brown-haired Spectator",
+      "text": "………………—\n……<chrname>!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Brown-haired Spectator",
+      "text": "We're not giving up!!\nOn your victory! On seeing you become number one in the world!",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "—\"That 'dream' was once an 'aspiration.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "\"We simply looked up to her.\nI think we just accepted that she was far away,\nsomeone entirely beyond our reach.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "\"—But what about now?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "\"\"When she strikes the turf in frustration, we hold back our own tears of regret just the same.\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "\"Seeing her vow to turn even this defeat into strength warms the heart, earning her a round of applause.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "\"\"We already share the same aspirations as her.\nInstead of looking up at it from below as mere 'admiration'—\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "Seeing the dream of becoming the world's best as an achievable goal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monthly Twinkle Article",
+      "text": "\"—'If it's her,\n　I believe she can make it happen.'\n　　　　Interview & Article: Etsuko Otonashi\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Campus Announcement",
+      "text": "\"Everyone in Project L'Arc!\nAssemble in the gymnasium immediately!!\"",
+      "choice_data_list": [
+        "…So this day has finally come.",
+        "…This day has finally come, huh."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days had passed since the Takarazuka Kinen...\nAn announcement from Chairwoman Akikawa echoed throughout the academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And alongside <chrname>,\nI head for our destination. This time, to the venue of\nthe National Representative Match to decide Japan's representative.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One evening, as Curren Chan led me through\nthe shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ah! They're already at it~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Big Brother, let's do the lottery raffle♪\r\nCurren has tickets!\"",
+      "choice_data_list": [
+        "You went to the shopping district for that?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Big Sis, let's do the lottery raffle♪\r\nCurren has tickets!",
+      "choice_data_list": [
+        "You went to the shopping district for that?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehe, actually, you see♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I wanted to share the excitement\r\nof the raffle with you, Big Brother♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I wanted to share the thrill of the\nraffle draw together with you, big sis / big brother♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Also, I wanted you to film the part\r\nwhere I spun the raffle wheel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For Curren Chan, having material for a social media post\nseems more important than the prize itself.",
+      "choice_data_list": [
+        "Alright, let's do it!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "That's what I'm talking about♪\r\nBig Bro, get your phone ready, ready♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "That's what I'm talking about♪\r\nBig Sis, get your phone ready, ready♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Curren Chan cutely gripped the raffle handle...\nBuilding suspense, building it, building it...",
+      "choice_data_list": [
+        "Not yet!?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I thought it'd be boring if I spun it right away♪\nHere goes, then~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Spun it!\r\nAnd the result is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Whoa?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ooooh!",
+      "choice_data_list": [
+        "You did it!",
+        "You did it!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yeah, what a shocker~\r\nWho would've thought we'd hit the grand prize?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "For good visual appeal, I was thinking maybe\r\na mountain of carrots, but~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren is just so cute,\r\nmaybe it got drawn in♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Still, taking it for granted that she'd pull 2nd prize\r\nor higher is so very Curren Chan...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "So here, this ticket is\r\na present for you, Big Brother!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "So here, this ticket is\r\na present for you, Big Sister!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren got a great video, so she's satisfied♪\nConsider this a thank-you for tagging along.",
+      "choice_data_list": [
+        "Still..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I'd be glad if it gives you a chance to unwind, Big Brother.\r\nFeel free to go whenever you'd like, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I'd love it if it helps you unwind, Big Sis.\nFeel free to go whenever you want, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She gives her all to obtain what she desires, but doesn't care much\nabout things acquired by chance... That's so like Curren Chan. But—",
+      "choice_data_list": [
+        "I really can't take this."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Eeeh~?\nToo late, I already gave it away~.",
+      "choice_data_list": [
+        "No, but—"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Got it!\r\nWell then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "If you can catch up to Curren, sure!",
+      "choice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Alright, ready, set, go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"However, running as hard as I might,\nthere was naturally no way I could catch up—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Good work, Big Brother!\r\nToo bad for you, though—Curren won!\"",
+      "choice_data_list": [
+        "*pant* *pant*..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Great job, big sis!\r\nToo bad for you though, Curren wins!",
+      "choice_data_list": [
+        "*pant* *pant*..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh dear, you really ran your heart out.\r\nJust like you, Big Brother, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh dear, you really ran your heart out.\r\nJust like you, Big Sister, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "It's a chance to get some good rest without Curren around, so you should just take it.",
+      "choice_data_list": [
+        "Curren's the one who really needs a break.",
+        "Curren's the one who really needs a break, you know."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She had a tendency to shoulder things alone on a daily basis.\r\nI conveyed my wish for her to carve out some time to catch her breath...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"...I see,\r\nso it was all for Curren's sake, huh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh, Big Brother, honestly...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Seriously, big sis...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Alright, Curren gives up.\r\nBeing loved this much might actually be a problem~",
+      "choice_data_list": [
+        "Well then..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yup.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Once everything is finished and we reach a milestone...\r\nlet's go together♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I decided to hold onto\r\nthe \"Hot Springs Trip Ticket\" for the time being.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yayâª\r\nIt's extra special grade!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Still, since it's premium quality,\r\nit might be a waste to just make hamburger steaks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"If we're going all out, let's make it feel like a party and pile on all the premium stuff♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "So with that said...\r\nlet's look around the shopping street a little longer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren wants accessories and stuff too.\r\n...Ah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "By the way, Onii-chan,\r\ndo you like cooking?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "By the way, Onee-chan,\r\ndo you like cooking?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Just small talk, you know?\r\nCurren, well~...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...I guess I just come to like it\r\nwhenever the need arises♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren wants to try\r\nOnii-chan's home cooking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren wants to try\r\nOnee-chan's home cooking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, we went back to the academy\r\nand held a deluxe carrot hamburg steak party, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before I knew it, I had become the chef, serving and entertaining Curren Chan myself...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Waaah!\nThat really is a massive heap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "With a harvest festival vibe,\r\ndecorating wooden crates would really make a complete set♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "And an orange-themed outfit... \r\nYep, looks perfect!",
+      "choice_data_list": [
+        "Was this your goal right from the start?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Aha, it was just a coincidence~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I just happened to know that the carrots from the lottery\r\nare crazy sweet and have a suuuper pretty orange color, that's all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Maybe I should ask Onii-chan to help me\nshoot some photos once we get back?",
+      "choice_data_list": [
+        "Yeah, as the one taking the pictures?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Maybe I should ask Onee-chan to help me\nshoot some photos once we get back?",
+      "choice_data_list": [
+        "Yeah, as the one taking the pictures?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No.\nNot that way...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "'#AllCarrotsUsedInThisShoot\r\nWereDelightfullyFinishedByTheStaff'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...One stick.",
+      "choice_data_list": [
+        "Disappointed? "
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmm? Just now?\r\nI was just lost in thought for a second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "How to make the most of this one stick... Well, I've already made up my mind♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hold a carrot up to your cheek...\nAll right, say cheese♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Now everything's perfect♪\r\nI'll call it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "'#CarrotChallenge\r\n#Carrots #ActuallyPhotogenic\n#CuteCurrenChan'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Maybe I'll roast the carrots whole.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, sparked by Curren Chan's post,\r\nthe '#CarrotChallenge' trended on Umastagram for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "……。",
+      "choice_data_list": [
+        "That was unfortunate...",
+        "That was unfortunate..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Aha, well it can't be helped~.\r\nIt's a lottery, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Come to think of it, Curren was thinking of doing some shopping on the way back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I've been thinking it's about time\r\nto replace my makeup brushes for shoots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Let's see... Including spares,\r\nmaybe I should restock around a hundred.",
+      "choice_data_list": [
+        "C-Curren!?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Big Brother, do you still have time?\r\nCould you hang out with me a little longer?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Big sis, do you still have time?\r\nWould you mind hanging out with me a little longer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Besides,\r\nit means we'll get to spin the raffle about 100 times...",
+      "choice_data_list": [
+        "(Her eyes are completely serious...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I desperately tried to pacify Curren Chan\r\nwhen her competitive streak flared up...\nand managed to settle things by promising her a date.",
+      "choice_data_list": []
+    }
+  ]
+}

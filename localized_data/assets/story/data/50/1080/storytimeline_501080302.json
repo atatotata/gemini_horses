@@ -1,0 +1,364 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, on the way back from an outing with Transcend—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh. Trainy, look, look.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Earlier at the bookstore, you bought the\n\"B-Horror Movie Special\" and got a raffle ticket, right?",
+      "choice_data_list": [
+        "Just one card."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Saying 'Here,' I hand the raffle tickets to Transcend as if it's the most natural thing in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Huh, me?",
+      "choice_data_list": [
+        "You can do it!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, if you're leaving it to me, I've got no choice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I'm going big here... and aiming for the hot springs~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Transcend eagerly turned\nthe lottery machine's crank!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Huh, seriously?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Trai-chan, they said hot springs!",
+      "choice_data_list": [
+        "Congratulations! Amazing!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Isn't my luck a bit too good~?\nI just hope I haven't used it all up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man A",
+      "text": "A hot spring trip, I'm so jealous!\nThat's a pair travel voucher, right?\nAnd for a pretty fancy inn, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Woman A",
+      "text": "Fufu. I'm sure all of her friends will want to go. It must be tough deciding who to take along.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "So, when are we going?",
+      "choice_data_list": [
+        "That'll be difficult for a while, I think"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "I know, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, if we're going, there are a bunch of things I'd like to look into first anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"We'll pick the right time, then.\nFor now, I'll leave the travel voucher with you~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I wonder if there's an undiscovered spot nearby,\na hidden hot spring. A secret bath.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "...Ah. Maybe I should make a travel itinerary?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Imagining the day of the hot spring trip,\nTranscend walked with a buoyant, excited skip in her step.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ah, we missed out on the hot springs~.",
+      "choice_data_list": [
+        "Still, it looks delicious."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Can we split it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh. I can handle this size.\nTrainy, get the white rice ready~!",
+      "choice_data_list": [
+        "Ooh!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Let's buy some side dishes too!\nThat way we can slap 'Our Special' in front of 'Deluxe'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After returning to the academy, I collaborated with Transcend to create the ultimate carrot hamburg steak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Isn't it perfect?",
+      "choice_data_list": [
+        "The Umamusume lured by the smell are..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Several Umamusume are looking over with glaring eyes...\nA \"just one bite\" attack might be imminent!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Oh no, I have to eat this fast...!\nWait, before that.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "'#TrainerAndToraChanSpecial'\n'#UltimateCollab'\n'#OurCarrotSalisburySteak', and done.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As Transcend types out her Umastagram post,\nvocalizing the tags—",
+      "choice_data_list": [
+        "…Huh? Everyone…"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The gathered Umamusume left apologetically.\nTranscend and I tilted our heads in bewilderment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hmm. I don't really get it, but looks like we can eat peacefully now, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The special hamburger steak I grilled\ntogether with Transcend tasted\nfar beyond top-tier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Well, guess that's about it~\nTrai-chan, want half?\"",
+      "choice_data_list": [
+        "No, just two or three would be..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Alright, I'll take my share...\nand hand out the rest to my friends.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ah, maybe if I give these to Accu-san,\nshe'll make some pickles.\nGuess I'll go ask her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Hitting the carrot prize is amazing!\nI'll make some delicious pickles with them, so look forward to it, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Thanks, Accu-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ah, but shouldn't Tran-san\nbe the one to pickle Trainer's portion?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"N-No, it'd be such a waste if I messed up, so I'll ask Accu-san~.\nI'll help out, of course!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "...Wait, you're talking like it's a given that I'm gonna share some with you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "? Was I mistaken?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As Wonder Acute looked on in bewilderment,\nTranscend casually scratched her cheek\nand chuckled, \"No, you're not wrong.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "A solitary carrot... It brings about a strange sense of melancholy...",
+      "choice_data_list": [
+        "Anything tastes like a feast when we eat together!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, come on, Trainer-chan!\n...And don't say that while fake-crying!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After letting out a chuckle,\nshe stared intently at the single carrot in my hand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "How about we cut 'em into carrot sticks and snack on 'em while watching a movie?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Looks like that \"B-Horror Movie Marathon\" is gonna come in handy right away, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Transcend's glasses flash.\n\"Anything's a feast if we eat it together.\"\n—Those words seemed less and less like a joke.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Actually, these tissues have\nan incredible function...",
+      "choice_data_list": [
+        "For example?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "You can eat it.",
+      "choice_data_list": [
+        "Well... it does look sweet, maybe...?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Still, this isn't a feature, is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Transcend was left clutching her tissue in glum dejection.",
+      "choice_data_list": []
+    }
+  ]
+}

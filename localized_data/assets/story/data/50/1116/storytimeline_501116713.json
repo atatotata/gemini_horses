@@ -1,0 +1,117 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I brought Gentildonna to the infirmary after she got injured during training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "You're exaggerating. If you make a fuss over a minor scratch like this, won't you be unable to do anything at all?",
+      "choice_data_list": [
+        "Even so, we have to treat it just in case."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I treat the injury while assessing its condition.\nFortunately, it's nothing serious, but pushing too hard could risk making it worse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "It's over, then.\nIn that case, I'm heading back to training.",
+      "choice_data_list": [
+        "Hold on a sec!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Oh, what is it?",
+      "choice_data_list": [
+        "It's best to err on the side of caution and rest here.",
+        "In that case, let's be careful so it doesn't happen again...!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"Is that your view on the matter?\nPersonally, I don't feel there is any issue.\"",
+      "choice_data_list": [
+        "Won't you trust my word on this?",
+        "Will you trust my words on this?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It wasn't that I doubted her words.\nHowever, wishing for her safety,\nI pleaded with earnest eyes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...I see.\nThen I'll believe in you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "However, please adjust the regimen so that I can make up for the time I rested.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Gentildonna rested to play it safe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Yes, I understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Gentildonna resumed her training, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "—...Kgh!?",
+      "choice_data_list": [
+        "Are you okay!?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Looks like my assessment was a bit naive.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "I'm wrapping up training. Training that doesn't push me to my limits is something I simply cannot stand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Gentildonna's injury\nhas gotten worse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Gentildonna resumed her training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Phew. Looking good.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "I'll keep going like this.\nSitting quietly just isn't in my nature.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gentildonna continued to exercise her body\nas much as she reasonably could.",
+      "choice_data_list": []
+    }
+  ]
+}

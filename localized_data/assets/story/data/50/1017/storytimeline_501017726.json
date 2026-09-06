@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Symboli Rudolf—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh... Look at that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Symboli Rudolf pointed toward a crane game.\nThe prizes were Umamusume plushies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Cherry, plum, peach, and damson—each blooms in its own way. There are all kinds of Umamusume.\nDon't you think there's a real charm to that?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "I would dearly love to display this in the student council room, but... Hmm, what to do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Symboli Rudolf fell silent,\nher gaze remaining fixed downward on the plushie.",
+      "choice_data_list": [
+        "Is something wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"I'm not particularly familiar with amusement centers like this. I've never even touched a claw machine before.\"",
+      "choice_data_list": [
+        "Could you leave this to me?",
+        "Could you leave this to me?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Right person for the right job, is it?\nI have no reason to refuse such an offer right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Trainer-kun, I expect great results.\nI'm counting on you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

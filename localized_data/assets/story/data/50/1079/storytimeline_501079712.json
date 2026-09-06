@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Worried about Furioso not showing up for training, I went looking for her and ended up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "~♪ Fufu, what a truly beautiful beach.\nThere are so many seashells I never see back home.",
+      "choice_data_list": [
+        "Thank goodness, you were here.",
+        "Thank goodness, you're here."
+      ]
+    },
+    {
+      "name": "Furioso",
+      "text": "! Are you looking for shells too, Trainer?\nIt brings back memories, clam digging in Funabashi—",
+      "choice_data_list": [
+        "Furioso, you're past time for training"
+      ]
+    },
+    {
+      "name": "Furioso",
+      "text": "—Ah!? I-I'm so sorry!\nI was just overwhelmed with nostalgia...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I gave a firm warning so that the same mistake wouldn't happen again.",
+      "choice_data_list": []
+    }
+  ]
+}

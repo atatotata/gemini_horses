@@ -1,0 +1,94 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Looking for Vodka,\r\nI head up to the rooftop and find—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Heheh... Getting fan letters really isn't\r\nmy style, but it still makes me happy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Hmm...?\r\nWhat's this, a portrait of me?",
+      "choice_data_list": [
+        "You got a fan letter?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Wha...?! ...Oh, it's just you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Well, even I get fan letters once in a while, you know...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "And so, when I opened it,\r\nthere was a portrait of me inside the envelope.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Haha, and the funny thing is, it looks nothing like 'em.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "I look way cooler than this\r\nwhen I'm actually running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Still—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"Some little kid probably worked really hard\nto draw this for me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"Something like this touches my heart way more than any long fan letter ever could.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "...All right!\r\nWell, let's head out.",
+      "choice_data_list": [
+        "Where to?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Huh?\r\nTraining, obviously, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "I don't wanna disappoint my little fans, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"I'm gonna win the next race by a mile\r\nand show everyone an even cooler side of me!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Come on!\nI'll leave you behind if you keep spacing out, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems a fan letter from a young fan has ignited a fire in Vodka's heart.",
+      "choice_data_list": []
+    }
+  ]
+}

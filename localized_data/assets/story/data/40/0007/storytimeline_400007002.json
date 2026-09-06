@@ -1,0 +1,415 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, a short while after\n<chrname>'s debut race had ended.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The holding of the U.A.F. was publicly announced,\nalong with news of the test tournament, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elfie's Fan A",
+      "text": "That tournament Elfy was promoting on stream the other day...\n\"U.A.F.\", was it? What do you think about it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elfie's Fan B",
+      "text": "Well, it's novel, I'll give you that.\nI just wonder if it'll actually get people hyped up, honestly—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elfie's Fan C",
+      "text": "—I mean, we already have something as massive as the Twinkle Series, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Elfie's Fan D",
+      "text": "Totally~! If people wanna see Umamusume shining,\nthey're naturally gonna go check out the races instead, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "From the public reactions to the \"U.A.F.\" that I've been hearing,\nthere seemed to be a slight sense of... bewilderment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Amidst such changes,\nas for myself and <chrname>—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Helllooo, everyone!\nThanks for all your hard work again today!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "“—Today, on Tracen Academy's grounds,\nanother joint practice session was being held by the competitors for the trial meet.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "...Trainer, thank you for your hard work!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Pardon me, I know you must be tired right after practice,\nbut do you have a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Actually... there's something I'd like to consult you about, Trainer.",
+      "choice_data_list": [
+        "What is it?"
+      ]
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "—Would it be all right if you and I filmed\na video together, <chrname>-san?!",
+      "choice_data_list": [
+        "Huh!?"
+      ]
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "—Elfie. I think we should explain our\ncurrent situation to the Trainer first.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Whoops!\nI'm so sorry, I got ahead of myself...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Trainer.\nAllow me to add a little more detail.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Currently, we are running various promotions to increase awareness of the 'U.A.F.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Among them, there is a video where Elfi demonstrates and explains the U.A.F. events—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "If it is agreeable to you, we would like\n<chrname>-san to make an appearance\nin that video as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "“—Having active competitors from the Twinkle Series\njoin the U.A.F. carries tremendous significance\nfor this tournament.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Our aim is to broadly promote the tournament's depth of talent by having you co-star with Elfie.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "—Also, I want to shoot this in a match format!\nThat way, the heat of the competition and the tension will really electrify the viewers!",
+      "choice_data_list": [
+        "So, you chose <chrname> as your opponent?"
+      ]
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Yes! Watching <chrname>'s\ndedicated training convinced me\nbeyond a doubt that she's the absolute best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "At present, joint practices are likely your only opportunity\nto compete against other runners.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "I was hoping you might utilize this\nas a valuable opportunity for actual combat practice...\nWhat do you think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "True, opportunities to compete under conditions so close to the real thing are exceedingly rare right now. It seems well worth accepting the offer...",
+      "choice_data_list": [
+        "I'll consult with <chrname>!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"—Afterward, I discussed it with <chrname>,\nand we agreed to cooperate\non shooting the video.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "A few days later, filming began with Sonnet Elfie\nfor a mock-battle sports introduction video—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "――First up is the giant hammer throw, the \"Dynamic Hammer\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"The 'Dynamic Hammer' is an event where competitors throw a hammer several times larger than the ones used by humans to see who can throw it the farthest.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Made possible only by the power of an Umamusume,\nits true-to-name dynamism is the main attraction.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Allow me to go first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "—Oooooooooooh!!!\nHere I goooooooooooo!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The giant hammer thrown by Sononet Elfie carved a magnificent arc through the air--",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(BOOM!!!!!!!!!!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Accompanied by an earth-shaking roar,\nshe smashed a record never seen before in practice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Phew......—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The next event is 'Godspeed Karate.'\nParticipants compete to see how many of the surrounding boards\nthey can destroy with strikes within the time limit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"It's an event where the explosive power and strength unique to Umamusume are on full display, but—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Here I go!!\nâSeyaaaaaaaah!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(RATATATATATATATATATATATATATATATAT!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—Sonon Elfie, moving at a speed that made it look like she created clones, broke almost every board around her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—And at last, it was time to film\nthe final event: 'Hell Swim Shoot.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Grab the ball on land, dive into the pool, and shoot\ninto the goal above the water. They compete on\nhow many times they can pull this off within the time limit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It was an intense sport that heavily tested both speed and stamina\ngoing back and forth between land and water, so demanding that\njust watching took one's breath away, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "—HAAAAAAAAAAAAAAAAHHH!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Hardly losing any speed as she moved, Sononet Elfie accurately sank shot after shot into the goal...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "...All right!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "...Phew~! Gave it everything I've got~!",
+      "choice_data_list": [
+        "(Amazing...!!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "When all was said and done, Sonon Elfie\nput on an astounding performance\nacross all 15 events—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "<chrname> also gave it her all in the competition,\nbut ended up trailing far behind Sonon Elfie\nin the overall score...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Trainer, <chrname>! Thank you so very much for your hard work today!",
+      "choice_data_list": [
+        "Excellent results!"
+      ]
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Heheh, thank you very much!\nI think it's because I was able to compete with <chrname>-san with everything I had! And besides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Because I want to ensure I bring no shame,\nneither as an athlete nor as a representative of 'U.A.F.'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Working together with everyone to put on a great meet... frankly,\nI intend to become the No. 1 athlete Umamusume!",
+      "choice_data_list": [
+        "Ooh...!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "I suddenly wondered how someone with such incredible physical ability and passion ended up becoming an UmaTuber.",
+      "choice_data_list": [
+        "Can I ask you something?"
+      ]
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Yes! What is it!?",
+      "choice_data_list": [
+        "...Why did you start your UmaTuber activities?"
+      ]
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Why, to spread the joy of sports across the whole wide world with a bang, of course!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "...Even so, it's not like I set out\nto become an UmaTuber right from the start, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "You might already know this, Trainer, but I'm actually a Tracen Academy alumna...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "\"...Even as someone who's loved sports since childhood, racing was always something I truly looked up to.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "So, when I worked my hardest and actually got in,\nI was sooooo happy, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "In the end, as an athlete,\nI wasn't able to leave behind any remarkable results in races.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "“Still, I had no regrets. If anything,\nI felt a sparkling sense of profound emotion...!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "Competing seriously with all your might...!\nPushing past your own limits...!\nConnecting with everyone through sports...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "\"Any sport that lets you do that\nis really the absolute best!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "It's precisely because I encountered so much genuine passion through my life at Tracen Academy that I was able to realize that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "“—And so, after going to college, I started playing all kinds of sports, and every single one of them was so much fun...!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "...Still, as I was doing that,\nI started thinking, 'Isn't this a bit of a waste?'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "There's no reason Umamusume can't enjoy\nsports other than racing too.\nWe should be able to get hyped up for them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "And so, what we started to spread the joy of sports was streaming on UmaTube!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "\"And the U.A.F. represents the new possibilities in Umamusume sports that I have been searching for...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "\"I want to make the 'U.A.F.' an incredible competition that shows the world Umamusume can shine in sports other than racing too!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Hearing those words from Sononet Elfie and seeing the fire in her eyes, as someone who also engages in sports, I felt a passion that couldn't simply be brushed aside...!",
+      "choice_data_list": [
+        "—Let's make the \"U.A.F.\" a wonderful competition."
+      ]
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "! YES!\nI look forward to continuing to work with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"...And so, after learning how Sonnet Elfie felt,\nwe identified the areas <chrname> and I\nneeded to improve before the tournament—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It became a day where <chrname> and I renewed our determination\nto do our best and make the U.A.F. a great tournament.",
+      "choice_data_list": []
+    }
+  ]
+}

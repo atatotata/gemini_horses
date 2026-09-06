@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened when I was doing\nstrength training together with Gentildonna.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hmph...! Hmph...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hu... gh... !?",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Please don't worry about it.\nIt was just a slight headache.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――...Ngh. Dammit...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Creeeak... CRACK!!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gentildonna gripped the dumbbell so hard\nthat it broke into pieces!!",
+      "choice_data_list": [
+        "Your hand!! Are you okay!?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"...You're exaggerating.\nSomething like this is nothing to me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "“Still, tensing up without realizing it\nis somewhat inconvenient, isn't it?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gentildonna seems to be suffering from a migraine\nso severe that she can't even\nregulate her own strength...",
+      "choice_data_list": []
+    }
+  ]
+}

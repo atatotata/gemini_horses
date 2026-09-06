@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm... My skin seems rather irritated.\r\nPresumably due to the experiment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "I thought I was reasonably careful with handling the chemicals, though.",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you sure that's okay?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "It's just in a rough state; there's no harm in it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "If you didn't even notice, it probably wasn't a big deal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Think nothing of it.\r\nIf it gets worse, I'll just formulate an ointment for it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Though told to ignore it, Agnes Tachyon seemed slightly bothered by a faint pain or itch...\"",
+      "choice_data_list": []
+    }
+  ]
+}

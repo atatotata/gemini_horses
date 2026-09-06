@@ -1,0 +1,731 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Family Fan A",
+      "text": "McQueen-saa~n!\nPlease do your best this autumn season as well~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan B",
+      "text": "I prepared a banner woven from the finest gold thread,\nperfect for McQueen-san's brilliance~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, my...! Thank you very much.\nI will continue to devote myself daily to live up to your expectations.",
+      "choice_data_list": [
+        "(Her fans' passion is incredible...!)"
+      ]
+    },
+    {
+      "name": "Mejiro Family Fan C",
+      "text": "*sigh*... Even the way she waves is gorgeous...\nMcQueen's elegance knows no bounds~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan D",
+      "text": "I haven't spoken directly with her Trainer,\nwho serves as her coach, but...\nI'm sure he must be a wonderful person as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan D",
+      "text": "I haven't spoken directly with her Trainer,\nwho serves as her coach, but...\nI'm sure she must be a wonderful person as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan E",
+      "text": "I am sure they possess both impeccable manners and dignity!\nAfter all, McQueen-san chose them, so they would never say anything unseemly!",
+      "choice_data_list": [
+        "(How lame!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A chill ran down my spine. If by some chance\nI ended up disillusioning Mejiro McQueen's fans,\nand on top of that...",
+      "choice_data_list": [
+        "(What if even McQueen is disappointed in me...!)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer?\nIs something the matter?",
+      "choice_data_list": [
+        "N-Nothing's wrong at all!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Trainer?\nWhat's with that tone of voice?",
+      "choice_data_list": [
+        "S-Sorry! That was pretty weird of me, huh!",
+        "S-Sorry! That was weird, wasn't it?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A blunder like this is utterly out of the question.\nI must master refined speech and proper conduct\nas soon as humanly possible...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Geez.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fans",
+      "text": "(...Murmurs, whispers...)",
+      "choice_data_list": [
+        "(McQueen's fans are here again today...)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer, do you have a moment?\nI have a proposal for today.",
+      "choice_data_list": [
+        "Wh-what is it?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Shall we move elsewhere first?\nWe stand out far too much here.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"...Coming out this far,\nthere's nobody around, is there?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "And so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ei!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(KABOOM!)",
+      "choice_data_list": [
+        "It's cold?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Now, I have prepared a water gun for you as well!\nPlease, splash me with all the water you desire!",
+      "choice_data_list": [
+        "Wait, what do you mean!?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "It means exactly what it sounds like!\nLook, you're wide open!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ei, ei, hup!!",
+      "choice_data_list": [
+        "W-Wait!!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No turning back now!\nFufu... come on, hurry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Mejiro McQueen won't listen to reason.\nIn that case, just as she says—",
+      "choice_data_list": [
+        "Got it, but no take-backs for you either!",
+        "Got it, but no take-backs for you either!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yes, bring it on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I'm completely soaked through~...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Fufu. Please don't apologize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Because you always face me so earnestly like that,\nI am able to stay true to who I am.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer. You are already a wonderful person as you are. There is no need to strain yourself so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Because you are the Trainer of Mejiro McQueen,\nchosen by none other than myself.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Shall I take a photo of your face right now,\nso that you can remember it anytime?\"",
+      "choice_data_list": [
+        "...No, I won't forget anymore.",
+        "...No, I won't forget anymore."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Fufu. In that case, never mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan A",
+      "text": "Kyaa, McQueen-san is soaking wet!?\nWhatever happened to you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "! Ah, ahh... this is...\nUm...",
+      "choice_data_list": [
+        "This is special training for the fall"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan B",
+      "text": "\"My, oh my! Is that so!\nAs expected of McQueen and the others!\nSo truly thoughtful~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Fufu.\nOh, Trainer, really.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"I wonder if I really should have taken a photo back then.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"...Your expression has become\nmuch more gallant than before.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan B",
+      "text": "I prepared a banner woven from the finest gold thread,\nperfect for McQueen-san's brilliance~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, my...! Thank you very much.\nI will continue to devote myself daily to live up to your expectations.",
+      "choice_data_list": [
+        "(Her fans' passion is incredible...!)"
+      ]
+    },
+    {
+      "name": "Mejiro Family Fan C",
+      "text": "*sigh*... Even the way she waves is gorgeous...\nMcQueen's elegance knows no bounds~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan D",
+      "text": "I haven't spoken directly with her Trainer,\nwho serves as her coach, but...\nI'm sure he must be a wonderful person as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan D",
+      "text": "I haven't spoken directly with her Trainer,\nwho serves as her coach, but...\nI'm sure she must be a wonderful person as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan E",
+      "text": "I am sure they possess both impeccable manners and dignity!\nAfter all, McQueen-san chose them, so they would never say anything unseemly!",
+      "choice_data_list": [
+        "(How lame!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A chill ran down my spine. If by some chance\nI ended up disillusioning Mejiro McQueen's fans,\nand on top of that...",
+      "choice_data_list": [
+        "(What if even McQueen is disappointed in me...!)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer?\nIs something the matter?",
+      "choice_data_list": [
+        "N-Nothing's wrong at all!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Trainer?\nWhat's with that tone of voice?",
+      "choice_data_list": [
+        "S-Sorry! That was pretty weird of me, huh!",
+        "S-Sorry! That was weird, wasn't it?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A blunder like this is utterly out of the question.\nI must master refined speech and proper conduct\nas soon as humanly possible...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Geez.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fans",
+      "text": "(...Murmurs, whispers...)",
+      "choice_data_list": [
+        "(McQueen's fans are here again today...)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer, do you have a moment?\nI have a proposal for today.",
+      "choice_data_list": [
+        "Wh-what is it?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Shall we move elsewhere first?\nWe stand out far too much here.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"...Coming out this far,\nthere's nobody around, is there?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "And so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ei!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(KABOOM!)",
+      "choice_data_list": [
+        "It's cold?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Now, I have prepared a water gun for you as well!\nPlease, splash me with all the water you desire!",
+      "choice_data_list": [
+        "Wait, what do you mean!?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "It means exactly what it sounds like!\nLook, you're wide open!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ei, ei, hup!!",
+      "choice_data_list": [
+        "W-Wait!!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No turning back now!\nFufu... come on, hurry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Mejiro McQueen won't listen to reason.\nIn that case, just as she says—",
+      "choice_data_list": [
+        "Got it, but no take-backs for you either!",
+        "Got it, but no take-backs for you either!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yes, bring it on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I'm completely soaked through~...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Fufu. Please don't apologize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Because you always face me so earnestly like that,\nI am able to stay true to who I am.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer. You are already a wonderful person as you are. There is no need to strain yourself so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Because you are the Trainer of Mejiro McQueen,\nchosen by none other than myself.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Fufu... Even so,\nI got a little carried away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Is this your fault too, I wonder?\n...Just kidding.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the next day—",
+      "choice_data_list": [
+        "McQueen, that's a great time!"
+      ]
+    },
+    {
+      "name": "Mejiro Family Fan A",
+      "text": "Oh, my! McQueen-san's Trainer\ncarries themselves with such a\ndignified presence too, don't they~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan B",
+      "text": "Even without speaking to them, I can tell!\nThe unbreakable bond between those two! It is simply magnificent!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "—Hey, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Without any fuss, just as they always are.\nMy Trainer is truly wonderful, wouldn't you agree?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "So please, don't push yourself anymore, okay?",
+      "choice_data_list": [
+        "Yeah, got it.",
+        "Yeah, I understand."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hehe, I'm glad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Because an overly stiff and formal version of you, of all people—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "—Because, it just feels so lonely...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan B",
+      "text": "I prepared a banner woven from the finest gold thread,\nperfect for McQueen-san's brilliance~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, my...! Thank you very much.\nI will continue to devote myself daily to live up to your expectations.",
+      "choice_data_list": [
+        "(Her fans' passion is incredible...!)"
+      ]
+    },
+    {
+      "name": "Mejiro Family Fan C",
+      "text": "*sigh*... Even the way she waves is gorgeous...\nMcQueen's elegance knows no bounds~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan D",
+      "text": "I haven't spoken directly with her Trainer,\nwho serves as her coach, but...\nI'm sure he must be a wonderful person as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan D",
+      "text": "I haven't spoken directly with her Trainer,\nwho serves as her coach, but...\nI'm sure she must be a wonderful person as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan E",
+      "text": "I am sure they possess both impeccable manners and dignity!\nAfter all, McQueen-san chose them, so they would never say anything unseemly!",
+      "choice_data_list": [
+        "(How lame!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A chill ran down my spine. If by some chance\nI ended up disillusioning Mejiro McQueen's fans,\nand on top of that...",
+      "choice_data_list": [
+        "(What if even McQueen is disappointed in me...!)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer?\nIs something the matter?",
+      "choice_data_list": [
+        "N-Nothing's wrong at all!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Trainer?\nWhat's with that tone of voice?",
+      "choice_data_list": [
+        "S-Sorry! That was pretty weird of me, huh!",
+        "S-Sorry! That was weird, wasn't it?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A blunder like this is utterly out of the question.\nI must master refined speech and proper conduct\nas soon as humanly possible...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Geez.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fans",
+      "text": "(...Murmurs, whispers...)",
+      "choice_data_list": [
+        "(McQueen's fans are here again today...)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer, do you have a moment?\nI have a proposal for today.",
+      "choice_data_list": [
+        "Wh-what is it?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Shall we move elsewhere first?\nWe stand out far too much here.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"...Coming out this far,\nthere's nobody around, is there?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "And so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ei!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(KABOOM!)",
+      "choice_data_list": [
+        "It's cold?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Now, I have prepared a water gun for you as well!\nPlease, splash me with all the water you desire!",
+      "choice_data_list": [
+        "Wait, what do you mean!?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "It means exactly what it sounds like!\nLook, you're wide open!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ei, ei, hup!!",
+      "choice_data_list": [
+        "W-Wait!!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No turning back now!\nFufu... come on, hurry!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Mejiro McQueen won't listen to reason.\nIn that case, just as she says—",
+      "choice_data_list": [
+        "Got it, but no take-backs for you either!",
+        "Got it, but no take-backs for you either!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yes, bring it on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I'm completely soaked through~...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Fufu. Please don't apologize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Because you always face me so earnestly like that,\nI am able to stay true to who I am.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer. You are already a wonderful person as you are. There is no need to strain yourself so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"Because you are the Trainer of Mejiro McQueen,\nchosen by none other than myself.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Fufu... Even so,\nI got a little carried away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Is this your fault too, I wonder?\n...Just kidding.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the next day—",
+      "choice_data_list": [
+        "McQueen, that's a great time!"
+      ]
+    },
+    {
+      "name": "Mejiro Family Fan A",
+      "text": "Oh, my! McQueen-san's Trainer\ncarries themselves with such a\ndignified presence too, don't they~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family Fan B",
+      "text": "Even without speaking to them, I can tell!\nThe unbreakable bond between those two! It is simply magnificent!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "—Hey, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Without any fuss, just as they always are.\nMy Trainer is truly wonderful, wouldn't you agree?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my~? Ryan-onesama,\nwhy are you blocking my way~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "T-That's... gh!\nMcQueen is in such\na good mood right now...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "? Isn't it just business as usual?\nI mean, the one you're with\nis your Trainer, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "\"...No, the mood is different.\nI'm sure McQueen is waiting for what the Trainer says next...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "\"Fufu. Palmer, calm down. If you lean in any further, the two of them will notice us, you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Why is everyone here～?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Family",
+      "text": "Kyaaaaah~~!?\nWaaaaaaaah~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Blushing furiously, Mejiro McQueen ran off\ntoward the Mejiro family Umamusume\nhiding behind the rocks.",
+      "choice_data_list": []
+    }
+  ]
+}

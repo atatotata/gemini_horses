@@ -1,0 +1,557 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Commentary",
+      "text": "The Japan Cup is upon us once more this year.\nEager to witness history just like last year,\nracing fans from all over the country have gathered—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "Another star-studded lineup! I'm super hyped!\nMaybe we'll witness a new legend being born...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan B",
+      "text": "The ultimate showdown between peers of the Tiara line, huh?\nIt looks like it's gonna be an incredible race, just like last year...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Just what kind of race will this turn out to be?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Looking forward to it, Orfe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "—...All right, Trainer, if you would.",
+      "choice_data_list": [
+        "Leave it to me. I'll be the most eye-catching one in the paddock!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "No, no, no, why are you heading into\nthe paddock?! You're not an Umamusume!",
+      "choice_data_list": [
+        "Do your best again today~! Lucky Lilac~!!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Okaaay.\nThanks for cheering so loudly~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Wait, you're not even a fan!!\nDid you forget what your actual job is!?",
+      "choice_data_list": [
+        "Ah, I remember now! I'm a Trainer...!",
+        "Ah, I remember now! I'm a Trainer...!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "You really had amnesia!?\nWait, does that mean you forgot about me too—",
+      "choice_data_list": [
+        "Of course I remember! The Queen, Lucky Lilac!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Look, as expected, you forgo—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "You're NOT gonna do it?!!\nYou're not gonna play the straight man there?!",
+      "choice_data_list": [
+        "Even if I go senile, I could never forget you.",
+        "Even if I go senile, I could never forget you."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ooh, my, aren't you quite the smooth talker!\nEnough already!",
+      "choice_data_list": [
+        "Haha."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Fufu—",
+      "choice_data_list": [
+        "...You really bloomed into something strong.",
+        "...You really bloomed into something strong."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hey. Comedy hour was over with the last bit.\nPlease don't put it in the past tense.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Today, I'm going to\nbloom even more brilliantly.\"",
+      "choice_data_list": [
+        "Ah, that's right...!",
+        "Yeah, that's right...!"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Well then, I'm off.",
+      "choice_data_list": [
+        "I'll be there to watch you become the star."
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Yes.\nPlease look forward to it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "âLala.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Almond Eye-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Before the race, there's one thing.\nJust let me say this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"I respect Lala\nfrom the bottom of my heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"You are an Umamusume who quietly, resolutely,\ncontinues to hone yourself in pursuit of greater heights.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No matter what happens, remaining dignified and unchanged,\ncontinuing to exist as the \"Queen\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I will defeat you—\nthe one who is always so wonderful and cool!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...You're praising me way too much.\nI've never even beaten you before, Ai-san.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "And yet, here we are right now, facing each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "She's looking straight at me, as if saying, 'I'm going to win today'...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That reason alone is more than enough\nfor why I want to win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Fufu...\nThat's so like Ai-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Come now, it's about time to get going, Lala!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I am going to――――WIN!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "......I accept your direct challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Today's finally my turn.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "âLala.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Almond Eye-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Before the race, there's one thing.\nJust let me say this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"I respect Lala\nfrom the bottom of my heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"You are an Umamusume who quietly, resolutely,\ncontinues to hone yourself in pursuit of greater heights.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No matter what happens, remaining dignified and unchanged,\ncontinuing to exist as the \"Queen\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I will defeat you—\nthe one who is always so wonderful and cool!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...You're praising me too much.\nAi-san, you're the one with more wins, aren't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That's only for right now.\nWhat matters is that we're facing each other like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "The way she looked straight at me, as if saying, 'I'm going to win today'...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That reason alone is more than enough\nfor why I want to win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Fufu...\nThat's so like Ai-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Come now, it's about time to get going, Lala!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I am going to――――WIN!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "......I accept your direct challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "The one who's gonna win today... is me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "âLala.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Almond Eye-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Before the race, there's one thing.\nJust let me say this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"I respect Lala\nfrom the bottom of my heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"You are an Umamusume who quietly, resolutely,\ncontinues to hone yourself in pursuit of greater heights.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No matter what happens, remaining dignified and unchanged,\ncontinuing to exist as the \"Queen\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I will defeat you—\nthe one who is always so wonderful and cool!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...Well, if ya put it like that,\nthere's no way I can refuse.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Allow me to lead the way again today.\nRegally, as a true \"Queen.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, that's the spirit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Well then, shall we get going?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I am going to――――WIN!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "......I accept your direct challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "The one who's gonna win today... is me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "âLala.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Almond Eye-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Before the race, there's one thing.\nJust let me say this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"Losing to you over and over leading up to today, I felt so, so, so frustrated...! ...But—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Just as much as I feel frustrated,\nI respect Lara just as deeply.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"You are an Umamusume who quietly, resolutely,\ncontinues to hone yourself in pursuit of greater heights.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No matter what happens, remaining dignified and unchanged,\nrunning out in front as the \"Queen\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I will defeat you—\nthe one who is always so wonderful and cool!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...Well, if ya put it like that,\nthere's no way I can refuse.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Allow me to lead the way again today.\nRegally, as a true \"Queen.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "That is precisely why... I want to win, lala...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Well then, shall we get going?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today is the day I――――WIN!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "......I accept your direct challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "The winner today――――is gonna be me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "âLala.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Almond Eye-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Before the race, there's one thing.\nJust let me say this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"I respect Lala\nfrom the bottom of my heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"You are an Umamusume who quietly, resolutely,\ncontinues to hone yourself in pursuit of greater heights.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No matter what happens, remaining dignified and unchanged,\ncontinuing to exist as the \"Queen\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Today, I will defeat you—\nthe one who is always so wonderful and cool!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"...Well, if ya put it like that,\nthere's no way I can refuse.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Up until now it was fifty-fifty,\nbut today, I'll be the one taking the lead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Stand proud, like a true \"Queen.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, that's the spirit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Come now, it's about time to get going, Lala!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "The one who winsââââis me!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "......I accept your direct challenge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "The one who's gonna win today... is me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(WOOOOOOOOOOH!!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(...To some folks,\nI might just look like an unlucky Umamusume.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(Because I'm a contemporary of a light so dazzling, it'll surely be talked about for generations to come.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(Still――as far as I'm concerned, it's the exact opposite.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(I'm lucky. A truly fortunate person. I mean, it's true, right?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(The supreme flower, one that even the greatest light in history can never outshine.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "(I'm the only one who can become like that!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "――Now, it's time to bloom.",
+      "choice_data_list": []
+    }
+  ]
+}

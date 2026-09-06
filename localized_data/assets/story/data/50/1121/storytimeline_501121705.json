@@ -1,0 +1,237 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "\"If it isn't Fine-san and the Captain.\nAre you two heading out together?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, good day to you♪\nI'm just on my way to grab some ramen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "I am accompanying you as your guard.\nMy subordinates are also lying in wait along the way, so I doubt anything untoward could happen, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transmission from SP",
+      "text": "“—This is Point Zero.\nHer Highness is currently in conversation. Squad A, remain on standby.\nSquad B, maintain perimeter surveillance—”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Mmm. As expected of a dedicated guardian.\nIt seems I, too, have things to learn from him as a knight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Fufu. After all, Durandal always says she wants to protect her lord as a knight.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "If you'd like, how about we go to a ramen shop together?\nI think it'll be a great learning experience♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "! I would love to accept, but...\nMy Liege, what say you?",
+      "choice_data_list": [
+        "Sure thing!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Thank you very much! Well then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "—The temperature is just right.\nClassic soy sauce sounds good, super spicy would hit the spot too.\nEven a light salt broth isn't bad—",
+      "choice_data_list": [
+        "I'm looking forward to it."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "(...Hmm. Captain-san has been periodically muttering under their breath for a while now...\nCould there be some hidden intention behind that too...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Hehe, curious? Well, you see...\nPartly it's so we don't look overly intimidating and make the people around us uneasy, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "—It's because if everyone acts naturally,\nit makes it easier to spot suspicious people.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I see...! Thinking that far ahead—so that is the mindset... of a true Guardian.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Now then, should I go with \"light\" or \"rich\"?♪\nWhich one are you two having?",
+      "choice_data_list": [
+        "Mmm, both look delicious, but..."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "...O, my Liege. Doesn't this picture of the 'light broth'\nlook truly delicious?",
+      "choice_data_list": [
+        "Well then, maybe I'll go with that one."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "(...Fufu. I tried putting on my \"guardian thinking cap\" too—Fine-san.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "(If it's a thick, rich broth, you can't visually confirm if anything is lurking beneath. But...\nwith a clear, light broth, it's entirely possible!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "(This subtle, deep foresight...\nMy Lord is sure to notice it!\nAnd then—praise me!)",
+      "choice_data_list": [
+        "(I wonder if she prefers lighter foods...)"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm, to see the true value in this light broth... Sir Durandal, you really know your stuff!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "“—I have learned something truly invaluable today.\nI offer my heartfelt gratitude, Your Highness Fine.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Masked Figure",
+      "text": "Heh heh heh... Fancy finding such a lively craftsman candidate in a place like this!",
+      "choice_data_list": [
+        "Whoa!?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "!? Villain!\nUnhand my liege!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Masked Figure",
+      "text": "Heh heh heh, I'll be taking this.\nStarting today, you'll be working at my standing soba shop forever...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No way...!\nAt least make it a standing ramen shop for them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "“—I shall say it once more.\nTake your hands off of her.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Masked Figure",
+      "text": "Hmph, what are you saying...?! What can you possibly do unarmed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...Very well. I shall show you too—my new technique,\nforged from my growth as a guardian today!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Holy Noodle Technique—\n'Noodle Drain Grand Cross'!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Masked Figure",
+      "text": "Gwaaah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Trainer-dono! Are you injured?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Masked Figure",
+      "text": "\"...Fufu. That was a magnificent noodle shake,\nLord Durandal.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The mysterious figure removed their suspicious mask.\nRevealed underneath was—the Head of Security!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "C-Captain!? Why are you...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu, sorry about that. I just thought, to wrap up today,\nwhy not a trial that tests your courage as a knight?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "Putting one's life on the line to protect their master without the slightest flinch.\nShe was truly the epitome of a knight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "No, I—\nI merely did what any knight would do.",
+      "choice_data_list": [
+        "You looked so cool!",
+        "I want to bestow a commemorative title."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Ah, ngh, ah...!\nTh-Thank you very much...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"...A-Ahem. I will always be the knight\nwho protects you, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Putting what I learned today to good use—I will continue to serve you with all my heart!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ah! Then how about \"The Knight of Ultimate Ramen,\"\nsince you've mastered the essence of ramen?",
+      "choice_data_list": [
+        "At least something like \"Ramen Knight\"..."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Ah!? S-So cool...!\nAs expected of my Lord...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"And an investiture ceremony was held on the spot...\nadding the title of 'Knight of Ra'\nto Durandal's honors.\"",
+      "choice_data_list": []
+    }
+  ]
+}

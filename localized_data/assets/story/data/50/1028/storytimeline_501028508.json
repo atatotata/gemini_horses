@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "Buono, buono...\nBuoooooo-no!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...All right, I'm still okay.\nI'll push through with a Buono mood~...!",
+      "choice_data_list": [
+        "W-What's the matter?",
+        "W-What's wrong?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, Trainer!\nNope, it's nothing at all~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Looking forward to training\ntoday too~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Hishi Akebono says so, but she seems to be pushing herself a bit.\nPerhaps we should reconsider her race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

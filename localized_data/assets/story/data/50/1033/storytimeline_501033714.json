@@ -1,0 +1,106 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "During training, Admire Vega got injured,\nso I brought her to the nurse's office.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...... I was told not to move\r\nuntil the injury is healed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Something felt off, but I ignored it.\r\nLooks like that came back to bite me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Still, just because of that,\r\nI can't afford to stand still.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "I'm sorry, but I'm going to run.\r\nI'll continue my training.",
+      "choice_data_list": [
+        "Let's focus on treatment for now.",
+        "Let's think of a way we can still train."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "............\r\nI want to win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "For that sake, I have no choice but to train\r\nmore than anyone else.\nThat's the only thing I can do.",
+      "choice_data_list": [
+        "If it gets worse, you won't even be able to race.",
+        "If it gets worse, you won't even be able to race."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": ".............\r\nYou're right.\nYou're right, but still...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Admire Vega rested quietly, though she still seemed unconvinced.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thinking she might still train areas\r\nother than where she hurt herself,\nshe came to the gym, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ngh...",
+      "choice_data_list": [
+        "Are you okay...?!",
+        "Are you all right...?!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...It seems to twinge where I got hurt.\r\nStill, if you dwell on it... nggh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the end, although she stopped training, it took quite a while before she fully recovered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For now, I tried securing the injured area\r\nwith taping, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "…………。",
+      "choice_data_list": [
+        "Are you feeling okay?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Yeah, doesn't seem to hurt.\r\nI think I can do this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "That saved me for now.\r\n...Thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, taking careful measures to avoid placing any strain on the affected area,\nwe were able to complete the training session without incident.",
+      "choice_data_list": []
+    }
+  ]
+}

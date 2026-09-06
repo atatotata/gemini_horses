@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Before the race,\r\nwhen I went to check in on Taiki Shuttle...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "OK. On the 4th corner,\r\nI'll gear up...and――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "—Oh, Trainer!\r\nJeez, you're supposed to say hello when you come into the room!",
+      "choice_data_list": [
+        "Sorry, you looked like you were really focused."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Fufu, of course!\r\nA cowgirl always concentrates before a duel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I'll show you my Texas-style quick draw\nout on the turf, too!",
+      "choice_data_list": []
+    }
+  ]
+}

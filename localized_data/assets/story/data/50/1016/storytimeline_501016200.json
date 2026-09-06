@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day of Narita Brian's debut race has finally arrived.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...There are a lot of opponents.",
+      "choice_data_list": [
+        "Is that so?",
+        "Really?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Following her suggestion, I check the race entry list,\r\nbut it's a completely normal number of entrants for a Make Debut race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...So this is what's \"normal\"?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "............\r\n...That's amazing.",
+      "choice_data_list": [
+        "You look happy.",
+        "You look happy."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "......Hmph. It matters not\r\nwhat your current feelings may be.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"I will know nothing until I run.\r\nEven whether this place will truly satisfy me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"...Now then, let us begin. My Twinkle Series.\"",
+      "choice_data_list": []
+    }
+  ]
+}

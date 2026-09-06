@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Whoa... Thank you very much.\nI'm very, very happy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "This precious little one...\nNow, how shall I arrange it...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Oh, maybe turning it into a bouquet would be nice—",
+      "choice_data_list": [
+        "Plushies in a bouquet?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes. Lately, plushie bouquets are also\na thing, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"I will do my best to make it look truly lovely.\nSo—would you please let me\nplace it in the Trainer's office?\"",
+      "choice_data_list": [
+        "Are you sure? Shouldn't you display it in your own room...?",
+        "Are you sure? Shouldn't you display it in your own room...?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "No—Trainer gets them,\nand I decorate—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "It's a collaboration between the two of them, so—by all means.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

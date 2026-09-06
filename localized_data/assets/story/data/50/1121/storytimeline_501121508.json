@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "—Alright.\nNow all that's left is to apply the cuticle oil to my nails...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Eek!\n...Oh no, the contents spilled out of the bottle...!",
+      "choice_data_list": [
+        "Are you okay...?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "\"...It seems I was spacing out a bit.\nI'm sorry, I'll clean it up right away.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I have been taking care of my toenails for a long time,\nso mistakes like this are rare... This won't do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal doesn't seem to be doing too well...\nMaybe it's fatigue from the race.\nIt might be best to reconsider her future schedule.\"",
+      "choice_data_list": []
+    }
+  ]
+}

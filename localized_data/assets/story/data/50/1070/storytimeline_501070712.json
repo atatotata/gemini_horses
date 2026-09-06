@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While searching high and low for Sirius Symboli, who hadn't shown up for training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius's Junior",
+      "text": "*sniff*, Senpai...\nThank you so very much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Get lost already, you're annoying.\nDon't you ever show your pathetic face around here again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It seems like there's some kind of story behind this.\nAs I was wondering how to approach her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Eavesdropping, huh? What a poorly mannered dog.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "However—for today, perhaps I should reflect on myself.\nIn fact, there have been delays in training.",
+      "choice_data_list": [
+        "Still, you must have had a reason, right?",
+        "Still, you had a reason, didn't you?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "The reason doesn't matter.\nI bear the responsibility for slacking off.\nThat is all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...My bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Accepting her straightforward apology,\nI decided not to pursue the matter any further.",
+      "choice_data_list": []
+    }
+  ]
+}

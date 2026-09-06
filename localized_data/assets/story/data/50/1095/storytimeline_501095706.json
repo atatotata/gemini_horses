@@ -1,0 +1,271 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Believe",
+      "text": "...Oh, there's an architecture exhibition going on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On the way back from our outing,\nBelieve stopped in front of a poster.",
+      "choice_data_list": [
+        "Want to go check it out?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes, I'm going.\nWhat about you, Trainer?",
+      "choice_data_list": [
+        "I'll go too!",
+        "I'm coming too!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "—Huh? There's a shed built in the garden.\nIs it part of the exhibition, I wonder?",
+      "choice_data_list": [
+        "Looks like they've put together quite an elaborate exhibit!",
+        "Looks like they've put together quite an elaborate exhibit!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes.\nLet's head inside.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...! I see, they recreated and displayed the\nbuilding where those building materials were used—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Indeed, looking at this, you can even tell\nhow much care went into making it suitable for daily life back then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Although the exhibits are parts of structures like walls and stairs,\nthey've been installed within a recreated space.\nSeeing them as the building looked back then makes it very easy to understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "This place... is it an old European factory?\nMaybe back in the heyday of steelmaking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...The ironworking technique really is outstanding after all.\nEven in modern times, replicating this mechanism would be difficult.\"",
+      "choice_data_list": [
+        "So you're well-versed in Western architecture too?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "I've only just scratched the surface, really.\nI started watching once it was decided my grandfather would move to America.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Differences in environment and lifestyle are reflected in their works,\nwhich makes it quite fascinating.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "This has the architecture of a traditional inn.\nThe lattice... uses fixed windows, not sliding doors.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Is this red ochre paint...?\nThe border with the wall's plaster was painted with aging in mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ah, there's also a trick to keep the paint from peeling off—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Believe took her time admiring the exhibits.\nSeveral hours were about to pass since entering the museum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just then, a sign pointing ahead toward the\n\"On-Site Cafe\" caught my eye.",
+      "choice_data_list": [
+        "Believe, shall we take a little break at the cafe?",
+        "Believe, wanna take a little break at the cafe?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "I'm fine, really.\nTrainer, please go ahead and rest.",
+      "choice_data_list": [
+        "Ah... well then, let's meet at the exit."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Even an old Western castle...!\nI'm grateful to be able to see this domestically.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(The way I spoke to Trainer just now...\nWas I being rude, I wonder...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(I should have just said\nthat I wanted to spend all our time looking at the exhibits...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(...I wonder if I made them feel uncomfortable.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I spend some relaxing time at the quiet café inside the facility.\nI wonder if Believe is enjoying the tour.",
+      "choice_data_list": [
+        "(Of course she can't really look around freely with me here.)",
+        "(She can't really browse freely with me here, huh.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She probably won't be back until right before closing time, so I might as well check out the museum shop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "This room is...\nAh, the museum shop...",
+      "choice_data_list": [
+        "Welcome back, Believe! Did you get to look around properly?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Yes. ...Um—",
+      "choice_data_list": [
+        "Look, I found a souvenir I thought you'd like.",
+        "Look, I found a souvenir I thought you'd like."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Huh? ...Souvenirs?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I place the coaster and pitcher I had picked out beforehand in front of her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "A coaster with a mosaic pattern, is it?\nI wonder if it's handmade... It has a nice warmth to it.\nThe color combination is beautiful, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I think this water pitcher is made of tin.\nIt has quite an antique feel to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Still, tin loses its plating easily,\nso it's not very practical.\nIt would really only work as a vase... Oh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Did I... say something unpleasant again...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Even though I just reflected on this\nand told myself to be careful...!)",
+      "choice_data_list": [
+        "I see, so you care about practicality too, huh?",
+        "I see, so you value practicality as well."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Y-Yes...\nTools are meant to be used, after all.",
+      "choice_data_list": [
+        "Now that's so Believe for you! "
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "(...Such earnest eyes.\nA smile completely free of lies.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Trainer really is something else...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(It all shows on your face, you know.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...Both show wonderful craftsmanship.\nWhich one catches your eye, Trainer?\"",
+      "choice_data_list": [
+        "A mosaic-patterned coaster",
+        "Antique-style pitcher"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I told them that I liked the colorful mosaic pattern.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Then you'd probably like stained glass as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I don't really have\nmuch of an eye for colors, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "If I ever get stuck on color combinations,\nmaybe I'll ask Trainer for advice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I tell them that I prefer retro, elaborate designs,\nlike medieval antiques or steampunk styles.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ah, the intricate patterns on this pitcher\nare truly exquisite, aren't they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"In that case, do you also favor architecture with exquisite sculptures?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Tell me about your favorite architecture...\non our way back.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Casino Drive",
+      "text": "Pardon me during your break.\nToday is our regular growth review meeting.\nAre you ready?",
+      "choice_data_list": [
+        "It's okay, no problem."
+      ]
+    },
+    {
+      "name": "Casino Drive",
+      "text": "Summarizing the results of our efforts each Season. It's very important.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Casino Drive",
+      "text": "I'll share the compiled evaluation data with you,\nso please review it by this evening.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Worried about Manhattan Cafe not showing up for training, I searched for her, only to find her waving her hand at empty space...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "......Goodbye.\r\n...Please go straight home without stopping anywhere...",
+      "choice_data_list": [
+        "...Who did you call out to?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Ah, Trainer-san...\r\nThere was a lost child, so I was showing them the way............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Well then, shall we head off to training...?",
+      "choice_data_list": [
+        "Time's already up..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...The sun has set...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...We only spoke for a few seconds, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"......No, it has nothing to do with that, does it?\r\nI'm sorry... I'll be more careful from now on......\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "She seems deeply remorseful.\r\nPlus, she promised to be careful, so\nI decide not to pry any further...",
+      "choice_data_list": []
+    }
+  ]
+}

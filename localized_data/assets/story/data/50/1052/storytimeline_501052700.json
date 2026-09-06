@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "Mornin'! Trainer!\nAnd then, and then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Nighty-night~!",
+      "choice_data_list": [
+        "You're going to sleep!?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Uuu... But I'm so sleepy~ Rice-chan and I studied for our test during the break, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "I memorized three whole pages of the textbook, you know? That took a lot of brainpower...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "*yaaaaawn*~... Good night... *snooze*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems Haru Urara\nwasn't able to get a good rest...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Announcer A",
+      "text": "Happy New Year, everyone!\nNow then, today we have Fusaichi Pandora joining us as our guest!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "Speaking of Miss Pandora, she's had a dazzling career in the Triple Tiara and the Queen Elizabeth II Cup, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "\"First up, with a bang! Could you share your goals for this year with us?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Yeees♡ My goal for this year is none other than...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Doing lots and lots of things\nfor Ai-chan's sakeâ¡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcer A",
+      "text": "\"Ai-chan...? Um...\nExcuse me, regarding the race goal—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Aha, are you watching, Ai-chan~?\nI'll bring back souvenirs for you♡",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...New Year's. As for Fusaichi Pandora,\nwho seemed to be dying to do something\nfor Almond Eye's sake...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I had lost my way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ta-da♡\nHere's the list of things I wanna do for you this month♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "First, cheering for them during training, right?\nMaking snacks for them, picking out their shoes, and stuff~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "And then, and then, what else~...\nHey, Trainer, got any ideas?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Most of the items on the list are assistance during training or various gifts. If I had to pick something else... what would I do?\"",
+      "choice_data_list": [
+        "...How about going to a cooking class?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Broadening our culinary repertoire will improve the quality of our supplementary meals. It certainly won't hurt Fusaichi Pandora, and surely it will benefit Almond Eye as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ah!\nSo it's one of those \"boost your technique\" things!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Mmm~~, cooking works too, but...\nMaybe I wanna come up with more ideas along those lines?\nGimme a sec~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fusaichi Pandora fiddled with her smartphone\nfor a bit... and listed a few classes. And then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Come on, it's boring alone,\nwon't you come with me, Trainer~?",
+      "choice_data_list": [
+        "Making Osechi at a Cooking Class",
+        "New Year's Kakizome Calligraphy Class",
+        "Hair Arrangement Workshop Perfect for Kimono"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Right?!\nShe totally looks like she'd enjoy this kind of thing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Let's give it a shot~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cooking Class Teacher",
+      "text": "Today, we will be making traditional osechi cuisine.\nPlease take a look at the recipe. First, the three auspicious appetizers: tazukuri, kazunoko, and kuromame—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "\"Yes, yes, Sensei!\nCan I put my own spin on the celebratory dishes?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cooking Class Teacher",
+      "text": "You're right... Since this is a classroom, I'd prefer if we followed the guidelines if possible.\nCould I at least hear your idea first?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hamburg steak, fried shrimp, and tamagoyaki!\nPlus chocolate!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cooking Class Teacher",
+      "text": "You must not.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Why, why?! It's way more fun that way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cooking Class Teacher",
+      "text": "You must not.",
+      "choice_data_list": [
+        "Pandora"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Nbuh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...And though a lot happened,\nwe were able to wrap up the workshop on a fun note.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Aha, sounds awesome!\nLet's write the best calligraphy ever and give it to Ai-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "I'm actually pretty talented, you know♡\nMom and Dad have even kept my first calligraphy of the year\ntreasured all this time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kakizome Class Teacher",
+      "text": "“—Now then, without further ado,\nplease write your favorite character.\nAnything is fine!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "\"Anything goes, huh.\nHmm, well then...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "\"I'll meditate and just go with\nthe first character that comes to mind♡\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Mmm, mmmm...!!\nMhhmmmmmmmmm!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "—Ha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "—The ocean—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "—...The god of...!\nThe \"Sea God\"!!",
+      "choice_data_list": [
+        "...Why?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I didn't quite get it, but Fusaichi Pandora\nenthusiastically wrote 'Sea God' on the calligraphy paper――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "All done~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kakizome Class Teacher",
+      "text": "Ooh~, how wonderful.\nIt's a dynamic script, brimming with vitality.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Sensei praised me,\nand the lesson ended on a fun note.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Aha, totally! Let's master it completely\nand dress up Ai-chan♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair Styling Teacher",
+      "text": "Looking great, everyone!\nThe key is feeling the groove!\nKeep using those items, okay? ☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Feelings, feelings...\nMmm~! Ai-chan, Ai-chaaan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "—Ta-da! Well?! Whaddya think, Teach?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair Styling Teacher",
+      "text": "Th-This is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair Styling Teacher",
+      "text": "The overall balance is superb of course, but especially this braid combining lemon yellow and deep crimson, and the fluffy pom-pom right on top...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair Styling Teacher",
+      "text": "Too cuuute~~!\nThis is seriously gonna be the big trend this year!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ehehehe~♡\nThank you so much~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair Styling Teacher",
+      "text": "Um... how did you\ncome up with this idea?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Huh, I don't really get it. I was just thinking about Ai-chan,\nand before I knew it, I'd pulled it off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair Styling Teacher",
+      "text": "A genius~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "I get that a lot~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Fufu... Did you see that, Trainer?!\nI got praised! Woohoo, I did it~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Regardless, she continued to receive praise\nfrom the teacher after that, and was able to\nfinish the class on a joyful note.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Here! A souvenir for youâ¡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Oh, thank you!\nDid you go somewhere?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "\"The TV station♡ And homemade treats♡\nI'll leave them over there, so eat them later, okay?♡\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "I'll come cheer for you during training after this too♡\nAlso, I bought shoes that'll be perfect for you, Ai-chan♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "H-Hold on a second!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Um, what's all this all of a sudden? Souvenirs aside, why shoes...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Huh?\n'Cause I wanted to give it to you, Ai-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...W-Why?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Or rather, you're the one currently racing!\nYou should be buying your own shoes, not mine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "*Gasp*...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Oh crap! Traineeer~!\nI think I messed up somehowww!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Were those two just now Pandora-san and Ai-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "\"They were scurrying all over the place, wonder what happened...\nDoesn't seem like they were fighting, though.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "\"I'm curious about that recent live stream too.\n...Hmm.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I have a feeling this year will be hectic all over again, but...\nSupporting her new dream, I want to sprint through the Twinkle Series with her.",
+      "choice_data_list": []
+    }
+  ]
+}

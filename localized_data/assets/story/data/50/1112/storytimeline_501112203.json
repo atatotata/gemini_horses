@@ -1,0 +1,449 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day before the Oka Sho.\nUpon arriving at our hotel—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ah!\n—Craft, Cesario!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "\"Heart-san!\nWe're in the same hotel!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "—...My.\nAre all of you here as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "I'm a little surprised...!\nEven though there are so many hotels around here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Wow! Everyone gathered around before the race.\"",
+      "choice_data_list": [
+        "(True, that is quite the coincidence……)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hm... Anyway...\nNone of you have had dinner yet, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Since we're here, why don't we hit the buffet together?\nI hear everything here is exquisite!",
+      "choice_data_list": [
+        "Heart, that's..."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"...I'd love to go, more than anything.\nBut... tomorrow, we—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Rivals fighting for a single Tiara.\nYet... friends.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Of course I won't force you!\nBut tomorrow's match is just so important, that's why—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"I want to savor it.\nEven this time, before the outcome is decided.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I drop my bags in my room and catch my breath.\nI plan to reorganize the materials before dinner.\nAs for Daring Heart—",
+      "choice_data_list": [
+        "—I wonder if they're having fun right about now?"
+      ]
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "—Mmh~, so good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Cesario! You should totally go grab 10 more slices of roast beef!\nWith lots of gravy, too♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Geez, you just want to eat some craft cheese, don't you?\nI'll bring you some later, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh! In that case, I'll go!\nI just thought of a wonderful arrangement!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Heart-san... that's safe to drink, right?\nI haven't forgotten that crazy concoction you made at the family restaurant, you know...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"It's okay, really!\nThis is just one of those... weird synergy things!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Messiah?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Because she was just...\nso completely normal.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Why are we—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "With a rival you study thoroughly and yearn to defeat. With a rival whose face you can't even look at right after losing because of the sheer frustration—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "How can we laugh together like this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Isn't that precisely why?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"We are communicating through our races—\nclashing our true feelings against one another directly from the heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Admiration, hatred, joy, regret...\nWe can truly understand each other's raw, naked feelings—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's precisely because we win and lose together time and time again...\nthat our bond runs so much deeper.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "......Yes.\nThat may, indeed, be true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Not \"maybe\"... I know it is for sure!\nBecause—I love everyone so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "\"I'm so, so happy that I get to aim\nfor the Triple Tiara together with everyone!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Yeah. Me too... I'm so—so excited for tomorrow,\nwhen we can all finally compete together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Tsk, tsk, tsk!\nYou guys are far too soft.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I'm the one who's looking forward to this\n—more than anyone!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The day of the Oka Sho had arrived.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "My top pick is Cesario!\nI mean, once you see that finishing stretch of hers! ♡\nShe totally feels like the last true superstar!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan B",
+      "text": "\"I'm definitely betting on Rhein Kraft.\nThat speed of hers will shine in the mile Oka Sho! The first crown is as good as hers!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan C",
+      "text": "\"...I guess I'm rooting for Messiah-san.\nI used to cheer for her mother too...\nI'd really love to see her win.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "Hmm, I guess it comes down to these three, huh?\nThe ones likely to take center stage for this year's Tiara—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan D",
+      "text": "...W-Wait!! I'm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan D",
+      "text": "I think Daring Heart-chan is gonna win!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan A",
+      "text": "Ah! Heart-san!\nI came to cheer for you today!\nDo your best~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Thanks!\nKeep cheering me on until the very end, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"...I wonder how many that makes now?\nFufu, it seems my fans have really grown in number♪\"",
+      "choice_data_list": [
+        "Because you've been steadily delivering results",
+        "Because you've been steadily delivering results, you know"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh?\n...Hmm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "A \"look at me\" face?\nHehe, you're so honest and cute!",
+      "choice_data_list": [
+        "Ghk………………"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "All right, then!\nLet's do a quick strategy meeting! Let's go♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "—Yes, okay. Understood. I'll keep an eye on her movements.",
+      "choice_data_list": [
+        "Yeah, nice to meet you.",
+        "Yeah, looking forward to working with you."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "From the looks of it, Daring Heart is calm.\nI thought she might be worked up with the long-awaited Oka Sho just ahead, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...I wonder if that worked out.\nAll right,\nlet's move on to stretching.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Still, is it kind of\nhot today,\nor is it just me?",
+      "choice_data_list": [
+        "(...Hm?)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "A Classic race feels\ntotally different—I felt\nsuper dizzy the whole time.",
+      "choice_data_list": [
+        "St... Stop!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...!",
+      "choice_data_list": [
+        "Hey, aren't you getting really worked up?",
+        "Aren't you feeling super pumped up right now?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Maybe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ah, no, no, this is bad!\nI can't run calmly like this...\nCalm down, Heart...",
+      "choice_data_list": [
+        "...No, there's no need to be too level-headed."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Uh—",
+      "choice_data_list": [
+        "Your fiery fighting spirit is one of your strengths.",
+        "That fiery fighting spirit is one of your best qualities."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "!\nTrainer...",
+      "choice_data_list": [
+        "Be brave, Heart. You are the queen.",
+        "Be brave, Heart. You are the queen!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...You've truly grown so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Thank you.\nOf course I'm the queen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Make sure you polish up\nmy throne real nice, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "\"Uooooh...!\" \"Craft—!!\"\n\"Go, Cesario!\" \"Messiah...!\"\n\"Heart, do your best~~!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...You've finally reached this point, haven't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "To the stage of our dreams.\nâRight, Craft, Cesario, Messiah?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Yeah... Yeah!\nThis is... the Triple Tiara...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "...A race where we clash fiercely.\nStaking everything on our own convictions—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Who will claim the first tiara...?\nWe'll find out very soon.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...If I don't achieve it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "—Messiah!\nI love your strong determination and devotion to your mother!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You may say you're plain, but\nthat steadfastness is a virtue.\n—Let's see how it fares against my pride!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Heart-san...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"...Likewise.\nI shall see these feelings through to the end.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Cesario! I've been waiting for you!\nYou'll show me what you've got to make up for it, won't you?\n—That explosive power of yours!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"The sheer strength of your will to reach the top...\nIt's practically burned into your back.\nStill—don't go underestimating my fire, either!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Then—before you burn yourself to ashes,\nI shall outrun you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "And... Craft.\n...You and I are a little alike.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"No matter how fast you are...\nI will not break! Right before your very eyes—\nI will shine brightest of all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "......!\nNo, I'm going to cross that finish line first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "The Tiara... will be mine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"That's my line!\n――I will make it shine above my own head!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Let us give it our best—and clash our 'hearts' against one another!\"",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While discussing race plans\nwith Rhein Kraft—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...*snooze*... *snooze*.",
+      "choice_data_list": [
+        "Did you fall asleep?"
+      ]
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...U-Umm...\n...There are... so many kitties... on my lap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...Mmuuuuh~~... So heavy...\nA fluffy totem pole...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Rhein Kraft seems to be having a nightmare...\nMaybe she's worn out from back-to-back races.\nIt'd be wise to reconsider her upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

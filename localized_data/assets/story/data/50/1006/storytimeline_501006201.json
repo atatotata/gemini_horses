@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "A GⅠ, huh...\r\nIt has a truly unique atmosphere.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "However, that is not an issue. Though it was all dirt,\r\nthe mile was a distance I ran frequently at Kasamatsu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I like short distances.\r\nI don't have to worry about a thing—I can just run.",
+      "choice_data_list": [
+        "Go and have a blast!",
+        "Go have fun!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yeah.\r\nI'm off!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Twin Turbo",
+      "text": "You got zero too, Trainer~?\nThen it's a tie with Turbo!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Mmm... But at this rate, I can't make a video.\nWhat should I do...",
+      "choice_data_list": [
+        "Let's take a break and think about our strategy..."
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "!! Turbo wants to eat a strawberry parfait!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

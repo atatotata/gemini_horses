@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—Midway through June.\nCome to think of it, the Takarazuka Kinen is just around the corner.",
+      "choice_data_list": [
+        "Chrono, where are you planning to watch the Takarazuka Kinen?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Huh...?\n......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "I-I haven't... decided on anything in particular yet...",
+      "choice_data_list": [
+        "I'll make sure not to schedule any races there."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ah... yes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was a noncommittal reply. Though her behavior was concerning—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Let's skip entering any races in late June so we can focus on spectating the Takarazuka Kinen.",
+      "choice_data_list": []
+    }
+  ]
+}

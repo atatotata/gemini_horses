@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cesario",
+      "text": "Good morning... *sigh*...",
+      "choice_data_list": [
+        "You look sleepy. Didn't get much sleep?",
+        "You look sleepy. Didn't get much sleep?"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "I'm sorry. It took me quite a while\nto fall asleep last night.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Ah, it's not that anything's bothering me,\nI was just re-reading the pamphlet from that comedy play I saw earlier, and, hehe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Fufu... Oh no.\nI remembered that retort again... Ahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Phew... Regardless, there's no need to worry.\nOnce I calm down, I'll switch gears properly, hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It must have been a hilarious scene.\nCesario seemed to be having fun, unable to stop laughing,\nbut it looks like she didn't get much rest...",
+      "choice_data_list": []
+    }
+  ]
+}

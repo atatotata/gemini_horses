@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daring Heart",
+      "text": "Oh... That was so close.",
+      "choice_data_list": [
+        "...I'm ashamed of myself."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Not at all! Don't worry about it for a second.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I mean, crane games are\nvery difficult, right?\nYou just have to think of it as lucky if you manage to win one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"You can just do your best next time, right?\nI'm rooting for you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

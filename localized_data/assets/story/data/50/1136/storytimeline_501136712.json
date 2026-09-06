@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When Red Desire didn't show up for training\neven after the scheduled time, I went looking for her—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "Incredible... My hands can't stop turning the pages...! So this is the power of the sacred text, \"Offerings to the Saint\"...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "What a miracle to stumble upon such a rare book at the academy!\nThis can only be divine providence—",
+      "choice_data_list": [
+        "Hate to ruin your fun, but..."
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Oh, you're reading too, Trainer...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "Ah! Training!\nI am terribly sorry, it completely slipped my mind...",
+      "choice_data_list": []
+    }
+  ]
+}

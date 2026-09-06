@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\r\nwith King Halo...",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh? Is that...!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Just look! The cute plushies\r\nare looking at King as if singing her praises!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction King Halo pointed, I saw a claw crane machine filled with Umamusume plushies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Fufu, let us welcome them\r\nas an imperial guard to showcase King's glory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "Now then, I shall grant you the privilege\r\nof winning a plushie for King!",
+      "choice_data_list": [
+        "Huh, me?",
+        "Huh, me?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Yes, of course.\nThings like that are part of a Trainer's job, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "To prove yourself worthy as the trainer of a first-rate lady like me,\r\nshow me your skills at the claw machine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "This King will be watching over you!\r\nYou had better give it everything you've got!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

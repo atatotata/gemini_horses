@@ -1,0 +1,74 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The day of the first leg in the Classic campaign, the Satsuki Sho.\nThe atmosphere around the racetrack was buzzing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Man A",
+      "text": "That GⅡ race the other day was amazing!\nOrfevre!\nIt was a truly perfect race!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Woman A",
+      "text": "In this year's Classic campaign, can Orfe really pull it off? I'd love to see it—the moment a Triple Crown Umamusume is born!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It became a journey where phrases like that\ncould be heard here and there along the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Phew.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Fufu,\nso we ended up running in the Satsuki Sho after all.",
+      "choice_data_list": [
+        "S-sorry..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, Win Variation's growth was\nfar beyond expectations... and after discussing it,\nwe ended up submitting the entry after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah, that's not what I meant!\nI just... kind of felt like I was running away a bit myself, y'know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Knowing we can fight fair and square\nactually feels totally refreshing!",
+      "choice_data_list": [
+        "Thank you..."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "N-No, wait...! That... was actually how I felt.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Regardless, since I'm entering, I plan to win.\nTrainer gave me their seal of approval,\nso I'm sure I can put up a good fight...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Yeah, I'll go give it my all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Defeat Orfevre.\nHoisting that banner high,\nthe Satsuki Sho had begun.\"",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "(Knock knock knock)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Come in.\nThe door is open, Nakayama-sa—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Oh. ...My, please excuse me.\nIt was you, was it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "So, what can I do for you today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "News Article",
+      "text": "\"【Fan Voting: Orfevre Takes 1st Place】\nFan voting for the Arima Kinen concluded today,\nwith Orfevre securing the top spot.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "News Article",
+      "text": "\"【Arima Kinen: Orfevre Withdraws】\nAfter leading the fan vote by over 25,000 votes ahead of 2nd place,\nOrfevre announces her withdrawal from the Arima Kinen.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "News Article",
+      "text": "\"【Orfevre to Challenge the Prix de l'Arc de Triomphe Again Next Year】\nHaving announced her withdrawal from the Arima Kinen,\nOrfevre revealed her plans for the coming year――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "...So Orfe is skipping the Arima Kinen, huh.\nWell, she's had one intense race after another since the Prix de l'Arc de Triomphe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mid-Level Trainer",
+      "text": "\"Orfe's Japan Cup was so exciting too, wasn't it~!\nShe must've been exhausted from the overseas trip... but she was so strong~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "No matter what losses there were,\nOrfevre was number one in the Arima fan vote!\n—In other words, that's all that matters!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Yeah, it's a shame about skipping the Arima Kinen, but...\nIt sounds like Orfevre will be running next year, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Or so they saaay~?\nSo you'll run for Golshi-chan's sake, right~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I shall not.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ehh~~!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "\"Lady Orfevre.\nPreparations for your departure are complete.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Eeeh~~~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"CASE: Investigation Headquarters\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "\"Flash!\nIsn't the press conference for the Arima Kinen today?\nDo you really have time to be slacking off?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Yes, that's true, but...\nI haven't seen Golshi-san or the others\nsince this morning...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Ah, Golshi-san? I'm holding onto a note from her~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "\"Try and find me,\" she said.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Ama & Flash",
+      "text": "Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Huh, Gold Ship is skipping today's press conference!?\nShe's the favorite to win the Arima Kinen, you know!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "\"According to the host, there's a video message for us! Let's see what it is—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Video Message",
+      "text": "\"Lush green grass, waves seep through—the God Road.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "That's not an excuse at all!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "From the hallway, I looked into the chaotic venue.\nThe staff seemed to be in quite a bind.",
+      "choice_data_list": [
+        "...Looks like a job for an ally of justice.",
+        "...Looks like a job for an ally of justice."
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yes. I knew they were up to something,\nand as expected, they're right here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Well then, let's go. Boss.\nCould you make the arrangements?",
+      "choice_data_list": [
+        "If it's for you...",
+        "If it's for you..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crash...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Haha... Aaaah~...\nThe sound of the waves is soothing my very souuul~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aaah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "âSECURED!!!",
+      "choice_data_list": [
+        "WOOOOOOOOO!",
+        "Yaaaaaaah!!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Target secured!\nBoss, contact the helicopter pilot!\nGet ready for departure!",
+      "choice_data_list": [
+        "Leave it to me!",
+        "Leave it to me!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(Rattle rattle rattle rattle...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Huh, what?\nMame-chin!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"Freeze! I foresaw that you would come to this deserted island!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"You just got jealous of all the hype around the Japan Cup, didn't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Yet when I boldly stepped into the Arima Kinen myself,\neveryone's eyes were solely on Orfe-san, who wasn't even running!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "You felt it was boring if it couldn't top that day—you were sulking!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Haaah~~!?\nGolshi-chan isn't pouting at all—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "That's not all—you tested me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"If it were you, you could've done something hilarious at the press conference and caught at least one person's interest.\nAnd yet—...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Honestly, what a child! Teasing people! Causing trouble for others!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "—You act recklessly like that\nbecause you expect someone to find you right away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "......*Gasp*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Even though you're the one who caught me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Don't act so mighty. I'm the one getting the short end of the stick here.\nI'm the one who should be angry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"Thanks to you, I find myself strangely well-trained as well...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I won't let you escape, Golshi-san.\nI really need you to pull your weight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Gotta crank up the difficulty next time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...If you believe you can break free,\nby all means, please give it a try.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "I'm escorting you to the press conference.\nIf we take a helicopter, we can still make it in time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Putting Fenomeno and the others on the helicopter we had on standby, we hurried back to the Academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to coordinating with the staff in advance,\nI managed to slide into the press conference room right after—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "—I'll do my best at the Arima Kinen~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Since you kept me waiting,\ngive me an answer that's actually newsworthy!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Haha... Ahahaha!\nTo think this duo would keep making me laugh all the way to the end of the year~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Hang in there, Fenomeno...!\nHold Gold Ship by the scruff of her neck\nand don't let go...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Heh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "...Give it up, Golshi-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Aren't I entertaining when I'm with you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...!\nHa, hahaha! Why, you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "—Don't get thrown off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And on the day of the Arima Kinen—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Gold Ship takes 1st place in the Arima Kinen!\nWhat a spectacular way to wrap up the year!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahahaha!\nGolshi-chan ain't done yet, not by a long shot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Beyond Japan, beyond the entire world.\nI'm gonna pull off the most fun thing in the universe!!\nSo, you see—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "—Follow my lead! You too!\nNot above, not below!\nOur generation is definitely gonna be the most fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "And so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "—Fight properly next time, Mame-chin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "The green planet is at its most beautiful\nwhen viewed from the cosmos.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"...You really are...\ndoing that again...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "\"R-R-RUNNER C-COURSE D-DEVIATION O-OFFENSE\nC-COMMITTED, S-SIRRR! ! ! !\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Staff",
+      "text": "Ah, Gold Ship-san!?\nOh no, someone catch her!\nWe still have plans after this—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "—This officer will go!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And Fenomeno chases after Gold Ship.\nAnywhere, and always.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Wait, Gold Ship!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "—I will only say this once.\nListen carefully.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Yeah,\nwhat's up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "—Thank you for always taking care of me.",
+      "choice_data_list": []
+    }
+  ]
+}

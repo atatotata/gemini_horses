@@ -1,0 +1,419 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, some time after\nteam training had stopped going smoothly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An incident occurred!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah—!\nTrai~neeer~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I'm sorry, I went and started an impromptu race with Team <First>!",
+      "choice_data_list": [
+        "Why?!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ugh, sorry for acting on my own!\nYou see, the thing is--",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Huh... Whose drink is this...?\nThere's no name on it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "If it's out in the sun, it'll get lukewarm...\nLet's move it to the shade—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(SPLAAASH!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...! I-It all spilled...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just then, Little Cocon—the owner of the drink—\narrived at the worst possible time—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I'm sorry, I'm so sorry...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "...Well, we are a team that gets plenty of hate, so maybe this kinda stuff is par for the course.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hearing the commotion, the team members began gathering one after another—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No! She didn't do it on purpose!\nRice isn't that kind of girl!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "No, there's no way you just \"accidentally\"\nknock over an entire drink! That's impossible!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "So things got heated, and when the members\nof Team First stepped in to break it up—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bitter Glasse",
+      "text": "Alright, then we're having an impromptu race right here!\nLet's settle this with a nice, clean match!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bitter Glasse",
+      "text": "“Just an ordinary match would be boring, though!\nHow 'bout the loser gets banned from using the track for life?!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Eeeh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "That's an interesting offer. I'm in.\nYou guys look weak, so I'll give you a handicap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "If you can take even a single race,\nI'll let you have the win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "M-Mmmmmmgh~! You can only talk like that\nwhile you still have the chance!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Or so it seemed...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I hurried over to the grounds,\nonly to find the race had already started—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Urara! Fight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The entire team leaned over the spectator railing,\ncheering their hearts out for Haru Urara mid-race.",
+      "choice_data_list": [
+        "An unsanctioned race?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, sorry for jumping in on our own...\nBut we just couldn't let this slide...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "However, that team over there\nis suuuper strong, and Urara is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "H-Hyaaa!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The dirt race taking place on the track was only halfway through, but the outcome was already clear—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Soooo strooong!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Crossing the finish line with a massive gap behind the leader!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Besides, their abilities go without saying, but everyone is also so cool—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "...Warm-up complete.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bitter Glasse",
+      "text": "Hoo, hoo, hoo, hoo...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Indeed, even when a teammate won, they only gave a brief glance\nbefore quietly continuing with their own warm-ups.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was in stark contrast to our team,\nwho were eagerly cheering away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Whoa~, it kinda feels like everyone's fighting\nindividually... like true pros, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I must brace myself as well...! Come to think of it,\nhow are our race records looking right now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Weeell...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "W-We lost every match...!? Which means\nall that's left is my Medium distance, and Rice-san's Long distance!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"Sowwy... Maybe because I wasn't\nfocused on training, I was off my game, YES...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I can't just stand around! I need to start warming up right now, too~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, the medium-distance race held after that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Seiyaaa! For the team!\nI won't lose! There's no way I'll lose!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bitter Glasse",
+      "text": "I can do it! I will do it! Pure guts~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "And yet, why...!\nWhy is the gap opening up～～?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I'm sorry... I really wanted to win...\nAt this rate, the grounds will be...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "D-Don't worry! We still have the Long distance race!\nAs long as Rice wins, everything will be fine, YES!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Rice! Do your best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Please, Rice-san!\nYou have to win...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "You'll be just fine, Rice-chan!\nYou're totaaaally gonna win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Y-Yeah...\nRice... has to make sure she wins...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"However, when Rice Shower left,\nher face was stark white.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Curious, I chased after her—\nonly to find her standing frozen in place.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "It's all Rice's fault to begin with...\nI just have to win...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "\"Do your best, Rice, hang in there...\nO-oh...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...*sniffle*...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though I rushed over, I was one step too late; pale as a ghost, Rice Shower ran off.",
+      "choice_data_list": [
+        "(I wonder if she'll be okay...)",
+        "(I wonder if everything's okay...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "My fears came true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Haa, haa! I-I can't lose...!\nThe team will be in trouble...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Team Members",
+      "text": "Ready, and...! Do your best, Rice Shower!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh!? What!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Ha, chickening out, are we?\nNot really used to running for everyone else's sake,\nright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Maybe you should quit the team...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Rice Shower was defeated,\r\ntrailing behind by five lengths.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I'm sorry, Rice... Rice...!\nIt's all Rice's fault the grounds are...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No, we couldn't win eitheeeer.\nNobody could win, after all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "However... being forbidden from using the grounds\nreally puts us in a bind, doesn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The team members are shaken, but... honestly,\nthere's no way such an unreasonable bet could ever stand.",
+      "choice_data_list": [
+        "Let's discuss the wager with Agent Kashimoto."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"It's sure to be deemed invalid,\" I said,\nand the team members visibly relaxed with relief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh, is that all!\r\nThen we're totally fine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"Even so, the fact that not a single one of them won does bother me a little.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "It starts right now, Fukukitaru! Let's all\njoin forces and get to training!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the team members regained\ntheir usual friendly, harmonious atmosphere.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After speaking with Acting Director Kashimoto, the ban on using the track was successfully lifted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However... from that day on, whenever Rice Shower came to team practice,\nher expression seemed somewhat gloomy.",
+      "choice_data_list": []
+    }
+  ]
+}

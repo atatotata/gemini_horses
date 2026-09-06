@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "...Hm?",
+      "choice_data_list": [
+        "What's wrong?",
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...The wind is a bit chilly.\r\nI see, it's already turning into autumn...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"Time really flies, doesn't it?\r\nOnce autumn comes... it'll be the Tenno Sho with Tama.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"And once winter comes, there's the Arima Kinen...\nThat's where we'll settle who's truly the strongest.\"",
+      "choice_data_list": [
+        "Let's show off what we achieved at summer camp!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "You're right.\r\nThrough this training camp, I'm sure I've grown.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "All that's left... is to run with everything I've got!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—And so, a fulfilling summer training camp\r\nwith Oguri Cap came to an end.",
+      "choice_data_list": []
+    }
+  ]
+}

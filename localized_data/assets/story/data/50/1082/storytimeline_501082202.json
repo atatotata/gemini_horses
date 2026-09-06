@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "North Flight decided to enter the Sprinters Stakes.\nThe reason, of course, was...",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "—I want to feel\nBakushin O-chan's speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "I don't know if the current me will be good enough.\nEven so...",
+      "choice_data_list": [
+        "You've gotten stronger... It'll be fine!",
+        "You're getting stronger... You'll be fine!"
+      ]
+    },
+    {
+      "name": "North Flight",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "I will go and challenge it.\nWith every single bit of talent and drive I possess...!",
+      "choice_data_list": []
+    }
+  ]
+}

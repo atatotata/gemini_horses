@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While I was in a meeting\nwith Fusaichi Pandora...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "*Yaaaaawn*... *gasp*...",
+      "choice_data_list": [
+        "You look sleepy, what's the matter?",
+        "You look sleepy, what's the matter?"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Like, I was texting my friends on LANE,\nand before I knew it, it was the middle of the night~~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "*Yaaawn*... Did you say we have training after this?\nNo waaaay, I can't do iiiit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Why don't we just take a nap for today?\nThere's no point doing it all sleepy-weepy... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Fusaichi Pandora\nwasn't able to rest well...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On our way back from an outing with Yamanin Zephyr, a corner of the shopping district was bustling with excitement.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu, it's quite vibrant and blooming.\nAlmost like a fresh breeze blowing through.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Oh, that inn is...",
+      "choice_data_list": [
+        "What's wrong?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I have heard that it is a place surrounded by beautiful mountains, where a pleasant, blessed breeze blows.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "The forest creatures... Small animals, little birds, too.\nI hear many of them live here.",
+      "choice_data_list": [
+        "Wanna draw a raffle ticket?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu, indeed. Let's believe this encounter is an auspicious wind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so,\nwe bought daily necessities, got lottery tickets――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yamanin Zephyr turned the handle of the raffle drum!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"My, I'm astonished.\nTo think it would actually hit the mark.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"A summer breeze in winter, a winter gale in summer...\nHehe, life certainly has a way of surprising us.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Now then, what shall we do?\nDuring the balmy spring breeze, or the autumn breeze...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "If possible, I would prefer a season where we can spend our time\ngently and calmly, like a slow-moving cloud, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Things are hectic right now with training and races.\nSqueezing in a trip might just make her\neven more exhausted.",
+      "choice_data_list": [
+        "How about putting it away until you calm down?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Until she calms down...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes, that is true, shall we do so?\nIt is a rare auspicious wind; let us wait for the favorable breeze.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Fufu.\nIt's just like the days spent waiting for the spring east wind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I'm looking forward to it, Trainer.",
+      "choice_data_list": [
+        "Am I coming along with you, too?",
+        "Am I coming along, too?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Of course.\nAfter all, it was you and I who witnessed that auspicious wind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Don't you want to go?",
+      "choice_data_list": [
+        "No, it's not like that..."
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Well then, let us depart.\nA journey of crisp autumn breezes awaits us.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, we promised to go on a hot springs trip\ntogether once things settled down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "First prize...\nJust one short, was it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No.\nHowever, the tailwind was more than favorable enough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Because I felt a breath of divine lightning in my idle, carefree days.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Now, since we have this rare opportunity...\nI'd like to enjoy this in the cool breeze.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "If you'd like, would you care to join me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, guided by her, we visited a scenic hilltop with a great view—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Right this way, please.\nI've prepared some tea as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "—What magnificent red clouds.\nDusk will fall soon. The elm breeze shall blow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While enjoying the view, we shared and ate the hamburg steak together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Well, looks like I missed the auspicious wind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu, so many splendid carrots.\nThey're not easy to come by, are they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Like a gentle, auspicious breeze,\nwhat lovely roots and leaves.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I can't finish this alone, and even with the two of us, Trainer, it might be a bit too much...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Fufu, I just thought of something good.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—The next day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Good morning.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"I left some homemade carrot cake over there.\nIf you'd like, please have some too, Nature-san.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, Zephyr made that huge pile of cakes!?\nWhoa, gimme some, gimme some~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Zephyr's cooking has such a gentle,\ncomforting flavor, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "My, such traditional Japanese-sounding words...\nThank you very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "It puts me at ease...\nIf that's the case, perhaps I shall bring one for Trainer later as well. Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh, 3rd prize... It seems the grand prize\nwas far beyond the eightfold sea breezes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "The lottery wheel is like a windmill.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Even though I know better...\nHehe, it's not good to get my hopes up, is it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"Even so, it's quite a twist of fate.\nOne carrot, please.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Since we have the chance,\nshall I whip something up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, she offered to make dinner\nusing the carrots, and――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Simmered carrots and wild greens,\nseasonal fish, and white rice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Let us accept it gratefully.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The two of them savored the gentle flavors of dinner together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Oh dear...\nSo it's a miss, then?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...No, but whether this wind\nbecomes a black wind depends on one's heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "You shouldn't just stay discouraged.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Until next time.\nA new wind shall blow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—That said, Yamanin Zephyr\nseemed just a little disheartened.",
+      "choice_data_list": []
+    }
+  ]
+}

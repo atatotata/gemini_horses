@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "North Flight",
+      "text": "Good morning, Trainer-san...\n*sigh*...",
+      "choice_data_list": [
+        "Are you okay? Feeling a bit anemic?",
+        "Are you okay? Feeling a bit anemic?"
+      ]
+    },
+    {
+      "name": "North Flight",
+      "text": "No, it's really nothing!\nIt's just that last night I was reading 'Big Sis's' letter, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "Your writing is so wonderful, Big Sis.\nIt makes my heart feel as light as a feather,\nso I just love it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "North Flight",
+      "text": "*Yawn*... I wonder how they're doing.\nI want to see them again...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She looks unusually relaxed and happy,\nbut her footing seems somewhat unsteady.\nIt looks like she didn't get a good rest...",
+      "choice_data_list": []
+    }
+  ]
+}

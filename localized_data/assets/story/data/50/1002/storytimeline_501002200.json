@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "At last, it's time for Silence Suzuka's\r\nDebut Race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...*inhale*... *exhale*.",
+      "choice_data_list": [
+        "Nervous?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No.\r\nI'm really looking forward to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Today's race, and everything that lies ahead.",
+      "choice_data_list": [
+        "Me too.",
+        "Me too."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Fufu, well then,\r\nI'm off.",
+      "choice_data_list": []
+    }
+  ]
+}

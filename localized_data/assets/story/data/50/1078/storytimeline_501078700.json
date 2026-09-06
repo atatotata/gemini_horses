@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Mm, *yawn*...",
+      "choice_data_list": [
+        "Were you not able to sleep well?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes... Since it's a rare day off,\nI thought I'd fully surround myself in the breeze,\n...but I never expected it to be calm all day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I waited and waited endlessly,\nand before I knew it, the night was far spent...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unable to enjoy her day off as she had hoped,\nYamanin Zephyr seemed sleep-deprived.",
+      "choice_data_list": []
+    }
+  ]
+}

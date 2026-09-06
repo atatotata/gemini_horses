@@ -1,0 +1,509 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After training today, I brought Tap Dance City to the shopping district.\nThe reason for this was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Whew, I found it!\nFound it! So this is the place everyone's talking about...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "—A lottery draw!\nNow that gets me totally pumped!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "A single ticket turns into treasure, right!?\nOoooh, wonderful!",
+      "choice_data_list": [
+        "I had a feeling you'd like it."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Just the other day, I found out about a lottery while out shopping, and thinking Tap Dance City might enjoy it, I invited her along.",
+      "choice_data_list": [
+        "Try giving it a spin with the ticket I gave you."
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "OK,\nleave it to me! Our target, of course, is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"The grand prize...\nIt's the jackpot!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Full of excitement,\nTap Dance City cranked the raffle machine's handle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "YEAAAAAH!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Trainer! I won!\nGetting the best prize means, in other words—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "It's all about making a fortune, right?!\nCome on, give it here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Eeeh!?",
+      "choice_data_list": [
+        "What I won was a hot spring trip, y'know",
+        "What I won was a hot spring trip, you know"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hm?\nIs that so!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Yeah, hot springs sound nice too!\nIt feels so very Japanese!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hey, can't I just have the hot spring itself?\nI'd love to attach it to my castle!",
+      "choice_data_list": [
+        "That's enough joking around.",
+        "That's enough joking around."
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Heheh,\nyeeep.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Furo-furo-furo~.\nThe bath is flowing, in the flow~... Just kidding♪",
+      "choice_data_list": [
+        "You're in quite a good mood.",
+        "You're in quite a good mood."
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Of course!\nI do love Japanese bath culture, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Since coming here, I've also learned\nthe fun of going to the public bath with everyone.\nMan, that feels so good!",
+      "choice_data_list": [
+        "You should go enjoy the hot springs with your friends too"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"Yeah!\nThat sounds awesome—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……。",
+      "choice_data_list": [
+        "Tap?"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"...No, this is one\nI'd like to go to with you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"You know, I feel like a bath is a place\nwhere you can truly open up and speak your mind.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Ah, how should I put it...\nYes, in the truest sense.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Once our dream comes true,\nI wanna sit down and have a long talk with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"So I'm using this ticket with you. For what awaits beyond the gold... an encore performance.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "You'll come with me, right?",
+      "choice_data_list": [
+        "If that's what Tap wants"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "It's decided, then. I'll leave the tickets with you.\nI feel like I'd lose them... scratch that, I definitely would!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Well then, let's head back to the academy.\nThe oasis awaits us somewhere in the future—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Great!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Mmm, looks amazing!\nLooks so delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Living up to its name, it's turned into the absolute best hamburg steak!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Ho?\nWell then, we'd better let our friends have some too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Trainer, cut up this hamburg steak\nfor everyone too!",
+      "choice_data_list": [
+        "Then there won't be any left for Tap.",
+        "Then there won't be any left for Tap."
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "...Hm?\nAh~, that's true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "I want to eat it too,\nbut good food is meant to be shared with everyone.",
+      "choice_data_list": [
+        "Then how about something like this?"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "...Come on, everyone, help yourselves without holding back!\nIt's homemade supreme carrot hamburg steaks!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap's Companions",
+      "text": "Ooooooh~...!\nIt's so huuuuuge!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "My proposal to Tap Dance City was\nto eat the hamburger steak she won herself,\nmemorize its taste, and--",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was to treat her friends to a homemade,\nextra-large, premium carrot hamburg steak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Headband Umamusume",
+      "text": "That is seriously huge!\nIsn't it like as tall as Tap's height?\n...Tap's high-top, gyahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Brown-haired High School Girl",
+      "text": "I mean, it seriously looks delicious, but...\nDid Tap really cook all this alone?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Yeah!\nOf course—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Trainer made more than half of it! Ahaha-haha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Brown-haired High School Girl",
+      "text": "I figured as much.\nThanks a bunch, Trainer!",
+      "choice_data_list": [
+        "No, no."
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Here, here, eat it while it's hot!\nI took a little nibble, but it's a total recreation!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Trainer, you're amazing.\nWhy don't you just become my personal chef?",
+      "choice_data_list": [
+        "But you're already my personal navigator?"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Oh, that's right!\nThen you'll be navigator and cook!",
+      "choice_data_list": [
+        "So you cook too…"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Operation Special Hamburg Steak was a huge success.\nTap Dance City and the others were thrilled, and lunch passed by in high spirits.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "WOOOOOOOO~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "So many carrots!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "This is what I call\na real treasure trove!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "...!\nA mountain of treasure, you say!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Did you just say... our carrots\nare a treasure trove?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Of course! No matter how you look at it,\nit's a magnificent mountain of treasure!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "A beautiful sparkle that rivals any crystal!\nAny pirate's eyes would light up seeing this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ghh~~, that makes me happy! \nAlright, I gotta give ya a little something extra!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "“—Hey, just between you and me...\nThere's a place where we can hoard even more treasure.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "...!\nLet me hear it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "—Alright, this is the field of the farmer\nwe get our carrots from!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I've smoothed things over with them.\nDig as much as you like, and find that treasure!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"Wow!\nTreasure hunting~~~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having innocently enjoyed digging for carrots,\nTap Dance City doubled the mountain of carrots she harvested\nand brought them back to the Academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Aaah.\nI guess the Dream wasn't meant to be...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Still, at least one hit the mark!\nBetter than coming away empty-handed, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Now then, about that carrot...",
+      "choice_data_list": [
+        "It's the only one, so I'll take it home carefully and—"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Alright.\nMister, give me one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*snap!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Tap Dance City split the single carrot in half without hesitation.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Here, Trainer, this is for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "What's mine belongs to my crew, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Let's eat together!\nTake a big bite!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, through Tap Dance City's kindness, we walked home while munching on raw carrots together.\n...My jaw was aching, but she seemed totally fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "WHAT?!",
+      "choice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Seriously!?\nAh, there goes my dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "\"On such a tiny,\nlittle pocket tissue...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Aaah~~!\n————",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The rapid English she spat out at the end...\n...I decided to pretend I didn't catch it, but her deep disappointment came through loud and clear.",
+      "choice_data_list": []
+    }
+  ]
+}

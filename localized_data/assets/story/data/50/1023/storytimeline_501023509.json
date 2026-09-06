@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "I was asked to help find something,\r\nso I've been helping out, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"It's gone... It's not here either...!\r\nMy precious notebook with the winning formula!\"",
+      "choice_data_list": [
+        "Where do you usually keep it?",
+        "Where do you usually keep it?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Normally?! Normally it's in my pocket—...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hahaha... so it was here.\r\n...Seems fatigue is finally clouding my mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "This uncharacteristic mistake seems to stem from recent fatigue.\nPerhaps I should reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

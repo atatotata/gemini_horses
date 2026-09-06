@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, when I entered the trainer's office,\nK.S.Miracle was sitting there\nholding an ice pack to her temple.",
+      "choice_data_list": [
+        "...What's wrong?"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Hello, Trainer-san.\nActually, I've had a headache since this morning...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Still, don't worry.\nI know how to deal with this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "\"Migraines are caused by the dilation of blood vessels. In other words, you should cool down the area around your temples.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Also, there's an acupressure point that helps with headaches.\nRight around the second knuckle of the ring finger. Pressing it seems to work really well—fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "\"I've always been prone to illness,\nso I just happen to know a lot about stuff like this.\"",
+      "choice_data_list": [
+        "How is it? Think it'll heal?"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Yes.\nIf we do this much, surely—",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Ngh... Ow...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "...Ahaha.\nI do have the theoretical knowledge, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "K.S. Miracle seemed to be troubled by a headache...",
+      "choice_data_list": []
+    }
+  ]
+}

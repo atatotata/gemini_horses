@@ -1,0 +1,788 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth's Senior year has finally arrived—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I had come for the New Year's shrine visit\nto accompany Sounds of Earth and her friends.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—Yeah, yeah.\nThe lively sounds of a bustling crowd have a nice charm to them, don't they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "\"Ah, it really feels like New Year's.\nWell then, let's go make our shrine visit—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan A",
+      "text": "—It really is sad to see Gentildonna\nstep away from the front lines.\nShe was just so cool, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan B",
+      "text": "\"Right? ...But hey, I'm sure Gold Ship\nwill still liven things up for us!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Race Fan C",
+      "text": "I knew the dirt races were where the hype was at this year.\nCopano Rickey and Hokko Tarumae\nhave been going head-to-head since last year, and it's so hype~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "...Good grief. Even after the new year started,\nall anyone talks about is other generations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Last year, Sounds of Earth and his generation\nput on spectacular battles throughout the Classic races.\nYet, on the other hand—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When Gentildonna, the queen of countless triumphs,\nstepped down from the front lines, the entire racing world\nlamented the departure of such a legend.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having inspired so many dreams alongside Orfevre, the fact remained that her retirement was still a hot topic among racing fans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "“—Come now, what we must do remains unchanged.\nWe will resolutely demonstrate our running\nand deliver magnificent races in the Senior Class as well!!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "Just as Earth-kun said!\nThis year has only just begun.\nAnd we, too, have only just begun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "...Well, that's true too.\nNo good overthinking things, I guess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "And so! Why don't we kick off our very first\nsession of the year in style?!\nAll to make our hearts beat as one!!",
+      "choice_data_list": [
+        "(Alright, time to bring out the maracas!!)",
+        "(Alright, time for the maracas!!)"
+      ]
+    },
+    {
+      "name": "Aurum Star",
+      "text": "Heh, anticipating just such an occasion—\nI brought them along! My maracas!!",
+      "choice_data_list": [
+        "Wh-What did you say!?",
+        "Wh-What did you say!?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Braviiissimo!!!!\nMy friend, you never cease to amaze me...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "Wait...!?\nI told you, I don't have anything like that...!",
+      "choice_data_list": [
+        "Here you go! (Quickly thrusts maracas into your hands)"
+      ]
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "Ah, h-hello...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "All right!\nThen let's move right away!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, changing venues,\nthey held a session praying for a breakthrough year\nand had a great time...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, once we made it back to the academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "Um, hey.\nI thought I should let everyone know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "\"...Listen. I've decided to make the\nDubai International G1 my goal for this year.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...!!\nMagnificent!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "Isn't that wonderful!\nSo the one running is indeed thatâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "\"Yes.\n...The race Gentildonna won last year.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "Another girl from my generation is running too, but...\nwell, we're definitely gonna be compared to each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "...But... even so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "I'm going to do this.\nI'll win, and show everyone what my running is made of...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Peerless Shout",
+      "text": "\"...This is a declaration of that.\nA statement of my resolve, you could say.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I received it loud and clear...!\nYour powerful resolve...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "I can't afford to lose either...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—Fufu.",
+      "choice_data_list": [
+        "You look really happy."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...It is thrilling to see the music played by a friend\nadvance to the next movement. And—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"I must follow suit!\nCourage surges up alongside the sound...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "This won't do...!\nThis won't do at all, Trainer!\nThese overflowing emotions will drive me crazy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"Won't you give me some ideas...!\nSome way to put all this energy to good use...!!\"",
+      "choice_data_list": [
+        "Turn it into appetite!",
+        "Turn it into appetite!",
+        "...Like, dancing?",
+        "Maybe try a new instrument or something."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"Won't you give me some ideas...!\nSome way to put all this energy to good use...!!\"",
+      "choice_data_list": [
+        "Turn it into appetite!",
+        "Turn it into appetite!",
+        "...Like, dancing?",
+        "Maybe try a new instrument or something."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "What did you say!? Converting it into an appetite...!?\nI never thought of that...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "However――――molto bene!\nIt certainly is almost mealtime anyway!",
+      "choice_data_list": [
+        "Since we have this chance, let's eat something delicious!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "In that case, Direttore.\nThere's a place I'd like to visit.\nWould you care to accompany me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "In that case, Direttrice.\nThere's a place I'd like to visit.\nWould you care to accompany me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Led by Sounds of Earth, we arrived at a deserted back alley.",
+      "choice_data_list": [
+        "Is there really a shop in a place like this...?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah, yeah, there is. A little while ago,\nUniverse-san and Flash-san taught me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "The \"Ultimate Natto Shop\" is here!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ultimate Natto Shop Owner",
+      "text": "—Well, well.\nYet another young lady drawn in by the sticky tenacity of natto.",
+      "choice_data_list": [
+        "(!? When did she get right behind Earth!?)"
+      ]
+    },
+    {
+      "name": "Ultimate Natto Shop Owner",
+      "text": "Looking for our natto? Tracen Academy young lady.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ooh...! You're the one from the rumors...!\nWould you please part with the ultimate natto for us?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ultimate Natto Shop Owner",
+      "text": "Sti~cky-sticky-sticky! It won't come for free, y'know. ...You've heard from your friend, haven't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Of course!\nTalk about our love for natto, right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I shall speak through music!\nOf this deep, inner love for natto!!!",
+      "choice_data_list": [
+        "I don't really get it, but go for it, Earth...!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Leave it to me!!\nHere we go!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ultimate Natto Shop Owner",
+      "text": "“—Wh-What a... What a performance...!\nYour love for natto still clings to my whole body,\nsticky and all...!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ultimate Natto Shop Owner",
+      "text": "Here, take it...!\nMake sure you share and eat it together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Benissssimo!!\nWe did it, Trainer!!",
+      "choice_data_list": [
+        "Congratulations!!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "All right, let's dig in right away!\nTrainer, got your chopsticks ready?!",
+      "choice_data_list": [
+        "All ready to go!",
+        "All ready to go!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Then, let's stir it 424 times!",
+      "choice_data_list": [
+        "424！？"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the two of us happily mixed the ultimate\nnatto that Sounds of Earth had acquired,\nthoroughly relishing its flavor—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "That's it!! Moving your body to the music!\nSimple is best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Now that that's settled, let's change locations!\nIf we're going to dance, it has to be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "The stage!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—Now, it's time for music!",
+      "choice_data_list": [
+        "(W-Wow, the sense of speed is incredible...!)"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Trainer! Come on, dance!\nSurrender your body to the sound!!",
+      "choice_data_list": [
+        "Ah, yeah!",
+        "Y-Yeah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Having suggested it myself, I couldn't back out now.\nCasting all dignity aside, I threw myself into moving my body as hard as I could, when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, well, I was wondering what that booming racket was so early in the year, but it's just Earth.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "You look like you're having so much fun dancing.\nAre you practicing for something?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth's friends heard the commotion and showed up...! I have to admit, I felt just a tiny bit embarrassed—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ooh, Nature-san and Ikuno-san!\nWould you like to join me if you're free!!\nLet us vent our surplus vitality together!!\" || \"Ooh, Nature-san and Ikuno-san!\nWould you like to join me?!\nLet us vent our surplus vitality together!!",
+      "choice_data_list": [
+        "(W-Wait, you're inviting me!?!?)",
+        "(W-Wait, you're inviting me!?!?)"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "W-Wait, if you invite them like that—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Sounds good.\nPlease let me join in too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "See?! Told ya Ikuno'd totally get into the groove~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "\"Wouldn't this be quite fitting? We did just eat a lot of mochi earlier, after all. Consider it post-meal exercise.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "And you sure know how to sweet-talk someone into joining...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Fufu, that's still not nearly enough\nto burn off the calories we just ate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gaaah! Don't egg me onnn!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttore! The excitement is building!\nLet us elevate our spirits even further!!",
+      "choice_data_list": [
+        "(Whatever happens, happens—!)"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttrice! The excitement is building!\nLet us elevate our spirits even further!!",
+      "choice_data_list": [
+        "(Whatever happens, happens—!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And so, after continuing to dance with Sounds of Earth,\nthough I could feel muscle soreness coming on,\nmy mind felt strangely refreshed—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...! I see!\nChallenging yourself with a new instrument, huh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"Indeed, discovering new sounds is essential to enriching our musicality...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Alright, now that that's decided, time to investigate!\nLet's go, Trainer!",
+      "choice_data_list": [
+        "W-Wait, w-where are you going?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Naturally, to a place where new sounds await!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Old Man",
+      "text": "—Ho ho ho.\nSo that's why you went out of your way to visit.\nQuite the curious soul, aren't you?",
+      "choice_data_list": [
+        "(Wh-where is this...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Pulled along by Sounds of Earth, I was brought to a magical place so surreal it made me question if we were really still in Japan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"I have long heard the rumors.\nThat here lies a miraculous instrument that plays the most bizarre sounds...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Old Man",
+      "text": "Hmm, those eyes hold an extraordinary passion...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Old Man",
+      "text": "...Very well.\nIf it's you, I'm sure you can play it. That—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Old Man",
+      "text": "A cup of Klopotorte gi Rojankaka, please.",
+      "choice_data_list": [
+        "...What did you say?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Whoa...! So that's the real Kpottorte gi Rogiancaca!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"Please teach me right away!\nFirst, how do you make a sound with it?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Suspicious Old Man",
+      "text": "First, like this,\nyou make a circle with your index finger and thumb, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Sounds of Earth learned how to play\nthe Kupottorte gi Rojankaka with terrifying speed—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Savoring that utterly bizarre and mysterious melody\nto the fullest, she gained a new musical perspective.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days later—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—Haahhh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "—Ooooooh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "—*Pant, pant, pant*...\nYou're pretty fired up, aren't you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Naturally...! Now that I've reached the Senior Class,\nI must advance to the next movement as well...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I have to be even hungrier in honing my running...!\nOtherwise, I'll never reach greater heights...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "That side of you really never fails\nto fire me up...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—...?\nIs someone running—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Haaaaahh!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "That's—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Haa... haa... haa...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "(Win Variation-san...!\nA horse girl of the generation before us,\nwhose running echoes with earnest devotion...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...This level isn't good enough.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I'm not... nearly there yet...\nTo become the main character, I'm still nowhere close...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "More... more...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "Ngh...!\nI can practically feel their sheer spirit from here...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...Ah.\nThe air is thick with tension.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "(If I recall, she's running in the Nikkei Sho as well. In that case—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "Ah—\nHey, Earth...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—Buonasera, Shion-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "It's a calm night, well worth training in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...'Sup.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I hear you're running in the Nikkei Sho.\nAs a matter of fact, so am I.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I'm so glad I can run with you.\nI'm already looking forward to creating\na magnificent race with you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...'Glad we got to run together', huh—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Mind if I ask ya one thing?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Do you not plan on...\nbecoming the main star in races?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...The protagonist, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "—To be completely blunt, I'd say not really.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah, but don't misunderstand.\nI run in pursuit of the glory of victory as well.\nIt's just—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "To me, every single runner in the race\nis equally indispensable!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Therefore, let me rephrase it as my answer!\n\"Everyone was a protagonist from the very beginning\"...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ngh...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"...Sorry to say, but...\nI really don't think you and I\nare gonna see eye-to-eye on that—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"What I'm aiming for...\nis to win, to stand above the rest,\nand finally earn my place in the spotlight.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...That's why, I—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "—All that's left is to go for the win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Even at the Nikkei Sho, nothing changes...\nI'm gonna seize the leading role...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah—\nNow that's how it should be...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "......Thanks for your hard work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "I'll take my leave now, then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah, see you later, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "...Miss Shion...--",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "—Good grief,\nyou startled me, speaking up out of nowhere like that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Forgive me. I just couldn't resist\nchecking out Shion-san's music for myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "...That sounds just like you.\nStill, your spirit was incredible from start to finish.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "So this is... the overwhelming presence of an Umamusume who ran at the very forefront of the racing world alongside that Orfevre—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Oh, did you get scared?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "\"No way! If anything, it's fired me up...!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Aurum Star",
+      "text": "Good luck in the Nikkei Sho, Earth.\nI'll be tackling the older generation of Umamusume\nhead-on myself!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Benissssimo!!\nLet us show the world what our generation can do together!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And so, Sounds of Earth's\nSenior year swung into action...!",
+      "choice_data_list": []
+    }
+  ]
+}

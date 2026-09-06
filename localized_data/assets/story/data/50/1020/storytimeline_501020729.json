@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Seiun Sky",
+      "text": "...Huh?\r\nDid you feel like you weren't really in the zone?",
+      "choice_data_list": [
+        "How pathetic..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Now, now.\r\nDon't look so down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Let's hang out again sometime! ...Besides,\r\nit gives me the perfect excuse to slack off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "During summer training camp.\nOne day, while she was immersed in her training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "A hike—you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yeah! Want to go for a change of pace?\nI invited Loves-chan and Chrono-chan too, so the five of us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "I heard the view from the top of the hill is super pretty. What do you think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She decided to go on a hiking trip with her peers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "The wind feels soooo good~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "My, what a vast colony of narcissus anemones—\nHarmonizing with the summer meadow, it's so beautiful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Fufu... The view is lovely, too.\nI should have brought a telescope.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Still, we've walked quite a bit, haven't we!\nShall we take a short break?",
+      "choice_data_list": [
+        "Yeah, shall we do that?",
+        "Yeah, shall we do that?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Since it was a hike, I had prepared some light snacks.",
+      "choice_data_list": [
+        "A hearty, filling yakisoba bread!",
+        "With the sweetness of strawberries, my energy is increased a hundredfold!"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thank you very much.\nDown the hatch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "I'm sorry...\nTo think you'd treat us as well.",
+      "choice_data_list": [
+        "Don't worry about it, eat as much as you like.",
+        "Don't worry about it, eat up!"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "...! You're very skilled, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "I knew you made bento lunches for Bouquet-san for a time,\nbut I never imagined it was to this extent...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Fufu... Somehow, I've found myself feeling a little envious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu, that's right!\nShe made such careful, elaborate bento lunches for me every single day.\nAnd yet, she never once complained—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "I'm so glad\nyou got to see what a wonderful person she is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While enjoying a pleasant and peaceful time\ntogether around some light snacks...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yeah.\nIt really is delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, it's so sweet and delicious!\nIsn't it rather rare for this time of year?\nIt tastes just like in-season strawberries.",
+      "choice_data_list": [
+        "Ah..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "In truth, in order to add variety to Curren Bouquetd'or's\nsummer snacks, they had been ordered from a cooler region.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Is that so!\nYou sure are passionate, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "I can feel the love from this strawberry♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "L-Love—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "...Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While enjoying a pleasant and peaceful time\ntogether around some light snacks...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A notification chime rang for a new email.\nJust to be sure, I checked the subject line, and—",
+      "choice_data_list": [
+        "(...A general announcement from Chairwoman Akikawa?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I wondered if something had happened.\nExcusing myself, I briefly checked the contents—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Notice!\nThe Exhibition Match has been officially scheduled!\"",
+      "choice_data_list": [
+        "Wait, an exhibition match!?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"What's going on!?\nIs something wrong?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "……――？",
+      "choice_data_list": [
+        "N-no, um— this"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Lately, Tiara Umamusume have been making huge waves! Led by the likes of Gran Alegria and Loves Only You—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"This year's Triple Tiara campaign is once again seeing incredible excitement!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Therefore, this coming November!\nHosted by Tracen Academy!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"An exhibition match gathering top Tiara Umamusume has officially been decided!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "The Four",
+      "text": "Huh!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"First, we are seeking participants!\nFor details, please refer to this special page—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "The Tiara Umamusume Exhibition Match—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Indeed, it's rare for the Tiara route\nto draw this much attention.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Isn't this amazing!? It totally is, right!\nI'm so happy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes, very much so. November means—\nit'll take place after the Shuka Sho, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hehe! That means it's the grand finale\nof the Triple Tiara route, huh♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "You're right!\nAha, I'm too excited to sit still!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Let's hurry and go!\nI feel like shouting at the top of my lungs from the summit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu, I'll be going ahead then♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah, no fair! Me too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Shall we head out too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes—\nTrainer, are you alright?",
+      "choice_data_list": [
+        "Maybe we should take the ski lift from here."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I didn't want to get in the way of those itching to run.\nLuckily, there happened to be a ski lift boarding area nearby.",
+      "choice_data_list": [
+        "Let's regroup later."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"Oh, is that so?\nUnderstood, please take care.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(—An exhibition match... The Tiara route must be getting that much excitement.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(I'm sure the day of the event will be lively\nwith a huge crowd as well――)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(Could this be... a great opportunity to make Trainer known to everyone?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yeah—\nFrom now on, I have to do my very, very best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "\"...Haa, phew.\nIt's getting a bit steep, isn't it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "L-Let's slow the pace down a bit~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "...?\nYes, of course—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After reaching the top via the lift, the Umamusume\ncame running up the hill one after another shortly after.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "*gasp*, *pant*! *pant*, *whew*~~!\nW-We made it~! Good job on the 30 miles~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ahaha...,\nI guess I pushed a bit too hard right at the start.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "\"That final steep slope\nwent straight to my legs...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Is everyone all right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "\"Yes.\nUm, Bouquet-san is... quite tough, isn't she—\"",
+      "choice_data_list": [
+        "(True enough, she isn't out of breath in the slightest.)"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Is that... so...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Waah!\nWhat a beautiful view...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gran Alegria's voice echoed through the air.\nDrawn by her call, I looked down from the hilltop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Amidst the lush greenery, rocks were scattered here and there—\nand a gust of wind swept across them.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "My...—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"The high sky...\nThere's a subtle scent of autumn in the air, isn't there?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "...Come autumn, there's the Shuka Sho.\nAnd then, the exhibition match...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yes! I'm so excited already, I can't sit still♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Right!\nLet's make this the best race ever, everyone!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "—Yes, that's right.",
+      "choice_data_list": []
+    }
+  ]
+}

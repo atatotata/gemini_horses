@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Spectator A",
+      "text": "Hey, did you see?\r\nNarita Brian's declaration!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "I saw it! That's why I came to watch\r\nsince the Hanshin Daishoten! I mean—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"Unless she keeps winning from this race on,\r\nNarita Brian's declaration means nothing.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Apparently.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her remarks at the award ceremony the other day were heavily covered by the media\r\nand quickly became known to the public.",
+      "choice_data_list": [
+        "Pressure?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Heh. Don't make me laugh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Whether such a thing exists or not doesn't matter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No matter who is running, no matter what kind of race it is,\r\nall I need to do... is blow them completely away!!",
+      "choice_data_list": []
+    }
+  ]
+}

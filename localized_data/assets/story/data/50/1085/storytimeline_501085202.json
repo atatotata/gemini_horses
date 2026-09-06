@@ -1,0 +1,343 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Early morning on the day of the Oka Sho—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Hmm... Ruby?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Clap...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "*Yawn*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I am terribly sorry.\nDid I wake you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "No, I'm fine.\nMore importantly...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...I was thinking of going for a jog.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "You have a race today, right?\nIsn't it a bit early to warm up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I ended up waking up.\nMoving my body around is actually more relaxing for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "I see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Hey, could it be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "\"...No,\nit's nothing.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "I'm sure... you'll be just fine.\nI'm rooting for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "(...Right. I am...\nI am part of the \"Illustrious Family\"—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fitting for a Classic race, Hanshin Racecourse\nwas packed with huge crowds. Among them—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Palmer-chin, Palmer-chin!\nI found the young lady's Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Hello, Trainer-san!",
+      "choice_data_list": [
+        "Hello."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Palmer is an Umamusume of the prestigious Mejiro family and from the same generation. Apparently, she came to watch the race today after being dragged along by Daitaku Helios.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Man, the hype is insane! Everyone was talking about Ruby on the way here.",
+      "choice_data_list": [
+        "I knew it..."
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Well, when you say \"The Illustrious Family\"...\nI imagine even people with no interest in racing\nare turning up to watch.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hey, hey,\nthink I could actually go for a run right now after all!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "I wanna run with Ojooo~~!!\nGotta go ask her right now!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Ah!\nHelios, wait!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Then Trainer-san,\nwe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "—The \"Illustrious Clan\" really is\nsomething else!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Daiichi Ruby's mother ran away with the lead\nat this Oka Sho with incredible speed.\nI'm sure she's going to be just as amazing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "There's no way she'll lose!\nI know Daiichi Ruby will carry on\nthe spirit of that day's run!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "\"...So passionate~.\nAre they a longtime fan, I wonder?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "“But what if you still lose? You have the perfect pedigree and plenty of talent, right?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "There's nothing wrong with her.\nIf she loses... that's on the Trainer.",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "...Um.",
+      "choice_data_list": [
+        "It's okay, it's the truth after all"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She is naturally gifted and a hard worker to boot.\nIf she fails to win, it's only natural that my training methods would be called into question.",
+      "choice_data_list": [
+        "(That's also something a trainer has to shoulder.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Bracing myself, I returned to the waiting room,\nwhere Daiichi Ruby was waiting motionless, just as she always did.",
+      "choice_data_list": [
+        "Those are some amazing flowers, as always.",
+        "Those are some amazing flowers, as always."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "While nobody barges in directly like they used to,\nno matter how many arrangements are made, the flowers sent to her never stop coming.\nIf anything, they've only increased to the point of burying the room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Right then, I suddenly realized. She was always so dignified,\nbut today she seemed somewhat tense...\nas if she were pushed right to her limit.",
+      "choice_data_list": [
+        "...Are you nervous?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "No, there's no problem at all.",
+      "choice_data_list": [
+        "...Really?"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Today is an important day that will test my true worth—\nwhether I can carry on our family's glorious legacy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "A few mental ups and downs are well within my expectations. Therefore, it is no problem at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Before the debut race, when I asked if she was nervous\njust like I did just now, she seemed genuinely fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However... right now, it almost looks\nas though she's trying to convince herself\nthat everything is fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"...I shall be on my way.\nWell then—\"",
+      "choice_data_list": [
+        "You'll be okay.",
+        "You'll be okay."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Yes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I don't know if I can help. But...\nI wanted her to realize it was the truth by telling her how others saw her.",
+      "choice_data_list": [
+        "Believe in what lies within you.",
+        "Believe in what lies within you."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……――",
+      "choice_data_list": [
+        "The blood of the “illustrious family” flows through you",
+        "The blood of the “illustrious family” flows through you"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "For her, that should be something to believe in... something that brings more confidence than any words ever could.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...I shall be on my way.",
+      "choice_data_list": [
+        "...Have fun!"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Waaaaah...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "(It is not just those present here today.\nEvery single eye tied to the history of the\n'Illustrious Lineage' is watching me.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Phew.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "(I can run. Coursing through my veins...\nis blood to be proud of.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "—...The time to blossom is now.",
+      "choice_data_list": []
+    }
+  ]
+}

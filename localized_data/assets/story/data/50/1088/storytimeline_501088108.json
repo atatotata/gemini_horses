@@ -1,0 +1,488 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is the Fan Appreciation Festival. It's a festival where the Umamusume take on various events and have fun together with the fans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "This day has finally come!\nAwesome! Let's do this, Dia!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yeah!\nLet's do our best together, Kura-chan!",
+      "choice_data_list": [
+        "You're really fired up!",
+        "You're really fired up!"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Yes, of course! I've got to\nrepay all my fans for their daily support!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Whenever a Satono Umamusume couldn't pull off a win,\nit was the fans whose warm support kept us going.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Whenever we fell just short and were about to hang our heads,\nthose cheers helped us look forward again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"So, today is our turn!\nWe'll win our events and thank everyone for their support!\nWe've gotta show our gratitude through our actions!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "And starting shortly, the Pair Obstacle Race!\nOnce again this year, various hazards await our Umamusume!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Now, let's introduce the contenders!\nFirst up, these two:\nSatono Crown & Satono Diamond!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "As Umamusume of the Satono family, having overcome countless obstacles before, today the two of them leap over literal hurdles!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Next up are these two!\nConsidered the favorites to win this tournament—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Duramente & Cheval Grand!\nWill we see the same formidable running from their races\nhere in this obstacle course!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Cheval! And Duramente!\nAre you two participating in the Pair Obstacle Course too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Y-Yeah. Ugh... T-To tell you the truth,\nI'm not really good with this sort of thing, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "And I'd hate to... not run and let all my fans down, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I will prove that I am the strongest.\nThat is all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Looks like you two have more than enough fighting spirit.\n...Now this is getting interesting!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Without adversity on your level, I wouldn't\nget fired up either! Let's do this, you two!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Dia, ready yet?\nLet's go take the win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yes, of course!\nLet's definitely take 1st place together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Full of upsets, full of emotion! Aiming for glory\nbeyond the obstacles, each team—is off to a start!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "First up is the \"Hop-Step Continuous Jump\"!\nThe footholds vanish once stepped on, so the key\nis leaving enough platforms for your partner behind you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "By the way, if you fail the continuous jumps,\nyou'll fall victim to the sticky glue sheets laid on the ground,\nresulting in a massive time loss!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Whoa, whoa-whoa...!\nT-There's nowhere to jump to...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Mmh... I see.\nIf I just act on my own, my partner will...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Right, left, right, left...!\nIs this pace all right, Kura-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"Perfect! It's easy to jump across!\nLet's run right through!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Next up is the '1,000 Pedometer Count' challenge!\nOnce the pedometers on your waists hit a combined\ntotal of 1,000, you clear the challenge!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "One, two! One, two!\nAt this rate, we'll reach it in no time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yeah! Learning this dance from\nUmaTube was totally worth it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Team Satono has already reached the third checkpoint! Next up is\nthe 'Gesture Charades'! One of you will act out the prompt,\nand the other has to guess who is doing what!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "………………！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Got it! It's \"Kitasan when she gets super hyped\nat karaoke!\" right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Correct!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I-I'm sorry, Duramente...!\nI-I'm just not doing it right...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"I don't mind.\n...There's still a chance to win.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Is that already a safety lead?!\nAside from the Satono pair, the rest are still stuck at the first and second obstacles!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "*pant*, *pant*――Hǎo!\nEverything's going smoothly so far!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yeah! Our practice is really paying off!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "It was well worth researching beforehand\nwhat kind of events had been held in this competition in the past.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Thanks to that, my strategy was spot-on!\nJust like in training, I was able to deliver the optimal solution!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"If we keep this up, we should be able to win\nwithout Duramente and the others ever catching up!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Still, Kura-chan, don't let your guard down...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "No problem. I understand.\nI always tend to mess up at times like this, don't I?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"That's precisely why we brace ourselves now! Here goes our final spurt!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "The final trial is the \"Boulder Smash\"!\nIf you can smash this 1-meter boulder using the provided tools, you pass!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Huh? B-Boulder crushing!?\nThere was never anything like that in past 'Pair Obstacle Races'...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...O-Oh, that reminds me, Cla-chan!\nWhen the two of us were reading through the materials—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "There was an event called \"Boulder Crushing\"...?\nOnly once five years ago? I suppose it wasn't popular enough and got discontinued.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "The chances of this event coming up seem low,\nand if it's just breaking rocks, it's pretty simple—\nlet's spend our time on other practice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Aaaaaaaagh!!?\nAiya, why did I, back then...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "So I just need to smash the rock, right?\nThere are all kinds of tools here, but I'll use this—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "\"...Ow. It hurts.\nMy fingertips are tingling...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Kh... To think that an event I hadn't prepared for\nwould show up at this point——",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "我真係……!\nWhy do I always have to be like this, ughhh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Oh! And right here!\nThe Duramente & Cheval Grand pair\nhas surged up all at once!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I can't afford to lose.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"E-Even I...! Want to show my good side,\nat least for today...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "—Ngh! Looks like we don't have much time!\nWe have to act immediately!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I won't give up! No matter what it takes! Together with Dia, we'll seize victory—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "\"The lead pair crosses the finish line!! The winners are Duramente and Cheval Grand!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Satono Crown and Satono Diamond were passed at the very end...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Mmmgh!!\nSo frustrating! Right at the very end!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "\"That was so close! Great effort!\nThanks for giving us such a thrill!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "It was so fun seeing all the different events!\nI'll be cheering for you again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Everyone...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Times like this are really when\nyou truly appreciate it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yeah, you're right... That's why\nwe have to make sure our feelings reach them too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"I'm sorry I couldn't pull off the win in today's match!\n—Thank you so much for your support!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"Next time, I'll live up to everyone's cheers!\nI'm not going to leave them disappointed!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "So, please watch me!\nNext time, on the track! Without fail!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fans",
+      "text": "\"Don't give up—!!\" \"You've still got this!\"\n\"Please, show us you can win!!\"\n\"Who cares about bad odds!\" \"Go for it—!!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Everyone...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Yes, that's right! It's not over yet.\nI'm confident!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(—Think! Think, Crown!\nA pinch is the worst time to stop your brain from working!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(What I've got prepared is: a hammer, a saw,\na frying pan, scissors... But just attacking the boulder\nwith those isn't going to shatter it—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Then... that's it! Smash it!\nIf I put this on the ground and use my own body weight—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Dia, help me out! Lift this boulder and drop it right here—smack against the hammer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ah, right... Yup!\nLeave it to me, Kura-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Here we go! Ready, set――!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Ah!? What in the... what in the world!?\nA crack appears in the giant boulder dropped to the ground—\nI-It split!! Clean in half--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "The winners of the 'Pair Obstacle Race' are—\nSatono Crown and Satono Diamond!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Hao ye! Thanks for the cheers!\nThanks to you, I pulled off a victory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator",
+      "text": "(Waaaaaaaaahhh!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"At the very end, everyone's cheers gave me the\nstrength to push that one extra step to victory!\nThey gave me so much energy!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Keep watching us! Dia and I—\nthe Satono family will definitely keep living up to your expectations!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Please continue supporting me from now on as well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Thanks for today, Kura-chan.\nI had fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I'm glad to hear that.\nBecause I felt the exact same way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "You know, after practicing the event with Dia, it really made me realize all over again—what incredible strength of heart that girl has.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "The training must have been tough. But you never gave up,\nnot even for a single second...\nYou stayed by my side and worked hard with me the entire time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Because you're like that, I know you can win.\nDo your best in the Satsuki Sho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "I see... So that's why you worked so hard with me at the Fan Appreciation Festival, Kura-chan. Just so you could tell me that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yeah. I'm definitely going to win!\nYou have to come watch too, Kura-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Of course!\nI expect nothing less than running worthy of the Satono family name!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from accompanying Sirius Symboli on a shopping trip.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "What's all the commotion about?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Huh.\n...Come to think of it, I got one earlier.",
+      "choice_data_list": [
+        "Why not draw one?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "No, I'll pass.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Go ahead and try.\nLet's see just how good your luck really is.",
+      "choice_data_list": [
+        "Oh, me?",
+        "M-Me?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Still, using her lottery ticket felt a bit\nwrong. As I hesitated—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Don't wet yourself.\nEven if you draw a dud, I'm not gonna kick you.",
+      "choice_data_list": [
+        "It's not like that—I want you to draw it.",
+        "It's not like that—I want you to draw it."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Huh, begging for a favor?\nLook who's acting high and mighty now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "The answer is no. I would find no amusement in it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "First of all, this raffle ticket belongs to me.\nWhat I do with it is my own business. Am I wrong?",
+      "choice_data_list": [
+        "That is—"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "If you get it, grab the lever.\nMister, one try, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before I could say anything back, the handle was thrust into my grip.\nUnable to resist, I turned the lottery wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...Heh heh. Ahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "The grand prize, huh?\nTalk about incredible luck.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "The inn at our destination is fairly well-known, too.\nGo and enjoy yourself as much as you like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sirius Symboli handed over the \"Hot Springs Trip Voucher\"\nas if it were the most natural thing in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, she had drawn it using her own raffle ticket.\nI simply couldn't bring myself to accept it.",
+      "choice_data_list": [
+        "Please use it.",
+        "You use it."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Huh? I said I'm giving it to you.\nShut up and take it.",
+      "choice_data_list": [
+        "No, but—"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...Sheesh, you leave me no choice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Then I'll save it for your reward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Taking care of a pet dog is a master's duty, after all.\nI'll give it to you when you need it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Until then, keep wagging your tail and working hard.\nLittle puppy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so... an unexpected \"reward\"\nended up being established.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Huh. Not a bad result.\nLooking closely, the materials used here are top-notch too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Savor every bite.",
+      "choice_data_list": [
+        "No, it's yours.",
+        "No, it belongs to you."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...Unfortunately for you, I'm just a pampered boy from the Symboli family.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Developing your palate is a far better use of it than me eating it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Yeah, don't you dare forget to report back\non what it was and how good it tasted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Cuz you wouldn't learn a damn thing that way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I quietly savored\nthe \"Special Carrot Hamburger Steak\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was so unbelievably delicious that I couldn't help calling her right then and there to report back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Ahahaha! Ah, was it that delicious?\nWell, that's great to hear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...Heh, feeding you is gonna turn into a bad habit if I'm not careful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Not bad at all, I'd say.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "A whole mountain of carrots, huh? Ain't no way you're eating all that, are ya?",
+      "choice_data_list": [
+        "That's true..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"It is a shame since I managed to win it, but\nI fear some of it might go bad.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "\"I want to avoid excess calorie intake as well.\nPops, sorry, but this is—...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "\"...No, scratch that.\nI just remembered a lead.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius's Juniors",
+      "text": "Is that really okay?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Yeah.\nTake as much as you want back with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius's Juniors",
+      "text": "Thanks a ton!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing her juniors so happy, Sirius Symboli looked rather satisfied as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Well, I guess that's about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Still, just one carrot, huh?\nI could just hand it over to ya, but...\nthat'd be boring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Alright.\nShow me your cooking skills.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Managing nutrition is part of a Trainer's job.\nSomething like this should be second nature to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "If you make it tasty, I'll praise you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, using just a single carrot,\nI had to cook a dish to show her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "—Huh.",
+      "choice_data_list": [
+        "H-How is it...?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Slow. And on top of that, it's undercooked.\nCan't say it looks any good, either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...However, the ingredients are put to great use.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I was wondering how it would turn out, but they seemed reasonably satisfied.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Well, I never had high hopes to begin with.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Still... I don't really believe in luck or whatever, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Pulling something labeled a \"Dud\" leaves a pretty bad taste in your mouth, naturally.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sirius Symboli seemed vaguely downcast...",
+      "choice_data_list": []
+    }
+  ]
+}

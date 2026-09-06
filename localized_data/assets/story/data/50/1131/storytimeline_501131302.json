@@ -1,0 +1,458 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On our way back from shopping for training gear with Gran Alegria.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Trainer,\nwhy don't we try that?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": [
+        "Ah, the raffle?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "“Yes, the lottery raffle! Because, you know,\nI really, really want to go on a hot springs trip!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"We get to soak in hot springs AND earn airline miles!\nIsn't that killing two birds with one stone?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Gran Alegria kept chatting away as if winning was a foregone conclusion. Even so—",
+      "choice_data_list": [
+        "...You know the hot springs trip is the grand prize, right?",
+        "...You know the hot springs trip is the grand prize, right?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "? Yes!\nI'll guess it right, just watch me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Especially today! I made my signature morning salad, caught the Diet broadcast, and did all sorts of other things!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "My mile combo keeps stacking up, so I'm in top form! I'm definitely gonna nail this~!",
+      "choice_data_list": [
+        "A-As expected!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "So can I use\nthe lottery tickets now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Come to think of it, I had received a ticket while shopping.\nI take it out and hand it to her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Thank you!\nWhew!",
+      "choice_data_list": [
+        "That is—"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "My Rule!\n\"Whistle to pump myself up when it's crunch time!\"\nHere I go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Gran Alegria spun the lottery wheel handle with gusto!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Waaay! Ahaha, yay!\nI'm 100 miles of happy~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ahem, I did it!\nI guessed it right, Trainer!",
+      "choice_data_list": [
+        "As expected of you, Gran!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ahaha!\nNow we can go on that \"Hot Springs Trip\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "It looks like the inn is set,\nbut everything else is completely open, huh~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Since I've got the chance, maybe I'll make this the ultimate mile trip,\nentirely produced by me!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Trainer, you'd better look forward to it~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Listening to her speak, I realize something. Apparently, she intends to come along with me.",
+      "choice_data_list": [
+        "Are you sure you want me? Well, if you insist—",
+        "Are you sure about me? Well, since we're here—"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Since we have this opportunity, you know.\nTrainer!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"I want to use this 'special opportunity'\nto show my gratitude to you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "...Please? Is that a no?",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah, but of course, if you're not in the mood,\nTrainer-san, that's totally fine!",
+      "choice_data_list": [
+        "N-No way, I'd love to come!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Really!?\nThank goodness, thank you so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ehehe~. Hot springs, hot springs, hot springs trip~♪\nGuess I'll eat a date fruit~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, a promise to go on a hot spring trip\nwas made with Gran Alegria.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Aww, so close!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Still, the \"Special Carrot Hamburg Steak\"\nlooks delicious, so that's fine too~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Oh yeah, while we're at it, let's make a salad or something\nand have a mini party just the two of us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, we suddenly ended up\ncooking dinner in the Trainer's Room!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Chop-chop-chop-chop...!\nMmh, all done!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ahaha! Look at this!\nA heart-shaped caaarrot!",
+      "choice_data_list": [
+        "So cute~"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ehe, isn't it~!\nI'll take a picture later!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Umm, next is... Trainer, do we have any paprika powder?",
+      "choice_data_list": [
+        "Sorry, I don't have any!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Understood!\n...How much of this do we need?",
+      "choice_data_list": [
+        "...Wouldn't make much difference even without it, would it?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Never mind then~!",
+      "choice_data_list": [
+        "Okay! Tomatoes are sliced!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yay, thank you so much!\nWell then, next up isâ",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, the two of us merrily made a salad... preparing for our little party!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Aw man, 2nd prize!\nWell, don't sweat it, me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Still, to receive so much!\nI'm so happy~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Since we got this much... Oh, I know!\nI just had a great idea!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Carrot Stall Gran is here!\nI brought some refreshments~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "A food stall—\nOh, look at all those roasted carrots!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ehe! I got so many of them, I wanted to share some with everyone!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Our flavors are Salt, Butter, and Sugar!\nAnd for doneness, we have Rare, Medium, and Well-done—\n3 styles to choose from!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "\"E-Even how to cook it!?\nGetting all this ready must've been really tough, right...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Not at all!\nI was having so much fun that it was over before I knew it~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Come on, don't be shy, grab as much as you want!\nEat it while it's hot!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Um, in that case... I'll have one medium, salted, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Coming right up~!\nOne salt, order up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Then I'll take one Rare Sugar!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "W-Well, then...\nWell-done with butter, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Right away!\nComing right up~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The massive pile of carrots was transformed into the Grand Carrot Stall, bustling with life in a corner of the grounds.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Oops! It's third prize!\nToo baaaad!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Mm, but we got a carrot out of it, right?!\nTotal bargain, total bargain♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "With this, maybe I should... Oh, I know!\nI'll make up some house rules for carrots!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Speaking of things that get you hyped when eating carrots...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Hmm, \"Eat it skin and all!\" ...Is that not quite it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"First, take a big raw bite!\"\n............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "I feel like there's something even better out there!\nLet's go look for it, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Come to me~, my rules!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, to discover her own personal carrot rules,\nthe two of us took a stroll through the shopping district for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Gaaasp! What a shocker!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "—Aha! Just kidding!\nPocket tissues, huh~ A bit of a bummer!",
+      "choice_data_list": [
+        "I'm sure you'll pull the grand prize next time!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yes, of course! I'm sure you'll pull it easily next time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "...Excuse me! Do you have a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"When I'm in a slump, I look toward my hometown.\"\nIt's my personal rule! Just in case, you know...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Despite what she said... Gran Alegria looked just a little disappointed.",
+      "choice_data_list": []
+    }
+  ]
+}

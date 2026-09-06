@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, Ines Fujin invited me to the amusement\r\npark where she works part-time,\nso I went to check in on how she was doing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Alright everyone, let's call out in a loud voice\r\nfor the hero of the amusement park, \"Parkman\"!\nReady, set...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Park Man!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Huh?\r\nLet me try calling out one more time!\nParkman—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Wait up for a sec, everyone!\r\nBig sis is gonna go check out the situation!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Did some kind of trouble happen...? I was worried, so I decided to go check on her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "T-The suit actor fell suddenly ill?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Amusement Park Staff",
+      "text": "My stomach suddenly started hurting so I'm stuck in the bathroom...\r\nI don't think it'll take that long,\nbut Ines-chan, could you stall for time somehow?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Even if you tell me to do \"something,\"\nthe only things I can really do on stage are\nthe dances I practiced for the Winning Live.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "But still, but still, that's completely different from a hero show, so... hmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hold on a secoooond!\r\nInes-senpai, is it true that Parkman is in trouble!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Nyah, Biko-chan!?\r\nAnd Trainer too!\nThis area is authorized personnel only!",
+      "choice_data_list": [
+        "I thought it was an emergency."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "That's true, but...\r\nEither way, we have to think about the stage!\nWe should really explain the situation to the audience—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...Parkman is this amusement park's\nhero... Bringing smiles to kids' faces\nis his job, right!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Huh? Y-Yeah. That's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "If that's the case!\r\nWe can't disappoint the kids who came to cheer for Park Man!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...I see, everyone would be disappointed.\nThe little kids, the moms, the dads...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"They came all the way here as a family for fun,\r\nso I don't want them to go home feeling sad.\nI might not be a hero, but—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "I want to entertain the audience on stage!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...Still, how?\nIt's not a Winning Live, so\nwould my dancing really make people happy...?",
+      "choice_data_list": [
+        "How about a dance styled like a hero show?",
+        "We should go with a dance that really brings out what makes you *you*, Aines."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "A hero show theme...!\r\nThat sounds like fun! You gotta help too, Biko-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "\"Everyone! It's terrible!\r\nParkman is in huge trouble right now!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ugh, help me...!\nI've been captured by an enemy commander!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "So, everyone!\r\nLet's send all our cheering spirits\nto Parkman!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Let's all dance along with the big sisters!\nI'm sure the power of dance will reach Parkman!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Go, go, Parkman!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Go, go, Parkman! You're so strong!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Now then, everyone, smile for me!\r\nYour smiles are what give me strength!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Ines Fujin's dance got them through the emergency,\nmaking the hero show a roaring success.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "What makes me, me... Yeah. Even I practice all the time just to make all my fans smile!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "All right, watch closely, you two!\nThis is big sis Ines's grand stage!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Announcement",
+      "text": "“—Due to a minor schedule change,\nwe will now be presenting a mini dance show.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Come on everyone, while we wait for Parkman to get ready,\nsing and dance along with Big Sis!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "One, two, three!\r\nOne, two, three!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "...And turn here! All right, got it down?\r\nNext, let's add the singing~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy A",
+      "text": "O-One, two, three...\nAnd turn here... I did it—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ahaha! Nice, nice!\r\nAlright everyone, let's dance even better and give Parkman a big surprise!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Ines Fujin's dance got them through the emergency,\nmaking the hero show a roaring success.",
+      "choice_data_list": []
+    }
+  ]
+}

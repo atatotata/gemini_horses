@@ -1,0 +1,353 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—The first G1 race on the Tiara route\nhas come to an end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A once-in-a-lifetime showdown. The unprecedented\r\nfatigue must have caught up with Daiwa Scarlet too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thinking that, I decided to take today off.\n...Or so I thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Whoa! It's Scarlet-san and Vodka-san!\r\nLooks like they're going head-to-head again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Eeeek! Vodka, do your best~!\r\nScarlet, don't you lose either--!!",
+      "choice_data_list": [
+        "…………！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "No way—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Haa... haa...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Heheh, I win!\r\nThat makes 8 wins out of 13 matches total!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Well then, time to call it a day and take off!\r\nNo point in completely wearing ourselves out here, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Guh... Hey! Hold on a minute!\r\nI won't let you just win and run away!",
+      "choice_data_list": [
+        "You should get some rest too.",
+        "You should get some rest too."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "T-Trainer...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"...I'm really not that tired.\nSo I'm telling you, I'm fine.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"That thing earlier was just her challenging me to match strides\r\nwhile I was doing my morning solo training.\"",
+      "choice_data_list": [
+        "Have you been training all morning?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah, shucks—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...To prevent her from doing any excessive self-training, I decided to walk her back to the dorms for the day.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Geez, you're way too overprotective.\r\nYou really didn't need to do all that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hm? The one over there, is that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Are you really aiming for that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Yes, that's why I came to you, Senpai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Please.\r\nPlease... tell me what happened.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Huh, that's an unexpected combo.\nAnd for her of all people to bow her head...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Advice from Senpai, huh... Hmm.",
+      "choice_data_list": [
+        "You're taking the day off today, okay?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh, I get it! I said I get it already!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...I wonder if Air Groove-senpai is in her room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiwa Scarlet headed back to the dorm\nwith quite a spirited stride for someone calling it a day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And the next day, \"a certain piece of news\" broke regarding the second leg of the Triple Tiara, the Oaks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"—Vodka bypasses the Yushun Himba...\r\n...and enters the Tokyo Yushun (Japanese Derby)\"!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Huh!? You're abandoning the Tiara route?\r\nAfter competing with me so fiercely all this time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Unbelievable, running away from me like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I've totally lost the mood now.\nChanging direction all of a sudden like that is so uncool.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Aaah, seriously... all the strength is... draining out of me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Thud...!)",
+      "choice_data_list": [
+        "Scarlet!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Huh, where is this?",
+      "choice_data_list": [
+        "It's the nurse's office."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I see... I collapsed back then, didn't I.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Indeed, Daiwa Scarlet. You snuck out of the dorm recently to do solo training again, didn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Air Groove-senpai!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "It's fortunate someone was around where you collapsed this time...\r\nWhat did you think would happen if you had collapsed all alone?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...I am deeply sorry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...You must remain calm at all times as well.\r\nMake a wrong move, and even those who could be saved will be lost.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "You have been entrusted with your trainee's life!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Well then, I shall take my leave.\r\n...I've called my roommate to pick me up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Huh, my roommate...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "...Why are you collapsed on the ground, honor student?\nThat's not very exemplary of you at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hmph! Keep it down, will you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"Still, wouldn't you say you're the one being 'uncool' right now?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "You gave up on the Tiara route, didn't you?\r\nDid you think you couldn't take first place because I'm here?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "That's right. After all, running away halfway through is just—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "DON'T MAKE FUN OF ME!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ngh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"I chose the Derby\r\nto stay true to being cool!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "I'm not doing this half-assed!\r\nYou don't know a damn thing about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Look who's talking, you just randomly say you're number one!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Haaah!? What's that about!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Damn right it is!\r\nLike, what does \"becoming number one\" even mean anyway?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "You just want first place?!\nThen just only run in races you can win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Quit messing around!!\r\nThat's not being number one at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Then what the hell is your \"number one\" supposed to be?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...W-Well, that's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ha, so you can't even answer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "\"Being 'number one' means nothing to you.\r\n...It's careless, and completely hollow.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...No.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...No, you're wrong...!\r\nMy number one isn't anything like that...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—However, Daiwa Scarlet fell silent after that.\r\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Biting my lip, deep in thought, as if questioning\nwhat being \"number one\" means to her—",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While having a meeting with Sakura Laurel\nin the trainer's office—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Ouch. Ugh...",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "My head is throbbing a little...\nTrainer-san, do you have a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sakura Laurel pulled a cooling sheet out of her school bag and placed it on her forehead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A short while later, Sakura Laurel\npeeled the cooling sheet from her forehead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Thanks to you, I'm feeling much better.\nNow I can focus on the meeting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, after a short while...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Ouch. It might be flaring up again...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed the root cause of the pain hadn't been resolved.\nFor a while, Sakura Laurel continued to suffer from headaches.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today, I was being interviewed by Reporter Otonashi\nalongside Yaeno Muteki.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It is wonderful!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"So you kept challenging the Eternal Big Three\nto establish your presence as the representative of your generation, didn't you!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes, exactly as you say.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "To finish with this many wins against the Eternal Big Three!\nYou truly walked the talk! That was absolutely magnificent!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "To think that such passionate feelings were behind\nYaeno Muteki-san's great record...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It's a waste to keep it just on the printed page!\nWhy not convey that passion directly to everyone?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, it was decided that Monthly Twinkle\nwould host a talk show event starring Yaeno Muteki.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—I pushed forward with the single-minded desire\nto surpass the Eternal Big Three, and before I knew it,\nthe victories had simply accumulated.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Ooh! Taking on the conscious responsibility of representing your generation...!\nAs expected of Yaeno Muteki-dono!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "\"You kept winning against the Eternal Big Three!\nYaeno Muteki-san represents our generation!!\nI think you're the strongest!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"The strongest...! I am...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "Yes, she is the strongest!\nYaeno's victory is proof of her invincibility!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan D",
+      "text": "Please continue to stay invincible from now on as well!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Muteki! Muteki! Muteki!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "O... Ooh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Chants of 'Muteki!' echo through the venue.\nSuddenly, I was struck by the sensation of standing right at the racetrack.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yaeno Muteki stands in the winner's circle\namidst a thunderous chorus of \"Muteki!\" cheers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Muteki! Muteki! Muteki!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...This is the sight I have yearned for all along...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "To keep wishing for it... Ah...\nDo you mean cheering for Oguri-san...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes, like Oguri-san, I too have strived for running that captivates people.\nI believe that is the kind of presence a representative of a generation should have.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Merely winning isn't enough.\nIn that regard, perhaps I still haven't surpassed Oguri-san and the others.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"I will deliver a run worthy of a representative of our generation and the strongest of all.\nI intend to continue devoting myself fully to this path.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "In that case, count us in too!!\nWe'll help out however we can!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "The Oguri boom only reached this scale because the cheering spread and grew over time!\nIf we become the core of the cheers...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan D",
+      "text": "Let's form an unofficial Yaeno Muteki fan club!\nThat way we fans can interact with each other, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "We shall lend our strength to Lord Yaeno Muteki!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "! My goodness...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I could not be happier!!\r\nI thank you from the bottom of my heart!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The talk show event was a massive success.\nThe fans who attended happily walked home\ntogether afterward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Fufufu, to think the people cheering for me were such passionate individuals...!",
+      "choice_data_list": [
+        "Maybe she's a lot like you.",
+        "Maybe she's a lot like you in that way."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Is that why my chest feels so ablaze?\nMy fighting spirit is bubbling up from within.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"...I see, so this is what it feels like\nto turn Oguri-san's cheers into power...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hmm... A packed arena of vast crowds is marvelous, but\na deep, unyielding bond holds\na distinct beauty of its own as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "How fortunate indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yaeno Muteki smiles happily. Through the victories she had steadily accumulated, she seemed to have forged an irreplaceable bond.",
+      "choice_data_list": []
+    }
+  ]
+}

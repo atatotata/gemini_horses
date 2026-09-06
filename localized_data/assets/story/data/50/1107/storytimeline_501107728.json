@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tap Dance City",
+      "text": "Nicely done, Trainer!\nThat was some deft salvage work!",
+      "choice_data_list": [
+        "Honestly, I wanted to take more, though..."
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Getting your hands on treasure isn't easy.\nYou gave it your all, and that's plenty of an achievement!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "You should take more pride in yourself.\nCome on, stand tall and puff out your chest!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

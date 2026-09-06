@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "It happened on the way home, right after finishing\r\nour daily training and parting ways with <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The one who called out was Aoi Kiryuin, an earnest fellow Trainer affiliated with Tracen Academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Good work today.\r\nWe're just wrapping up our work as well—",
+      "choice_data_list": [
+        "\"...Us\"?"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Looking thoroughly exhausted, Trainer Riko Kashimoto—\r\na strict yet brilliant peer from Tracen Academy—arrived.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...\nGood work... today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah, Trainer Kashimoto!\r\nYou really should still be resting...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No, it's not a problem.\nIt's not as if... *pant*...\nI'm particularly tired... or anything.",
+      "choice_data_list": [
+        "Did something happen?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Well, the thing is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"Trainer Kashimoto!\r\nGood work today. Did you just finish training?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Yes, thank you for your hard work.\r\nLastly, I was thinking of checking the course\none more time for tomorrow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "! I was just thinking the exact same thing.\r\nI-If you'd like... well, um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Shall the two of us go around together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "A-Are you sure?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"I don't mind. If it's a simple check,\r\nthat would be more efficient anyway.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Thank you so much...!\nLet's make our rounds quickly, then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "It's only slight,\r\nbut the turf is a bit rough...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "The academy should be handling maintenance first thing tomorrow morning,\r\nbut if you're doing early morning practice, you ought to be careful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "You're right!\r\nUm, next is... that way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"...The dirt is... *pant*, well-groomed.\r\nThis should, *whew*, be no problem...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"Trainer Kashimoto? Are you okay?\r\nC-Could it be that my pace was too fast?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I'm sorry!\r\nLet's try turning a bit more slowly—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No.\r\n...There is no problem.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"If anything, we could go a little faster.\r\nLet's hurry, Trainer Kiryuin.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Huh?\r\nR-Really...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "*pant*... *pant*...!\r\nTh-The turf over here is a bit better...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "T-Trainer Kashimoto!\r\nPushing yourself too hard isn't good~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "………………。",
+      "choice_data_list": [
+        "I see, so that's why you sprinted at full speed."
+      ]
+    },
+    {
+      "name": "Both",
+      "text": "...Yes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "How pathetic...\nI've shown you such an unsightly side of myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "N-No! But, um, err.\r\nAh, Trainer <username>!",
+      "choice_data_list": [
+        "Pardon?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Today's training was magnificent!\r\nAnd not just in terms of your fast times.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer and the Umamusume were so in sync... You could really tell how much they trusted each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Regarding that, I have to agree as well.\r\nIt was a training session that couldn't be done without a strong bond of trust.",
+      "choice_data_list": [
+        "Y-you're too kind!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"...Still, I don't believe we are inferior.\r\nMy trainee and I have come this far together, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Even if they ran in the same race right now,\r\nour Umamusume would win. That's what I believe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"M-Me too! I may have said all that, but I don't think our Bitter Glacé is going to lose either!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "The one working hard is Meek, the one running is Meek!\nOnce the gates open,\nall I can do is watch, but still!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "That is why, more than anyone else...\r\nI believe in Meek.",
+      "choice_data_list": [
+        "Trainer Kiryuin..."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"...Trainer <username>,\r\nwhat about you? Do you believe in Umamusume?\"",
+      "choice_data_list": [
+        "When it comes to the power of belief, I have no intention of losing."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...That was a foolish question, wasn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "I wish you the best of luck, Trainer Kiryuin.\r\nAnd to you as well, Trainer <username>.",
+      "choice_data_list": [
+        "Yes, likewise!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "It was a night where, wishing each other the best,\nI renewed my resolve to keep believing in <chrname> and do my best...!",
+      "choice_data_list": []
+    }
+  ]
+}

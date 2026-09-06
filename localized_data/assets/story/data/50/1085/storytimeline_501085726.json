@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Daiichi Ruby—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...There is an Umamusume plushie here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby's gaze was fixed on a crane game\nfilled with plushies modeled after Umamusume.",
+      "choice_data_list": [
+        "They're called \"Paka-Petits,\" and they're super popular."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Is that so?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby stared intently at the Paka Petit.\nPerhaps she found it curious and interesting.\nIn that case—",
+      "choice_data_list": [
+        "Maybe I'll give it a try."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

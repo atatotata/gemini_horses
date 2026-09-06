@@ -1,0 +1,458 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The Spring Fan Thanksgiving Festival. Many people gather from outside the academy on this day. True to its name, it is a celebration held for the fans.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Nice, a festival!\nWhat do you say, Trainer?\nAre you ready to have some fun, too?",
+      "choice_data_list": [
+        "Perfect!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even though we're on the hosting side for the Thanksgiving Festival,\none can't help but get swept up in the festive excitement.",
+      "choice_data_list": [
+        "Have you ever joined a festival while traveling?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Of course. There were some I couldn't join depending on the venue,\nbut as long as I could,\nI enjoyed myself to my heart's content.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "A festival is built on the land, the people living there,\nand all the memories connected between them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "This festival surely won't be an exception either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "“—In that case, we gotta liven things up!\nWhether you're enjoying it or entertaining, that's just proper festival etiquette.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, what's this, you actually came!\nLong time no see~. How's that greeting go again...\nUmm, Selam? Salaam? Was that it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest A",
+      "text": "Selam!\nDaijoubu! Konnichiwa!\nI learned, a little bit of, words!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ooh. Pretty impressive.\nHuh? Did you get taller too?\nTime really flies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest A",
+      "text": "Evet! I grew very big!\nBefore, I was smaller than you~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hahaha!\nThat's right, that's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest B",
+      "text": "Ah—! Stay Gold!\nSo glad to see you! Have you been good!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest C",
+      "text": "I FINALLY found you!\nLong time no see, Stay Gold!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Whoa! Haha, what do we have here?\nEverywhere I look,\nthere's another familiar face!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The people coming up to talk to her one after another\nseemed to be foreigners—\nfolks she had met during her travels.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Most people were speaking Japanese, but among them were some speaking languages that were completely unintelligible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "All that with a translation device? Back when we first met, you were terrified of unfamiliar Umamusume, but you've gotten a lot more confident, haven't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign-Speaking Guest",
+      "text": "――、\n――――！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Umm, what's this...?\n\"You were so dignified that I became envious. I learned from your example\"?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha, that's great.\nI think we'll see something far more interesting\nthan if you were shrinking back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest A",
+      "text": "Everyone, are you Stay Gold's friends?\nHello-o!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It's a strange sight. Everyone speaks different languages. Yet right now, they're communicating using the same words and translation devices.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I see. Everyone saw online videos and knew I was here... I get it now.\nSo that's why you went out of your way to come here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Then why don't we keep the journey going a bit longer?\nThink of it as part of the festival's attractions.",
+      "choice_data_list": [
+        "A performance? But if we're reserving a spot, we'll need permission..."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's fine, it's not needed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "—Everyone, gather round!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Everyone I met on my journey!\nAnd to all of you I'm meeting here for the first time,\nhow was your trip to Tracen Academy!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Every encounter is a precious experience.\nWhether it's meeting for the first time or reuniting,\nthere's always a touch of emotion to be found.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Wouldn't you like to experience that excitement once more, right here!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Standing upon the empty stage while preparations for the curtain rise are still underway,\nStay Gold shouts at the top of her lungs.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume's Fan A",
+      "text": "What's going on? What's about to start?\nThere's nothing written in the pamphlet, though...\nCould it be a surprise event!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stego's Fan",
+      "text": "Wait, that's Stay Gold!\nI thought I might not get to see you...\nI'm so glad I came~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Stay Gold's voice drew everyone's gaze.\nThey all seemed thrilled by her presence\nand her words in their own ways.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Find me!\nIt's a game of hide-and-seek using the entire academy!\"",
+      "choice_data_list": [
+        "Huh!?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "The time limit is one hour.\nIf you find it... let's see.\nMaybe something—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stego's Fan",
+      "text": "An autograph! I'd love to get your autograph, Stay Gold-san!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hm? That's really okay?\nAlright, let's do it!\nEveryone, count down ten seconds! Here I go!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "—Now!\nLet our little journey begin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Excited People",
+      "text": "\"Ten! Nine! Eight! Seven!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While I was still reeling in surprise, things kept moving forward, and before I knew it, a game of hide-and-seek with an absurd number of participants had begun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fenomeno",
+      "text": "What...!? Stego-senpai is missing!?\nI shall begin the search immediately, sir!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest A",
+      "text": "Whereabouts...? \nNo! Hiding... P-Please\nwait a second!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hm? Speaking of which, earlier...\nWhoops, nothing in life is free, right?\n...How 'bout we make a little wager?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume's Fan A",
+      "text": "Huh? Wha...\nBy 'challenge', do you mean at a festival stall or something!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Her whereabouts?\n...How insolent.\nBy what right do you question me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stego's Fan",
+      "text": "I-I'm so sorry...! Um, I thought\nyou might know about it...\nN-No, never mind! Excuse me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Many people run around asking questions, but no one can pinpoint Stay Gold's whereabouts.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Thanksgiving Participant",
+      "text": "Huh!? If I find Stay Gold-san,\nI get a signature board from Dream Journey-san, Golshi-san... and everyone else!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Word must have spread from our inquiries;\nbefore I knew it, many visitors at the Fan Thanksgiving Festival\nwere joining in on the game of hide-and-seek.",
+      "choice_data_list": [
+        "The prize is a bit unusual, though..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Regardless, it's incredibly lively.\nTo think a simple game of hide-and-seek\ncould get everyone this excited—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh. As expected, you were the first to find me.\nHow did you know I was here?",
+      "choice_data_list": [
+        "Just a hunch, I guess."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "While the saying goes \"hide a tree in the forest,\" even in hide-and-seek,\nit was hard to picture her sneaking around and concealing herself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Haha. Well, you're right.\nFrom here, I can hear them calling for me in the distance,\nand still feel the excitement of the competition.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It looks like everywhere is buzzing with excitement, which is awesome.",
+      "choice_data_list": [
+        "Apparently the fans interact with each other too."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. People from nearby and faraway lands all gathered here at once,\nsharing in this same little journey right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Perhaps Tracen Academy is a place that naturally attracts encounters like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'm sure it will become a fond memory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Watching the bustling festival,\nStay Gold's eyes narrowed with delight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—A place that brings encounters together. That might be true. But at the same time, I can't help but think...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hm? You're staring at my face and grinning...\nWhat is it?",
+      "choice_data_list": [
+        "The destination of their first journey was you.",
+        "The destination of their first journey was you."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"At the very least, for those who traveled from distant lands,\nI believe their initial destination wasn't Tracen Academy, but Stay Gold.\"",
+      "choice_data_list": [
+        "If you weren't here, Stego..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "They might never have even met.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…………\n...I'm the destination of the journey, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well now... I certainly didn't anticipate that.\nIt's quite a strange feeling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As someone constantly on the move, it probably never crossed her mind that she herself could become someone else's destination. Wearing a somewhat puzzled expression, she offered a small smile.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Oops. It's almost been an hour.\nThe only one who found me was Trainer, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Even so, you know.\n'We couldn't find it, the end'...\nThat's just no fun.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "How about a game of tag from here on?\nYou and I are the ones running away.\nIf either of us gets caught, game over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Are you confident you can lead all the way?",
+      "choice_data_list": [
+        "Running away on foot isn't your only escape route, you know!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, nice! That's what I'm talking about!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Alright, guess I'll announce\nthe next game over the broadcast.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Let us have everyone chase after the next destination—the goal!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As someone constantly on the move, it probably never crossed her mind that she herself could become someone else's destination.\nAnd then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stego's Fan",
+      "text": "Found you!\nI never expected to find you in a place like this...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign Guest A",
+      "text": "Found 'em! Everyone, I found 'em!!\nOver here, over here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Foreign-Speaking Guest",
+      "text": "――！\n――、――！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume's Fan A",
+      "text": "Um, what's this say...?\n\"We found it because everyone worked together\"?\nYeah, yeah, totally! Yay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as Stay Gold said, this will surely become an unforgettable, wonderful memory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oops, you found me.\nHaha. Aw man, at this rate, everyone's a winner.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Still, how'd you manage to spot me in this crowd?\nNot to sell myself short, but I don't exactly stand out, do I?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stego's Fan",
+      "text": "Ah... Actually, I saw you running off,\nTrainer, so...\nwhen I chased after you, well...",
+      "choice_data_list": [
+        "Shoot...! Stego, I'm sorry!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Pfft. Ahahaha!\nLooks like you ended up becoming the checkpoint flag for the destination.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Alright, in that case, it's an autograph frenzy!\nYou're helping me out, too.\nYou ready for this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheers erupted, and people who had been complete strangers\nhigh-fived each other. Stay Gold watched it all,\nquietly smiling to herself.",
+      "choice_data_list": []
+    }
+  ]
+}

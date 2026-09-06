@@ -1,0 +1,519 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One evening, while passing through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Whoops... speak of the devil.\r\nTrainer, hold up a second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\r\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\r\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oho, Ne-chan, there you are!\nAre we... battling again this year?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Naturally! When I snatch that grand prize away,\ndon't expect me to comfort you when you're crying your eyes out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Heheh, looks like you're fired up more than ever.\r\nA serious match between the two of us—I won't be holding back either!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "You got it... Wait, if an old guy like me tried his best,\r\nthat'd just be cheating!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Anyway, Nature-san is different this year! I even did the hundred shrine visits, so I am definitely gonna win!\"",
+      "choice_data_list": [
+        "T-Talk about intense fighting spirit..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, of course I'm fired up.\r\nThis year... this year is the one...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "――I'm gonna make them take back\nthat dishonorable title of \"Bronze Collector\"!",
+      "choice_data_list": [
+        "A third-prize collector?"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ever since Nei-chan became friends with us,\r\nshe plays the lottery raffle with us every year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "No matter how many times I tried, I kept drawing third prize. It was so ridiculous that it became the talk of the town for a while. We don't really bring it up anymore, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "3, 3, 3...! No matter how far I go,\r\nthis number haunts my entire life!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "But that all ends today. With this gem of a pull, cleansed thoroughly at the shrine, I'll—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"I'm putting all my luck on the line to snatch that grand prize~~!! Just you wait!!\"",
+      "choice_data_list": [
+        "(Nature is broken...)"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Here we go, Trainer-san!!\nTo sever the chains of destiny...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Together with Nice Nature, who was radiating a grudge as if channeling a mountain of pent-up frustration, I gripped the lever and spun the raffle wheel.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ngh...!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mister... what did you just say...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Nei-chan... You win.\r\nTake the grand prize, the 'Hot Springs Trip Voucher'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "T-Trai-Trainer...!\r\nT-The grand prize...! I got the grand prize!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "And it's my favorite hot springs!\nHot springs! Isn't that amazing?!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah... Oops. *cough*\r\nExcuse me, I got far too carried away for someone my age.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Man, well, I guess just this once,\r\neven the gods took pity on me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Alright, Pops, make sure you tell everyone, okay?\r\n\"Nature snagged the grand prize!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"You betcha! Let's put it in\ngiant headlines in the neighborhood bulletin too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "“Nei-chan clears her name!\r\nHeading off to a heavenly hot springs trip with Trainer!” ...right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yeah—wait, what!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, wha-wha-whaaaat!?\nWith Tr-Trainer!? A hot spri—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Huh? Ain't that it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I-I-I-Idiot, what are you talking about?!\nThere's no way I'd go to a hot spring with this guy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah—!",
+      "choice_data_list": [
+        "Because Nice Nature's the one who picked it..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "N-No, Trainer, that's not it!\r\nI-I didn't mean it like that...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Auuuugh! Fine, whatever!\r\nI'll just give those travel tickets to Trainer!",
+      "choice_data_list": [
+        "Huh?!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "The hot spring wasn't my goal in the first place.\r\nI just hated that humiliating title, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I managed to get that revoked, so I'm giving these travel vouchers to you, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Take advantage of the good moments and stretch properly.\r\nDon't worry about me... I'm fine.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Alright! To celebrate, why don't I stop by the butcher and buy some prime roast to take home!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I decided to consider this hot spring trip voucher as something they're just holding onto for me for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yes!\nWe got first prize, Trainer!",
+      "choice_data_list": [
+        "You did it!",
+        "You did it!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I'm so relieved~. Being a \"3rd-place collector\" was the one thing I absolutely couldn't stand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Hey, old man!\r\nHow's that? Ready to admit defeat?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Color me impressed, you're amazing, Ne-chan!\nWith luck like this, you'll be racking up 1st place finishes all year!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hrrrmmm!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No, well, that's beside the point...~\nJust because you're lucky doesn't mean you'll win...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hey, Trainer?",
+      "choice_data_list": [
+        "Yeah.",
+        "That's true."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...No, why are you disappointed—",
+      "choice_data_list": [
+        "Nice Nature wins on sheer ability."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ahaha! You're right!\r\nSorry, my bad, my bad!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I'm so glad you found such a wonderful Trainer,\nNei-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Stop talking nonsense,\r\nand let's head back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Since I got these delicious hamburger steaks,\r\nI'll sizzle 'em right up and dig right in!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...I'll grill it for ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, I enjoyed an exquisite hamburger steak\neaten the way Nice Nature recommended.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\r\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hmm, so close! But hey,\nthat's still a pretty good result, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "At least we avoided 3rd prize.\r\nYep, all's well that ends well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Still... that's a seriously huge heap.\r\nThose old guys are way too generous, aren't they?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Well, the lottery raffle is the shopping district's main event after all!\r\nYou gotta generate some buzz with stuff like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Going... viral? Is that what they call it?\r\nTake a pic of me too, Nei-chan, and upload it to NNN!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"If we're talking about that, it's social media.\r\nSeeing an old man like this try it, it's truly a tear-jerking effort.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Hey there, Trainer.\r\nI've got a little favor to ask.",
+      "choice_data_list": [
+        "What is it?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"These carrots that make ya lose all sense of reality, me, and old man.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Could you snap a quick picture for us?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Not like I have any real influence or anything.\nBut... I could at least introduce you to my friends.\"",
+      "choice_data_list": [
+        "Got it!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Nei-chan... What a good girl.\r\nAnd to think she used to be so little...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Not that you'd know what I looked like as a kid.\r\nAlright, taking the picture! Smile, smile!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...And so, I took a picture of Nice Nature smiling brightly while holding an armful of carrots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\r\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Well, looks like I set a new record...\r\nHate to say it, but that's just the reality of things.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "......Man~, did I really mess up?\r\nLooks like Nature-san took the L on this one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Maybe I'm actually psychic or something.\r\nShould I go turn myself in to a research lab?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Just teasing, it was all in good fun anyway.\r\nI'll be taking one carrot with me, thanks!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Take a crisp bite and sweetness overflows!\nA greengrocer's carrot is a good carrot, after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Man, I can feel my spirit welling up inside!\r\nAhahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "...Man, that looks like some serious frustration.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And so, Nice Nature gloriously defended\nher title as the “3rd Place Collector.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Wait, it's just tissues?!\r\nI don't even know how to react to that.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Well, tissues are technically the most useful thing here,\nso it's not the worst prize, but still~...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Even after you said you prayed a hundred times at the shrine, huh...\r\nIt's a bit of a shame I didn't get to witness Nat-chan's miracle either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...Uh, could you please stop?\r\nIt's kind of making me feel guilty, or rather, before that—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "When I look back on how carried away I got earlier,\r\nit's just super embarrassing...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "And after I gathered up every scrap of luck I had, too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gyah!\nPl-Please stop and forget about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nice Nature ended up completely worn out\nafter being playfully teased by the shopping district\nfolks for the rest of the day...",
+      "choice_data_list": []
+    }
+  ]
+}

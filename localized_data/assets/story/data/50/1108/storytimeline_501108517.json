@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Umamusume A",
+      "text": "D-Duramente-san!\nMay I ask you one thing... !?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "You've been using the training machine way in the back lately, right?\nRumor has it that a ghost appears there at night, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Eeeek!? I-I'm so sorry for bringing up such a boring topic~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "………………。\n………………。",
+      "choice_data_list": [
+        "You're making quite a face... What happened?",
+        "You're making quite a face... What's the matter?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "...I'll hold off on using the machine in the back for a while.",
+      "choice_data_list": []
+    }
+  ]
+}

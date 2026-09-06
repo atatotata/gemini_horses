@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Ikuno Dictus",
+      "text": "Even with your expertise, Trainer...\nIt must be quite difficult then...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Taking on a challenge is the best experience of all.\nLet's both put it to good use next time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "We're sure to see good results eventually.\nLet's keep working hard together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

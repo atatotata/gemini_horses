@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from training outside the academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "*Cough, cough*... The one thing I'll never get used to is all this traffic.\nMan, I miss the fresh country air—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "—Whoops, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Yank!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Whew, that was close.\nAlmost took a face full of exhaust fumes there.",
+      "choice_data_list": [
+        "Um, y-your hand...",
+        "Um, your, your hand..."
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "What? Wanna hold hands all the way home like this?\nHaha, just kidding, just kidding!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Was that a bit of an exaggeration? But hey, exhaust fumes like that aren't good for your health, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "*Cough*...\nUgh... Seriously, that smell gives me a headache.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The stench was so overpowering\nthat Katsuragi Ace was left with a pounding headache...",
+      "choice_data_list": []
+    }
+  ]
+}

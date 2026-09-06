@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "So close!\nYou almost had it...!!",
+      "choice_data_list": [
+        "Sorry I couldn't get it!",
+        "Sorry I couldn't get it, okay!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "No worries, no worries!\r\nI can't catch any at all either!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Grrr—...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Haru Urara",
+      "text": "—Ah, I think I'm getting hungry!\nCan we get some carrot ice cream on the way back?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

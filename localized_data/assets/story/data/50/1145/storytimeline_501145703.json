@@ -1,0 +1,285 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from an outing with Rulership,\nwe stopped by a restaurant to have a meal, when...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hm? That is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "\"Lady Orfevre!\nHow is it? Isn't this place fitting for Princess Journey?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Very well. Proceed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "Does it meet your approval?!\nThen our plan will be to reserve a surprise cake\nand present her with flowers...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ho... Scouting out a location for a surprise, are you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "I'm sure she'll be happy.\nWhether she'll be 'surprised'... that's another question.",
+      "choice_data_list": [
+        "Huh? What do you mean?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Heh... We're talking about Journey-san here.\nUnless I outsmart her even further, there's no way—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I cannot simply let that pass.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Are you suggesting there is a flaw in my subjects' plan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Guh! *cough*...!",
+      "choice_data_list": [
+        "Sorry! Did you hear that...?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Answer me,\nRulership.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "…………――Good grief.\nIf you heard me, I suppose there's no helping it.\nPardon me for saying so, but that was rather cliché, wouldn't you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "What did you say...!\nAnd after all my subjects searched high and low for the best shop!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "That's exactly it.\nJust hearing \"a stylish place with a surprise menu\"\nwould be enough for her to catch on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Cake and a bouquet of flowers... That's far too cliché.\nShe'd probably just give a composed smile,\nthank me, and that'd be the end of it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "Ugh...!\nIt frustrates me, but you might be right.\nStill, a way to surprise her...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Then how do you intend to scheme?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Oh... You want me to provide an alternative?\nIsn't that the duty of a subject?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Is that all you can do?\nNothing but malicious stone-throwing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "To seek a new strategy from someone as insolent as me...\nYou must be in dire straits indeed.",
+      "choice_data_list": [
+        "Y-you two, that's enough...!"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Stay back, Trainer.\nI reaped what I sowed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unable to stand the tense atmosphere, you stepped in to stop them, but were cut off.\nAnd so, Rulership began to ponder...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—Let's see.\nHow about a 'reverse prank'?",
+      "choice_data_list": [
+        "A reverse prank...?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "You see it all the time on variety shows: \"The person asked to be the prankster is the actual target\"... that kind of thing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "If we are to deceive Journey-san, we need a distraction.\nAnd no one is more suited for that role than you,\nOrfevre-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "If your subjects were to ask,\n\"We want to surprise the King, could you lend us a hand?\"...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"They will surely bite enthusiastically.\nThey will likely propose a strategy themselves.\nWe just have to turn that against them...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "I see! That'd definitely surprise them. But wouldn't that require some serious acting chops...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"That comes down to the hard work of all the subjects\nand the King's leadership, I suppose.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"You ask if 'I cannot'...\nAllow me to return those very words\nright back to you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "I-Insolent fool!!\nWhat do you take the mighty power of Lady Orfevre for?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Very well.\nI shall accept that plan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "However, if it ends in disappointment...\nyou know what to expect, don't you—?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "......Yes.\nBoil me, fry me, or kick me around.\nDo as you please.",
+      "choice_data_list": [
+        "(Incredible... to not flinch a single step under all this pressure...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And after finishing our meal, I left the restaurant with Rulership.\nI spoke up to her as she wore a sharp, resolute expression.",
+      "choice_data_list": [
+        "Ruler, that was incredible...!",
+        "Ruler, that was amazing...!"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Pfft... Phew, haaaaah!\nI-I-I'm saaaaaved!\"",
+      "choice_data_list": [
+        "Huh, whaaaaat...企?!"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "No, I was desperate, okay!\nThinking, 'How do I get through this!?'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "If I say I can't do it, I'll probably be executed!\nAnd if I honestly offer a good idea, she'll look down on me!\nAaah! No, no, those eyes are way too scary!",
+      "choice_data_list": [
+        "So that's what you were thinking about..."
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Haaah...\nIf it didn't show on my face, then all is well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A few days after that.\nWhile I was hanging out with Rulership at our hideout, those sisters came visiting...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "What is this...?\nTop-grade daggertooth pike ochazuke set with gold leaf...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "A reward for thee.\nWe commend thy deeds on this day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Yes, you took me quite by surprise.\nYou truly are a magnificent tactician... I look forward to working with you from here on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Rulership looked utterly dumbfounded.\nIt seemed the sisters thought\nvery highly of her tactical prowess...",
+      "choice_data_list": [
+        "When all's said and done, you're the winner!",
+        "When all's said and done, you're the winner!",
+        "M-maybe I've been targeted...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Rulership looked utterly dumbfounded.\nIt seemed the sisters thought\nvery highly of her tactical prowess...",
+      "choice_data_list": [
+        "When all's said and done, you're the winner!",
+        "When all's said and done, you're the winner!",
+        "M-maybe I've been targeted...?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Hmm... Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Well, a win is a win.\nI'll gladly savor my reward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Huh... Is that what that meant just now?\nLike, \"Keep working for me from now on\"...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Waaah! What should I do!\nDid I just accept a bribe!?\nHelp me, Traineeeer~~!!",
+      "choice_data_list": []
+    }
+  ]
+}

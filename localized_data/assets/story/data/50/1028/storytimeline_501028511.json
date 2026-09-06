@@ -1,0 +1,221 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After finishing up my morning work,\nI was heading to the cafeteria for lunch when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "What wonderful weather for a picnic!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Yes. Ah, if you feel like taking a nap, just let me know~.\nMy lap is free for you♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "We're about to eat, so no napping now.\n...So, did everyone bring their stuff?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Of course☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Everything's perfect~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Alright then, ready, set...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A large picnic sheet is spread out,\r\nand many bento boxes are arranged on top of it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Upon opening the lid, it was packed full\r\nwith an appetizing assortment\nof colorful side dishes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, Trainer!\nCome eat with us, Trainer!",
+      "choice_data_list": [
+        "Are you sure?",
+        "Are you sure?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah! Food always tastes waaaay better\nwhen we all eat together☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fufu, right this way~.\nIs there anything you fancy?\nI'll dish it out for you~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No need to hold back!\nEat plenty and prepare for the afternoon.",
+      "choice_data_list": [
+        "Are you bringing lunch to share?",
+        "Did you bring lunch to share?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yup! And so, we get together regularly\nto swap recipe ideasー♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "The members change from time to time, but we always participate!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Thanks to that, I've got more recipes to work with, which helps a lot.\nHere, this one's delicious. Give it a try!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "It's just simple grilled mountain yam,\r\nbut it goes great with aonori, and I made the sweet\nsauce extra rich, too~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Add some crispy fried pork belly and\nzesty green onions to that,\nand it'll whet your appetite even more! ☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Try some, try some! How is it?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The pork fat and the sharpness of the green onions intertwine\r\nin an exquisite harmony. The pleasant aroma of aonori, paired\nwith the refined taste of a sweet sauce that feels uniquely Japanese...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A crisp crunch from the mountain yam, yet it melts with a fluffy, airy texture.\nT-This is...!",
+      "choice_data_list": [
+        "So goooood!!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yay!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "\"The ingredients and seasoning are simple, but you just can't stop eating, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh dear, stuffing your cheeks like that...\r\nFufu, how cute. There's plenty more, so please take your time eating~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Heh, seeing you eat with such gusto makes cooking it all worthwhile.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I know! Next time, I'll cook something\nyou really like, Trainer!\nGot any requests~?",
+      "choice_data_list": [
+        "A steak that'll build your strength!",
+        "The spiciest curry you've got!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Steak! Meat is the best, isn't it~☆\nIt builds up your strength and makes you feel energized!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Simple is good, but I'd like to try\na few different grilling methods.\nHow do you like yours cooked?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Having unique sauce options sounds like fun too~♪\nWhat kind of flavors do you like~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"...Ehehe.\nMaking something for 'someone' feels kind of special, doesn't it?☆\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Not for \"everyone,\" but thinking about what\na specific person would like...\nYeah, this is super fun too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "All riiiight, let's all come up with a delicious new steak recipe together~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "The Three",
+      "text": "Ooooh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Grateful for the wonderful gathering,\r\nwe savored our boxed lunches—spending\na truly perfect afternoon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Huh, you want it that spicy?\nAre you sure? Will you be okay eating it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Heh, sounds good to me.\nI'll make it super spicy for you.\nFinish every last bite and show me your guts!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Super Creek",
+      "text": "Still, a little mildness would be nice too~\nMilk works, but if it's for a boxed lunch,\nmaybe we should go with soy milk~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Trainer, don't push yourself too hard, okay!\r\nEating happily and deliciously comes first! ☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "If it's ultra spicy, the kick must be intense too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "That's it! Let's make the drink lassi.\nAnd while we're at it, instead of just rice,\nlet's get some sweet naan ready to balance the flavors—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Listening to the three of them chat about recipes made for a delightful afternoon.",
+      "choice_data_list": []
+    }
+  ]
+}

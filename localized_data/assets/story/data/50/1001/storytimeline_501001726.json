@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Special Week—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "\"Wah!\r\nTr-Tr-Trainer, look at this!!\"",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "That one, right there!\r\n—The crane game!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Special Week was pointing,\r\nI saw a claw machine filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Whoa, whoa, whoaaaa...! As expected of the big city,\r\nthey even have merchandise like this...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Must be nice... I wonder if Mom\r\nwould be happy if I sent her one...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Special Week's eyes were sparkling\nas brightly as they possibly could...",
+      "choice_data_list": [
+        "...Want me to get that for you?",
+        "...Shall I get that for you?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Huh!? A-Are you really sure...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from an outing with Still in Love, we stopped by a park—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Oh dear... That is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "Waaah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Don't worry.\nI will definitely find it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Tact-san...\nWhat happened to that little one?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Still-senpai. Um... from what I heard, your pet ferret ran away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl",
+      "text": "*Hic*... Ferret-chan...\nThe cage opened up... *hic*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "My...\nThat is concerning, isn't it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "I hear it hasn't been long since they ran off,\nso they should still be in the park.\nI'll go look around for a bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Um, in that case... may I\nhelp out as well?",
+      "choice_data_list": [
+        "The more hands the better, so I'll help too.",
+        "The more hands the better, so I'll help too."
+      ]
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Thank you. In that case,\nI'll leave that side to you upperclassmen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ferre-chan... Where are you~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "...! Trainer-san.\nOver there, behind the trash can...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Still in Love pointed,\na ferret popped its head out.\nApproaching quietly...",
+      "choice_data_list": [
+        "C'mere... Ch-ch-ch-ch-ch."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Ah, deep in the bushes...",
+      "choice_data_list": [
+        "Damn it, she got away...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, we kept searching for the ferret, but—even when it showed itself, it would immediately scurry off and hide in the bushes...",
+      "choice_data_list": [
+        "She's really on her guard.",
+        "She's really on her guard."
+      ]
+    },
+    {
+      "name": "Daring Tact",
+      "text": "You're right... Ferrets are quite sensitive to sounds and scents, too...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just chasing after them like this won't get us anywhere.\nWe'd better come up with a plan.",
+      "choice_data_list": [
+        "If chasing doesn't work, how about setting a trap?"
+      ]
+    },
+    {
+      "name": "Daring Tact",
+      "text": "In that case, let's put food in the cage and set it up\nlike a box trap. One of us will chase and herd her,\nand the other will close the door.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"Could you leave the guiding role to me?\nI have some experience with drive hunting.\"",
+      "choice_data_list": [
+        "Then let's lie in ambush and close the door on them.",
+        "Then let's lie in ambush and shut the door."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Y-Yes...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "...This is the spot, then.\nThe ambush point...",
+      "choice_data_list": [
+        "!—...Here it comes!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Lured by Daring Tact, the ferret showed itself.\nPerhaps noticing the food, it twitches its nose\nand approaches the cage.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I peered right into the cage... but the ferret didn't go inside, timidly keeping its distance.",
+      "choice_data_list": [
+        "Kuh, their guard is up..."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "But... she looks\nlike she's really hungry...\nIn that case...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Holding the food in her hand, Still in Love slowly approached the ferret.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(So as not to startle them...\nSoftly... quietly...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(...Yes. All that's here... is your... bait...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(So... don't worry...\nPlease take your time... and enjoy your meal...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When Still in Love placed the food in front of it,\nthe ferret soon began to eat peacefully.\nAlmost as if “nothing” was there at all.",
+      "choice_data_list": [
+        "(Wow, she hasn't even noticed Still...!)"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"...I've caught it.\nTrainer, please put this little one in the cage...\"",
+      "choice_data_list": [
+        "Leave it to me!"
+      ]
+    },
+    {
+      "name": "Girl",
+      "text": "Thank you, Big Sisters!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cradling the ferret cage, the young girl waved\nat us as she headed home.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "I'm so glad we were able to safely...\nreturn it to its owner.",
+      "choice_data_list": [
+        "Yeah, you're right.",
+        "Yeah, that's true."
+      ]
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"Still, Still-senpai was amazing.\nGetting right up in front of that wary ferret's eyes like that...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Even among seasoned mountain hunters, very few\ncan erase their presence so thoroughly.\nI truly have so much to learn from them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "N-No, not at all...\nIt's really not that big of a deal...",
+      "choice_data_list": [
+        "You really were amazing, so you should be proud of yourself."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Is that... so...?\nUm... it feels a little ticklish, I suppose...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "To me, blending into the background\nwas always the norm, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(So nobody sees the unladylike 'me,'\nand so I don't get in anyone's way...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(Acting like \"I don't exist\"...\nI kept telling myself that's how I should be—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(To think... the day would come\nwhere I could be proud of that...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "“—I'm... somehow really happy.\n...And a little surprised.”",
+      "choice_data_list": [
+        "Your modesty is a true virtue.",
+        "Your modesty is truly a virtue.",
+        "That strategy really brought out both your strengths and Tact's!",
+        "That strategy really brought out the best in both you and Tact!"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "“—I'm... somehow really happy.\n...And a little surprised.”",
+      "choice_data_list": [
+        "Your modesty is a true virtue.",
+        "Your modesty is truly a virtue.",
+        "That strategy really brought out both your strengths and Tact's!",
+        "That strategy really brought out the best in both you and Tact!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Disciplining herself so as not to cause trouble for anyone.\nThat was undeniably the fruit of her hard work, and—",
+      "choice_data_list": [
+        "I'm so proud of you.",
+        "I'm so proud of you just the way you are"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"...Pride? No...\nIt is not something so grand...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Still... hearing you say that...\n...makes me feel a little touched...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Indeed. Tact-san's navigation...\nit was as if she could sense everything around her.\nIt was truly reassuring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Fufu. Perhaps the two of us\nmake a pretty good hunting team.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "Chuckle... That's true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Still in Love shared a quiet smile with Daring Tact.",
+      "choice_data_list": []
+    }
+  ]
+}

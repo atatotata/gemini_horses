@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After finishing treating Gold City's injury during practice—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Thanks, Trainer. It wasn't anything\r\nserious, so let's get back to practice. No time to waste.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Until Mane-G comes to pick me up,\r\nI should still be able to do a few more runs, right?",
+      "choice_data_list": [
+        "Let's call it a day for practice.",
+        "Let's hurry back to practice."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh? Why? You already patched me up,\nso I can totally run through something like this.",
+      "choice_data_list": [
+        "If it gets worse, it'll affect your races."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "That—might be true, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Jeez, our time is limited enough as it is!\r\nI swear I'll be back in training by tomorrow!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I calmed down the frustrated Gold City\nand had her rest in the infirmary\nuntil it was time for her modeling work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Yeah. I need to focus properly this time.\r\nI caught myself thinking about work earlier...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Well, as long as I don't let my guard down, I'm totally fine.\r\nA tiny sprain like this is a piece of c—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "—Ouch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "No way... Another sprain?\r\nWas I always this spaced out...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It looks like Gold City's injury has worsened.\r\nI decided to have her sit out of practice today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Wondering what they'll ask in the interview after this and all.\r\n—Wait, no, pull it together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Modeling work and running.\r\nIf you're doing both, knowing how to switch gears is essential.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Since they went through the trouble of treating my injury,\r\nI have to make this training worthwhile!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dedication fully set on practice, Gold City successfully\r\ncompleted her scheduled routine without a hitch.",
+      "choice_data_list": []
+    }
+  ]
+}

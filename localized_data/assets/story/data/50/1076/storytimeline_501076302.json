@@ -1,0 +1,346 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It was on the way back from shopping\nwith Sakura Laurel at the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": [
+        "A raffle, huh...",
+        "A raffle, huh..."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah. Trainer, are you taking on the challenge too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Actually, I have a ticket.\nSince we're here, why don't we draw together?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Win or lose,\nwe'll split it right down the middle♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Pushed along by Sakura Laurel, I was forced into the lottery raffle line.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, alongside her stubborn refusal to yield,\nwe turned the raffle wheel crank together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...! Amazing, incredible!\nIt says hot springs!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu...♪\nI'm so happy~...!",
+      "choice_data_list": [
+        "So you like hot springs?",
+        "Do you like hot springs?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yes♪ I like to try all the massage services they offer! Especially the acupuncture!",
+      "choice_data_list": [
+        "Acupuncture, huh...",
+        "Acupuncture..."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Fufu. You might get hooked too, Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Honestly, when should we go?\nWith the momentum we have going now, I'd rather hold off on taking it easy, though.",
+      "choice_data_list": [
+        "Huh!? You're coming with me!?",
+        "Huh!? You're going with me!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Going with me probably wouldn't let her relax.\nWhen I suggested it might be better to go with friends or family instead—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Still, I believe you need a chance to rest too, Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Because you train me on weekdays,\nand spend the weekends preparing for and studying races...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...I think I deserve at least a little reward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"So warm your legs up in the hot springs, and eat lots of delicious food!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Besides, that hot spring ticket from earlier\ncomes with two separate rooms!\nYou'll be able to let your hair down and relax too, you know? ...Right?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, plans were made to go on\na hot spring trip with Sakura Laurel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Whoa, that meat looks delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "But if we split one in half,\nit won't be enough to satisfy us, right...?",
+      "choice_data_list": [
+        "And then I'll tell Laurel—"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yes. The time has come for me\nto show off my culinary skills!",
+      "choice_data_list": [
+        "What?!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Since we have the chance, let me treat you to French-style Salisbury steak...\na *steak haché*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "It may not compare to a special hamburger steak made by a first-rate chef,\nbut I hope you'll enjoy its home-cooked flavor♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the hamburger steaks Sakura Laurel made\nwere lined up on the table one after another.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If anything,\nthe Salisbury steak she made tasted better...\nor so it felt.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "All of this...\nAre you really sure I can have it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ah, of course!\nGo on, take it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu, well then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Umm, Trainer-san.\nI did say we'd split it half and half earlier, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "May I be a little greedy?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Hey everyone at Victory Club~!\nI brought souvenirs for all your hard work!!\nLet's eat together with Big Sis~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Children",
+      "text": "Wooww, so many carrots~!\nThey look tasty~! Can I take some for my mom?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Mhm-mhm, five each for everyone!\nHeheh, gotta get pleeeenty of nourishment in ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "From upperclassman to underclassman.\nSakura Laurel looked delighted\nto fulfill her role as a giver and mentor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Whoa, yay~!\nYou won, Trainer!",
+      "choice_data_list": [
+        "It's only third prize, though."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "A win's a win!\nI'm just lucky I didn't draw a blank.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Since my luck is pretty good today,\nmaybe more good things are on the way?\"",
+      "choice_data_list": [
+        "Hmm... sure hope so!",
+        "Hmm... sure hope there is one!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu, yes♪\nLet's both stay positive!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, nothing particularly good\nhappened for the rest of the day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, Sakura Laurel, walking alongside, wore a slightly proud expression on her face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah... They got meee...!",
+      "choice_data_list": [
+        "S-sorry...!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Eeeh?! Trainer, it's not like you're in the wrong at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "It just means neither of us was lucky today. Just like drawing 'Bad Luck' at the shrine, let's be more careful with everything than usual—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "…………。",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Trainer,\ndidn't we just go shopping a moment ago?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Still, we don't have anything on us right now, do we...?\"",
+      "choice_data_list": [
+        "……！！！！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, Sakura Laurel and I ended up having to\nrush right back to the shop where we'd just bought everything...",
+      "choice_data_list": []
+    }
+  ]
+}

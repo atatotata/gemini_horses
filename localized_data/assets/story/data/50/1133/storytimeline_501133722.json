@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I went to visit Chrono Genesis\nto check over the training menu—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "U-Uuu...",
+      "choice_data_list": [
+        "What's wrong? Does your head hurt?",
+        "What's wrong? Does your head hurt?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Yes, a little bit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "The lineup for the upcoming exhibition race is so star-studded...\nIt looks like it's going to be a dream match across generations—",
+      "choice_data_list": [
+        "Hm?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "How will this race unfold...\nand who will ultimately take the win...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Thoughts like that wouldn't stop racing through my head...\n...The pain and dizziness... Ugh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems getting overly excited brought on a headache.\nI decided to play it safe and let her rest for the day.",
+      "choice_data_list": []
+    }
+  ]
+}

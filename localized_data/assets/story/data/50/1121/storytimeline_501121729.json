@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "...It really is difficult, isn't it?",
+      "choice_data_list": [
+        "I'm ashamed..."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Please do not apologize!\nYour thoughtfulness alone, my Trainer,\nis more than enough to fill my heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I shall ask my older brothers for some tips next time. Once I do, let us try again together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Shinko Windy didn't show up for training. Worried, I went looking for her, and...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hm! You showed up at just the right time!\nTadaaa! Take a look at this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"How's that! Shishimai-chan is squeaky clean and shiny!\nI spent hours grooming it!\"",
+      "choice_data_list": [
+        "...What about training?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Huh...? Training...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "...Aaaah!? I-I totally forgot-nodaー!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I warned Shinko Windy not to get so caught up in the fun that she forgot to train.",
+      "choice_data_list": []
+    }
+  ]
+}

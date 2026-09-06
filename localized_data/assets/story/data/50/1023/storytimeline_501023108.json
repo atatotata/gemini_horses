@@ -1,0 +1,316 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Today is the Spring Fan Appreciation Festival.\r\nThe Umamusume put on various events to entertain\ntheir fans, however...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "? Ticket?\r\nWhat brought this on all of a sudden?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaaaaaaaahhhhh!!\r\nHayahide, save meeeeee!!",
+      "choice_data_list": [
+        "Looks like you're in a bit of a pinch..."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That's right! I'm in a huge pinch here~! Hayahide, please, I need your help too~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Winning Ticket panics in flustered confusion.\nDeciding to follow her for the time being—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Now, a festival of intellect where trivia reigns supreme!\r\nWhich one will be crowned the King of Racing Trivia—!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Oh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oho, Biwa Hayahide.\nWere you roped into participating against your will as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y-Yes... That is actually true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "My apologies. But it really helps that an Umamusume like you stepped forward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "An equipment malfunction hit the original event,\r\nso apparently they hastily decided to hold a quiz show to stall for time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I see. And Ticket had a hand in that, did she...?\r\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Well, I was only called in to entertain until the equipment is fixed. Nice and easy. Let's take it relaxed and dive right in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Prez! Do your best--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Now for Question 1!\r\n\"The turf courses of each racetrack, 3—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ping!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Five. The racecourses with elevation changes\r\nof 3 meters or more are Nakayama, Kyoto, Chukyo, Kokura, and Hakodate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "C-Correct! The question was: \"How many\r\nracetracks have a turf course with a slope of 3m or more?\"\n—The correct answer is 5 racetracks in total!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Wah! Pre-zident, you're amaziiing!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Fufu, now, now, Teio.\r\nYou are part of the audience, so you should stay in the stands.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Okaaay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Wh-What... The President is going all out?!\r\nShe isn't holding back in the slightest?!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan",
+      "text": "Rudolf is so strong, as expected~~!\r\nHayahide, hang in there~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Still, I can't really back down here.\r\nNot when there are fans cheering me on—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hayahideee! Do your best!\r\nI brought folks to cheer you on, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hey, I came to the plaza like you wanted.\r\n...Are we done now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Wh-Why is Brian here?!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No, no! We're here to cheer for Hayahide!\r\nCome on, all together now. Ready, and!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hayahide, do your best~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh, that's quite a loud voice... Hm?\r\nIs that Brian over there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Now for Question 2!\n\"The Tokyo Race—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ping!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "525.9 meters.\nIf the question is about Tokyo Racecourse's homestretch, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "...Correct! 525 meters!!\r\nHayahide fired back with an instant answer of her own!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(WOOOO--!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Haaah, this time I truly hold a grudge against you, Ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The heated Trivia King showdown.\nAnd the winner is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "âPresident Rudolf takes the win, heck yeah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Yay!! As expected of the President!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Fufu, you're getting too carried away, Teio.\r\nDon't you have preparations for the next event too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...*sigh*",
+      "choice_data_list": [
+        "Hayahide did great too."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Thank you.\nIf only I had gotten just one more question right...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide let out a frustrated,\r\nslightly exhausted sigh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Haaah, this time I truly hold a grudge against you, Ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The heated Trivia King showdown.\nAnd the winner is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Biwa Hayahide takes the win, baby!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "Oooohhh!!",
+      "choice_data_list": [
+        "As expected, Hayahide!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Fufu, well, I suppose I was able to deliver results\r\nworthy of everyone's support.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, Hayahide! Great job today~~!!\r\nAnd thank you sooo much for joining us~~~!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Good grief. Next time, you'd better explain what kind of crisis it is\r\nbefore dragging me along.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...So, umm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ticket, are you alone right now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That's right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm. I see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah!! But until just a little while ago,\r\nI was cheering with Brian!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "When Hayahide won,\r\nBrian smiled just a little bit!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Fufu, so that was it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide wore\r\na shy, bashful smile.",
+      "choice_data_list": []
+    }
+  ]
+}

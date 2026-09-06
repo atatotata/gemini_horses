@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "\"Is the venue here?\r\nOoh, there sure is a crowd gathering.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Man, I can't believe you agreed to help out with sandlot baseball...\r\nAs if your trainer job wasn't busy enough as it is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Actually, some folks from the shopping district asked me\r\na few days ago to join in on an amateur baseball game.",
+      "choice_data_list": [
+        "Since you're always cheering Nature on..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, yes, everyone has certainly been\r\nvery kind to me, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"...But, ah... please don't get too carried away\nand end up hurting yourself, okay~?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"You already push yourself too hard as it is...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the battle of the shopping district sandlot baseball tournament had finally begun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Neither team is giving an inch,\nand the match heats up while remaining tied at 0-0.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Boy, things are really heating up~.\r\n...Wait, Trainer, you look completely wiped out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Objectively speaking, you've been working really hard,\r\nso I think it's fine if someone took over for you soon.",
+      "choice_data_list": [
+        "I can still keep going...!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Man, what a hothead...\n...Wait, that's right. You're working hard because of everything I put you through, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Look, I'll go grab us something to drink, so just sit tight, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Good grief...\r\nLet's see, where is the executive committee's tent...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Man",
+      "text": "\"Man, just a little bit more, though.\nThey're working so hard, but it's just not turning into points...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(Oh, are they talking about Trainer... ?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Woman",
+      "text": "I wonder if she really is nervous after all.\nShe's here as a sub, surrounded by people she doesn't know, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Man",
+      "text": "Hmm...\nIsn't there some way I can cheer them up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(...Or rather...\r\nthis story sounds familiar...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Locals",
+      "text": "Nei-chaaan!! Go for it, right there!!\nKeep it up, Nei-chaaan!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Being able to meet an Umamusume like you has been an irreplaceable treasure to us.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(Whenever I felt like giving it my all,\r\neveryone and Trainer-san were always right there\nto give me that push forward...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(Then instead of just worrying, this time I'll—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The bottom of the 9th had finally arrived.\nWith the chance to walk it off with just one hit,\nit was now my turn at bat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Standing on the mound before me is an older guy\nboasting a mighty arm, who's even had experience\nmaking the bench at Koshien.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Already driven to two strikes, it felt like this was the end—or so I thought, until that very moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Go for it—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Don't lose, Trainer!\r\nJust one more hit! If you hit this, you win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Cheer up! Get pumped!\r\nEveryone, on three!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Folk",
+      "text": "Yay! Go, fight, win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "D-Do your best, Trainer-saaaan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nice Nature cheering for me shyly... and everyone else around us. I've got to live up to their support no matter what...!",
+      "choice_data_list": [
+        "Deyaaaahhh!!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Go get 'em--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*CRACK!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yay~! You did it!\nNot bad at all, Trainer-san!\nA home run! It's a walk-off win!",
+      "choice_data_list": [
+        "Thank you so, so much for your support!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ugh...\r\nWhen you look at me with sparkling eyes like that,\nit kinda makes me blush...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...If anything, I'm the one\r\nwho should be thanking you. Thank YOU\nas always for all your support!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, let's keep giving it our best from now on...\nAaargh, that totally wasn't like me to say, jeez!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though feeling shy,\r\nNice Nature showed her heartfelt support.\nIt was a day that became an irreplaceable memory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Alright!\r\nNot bad, Trainer. Good work!",
+      "choice_data_list": [
+        "It's all thanks to Nice Nature's support!",
+        "It's all thanks to Nice Nature cheering me on!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"No, no, not at all.\r\nIt's all thanks to your hard work and talent, Trainer.\nWell, but still...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Trainer, you're actually pretty fun\r\nto cheer for. Next time you play baseball,\nmaybe I'll come cheer you on again... Just kidding.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nice Nature averts her gaze shyly.\nYet, feeling a definite bond with her,\nit turned out to be a wonderful day!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Haaah... that was so embarrassing!\r\nNature-san is really,\nreally not cut out for this kind of thing!",
+      "choice_data_list": [
+        "Nice Nature! Thank youuu! "
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ack, don't yell so loud!\r\nYou're drawing everyone's attention over here!\nJeez, I'll go change, alright?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Well, if I was able to help, I guess that's good.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nice Nature is still unable to be honest with herself.\nYet, it was a precious day where I could truly feel how she felt!",
+      "choice_data_list": []
+    }
+  ]
+}

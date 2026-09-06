@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While on the move with Gold City.\r\nShe's been holding her head in pain for a while now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Ow... ouch, ouch.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah, geez, this is the worst...\nEven the medicine isn't doing anything at all.",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Yeah... I just have a bit of a headache.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "It happens sometimes when I do modeling work.\r\nYesterday's shoot had particularly harsh lighting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Well, it's not the first time, so you don't need to worry.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah~ but I have a photoshoot today too...\r\nI hope the medicine kicks in before then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Gold City ended up suffering from a headache\r\nfor quite a while afterward.",
+      "choice_data_list": []
+    }
+  ]
+}

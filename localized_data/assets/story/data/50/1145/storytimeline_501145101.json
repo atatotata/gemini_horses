@@ -1,0 +1,485 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "The new year arrived. For the New Year's break, I figured I'd play\nboard games with Rulership in the Trainer's Room...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "That was what I had intended to do, but...",
+      "choice_data_list": [
+        "Ruler Ship, where is this...?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "It goes without saying.\nAir Groove-san's family home. In other words—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "The school I grew up in.\nIt's their New Year's party.",
+      "choice_data_list": [
+        "Did you want to come?",
+        "Did you want to come?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Of course not!\nI wanted to play board games with you too.\nHowever—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Air Groove-san's silent pressure is immense, you see.\nHeh, like a moth flying into a flame—that's me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though the explanation was delivered calmly, it seemed it really was force majeure.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "So you've arrived, Ruler. And you as well, Trainer.\nBe sure to give Mother a proper greeting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—There you are.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Admire Groove.\nNo... Alve.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "You're still a newcomer.\nLet's just say I'll give you a proper welcome today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "You'll... help me?\n...You'd better not push yourself too hard.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Why not?! I was here first, so it's totally natural, right???",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Allow me to make introductions. This Umamusume is Admire Groove.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "One thing led to another, and I've been overseeing her training lately. Sometimes I even have her help with student guidance at the academy.",
+      "choice_data_list": [
+        "Hello..."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Hello.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I know who this Umamusume is.\nShe's an incredible racer who achieved\nconsecutive victories in the Queen Elizabeth II Cup.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "I don't know why... but even though she's a newcomer,\nshe carries herself proudly, like a senior apprentice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Why does she always have to\ntake the psychological upper hand...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Now then, that's enough chit-chat.\nToday is an important New Year's party.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Everyone, write your New Year's resolutions\nwith traditional calligraphy.\nUnderstood?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Kakizome, is it?\nVery well. I shall dash off a quick piece.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, each took up their brush...\nand all their resolutions were laid out.",
+      "choice_data_list": [
+        "So what did Ruler write?",
+        "What did Ruler write?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Me?\nFor me, it's this—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Multi-Tiered Stance\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Don't rely on just one strategy; prepare a second and third move.\nThat is the true secret to victory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "That's so like you, Ruler.\nWell, it's not a bad idea, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Groove, what did you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I'll... take this one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "\"Hard work.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Eff... ort...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "This is it...",
+      "choice_data_list": [
+        "What is... this?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Yeah. Who writes a worn-out word like \"effort\" with a straight face these days?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "And the trouble is, she actually sees it through to the end.\nShe writes out \"effort\" and puts in the effort,\nwinning against those who didn't.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Completely humorless and utterly hopeless, isn't it? It's as if Air Groove-san put on clothes and started walking around.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "I always wear clothes, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ah, no... that's true, but...\nHahaha...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Dammit, what's with this, what is going on?!\nMy position is slowly getting worse and worrrssse...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Traaaiineer~, isn't there any way\nto make this elf eat dirt!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I don't know if they'll be crying home to mama... but Rulership is the one who seems poised to win...",
+      "choice_data_list": [
+        "Maybe board games after all."
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Board games... I knew you'd bring that up.\nI might not have a chance on the track yet, but with board games, it's a different story.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Even so, winning with a hardcore, punishing setup wouldn't feel great. I'm not that heartless.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Trainer, what kind would you like?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I think to myself. A game that anyone could play, to play together with Admire Groove...",
+      "choice_data_list": [
+        "Concentration (card game)",
+        "Sugoroku",
+        "Werewolf game"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Memory, huh?\nA pure contest of recall ability...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "That might be fair.\nAlright, let's duel, Alv.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Hmph, it's an overwhelming victory so far... But,\nthey're holding on pretty stubbornly...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Alright, let's test him a bit.\nI discreetly moved one face-down card, but...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "The other ace is... right there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Geh, she's watching closely!\nThis girl... is getting better and better...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Don't tell me... co-evolution, triggered by my influence?\nDamn it, what a monster...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Rulership had his brain running\nat full throttle right from New Year's Day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And after returning to Tracen Academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Sugoroku, huh?\nWell, it feels like it's almost entirely luck-based anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "That might be more fitting for New Year's.\nAlright, it's a match, Alv.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "You ready?\nNow then, how should I carve you up?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Fundamentally it comes down to the dice rolls, but there are a few ways to sabotage. If I use them effectively...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove's Mother",
+      "text": "Oh, sugoroku? Count me in too~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Wait, Professor...? No, this isn't a game, it's a serious duel...\nIf it turns into a free-for-all, strategy goes right out the window...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hey, don't be cold to Mother, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove's Mother",
+      "text": "Time to give it my all♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Nwooooh~, why does it have to be like this~~?\nJust you watch~, I'm still gonna do it anyway~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was supposed to be a serious showdown—\nbut thanks to an unexpected interloper, it somehow turned into a heartwarming moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And after returning to Tracen Academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Werewolf, huh?\nA psychological game where you figure out who the wolf is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "That might actually be interesting.\nAll right, let's do this, Alv.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the game heated up—entering the final phase.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Hey, you're the wolf, aren't you?\nAlv...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"You can't fool my battle-tested eyes.\nCome on, look me straight in the eye.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Look closely...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "It's... not a wolf.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Which one is it with this guy~~~???)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She shows no emotion, making her impossible to read...\nAdmire Groove was immensely strong, and in the end,\nthe match concluded in a dead heat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And after returning to Tracen Academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Good grief, hard workers are utterly tedious creatures. But...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "—I can't underestimate them at all.\nWhen I look at Alv and Air Groove-san,\nI feel like they're a completely different type from me.",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Hm? What's up, Trainer?",
+      "choice_data_list": [
+        "There's another hard worker over there..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What caught my eye was a single Umamusume\nrunning on the training track.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Haaaaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Haa, haa... What was the time...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "—33.9 seconds.\nI've finally... cleared the first hurdle...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "That is... Flash-san.\nPracticing her final spurt even at a time like this...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Good grief... What astonishing stamina. However...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Trainer, we have—\nour own way of playing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Let us surpass her. With a strategy that exceeds her earnest determination.",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Our policy is unwavering. We will aim for the Classic Triple Crown through sheer strategic prowess.",
+      "choice_data_list": []
+    }
+  ]
+}

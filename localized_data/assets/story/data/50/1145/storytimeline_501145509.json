@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When Rulership showed up for the meeting,\nhe was carrying a heavy-looking plastic bag.",
+      "choice_data_list": [
+        "What's that?"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "...?\n...Ah, is it this...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "...This is pure fuel.\nAt times like this, you've gotta go with the classic flavor.\nIt gives you that hard-hitting punch, and that's the best...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Peering into the bag—\nI found it crammed full of energy drinks.\nAt this rate, she's going to ruin her health...!",
+      "choice_data_list": [
+        "I can't just overlook you taking in that huge amount."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Fatigue seems to be catching up with Rulership after a string of races.\nI should probably reconsider her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

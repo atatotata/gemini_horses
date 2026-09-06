@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Hishi Akebono didn't show up for training,\nso I went looking for her based on\neyewitness accounts...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mmm~! The new macaron parfait is crispy, melty, and so very buono☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I didn't know you could combine ingredients like this~.\nI'll use this as inspiration and make some for everyone next time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "And then~, which shops haven't I tried\nthe new sweets at yet~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hm? Wait, Trainer!?",
+      "choice_data_list": [
+        "...Training time is already up, you know.",
+        "...Training time is already up, you know."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, aaah~! I'm so sorry!\nI forgot to look at the clock...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I gave a stern warning to be more careful\r\nin the future...",
+      "choice_data_list": []
+    }
+  ]
+}

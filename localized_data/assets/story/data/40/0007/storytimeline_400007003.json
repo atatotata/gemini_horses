@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "—The day of the U.A.F. test tournament\nhas finally arrived.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "—Good morning.\nHow is <chrname> feeling today?",
+      "choice_data_list": [
+        "We're in perfect shape!"
+      ]
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Fufu, you seem full of fighting spirit yourself, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "Elfie, along with the other contestants, have polished their skills for today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "First, I will strive to run this \"test tournament\"\nin a way that makes it fruitful for all participating athletes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "—Today's tournament\nis scheduled to be streamed in real time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ryoka Tsurugi",
+      "text": "As the management, we are also looking forward\nto a thrilling, white-knuckle competition,\nso please do your best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "“—Trainer!\n<chrname>!!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "All the competitors are fired up!\nAnd of course, I'm burning with passion too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "First of all, let's have fun today! And let's all make it through safely together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sonon Elfie",
+      "text": "—Thank you so much for today!!",
+      "choice_data_list": [
+        "I'm looking forward to working with you!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Getting fired up once more with <chrname>,\nwe head into the test tournament—!!",
+      "choice_data_list": []
+    }
+  ]
+}

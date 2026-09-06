@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Classmate",
+      "text": "\"Hey, I'm heading to a cafe with everyone from class right now, want to come along, Furioso-chan?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "\"...I must decline.\nI have no time to play nice with others.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "Alright then!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "(Ugh, was that too rude of me?\nNo, but...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Furioso lost her concentration,\nand her self-training ended up doing more harm than good...",
+      "choice_data_list": []
+    }
+  ]
+}

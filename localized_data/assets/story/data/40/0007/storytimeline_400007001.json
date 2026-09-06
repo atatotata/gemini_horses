@@ -1,0 +1,282 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Good work.\nRight now, I am offering detailed explanations\nof the \"U.A.F.\" to anyone interested—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<username>,\r\ndo you need an explanation?",
+      "choice_data_list": [
+        "Listen to the explanation",
+        "Skip the explanation"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Now then, what would you like me to explain?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When it comes to what you'd like to know\nabout \"U.A.F.\" training—",
+      "choice_data_list": [
+        "About the \"U.A.F.\"",
+        "About competitive training",
+        "About Heat Up",
+        "About the Consultation",
+        "I'm alright now."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "About the \"U.A.F.,\" right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "The \"U.A.F.\" is a new comprehensive sports competition\nwhere Umamusume push their physical limits!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Competing for victory in 15 unique events,\nmade possible only by the physical prowess\nof Umamusume――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Based on those overall results, this tournament will decide the No. 1 Athlete Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "The U.A.F. consists of a total of three stages.\nFirst is the TEST STAGE, which serves as the test tournament.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Next, the three TRIALS STAGE qualifying rounds\nleading up to the finals—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "And the final tournament that only those\nwho made it through the qualifiers can enter, the SHOW DOWN.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "These three stages will be held over the course of three years.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "To achieve victory in each U.A.F. discipline,\nit is vital to conduct daily discipline training\nand raise your Discipline Levels.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Achieving great results in the U.A.F. leads to\nsignificant growth for the Umamusume, so be sure\nto raise as many Discipline Levels as possible!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, lest you forget...\nYou are all students of Tracen Academy.\nAbove all else, racing is your primary duty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Therefore, all of you will be competing in the 'U.A.F.' while simultaneously taking part in the Twinkle Series.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Please note that depending on training conditions,\nyour training may conclude even while\n\"U.A.F.\" is still in progress.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation of the \"U.A.F.\"\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You'd like to know about “Competitive Training,” right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "This time, we will take on event training—a new form of training geared toward the U.A.F.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "“In Discipline Training, you can hone\na wide variety of fundamental abilities\nas an athlete.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "This will definitely come in handy when all of you run in races,\nso please make sure to tackle it proactively.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "“There are 15 types of Discipline Training in total,\nand 5 are randomly selected\neach turn.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "“Performing Discipline Training\nwill raise its respective Discipline Lv.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "“Discipline Training is categorized into\nthree genres: 'Sphere', 'Fight',\nand 'Free'.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "If a Sport Training session of the same genre as the one you executed exists on the same turn, Link Training will be triggered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "During Link Training, the Event Levels for all event trainings in the same category will increase, and the Umamusume's basic stats will increase significantly more!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, Discipline Lv depends on the number of Umamusume participating in training together, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Increases more significantly the more\nScenario Link characters there are.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Make good use of Link Training to efficiently raise Event Levels and your Umamusume's stats!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, if you choose to rest, race,\nor go out—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "When that happens, the training equipment will undergo maintenance, increasing the Sport Lv gain from the next turn's training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation regarding “Competitive Training.”\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Let's go over \"Heat Up.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "“By doing Discipline Training, whenever the total Discipline Lv\nfor a genre exceeds a certain value, the Umamusume's\ntraining enthusiasm will Heat Up!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "When Heat Up is triggered, special effects corresponding to each genre—\"Sphere,\" \"Fight,\" and \"Free\"—will activate—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "The effects of your training\nwill be boosted for a set number of times!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"The number of enhancements granted by this Heat Up\nwill not decrease\neven if you Rest or Go Out.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fire up the Umamusume's passion and guide them to greater heights as athletes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That concludes the explanation for \"Heat Up.\"\nIs there anything else you'd like to ask?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Regarding \"Consultations,\" correct?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "By consulting with Sonon Elfie, the promotional\ncharacter of the U.A.F., regarding training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can change the training content\nfor this turn's event.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Consultations are extremely effective when you want to deliberately trigger a Link Training.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "However, Sonon Elfie-san is very busy, so the number of times you can consult her within a certain period is limited...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Also, when moving on to the next period, such as when the tournament progresses to the next stage, remaining consultations cannot be carried over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"Be sure to make use of your chances to consult at the right timing so you don't miss out!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"That concludes the explanation regarding ‘Consultations.’\nIs there anything else you'd like to ask?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Are you truly all right?",
+      "choice_data_list": [
+        "Yes.",
+        "No."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understood♪ Just to be sure, I have a brief summary right here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can review that explanation at any time\r\nby tapping the 'i' button in the top left.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Well then, best of luck.\r\nI'll be cheering you on quietly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Understood. In that case, do your best,\r\nokay? I'll be quietly cheering you on.",
+      "choice_data_list": []
+    }
+  ]
+}

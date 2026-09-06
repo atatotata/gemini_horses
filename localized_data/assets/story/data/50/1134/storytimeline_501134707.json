@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I came to the shrine with Curren Bouquetd'or, who has been stuck in a persistent slump lately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "…………。",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ah... No—it's nothing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Come—let us offer our prayers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Clap, clap!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The shrine visit concluded without incident.\nHowever—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "…………Ah, I knew it――",
+      "choice_data_list": [
+        "Is something catching your interest?",
+        "Is something catching your interest?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "...Yes. This shrine has always been... a harmonious,\npeaceful place—or at least, it should be.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "...However, today, as you can see—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Prompted by those words, I look around to find\ntrash and broken tree branches scattered everywhere.",
+      "choice_data_list": [
+        "Yeah, that's definitely something to be curious about.",
+        "Yeah, that certainly catches your eye."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Most likely... it's because of the strong winds yesterday...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"...Um, Trainer.\nWould it be all right... if we cleaned up the shrine grounds a bit\nbefore heading home?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"Leaving things like this\njust hurts my conscience a bit...\"",
+      "choice_data_list": [
+        "You don't have to push yourself when you're not feeling well..."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "I'm sorry for making you worry...\nHowever—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "I'm sure everyone who visits the shrine comes seeking peace of mind... seeking harmony, I think...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thinking about how much this sight might hurt\nthose people... I just couldn't leave it alone...",
+      "choice_data_list": [
+        "...All right. Let's finish this quickly together."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Trainer... Thank you very much.\nPlease, lend me your strength—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinto Priest",
+      "text": "Huh, clean the shrine grounds? We appreciate the thought, but we couldn't possibly trouble a visitor with that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "No—this is something I want to do myself...\nSo please, won't you let me do it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "To restore the shrine grounds to that beautiful, tidy state—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinto Priest",
+      "text": "...To be honest, we were really in a bind\ndue to being short-handed.\nPlease, we're counting on you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "...Phew. I thought we picked up a lot, but—\nit's in worse shape—than I expected.",
+      "choice_data_list": [
+        "If only we had a few more hands..."
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Oh, Bouquet and Trainer!\nWhat a coincidence bumping into you here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "\"Doesn't look like you two are here\nto pray either, eh?\"",
+      "choice_data_list": [
+        "Actually—"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "“—I see, that does sound like Bouquet-chan.\nWell then, let's get this\nwrapped up quickly, shall we?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Huh, Lala-san? B-But...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "No need to hold back!\nFriends helping each other out is just common sense!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ai-san... Yes, well then,\nI look forward to working with you—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "...It's incredible. The shrine grounds were in such a state, but they're back to normal in the blink of an eye...\nIt's all thanks to everyone's help—",
+      "choice_data_list": [
+        "Yeah, it feels great once it's all clean.",
+        "Yeah, it feels nice once everything's cleaned up."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Indeed. Besides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"It might just be my imagination, but I seem to be feeling better...\nIs it thanks to exercising, or perhaps a blessing from God—\nFufu, I'd be happy if it were the latter.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "We somehow—managed to finish, didn't we?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ah—",
+      "choice_data_list": [
+        "A-Are you okay!?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ah―― Yes. I'm sorry...\nIt's just that, I'm a bit tired, is all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Although the shrine was cleaned up, Curren Bouquetd'or was utterly exhausted.\nHer slump would continue for a while longer.",
+      "choice_data_list": []
+    }
+  ]
+}

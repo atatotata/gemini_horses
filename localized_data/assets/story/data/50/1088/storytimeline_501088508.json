@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Satono Crown",
+      "text": "*sigh*... Of course they don't have it in stock.",
+      "choice_data_list": [
+        "Are you looking for something?",
+        "Are you looking for something?"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"These are sweets to eat when you're tired.\nThey work wonders for post-race fatigue.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Still, they don't seem to have much of it in Japan.\nIn Hong Kong, you can find it pretty much anywhere, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Guilinggao.",
+      "choice_data_list": [
+        "True, that might not be the case..."
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Haaah... This is a problem.\nWe don't even have time to order it in.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems fatigue from her races has accumulated.\nIt might be best to hold off on entering any more races for now.",
+      "choice_data_list": []
+    }
+  ]
+}

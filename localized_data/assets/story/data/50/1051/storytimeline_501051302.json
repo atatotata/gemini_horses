@@ -1,0 +1,438 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, on the way back from accompanying\r\nNishino Flower on a shopping trip...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "âAh, Trainer-san!\nLooks like they're holding it over there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Wah, such wonderful prizes...!\nJust like the greengrocer said!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "One lottery ticket, one single shot!\nIt's just like a race...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The greengrocer she bought from earlier offered her 100 raffle tickets, but Nishino Flower politely declined.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oho, you wanna give it a shot too, missy?\r\nLet's pray you get something good!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes!\nPlease...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nishino Flower enthusiastically cranked the handle of the lottery machine!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Wah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Waaa~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I actually won the grand prize...!",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Thank you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "A hot springs trip, huh...\nIt feels kind of grown-up.",
+      "choice_data_list": [
+        "It might be better to have your guardian with you."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ah... That's true.\r\nI'm still just a child, after all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I'll try asking my mom and dad.\r\nUm, and also...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Excuse me! Is this hot spring\r\nokay for four people?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Should be totally fine, right?\nI'll double-check later!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...! Thank you so much!\nThen you can come along too, Trainer♪",
+      "choice_data_list": [
+        "Me too?",
+        "Me too?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Of course!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I haven't really been to hot springs much, but...\nI get the impression that adults really love them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Yeah...\nPeople who love it probably can't get enough of it, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Y-You're right!\r\nIs the hot spring here a nice place?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Yeah, of course.\nSomeone at my place is real picky about hot springs, and they gave this hidden bath an unconditional stamp of approval!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Thank you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "All the more reason\nI want you to come with me, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Whenever I find a lovely place,\nI want to go there together with you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"...Of course, that is only\nif you wouldn't mind it, though...\"",
+      "choice_data_list": [
+        "Thank you."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"...Um, because it's so much better\nif you come along too, Trainer!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I'm begging you, absolutely please...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Trainer, you should go with them!\nThey're asking you so earnestly, after all.",
+      "choice_data_list": [
+        "Y-Yes."
+      ]
+    },
+    {
+      "name": "",
+      "text": "And so, I promised Nishino Flower\nthat we would go on a hot springs trip\nonce everything had settled down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Wah...!\nWhat a super luxurious Salisbury steak!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ehehe, hamburg steaks\nare just so exciting, aren't they?",
+      "choice_data_list": [
+        "Oh, really?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes! At my house, my mom would always make it for me as a reward whenever I got good test scores or won a race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I feel like hamburg steak\nhas a special kind of gentleness to it...",
+      "choice_data_list": [
+        "So it's a nostalgic taste.",
+        "So it's a taste filled with memories."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes! What about you,\nTrainer?",
+      "choice_data_list": [
+        "Hmm, I'm not so sure..."
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"I feel like I ate it on special days, but\r\nalso feel like I didn't. In the hustle and bustle\nof daily life, my memories seem to have faded.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"...Um, then let's\nshare this hamburger steak!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "This is a special Salisbury steak filled with the memory\nof winning 1st prize in the lottery!",
+      "choice_data_list": [
+        "Flower..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"And so, whenever something good happens from now on, I'll grill lots of Salisbury steaks!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No, it doesn't have to be Salisbury steak.\nI'll make whatever you like, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"I'll make some wonderfully sweet memories for us.\nLet's make lots and lots of them from now on, okay?♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Wah.\r\nSo many carrots...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Each one has a firm core,\nand the root hairs are evenly spread.\nThey seem like they'll be plenty sweet, too♪",
+      "choice_data_list": [
+        "You've got a sharp eye.",
+        "You have a good eye, don't you?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ehehe.\nI have a little bit of confidence in it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Whenever I helped out at home,\nI was the one in charge of picking the ingredients♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Whenever the supermarket folks praised me,\nfor some reason, my mom and dad\nwould get overjoyed...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"...She gives me such a warm smile.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I just wanted to see that smile...\n...",
+      "choice_data_list": [
+        "...I have a proposal, though..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "—Ah, Dad, Mom!\nCan you see me okay...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...Ehehe, yay!\nTrainer is taking a picture of me right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"Did you get dinner ready?\nIt might be through a screen,\nbut let's eat together tonight...♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Wah, so cute...♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Sorry we didn't win anything.\nYou're not too disappointed, are ya?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "No, I'm fine! After all,\nit looks like such a delicious carrot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"They're a bit small, but nice and red.\nI bet they'll taste even better simmered...♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Trainer,\ndo you have some time tonight?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Let's warm ourselves to the core with some carrot soup♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That night was biting cold,\r\nbut Nishino Flower's homemade carrot soup\nwarmed both heart and body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Auugh...",
+      "choice_data_list": [
+        "That was unfortunate...",
+        "That was unfortunate..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "...No, it's fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I can immediately lend some\nto anyone who doesn't have a tissue!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seemed Nishino Flower wasn't feeling down\nafter all... or so I thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "But... if we had won the grand prize,\nTrainer would have been so happy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ugh, I really wanted to hit it...",
+      "choice_data_list": []
+    }
+  ]
+}

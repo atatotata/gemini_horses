@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Satono Diamond",
+      "text": "—It has come to an end, hasn't it?",
+      "choice_data_list": [
+        "I'm ashamed..."
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "I-It's okay!\r\nControlling the claw on this type of machine is really tricky...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "If the difficulty seems too high,\nI'll find a good opportunity to mention it to the company.",
+      "choice_data_list": [
+        "N-No, I'm fine!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

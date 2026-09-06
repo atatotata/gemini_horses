@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "………………。",
+      "choice_data_list": [
+        "...Can you really run?",
+        "...Are you sure you can run?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Kh, I can run!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Because... I can run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...I'm off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Dragging her feet,\r\nNarita Taishin left the waiting room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Once the gates open,\r\nthere's nothing more I can do for her.",
+      "choice_data_list": [
+        "(Please come back safe, Taishin...!)",
+        "(Come back safe, Taishin...!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "All that was left to do was pray—",
+      "choice_data_list": []
+    }
+  ]
+}

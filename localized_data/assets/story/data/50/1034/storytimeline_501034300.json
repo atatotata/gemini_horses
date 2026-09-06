@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Summer training camp finally came to an end—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh, this year's training camp somehow\nflew by in the blink of an eye!",
+      "choice_data_list": [
+        "It just means it was that fulfilling.",
+        "It just means it was that fulfilling."
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Yeah, no doubt about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Still, we've got a mountain of work to do before the Tokyo Daishoten.\nLet's keep up the momentum once we get back to the academy!",
+      "choice_data_list": []
+    }
+  ]
+}

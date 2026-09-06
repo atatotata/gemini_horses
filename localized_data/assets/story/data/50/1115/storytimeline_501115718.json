@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "...Aren't you in a good mood?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Hm? Ah... I had quite\nan enjoyable time yesterday, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sharing a luncheon with close companions\nis truly a delightful affair.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Does she mean Dream Journey, Gold Ship,\nand Nakayama Festa?\nI often see her hanging out with them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Heh... Shall we all go out to eat together again?",
+      "choice_data_list": [
+        "(They get along so well...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfevre seemed to have had a wonderful day off,\nenjoying delicious food with close friends.",
+      "choice_data_list": []
+    }
+  ]
+}

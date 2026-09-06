@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "Haaah...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ah... Forgive me.\r\nI let my guard down for a moment.\nThere is no problem.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "I apologize for causing you concern.\nI will be more careful from now on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Perhaps exhausted from the race, Mejiro Ardan\nseems unable to focus on her training.\nIt might be necessary to review her race schedule.\"",
+      "choice_data_list": []
+    }
+  ]
+}

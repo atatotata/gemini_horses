@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Gentildonna—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Oh, is that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Gentildonna pointed,\nI see a crane game filled with plushies\nmodeled after Umamusume.",
+      "choice_data_list": [
+        "Ah, it's Paka Puchi, huh"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Heh...\nHow very endearing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"Come to think of it, Buena-san was talking about\nthat earlier, wasn't she? Maybe I should take some home as a souvenir.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And so, Gentildonna decided to give it a try,\nbut...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "This machine's claw is so flimsy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "And the levers, too...\nIf I lose focus, I feel like I'll snap them right off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems being worried about its durability is preventing him from playing at full strength.",
+      "choice_data_list": [
+        "Shall I go get it for you?",
+        "Shall I get it for you instead?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Oh, are you ready?\nI'll leave the delicate plays to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

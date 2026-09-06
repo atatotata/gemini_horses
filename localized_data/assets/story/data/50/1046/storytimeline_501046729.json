@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "Uuugh, that was so close...",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ah, no, don't worry about it! Because you worked so hard for me, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh, let's sing a super cheerful song\r\non the way home today! ...R-Right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Today is the day of the Fan Appreciation Festival.\nTo express gratitude to the fans who cheer for them daily, the Umamusume entertain them with fun competitive games.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epi's Fan A",
+      "text": "Kyaa~~!! Epi-chan, found you!\nWe came to cheer for you-!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Thank you!!\nI'll definitely make sure you have a great time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epi's Fan B",
+      "text": "Ah... Epi-san...\n—Ugh, I need more courage...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Hm?\nYOU!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Those clothes have the same colors as my racing silks!\nCould you actually be a fan of mine!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epi's Fan B",
+      "text": "Ah... T-That's right...!\nUm, I was watching... the Kikuka Sho...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I see, you came to cheer me on!\nWell then, I'll make sure to put a huge smile on your face!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epi's Fan B",
+      "text": "Waaah... Th-Thank you so much!\nI'll cheer for you with all my might...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With so many fans rushing to the venue,\nEpiphaneia's motivation was burning even brighter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...Huh?\nThat girl...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "HEEEEY!!!!\nLong time no see, you!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Timid Umamusume",
+      "text": "Ah... Epi-san...",
+      "choice_data_list": [
+        "…Are you okay? You're looking a little pale…"
+      ]
+    },
+    {
+      "name": "Timid Umamusume",
+      "text": "...I-I'm fine.\nIt's just that the training was... a bit rough...\n*Cough*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Are you all right?!\nLet's get you some rest right away!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Timid Umamusume",
+      "text": "I-I'm really fine, honestly...!\nI've never had a very strong constitution... But—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Timid Umamusume",
+      "text": "Because you said... it'll \"absolutely\"\nbe all right—I'll do my best...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Timid Umamusume",
+      "text": "Um, Epi-san... you're competing, right?\nI'm rooting for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...Thank you!\nIf you're feeling up to it, come watch me!",
+      "choice_data_list": [
+        "...We gotta give this event our best shot!",
+        "...We gotta give this event our best shot!"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "...Yeah! I'll fire up\nyour heart too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the challenge Epiphaneia takes on is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Inter-team competition!\n\"Scavenger Word-Chain Relay\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "In this event, teams decided by the ghost leg lottery\nwill face off in a relay!\nHowever, this is no ordinary relay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "The baton to pass to the next runner\nmust be a borrowed item that continues the word chain (shiritori)!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "For example, let's say the previous runner hands you \"chikyuu\" (Earth)! The next runner would then find \"usagi\" (rabbit) to continue the shiritori chain!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "An event that demands not only running ability, but quick wits as well!\nNow then, let's introduce the White Team first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Fate really does love me after all!\n—Getting to be with everyone I love so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Fufu, quite a surprise, isn't it?\nI look forward to working with everyone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "A scavenger hunt plus Shiritori... It tests your intuition and your vocabulary, huh.\nInteresting!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Leave all the running around to me! Moving my body is what I do best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Challenging the star-studded White Team\nis our ultra-powerful Red Team...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—I leave it in your hands.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"This is the best team ever!\nVictory is guaranteed, yes♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "I-I look forward to working with you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Shall we declare it?\n—\"We are the ones who will win\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kiseki",
+      "text": "Whoaaa! Go for it, White Team!\nI can't wait to see everyone's showstopper frames!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Go, Red Team, fight! Only 100 miles left till victory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Amidst the growing excitement and roaring cheers—\nthe competition began!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Team Epiphaneia will run the relay in this order: Cesario, Vodka, Rulership, and Epiphaneia. The first prompt is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "—Ehh!?\nTh-This is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"What's wrong, Cesario! Hit a tough question already!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Yes, it's about this...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "I see!\n...Yes, that's it, voice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Cesario, go to the roof!\nI'm sure the answer is up there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Vodka-san!\nHere—a 'conch shell'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Got it! It starts with \"i\", right?!\n...Wait, \"i\"?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "S... Sq!?\n...Squid!? At the harbor!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "That's wrong, Vodka!!!!\nIt's a field!! Run!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ruler-senpai!!\nIt's \"Strawberry\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ichigo... ending with 'go'!\nI can think of a few words, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "All of them seem difficult to find.\nIn this RTA situation, I need to narrow it down from nearby areas!\nWhich means, the answer is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "RUUULEEEERRRR!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "No, stop!! Don't say it, don't say it!\n—'Cause it's probably the same thing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thanks to the tremendous efforts of Epiphaneia and the voice of destiny,\nthe White Team's baton (?) was passed smoothly along, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Sorry to keep you waiting! Take this!\n—It's \"sesame senbei\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "WOOOOOO!! It connected!\nIn that case, the finale is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "You're right, this is it!!\n\"Dog\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Alright, to the finish line—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "――……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Kris S!! I see,\nyou're the anchor too...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "In that case!!\n—It's a duel!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epi & Kris S",
+      "text": "—Haaaaaaaaaaaaah!!!!\n—Ngh...!!!!",
+      "choice_data_list": [
+        "(The two of them came charging in...!!)"
+      ]
+    },
+    {
+      "name": "Event Announcer",
+      "text": "What heat!! An insanely fierce battle is unfolding right before our eyes!! Who will emerge as the winning team...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Symboli Kris S, it's Symboli Kris S!\nWith an astounding late burst, she snatches the win!\nVictory goes to the Red Team!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Aaaaaargh!!\nI lost!!!!",
+      "choice_data_list": [
+        "Too bad... But nice fight!"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "I was holding onto that plushie so tightly\nthat it might have messed up my form...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Was that stuffed animal that precious to you?\nCould it be Epi-san's...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "No! This was borrowed!\nSo part of it was taking good care of it, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Come on, isn't it obvious just looking at it?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "...?\nUmm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "This little guy looks just like Kris S!\nSo I just couldn't bring myself to treat him roughly!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "If we lost to the real deal after all that,\nthere's no helping it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though she suffered defeat, the Fan Appreciation Festival concluded to immense excitement.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Event Announcer",
+      "text": "Crossing the finish line first is Epiphaneia!! Victory goes to the White Team!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Whoaaaaaa...!! She beat Kris S!!",
+      "choice_data_list": [
+        "Congratulations, Epi!"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Congratulations.\nYou have become—strong.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Kris S...! Thank you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"Next time, challenge me on equal terms!\n...You were holding back so the mortar wouldn't fall, weren't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Next time, I'm pulling ahead of you by ten lengths!\nLook forward to it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "\"Oooooh...!\" \"So hype!!\"\n\"That was amazing to watch!\" \"Great job out there!\"\n\"Epi-san, you were so cool...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, the Fan Appreciation Festival\nwrapped up to roaring excitement!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One day, I bumped into Air Shakur in town.\nAs we walked along the same road back to the academy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": [
+        "Looks interesting.",
+        "Looks interesting, huh?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Shakur doesn't seem interested...\nbut we received a raffle ticket when we went shopping earlier.",
+      "choice_data_list": [
+        "Want to give it a spin?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Why? Go do whatever you want on your own.",
+      "choice_data_list": [
+        "If it's Air Shakur, she could probably hit whatever she aims at."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Come on, man...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "A lottery ain't something you try to rig.\nYou're supposed to enjoy the thrill of seeing what you get, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Where's your sense of romance, huh?",
+      "choice_data_list": [
+        "...Do you really mean that?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No way in hell.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Shakur doesn't seem interested in the raffle.\nHowever, if I could win the grand prize—the hot springs trip—then maybe...",
+      "choice_data_list": [
+        "(This might be a nice break for Shakaar)"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Um...\nAre you gonna do it? Or not?",
+      "choice_data_list": [
+        "I'll do it!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Oh.\nNaturally, the target is...!",
+      "choice_data_list": [
+        "A hot spring trip!!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "How many tens of thousands of times do you plan on trying?\nI'm telling you, there's no way you're winning.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Come on, spin it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Under Air Shakur's vaguely curious gaze...\nI turn the crank on the lottery wheel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ooh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "This has turned into...\na very interesting result.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hey. How many people in total have drawn this lottery up till today?\nWhat percentage of the whole is the grand prize?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "All that's left is customer distribution, crowd rotation...\nGot any summary of the trends so far?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Umm...\nI don't really get that kinda stuff.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Well, guess that's true.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Or rather, young lady, it's the grand prize, but...\naren't you happy? It's a hot spring trip, you know. A hot spring.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "That punk's the one who wants to go.\nI don't give a damn.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Well then, Trainer!\nHave a great time!",
+      "choice_data_list": [
+        "Ah, yes...!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "You were aiming for the hot springs trip, weren't ya?\nShow a little more excitement.",
+      "choice_data_list": [
+        "Doesn't Air Shakur like hot springs?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I don't really care about hot springs themselves.\nBut when it comes to a hot springs trip, I hate it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Being around people all the time is unbearable in the first place.\nBesides, what's the point of taking a bath with others anyway?",
+      "choice_data_list": [
+        "How do you usually take a bath?",
+        "How do you usually take a bath?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I just pick a time when nobody's around\nto take a quick shower.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I'll take a bath if I gotta.\nBut if I don't have to, I ain't gonna.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems Air Shakur doesn't like bathing\nin the first place. An onsen probably\nwouldn't make him very happy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...I mean, why ask a question like that? You've always drawn the line in your own way, haven't you?",
+      "choice_data_list": [
+        "I was just curious, that's all."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...If that's really the case,\nwhat you're focusing on is way too gross.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And so, the destination for the hot springs trip ticket we had brilliantly won remained temporarily unknown...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "First prize, huh.\nToo bad you missed what you were aiming for.",
+      "choice_data_list": [
+        "Pretty amazing, don't you think?",
+        "Pretty amazing, right?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Well, in terms of results. The real question is whether that's what you actually wanted.",
+      "choice_data_list": [
+        "I'll give this to Air Shakur."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Don't need it, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Huh, usually Umamusume come here\nafter the carrot hamburger steak, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Huh...\nI'm not interested.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"It's sooooo delicious, though.\nThe butcher, baker, greengrocer, restaurants...\nOur best gave it their all and took real pride in making it!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hear that?\nGood for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Huh.\nEven this doesn't tempt you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "If it has the nutrients I need,\nI'll eat it without being told.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "No way! I have my pride too, you know.\nI'm making these prizes so the Umamusume\nwill genuinely love them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I ain't letting you go\nuntil I see a smile on your face, little lady...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hey, Mom! You there!?\nHeat up some hamburger steaks for me right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hah? \nHey, I don't need this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Shakur ended up tasting the special carrot\nhamburg steak right then and there.\nAnd the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tasty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hell yeah!\nTold you it's delicious, didn't I!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Yeah. I don't know much about taste and all that,\nbut it ain't bad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Alright, then just smile like this—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I won't.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Despite his grumbling, Air Shakur cleaned his plate completely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Orange.",
+      "choice_data_list": [
+        "It's orange...",
+        "It's orange..."
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Packed with nutrients!\nEat up and enjoy.\"",
+      "choice_data_list": [
+        "(Maybe I should hand these out to the students at the academy.)"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "By the way, we can deliver it, but...\nyou've got an Umamusume with you, so wanna just carry it back real quick?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……。",
+      "choice_data_list": [
+        "No, I'll take it home myself."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"It's preeeetty heavy.\nAre you sure you're okay?\"",
+      "choice_data_list": [
+        "I've been training hard!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "When designing Air Shakur's training,\nthere are times I work out myself to understand it physically.\nI was fairly confident in my strength compared to others my age.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...At least borrow a cart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "On the way back carrying a massive load of carrots.\nJust as Air Shakur advised, I managed to borrow a cart from the shopping district, but—",
+      "choice_data_list": [
+        "(S-So... incredibly heavy...!)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Perhaps because my pace had slowed to a crawl,\nAir Shakur ended up heading home ahead of me...",
+      "choice_data_list": [
+        "(I said it myself, so I have to do my best!)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Just as we were making progress, step by step—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ah! Are you the\n\"Carrot Handout Trainer\"?",
+      "choice_data_list": [
+        "The carrot-handing Trainer?!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "I saw it going viral on Umatter!\nApparently, a Trainer is currently heading toward the academy\nto hand out massive amounts of carrots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "She said if we go pick them up early,\nwe'll get extra carrots...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I'll take some.\n...As much as possible!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Ah! Carrots for us too,\npleeease!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And just like that, the Umamusume gathered around,\nand in the blink of an eye,\nthe carrots dwindled away...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "By the time we got back to the academy, everything had been handed out.\nSince we had planned to give them to the students anyway,\nnot having to carry them back was a huge relief.",
+      "choice_data_list": [
+        "(So the one who spread the word was...)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"...'I'll tell them how grateful I am when I see them tomorrow.' That was what I was thinking, but—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Ah! It's the carrot-distributing Trainer!\nHello~.",
+      "choice_data_list": [
+        "H-Hello..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Heh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "For a while after that, she was troubled by the mysterious nickname.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Too bad.\nThey say there's only one.",
+      "choice_data_list": [
+        "Hot springs..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Here it is.\nHurry up and take it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Kinda hilarious, honestly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "The portrait of a human holding a single carrot,\nlost and bewildered...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"...This might just be my chance to entertain Air Shakur!\nThinking this, I hoisted a carrot like a sword—\"",
+      "choice_data_list": [
+        "How about something like this?!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nah, I'm good without that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Doing it on purpose is a total buzzkill.\nThe last one was funny 'cause you didn't mean to.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Also, I can't stand people who suck up to me.\nDon't get cocky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...The carrots I ate after getting home\nhad such a gentle sweetness to them...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Looks like you lost.",
+      "choice_data_list": [
+        "Too bad..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Probabilistically, this is 'bout what you'd expect.",
+      "choice_data_list": [
+        "I wanted to take Air Shakur to the hot springs."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...So that's what this is about, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "It's not like I even wanted to go in the first place.\nYet you're getting all depressed on your own. Annoying.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Even as she said that, it felt as though she was a little disappointed...\nOr maybe... I was just imagining it.",
+      "choice_data_list": []
+    }
+  ]
+}

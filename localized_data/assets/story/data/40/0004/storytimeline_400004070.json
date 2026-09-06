@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reporter Otonashi",
+      "text": "Thank you for your time as always!\nI'm Otonashi from Monthly Twinkle.\nDo you have a moment to spare?",
+      "choice_data_list": [
+        "What's the matter? Why so formal all of a sudden?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Fufu... No, it's just that I realized it's finally time for the final race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...At last, the 'strongest' will be decided.\r\n",
+      "choice_data_list": [
+        "Indeed."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I can't wait, yet I feel a bit lonely...\r\nIt's such a strange feeling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I am so sorry! What am I doing on such a momentous stage...!\nNow then, pulling myself together, let's begin the interview!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Trainer of a leading contender for the \"strongest\" Umamusume!\nWith the final race just ahead, how are you feeling?!",
+      "choice_data_list": [
+        "...I will win!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Deafening cheers.\r\nThe fanfare will sound any moment now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—The 'strongest' will be decided right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With the final match right before us, how are you feeling?!",
+      "choice_data_list": [
+        "...I believe in you!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Deafening cheers.\r\nThe fanfare will sound any moment now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I'll watch <chrname>'s run\r\nall the way to the very end.\n—Because to me, she is the \"strongest\"!",
+      "choice_data_list": []
+    }
+  ]
+}

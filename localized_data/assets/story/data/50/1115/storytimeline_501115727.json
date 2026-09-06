@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Orfevre",
+      "text": "—Ho...\nThis is splendid.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thou hast done well.\nSpeak thy desired reward.",
+      "choice_data_list": [
+        "Just knowing you had fun is enough for me.",
+        "As long as you had fun, that's more than enough."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "I forbid it.\nWhat kind of king bestows no grace worthy of the title?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Anything will do. I shall give it to you... Come now.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

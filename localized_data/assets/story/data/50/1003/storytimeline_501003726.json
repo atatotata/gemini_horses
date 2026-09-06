@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Tokai Teio—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, look, look, Trainer!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Look at that crane game!\r\nDoesn't it look like so much fun?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Look look, they have Paka Petit too!\r\nIt's super trendy right now, you know~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Tokai Teio was pointing,\nI saw a claw machine filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Actually, I'm not just good at dance games,\nI'm great at this one too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "How about you, Trainer?\nAre you good at claw crane games?",
+      "choice_data_list": [
+        "Of course!",
+        "Of course!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Huh, is that so! Well then, why don't you show me what you can do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

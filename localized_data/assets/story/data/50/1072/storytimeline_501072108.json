@@ -1,0 +1,472 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is the Spring Fan Appreciation Festival,\r\nan event where the Umamusume can interact\nwith the fans who support them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yaeno Muteki stood near the school gate,\r\nhanding out pamphlets to visitors.",
+      "choice_data_list": [
+        "Helping out the student council?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Trainer-dono.\r\nNo, it is not truly what one would call helping out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Since I have some free time, I'm standing here\r\nto interact with the fans.\nI thought having brochures on hand would be helpful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Ah! It's Yaeno Muteki-san!\r\nI'm a huge fan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "\"Whether in a race or a Live, I just love how dignified Yaeno Muteki-san is!\nI think she's so cool!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Um... and then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Ah... P-Please keep doing your best from now on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Mmh... I haven't been able\nto keep the conversation going at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ah, you really can't say\r\nYaeno is particularly friendly, after all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "\"We're used to it, but if it's your first time,\r\nyou might feel a bit intimidated.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "She's practically oozing that intense pressure\r\nyou only get from martial artists.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Tamamo Cross, who happened to be passing by,\r\nand the true-blue Edokko Umamusume, Inari One,\ncalled out to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Both of them are caring by nature,\r\nso they were likely looking out for Yaeno Muteki.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "! I see... Amiability...\r\nTruthfully, I have not given much thought to that...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Still, forcing yourself to act overly sweet\r\nwouldn't really be like you, Yaeno.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Well now, that unpolished grit is what makes Yaeno who she is,\r\nand that's what the fans wanna see anyway, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Hmm... Then why not just make the most\nof that unapproachable aura instead?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "What do you mean by \"making the most of the atmosphere\"...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Just follow me for now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "\"Gather 'round, gather 'round, step right up!\nSerious game of Daifugo! Prizes for the winners!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Winning streak after winning streak with her \"Invincible Poker Face\"!\r\nAre there no brave challengers worthy of facing Yaeno Muteki!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "A serious match with Lady Yaeno Muteki...!?\r\nI would be honored to participate as well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "\"I really love Yaeno Muteki's fiery spirit!\nThough in Tycoon, maybe I'd actually have a shot at winning... Wanna give it a go?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—Excuse me, you over there. Would you care for some if you'd like?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Huh!? Me?\r\nAn invitation from Ya-Yaeno Muteki-san...\nI'll do it!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Alright, count me in too!\r\nNothing gets true Edokko blood pumping like a competition!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Alright, let the match begin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "—Dodged.\r\nNext, please.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "\"Passing right here?! Why?\r\nWe're still mid-game... Has she run out of moves?\nNo, could she be saving her trump card...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "Guh... I can't read them!!\r\nTheir expression hasn't twitched in the slightest...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "How do ya like that?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "――！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Heh, then I shall...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "!? What is this... this presence...\ncoming from Yaeno Muteki-dono...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Heh... Fufu... This overwhelming aura... Is it warning this one not to make a blunder...!\nThen let us duel!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"It's my turn, then.\r\nHere I go.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Wha--!? That pressure was meant to induce a blunder from me...!\nI was careless, damn it!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Oho, is this the end of that invincible poker face of yours?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "You're wide open!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Ngh... Pass!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Haa!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "That's a wrap for today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Whaaat!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "I see... So I took the bait hook, line, and sinker, huh?\nI admit defeat!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "\"And that's the match!\r\nFirst to finish, the winner is Yaeno!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ossu!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "\"A-A live 'Osu' from Yaeno Muteki-san...!\r\nTo hear it so up close...! This is the best...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "A serious duel with the revered Yaeno Muteki-dono has made me realize my own shortcomings.\nThank you very much for your guidance!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I didn't intend it as formal instruction,\nbut if it proved helpful to your learning, nothing could please me more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Playing Daifugo with Yaeno Muteki-san\nwas so much fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Interacting with everyone was a truly\r\nmeaningful experience for me as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Getting to interact with everyone in person like this will surely bring their faces to mind when I head into the race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Knowing what kind of people are supporting me\r\nmakes me feel all the more encouraged.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Thank you very much for spending time with me today.\r\nI look forward to our continued relationship.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "Ahaha, you really are so dutiful and polite!\r\nPlease let me keep cheering you on!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Heheh, looks like this is the critical moment, huh?\r\nNow then, what should we do...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "Wh... What's this?! The air suddenly got so heavy...!\r\nUgh, what immense pressure...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Is this... the sheer fighting spirit\r\nemanating from Yaeno Muteki-dono and Inari One-dono...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Ngh... what immense pressure...!\r\nSo this is what a serious showdown feels like...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "S-So this is... the fiercely competitive world that Yaeno Muteki-san lives in...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "En garde!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "...Pass.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I got it!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "That finishes things up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Whaaat!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Damn it, outsmarted, huh...\r\nFine, you win!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "\"And that's the match!\r\nFirst to finish, the winner is Yaeno!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ossu!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Oooooohhh~!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan B",
+      "text": "Well done, Lady Yaeno Muteki!!\r\nI felt your fighting spirit throughout the bout, and I am in awe!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No, I'm sorry I couldn't\ncome up with anything clever to say.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan A",
+      "text": "Still, while we were playing Daifugo,\nI could truly feel your passion through the aura you were giving off, Yaeno Muteki-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "\"I feel like... going all-out against you\r\nhelped me get to know you better too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Incredible...! Indeed,\r\nit is in the midst of serious competition that my true essence lies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"To think you could feel that……!\r\nNothing could bring me greater joy!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I will never forget all of you,\r\nnor the heated, earnest battle we shared today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Going forward, whenever I face a race,\neveryone's faces will surely come to mind!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "I thank you all from the bottom of my heart today!\rPlease continue to give me your wonderful support!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno's Fan C",
+      "text": "Ahaha, Yaeno Muteki-san, you're surprisingly passionate!\nI'm even more of a fan now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "\"Inari-san, Tamamo-san,\nthank you so much.\nThanks to you both, I was able to connect with the fans.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "Don't mention it, this sort of thing is a piece of cake!\r\nEveryone's got their weak spots. Helping each other out is just what being human is all about!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "\"You hyped up our performance too, so that\r\nmakes us even!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Fufu, I will never forget this kindness.\r\nWhen the two of you are ever in trouble, it will be my turn to help.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Inari One",
+      "text": "You're seriously so earnest!\r\nWell, that's what's great about ya, Yaeno!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Interacting directly with her fans seems to have given Yaeno Muteki a huge boost of encouragement!",
+      "choice_data_list": []
+    }
+  ]
+}

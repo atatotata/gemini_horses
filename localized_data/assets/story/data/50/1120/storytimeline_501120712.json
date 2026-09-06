@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Calstone Light O",
+      "text": "Mmh... The desks aren't lined up straight!\nI made sure to align them during cleaning time...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Should I mark the floor with vinyl tape...?\nNo, I am the only one who can detect the slightest misalignment...\nI have to be the one to do it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Alright, that's impeccably straight!",
+      "choice_data_list": [
+        "Yeah... as long as you're not slacking off, that is.",
+        "Yeah... As long as they haven't been slacking off, that is."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "...Gasp?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I ended up having to give Calstone Light O a lecture for ditching training...",
+      "choice_data_list": []
+    }
+  ]
+}

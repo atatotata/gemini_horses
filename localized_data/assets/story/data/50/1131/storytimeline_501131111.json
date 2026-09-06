@@ -1,0 +1,474 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "(Flap flap!)",
+      "choice_data_list": [
+        "Whoa...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The tall stack of books collapsed, scattering across the floor.\nCatching sight of an open page from one I picked up,\nmy hand froze.\"",
+      "choice_data_list": [
+        "Brings back memories..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Pages filled with sticky notes and scribbles.\nThe traces of a fierce struggle, of running relentlessly forward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I closed the book and put it away in the cabinet.\nWith a brand-new notebook in hand, I left the room—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Good Mile-ning!",
+      "choice_data_list": [
+        "Good morn-mile! How are you feeling today?"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"Completely normal, a half & half mile!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Howdy, Gran!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "We're about to go on a wave run! Would you like to join us, Gran?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Are these for sprint, mile, or medium distances?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "It is a 2000m middle-distance race!\nKris S has been invited\nto an exhibition race!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "I—struggle to gain—speed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Using Taiki and Gran as references—\nI want to devise a counter-strategy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Understood!\nTrainer, that's not a problem, right?",
+      "choice_data_list": [
+        "Of course, sure!"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"Still, asking which of the three classes is best...\nHearing it put like that is pretty overwhelming, huh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ehehe, you've got plenty to choose from!\nI promise you the strongest run at any distance!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ahaha, that's reassuring!\nWell then, shall we get started?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "My Rule!\n\"Walk behind Rob Roy-senpai!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, yes...! H-Here you go...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "～♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "U-Uuu... It's always like this,\nbut being in the lead makes me restless...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Why are all of you doing this too...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Stand tall, walk proud!\nAlright, let's head to the woodchip course!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh! Kris S, your horseshoe's coming loose!\nBe careful!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Ah, thanks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Well then, from the start!\nTrainer-san, please give the signal!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "...And with that, the discomfort by 0.01 miles—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah! Trainer, look over there!\nIt's Master!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Whoa, whoa, you're wearing a suit today!\nIt's so classy, you're like a 23-mile dandy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Haha, don't tease me.\nI was just visiting the URA today.",
+      "choice_data_list": [
+        "To the URA?"
+      ]
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Yeah. Starting next year, I'll be working at the URA.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Eeeh?! Is that true?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "If Master continues to be involved with racing,\nas an Umamusume, it makes me really happy!",
+      "choice_data_list": [
+        "Looks like things are gonna turn around for the better!",
+        "Looks like things are going to change for the better!"
+      ]
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Haha, you're acting like it's none of your business,\nbut it's all thanks to you guys, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ours?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Yeah. ...The sight you all showed me\nat the Tenno Sho (Autumn).",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Countless fans empathized deeply with the\nUmamusume, cheering as if it were their own struggle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "\"Dreaming, crying,\nand laughing, just like an Umamusume...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Fans like that used to be a minority.\nBut at the Tenno Sho (Autumn), they completely changed the atmosphere of the stands!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "—It's because you all reached out to new fans through your videos.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "I conveyed to them the excitement of racing, and the truth of the Umamusume who challenge it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "\"That sparked interaction between new fans and longtime fans...\nand created a whole wave of excitement.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "The joy of sharing victory with countless fans.\n—An Umamusume's true happiness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Even though I knew that, I couldn't find a way to get the fans involved.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "You were the ones\nwho showed me the path to get there.",
+      "choice_data_list": [
+        "Master...!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"We wanted to pass on Master's teachings,\nwhich is why we've been uploading videos.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "The huge swell that was created wasn't a coincidence...\nNo, it was all thanks to everyone, all the fans!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "At the Tenno Sho (Autumn), I got so much\npassionate cheering. I truly felt that 30-mile impact!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "“Yes. That is why I intend to work on it in the URA as well.\nInitiatives that connect the fans with the Umamusume.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Wah!\nThat's infinitely miles fantastic!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Former Mile King Trainer",
+      "text": "Everything you have brought to us...\nI will make sure to carry it forward with pride.",
+      "choice_data_list": [
+        "!! ...I-I'm honored!"
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Fufufu!\nTrainer... here, please take a handkerchief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "\"The next menu is soccer!\nShall we head over?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Gran-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Which race will you be running in next, I wonder?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "I haven't decided yet, Ai-senpai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Then I think a mile would be best!\nI want to compete against you at your absolute strongest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "In that case, I want to race Eye-senpai\nat 1.25 miles too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Almond Eye",
+      "text": "\"...Then both the Mile and 2000m,\nboth of them!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "You're right! Let's settle once and for all who's the strongest!",
+      "choice_data_list": [
+        "Umm... you mean for your next race?"
+      ]
+    },
+    {
+      "name": "Gran & Ai",
+      "text": "Yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It seems our immediate plans have been decided.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Ah, here she comes.\nGran-chaaan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Sorry to keep you waiting!\nIs everyone here yet?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes.\nEveryone who wished to participate as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume A",
+      "text": "I'm looking forward to working with you today!\nI'll be taking plenty of notes from you and your team's training, Gran-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Yeah, learn as much as you can!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I want to incorporate training\nbased on 'Uma Musume First'――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With more Umamusume and Trainers making such requests,\nwe've frequently been holding joint training sessions lately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "How should we split into teams?\nWe're definitely gonna need to give Gran-chan a handicap.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Loves-chan, Chrono-chan, and Bouquet-san on the same team.\nHow about I team up with everyone else?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Plus, even as keeper,\nI'm only gonna use my legs!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Okay!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Keep dribbling just like that, Bouquet-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume A",
+      "text": "Damn it, she passed me!\nThis is bad, right before the finish line...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Chrono-san, please!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Y-Yes...! S-Shoot...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Whoa, I'm not letting you break through this goal!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran & Chrono",
+      "text": "Teryah!\n...Eek!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Just as Chrono Genesis was about to shoot,\nGran Alegria rushed in and kicked the ball clear!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Umamusume A",
+      "text": "Gran-san, nice clear!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ah... I-I was so startled\nthat I ended up running away...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ah, did I startle you?\nSorry about that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "N-No, this is a competition, after all...!\nNext time, I'm definitely making the shot...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Fufu, I'm gonna stop you again!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Nice fight, both of you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—After three years of triumphs, Gran Alegria is now surrounded by countless smiling faces.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The future my mentor aimed for with 'Umamusume First.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Miler!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gran Alegria.\nShe will continue to weave that future ahead—",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After training,\nthere was a single letter placed on the desk.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I made sure to lock up during training just in case, but...\r\n",
+      "choice_data_list": [
+        "(How long has she been here...?)"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "That letter...\r\nBefore I knew it, it was just sitting right there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"Addressed to the Trainer...?\r\nOr is it—\"",
+      "choice_data_list": [
+        "I'll go check."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Opening the seal, I saw it was a fan letter for Manhattan Cafe—yet for some reason, its contents felt slightly unsettling.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a fan letter,\r\nit's quite bizarre, or should I say...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Is something wrong...?\r\nDid something strange happen...?",
+      "choice_data_list": [
+        "No, it's not like that..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "If it's a fan letter addressed to Manhattan Cafe, she should be the one to read it... Thinking that, I decided to hand it over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Umm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"In the morning, rising from the mist—\r\nAt noon, stepping from the rustling trees' shade—\nAt night, emerging from the quiet darkness—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"‘I will always, always\r\nbe watching over you...’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I see, this is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Could it be...\r\nthat it's 'that kind of thing' after all...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Those who support us\r\naren't just the spectators we can see with our eyes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"Just as I watch over 'them,'\r\n'they' are cheering me on as well...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "That is truly a wonderful thing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The next day—\r\nThe letter I had kept in my desk drawer had vanished without a trace.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as Manhattan Cafe said, perhaps it really was the work of someone unseen...",
+      "choice_data_list": []
+    }
+  ]
+}

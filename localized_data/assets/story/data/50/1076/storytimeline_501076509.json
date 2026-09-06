@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking through the academy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Hmm... My body still feels heavy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "......Phew.",
+      "choice_data_list": [
+        "What are you drinking?",
+        "What are you drinking?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"...Huh? Ah, Trainer-san!\nUm... it's apple cider vinegar juice.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I looked it up online and tried making it. Apparently, it's great for recovering from fatigue.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"It's actually quite delicious!\nWould you like me to share the recipe?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Sakura Laurel's fatigue has piled up from consecutive races.\nIt would be wise to reconsider her schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

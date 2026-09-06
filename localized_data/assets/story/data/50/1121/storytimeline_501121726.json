@@ -1,0 +1,66 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Durandal—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "That's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Durandal pointed,\nthere was a claw machine filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": [
+        "Interested in the Paka Petits?",
+        "Interested in the Paka Petits?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Yes. I thought my family would really love something like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"My younger sister started putting them up because she thought they were cute.\nThen my older sister, and next my older brother...\nand before long, they just kept multiplying.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Perhaps because everyone in my family watches races, they naturally\nstarted collecting them. I wonder if they'll be happy if I take this home.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "“Still... it looks quite difficult to win.\nI don't have much experience with this kind of game, so...”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Durandal doesn't have much confidence. In that case—",
+      "choice_data_list": [
+        "Could you leave it to me?",
+        "Could you leave it to me?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Huh, Trainer-dono did...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Of course!\nI look forward to working with you, my Lord!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

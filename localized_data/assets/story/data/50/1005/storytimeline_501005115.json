@@ -1,0 +1,527 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After the Yasuda Kinen, I returned to the academy after Fuji Kiseki, who had gone back alone—\r\nand found a dark bay Umamusume hard at work in self-training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dark Bay Umamusume",
+      "text": "Phew, haah... haah.\nAlright, one more set...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dark Bay Umamusume",
+      "text": "...Wait, huh?\nFuji-senpai's Trainer. What's up?",
+      "choice_data_list": [
+        "Haven't you seen Fuji Kiseki?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I think I saw her heading toward the outer perimeter.\"\nSpurred by those words, hours were spent searching outside.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hah... hah...",
+      "choice_data_list": [
+        "Fuji Kiseki!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Trainer!\nSorry, sorry, I just really wanted to run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki tells me with a smile.\nAt first glance, everything seems perfectly fine, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There was also the sense of unease that Hishi Amazon felt.\r\nSomething was definitely amiss.",
+      "choice_data_list": [
+        "Are you worried about something?",
+        "Are you worried about something?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Ah, did I make you worry?\nBut hey, as you can see, I'm totally fine, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...For better or worse, Fuji Kiseki is a consummate actor.\nShe never lets negative emotions show on the surface.",
+      "choice_data_list": [
+        "(But now that I think about it—)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(Splash!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "—Ah, sorry, sorry!\nI was just lost in thought!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There had been times when something felt off.\r\nLittle by little, it had become impossible to completely hide.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Could the situation be far more serious than I thought?\nThe moment that realization hits, a wave of intense regret washes over me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If only I had noticed sooner.\nIf only I had been reliable enough for her to confide in.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I just wanted to make a few adjustments.\nI'll be right back after a quick run, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I didn't notice anything,\nand left her to fight all alone this entire time.",
+      "choice_data_list": [
+        "Sorry for being so unreliable."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Huh...?",
+      "choice_data_list": [
+        "But please, don't shoulder it all on your own anymore...",
+        "But please, don't shoulder it all alone anymore..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "N-No, that's not it, Trainer.\r\nDon't make that face, you did nothing wrong at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"...I always wanted you to have fun,\nyou know? So, that's why...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "“......Sorry.\nI'll explain everything. Shall we find a place to sit?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Right now... everyone's expectations\nare just hopelessly terrifying to me.\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "It's funny, really... considering how much I tried to get attention and be looked up to as an entertainer all this time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Of course, it's not like I never felt\nany anxiety up until now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "“Still, I was able to take it in a good, positive direction.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I had everything under control. Truly,\nI thought this was my own path.\nBut, you see—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Now that the Classic year is over... well, the public got even more incredibly hyped than we expected, didn't they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Articles were written about me every day, magazines were sold out—\nof course, I was happy about that, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...To be honest, I was a little bewildered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "“Still, I wanted to do my best. To live up to expectations.\r\nAnd in the midst of that, a junior who looked up to me chose her own path.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "—\"Right now, I just changed the way an Umamusume lives her life.\"\r\nThe moment that crossed my mind, it suddenly hit me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I wonder... if I'm truly worthy of this much passion and adoration.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Even if that happens to be\r\nthe way things are right now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I worry that someday, somewhere down the line, a day might come when I let them down completely.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "The instant that thought struck, the expectations that should have\nfelt reassuring suddenly turned into pure, crushing pressure all at once.",
+      "choice_data_list": [
+        "(Come to think of it, back then—)"
+      ]
+    },
+    {
+      "name": "Dark Bay Umamusume",
+      "text": "I've decided on the path I must take.\r\nIt's thanks to you that I was able to change, Fuji-senpai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Come to think of it, Fuji Kiseki was definitely lost for words back then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...After all that big talk about having my back,\nit kinda feels like, 'Wait, really?'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Even so, I can't help but wonder.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I wonder if deep down, I'm really not the kind of Umamusume everyone expects me to be.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...I'm so weak and pathetic, I make myself sick.",
+      "choice_data_list": [
+        "That's not true."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...\nYou're so kind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "You said my running style looked strange today, right?\r\nWell, that was a huge hit, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Midway through running,\nbefore I knew it, I was subconsciously looking for excuses.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"She was no match for the grand stage of the Senior Year.\"\n\"Just watching her take on the challenge gave us a dream.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "If it doesn't turn out to be a brilliant run, what can I do so that no one blames them—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "On such a grand stage where everyone has high hopes, on a battlefield where everyone seeks victory... to only focus on things like that...",
+      "choice_data_list": [
+        "……"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...I couldn't get it out of my head.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"...I'm sorry for showing you such an unsightly side of me.\nI must have disappointed you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though her tone remains indifferent,\nshe can't quite hide the tremble in her voice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was a palpable fear, something never once felt from her before.",
+      "choice_data_list": [
+        "(She fought all the way to her limit.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Indeed, the public's fervor was tremendous.\r\nEveryone, without exception, was looking forward to Fuji Kiseki's success.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Even if Fuji Kiseki's own show and words sparked it, that tempestuous surge of passion must have been beyond expectations.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...I'll be fine. I will see this challenge through.\nEveryone is waiting for me, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Still... please just wait a little longer for now.\nI'll be back to my usual self in no time.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki has lost her confidence right now,\nmore than ever before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She's trying to push through on pure sense of responsibility, but\njudging by her state in the Yasuda Kinen,\nshe will inevitably break down at this rate.",
+      "choice_data_list": [
+        "(More than anything, I don't want to make them suffer anymore.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki is a wonderful Umamusume.\nShe has given dreams and hope to so many people.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Those footprints should be all around us. If only I could show them to her—\"",
+      "choice_data_list": [
+        "Come with me for a second!",
+        "Come with me for a second!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Huh...!\nTrainer, what's got into you all of a sudden...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A sudden memory of how \"she\" looked earlier\r\nflashes through my mind—and I rush toward the academy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The dark bay Umamusume was still out on the track.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dark Bay Umamusume",
+      "text": "\"*pant, pant, pant*!\n...*gasp*, not yet! Daaaaahhh!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "She was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Bursting with fighting spirit, she dashed\r\nup the slope at tremendous speed.",
+      "choice_data_list": [
+        "Thanks to you, I can look toward the future right now.",
+        "Thanks to you, I'm looking toward the future right now."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the past, she had grown rotten with her current situation.\nShe resented her own aptitudes, and she resented her future.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The dark bay Umamusume's eyes, once dim with gloom, were now firmly looking ahead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki had changed things.\nBy dedicating the entirety of her precious Classic year.",
+      "choice_data_list": [
+        "You're a wonderful Umamusume.",
+        "You're a wonderful Uma Musume."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—The dark bay Umamusume wasn't the only one\nwho received something from Fuji Kiseki.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Where there is anticipation and excitement, a show worthy of them must follow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Wha, what is that!\nWhat is that speed... is that Fuji Kiseki!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "Right! Wow, even though she's just running,\r\nshe's so captivating I couldn't take my eyes off her!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If there is anxiety or doubt, give reassurance to dispel it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I'm glad.\n...A smile really does suit you best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Always, to anyone,\nI have given everything, risking my life to deliver it all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki isn't an entertainer\njust because she can run fast in races.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Being charming or having a way with words\ndoesn't automatically make someone an entertainer either.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"If I want to put on the show everyone desires,\njust running and winning isn't enough.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "—I'm going to push my limits\njust a little further!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Because I want to make people happier than anyone else could, that's what makes me an entertainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "…………。",
+      "choice_data_list": [
+        "…You truly are a wonderful Uma Musume…!",
+        "...You are a wonderful Umamusume...!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...\nI wasn't alone after all.",
+      "choice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "All I could think about... was how\nI didn't want to disappoint you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"I had intended for you to always watch my show\nfrom the prime seat known as my 'Trainer.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "“It seems... that was my own arrogance.\nYou weren't in the stands at all.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "She'd been watching over me from the wings of the stage the whole time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fuji Kiseki's expression as she looked at me had regained just a tiny bit of its usual warmth.",
+      "choice_data_list": [
+        "...From now on, let's overcome everything together, the two of us."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Yeah. You're right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "I'm sorry I didn't realize it for so long.\n...Thank you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It wasn't that the fundamental problem was solved,\nbut—the two of them together could surely overcome it.\nSuch a conviction was born.",
+      "choice_data_list": []
+    }
+  ]
+}

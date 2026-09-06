@@ -1,0 +1,319 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "My King. Allow me to report.\nRegarding my life as a knight thus far...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's time for a review. I decided to have\nDurandal summarize everything up until now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Perhaps the race results alone were passable. However...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "âDamage report:\nTea cup set, two pairs.\nArita ware plates, two.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "—Stockpile report.\nSurplus food inventory: 2 months' worth.\nLong-life emergency rations: 3 months' worth.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "And... the training reports.\nAll those race records where the timing to make a move went wrong...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "That is all. How utterly inexperienced of me...\nI am terribly sorry...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"I can hardly say that was very knightly...\nIf anything, I feel like I'm losing\nmy composure more and more.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Do I... lack the talent to be a knight?",
+      "choice_data_list": [
+        "I don't really think that's true, though.",
+        "I don't really think that's true, though."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Thank you very much...\nHowever, I do not originally come from...\na distinguished family line.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Born into an ordinary family,\nI am merely someone who yearned deeply to be a knight...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "No matter what, I cannot help feeling\nthat “dignity” is the one thing lacking.",
+      "choice_data_list": [
+        "\"Dignity,\" huh..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Unless you make a conscious effort to change, how you act and carry yourself in crucial moments is inevitably shaped by your upbringing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "True royalty and nobility.\nThe dignity and composure possessed by such individuals are—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It is not something that can be acquired in a day or two.\nIt is something that wells up from the deepest parts of one's heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Durandal does not possess such profound dignity.\nIn that case—",
+      "choice_data_list": [
+        "We might need someone to teach us.",
+        "We might need someone to teach us."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Someone to teach me...\nAbout poise and dignity, you mean?",
+      "choice_data_list": [
+        "Yeah, you have to understand the root of it.",
+        "Yeah, I need to understand the fundamentals first."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The mentality of those of high status. I had no choice\nbut to somehow seek guidance from someone who truly understood it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ah, that's right!\nIf it's an instructor in grace and dignity you need, I know just the person.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "If only I could ask for their guidance...",
+      "choice_data_list": [
+        "Who do you mean by \"that person\"?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Her fellow classmate—Her Highness Fine Motion. She is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "She is of royal descent and stands\non the stage of high society. However...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Considering she is quite busy with official duties,\nI wonder how much of her time she will be able to spare...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Of course I know about Fine Motion.\nI've spoken with her before, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Getting thorough, dedicated coaching would be a whole different story. Still, I decided to ask anyway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "Members of the press, please step aside.\nIt is now time for the young lady to head to school.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "All physical contact is strictly prohibited today. Please step back.",
+      "choice_data_list": [
+        "Fine, do you have a sec!?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Oh? You are...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "――!? Step back.\nI believe I said all contact is strictly prohibited.",
+      "choice_data_list": [
+        "I have a favor to ask, absolutely!"
+      ]
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "Persistent! If you approach without permission...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "—Permission granted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "Huh, Your Highness?\nHowever, letting such a suspicious person...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "They are not a suspicious person.\nThat is—Durandal's Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "He is the king to whom that obstinate knight offered her sword. She would never, ever be impolite to him. ...Right?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bodyguard Captain",
+      "text": "Mmm... If Your Highness says so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, we somehow managed to negotiate in person—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Good day, Durandal♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Fine-san...!\nI never imagined you'd actually come...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Because Trainer\nwas just so enthusiastic.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"I, Fine Motion,\nwas truly struck by your passion.\n...Just kidding!\"",
+      "choice_data_list": [
+        "No, no..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "All I could do was ask.\nI'm truly glad Fine Motion is such an open-minded Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Fine-san, I come from a commoner background,\nso I just can't seem to acquire true elegance no matter what.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I shouldn't panic. But when the critical moment comes,\nI always end up losing my composure...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I want to be more knightly.\nAlways majestic and dignified...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Yet, I cannot do it...\nI feel like I cannot move forward unless I solve this problem first.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I see, you were really troubled by that, weren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Trainer, by the way,\nhave you decided on our next target race yet?",
+      "choice_data_list": [
+        "Yeah, only vaguely though.",
+        "Yeah, only vaguely though."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Durandal will soon enter the Classic class.\nWhen it comes to the race representing the sprint division\nfor the Classic class, it has to be THAT race.\"",
+      "choice_data_list": [
+        "I was thinking of aiming for next spring's NHK Mile Cup"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "\"The NHK Mile Cup...!\nA prestigious 1,600m GⅠ!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "If you are aiming for that, then it is all the more reason to refine your elegance and poise...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"As I am now, I would only be overwhelmed\nby its prestige and make a fool of myself.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm, that's true...\nWhether in high society or diplomacy, if you feel out of place, you'll never fulfill your role properly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yeah, got it! Then I'll teach you the right mindset\nfor succeeding on the big stage.\nAnd then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I'll look into it. What Durandal is missing\nto become a proper knight, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Don't worry! I know plenty of people with \ngenuine knightly titles. \nIf I ask, they might give us some advice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Oh my, so many people I actually know!\nHow reassuring...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Your Highness, it is an honor.\nPlease, teach me what it truly means to be a knight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Durandal bowed respectfully.\nAnd so, her knightly training toward\nthe NHK Mile Cup began.",
+      "choice_data_list": []
+    }
+  ]
+}

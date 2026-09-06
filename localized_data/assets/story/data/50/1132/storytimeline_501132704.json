@@ -1,0 +1,279 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While out and about, we decided to visit a shrine that was supposedly hosting an unusual festival—\nHowever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(—*caw, caw...*)",
+      "choice_data_list": [
+        "—You haven't done anything?!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh dear? How strange.\nThis should be the right place, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...It was an oversight on my part.\nApparently, the temple fair ended yesterday...\"",
+      "choice_data_list": [
+        "I'm really sorry..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Fufu, you don't need to look so down, Trainer-kun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Fufu, you don't need to look so down, Trainer-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Even so, since we came all this way,\nwhy don't we take a walk until the bus arrives?\"",
+      "choice_data_list": [
+        "It'll be about a five-hour walk, though..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hmm... That sounds nice too, but walking to the train station together would be great, right?\nIf you get tired, I'll give you a piggyback ride! Okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "So peaceful~... The air is delicious,\nor rather, it feels almost sacred...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ah, look, lanterns over there! Leftovers from yesterday's festival,\nmaybe? Such a 'wabi-sabi' vibe, love it♡",
+      "choice_data_list": [
+        "...You really wanted to see the festival, didn't you?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Of course I was interested, but it's not like this is our only chance, right?\nLet's come together again if we get another opportunity.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Such nice weather~.\nAh, look! I found a heart-shaped cloud!",
+      "choice_data_list": [
+        "*pant*, *gasp*... Y-Yeah...!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Are you okay? Shall we walk a little slower?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Oh, isn't that a bench over there?\nLet's walk up to it and take a quick breather!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "To the station... about halfway left. Let's take it easy♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Catching my breath on a bench, I was filled\nwith guilt. Wasting her precious time\nall because of me...",
+      "choice_data_list": [
+        "I'm so sorry, truly..."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Why?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "There's not a single thing for you to apologize for.\nAfter all... I'm so very happy right now.",
+      "choice_data_list": [
+        "Huh—"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu.\nThere really is nooooothing on this road, is there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Anyway, it was unimaginably long,\njust an endless stretch of green rice paddies and blue sky.\nThe shrine was just a modest, ordinary place too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Still... even an ordinary view like this has plenty of things to love about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "The wind feels so nice. The grass smells so good.\nThe slow drift of the clouds is so soothing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Being able to share such small, simple joys\nwith you, Trainer-kun...\n...That alone makes me happy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Being able to share such small, simple joys\nwith you, Trainer-chan...\n...That alone makes me happy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Don't you think spending completely ordinary time\nwith someone you love... someone precious to you...\nis the greatest, most wonderful luxury of all?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Spending ordinary moments together, happiness, richness—her words resonated deep within me, and my heart suddenly felt much lighter.",
+      "choice_data_list": [
+        "Yeah... I'm so happy right now."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Fufu. Shall we get going soon?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Just being with you makes my legs feel so light, Trainer-kun.\nSo I'll give you a piggyback ride anytime!",
+      "choice_data_list": [
+        "No, my feet are starting to feel light too!",
+        "No, my legs are feeling pretty light now too!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"When I'm with you, Trainer-chan, my feet feel so much lighter.\nSo I can give you a piggyback ride anytime!\"",
+      "choice_data_list": [
+        "No, my feet are starting to feel light too!",
+        "No, my legs are feeling pretty light now too!"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ahaha!\nThen let's walk together after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "I'm ba~ck♡\nThat went by surprisingly fast, didn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After walking for over two hours, we finally got\non the train... It was a long journey home,\nbut it truly felt like it went by in an instant.",
+      "choice_data_list": [
+        "Thanks to you, I had a great time.",
+        "I had fun, thanks to you.",
+        "With love, anything is possible!",
+        "You can do anything if you have love!",
+        "I'd love to spend time like this again.",
+        "I'd love to spend time like this again."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After walking for over two hours, we finally got\non the train... It was a long journey home,\nbut it truly felt like it went by in an instant.",
+      "choice_data_list": [
+        "Thanks to you, I had a great time.",
+        "I had fun, thanks to you.",
+        "With love, anything is possible!",
+        "You can do anything if you have love!",
+        "I'd love to spend time like this again.",
+        "I'd love to spend time like this again."
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Same here! Thanks to you, Trainer-kun, I had so much fun♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Same here! Thanks to you, Trainer-chan, I had so much fun♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Because of each other,\nwe're always having fun and feeling happy.\nNow this is what I call love♡, don't you think!",
+      "choice_data_list": [
+        "Yeah!",
+        "Right!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It was a time where I could truly, deeply feel\nthe power that comes from the interplay of loving and being loved.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yes, that's what LOVE is!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"Love is about affirming the other person.\nAt times giving them a push, becoming their driving force.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "The feeling I am always able to experience,\nthanks to all my fans—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "If you could feel it too, Trainer-kun,\nI'd be so happy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"If you felt it too, Trainer-chan, then I'm super happy!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Ordinary, simple—yet filled with abundant love and rich moments.\nI quietly savor the preciousness of it all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—Fufu, I feel the same way.\nHowever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "\"It's not just today.\nAlways... every single day.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "No matter what time it is, every moment I spend\nwith you makes me so happy, Trainer-kun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Loves Only You",
+      "text": "No matter what time it is, every moment I spend\nwith you makes me so happy, Trainer-chan.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dantsu Flame",
+      "text": "Trai~ner-saaan.\nHellooo~.",
+      "choice_data_list": [
+        "Dantsu... are you feeling a little spacey or something?"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I've been so sleepy lately...\nMy head just feels all floaty and fluffy~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Mmm... It's so warm here...\nI feel like I'm gonna fall asleep~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "*Yaaawn*... *snooze*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...It seems fatigue has built up a bit.\nLet's reconsider the race schedule.\"",
+      "choice_data_list": []
+    }
+  ]
+}

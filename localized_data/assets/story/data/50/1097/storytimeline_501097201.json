@@ -1,0 +1,71 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"The Tulip Sho... A 1,600m race just like the Oka Sho, the first crown of the Tiara line, making it a crucial prep race.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There are still many unstable elements to Still in Love's instinct... To check on that, we made a sudden decision to enter the race.",
+      "choice_data_list": [
+        "Does everything seem okay with your condition?"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Yes.\nHowever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "...I am nervous.\nI feel like... I am receiving praise that I do not deserve.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Truth be told, following her running up to this point,\nshe had become a hot topic among the spectators as an 'interesting girl,'\nand her popularity was rapidly rising.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The journalists' coverage is brimming with passion;\none can feel their massive expectations for Still in Love.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "What should I do... if I ended up\nbetraying everyone's expectations?",
+      "choice_data_list": [
+        "It's all right.",
+        "It's okay."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Trainer...",
+      "choice_data_list": [
+        "As you are now, you're sure to win.",
+        "As you are now, you can definitely win."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "...Do you really think so?",
+      "choice_data_list": [
+        "Go on out there with confidence",
+        "Off you go, with confidence!"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "\"...If you'd go so far as to say that for me, Trainer...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "I... I'm heading out...!",
+      "choice_data_list": []
+    }
+  ]
+}

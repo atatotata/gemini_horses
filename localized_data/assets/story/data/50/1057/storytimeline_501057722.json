@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking down the hallway,\nI ran into Mr. C.B.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "! Whoa—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Phew... Thank goodness, it's you, Trainer.\nI thought you were another teacher.",
+      "choice_data_list": [
+        "Did something happen between you and Trainer?",
+        "Did something happen between you and Trainer?"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "It's nothing major.\nJust the usual thing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "\"Go to class.\"\n\"At least turn in your reports.\"\n\"Meet your deadlines.\"... That sort of thing—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...gh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Haa... My head and heart both feel so heavy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I'm going to take a short walk outside to clear my head.\nSee you later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mr. C.B. would be plagued by a headache for quite some time, all thanks to that relentless nagging...",
+      "choice_data_list": []
+    }
+  ]
+}

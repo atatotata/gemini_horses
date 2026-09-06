@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Calstone Light O",
+      "text": "Is it time yet? For the race.",
+      "choice_data_list": [
+        "Almost there.",
+        "Almost there, huh?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Too long. I can't wait.\nMy legs are itching to run this much, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I really feel like I can hit top speed today.\nI can't just sit still in a place like this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Come on, let's go!\nHurry, hurry! Quickly!!",
+      "choice_data_list": []
+    }
+  ]
+}

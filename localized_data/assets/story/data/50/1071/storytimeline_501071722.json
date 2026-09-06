@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "\"Somehow, it feels like Mejiro Ardan isn't quite in top form today...\"",
+      "choice_data_list": [
+        "Are you feeling okay?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh... So you can tell.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Truth be told, I've had a bit of a headache\r\nsince this morning.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "However, there is no problem. Pain of this degree is... ngh.",
+      "choice_data_list": [
+        "Don't push yourself too hard, okay? "
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Thank you for your concern.\r\nI'll see how it goes for a bit and then get back to training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Mejiro Ardan forced a smile,\r\nbut she was plagued by a headache for a while afterward.",
+      "choice_data_list": []
+    }
+  ]
+}

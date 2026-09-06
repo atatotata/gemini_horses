@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "Hey, hey, Trainer,\r\nis there such a thing as a \"Hot Delivery Service\"~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As soon as she walked into the trainer's office,\r\nHishi Akebono asked a rather strange question.",
+      "choice_data_list": [
+        "I don't think so... Why do you ask?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ehehe~ Actually, I got\na letter addressed to me~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"‘I love Bono-san's races! She's so huge and chugs along like a truck!’ it says♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I was so happy that I was going to write a reply,\r\nbut Mom wrote, 'You must be busy, so no need to write back'~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "So instead of a reply letter,\r\nI was thinking how about sending some homemade\n\"Nankai Chanko Nabe\" or something~♪",
+      "choice_data_list": [
+        "Are you sure they won't mind receiving that...?",
+        "Are you sure they won't mind receiving that...?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I see~. Well, either way, we can't send it\r\nwithout \"Hot Express Delivery\" anyway~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, I know! In that case, I'll send some homemade\r\n'Tub Ice Cream' via refrigerated delivery!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I've gotta go prep the ingredients right away♪\r\nJust heading to the local supermarket...",
+      "choice_data_list": [
+        "Let's just give a normal reply!",
+        "Let's just go with a normal reply!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I hastily stopped Hishi Akebono from starting her prep.\r\nIt seemed the letter had brought her a joy\ntoo big to fit in any bowl.",
+      "choice_data_list": []
+    }
+  ]
+}

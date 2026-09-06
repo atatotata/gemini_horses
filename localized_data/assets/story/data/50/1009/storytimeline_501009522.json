@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "One morning on a day off,\r\nI spotted Daiwa Scarlet in front of a pharmacy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Geh. Trainer!? Stop! Don't come any closer!",
+      "choice_data_list": [
+        "W-Why?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Why, you ask...? Well...\r\nI-I got a pimple... on my forehead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I deliberately left early this morning specifically to avoid running into anyone I know. Sheesh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "A-Anyway, that's the deal!\nSee ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Daiwa Scarlet seemed troubled by skin problems...",
+      "choice_data_list": []
+    }
+  ]
+}

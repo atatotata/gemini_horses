@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Gold Ship—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Whoa!? What in the world is that!?",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Look at that...! Inside that transparent box...!\nThere are so many Umamusume trapped in there!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Gold Ship points,\nI see a crane game filled with plushies\nmodeled after various Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Who the hell did something so awful!?\nDammit, I'm definitely gonna save you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gold Ship is calling out\nto the plushies inside the crane game...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Hey, Trainer. You're not the kind of softie who'd\nabandon a captured Umamusume, are you?\"",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Alright, go raise some serious hell out there!\nI'll be right here bearing witness to the rescue of the century!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

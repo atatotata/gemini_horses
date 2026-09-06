@@ -1,0 +1,375 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"One day, after the busy days had settled down, Sakura Laurel paid a visit to my room.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Trainer, the promised day has arrived!\nAre you ready?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Off to the hot springs♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The \"Hot Springs Trip Voucher\" won in the shopping district raffle back around New Year's.\nGetting to the resort requires transferring between multiple trains.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "It's gotten quite warm, hasn't it?\nMaybe we won't even need jackets soon?",
+      "choice_data_list": [
+        "Let's grab a cold drink. What would you like?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Huh, are you sure?\nThen... hmm, green tea please♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"First, let's buy a drink for Sakura Laurel. Pressing the vending machine button...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vending Machine Voice",
+      "text": "\"7777! Congratulations!\nYou win another one!\"",
+      "choice_data_list": [
+        "Huh?!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Whoa, you can actually win on that roulette!\nYou're so lucky, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's rare for me to have good luck like this. Grabbing the drink that dropped from the vending machine, I boarded the train.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...! Trainer-san, look!\nOver there, see?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I didn't know things like this could happen.\nA rainbow, even though it hasn't rained...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Innkeeper",
+      "text": "Congra~~tulations~!\nYou are our facility's 100,000th guests!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Innkeeper",
+      "text": "In addition to what you've reserved,\nwe'll be providing extra complimentary services today!",
+      "choice_data_list": [
+        "Whaaat!?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "A-A-Amazing! Incredible!\nWhat a streak of good luck, Trainer!",
+      "choice_data_list": [
+        "If anything, it's scary how..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A stroke of luck like this doesn't happen very often.\nWondering what was going on, I felt a mix of joy and unease when...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I'm not scared, not scared at all♪\nToday was just one of those days.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Since we're here, why don't we take full advantage of the services\nand indulge in the utmost luxury?\nLetting our bodies slowly and deeply unwind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "If things keep going this well,\nI'm sure the hot springs will be wonderful too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the bath...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Haaah... The view from the open-air bath was top-notch too... A solid three stars...♪",
+      "choice_data_list": [
+        "This really is a great inn...",
+        "This really is a lovely inn..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Setting aside my momentary worries, the hot springs, the food, and everything else were a perfect ten out of ten.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Shall we get going soon, then?\nTo that classic hot spring thing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Apparently, they're doing acupuncture and massage\nin the room next door.\"",
+      "choice_data_list": [
+        "If I recall, you said you're open to trying massages, right? ",
+        "If I recall, you said you're open to trying massages, right? "
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yes♪ Actually, I spoke to the attendant earlier\nand made a reservation under both our names—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "Oh my~!! Welco—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Screeech, slam!)",
+      "choice_data_list": [
+        "...Are you sure this is the right room?"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Y-Yes!\nEven the confirmation slip I got when booking\nsaid it was this room, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Since this is such a top-tier facility,\nI don't think they'd hire anyone suspicious, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "Jeez, you shut the sliding door so suddenly, it startled me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "But as a special treat, I'll forgive y-o-u!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Screeech, slam!)",
+      "choice_data_list": [
+        "(I really have a bad feeling about this...!)"
+      ]
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "\"Now, now, now, now~!\nEven a saint runs out of patience after three strikes!\nCome on, up onto the exam table you go~♪\"",
+      "choice_data_list": [
+        "Whoa, you got me!?",
+        "Wh-what, I got caught?!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Trainer?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "Now then, what'll be on your menu?\nA pressure point for health and vigor?\nOr maybe a boost in charm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Um... Trainer-san,\nhow about I get the treatment first instead?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "Oh, is that so~?\nWell then, lie face down on the next table.",
+      "choice_data_list": [
+        "No, please let me go first!!",
+        "No, please let me go first!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "There's nothing wrong with the facility itself,\nbut the acupuncturist's appearance\nmakes me undeniably uneasy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Whether it's safe or not. Until I know for sure,\nI don't want anyone laying a single finger on Sakura Laurel.\nSteeling my resolve here—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "Now, relax your muscles~... And jab-a-roo!!",
+      "choice_data_list": [
+        "Urk...!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Trainer?!\nYou just groaned, didn't you...?",
+      "choice_data_list": [
+        "It doesn't hurt...! My body feels so much better!",
+        "It doesn't hurt...! My body feels so light!"
+      ]
+    },
+    {
+      "name": "Acupuncturist",
+      "text": "I am so terribly sorry! Thank you for waiting!\nFor Sakura Laurel-sama, who made the reservation, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Acupuncturist",
+      "text": "...Who are you?\nYou're not part of our staff, are you...?",
+      "choice_data_list": [
+        "Huh...?"
+      ]
+    },
+    {
+      "name": "Familiar Acupuncturist",
+      "text": "Kyaha~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Acupuncturist",
+      "text": "H-Hey! W-Wait up~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Umm...",
+      "choice_data_list": [
+        "...Let's have a proper professional treat you."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "That's true... Ahaha.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The facility staff apologized profusely, and Sakura Laurel was safely treated to a massage by a properly verified member of the staff.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...We did run into a rather eccentric person, but it turned out lucky in the end. It looks like your body loosened up nicely too, Trainer.",
+      "choice_data_list": [
+        "It was a blessing in disguise."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu. \"Fortunate,\" you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Trainer-san.\nDo you remember what happened\nshortly before we formed our team?",
+      "choice_data_list": [
+        "Umm..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The first time I offered Sakura Laurel a contract\nwas during her debut race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When I listened to her dream and told her,\n\"I want to make your dream come true together,\"\nSakura Laurel told me to hold on for a moment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Even if those feelings are real, it's quite far off...\nCould you wait until a distant season?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And then spring arrived, I met her once again,\n...and began pursuing our dream.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Back then, I thought that if I waited a little longer,\nmy legs might get into better shape.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"That is why I made you wait.\n...Yet my legs remain unchanged.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Combined with the fact that I had already entered my prime, I grew terribly anxious.\nI started to wonder if I might even miss my chance to debut.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"...Come to think of it, even before the Classic period, right from the debut stage,\nI might have been rushing things.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Of course, I've had brief moments where I thought about it.\nWondering why I ended up as an Umamusume who's so 'unblessed.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "—Still, I managed to find happiness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"Having been able to run alongside you,\nI was able to taste such magnificent happiness.\"",
+      "choice_data_list": [
+        "...I'm really happy too.",
+        "...I'm really happy too."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "\"On n'a qu'une vie.\"\n—You only live once.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "I'm so glad that you were my partner\nfor that one time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was a moment where I felt\nan irreplaceable bond\nbetween Sakura Laurel and myself...",
+      "choice_data_list": []
+    }
+  ]
+}

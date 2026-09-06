@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Royce and Royce",
+      "text": "Ah! ...Oww.",
+      "choice_data_list": [
+        "Do you have a headache?"
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Yes. It's been hurting since last night.\nI took some medicine, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "This is troublesome. I have a mountain of rival\ndata analysis to get through after this.\nI hope this kicks in quickly.",
+      "choice_data_list": [
+        "You really shouldn't push yourself too hard..."
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "I know. ...But I feel so restless.\nThe road to being the strongest is only half-traveled; I have no time to be held back by a headache—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Ow...! Ah, geez!\nWhat a huge pain!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Perhaps it's the toll of using her eyes so much,\nbut Royce and Royce found herself plagued\nby headaches.\"",
+      "choice_data_list": []
+    }
+  ]
+}

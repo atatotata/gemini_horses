@@ -1,0 +1,388 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is Christmas.\nInvited by Viblos's family—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She was attending a private, family-only party\nat the villa they owned.",
+      "choice_data_list": [
+        "Excuse me, are any of your family members..."
+      ]
+    },
+    {
+      "name": "Sisters' Mother",
+      "text": "Don't worry about it, I was the one who invited you.\nIf anything, thank you for coming, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Father",
+      "text": "We usually go all out for Christmas every year,\nbut this year we kept it modest, just as Vivlos asked!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Father",
+      "text": "It's not much, but I've prepared\nsome food for you!\nPlease help yourself!",
+      "choice_data_list": [
+        "Thank you very much."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I look at the dishes laid out before us.\nA large turkey, a heaping salad, a huge pot\nof soup, and buffet-style small plates—",
+      "choice_data_list": [
+        "...Modest?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Huh? Ah, umm... It's not much, but...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I mean...\nBig Sis, why are you in your school uniform?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"I have academy business to attend to\nafter this.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"...I'm preparing for the next race.\nI have to get my revenge myself, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"...I need to do my training too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Mother",
+      "text": "Yeah, everyone's got a lot to do...\nShould we wrap things up before it gets dark?",
+      "choice_data_list": [
+        "(It can't be helped, but still...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Vivlos loves her family and was so happy\nwhen everyone could get together.\nI worry she might feel lonely—",
+      "choice_data_list": [
+        "Come to think of it, where is Vivlos?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Happy holidays♪\nHappy, happy holidays~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Suddenly, the room goes pitch dark.\nThen, accompanied by Viblos's singing,\na faint light draws closer...",
+      "choice_data_list": [
+        "Cake...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "When the lights came on, a somewhat clumsy Christmas cake was sitting on the table. Arranged atop the pure white cream were—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "These doll-like things...\nCould they be... us...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yeah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "The biggest one is Papa, the second is Cheval-chi,\nthe third is Big Sis, and the fourth is Mama!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "And the little one in the middle is me!",
+      "choice_data_list": [
+        "Then next to that is...?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Of course, for you, Trainy!\nI call it the 'I Love You Cake'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "You made this?\nAll of it, by yourself...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "That's right!\nI asked a friend for the recipe—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "I did all the rest by myself!\nEven if I messed up a few times along the way, hehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "You know... it just really hit me.\nI just love everyone so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "If you have lots of fond memories, you won't feel lonely even when we're apart, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "I was just hoping today would be that kind of day!\nSo I'm totally fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "'Cause I'm always with everyone♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Vivlos...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Mother",
+      "text": "Uuugh, Vivlos-chan.\nYou've reaaally grown so big, haven't you~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Father",
+      "text": "I know it's selfish, I know it's super selfish of me!\nBut I still feel lonely...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sisters' Father",
+      "text": "Keep on begging and being selfish as much as you want!\nVivlos~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"Oh, Papa, really.\nWatching Vivlos grow up...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...*sniff*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "B-Big Sister...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Well... I get it, but still.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Jeez, what's with everyone?! Nothing about me has changed at all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "It just means there are more people\nI can be needy and selfish with!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"So it's totally fine!\nRight, Trainy? ♡\"",
+      "choice_data_list": [
+        "…Me!?",
+        "...Me?!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "You'll always be by my side, right, Trainie?\nWe're Trainer and Umamusume, after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "So don't worry, everyone♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Wh-What is this feeling...?\nEven though I feel safe and relieved...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Trainer...\n...I'll be in your care...",
+      "choice_data_list": [
+        "Y-Yes...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively family-only Christmas party continued on—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "—See ya later,\neveryooone!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Haaah,\nthat was so much fun ♡",
+      "choice_data_list": [
+        "...Aren't you lonely?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ehh, of course I'm sad!\nI wanted to be with you longer, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Told ya so!\nI said it'd be fine since Trainy is with me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Hey hey, we still have time, right?\nLet's hang out a little more!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Since we're here,\nI wanna party like a total celeb!\"",
+      "choice_data_list": [
+        "I thought today wasn't supposed to be \"small-scale\"?",
+        "Isn't today supposed to be \"small-scale\"?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hmm, looks like I changed my mind after all♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "You know,\nthere's this new trend among celebrities!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Is this what they call an ugly sweater?\nI got one for you too, Trainy, so let's wear them together ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "—Kyahahaha!\nTrainy, you're totally a tree!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I had a wonderful time\nhanging out with Vivlos until the evening.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Hey hey, since we're here,\nlet's go out somewhere!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, transferring between cars and trains from the villa,\nwhere we headed was...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Kyaa,\nthings are really heating up~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trainie!\nThe Christmas market is open!",
+      "choice_data_list": [
+        "Huh, there are so many varieties out there.",
+        "Huh, there are so many varieties out there."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Even over in Dubai, Christmas is super lively, you know!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "I heard it's warm over there even this time of year,\nso you can meet Santa in short sleeves♪",
+      "choice_data_list": [
+        "Huh...!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Got you interested?\nYou curious now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"You want to spend Christmas together in Dubai someday?\"",
+      "choice_data_list": [
+        "Looks pretty tough, huh..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The races in Dubai take place in March. Christmas time is still too early for an overseas expedition.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Then why don't you just move in with me? ♡",
+      "choice_data_list": [
+        "Live there?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "I haven't given up on my dream of living in Dubai either, you know!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "It might be tough with everyone, but...\nwith a new family, it seems doable, don't you think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Right?♡\nTrainy~?",
+      "choice_data_list": []
+    }
+  ]
+}

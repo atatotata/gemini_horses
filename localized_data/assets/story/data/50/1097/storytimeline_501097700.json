@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Still in Love",
+      "text": "Good... morning...\n...*yawn*...",
+      "choice_data_list": [
+        "You look sleepy.",
+        "You look sleepy."
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "—...Ngh. I-I'm so sorry...\nTo let you see me in such an unsightly state...",
+      "choice_data_list": [
+        "Haven't you been able to rest much...?"
+      ]
+    },
+    {
+      "name": "Still in Love",
+      "text": "Y-Yes...\nUm... I've just been having a little trouble sleeping...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Still in Love",
+      "text": "(...I can't tell them. That I stayed up late\nbecause I was pouring my feelings for Trainer into my diary...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Still in Love couldn't get a good night's sleep...",
+      "choice_data_list": []
+    }
+  ]
+}

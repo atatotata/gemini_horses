@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One evening, I happened upon Manhattan Cafe and\r\nAgnes Tachyon talking together—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Well, well—if it isn't Cafe's Trainer.\r\nPerfect timing. Mind lending me a hand as well?\"",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "An \"investigation.\" Have you heard the rumors of mysterious phenomena around the academy lately?\nThe kind often referred to as the \"Seven Wonders.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"I've been curious for a while now about what kind of effects we experience\r\nwhen observing them. That's why I asked Cafe to come along\nand help me investigate.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Couldn't you just do this by yourself...?\r\nWhy drag me into it...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Don't be so cold, Cafe~.\r\nI selected you because I have high hopes\nfor your aptitudes as an event observer, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Besides... heh-heh. There is someone who is likely being influenced by you! Which means we can expect even greater results!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Come along, everyone!\r\nLet us embark on a journey into the uncharted! Hahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...Sigh. Once she gets like this, she won't listen.\r\nI'm sorry, Trainer,\nbut could you humur her for a bit...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I ended up accompanying Agnes Tachyon on an impromptu paranormal investigation tour of the academy—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—The rooftop in the evening.\r\nSomeone is dancing over on the other side, but...\nit's hard to make out from here with the setting sun in my eyes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "—Case 1: \"The Black Shadow Dancing on the Rooftop.\"\r\nThough it seems... this one's a bust.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "There are no moving objects that could be mistaken for dancing shadows...\r\nand it's hard to believe anything was missed in this bright light.",
+      "choice_data_list": [
+        "………………Huh?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "…………………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "—Oh well, no matter! There are plenty more rumors.\r\nLet us move briskly along to the next one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Despite feeling an intense sense of unease,\r\nI continued to follow behind Agnes Tachyon\nas she led the way—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Case 4: 'Weeping Heard in the Hallway at Night.'\r\n...............All clear here too, huh. Next!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cries Echoing in the Hallway",
+      "text": "*sniffle*... *sob*... *weep*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Case 9: 'Eerie Sounds Resonating from the Tree Hollow.'\r\nMmm... Nothing unusual here either...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sound Echoing from Hollow",
+      "text": "Oooooooooooooo...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "—Hmph. To think we wandered this much\r\nand couldn't observe a single plausible phenomenon!\nI had high hopes since I was with you all, but... what a shame.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was all so strange to me,\r\nbut while hesitating over whether to speak up about it,\nI ended up walking a full lap around the academy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Is that all?\r\nWell then, we'll be taking our leave—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Wait, wait! From here on, it's Plan B.\r\nI've learned that behavioral observations centered on myself yield no results. Therefore—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Trainer. Let's hear your opinion.\r\nAdding a new perspective to our past observation methods will eliminate my cognitive biases.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "So, what do you think I should do next?",
+      "choice_data_list": [
+        "Just make a clean break and give up.",
+        "Let's patrol through the night."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "—Hmph. So from your perspective,\nwe've run out of moves for tonight, is that it?\nThen we shall follow your judgment and call it a day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Dragging me around everywhere like that... You're far too pushy...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Heh heh, I do apologize for that.\r\nEven I didn't expect it to be such a total swing and a miss.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Observing Café like usual would have been far more meaningful than this. Bwahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "............What a self-centered person.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Trainer...\r\nThank you... for keeping her company today...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As Manhattan Cafe walked back to the dorm alongside\r\nAgnes Tachyon, there seemed to be something...\nwarm about the sight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Heh heh, hardly a suggestion befitting a trainer!\r\nAnd yet, I like it. I like it very much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Now that that's decided, let's verify all the rumors once more.\r\nThe time of day might be a factor as well.\nYou'll join me, of course, Cafe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "......If you say so, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Haha!\r\nAll thanks to your Trainer, huh!\nI can't wait to see how it turns out this time—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...Please don't tell Tachyon-san about what you saw and heard today, Trainer.\"",
+      "choice_data_list": [
+        "Why?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "I don't think she would... accept it or be happy about it... unless she sees it for herself...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "――Heeeey, you two!\r\nHurry on over! Time is limited, after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "............Shall we be on our way?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the end, the phenomenon Agnes Tachyon hoped for\r\nnever occurred, but the night offered a glimpse into\nthe curious bond and dynamic between the two...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\r\nwith Gold City...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "S-So that's \"Paka Petit\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gold City's gaze was fixed on\r\na crane game filled with plushies\ndesigned after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Only girls everyone has high hopes for\nget to be modeled into Paka Petits, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "So... well, um.\r\nMaybe there's none, though.",
+      "choice_data_list": [
+        "Maybe they'll even have a Paka Petit of City!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...You're expecting too much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "“Want to take a quick peek anyway?\nThey actually look pretty well-made for plushies.”",
+      "choice_data_list": [
+        "Then you should probably hold the real thing and see for yourself.",
+        "Then you should probably hold the real thing and see for yourself."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh? Why are you pulling out your wallet?\r\nDon't tell me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Gold Ship looked\r\nsomehow down in the dumps.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ah... mayday, mayday.\r\nThis is Gold Ship speaking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Currently out of fuel. Out of fuel.\nSwitching to low-power mode. Over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "—Guh.",
+      "choice_data_list": [
+        "(Standing up...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For the sake of her future success, it seems we'll need to review her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

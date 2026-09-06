@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Gold City had to leave for her modeling job soon.\r\nWhile we were chatting before then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Sorry, do you mind if I sit on the bench for a bit?\r\nI'm still listening.",
+      "choice_data_list": [
+        "Are you tired, by any chance?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Pretty much. So let me rest while I can.\r\nIf my manager catches me staggering around, she'll nag my ear off.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Well, don't worry, I'll do just fine.\r\n*sigh*... Honestly though, I really just wanna slack off...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems she's accumulated quite a lot of fatigue.\nPerhaps I should reconsider our upcoming race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

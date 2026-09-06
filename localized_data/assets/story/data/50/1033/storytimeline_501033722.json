@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "It happened while I was proposing\r\na training regimen to Admire Vega.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "…………。",
+      "choice_data_list": [
+        "Is something wrong?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...It's nothing.\nI'm just going to get some fresh air—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ngh...!",
+      "choice_data_list": [
+        "Does your head hurt?",
+        "Do you have a headache?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Don't worry about it.\r\nI took my medicine, so it'll pass soon—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ugh...!",
+      "choice_data_list": [
+        "Don't push yourself if it's too tough."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "\"...You're right.\r\nI should have kept you updated on my condition.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seems Admire Vega\r\nis troubled by a headache...",
+      "choice_data_list": []
+    }
+  ]
+}

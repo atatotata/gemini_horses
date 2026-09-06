@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While heading to the Trainer's office\r\nwith Machikane Tannhauser—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ugh... It hurts...",
+      "choice_data_list": [
+        "Headache?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Yes... Ever since I woke up this morning...\r\nDid I do something unhealthy, I wonder...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Um... No issues with recent sleep duration.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Her workout duration hasn't changed much either,\r\nand she's eating hearty meals...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "âAh, the atmospheric pressure is low today,\r\nso that might be the cause.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "All right! Once I get back to my room,\r\nI'll make a teru teru bozu so the weather clears up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Te~ru teru teru, mun mun mu~n!\r\nPlease bring out the warm, sunny weather~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ouch... Singing makes my head...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Matikanetannhauser was troubled\r\nby a headache for some time.",
+      "choice_data_list": []
+    }
+  ]
+}

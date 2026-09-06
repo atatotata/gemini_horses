@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "Ah... you don't think\r\nthe claw in this machine is weak, do ya?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "So it's not like yer skills were lackin' or anythin',\r\nthe difficulty was just cranked to MAX from the get-go.\nSo, ya know...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Put that wallet away, please...!\nAny more than this and we're in way too deep...!",
+      "choice_data_list": [
+        "Just one more time...!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Uggh, no more...!\r\nI can't stand watchin' money vanish right before my eyes anymore...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

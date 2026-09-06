@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oh man...\nI can't blow this bubblegum properly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Even after chewing extra gum, it doesn't feel like it's going to blow a bubble at all...",
+      "choice_data_list": [
+        "Are you feeling off, by any chance?"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Mmm, true, people tend to make a lot of careless mistakes at times like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Actually, things might be in the danger zone...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Bubble Gum Fellow might still be feeling the fatigue from the race.\nIt would be best to review her schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

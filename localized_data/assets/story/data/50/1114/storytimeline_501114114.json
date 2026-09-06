@@ -1,0 +1,431 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While training day by day towards the Hanshin Juvenile Fillies, on the other hand—",
+      "choice_data_list": [
+        "(As a Trainer, I need to grow even more!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "My task is to build up strength worthy of Buena Vista's true caliber.\nWhile pondering this—\nI spotted the Buena Vista \"trio.\"",
+      "choice_data_list": [
+        "(Are those... the other girls from my generation?)"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, your stories are always so exciting...\nand fun, Nakayama-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？？",
+      "text": "...Buena Vista-chan.\nFamous without even saying it!\nA heroine of the academy, beloved by all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha, that's what happens when you're always taking risks.\n...Wanna give it a try too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？？",
+      "text": "And this is Nakayama Festa-chan.\nShe has a bit of an outlaw vibe, but she's\na true gambler with a passionate heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Nakayama, seriously, cut it out, okay?\nBuena-chan is totally pure, you know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Fufu... Everyone is full of energy\nagain today, it's so much fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？？",
+      "text": "\"Tosen Jordan-chan! A gal with true grit!\nWonder Acute-san!\nShe's warm and sweet, just like a grandma~\"",
+      "choice_data_list": [
+        "I see... Wait, who have you even been talking to this whole time?!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Hey hey~.\nIt's the academy's info broker, Transcend~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "You're Buena-chan's\nTrainer-chan, right?",
+      "choice_data_list": [
+        "That's true, but..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "I think you already know, but... including me,\nwe're all in Buena-chan's class year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "And so, I went ahead and introduced them all at once~.\nWell, what do you think? Quite the stellar lineup, right?",
+      "choice_data_list": [
+        "Yeah, they all seem pretty talented.",
+        "Yeah, everyone seems so talented, huh?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"If there's anyone you're interested in, just let me know.\nI wouldn't mind hooking you up with some info~\"",
+      "choice_data_list": [
+        "I-Information, you say...?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, I know you only care\nabout Buena-chan, though.",
+      "choice_data_list": [
+        "...By the way, what kind of thing is it?",
+        "...By the way, what kind of thing is it?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, of course!\nAnything you wanna know, just ask away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Like, finding ways to support Buena-chan, for instance.\n—Filling in what's missing, you know?",
+      "choice_data_list": [
+        "! Why would you——"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Fufun, don't you dare\nunderestimate an informant.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "So with that, feel free to call on me whenever~.\n...This sounds like it's gonna be fun♪",
+      "choice_data_list": [
+        "Ah...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "As her childhood friend, I like to think I know Buena Vista well. But naturally, we haven't spent every moment together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I can understand the parts of her I don't know...\nI might find a hint to help her.\nAnd if I do, I might get closer to the state she reaches—\"",
+      "choice_data_list": [
+        "(...Maybe I'll rely on them for this.)"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, you made it~\nBeen waiting for ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "You want to know more\nabout Buena-chan, right?",
+      "choice_data_list": [
+        "About everyday life at the academy",
+        "Recent Obsessions",
+        "Buena Vista as Seen by Transcend",
+        "I'm alright now."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Her day-to-day school life, huh...\nYes, yes, we've gotten plenty of anonymous tips.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ooh, found something interesting.\n\"Once, when Buena-chan forgot the paper dictionary\nshe needed for class—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Hearing about it, a crowd of students from other classes came over to lend theirs. For a moment, there was pushing and shoving, and the sounds of dictionaries flying around echoed through the hallway.\"",
+      "choice_data_list": [
+        "She sure is well-loved...",
+        "She sure is well-loved..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"So, is there anything else you'd like to ask?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Let's see,\nspeaking of recent events...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Looks like she's really into the cafe's salad bowls. She tries a different dressing every time, apparently.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"According to the friend who went with her,\n'It was so cute watching her struggle, forgetting which dressings she hadn't tried yet'... apparently.\"",
+      "choice_data_list": [
+        "I see..."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"So, is there anything else you'd like to ask?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Well... to me, Buena-chan is...\nTotally like a real idol, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Going all-in on cuteness! But at the same time,\nshe's approachable...\nand with that inner strength, she's got a cool side too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Like being the center of a mega-idol group?\nIt really gives off that 'chosen one' vibe, y'know~?",
+      "choice_data_list": [
+        "(...Well, that's true, I suppose...?)"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "\"So, is there anything else you'd like to ask?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hold on a sec. You heard that info, right?\n...Ah, don't tell me you've already had enough?\nGuess that's a wrap then~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, yeah?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "And finally...\nA little piece of advice for you, Trainer-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Buena-chan's base stats are pretty high.\nIf you want to stand on equal footing with her,\nraising your stats is a must.",
+      "choice_data_list": [
+        "Base stats...? Stat grinding...?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "In short, you gotta build it up step by step.\nTry exploring and learning a wide variety of things.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "In the end, it all comes down to how hard you worked.\nIf you wanna handle the unexpected, I definitely recommend steadily building up your fundamentals, y'know?",
+      "choice_data_list": [
+        "True... thanks for telling me!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I immediately went to the library to review the basics.\nI also read not only the latest training papers, but papers across various fields to learn comprehensively.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"On another day, to understand how it feels to be on the receiving end of coaching,\nI asked a senior Trainer and tried tackling half a day's worth\nof an Umamusume's training regimen myself.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "Hey! You're not keeping pace!\nYour form's falling apart too, stay focused!",
+      "choice_data_list": [
+        "Y-Yes...! Whoooooa...!"
+      ]
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "Oh, nice!\nJust keep sprinting right past tomorrow and into the day after!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "One night. After training was over,\nI was applying what we'd learned so far to devise\na strategy for the next race, when...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Excuse me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Thanks for working so late!\nI brought some snacks for you.",
+      "choice_data_list": [
+        "Is this...?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Late-night snack time! I packed some rice balls\nand a few side dishes for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"You haven't had dinner yet, right?\n...Let's take a quick break.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Hey,\ndoesn't this feeling seem a little nostalgic?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Studying for the trainer academy entrance exam.\nBack then, too, they were working hard and studying late into the night—",
+      "choice_data_list": [
+        "You brought refreshments for everyone.",
+        "You brought refreshments."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Yeah. While taking a break,\nwe chatted about all sorts of silly things.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...To be honest, even now I still wonder a bit\nif maybe I was just intruding back then, but...\"",
+      "choice_data_list": [
+        "Not at all. ...I was happy."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She had always watched over her and cared for her.\n...Casually and effortlessly, just like right now.",
+      "choice_data_list": [
+        "Hey, Buena.",
+        "Hey, Buena"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She must be wondering if I'm pushing myself too hard, or strung too tight.\nIf I'm overworking myself... That's what she's worried about. But—",
+      "choice_data_list": [
+        "I can keep going. I'll be fine",
+        "I can keep going. I'm okay."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh...",
+      "choice_data_list": [
+        "Because it's what I've been doing all this time."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Nothing has changed since my days taking the training academy entrance exams.\nMy motivation remains one and the same—and I already know there's no limit to how hard I'll push myself for it.",
+      "choice_data_list": [
+        "I'd do anything to stay by your side.",
+        "I'd do anything to stay by your side"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！",
+      "choice_data_list": [
+        "Will you watch over me for a while?",
+        "Will you watch over me for a while?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah.\nGot it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"I've got so... sooooo many things\nI want to say, but...\nFor now, I'll swallow my words.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You're going to try your best for me, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Instead... please let me watch over you by your side for just a little longer today, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Because I want to take a good, long look at you as you are right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Buena Vista waited until I finished working.\nAs we stepped outside the academy to walk her back to the dorm...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, Buena-chan and Trainer-chan... hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ohooo~?\nI see, I see...",
+      "choice_data_list": [
+        "...Is, is something wrong?"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Looks like you cleared the event.\nNot bad~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Alright, guess my work here is done?\nEnding up as \"just friends\" would be too sad a consolation, so\nkeep on working hard without slacking, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Um.\nDid something happen with Tran-san?",
+      "choice_data_list": [
+        "...I was taught all sorts of things, yeah.",
+        "...You really taught me a lot of things, huh."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Thanks to Transcend, I grew a little.\nIn my heart, I put my hands together in gratitude\ntoward the departing informant's back...",
+      "choice_data_list": []
+    }
+  ]
+}

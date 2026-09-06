@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "For some reason, Shinko Windy seems\ndifferent than usual...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Urrgh...",
+      "choice_data_list": [
+        "...Are you okay?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "I drank the medicine Mom packed for me.\nSo obviously, I'll get better in no ti—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Au...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "If only Mom could pat my head...\nThe pain would just fly right away...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Shinko Windy ended up suffering from a headache.",
+      "choice_data_list": []
+    }
+  ]
+}

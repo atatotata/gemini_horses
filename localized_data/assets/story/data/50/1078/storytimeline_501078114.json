@@ -1,0 +1,338 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "Oh, it's Zephyr.\nHey there~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hello, Zephyr-san.\nAre you heading off to lunch?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hello.\nYes, I'm feeling a nice, warm sun today, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "I was thinking of having it somewhere close to the sun, if possible.\nThough I haven't quite decided on the spot yet—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...—Ah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Renga-hane-san's voice...\nFufu, let's head over there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Well then, I shall take my leave.\nMay the wind of hospitality bless you both.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...There she goes.\nMan, she really just marches to the beat of her own drum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "I mean, you brought a bento today too.\nMaybe it's a good thing I didn't ask,\n\"Wanna hit the cafeteria together sometime?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Well, they're not a cold person, so\nI feel like if you had spoken up, they\nwould've taken it into consideration, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "She truly is like a free wind,\nbound by neither her surroundings,\nnor anyone, nor anything.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yeah, that's true.\n...Ah, but wait.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Well, I was just thinking earlier, 'maybe I should invite them out for once,' you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Somehow, I feel like her vibe has changed a little bit lately compared to before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "W-Well, rather than having changed...\nit feels more like she's 'in the middle of changing'?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—If I recall correctly, that happened back when\nI had just started training Yamanin Zephyr.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Training was halted due to a sudden downpour,\nand I was idly watching TV in the trainer's office\nto pass the time, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Audio",
+      "text": "“—And now, onto our next segment:\nRising Star Discovery!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Audio",
+      "text": "\"We're introducing all the notable Umamusume debuting this year at once! Perhaps the next hero will be born right here? You won't want to miss this!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ah... Trainer-san.\nJust now, the south wind outside shifted from dark to bright.",
+      "choice_data_list": [
+        "Um... looks like the rain stopped?",
+        "Um... looks like the rain has stopped?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes. Looks like I can run.\nLet's resume our training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Audio",
+      "text": "\"First, hopes are high for her to make waves in the mile division\nwith her signature powerful running—\"",
+      "choice_data_list": [
+        "...Are you sure you don't want to watch the rest?",
+        "...Are you sure you don't want to watch the rest?"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "? Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even though there might be strong rivals\nin this bunch worth keeping an eye on?\nI almost asked that, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...In the race, I shall become the true wind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "No matter what kind of lightning-swift typhoon\nis swirling around her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "The strongest, the fastest,\nI will blow past all of it and beyond.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "—That is all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I had felt it during her debut race—no, ever since\nwe first met—Yamanin Zephyr's easygoing, at-her-own-pace\nnature was truly on another level.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Never wavering. Never bound. Never influenced.\nTruly, like the free wind itself—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Or so it was supposed to be, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "…………………………。",
+      "choice_data_list": [
+        "(She's glued to the TV...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Actually, I called out to her several times,\nbut there was no response at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She, who was meant to be the formless wind, was caught in a firm grasp and held tight.\nReflected on the screen was her destined partner.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Tokai Teio!\nTokai Teio has taken the lead!\nShe charges up the final slope toward the Satsuki Sho!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "In the lead is Tokai Teio, showing off that legendary burst of speed!\n—Tokai Teio crosses the line first!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "The winner is Tokai Teio!\nIt's Tokai Teio!\nShe is truly the \"Undefeated Emperor\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "“—And with that, that was a digest look\nat the other day's race!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Once again, Tokai Teio.\nCongratulations on your four-race winning streak since debut!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nishishi~ Thanks a bunch♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "With this, just as declared earlier,\nshe heads into the Satsuki Sho—the first leg of the Classic Triple Crown—completely undefeated!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Please, tell us about your determination.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Of course I'll win!\nI'm not stopping to celebrate four consecutive wins with a 'Hooray!'.\nThis is where it really begins!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "I'll win the Satsuki Sho, the Japan Derby, and the Kikuka Sho to become an 'undefeated Triple Crown Umamusume'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporters",
+      "text": "Ooooh...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ah, as expected...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Keeping her gaze fixed on Tokai Teio, who smiles with utter confidence,\nYamanin Zephyr quietly mutters under her breath.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She had shown a certain obsession\nspecifically toward Tokai Teio from way back, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Ever since the day I heard they had a long, deep talk together,\nthe vector of those feelings seemed to grow stronger and stronger.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(\"Undefeated Triple Crown Umamusume\"...\nThat was the very title earned by \"The Emperor.\")",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(As expected, Teio-san, you too are\nchasing after the wind of your admiration—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "\"So after all, it seems you need only steadily walk the path to becoming the 'Emperor' of the new generation...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"Hm? ...Ah, well, you see...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"I think that's a bit off!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Prez is my idol.\nThat's why I want to be an Undefeated Triple Crown Umamusume,\njust like her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"That's not my finish line, though!\n—My dream lies much, much further ahead.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "You know, I'm gonna become an 'Empress' who surpasses the 'Emperor.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Someday, I'll definitely surpass that great back I look up to!\nI'm going to become the strongest, invincible Emperor!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "…………！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(...—Surpass.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Surpassing the one I look up to—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...A sudden gust of wind blows in through the wide-open window.\nCarried along with it were cherry blossom petals.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The New Zealand Trophy is right around the corner.\n—A turbulent spring is approaching.",
+      "choice_data_list": []
+    }
+  ]
+}

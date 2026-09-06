@@ -1,0 +1,427 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Today is the Spring Fan Appreciation Festival.\r\nThe Umamusume are interacting all over campus\nwith the many fans who have gathered.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Satono Diamond was also surrounded by female fans,\r\nhappily chatting away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "I really, truly love\r\nthe way Diamond-san runs!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "The way she charged straight ahead without looking back was so beautiful and cool...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Waaah, I'm so happy!!\r\nYou've been cheering for me all this time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "Yes! We just had to see Diamond-san in person,\r\nso this little one and I came to watch at the track for the first time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan B",
+      "text": "After watching the Kikuka Sho in person, I totally fell for Diamond-san too!!\nThe Winning Live was super cute as well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "My, your first time at a racetrack?!\r\nThank you so much for coming for my sake!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "I thought it would be terribly presumptuous of me, but... being able to talk with you directly... I'm so, so thrilled...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ehehe, being invited like this\r\nmakes me feel like I'm walking on air♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan B",
+      "text": "Um, Diamond-san, are you participating\nin any of the performances today as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "\"I'm participating in 'Giant Memory Match: Ruthless Battle'!\r\nWe lay out huge cards on the field and play a game of Memory♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan B",
+      "text": "...What does 'battles without honor' mean...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "\"Because it's a competition where you run around collecting cards.\r\nThere's no set order to flip them, so it's first come, first served.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Also, if you draw a \"Challenge Card,\"\r\nyou can challenge another player to a duel,\nand if you win, you get to steal their card♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan B",
+      "text": "T-That's intense...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "Still, Diamond-san can definitely win!\r\nI'll be there cheering for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ufufufufu! If you're cheering for me,\r\nDia will give it her absolute best♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fans",
+      "text": "S-So... cute~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Jeez! Secretly watching me like that\nis mean, Trainer!",
+      "choice_data_list": [
+        "I didn't want to put a damper on things, so..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I told them that both she and the fans seemed to be having fun, so I decided not to intrude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "I got a bit carried away...\nHow embarrassing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Attention, please.\r\nParticipants for the \"Battles Without Honor: Grand Memory Match\"\nplease gather in the waiting area.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "\"Oh, sounds like I've been called.\r\nHere I go!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "“—Now, the ultimate test of wit and endurance, the 'Ruthless Mega Memory Game'! Our six players make their grand entrance!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Intuition, hunches, and hot-blooded passion!\r\nVictory is totally miiiiiiine!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "River crabs, horsehair crabs, snow crabs!!\r\nAw yeah, it's a crab festival, baby!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Heh... Quite an interesting lineup we've got here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Whoa, whoa... count me out of your little school play, alright?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Yeah, right... You match the identical pictures...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "? Cafe-san, who are you talking to...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "All six competitors are in their starting positions!\r\nLet the ruthless Mega Memory Match begin!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(BANG!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Now, this event is a memory matching game\r\nwhere you flip cards placed on the course\nand earn points by matching pairs!",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "NOOOOOOO!!\r\nThe patterns didn't maaaatch!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Since all players flip cards simultaneously,\nit demands far more memory skill than standard Concentration!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...All right! Got one pair set♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Satono Diamond is steadily\r\nand surely racking up points!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "\"...What's this!? Manhattan Cafe is matching\r\npictures one after another and is now in first place in points!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "\"...The matching picture is... on the far right over there...\r\nYes, thank goodness... Thank you...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Not a single false move so far!\r\nCould double-checking every answer before flipping the card be the secret to this flawless run?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Under 5 minutes remaining!\r\n...Wait, what's this? Nakayama Festa makes a move!\nIs she going to use that item she drew earlier?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sorry, milady.\r\nI'll be playing my trump card now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "!! A challenge letter...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Whoa, Nakayama Festa!\r\nShe's thrust a challenge letter right at Satono Diamond!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Both sides consult and agree upon a point value for the Challenge Card,\r\nand the winner takes those points from the loser!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Hold on!! I have a challenge letter too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "And now, Sirius Symboli joins the fray!!\r\nThis challenge match has turned into a three-way battle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "So? How many points are you betting?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...How about 500 points?\r\nWith that much, I will be able to catch up to Cafe-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Heh, keeping your cool, huh?\r\nIt would've been a lot more fun\nif you'd gone all in on a whim.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Alright, one round to decide it all. Here I come—",
+      "choice_data_list": []
+    },
+    {
+      "name": "The Three",
+      "text": "Rock, paper, scissors, go!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yay!! I won!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Heh, didn't fall for the trick, huh?\r\nFine then, take it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Satono Diamond earns 1000 points!\r\nShe's tied with 1st place Manhattan Cafeーー!!\n—Howeverッ!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "…………I won.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aaaaaagh, dammiiiiit!!\r\nMy \"steal it all from the top\" plan is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Manhattan Cafe wins the challenge match against Gold Ship!!\r\nShe has taken all of Gold Ship's points!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "\"And that's time!!\r\nThe winner of 'Ruthless Giant Concentration' is...\nManhattan Cafe!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan B",
+      "text": "Diamond-san, that was so close!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "Still, I got to see so many different sides\nof Diamond-san, so it was fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ufufu, I'm so glad you enjoyed it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Being able to interact directly with her fans made the Fan Appreciation Festival a fun one for Satono Diamond as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "All-in, with all my points!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"Haha! Going all-in, huh? How thrilling!\r\nI'm in!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "I got no complaints either!\r\nLet's do this!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "The Three",
+      "text": "Rock, paper, scissors, go!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yay!! I won!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "\"...To think you'd beat me in a battle of wits...\nGood grief, what an incredible young lady.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Take all of my points.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Satono Diamond takes the points from Nakayama Festa\r\nand Sirius Symboli!!\nShe overtakes Manhattan Cafe to claim 1st place!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aah-hah-hah-hah-hah!!\r\nI've been waiting for this exact moment! The ULTIMATE third-party triumph!\nI challenge Satono to a duelーー!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "It's an all-out showdown!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Rock, paper, scissors...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ufufu, looks like my win♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "Oh! Satono Diamond has completely\r\nseen through Gold Ship's strategy!!\nShe sweeps the tricky Gold Ship aside in one fell swoop--!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentator Umamusume",
+      "text": "\"And that's time!!\r\nThe winner of 'Ruthless Giant Concentration' is...\nSatono Diamond!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan B",
+      "text": "Diamond-san,\r\ncongratulations on your victory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "To think Diamond-san had such a bold side to her...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ehehe♪ Because everyone\r\nwas watching, I gave it my absolute all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dia's Fan A",
+      "text": "Y-You're way... way too cool~~!!\r\nPlease let me keep cheering for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Same here!\r\nWe're counting on your cheers♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Being able to interact directly with her fans made the Fan Appreciation Festival a fun one for Satono Diamond as well.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Apparently, a meteor shower is visible tonight.\nAs I gazed up at the sky—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—A light raced across the night sky.",
+      "choice_data_list": [
+        "I want to make <nickname> even stronger!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Chanting a wish three times toward the stars\nlike a magic spell.\nWhether that prayer was heard or not...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A shooting star blinked across the sky several times.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "From that day on, <chrname>'s running became visibly sharper!",
+      "choice_data_list": []
+    }
+  ]
+}

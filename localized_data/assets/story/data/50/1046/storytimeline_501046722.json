@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "In the trainer's office, Smart Falcon spoke to me\r\nwhile holding her forehead for some reason...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Uuugh... Um, hey... Trainer.\nCan you tell Falco that I'm cute...?",
+      "choice_data_list": [
+        "What's with you all of a sudden?",
+        "What's gotten into you all of a sudden?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "\"Falco got a headache.\r\nI tried resting and taking medicine, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "\"It's not getting any better at all, so here's my last resort!\nI want to try 'Cutie Therapy'...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Just like chanting 'pain, pain, go away,'\nif someone would just tell me I'm 'cute'—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "The happiness will surely cure my headache!\r\nSo please... Trainer-san!",
+      "choice_data_list": [
+        "...You're so cute, Falco!",
+        "...You're so cute, Falco!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ehehe, yay☆\r\nNow Falco's headache will...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "“—I-It's not fixed at all~!!\r\nWaaahhhhh...!!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Although I managed to soothe Smart Falcon... her headache stubbornly refused to go away.",
+      "choice_data_list": []
+    }
+  ]
+}

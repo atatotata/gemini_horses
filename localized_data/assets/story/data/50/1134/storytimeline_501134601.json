@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Before the race, Curren Bouquetd'or\nis remarkably calm. She doesn't seem\nto be dwelling on her last defeat.",
+      "choice_data_list": [
+        "Good, you seem calm.",
+        "Good, you seem calm."
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes, actually—I ordered a bouquet\nof Casablanca lilies.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "The language of flowers says—\"Blessing.\"\nThis is my own... declaration of resolve.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"I decided that I would definitely win—and accept it\nwith true pride...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "\"That might be... the reason I'm able to stay so strong-willed right now.\"",
+      "choice_data_list": [
+        "Let's win and accept those flowers with our heads held high!"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Yes. Well then—I shall be on my way.",
+      "choice_data_list": []
+    }
+  ]
+}

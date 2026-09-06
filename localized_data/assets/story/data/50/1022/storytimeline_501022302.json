@@ -1,0 +1,403 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While accompanying Fine Motion on an \"inspection\"\nstrolling through the shopping district—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh? Lively voices...\nCould it be a festival?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh my...!\nA lottery draw!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "It says \"Anyone\", Trainer!\nLook!",
+      "choice_data_list": [
+        "Here you go, then."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What she handed over was the lottery ticket\nshe'd received as a bonus\nwhen buying croquettes earlier.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Thank you♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Excuse me over there,\r\nmight I join in as well?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ah... Yes!\nP-Please go right ahead...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fine Motion enthusiastically\nturned the raffle crank handle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ooh~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "A hot spring trip~!\nI'm so happy♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Japanese hot springs really are the best!",
+      "choice_data_list": [
+        "You like it, then?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yeah! There's this thing called a public bathhouse, right?\r\nI go there once in a while with friends!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "We had bathtubs at the castle too, but...\r\nI only learned the joy of relaxing in a long soak\nafter coming here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"I'm sure it's because... both at the dorms and in town,\nI get to chat with so many people.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu, the hot springs are bound to be\nsuch a wonderful experience too.\nOne day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "――Ah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"...I should give this ticket to you.\"",
+      "choice_data_list": [
+        "Why?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "It's not as though it's an open-ended ticket, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"In that case, I might not make it in time. ...Rather than letting it go to waste, I want you to use it.\"",
+      "choice_data_list": [
+        "...Understood."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yeah,\nhave fun♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "～～♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Fine Motion seems to have completely\nmade peace with giving up the hot springs trip.\nHowever—",
+      "choice_data_list": [
+        "Let's do the lottery again."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hm?",
+      "choice_data_list": [
+        "Next time, I'll win the grand prize and give it to you.",
+        "Next time, I'll win the grand prize and give it to you."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Yeah, thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "If a day like that ever comes,\nI'll have you take me there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Neither is a promise guaranteed to be kept. Even so,\nI believe the day will come when they are fulfilled—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh my~ ♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Special grade\" means it must taste simply wonderful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Trainer, let's dig in right away♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "—Mmh~!?\nDelicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"This Salisbury steak\nis so delicious~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I only gave it a quick reheat,\nbut it's so juicy!\nThey must be using traditional techniques.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Trainer,\ncould you call the chef who prepared this?",
+      "choice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I'd love to chat about all kinds of things.\nOur chef would probably learn a lot too, so if it's not too much trouble, I'd like to get them on a call as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Indeed.\nLet us set up a dinner meeting, shall we, Captain?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It turned into quite the big deal, but\nFine Motion seemed\nthoroughly delighted.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Whoa~!\nThis looks big enough to cover an entire field, doesn't it!?",
+      "choice_data_list": [
+        "Doesn't look like I can finish it all right away",
+        "Doesn't look like we can finish it all right away, huh?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hmm... But\r\nI'd like to enjoy it while it's still delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "—I know!\nLet's have a potluck party with everyone!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And a few days later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine's Friend A",
+      "text": "Fine!\nThe carrot cake is done~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Thank you!\n...Mmm, smells lovely♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine's Friend B",
+      "text": "My carrot salad's done too~.\nCooking's actually pretty fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fufu, isn't that right♪\nI decided to give it a try too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "“—I call it:\nCarrot Ramen!\nI'll prepare a freshly made bowl for you♪”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "How wonderful~!\nLook at these shiny carrots!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Um, I am so sorry...\nTo think there's only one left.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, why is that?\nQuality is what matters most.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"That carrot is a treasured jewel,\ngrown with utmost care... isn't that right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I will gladly accept it♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "I-It's royal...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "âAh, I wonder if this counts\nas snacking on the go too...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Then we'll split it in half, Trainer♪\nFufu, it's a showdown to see who finishes first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aww, too bad!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "However, even losing is a learning experience! ♪\r\nI'll be sure to put these tissues to good use.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "—Trainer, you're next.",
+      "choice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "And after that, the guards...\nOh, maybe I should invite some friends too?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Since we're here, I want to see you hit the jackpot!",
+      "choice_data_list": [
+        "Let's really not, okay?!",
+        "Let's really not, okay?!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "I guess so, huh?\nNo good after all.",
+      "choice_data_list": []
+    }
+  ]
+}

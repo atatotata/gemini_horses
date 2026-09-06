@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "During our very first meeting after the break—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—I take an afternoon nap.",
+      "choice_data_list": [
+        "Huh!? What about the meeting...!?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Come back another day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Did she not sleep well over the break?\nEither way, we can have our meeting anytime, so her health should come first.",
+      "choice_data_list": []
+    }
+  ]
+}

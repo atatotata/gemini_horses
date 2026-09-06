@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "K.S. Miracle",
+      "text": "Wah, incredible... there's so many...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "With this, I can give some to everyone...\nThank you so much, Trainer!",
+      "choice_data_list": [
+        "Are you sure you don't need yours?",
+        "Are you sure you don't want any for yourself?"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Huh? ...Nah, don't worry about me.\nAs long as everyone at the hospital is happy, that's all that matters.",
+      "choice_data_list": [
+        "I'd be happy if you liked it too.",
+        "I'd be happy if you like it too."
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "...Fufu. Trainers are truly so kind, aren't they?",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "Alright then, just one...\nI'll definitely treasure it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

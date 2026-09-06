@@ -1,0 +1,93 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Verxina",
+      "text": "...Phew.\nThat wraps up today's training, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Oh? That is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "*pant, pant*...!\nKh...! Not done yet...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Good work.\nYou're really putting in the effort.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ah... Good work today.\nYou heading home now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes. Is Shion-san still training?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Yeah.\nThe race with Orfe-san is coming up soon, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"To be honest, there's still a lot I fall short on, but... Even so, I wanna do everything I possibly can!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Because I don't wanna bring any regrets\ninto a match against my rival...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "……Ngh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Trainer.\nMay I run for just a little longer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "I want to do everything I can, too.\nEvery single means possible, all to seize victory.",
+      "choice_data_list": [
+        "Have fun!",
+        "Let's stop here for today, or you'll overwork yourself."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Thank you very much!\nWell then, I'll be on my way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"I can't afford to fall behind either...!\nNot to Shion-san, and not to 'her'—!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I persuaded her that adequate rest is essential to deliver peak performance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Indeed, that is true.\nPerhaps I was rushing things a bit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Understood. I'll rest up for today.\nI'll give it my all again starting tomorrow—!",
+      "choice_data_list": []
+    }
+  ]
+}

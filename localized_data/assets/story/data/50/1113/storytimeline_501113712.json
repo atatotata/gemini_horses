@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Yoo-hoo♪ What's up?",
+      "choice_data_list": [
+        "...What about training?"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Huh? Wait, did we have training today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "I'm sooooo sorry♪\nI seriously totally forgot!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "...Well, what's done is done!\nBest not to sweat it too much~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing Fusaichi Pandora completely unrepentant,\nI gave her a firm warning so it wouldn't\naffect her training.",
+      "choice_data_list": []
+    }
+  ]
+}

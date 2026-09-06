@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Win Variation",
+      "text": "That's pretty tough to pull off...",
+      "choice_data_list": [
+        "I'm sorry I couldn't win it..."
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Trainer...\nI knew it, you did it for me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Please don't let it bother you!\nJust knowing you care means a lot to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Besides, there are plenty of other ways\nto make little kids happy besides plushies!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Like singing, for instance!\nOh, I know—maybe I should practice\nsome songs from recent anime!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

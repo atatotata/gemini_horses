@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Prix Foy\"\nA GII race held at ParisLongchamp Racecourse for Senior-tier Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Has this entrance hall\nbecome a familiar sight to you by now?",
+      "choice_data_list": [
+        "Even so, I'm still nervous."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Haha! Same here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Now then, shall we go—to the preliminary bout?\nTo the overture of the battle for world's best.",
+      "choice_data_list": []
+    }
+  ]
+}

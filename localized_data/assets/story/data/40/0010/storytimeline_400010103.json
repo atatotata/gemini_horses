@@ -1,0 +1,42 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "As I was getting ready for the training camp,\nSpeed Symboli called out to me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Trainer-kun.\nYou've been producing remarkable results lately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "All the more reason why...\nI want you all to push even further ahead.",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "\"To challenge what no one has ever achieved\nrequires an equal measure of resolve and dedication.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "Unceasing diligence—toward the horizon you girls aim for...\nIf anything I possess could serve as thrust for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "\"I want to be of help in your challenge.\n—Please, take my heart along with you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Guided by Speed Symboli...\n<chrname> gained invaluable insight!",
+      "choice_data_list": []
+    }
+  ]
+}

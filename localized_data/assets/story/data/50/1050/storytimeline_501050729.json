@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "Alright, all done.\r\nIt's a shame, but why don't you give up?",
+      "choice_data_list": [
+        "Sorry...",
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I don't see any reason to apologize.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I told ya from the start, I'm not interested.\r\n",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...*Sigh*, don't look so down.\r\nCome on, let's head back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

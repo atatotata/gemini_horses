@@ -1,0 +1,1289 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Tonight is Christmas. At Tracen Academy,\na Christmas party hosted by the Student Council was underway.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Held for the Umamusume with no plans to go out,\nit's an annual casual party open to voluntary participants, but—",
+      "choice_data_list": [
+        "(To think there's a dress code this year...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And on top of that, having a Trainer present is mandatory. Since Buena Vista invited me out, I couldn't very well refuse—",
+      "choice_data_list": [
+        "(I tried to tidy it up... but I wonder if it's okay.)"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Alright, stooop~.\nTime for an inspection!",
+      "choice_data_list": [
+        "Tran... Wait, that outfit—"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Formal attire is required, after all~\nAnyway, putting me aside for a second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hmm... hmhmhm.\nOho oho oho...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Brainpower and muscle power are both sufficient. As for charm... that's gone up considerably over the past 3 years. Yep, all good overall!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "As expected, you two look great together.\nHave fun~.",
+      "choice_data_list": [
+        "Wh-What was that...?",
+        "Wh-What was that...?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...Was she checking on my outfit?\nWith that thought in mind, I hurriedly made my way\nto the party venue where Buena Vista was waiting—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Stepping into the venue, everyone was dressed to the nines,\ntransforming the usual cafeteria into a truly glamorous space.",
+      "choice_data_list": [
+        "(Buena Vista is...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Of course, I found her right away.\nNo matter how thick the crowd, her sunflower-like brightness is impossible to miss.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Whoa, you're all coming to watch the Arima Kinen together...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Friend A",
+      "text": "Of course! This year belongs to you, Buena-chan.\nYou can definitely win, do your best!",
+      "choice_data_list": [
+        "(Surrounded by a crowd as always, huh...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "This was a great opportunity, and I wanted her to talk with all sorts of people. So as I watched over her from afar for a while—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Ah! Finally here!\n...I'm gonna slip away for a bit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I've been waiting, Trainer-san.\n...Your formal attire looks wonderful!",
+      "choice_data_list": [
+        "...How did you realize that?",
+        "...How did you notice?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Why, you ask...?\nHehe!",
+      "choice_data_list": [
+        "Why are you laughing...?",
+        "Why are you laughing...?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "There's no way I wouldn't notice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "There's no one else as wonderful as them anywhere in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...Oh, right. Is it okay if I give you\nyour Christmas present now?\"",
+      "choice_data_list": [
+        "Did you prepare this for me?",
+        "Did you get this ready for me?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Of course!\nConsider it a token of my daily appreciation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Does that mean..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Sports wear and shoes. Yellow and brown... I matched them using my favorite colors♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whenever we run the perimeter, you follow along on a bike\nor in a car, right, Trainer? But... I'd be so happy\nif we could... run at the same speed together.",
+      "choice_data_list": [
+        "...I'll do my absolute best!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu... Thank you.\nI know it's asking for the impossible, but...\nwill you let me root for you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmhmm. Seeing you two standing side by side, you really do make a great match.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tran-san...!\nYou're so incredibly cool too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"No, no, well, this kind of thing is all about riding the vibe. Don't worry about me—\"",
+      "choice_data_list": [
+        "Oh yeah, thanks for everything up until now.",
+        "Oh yeah, thank you for everything up until now."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! You're right, Tran-san is always watching over me so kindly...!",
+      "choice_data_list": [
+        "She was checking if my outfit was okay earlier too...",
+        "She was checking if my outfit was okay earlier too..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whoa, even all the way out there!\n...You're really so kind, Tran-san!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "......No seriously, you two\nare way too perfect for each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It's not about stats or anything... maybe what really matters\nis having hearts of the same color...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively Christmas night drew to a close...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Does that mean..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Sports wear and shoes. Yellow and brown... I matched them using my favorite colors♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whenever we run the perimeter, you follow along on a bike\nor in a car, right, Trainer? But... I'd be so happy\nif we could... run at the same speed together.",
+      "choice_data_list": [
+        "...I'll do my absolute best!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu... Thank you.\nI know it's asking for the impossible, but...\nwill you let me root for you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "\"...Hey, over there...—\n—...It's true! What if we went over and...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista's gaze wavers for a moment.\n...Her ears are also restlessly picking up the chatter around her, looking uneasy.",
+      "choice_data_list": [
+        "...Hey, shall we head outside for a bit?",
+        "...Hey, shall we go outside for a bit?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh...\nAh, yeah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Phew.\nThe wind has gotten quite chilly...",
+      "choice_data_list": [
+        "Aren't you cold?",
+        "Aren't you cold?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm fine! I had so much fun chatting with everyone \nthat my whole body still feels warm inside.",
+      "choice_data_list": [
+        "Well, they did seem pretty busy.",
+        "Well, they did seem pretty busy."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, did it look like that? I just wanted to properly connect with everyone who wanted to talk with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...Truth be told, you must have been busy yourself, though.\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Didn't you notice?\nAll the girls around us were talking about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "She said she has a truly wonderful trainer.\n...She was talking about you.",
+      "choice_data_list": [
+        "No, no, there's no way—"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I told you, didn't I?\nThere's no trainer as wonderful as mine anywhere in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I panicked just a little.\nThinking that maybe I'm not worthy of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer,\nyou just keep getting more wonderful, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The words I want to say are meant to remind her that the Buena Vista I know... is endlessly strong and dazzling.",
+      "choice_data_list": [
+        "...Then maybe I'll make you sweat a little more."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………\nEhh!?",
+      "choice_data_list": [
+        "And then you will surely overtake me",
+        "Then you will surely overtake me"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！",
+      "choice_data_list": [
+        "You'll shine even brighter.",
+        "You will shine even brighter."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"And then,\nyou'll work hard again... to stand side by side with me, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, and here I thought I'd already outgrown playing tag.",
+      "choice_data_list": [
+        "Looks like this will keep going for a while.",
+        "Looks like this will keep going for a while."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...You'll wait for me to catch you,\nwon't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "...Ramen!?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I've also prepared Christmas-style hors d'oeuvres\nfull of dishes that look great for building stamina!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I wondered if it might be weird, you know?\nBecause I want to be with you forever.\n...Will you accept it?",
+      "choice_data_list": [
+        "...Thank you for the meal!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Thank you.\nEat well, build your strength...\nand stay healthy forever!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmhmm. Seeing you two standing side by side, you really do make a great match.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tran-san...!\nYou're so incredibly cool too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"No, no, well, this kind of thing is all about riding the vibe. Don't worry about me—\"",
+      "choice_data_list": [
+        "Oh yeah, thanks for everything up until now.",
+        "Oh yeah, thank you for everything up until now."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! You're right, Tran-san is always watching over me so kindly...!",
+      "choice_data_list": [
+        "She was checking if my outfit was okay earlier too...",
+        "She was checking if my outfit was okay earlier too..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whoa, even all the way out there!\n...You're really so kind, Tran-san!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "......No seriously, you two\nare way too perfect for each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It's not about stats or anything... maybe what really matters\nis having hearts of the same color...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively Christmas night drew to a close...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "...Ramen!?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I've also prepared Christmas-style hors d'oeuvres\nfull of dishes that look great for building stamina!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I wondered if it might be weird, you know?\nBecause I want to be with you forever.\n...Will you accept it?",
+      "choice_data_list": [
+        "...Thank you for the meal!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Thank you.\nEat well, build your strength...\nand stay healthy forever!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "\"...Hey, over there...—\n—...It's true! What if we went over and...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista's gaze wavers for a moment.\n...Her ears are also restlessly picking up the chatter around her, looking uneasy.",
+      "choice_data_list": [
+        "...Hey, shall we head outside for a bit?",
+        "...Hey, shall we go outside for a bit?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh...\nAh, yeah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Phew.\nThe wind has gotten quite chilly...",
+      "choice_data_list": [
+        "Aren't you cold?",
+        "Aren't you cold?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm fine! I had so much fun chatting with everyone \nthat my whole body still feels warm inside.",
+      "choice_data_list": [
+        "Well, they did seem pretty busy.",
+        "Well, they did seem pretty busy."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, did it look like that? I just wanted to properly connect with everyone who wanted to talk with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...Truth be told, you must have been busy yourself, though.\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Didn't you notice?\nAll the girls around us were talking about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "She said she has a truly wonderful trainer.\n...She was talking about you.",
+      "choice_data_list": [
+        "No, no, there's no way—"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I told you, didn't I?\nThere's no trainer as wonderful as mine anywhere in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I panicked just a little.\nThinking that maybe I'm not worthy of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer,\nyou just keep getting more wonderful, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The words I want to say are meant to remind her that the Buena Vista I know... is endlessly strong and dazzling.",
+      "choice_data_list": [
+        "...Then maybe I'll make you sweat a little more."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………\nEhh!?",
+      "choice_data_list": [
+        "And then you will surely overtake me",
+        "Then you will surely overtake me"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！",
+      "choice_data_list": [
+        "You'll shine even brighter.",
+        "You will shine even brighter."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"And then,\nyou'll work hard again... to stand side by side with me, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, and here I thought I'd already outgrown playing tag.",
+      "choice_data_list": [
+        "Looks like this will keep going for a while.",
+        "Looks like this will keep going for a while."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...You'll wait for me to catch you,\nwon't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "............\"Shoulder\"!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "When I asked Ms. Gentile for advice,\nshe recommended it to me!\nHaving strength builds confidence too, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I've come to want to see an even more powerful Trainer than you are now... Would that be alright?",
+      "choice_data_list": [
+        "...First, we have to start by lifting it up, huh.",
+        "...First, we have to start by lifting it up, right?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Oh, you're all motivated! I'll brainstorm a menu too!\nLet's do our best together with Buena Trainer♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmhmm. Seeing you two standing side by side, you really do make a great match.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tran-san...!\nYou're so incredibly cool too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"No, no, well, this kind of thing is all about riding the vibe. Don't worry about me—\"",
+      "choice_data_list": [
+        "Oh yeah, thanks for everything up until now.",
+        "Oh yeah, thank you for everything up until now."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! You're right, Tran-san is always watching over me so kindly...!",
+      "choice_data_list": [
+        "She was checking if my outfit was okay earlier too...",
+        "She was checking if my outfit was okay earlier too..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whoa, even all the way out there!\n...You're really so kind, Tran-san!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "......No seriously, you two\nare way too perfect for each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It's not about stats or anything... maybe what really matters\nis having hearts of the same color...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively Christmas night drew to a close...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "............\"Shoulder\"!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "When I asked Ms. Gentile for advice,\nshe recommended it to me!\nHaving strength builds confidence too, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I've come to want to see an even more powerful Trainer than you are now... Would that be alright?",
+      "choice_data_list": [
+        "...First, we have to start by lifting it up, huh.",
+        "...First, we have to start by lifting it up, right?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Oh, you're all motivated! I'll brainstorm a menu too!\nLet's do our best together with Buena Trainer♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "\"...Hey, over there...—\n—...It's true! What if we went over and...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista's gaze wavers for a moment.\n...Her ears are also restlessly picking up the chatter around her, looking uneasy.",
+      "choice_data_list": [
+        "...Hey, shall we head outside for a bit?",
+        "...Hey, shall we go outside for a bit?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh...\nAh, yeah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Phew.\nThe wind has gotten quite chilly...",
+      "choice_data_list": [
+        "Aren't you cold?",
+        "Aren't you cold?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm fine! I had so much fun chatting with everyone \nthat my whole body still feels warm inside.",
+      "choice_data_list": [
+        "Well, they did seem pretty busy.",
+        "Well, they did seem pretty busy."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, did it look like that? I just wanted to properly connect with everyone who wanted to talk with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...Truth be told, you must have been busy yourself, though.\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Didn't you notice?\nAll the girls around us were talking about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "She said she has a truly wonderful trainer.\n...She was talking about you.",
+      "choice_data_list": [
+        "No, no, there's no way—"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I told you, didn't I?\nThere's no trainer as wonderful as mine anywhere in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I panicked just a little.\nThinking that maybe I'm not worthy of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer,\nyou just keep getting more wonderful, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The words I want to say are meant to remind her that the Buena Vista I know... is endlessly strong and dazzling.",
+      "choice_data_list": [
+        "...Then maybe I'll make you sweat a little more."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………\nEhh!?",
+      "choice_data_list": [
+        "And then you will surely overtake me",
+        "Then you will surely overtake me"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！",
+      "choice_data_list": [
+        "You'll shine even brighter.",
+        "You will shine even brighter."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"And then,\nyou'll work hard again... to stand side by side with me, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, and here I thought I'd already outgrown playing tag.",
+      "choice_data_list": [
+        "Looks like this will keep going for a while.",
+        "Looks like this will keep going for a while."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...You'll wait for me to catch you,\nwon't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Does that mean..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I knitted a scarf.\nWill you accept it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I was able to concentrate really well, and as I kept patiently working away at it... it ended up getting super long.",
+      "choice_data_list": [
+        "Thank you, I'll take good care of it."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "No, thank you for accepting it!\nWrap it tight and stay nice and warm, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmhmm. Seeing you two standing side by side, you really do make a great match.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tran-san...!\nYou're so incredibly cool too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"No, no, well, this kind of thing is all about riding the vibe. Don't worry about me—\"",
+      "choice_data_list": [
+        "Oh yeah, thanks for everything up until now.",
+        "Oh yeah, thank you for everything up until now."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! You're right, Tran-san is always watching over me so kindly...!",
+      "choice_data_list": [
+        "She was checking if my outfit was okay earlier too...",
+        "She was checking if my outfit was okay earlier too..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whoa, even all the way out there!\n...You're really so kind, Tran-san!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "......No seriously, you two\nare way too perfect for each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It's not about stats or anything... maybe what really matters\nis having hearts of the same color...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively Christmas night drew to a close...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Does that mean..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I knitted a scarf.\nWill you accept it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I was able to concentrate really well, and as I kept patiently working away at it... it ended up getting super long.",
+      "choice_data_list": [
+        "Thank you, I'll take good care of it."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "No, thank you for accepting it!\nWrap it tight and stay nice and warm, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "\"...Hey, over there...—\n—...It's true! What if we went over and...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista's gaze wavers for a moment.\n...Her ears are also restlessly picking up the chatter around her, looking uneasy.",
+      "choice_data_list": [
+        "...Hey, shall we head outside for a bit?",
+        "...Hey, shall we go outside for a bit?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh...\nAh, yeah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Phew.\nThe wind has gotten quite chilly...",
+      "choice_data_list": [
+        "Aren't you cold?",
+        "Aren't you cold?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm fine! I had so much fun chatting with everyone \nthat my whole body still feels warm inside.",
+      "choice_data_list": [
+        "Well, they did seem pretty busy.",
+        "Well, they did seem pretty busy."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, did it look like that? I just wanted to properly connect with everyone who wanted to talk with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...Truth be told, you must have been busy yourself, though.\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Didn't you notice?\nAll the girls around us were talking about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "She said she has a truly wonderful trainer.\n...She was talking about you.",
+      "choice_data_list": [
+        "No, no, there's no way—"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I told you, didn't I?\nThere's no trainer as wonderful as mine anywhere in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I panicked just a little.\nThinking that maybe I'm not worthy of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer,\nyou just keep getting more wonderful, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The words I want to say are meant to remind her that the Buena Vista I know... is endlessly strong and dazzling.",
+      "choice_data_list": [
+        "...Then maybe I'll make you sweat a little more."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………\nEhh!?",
+      "choice_data_list": [
+        "And then you will surely overtake me",
+        "Then you will surely overtake me"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！",
+      "choice_data_list": [
+        "You'll shine even brighter.",
+        "You will shine even brighter."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"And then,\nyou'll work hard again... to stand side by side with me, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, and here I thought I'd already outgrown playing tag.",
+      "choice_data_list": [
+        "Looks like this will keep going for a while.",
+        "Looks like this will keep going for a while."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...You'll wait for me to catch you,\nwon't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Is that... a novel?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Nope!\nIt's a poetry collection by a German poet.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"When I told her I wanted to give it to someone special,\nFlash-san told me about it.\n...That it carries those kinds of heartfelt feelings.\"",
+      "choice_data_list": [
+        "Thank you, I'll treasure reading it."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Go right ahead! There wasn't a Japanese translation,\nso I worked hard to translate it myself.\nEhehe, it took a little bit of effort♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Mmhmm. Seeing you two standing side by side, you really do make a great match.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tran-san...!\nYou're so incredibly cool too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"No, no, well, this kind of thing is all about riding the vibe. Don't worry about me—\"",
+      "choice_data_list": [
+        "Oh yeah, thanks for everything up until now.",
+        "Oh yeah, thank you for everything up until now."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah! You're right, Tran-san is always watching over me so kindly...!",
+      "choice_data_list": [
+        "She was checking if my outfit was okay earlier too...",
+        "She was checking if my outfit was okay earlier too..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Whoa, even all the way out there!\n...You're really so kind, Tran-san!",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "......No seriously, you two\nare way too perfect for each other.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "It's not about stats or anything... maybe what really matters\nis having hearts of the same color...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the lively Christmas night drew to a close...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Merry Christmas, Trainer!",
+      "choice_data_list": [
+        "Is that... a novel?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Nope!\nIt's a poetry collection by a German poet.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"When I told her I wanted to give it to someone special,\nFlash-san told me about it.\n...That it carries those kinds of heartfelt feelings.\"",
+      "choice_data_list": [
+        "Thank you, I'll treasure reading it."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Go right ahead! There wasn't a Japanese translation,\nso I worked hard to translate it myself.\nEhehe, it took a little bit of effort♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "\"...Hey, over there...—\n—...It's true! What if we went over and...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Buena Vista's gaze wavers for a moment.\n...Her ears are also restlessly picking up the chatter around her, looking uneasy.",
+      "choice_data_list": [
+        "...Hey, shall we head outside for a bit?",
+        "...Hey, shall we go outside for a bit?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh...\nAh, yeah...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Phew.\nThe wind has gotten quite chilly...",
+      "choice_data_list": [
+        "Aren't you cold?",
+        "Aren't you cold?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I'm fine! I had so much fun chatting with everyone \nthat my whole body still feels warm inside.",
+      "choice_data_list": [
+        "Well, they did seem pretty busy.",
+        "Well, they did seem pretty busy."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, did it look like that? I just wanted to properly connect with everyone who wanted to talk with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...Truth be told, you must have been busy yourself, though.\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Didn't you notice?\nAll the girls around us were talking about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "She said she has a truly wonderful trainer.\n...She was talking about you.",
+      "choice_data_list": [
+        "No, no, there's no way—"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I told you, didn't I?\nThere's no trainer as wonderful as mine anywhere in the world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I panicked just a little.\nThinking that maybe I'm not worthy of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer,\nyou just keep getting more wonderful, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"If I've grown into a better person,\nit's all thanks to you\"—\nI swallowed back the words that instinctively came to mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The words I want to say are meant to remind her that the Buena Vista I know... is endlessly strong and dazzling.",
+      "choice_data_list": [
+        "...Then maybe I'll make you sweat a little more."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………\nEhh!?",
+      "choice_data_list": [
+        "And then you will surely overtake me",
+        "Then you will surely overtake me"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "！",
+      "choice_data_list": [
+        "You'll shine even brighter.",
+        "You will shine even brighter."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"And then,\nyou'll work hard again... to stand side by side with me, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fufu, and here I thought I'd already outgrown playing tag.",
+      "choice_data_list": [
+        "Looks like this will keep going for a while.",
+        "Looks like this will keep going for a while."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"...You'll wait for me to catch you,\nwon't you?\"",
+      "choice_data_list": []
+    }
+  ]
+}

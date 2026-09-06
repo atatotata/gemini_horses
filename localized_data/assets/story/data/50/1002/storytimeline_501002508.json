@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "After returning from the race—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Haaah...",
+      "choice_data_list": [
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"...Huh? Yes... I'm fine, but...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, why are you asking such a question...?",
+      "choice_data_list": [
+        "Because you let out a sigh."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Wait, me...?\nThat can't be...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I'm sorry for causing you to worry.\r\nI'll be more careful next time...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, I'm feeling perfectly fine.\r\n...I'm always ready to run with everything I've got.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Even so, fatigue seems to be catching up to her.\r\nI might need to reconsider Silence Suzuka's\nupcoming race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

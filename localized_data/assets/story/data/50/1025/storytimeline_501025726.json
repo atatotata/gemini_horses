@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Manhattan Cafe—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Ah... That claw crane game...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following Manhattan Cafe's gaze, I saw a crane game filled with plushies themed after Umamusume.",
+      "choice_data_list": [
+        "Shall I get that for you?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Are you sure...? Thank you very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Besides... with that adorable plushie...\r\nher hair... probably won't grow on its own...",
+      "choice_data_list": [
+        "Huh...?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No... that's in the past...\r\nMore importantly... please do your best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

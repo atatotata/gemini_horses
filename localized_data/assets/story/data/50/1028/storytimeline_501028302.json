@@ -1,0 +1,360 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from our outing,\r\na crowd had gathered in the shopping district.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hmm~? It's super lively over there, isn't it?\r\nI wonder what's going on?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Special-Grade Carrot Hamburg Steak?!\r\nWhoa, let's do it, let's do it, Trainer!",
+      "choice_data_list": [
+        "Do you have a raffle ticket?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, I see! Umm,\nthen I'll go do some quick shopping!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ehehe, I accidentally bought way too many ingredients.\r\nIf I win the carrots, there's so many things\nI want to make.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "All right, let's do this~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Hishi Akebono enthusiastically\nturned the lottery wheel handle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Eeeeh~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Wh-Wh-What do I do~, it's an \"Onsen Trip Voucher\"~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, and this ryokan! It's super famous\r\nfor having exceptionally buono food~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Amazing, amazing!\r\nLet's go together, Trainer!",
+      "choice_data_list": [
+        "Are you sure you're okay with me joining?",
+        "Are you sure you want me to come with you?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Of course～☆ Having a super delicious meal\ntogether is bound to make us so happy, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah... but you're a bit busy right now, right?\r\nThere are tons of races coming up and all~...",
+      "choice_data_list": [
+        "Want to do it once you've calmed down?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah, you're right~.\r\nWe'll definitely be able to take it easy that way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Alright then, this stays locked away until then.\r\nI'll keep it safe and sound for you.",
+      "choice_data_list": [
+        "Yeah, it's up to you.",
+        "Yeah, please do."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...Ehehe, I wonder what kind of food we'll get~.\r\nSashimi, maybe steak, or hot pot~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"It'll definitely be a great learning experience, so we have to make sure we remember the flavor well before heading home~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Let's make sure our tummies are super empty before we go, Trainer♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, a new promise was born\r\nbetween Hishi Akebono and me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Waaah!\r\nIt looks sooooooo delicious...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Wait, huh? Is this... Whoaaa,\r\nit's a hamburg steak from that super famous restaurant~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I've always wanted to go eat there someday.\r\nWoow, it's like a miracle~!",
+      "choice_data_list": [
+        "Good for you!",
+        "That's great!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yep♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Ah, but Trainer, why don't you eat with me too~?\"",
+      "choice_data_list": [
+        "Are you sure?",
+        "Are you sure?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Of course! Delicious food tastes\r\ntwice as good when you eat it together~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "When you eat with someone you love, it tastes four times as delicious!\r\nIsn't that amazing~!",
+      "choice_data_list": [
+        "Well then, if you insist..."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah!\r\nAlright, now that that's settled, let's head straight home~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "I bought tons of ingredients, so I might as well add soup and salad too~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, we thoroughly savored a truly delicious \"Special Carrot Hamburg Steak\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Later on, having mastered the recipe, Hishi Akebono\nbrought over an exact recreation of the flavor—\nbut that's a story for another time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Waaah! Yay, yay, yaaay!\r\nI can make lots of dishes now~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Nikujaga, curry, stew, carrot hamburg steak, carrot steak, carrot salad, plus cake and jelly!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Eat to your heart's content and be filled with happiness tonight, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I'm very glad she's so enthusiastic, but...\r\nthat amount might be a bit too much for just the two of us.",
+      "choice_data_list": [
+        "Could it be too much for just the two of you to finish?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, you're right! We might have ended up with leftovers.\r\nThat was a close one~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hmm, alright then,\r\nI'll go talk to everyone~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "âAh, Maya-chan? I was thinking\r\nof throwing a carrot party with everyone today,\nwhat do you say~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mm-hmm, got it♪\r\nOkay, see you later~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ehehe, they said they'll come!\r\nYay~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "All right, then there's Curren-chan,\r\nBiko-chan, and Kawakami-chan.\nI wonder if Fuji-san and Hishi Ama-san will come too~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "—Ahaha, I hope everyone has a lively time.\r\nCan't wait~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Dinner that evening was\r\neven livelier than usual.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"So close~! But still,\r\nthat looks like a super yummy carrot~☆\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Heavy, slender, with evenly spaced whiskers!\r\nI bet it's super sweet and tender~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Which means—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Since we have the chance, let's make nishime!\r\nI'm sure it'll be super buono♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, Hishi Akebono cooked and treated me to some \"buono\" stewed vegetables.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "There's still plenty of seconds~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Aw man, a blank~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hmm, and here I really wanted to treat you\r\nto a super buono dinner, too~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Still, nothing we can do about it!\r\nInstead, I'll cook you a feast with the veggies we just bought~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "There are days like this, there are days like this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even as she said that, she looked a little disappointed as we left the shopping district behind.",
+      "choice_data_list": []
+    }
+  ]
+}

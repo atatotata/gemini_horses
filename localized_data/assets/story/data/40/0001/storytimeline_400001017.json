@@ -1,0 +1,499 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, as I passed by the racecourse,\r\na familiar face caught my eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "It's finally time for the real race, Meek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "The \"URA Finals\" are steadily drawing near.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Let's win decisively and steadily take\r\nour first step toward becoming a star Umamusume...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Understood.\r\n...Fight, oh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"...I have to help them win.\r\nToday of all days...!\"",
+      "choice_data_list": [
+        "(That troubled expression...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Something about her caught my concern,\r\nso I went to watch Happy Meek's race.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "Oh, Happy Meek is running!\r\nI've actually been keeping an eye on her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator B",
+      "text": "\"Still... she hasn't been doing so well lately, has she?\r\nEven though she had great results for a while after her debut.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator A",
+      "text": "\"Hmm, has her growth stalled? Get it together, in-charge Trainer...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And then, the race began—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Here comes Happy Meek from the inside!\r\nWill she make it? Can she reach them!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"However, the front pack holds on stubbornly!\nHow will Happy Meek respond with her closing stretch?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "—The leader holds them off to take the wiiin!!\r\nHappy Meek just couldn't find that extra gear!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unfortunately, Happy Meek finished in 3rd place.\r\nShe certainly seemed off her game, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"...I'm sorry, Meek.\r\nOnce again... I couldn't lead you to victory.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...No.\r\n...It's due to my own lack of ability.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "That's not true!!\r\n...That's not how it is, Meek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "You are an Umamusume with great potential.\nBoth your physical and intellectual capabilities are top-notch.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"Therefore, everything...\r\nis my responsibility as her Trainer...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking thoroughly dejected, Trainer Kiryuin\r\nheaded back with Happy Meek,\nwithout even noticing we were here...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And later that evening...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "…………Um.",
+      "choice_data_list": [
+        "Meek!? What are you doing out here all alone?",
+        "Meek!? What are you doing here all alone?"
+      ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "......They're not here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "\"...My Trainer.\n...Is nowhere to be found.\"",
+      "choice_data_list": [
+        "Any idea where they're headed!?"
+      ]
+    },
+    {
+      "name": "Happy Meek",
+      "text": "……I don't know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...You're always focused only on me, Trainer.\r\n...Whenever we're together, we only ever talk about me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "………………Like I said, I don't know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Happy Meek was feeling down.\r\nStill, it was very typical of Trainer Kiryuin,\nwho was always earnest and deeply caring toward her Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Could I happen to know\r\nwhere she might have gone...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Trainer Kiryuin is always thinking about her Umamusume, so where would she likely go...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Fufu... Meek looks so happy. I had no idea she liked aquariums so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...<username>?",
+      "choice_data_list": [
+        "Could it be...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Clinging to a glimmer of hope,\r\nI hurried off to the aquarium with Happy Meek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Huh... Bitter Glasse?!\nAnd Trainer <username> too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Trainer.\r\n...I've been looking for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Meek...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"...I'm sorry for making you worry.\r\nTo think I would become a source of stress for my own trainee...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I'm... truly a failure of a Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "…………！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I've caused a lot of trouble\r\nfor you too, Trainer <username>...\nI'm truly, deeply sorry.",
+      "choice_data_list": [
+        "Why are you here alone?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"……I wanted to think it through once more.\r\nAbout what it is that I should be doing as a Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Still, the more I think about it,\r\nthe more pathetic my inexperience feels...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Trainer Kiryuin's competence is beyond question.\r\nBacked by her family's secret 'Trainer White Paper,'\nher knowledge is so overwhelmingly profound that none can rival it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her love for Umamusume is more than enough.\r\nHowever, if there is one thing she lacks,\nit would be—",
+      "choice_data_list": [
+        "Did you consult Meek about your worries?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Huh... A-Advice?\r\nA Trainer asking an Umamusume for advice?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I-I've never done that.\r\nNothing to make you worry like that—",
+      "choice_data_list": [
+        "I think it's fine to let them worry about you."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Huh... What...?",
+      "choice_data_list": [
+        "Is racing something you have to take on all by yourself?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "“Still... but still. Dragging Meek down\r\nwith a failure like me is just...”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...It's, not.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...Meek?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "\"...My Trainer is...!\n...Not useless at all!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "…………！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...I want to talk with you, Trainer.\r\n...Not just about me, either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...I want to know more about you too, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "\"...I want to think about you too, Trainer.\r\n...Because I want to do my best together with you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Meek...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...What should I do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"I was supposed to support you,\r\nbut I got full of myself and ended up being supported instead...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I'm not quite sure what to say...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...What should I say...?\r\n...Mun...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...What you want to eat today.\n...Favorite jellyfish. ...Things like that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "C-Come on now... Hehe!\nIt's not like that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Fufufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Still, I want to hear it.\r\nBecause... I want to keep doing my best together with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...Yes!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"...Trainer <username>.\r\nIt seems... you have taught me something once again.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah... That's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I'm sorry, Meek.\r\nCould you wait over there for just a little while?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Just a little bit~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Fufu, yes, just a little.\r\nI'll be right there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Trainer <username>.\r\nOnce again... thank you so very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"So... if you don't mind, would you please\r\naccept my 'Trainer White Paper'?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I feel bad offering something secondhand\r\nas a token of my gratitude, but...",
+      "choice_data_list": [
+        "Are you sure?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes.\r\n...What happened this time really opened my eyes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I am still far too green\r\nto properly utilize the 'Trainer White Paper'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "So first, look up from your book—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I think I'll start by looking her straight in the eye.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...However, for someone like you who sees\r\nUmamusume for who they truly are,\nit is bound to be a tremendous help.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "This is the accumulated wisdom passed down through generations of the Kiryuin family.\r\nPlease, make full use of it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, from Trainer Kiryuin, who seemed somehow refreshed, I received the \"Trainer White Paper.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though small, this heavy volume conveys\r\nthe pride and passion that have been\nhanded down through generations...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Well then, please excuse me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...I need to talk with Meek a lot!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I watched the two silhouettes\nfade side-by-side into the distance for a long, long time...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The Kiryuin family's Trainer White Paper.\r\nThe secrets of Umamusume training recorded within it contributed greatly to <chrname>'s growth!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Excuse me.\r\nI'm going to go talk with Meek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "About the future... and about me.\r\n...I have so much to talk to them about.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...Shall we go, Meek!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And I watched the backs of the two\r\nas they walked off closely side by side...",
+      "choice_data_list": []
+    }
+  ]
+}

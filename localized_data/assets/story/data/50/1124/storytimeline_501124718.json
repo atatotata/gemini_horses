@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ah, Trainer, good morning!\nI really enjoyed my time off!",
+      "choice_data_list": [
+        "That's great! Did you go anywhere?"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Well, yeah. Playing tennis with friends, watching movies, eating sweets at cute cafes...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Afterward, she got her hair and tail styled at the salon, then headed to the sporting goods store to buy a new bottle and towel!",
+      "choice_data_list": [
+        "We sure went out a lot...!",
+        "We sure went out a lot, didn't we...!"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Really? I'm pretty much always like this.\nGoing out here and there is the best way for me to refresh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It was such an active holiday that one might wonder\nif she actually got any rest, but her complexion was glowing.\nIt seemed she had fully refreshed herself in both body and mind.",
+      "choice_data_list": []
+    }
+  ]
+}

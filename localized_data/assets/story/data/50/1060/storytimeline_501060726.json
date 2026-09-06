@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Nice Nature—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hm?\r\nIs that... a Paka Petit?",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Well, um, you see... They added new prizes\nto that claw machine over there.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Nice Nature pointed,\r\nthere was a claw crane game filled with\nplushies modeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "The other day I saw the same one displayed at a shop in the shopping district, and I was impressed by how popular it is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "It just caught my eye for a second, that's all.\r\nCute stuff isn't really my style anyway.",
+      "choice_data_list": [
+        "I'll go get it!",
+        "I'll go get it."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, no, no, it's totally fine!",
+      "choice_data_list": [
+        "I'm the one who wants to get it.",
+        "I'm the one who wants to take it."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eeeh, you'd go that far?\r\nYou sure are an eccentric, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Alright, I'll be watching from here.\r\nDo your best~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

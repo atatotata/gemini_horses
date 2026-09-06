@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Mr. C.B. didn't show up for training. Worried, I was searching the school grounds when a colleague called out to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Your training plan really was incredible!\nI could totally tell you shaved off sleep to put it together.",
+      "choice_data_list": [
+        "I'm still figuring it out through trial and error, though.",
+        "I'm still figuring it out through trial and error, though."
+      ]
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "With this, my trainee should—speak of the devil.\nI hope she likes the menu. See ya!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "――――…………。",
+      "choice_data_list": [
+        "Good, you seem to be doing well.",
+        "Good, you seem to be doing well."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Yeah, sorry about that.\nI just really wasn't in the mood for training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I was just killing time, and ended up slacking off completely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "So, I overheard a bit earlier.\n...You came up with a new menu for me, didn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "\"I'll definitely show up to the next training session.\nI'm really curious to see what the menu will be, after all.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I'm really sorry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Free-spirited as she was, she seemed to regret her actions, so I settled for simply cautioning her to be careful in the future.",
+      "choice_data_list": []
+    }
+  ]
+}

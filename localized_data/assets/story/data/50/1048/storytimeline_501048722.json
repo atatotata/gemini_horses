@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I went to the library on an errand\r\nand spotted Tosen Jordan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uuugh, this is rough... My head's still throbbing~...",
+      "choice_data_list": [
+        "Headache?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Hmm? Oh, it's just you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "My pal helped me study earlier, and now my head is pounding~...",
+      "choice_data_list": [
+        "You were studying!? Good for you!",
+        "You were studying!? Great job!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "What's with that reaction...?! Ugh, so annoying...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "My pal cleared their schedule just to teach me,\nso the least I can do is take it seriously for once!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "That's why I'm sayin' I'm tired~.\r\nI don't have time to deal with you right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ngh...! It's starting to throb again~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her headache persisted for quite a while after that,\nremaining a constant source of trouble...",
+      "choice_data_list": []
+    }
+  ]
+}

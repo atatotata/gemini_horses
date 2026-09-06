@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Calstone Light O—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "...Trainer.\nAre you good at claw crane games?",
+      "choice_data_list": [
+        "I wouldn't say I'm good at it... just average, I guess."
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I'll be blunt.\nPlease teach me how to do that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking in the direction Calstone Light O pointed,\nthere was a claw machine filled with plushies\nmodeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"I happened to receive one the other day, but... having just one on the desk feels so incomplete!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Lining them up in a straight line is truly the way to go.\nThat's what I thought, and decided to give it a try, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Guh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I see.\nI should at least be able to give you a lecture on how to do it.",
+      "choice_data_list": [
+        "If that's the case, maybe I'll give it a try!"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "! Thank you.\nI will watch closely, look straight at you, and commit it to memory!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

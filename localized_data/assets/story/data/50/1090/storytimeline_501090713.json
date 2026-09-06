@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Verxina got injured during training,\nso I brought her to the infirmary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "It wasn't a serious injury,\nso I will return to training now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "A queen cannot afford to be brought to a halt\nby an injury of this magnitude.",
+      "choice_data_list": [
+        "Overdoing it is a no-go, okay? "
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Thank you for your concern.\nHowever, as you can see, it's not hindering my movement much at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Daily accumulation is the true path to the \"pinnacle.\"\nIf so, I wish to keep moving forward without pause—",
+      "choice_data_list": [
+        "…No, let's play it safe and take a break here.",
+        "In that case, just to be safe, let's start with some light exercise."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "You're exaggerating!\nI really didn't do anything—...!",
+      "choice_data_list": [
+        "If you aim for the top, you must ensure you're fully prepared.",
+        "If you aim for the top, you should make sure you're fully prepared."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "—...Ngh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"...Indeed. If worsening my injury sets me back, it would defeat the whole purpose.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "I'm sorry...\nI'll stay quiet and rest for now...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Haa, hah....\n...gh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "\"...I'm sorry, Trainer.\nMaybe I took this too lightly... ngh!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Geez, what on earth am I doing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Verxina's injury worsened,\nforcing her to take a period of rest...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Haa, hah....\n............Phew.",
+      "choice_data_list": [
+        "Any pain?"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Yes! At this pace,\nI'll gradually get used to it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "...Thank goodness. With this, surely\nI won't fall behind the others.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, by continuing with lighter training,\nVerxina smoothly made her comeback.",
+      "choice_data_list": []
+    }
+  ]
+}

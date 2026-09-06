@@ -1,0 +1,216 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On my way back from the Gold Class info session,\r\nI found a Trainer's notebook\ndropped on the ground.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Inside, details about the owner's trainee Umamusume were written down meticulously.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Not just her daily training menu,\r\nbut her love for aquariums,\nher favorite shops, recreated recipes...",
+      "choice_data_list": [
+        "(Could the owner of this be...)"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Good work, Meek.\r\nLet's call it a day here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Yes.\r\n...Um.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Hm? Is something wrong?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Today's meal.\nWhat... do you want to eat?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Indeed. Looking at Meek's recent meal plan,\r\nshe seems to be slightly lacking in dietary fats, so—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"Shall we build the training menu around that?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...Um...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah! Of course,\nwe'll add Meek's favorites too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"Enjoying what you eat is just as important as nutritional balance, after all!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "......Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Then please go change before you catch a chill.\r\nI will join you shortly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "……………………。",
+      "choice_data_list": [
+        "Good work out there, Trainer Kiryuin."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah, Trainer <username>!\nThanks for your hard work.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "I heard the news! I understand\r\n<chrname>-san has reached the Gold Class as well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Truth is, me too.\r\nFufu, it's quite an honor that it happened around the same time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Even so, I still have much to learn.\nI intend to continue striving diligently from here on out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Since Happy Meek reached the Gold Class as well,\r\nTrainer Kiryuin must have attended\nthe briefing earlier today too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thinking it would be best given the situation,\r\nI took out my Trainer's notebook and showed it to her.",
+      "choice_data_list": [
+        "Does this notebook look familiar to you?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah... T-That's—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Thank you so much...!\nI couldn't find it anywhere after coming back from the briefing, so I was really in a bind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "To think I dropped it on the way home...\r\nHow truly embarrassing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "I explained that I deduced the owner's identity\r\nfrom the passionate notes written inside.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Fufu... It is all thanks to the advice\nyou gave me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Every time I learn something new about Meek,\r\nI get so happy that I end up writing pages and pages.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...However...",
+      "choice_data_list": [
+        "Just?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah... N-No!\r\nSorry, it's nothing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Alright, training's over,\ntime to pack up, pack up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Well then, Trainer <username>,\r\nI shall take my leave.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Though she abruptly cut the conversation short, Trainer Kiryuin's demeanor left me somewhat concerned.",
+      "choice_data_list": [
+        "(Will everything be alright...?)",
+        "(Will they be okay...?)"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "...Why?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Why is Bitter Glas struggling to improve so much...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"...There shouldn't be\r\nany issues with the training menu.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Because the Kiryuin family predecessors have always\nachieved results using regimens based on the \"Trainer's White Paper.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"The 'White Paper' is the crystallization of the wisdom\nof everyone who has raised generations\nof GⅠ Umamusume and Hall of Fame Umamusume...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "There isn't a single thing wrong with Meek either...\r\nShe has plenty of motivation, and more than enough ability...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Then what's missing is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "………………。",
+      "choice_data_list": []
+    }
+  ]
+}

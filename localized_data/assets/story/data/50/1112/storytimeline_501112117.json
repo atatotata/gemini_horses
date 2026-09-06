@@ -1,0 +1,607 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"Rhein Kraft won't be able to race anymore.\"\n—A few days had passed since that notice arrived.\nDaring Heart...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Haa... haa...!! ...Guh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Haa... haa...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Sorry, at the very end...\nmy legs gave out on me...",
+      "choice_data_list": [
+        "...It's a little early, but shall we take a break?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Yeah, sorry, thank you.",
+      "choice_data_list": [
+        "(They can't seem to concentrate on training...)",
+        "(Unable to concentrate on training...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I was waiting for her to come to the 'perch' on her own, but... if she loses focus, the risk of injury goes up. Above all else—\"",
+      "choice_data_list": [
+        "(I'm worried about her mental state...)",
+        "(I'm worried about her mental state...)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "—It's not that I didn't want to talk about it.\nIt's just... I'm still feeling conflicted.",
+      "choice_data_list": [
+        "Are you hesitating?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I thought she was just feeling down\nabout Rhein Kraft, but... there seems to be\nanother factor causing her to lose focus.",
+      "choice_data_list": [
+        "Won't you talk to me?",
+        "Won't you talk to me?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Are you sure?\n...I might not be very good at talking.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I don't think your full-of-confidence queen is anywhere to be found.",
+      "choice_data_list": [
+        "Don't worry about it, I'm a perch after all.",
+        "Don't worry about it, I'm a perch after all."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "……That's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"...To be honest, Tact asked me\nto coach her.\"",
+      "choice_data_list": [
+        "Huh...—"
+      ]
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"Of course, I don't mean right this instant.\nI'd like to ask you after Heart-san's races have settled down.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"‘Would you come and watch my training in person?’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"\"......\nWhy me?\"\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"It was your heart—that I came to admire.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"Whether in a race or at summer training camp...\nSeeing you embrace and enjoy harsh conditions was dazzling to behold.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Tact",
+      "text": "\"I have seen the sheer vitality of nature in the mountains since childhood—\nand I feel that very same power within your heart.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"...I was truly happy.\nShe looked straight at my strengths\nwithout looking away.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Connecting my heart to Tact—\ndon't you think a path like that is wonderful, too?",
+      "choice_data_list": [
+        "So that means...—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It means dedicating myself to mentoring the next generation.\nStepping back from the front lines—just like Cesario.\nBringing an end to her youth...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Of course, just like she said...\nwe're not talking about right this second, you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Still, we have to start preparing next year, don't we? We never know when her growth spurt might kick in—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "As a Tiara Umamusume,\nI want to give thorough, one-on-one guidance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Tiara Umamusume training clubs are often run with small numbers. They choose a method of closer, more attentive guidance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "The first three years, so vital for an Umamusume...\nI enjoyed them to the absolute fullest. More than anyone ever could.",
+      "choice_data_list": [
+        "...And your three years will come to an end this year.",
+        "...And your three years will come to an end this year."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Hey, because... either way,\nyou can't run forever, can you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Past the peak――once you're past your peak, it's all downhill from there. The newer generation pulls further and further ahead...――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Just fading away into the shadows of history. If that's the case—\nI thought moving on to the next step while my body is still healthy...\nmight not be such a bad idea.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Besides...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "If the kids I teach make a name for themselves,\nmaybe people will say,\n\"Ah, she was the mentor of that Craft generation\"...",
+      "choice_data_list": [
+        "...! Could you be—",
+        "...! Could you be—"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's the only thing I can do for her.\n...Because Craft and I won't ever clash in a race again.",
+      "choice_data_list": [
+        "Still, that's still—"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "There isn't any.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "One look in her eyes, and you'll understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "The size of the shadow cast upon that heart—\nthe depth of that despair.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...I'll never have another chance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Clashing our hearts against each other...\nnever, ever again...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Now I understand. Having lost the rival she always chased after—\nDaring Heart has lost her reason to run.\"",
+      "choice_data_list": [
+        "(On top of that, Tact came to consult with me...)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"...You can't clash hearts\nall by yourself.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Someday,\nI have to grow up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"The time to change... must be right now.\nMy youth—is over.\"",
+      "choice_data_list": [
+        "(...Is that really true?)",
+        "(...Is that really true?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Whenever she clashed heart-to-heart with her rivals, she was always so full of life—\nshe truly seemed to be having the time of her life.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—As if embodying the radiant brilliance of youth.",
+      "choice_data_list": [
+        "(Could I ever forget those days...?)",
+        "(Could I ever forget those days...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Right now, her eyes are fixed only on what she 'ought to do'...\nPerhaps she hasn't been facing her true feelings. If so—\"",
+      "choice_data_list": [
+        "I'd like to change Saturday's training schedule."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Huh...?",
+      "choice_data_list": [
+        "Let's go out for the whole day!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I wonder if you can return this ball!?\n—Heartbeat Smash!!",
+      "choice_data_list": [
+        "Hit it back—... I can't!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(*plump...*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Yes! 6-0!\nThis set is my win too!",
+      "choice_data_list": [
+        "...You're totally merciless!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Oh? Did you want me to?\nI thought you'd prefer a direct head-to-head match♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Besides, isn't today's date...\none where you're supposed to treat me,\nrather than the other way around?",
+      "choice_data_list": [
+        "It's not a date, though..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I'm certainly the one who invited her out for a break and planned the schedule. I've already got more things lined up that she'll enjoy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "In that case, I won't think about a thing\nand just enjoy myself to the absolute fullest!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Now, get your racket ready!\nWe're going for at least five more sets~♪",
+      "choice_data_list": [
+        "(...A demon...!)"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "—Oh?\nThis aquarium...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"...How strange, the fish aren't moving.\nAlmost like ornaments—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "PA Announcement",
+      "text": "\"—The time has come. From this moment on—\nthe Terrifying Shark Zombie Park is officially open.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...!?\nZombie Shark Park...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "\"Shark...! \nShark shark...!\"",
+      "choice_data_list": [
+        "Whoa, there's a huge shark in the tank!?"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "\"Ooooh...!\nOoooooooh...!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Zombies are coming from deep inside...!\n—Wait, are we in total checkmate?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "PA Announcement",
+      "text": "\"‘From this moment on, you must escape this facility\ninfested with sharks and zombies—using your courage,\nwisdom, and the bonds between you!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "All right, guess we just have to do it.\nTrainer, are you ready?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "“—If it's us, we can break free!\nLet's go!”",
+      "choice_data_list": [
+        "A-Ah! (She's really getting into it!)",
+        "Y-Yeah! (She's totally into it!)"
+      ]
+    },
+    {
+      "name": "A Certain Famous Singer",
+      "text": "\"Tokyo, are you\nready for tonight?\nI've finally returned to Japan!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Famous Singer",
+      "text": "\"The respect. The love.\nThe heart――Dance!\nThis night is for you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Wooooo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I never imagined I'd get to see\nsuch a superstar up this close...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "How did you manage\nto get premium tickets like these!?",
+      "choice_data_list": [
+        "I really just got it by chance.",
+        "I really just got it by chance."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"After learning she had a performance today, I glued myself to ticket resale sites hoping for a cancellation... and managed to snag one.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "Whoa, oh, oh, oh!\nOh oh oh oh oh~ oh whoa oh oh~\nOh oh!",
+      "choice_data_list": [
+        "Still... what an incredible turnout...!",
+        "Still... everyone's so hyped up...!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ah! Trainer, she just looked at me!\nI know she did!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Okay, a Queen showdown, is it!\nI won't lose~~♪\"",
+      "choice_data_list": [
+        "Fuh... Fwoooo!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, enjoying our day off to the fullest with Daring Heart—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Phew~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "So this is what satisfying exhaustion feels like.\nThis feels good...",
+      "choice_data_list": [
+        "Did you have a good time?",
+        "Did you enjoy it?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Yes, very much so!\nIt feels as if my heart has been wiped completely clean.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "\"Haaaaaaaaaaaa...!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...!",
+      "choice_data_list": [
+        "...Heart?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...It just made me remember what happened at the Oka Sho.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "After stripping everything away, the first thing that comes to mind—\nis the exhilaration of that day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...I had fun. Without thinking about anything,\njust chasing Craft... chasing everyone...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I was able to throw everything I had into it, following my heart.\n—I truly believed it would last forever...",
+      "choice_data_list": [
+        "...Could you really bring yourself to leave those days behind?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "――……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "......\nBut—what should I do?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nothing can stay the same forever.\nIn fact, right now, I'm... all alone...",
+      "choice_data_list": [
+        "—Can't we connect it through running?",
+        "—Can't we connect them through running?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Huh...—",
+      "choice_data_list": [
+        "Your running carries the passion of those days.",
+        "Your running still carries the heat of those days."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Daring Heart bravely relished facing her rivals—\nand spread that fiery passion to the crowd.\nWhenever she runs—",
+      "choice_data_list": [
+        "Everyone will remember your race.",
+        "Everyone will remember your race."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Will I carry those days—into the future...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Like Pandora, girls with new kinds\nof power are already starting to emerge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "The situation only grows\nmore harsh for me. Even so—",
+      "choice_data_list": [
+        "You have a \"Daring Heart.\"",
+        "You have a “Daring heart.”"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Physical strength will surely fade. However—\neven time cannot steal an unyielding will.\nAnd even if it should crumble—",
+      "choice_data_list": [
+        "I'll support you all the way.",
+        "I'll support you no matter how far we go."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Why?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You're a wonderful Trainer.\nI'm sure you will achieve great feats down the line.\nAnd yet...",
+      "choice_data_list": [
+        "I just love your youth.",
+        "I just love your youth"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "…………。",
+      "choice_data_list": [
+        "Tell me. Do you need to change?",
+        "Tell me. Do you need to change?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "…………You're always like that, aren't you?\nYou always affirm me... just as I am.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...I love running.\nI truly love racing, where hearts clash against one another.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I am Daring Heart. No matter the situation, I can face it head-on.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daring Heart",
+      "text": "—Even if I end up all alone,\nI'll keep surviving!",
+      "choice_data_list": [
+        "That's it! That's what makes you... you.",
+        "Yes! That is truly... who you are."
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Thank you, Trainer.\n...Thank you so much...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "This day has finally come!\nI'm definitely gonna clear my name from that last race right here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Just sit back and relax, you hear?\r\nWatch me take 1st place!",
+      "choice_data_list": [
+        "You're full of confidence, huh"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Duh, of course! If your heart's already given up,\r\nyou won't even win the races you could've won!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Alright! I'm off then!",
+      "choice_data_list": []
+    }
+  ]
+}

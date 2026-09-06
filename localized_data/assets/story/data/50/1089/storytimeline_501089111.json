@@ -1,0 +1,611 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Thinking \"Someone like me could never...\"\nThe fledgling who had curled up small to avoid standing out was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Over the span of three years, she grew large and powerful wings.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She who once went unnoticed by all is no longer here.\nNow, so many look up with adoration\nat the heights to which she soars.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And once again, spring arrived—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A certain request came in\nfor Cheval Grand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "A joint training event... with new students?\nYou want me... to participate in that...?",
+      "choice_data_list": [
+        "Right, a request came in."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "A day-long training event where new students receive guidance\nfrom the upperclassmen of their choice,\nthen compete in mock races to show the results.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheval Grand had been asked to participate\nas one of the instructors.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "U-Um... but if I remember correctly,\nthe freshmen are supposed to submit requests\nfor which senior they want to mentor them—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"...Did someone on the senpais' side\nend up unable to participate?\nSo I'm filling in as a substitute—?\"",
+      "choice_data_list": [
+        "No, no, not like that!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Smiling wryly at her perpetually low self-esteem,\nI decide it would be quicker to just show her\nthe text of the request email.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheval Grand's name was indeed clearly listed there\nas having requested a trainer—",
+      "choice_data_list": [
+        "There's a girl who wants to learn from you",
+        "There's a girl who wants to learn from you!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...To, me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing Cheval Grand looking completely dazed, I asked her once more... though I could somehow already guess what her answer would be.",
+      "choice_data_list": [
+        "So, what do you want to do?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Uh, well—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "……!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...I will... participate.\nUm—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"I-If... If you really think...\nI'm good enough, that is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Um, well—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...I-I'll go... do my best!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Well, I said it, but still...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(N-No way... the others who got called here...\nwere Kita-san and the rest...?!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Freshmen",
+      "text": "Wah-wah-wah, it's Kitasan-senpai...!\nShe's just got that star presence, you know...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Freshmen",
+      "text": "Crown-senpai's aura is incredible too!\nShe's one of the faces of the Satono Group and active on the world stage, after all...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Freshmen",
+      "text": "Hyaa~... S-So that's Duramente-senpai...!\nUgh, the aura is insane...\nL-Look, my hands are shaking...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Freshmen",
+      "text": "But still, but still, Cheval-senpai next to us too!\nYou saw the Japan Cup, right?\nThat running was incredible...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Ah...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...A-Alright.\nDon't be scared, don't be scared...!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "—It's time.\nLet's commence training, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ah... Um! N-New students, please...\nGo receive guidance from the senior Umamusume you chose...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Freshmen",
+      "text": "Yes!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sharp-Eyed Umamusume",
+      "text": "...All right.\nLooking forward to working with you, Duramente-senpai!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red and Yellow Hair Ornament",
+      "text": "I'm ready too, please!!\nI've been looking forward to today so much!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "You both have eyes burning with ideals.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sharp-Eyed Umamusume",
+      "text": "Yes! Ever since I first watched your race, Senpai,\nI've been chasing after your back!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sharp-Eyed Umamusume",
+      "text": "That's why someday I'll catch up and pass you...\nEven in the Kikuka Sho that you couldn't run in,\nI'll run, and I'll win—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sharp-Eyed Umamusume",
+      "text": "I'll prove I'm 'the strongest'\nby capturing the Classic Triple Crown!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red and Yellow Hair Ornament",
+      "text": "\"Hey, hey! Don't you go hogging\nall the spotlight!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red and Yellow Hair Ornament",
+      "text": "Duramente-senpai! My goal is the Tiara route, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red and Yellow Hair Ornament",
+      "text": "“So right there, I'm gonna put on an incredible run\nthat'll make you proud, Senpai!!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Red and Yellow Hair Ornament",
+      "text": "The glory of achieving the Triple Tiara!!\nI'll be sure to prove it right before my senior's eyes!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I see.\n...I understand your resolve.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"Then let us begin.\nI won't hold back.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "\"The running of the 'strongest' that dwells within this blood...\nI shall pass it on to all of you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Phew...!!\nUm, something like this—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "...Thank you very much.\nThat was extremely informative and helpful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Y-You really think so?!\nI'm glad to hear that, but...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "\"Still, uhm... you really have an incredible sharpness to your stride, don't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "So rather than copying my running style directly,\nit might be better to learn how to race from behind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "...Understood.\nHowever—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hm?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "To me, the one I look up to...\n...has always, always been you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "I...\n...want to aim for a brilliance like yours.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Yup, thanks!!\nThen I'll teach you everything I possibly can!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "Yes.\nI would love that, thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "Holding what I learned close to my heart.\n...Forever and ever, climbing higher.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Black and White Ribbon",
+      "text": "Even the throne of the world's strongest.\n...I will climb all the way up to it—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Huh, the \"Japan Derby\"!\nHeh, not a bad dream at all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Musical Note Hairpin",
+      "text": "Ah, thank you very much!\n...Honestly, given how my abilities are rated right now, it might be dreaming a bit too big, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Musical Note Hairpin",
+      "text": "I know it might sound like I'm talking big\neven though I haven't even debuted yet, but...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Oh, do you think so?\nWhen it comes to setting up the finish line,\nthe sooner the better, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Because that just gives me\nmore time to use my head.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Musical Note Hairpin",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "You have to think, prepare, and build yourself up.\nWith tireless effort and thorough preparation—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "No matter what illusion it is!\nThere's no doubt that I can make it happen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Musical Note Hairpin",
+      "text": "Yes... yes, Crown-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume with Musical Note Hairpin",
+      "text": "I swear... I will claim it.\nEveryone's dream, the Japanese Derby...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Such incredible heat. They're all so driven, and brimming with talent—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "Ah... Um, excuse me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "! Ah, s-sorry!\nI was spacing out...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "N-No, that's not it... I-It's my fault.\nMy body is small... my voice is quiet... and I barely stand out at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Huh. I kind of... sympathize with that...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "B-Because of that, I don't even know\nhow I managed to get enrolled...\nI'm being left behind by everyone...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "I-I'm so sorry.\nFor someone as talentless as me to ask for coaching...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...No. Not at all.\nYou have nothing to apologize for.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"Indeed... Everyone around seems amazing.\nLike they're sparkling, or something...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "Ugh... Y-Yes, that's right.\nThat's why I—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Are you comparing yourself and feeling down?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Everyone else is so amazing, while I'm just so hopeless... that's what I thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I understand. It's easy to worry about what others think.\nHowever, that's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"I think... it's also a chance\nto become stronger.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Because I lack self-confidence...\nI can see so many good things in others.\nAs well as everything I'm lacking.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Others' good qualities. Areas where you can grow.\nIf you can embrace and utilize both...\nI'm sure you'll become stronger.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "Strong... I-I...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Yeah. So, all that's left now is...\nto acknowledge and give yourself credit,\neven just a little bit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Let's do our best so we can become like that.\nShall we start our training?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "...Hk, yes...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And so, the new students each received guidance from the upperclassmen they looked up to—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At the end of that day, during the mock race she challenged...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Freshmen",
+      "text": "Daaaaaaaaaaargh—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ooooh!!\nAlright, alright! She's winning!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Hehe, not bad♪\nThat's the first step toward your dream!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...That was a good run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The freshmen guided by Kitasan Black and the others each seemed to have achieved remarkable results.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "Hah... Hah...\n*sniff*—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "I-I'm so sorry, I...!\nGetting a late start, of all things...!\nE-Even after everything Senpai taught me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "N-No, don't worry about that...!\nYou... did your absolute best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "B-But...!\nWith a result like this... I-I...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(I wonder if she thinks, 'Someone like me'...\nEven though that's not true at all.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Because—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "I know... I'm really\nnothing special... b-but still!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "...I'll do my best not to give up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "\"Your Japan Cup, Senpai.\n...I was watching it.\nI watched it... and that roar gave me chills.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "\"I felt like... they were telling me,\n‘It's all right, you'll be fine.’\n‘So march forward toward what you want to become!’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Petite, Shy Umamusume",
+      "text": "\"That run... I'll never, ever forget it.\nI'll... muster my courage and forge ahead, too!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ngggh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Yeah.\n...Yeah, I'm... cheering for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, after finishing her session and returning to the trainer's office, Cheval Grand—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With that same timid smile as always,\nshe still beamed bashfully, as if to say,\n\"Something wonderful happened.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "\"I was truly... so happy.\nFar more than someone like me deserves.\"",
+      "choice_data_list": [
+        "(...That's not really true, though.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even so, seeing her march forward as her true self,\nunchanging through it all—\nsomeone out there will find the courage to keep going.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"That is precisely why she is nobody else,\nand resembles no one—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A \"truly great Umamusume,\" more so than anyone else.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "A few days into the new year,\nI was out shopping in the commercial district with Believe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Right now, I'm waiting for Believe, who went to the hardware store to restock on sandpaper.\"",
+      "choice_data_list": [
+        "You use that sandpaper in the Trainer's office a lot, don't you?",
+        "You use that sandpaper in the Trainer's office a lot, don't you?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Sorry to keep you waiting.\nI had trouble finding sandpaper\nwith the grit I was looking for.",
+      "choice_data_list": [
+        "Position?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "It's the grit number that serves as the standard for coarseness.\nThe lower the number, the coarser the grit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Also... when I bought it,\nI got a raffle ticket, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "And... well, well! If it isn't the Umamusume missy who hit first prize last year!\nHow about it, wanna test your luck again this year?!",
+      "choice_data_list": [
+        "Since we're here, go on and give it a try!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Ah... yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Believe takes the handle of the raffle wheel and spins it.\nThe result is—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...Eh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...I actually won.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Well then, Trainer, after you.",
+      "choice_data_list": [
+        "No, no, no!? ...I told you this last year too, though!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "No. Like I said last year, too,\nI'm not really one for traveling.",
+      "choice_data_list": [
+        "Ugh... No, but...!!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Then how about calling it a 'reward'?\nCompensation for your hard work.",
+      "choice_data_list": [
+        "That's because I'm getting paid..."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "That is your reward from the Academy.\nThis... is my reward to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Work should come with appropriate compensation.\nBecause that's what's necessary to maintain\none's livelihood and keep on working.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Normally, there is nothing I could offer you.\nHowever, today, right now, I can.",
+      "choice_data_list": [
+        "By that logic, you should get a reward too!",
+        "By that logic, you should get a reward too!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"We're doing this work 'together.'\nSo it makes no sense for only me to be rewarded!\"",
+      "choice_data_list": [
+        "(I'm not backing down here...!!)"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(—Ah, she's not backing down at all...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"I understand the logic.\n...I accept it.\"",
+      "choice_data_list": [
+        "Huh! Then...!!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "\"I'll hold onto these tickets for now.\nAnd once my work reaches a good stopping point—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Let's use it together, you and I.\n...As the proper form of reward.",
+      "choice_data_list": [
+        "Yeah. Let's do that!",
+        "Yeah. Let's do that!"
+      ]
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "O-Ohh... Those two are kind of... unusual, aren't they...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Oh, Bel-chan!\nWhat's up... are ya in a pretty good mood today?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Huh? Ah... I wonder. Though—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...I was just thinking it's rare for you to lose a battle of endurance.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Well then, Trainer-san, after you.",
+      "choice_data_list": [
+        "No, no! I don't think I could finish it all...",
+        "No, no! I don't think I could finish it all..."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Still, I'm not that big of an eater either—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...No, I see.\nThen, not me, but.........\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "And that is why I'm giving it to you.\nHere you go, Acute-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "My goodness, what a splendid carrot hamburg steak!\nI'm delighted, but... why give it to me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "They often share their rice bran pickled daikon with me.\nThis is a token of my gratitude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "\"These crunchy treats? Believe-chan\nalways finishes every single bite, you know.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "That is... because it is delicious.\n...Extremely delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "These nukazuke pickles clearly show true skill...\nI felt bad getting them for free all the time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, isn't this a heartwarming sight?\nYoo-hoo! Welcome to the Accu-Tra room, Believe-chan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Carrot Hamburger Steak, huh? Hmm, hmm.\nIn that case, let's give this a shot—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Let's throw a potluck party~!\nYeah, yeah☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "So with that, here's what I brought!!\nA \"Mystery Drink that changes flavors halfway through\"~.\nLet's all have a blast with it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Tran-san is so stylish as always~!\nI can't wait to see what it tastes like!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "From me... um.\nIt's \"simmered ganmodoki tofu fritters\".\n...Please have some as a palate cleanser.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "My, oh my~♪\nThis looks like it'll leave a lovely, refreshing taste in your mouth.\nSimply delightful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Believe was able to spend a fun time at the party.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...That really is an incredible amount.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Um, Trainer-san—",
+      "choice_data_list": [
+        "I'd be more than happy if you could just spare one...!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Well, that figures.\nIn that case, all that's left is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(Ah, right, with this much...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Uhyaa, amazing, amazing, amazing!!\nYou can really carve a butterfly out of a carrot!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"The plum blossoms and chrysanthemums are so pretty too...!\nUm, is it okay if I look at them a bit longer?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...I don't mind, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Hold on, hold on!\nDid I hear someone around here is using magic~!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No, they're just decorative vegetable cuts, really...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "That looks super fun!!\nShow Maya, show me too~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(They just keep multiplying...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(I only thought that since Grandma knows so many decorative cutting techniques, I should practice them too, but...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "\"Whoaa~!! That's amazingー!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(...Oh well, whatever.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "(I'll simmer the chopped pieces together...\nand feed them to these kids.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's better than getting a miss, but just one\nfeels somewhat lonely...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Or so I had thought.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mysterious Elderly Person A",
+      "text": "Aaah, a carrot! A whole carrot!\nUm, could I possibly have that, please...iku!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mysterious Elderly Person A",
+      "text": "Please! I desperately need just one single carrot right this second...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Um... Ah, yes, here you go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mysterious Elderly Person A",
+      "text": "Thank you so muuuuch~!!\nUmm, as a token of my gratitude... please accept\nthis rock!! Now, if you'll excuse me~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...What was that all about?\nBoth that person... and this stone.\"",
+      "choice_data_list": [
+        "I wonder what that was all about... Wait, hm?",
+        "I wonder what that was all about... Wait, hm?"
+      ]
+    },
+    {
+      "name": "Mysterious Elderly Person B",
+      "text": "Ooooh!? Th-That stone! That vivid red!\nThat is precisely what I have been searching for!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mysterious Elderly Person B",
+      "text": "\"Won't you please trade with me?! For this 'little vial'! Please, pretty please~~!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And even after that,\nthanks to one elder after another appearing,\nthe 'vial' turned into a 'parasol'—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The parasol changed into a bouquet—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just as the \"bouquet\" turned into a \"coin,\"\nBelieve began speaking rather quickly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Trainer.\nLet's call it a day here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...It's about to become a whole 'mansion.'\nNot that I can just move out of the dorms, though.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Starting off the New Year like this...\nThat's a bit of bad luck...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Believe was left feeling\na little crestfallen...",
+      "choice_data_list": []
+    }
+  ]
+}

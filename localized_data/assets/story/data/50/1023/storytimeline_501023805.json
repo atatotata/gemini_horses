@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, when I visited the library with Biwa Hayahide—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "How troublesome. I can't find the textbook I'm looking for.\nAnd since there's no checkout history, that means...",
+      "choice_data_list": [
+        "Maybe someone was reading here?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, that book... so it was with you, Kris S?\nI was just looking for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "There's no rush, so just pass it along to me\nwhenever you finish reading.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "About that...—I apologize.\nI'm sorry, but... it looks like I'll be late.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "This textbook... The Japanese is difficult.\nThere are... too many parts that I do not understand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm, if that's the case, allow me to explain.\nReading it together helps us out too,\nafter all. Right, Trainer-kun?",
+      "choice_data_list": [
+        "Yeah, what do you think, if Kris S is up for it?",
+        "Yeah, how about it if Kris S is okay with it?"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...That would be a great help. Right now... I'm stuck right here...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, Biwa Hayahide read through the book\ntogether with Symboli Kris S, adding explanations along the way.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Calculations show that with this method,\nwe wouldn't achieve enough speed for the amount of energy consumed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "I see......――Then what about this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "It is read as \"dissipative micro-perturbation.\"\nIt refers to an indeterminate factor in turbulent flow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You're right, don't just understand it through words,\ntry actually picturing it in your mind.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "The flowing air, the gusting wind.\nThey are fluid, chaotic phenomena.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"It is impossible to predict or control accurately,\nand factoring it into running calculations only introduces error.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Truly turbulent air currents!\nAt times blocking the path, at other times becoming a tailwind!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"What matters are robust legs and hips that\naren't easily swayed by airflow!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Dissipative microscopic perturbation... Memorized, understood.\nAmazing... That was very clear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Fufu, that's good to hear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "I... don't have siblings.\nSo...—I don't know what that feels like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "But now... having an older sister like you.\nI think... it's reassuring.",
+      "choice_data_list": [
+        "Yeah, you're just like a real big sister.",
+        "Yeah, you're just like a real big sister."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahahaha.\nNot to boast, but I've been a big sister for quite a long time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "When we were little, just like this, I used to teach Brian how to read books.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Hayahide",
+      "text": "\"—Listen, Brian.\nDon't slack off like the youngest\nof the 'Three Little Pigs.'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Hayahide",
+      "text": "If you work hard and stay serious, you'll run faster.\nMaster the basics, and you will grow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Hayahide",
+      "text": "\"On the other hand, if you keep slacking off...\nThe big bad wolf will gobble you up~~! Gwaaargh~~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Brian",
+      "text": "Kyahahaha! That tickles!\nAhahaha, Sis, stooop~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Takes me back. Thanks to Brian,\nI still haven't shaken the habit of fussing over people.\"",
+      "choice_data_list": [
+        "She was such a kind big sister, huh.",
+        "She was such a kind big sister, wasn't she?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "That's a misleading way to put it, Trainer-kun.\nI'm still kind even now, aren't I? Fufu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—...Must be nice.\nHaving an older sister like you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Feel free to rely on me whenever you wish, then.\nI certainly don't mind being leaned on!",
+      "choice_data_list": [
+        "When Hayahide wants to lean on someone, I'll step up.",
+        "When Hayahide wants to lean on someone, I'll step up.",
+        "I guarantee they're reliable!",
+        "I guarantee they're reliable!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Feel free to rely on me whenever you wish, then.\nI certainly don't mind being leaned on!",
+      "choice_data_list": [
+        "When Hayahide wants to lean on someone, I'll step up.",
+        "When Hayahide wants to lean on someone, I'll step up.",
+        "I guarantee they're reliable!",
+        "I guarantee they're reliable!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"I appreciate the thought, but... no.\nI'm not quite used to leaning on others, you see.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Even if you are my Trainer-kun,\nyou know you can lean on me from time to time, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Ah... I recommend it.\nIt's very... gentle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Come on, try calling me \"Onee-chan.\"\nHeheheh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Haha, getting the Trainer's official seal of approval, are we?\nGuess I can't afford to half-ass this now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I'd be glad to help if there's anything I can do.\nFeel free to ask anytime, Kris S-kun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Ah... I will ask again.\nFor an explanation... of the books I cannot read.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Leave it to me. I shall make you\nan expert in Japanese!",
+      "choice_data_list": []
+    }
+  ]
+}

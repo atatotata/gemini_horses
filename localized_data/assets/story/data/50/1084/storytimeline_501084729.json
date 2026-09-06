@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tanino Gimlet",
+      "text": "……\"Ruin\", is it……?",
+      "choice_data_list": [
+        "Sorry... I couldn't catch it."
+      ]
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"I don't care.\nSeeing you scramble with bloodshot eyes,\nstruggling to win the Goddess of Victory's favor...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "It was quite an entertaining tragicomedy.\nThis, too, shall become a fond memory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tanino Gimlet",
+      "text": "\"I was thoroughly entertained by this fleeting moment.\nTherefore... there is no need for pessimism.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

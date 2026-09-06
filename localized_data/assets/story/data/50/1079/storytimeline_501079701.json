@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Furioso",
+      "text": "\"Thank you for the time off.\nI had a relaxing time back home.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "I want to say \"I'm home\" to my family,\nhelp with chores, eat meals,\ngo out... and just relax.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "Having a place to return to brings peace to the heart... and gives you strength.\nI was reminded of that once again. ...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Furioso",
+      "text": "\"—I'm back, Trainer.\nLet's do our best together once again.\"",
+      "choice_data_list": [
+        "Welcome back, Furioso!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Furioso came back\ncompletely recharged and full of energy!",
+      "choice_data_list": []
+    }
+  ]
+}

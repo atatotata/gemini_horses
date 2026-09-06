@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On my day off, Taiki Shuttle invited me\r\nto go buy cosmetics at the mall—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"So you really don't sell it here, huh~\nNothing else will do, desu kedo...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ugh... At this rate, my skin is going to turn into a Wild West dessert--...!",
+      "choice_data_list": [
+        "Where can I buy it?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Weeell... so far,\r\nI haven't seen any in Japan.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "*sigh*... I guess I have no choice but to wait\r\nfor the Family to send it to me, huh~?",
+      "choice_data_list": []
+    }
+  ]
+}

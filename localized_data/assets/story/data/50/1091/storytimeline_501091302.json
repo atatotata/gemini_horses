@@ -1,0 +1,629 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, on the way back from shopping with Vivlos—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Oyo?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trainy,\nthey're up to something!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Wah!\nIncredible, so coool♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Hey hey,\nwon't you try it out for a bit?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Who knows,\nI might just win a hot spring trip!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Out of everyone in my family,\nI was always the best at stuff like this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hey, isn't it great?\nRight? Right?",
+      "choice_data_list": [
+        "Alright, let's give it a try."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "From the shopping just now,\nI happened to have one lottery ticket in hand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yay♡\nAll right...——",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Hey, hey, mister.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "...Hm?\nM-Me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yeah.\nHey, so, I have a favor to ask~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "*staaaare...* ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Gasp...!?\nU-Um, well...",
+      "choice_data_list": [
+        "No amount of begging will win you the grand prize.",
+        "No amount of begging will win you the grand prize, okay?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Huh?\nI can't~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "“It's fine, though—luck is on my side♡\nAlrighty, let's give it a shot!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Vivlos enthusiastically\nturned the lottery wheel crank!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Oooohhh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trainy-poo~~?!",
+      "choice_data_list": [
+        "As expected, you've really got it!",
+        "As expected, you've really got it!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hey, hey, isn't this insane?!\nShe's just too amazing~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations!\nI'm so happy for you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Thank you~♡\nMaybe it's all thanks to you, big bro?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "You said a little prayer for me\nso that I'd win, didn't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ahaha... Just saying a little prayer\nisn't cheating, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Mm-hmm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"If you cheer for me, mister,\nI feel like I could do anything♡\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "R-Really...?\nAlright, let's go cheer them on in the race too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Kyaa~.\nThanks~!",
+      "choice_data_list": [
+        "(Still so good at wheedling, as always...)"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Looks like we've got no choice\nbut to give it our all, right, Trainie?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Still, you need stamina to do your best, right?\nSo...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "First, we go to a hot spring\nand recharge our energy, like♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An important race awaits Vivlos ahead. Under normal circumstances, this would be the time to focus on training, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "“...I mean, you have an important race coming up.\nIt can wait until after.”",
+      "choice_data_list": [
+        "...Sure."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Huh?",
+      "choice_data_list": [
+        "Go enjoy the hot springs."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Are you sure?\nEven though you have a race?\"",
+      "choice_data_list": [
+        "You've been through a lot, after all.",
+        "You've been through a lot, after all."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Emotionally, there had been a nonstop series of tense moments.\nVivlos has been working so hard, and more than anything,\nI've been wanting to give her the praise she deserves.",
+      "choice_data_list": [
+        "This must be your reward for working so hard!",
+        "This is your reward for all that hard work!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "A reward...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "……。",
+      "choice_data_list": [
+        "I'll adjust my schedule, when would be good for you?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"...At the very end of\neverything we have planned!\"",
+      "choice_data_list": [
+        "Huh? Does that mean..."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "No, it's fine.\nI'd really rather wait until everything is over!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "If it's a reward for working hard,\nI already got one from Trainie.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "You give me lots of praise every single day, right?\nThat's all I need!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"So why don't we make the hot springs trip\na reward for me... and you, Trainy?\"",
+      "choice_data_list": [
+        "Mine...?",
+        "Mine...?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yeah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "You've been working super hard too, Trainie.\nI want you to get a real reward!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"I'm gonna work super hard again starting tomorrow...\nSo let's look forward to our reward, Trainie!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Feeling Vivlos's thoughtfulness...\nI quietly slipped the hot springs trip ticket into\nthe last page of my planner.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ooooh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Hey hey, isn't that amazing!?\nAm I not totally blessed~!?\"",
+      "choice_data_list": [
+        "That's incredible!",
+        "Amazing!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Right, right? ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ehh, that hamburg steak\nlooks crazy delicious! ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Well then,\nI'll contact you later~",
+      "choice_data_list": [
+        "Contact?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yeah!\n'Cause it looks super duper tasty!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "I want the people I love\nto taste it too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hello, Big Sis?\nCan you come to the cafeteria right now~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Mmm!\nIt's so yummy, Big Sis♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "Yeah, that's true... It's well-seasoned,\nbut you can still taste the natural savoriness of the meat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Right? Sis, you're way too good at food reviews!\nAs expected of my big sis!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Come on, Trainy, you too!\nGive us your food review!",
+      "choice_data_list": [
+        "…So juicy! So full of flavor!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Kyah.\nSounds like a pun~!",
+      "choice_data_list": [
+        "(Even after I put so much thought into it...)"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ehehe, this is fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "It would've been even more perfect\nif Cheva-chi was here too, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Verxina",
+      "text": "I handed Cheval's share\nto her roommate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Thanks.\nIt really was pretty sudden, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "It smells so good~,\nI'm sure Cheval-chi will gobble it right up too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "If everyone thinks it's tasty,\nthen I'm super duper happy too! ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hyaa!\nThere's so much!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Is it really okay for me to take this much?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Yeah, of course!\nEat up and enjoy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yay~!\nThank you♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hey hey, Train-chi!\nWe have this whole bunch, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"If we're gonna do this—\nlet's make it a party!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The next day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "“—Yes, this!\nThe carrot cake I made!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Eeeh, wow!\nThey're bite-sized and so cuteâª",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"...Did you add some unusual spices?\nIt has such a stylish finish. Was it your idea?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Yeah, going for a little Dubai vibe~ ♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "A spice souk... Inspired by an open-air market, I mixed together all kinds of spices♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Wait, Sis and Trainy did\nmost of the cooking, though♡",
+      "choice_data_list": [
+        "Haha..."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "What did everyone make with carrots for today~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the garden party proceeded in grand fashion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Aw, third prize, huh?",
+      "choice_data_list": [
+        "Still, a win is a win.",
+        "Still, a win is a win."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Mmm~~... But still, I really wanted to win something amazing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Ah, that's right.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Huh~?",
+      "choice_data_list": [
+        "...Hm?"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trainy,\ncomfort me~...",
+      "choice_data_list": [
+        "...I—I did my best!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "…………。",
+      "choice_data_list": [
+        "Great job turning it with all your might!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "…………。",
+      "choice_data_list": [
+        "...If you draw, every ticket will be first prize!",
+        "...If you draw, every ticket will be first prize!"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ahaha!\nOh, Trai-ner, come on now~~♡",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Giggle... Ehehe,\nah well, anything goes~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Mister!\nPlease give me the first-prize carrot!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I wasn't quite sure what was going on,\nbut Vivlos happily accepted\nthe single carrot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Eeeh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"No waaaay!\nWhyyy!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Of all things...\nA consolation prize!?",
+      "choice_data_list": [
+        "Stuff like this is just down to luck..."
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "But still, but still,\na truly blessed celebrity would win, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Vivlos",
+      "text": "Then that means I'm not a celebrity at all!\nNo waaaay~~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"And with that, Viwlos's mood\nhad taken a total downturn...\"",
+      "choice_data_list": []
+    }
+  ]
+}

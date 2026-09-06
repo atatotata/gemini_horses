@@ -1,0 +1,662 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, on the way back from\naccompanying Orfevre on a shopping trip...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...How noisy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": [
+        "Wow, a lucky draw—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Silence them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "The piercing toll of the bell,\nand the clamorous uproar of the masses...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "How unpleasant.\nMake them stop, at once.",
+      "choice_data_list": [
+        "T-That's a bit too much—"
+      ]
+    },
+    {
+      "name": "Child A",
+      "text": "—Mmh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...?\nWho are you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "Sparkly big sis, here's a present for you.\nIt's fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The child held out a single lottery ticket.\nWith this, we can try our luck at the raffle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "You didn't look like you were having fun, big sis.\nI already had my turn, so don't worry about me.\n—Here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "...What should we do?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...It is an offering presented\nby a child sacrificing their own flesh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I will not treat you poorly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trainer, you do it.",
+      "choice_data_list": [
+        "Huh, me?",
+        "Huh, me?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Know that this has been entrusted to me and to my child.\n—You understand, do you not?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Feeling the pressure radiating from Orfevre, I plucked up my courage and spun the lottery machine's lever!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...The grand prize, huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You think there's nothing more beyond this?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Yes!\nIt's the main attraction!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Well done, Trainer.\nI shall grant you my praise.\"",
+      "choice_data_list": [
+        "(I-I was praised...!?)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "And what of the child?",
+      "choice_data_list": [
+        "I think they've already gone home, though..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Go search for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "This is a ticket for that.\nWe are pleased. We shall bestow a prize upon that one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bring them before me\nwithout delay.",
+      "choice_data_list": [
+        "Eeeeeeeh...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I ran all over the place searching for the child who gave me the ticket... and just as exhaustion set in,\nby some miracle, I managed to find them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—That,\nI give to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "A reward for entertaining the King.\nAccept it with gratitude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "...I don't need it!",
+      "choice_data_list": [
+        "Huh?!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...What?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "I know you, sparkly big sis.\nYou're gonna run, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "\"You know, I like cool things.\nI want you to do your best, Big Sis.\nSo, here you go!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Child A",
+      "text": "Get lots of rest,\nand do your super best!\nSparkling Big Sister!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "Orfevre..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "I know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—I will forgive your previous insolence.\nIn return, swear an oath to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "That from here on out, every single step\nOrfevre takes will be burned into my memory.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"I am far more 'cool'\nthan anything you have ever known.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trainer.\nPut that ticket away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"When the time comes, I will let you know.\n...Winning the Prix de l'Arc de Triomphe comes first.\"",
+      "choice_data_list": [
+        "...Ah!",
+        "...Yeah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I decided to hold onto the hot springs voucher...\nuntil the glorious day yet to come.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...1st prize, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "A utterly mediocre result.",
+      "choice_data_list": [
+        "(It should be incredible, though...!)"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—Oh.\nWell well... what a coincidence.",
+      "choice_data_list": [
+        "Journey!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ah, tonight's?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Yes, grocery shopping.\nI'm in the mood to cook for myself, you see.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Are you...\nhaving Salisbury steak tonight?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I've decided.",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "It is a royal decree.\nYou shall report to the kitchen alongside my elder sister.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Let's cook a dish that pairs well\nwith the main hamburger steak.",
+      "choice_data_list": [
+        "Eeeh...!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Trainer,\ndo you think you can make it?\"",
+      "choice_data_list": [
+        "I-I don't know..."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "It's all right. If you make what feels right to you...\nI'm sure it will turn out well.",
+      "choice_data_list": [
+        "(What I think is...)",
+        "(What I think is...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Something that goes great with hamburg steak,\nand a dish fit to present to a king... Thinking about it,\nits shape is beginning to come together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—Hmph.\nA \"King's\" Kid's Meal, is it?",
+      "choice_data_list": [
+        "Yeah, I thought it looked like it was gonna be extravagant!",
+        "Yeah, I think it'll turn out pretty lavish!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Taking the kids' meal I longed for as a child as a base, and adding everything else that brings joy... It is sure to satisfy both body and soul.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I think it's a wonderful idea, but...\nDo we have enough supplies?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "There are fried foods too, so\nit might take a bit of effort.",
+      "choice_data_list": [
+        "That part... I'll power through with sheer willpower!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I see. Well then...\nIf you need anything, please let me know.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Dream Journey and I made\npreparations for Orfevre...\nand everything was successfully set in place.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"From me, a simple zuppa made with\nnothing more than salt, pepper, bread, and tomatoes.\"",
+      "choice_data_list": [
+        "Z-Zuppa?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"To put it simply, it's a hearty soup\nwith very little broth... yes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"The touch of saltiness builds anticipation for the main dish\nwithout overpowering the flavor of the Salisbury steak.\nI tried to keep it simple and rustic.\"",
+      "choice_data_list": [
+        "(I never thought of that...!)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "As expected of my elder sister.\nHer attentiveness is impeccable.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—And what about you?",
+      "choice_data_list": [
+        "Uh, um..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Do not hesitate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "A mediocre mind's best attempt, I presume.\nVery well, speak it with confidence.",
+      "choice_data_list": [
+        "I'll have... the \"King's\" kids meal!",
+        "I... had the \"King's\" lunch!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...Hooh.\nQuite extravagant.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Trainer, it was hectic, but...\nyou kept at it and did your best all on your own until the very end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...\nFirst of all, the concept itself is childish.",
+      "choice_data_list": [
+        "Oof!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "However, your spirit—your desire to uplift\nyour King—has come through clearly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trainer, sit down as well.\n—Next, entertain me with conversation.",
+      "choice_data_list": [
+        "…! Ah!",
+        "…! Yeah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, with Orfevre in high spirits and Dream Journey watching over us with a gentle smile,\nthe three of us enjoyed a special dinner together...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hmm...",
+      "choice_data_list": [
+        "Incredible! There's so much...!",
+        "Amazing! There are so many...!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Not a bad offering.\n...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hey,\nsummon my subjects.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Have it all carried over.\nAnd then, go fetch more.",
+      "choice_data_list": [
+        "...Wait, carrots?! More of them?!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Naturally.\nIt will not suffice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "—This is a king's banquet.\nMake it grand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, carrots were added on top of the already massive pile...\nresulting in a carrot party with two entire truckloads.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "Here is the main dish, our carrot pie.\nWe kneaded a variety of carrots into the dough\nto give it a rich and wonderful flavor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Indeed.\n...A fine aroma.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You all sit, too.\n—Speak.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "Yes! Then, allow me to report.\nRegarding the 'Royal Flowerbed' under our care...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "The theme for early spring this year has been decided. I will manage everything thoroughly so that Lady Orfevre may enjoy herself!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Very well.\n—Next.",
+      "choice_data_list": [
+        "(She looks kind of gentle somehow...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the carrot-filled party went on, lively and full of fun.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "(She looks displeased...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I wanted to improve Orfevre's mood somehow.\nSo, I desperately thought of a way to win her favor using the carrots I'd won...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I suddenly remember how last New Year's...\nOrfevre had demanded\nsome kind of spectacle from me.",
+      "choice_data_list": [
+        "...Maybe I should do a party trick?!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hooh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Interesting.\nCome, show me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Orfevre's expression softened slightly.\nThere's no turning back now... Gripping the carrot tight, I racked my brains with all my might. And then—",
+      "choice_data_list": [
+        "...Protect the king! The Carrot Knight has arrived!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "………………。",
+      "choice_data_list": [
+        "........................Shall we head back?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...Go on ahead. You are to protect the king, are you not?\n—Sir Carrot Knight.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "Oh, Orfe..."
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "………………。",
+      "choice_data_list": [
+        "(She's in a super bad mood...)"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hey.\nYou are to turn that into treasure.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sleight of hand or sorcery, I care not.\nBe quick and do it.",
+      "choice_data_list": [
+        "That's so unreasonable!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "By royal command.\n—Do it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For a while after that, Orfevre's unreasonable demands continued, and her mood grew worse and worse...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"After finishing our errand. Believe mentioned she had plans\nto meet a friend, so I tagged along—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Transcend was there, dressed in comfortable, easy-to-move-in clothes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yaho-yaho~.\nAlright, let's head out for some mountain climbing!",
+      "choice_data_list": [
+        "That mountain? Looks pretty steep.",
+        "That mountain? It looks pretty steep."
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Aha. Actually, I bought a ton of mountain climbing gear at a sale the other day. So like—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I wanted to take on a slightly more serious mountain.\nSo I asked Believe-chan to come along with me~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Trainer, this way.\nI'll pick out your equipment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh! Look, I found a lake-ish thingy.\nHey hey, wanna go check it out?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No good.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "There are a lot of fallen leaves over there making it slippery, so I excluded it from the route.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"We can see that lake from the summit.\n—Let's go.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ahaha. Hear that? They're thinking this through\nfor you, so don't you go wandering off on your own, okay~?",
+      "choice_data_list": [
+        "Wait, I wasn't even planning on going?!",
+        "But I wasn't even trying to go!? "
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Climbing this?\n...Heheh. Nice. This is getting exciting.",
+      "choice_data_list": [
+        "I-I wonder if I can do it...",
+        "I-I wonder if I can do it..."
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "I can do it.\nThat is the path I have chosen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I'll go ahead and set up a rope. If we use that as a lifeline, we should be able to climb safely.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Huh? That's the only handhold? ...Seriously?\nAhaha! Looks fun!",
+      "choice_data_list": [
+        "E-Even with a lifeline, this is terrifying!!?",
+        "E-Even with a lifeline, this is scary, isn't it!!?"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "\"...Trainer. Please calm down. There is no need to rush to the next thing right away.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Let's catch our breath. Stretch both arms out...\nbend your legs... and think about your next move.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Yeah... Right there. Good. Start with your feet\n...and focus on three points of contact.",
+      "choice_data_list": [
+        "Right. Plant your foot and reach your hand toward where you want to go...!",
+        "Yeah. Hook your foot, reach towards where you want to go...!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Ooh! We made it to the summit!\nWe did it. Peace.",
+      "choice_data_list": [
+        "Ah... What a great view!",
+        "Yeah... what a great view!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "Indeed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "N-Nah, you really saved me~.\nThanks to Believe-chan taking the lead.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Hey, let me make it up to you big time sometime, okay?\nOh, wanna go on a movie date? I'll treat you to a ticket.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...No. There's no need to thank me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Since it was entrusted to me, I just wanted to see it through to the end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Thanks for today, Believe-chan.\nI'll let you know again if mortar goes on sale~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "\"...Um, Tran-san.\nYou really don't need to keep thanking me... over and over.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I was only... doing my job.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Ahaha, I see. ...Still, it's precisely\nbecause you're like that that I wanted to ask you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Like, you always work for your own sake, right, Believe-chan? And then you see it all the way through, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "—And you have no idea how much everyone around you is being helped.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "\"Seeing through what you take on is unexpectedly difficult.\nYet, you... never break that promise. Never.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "So, I'm just saying 'thank you,' that's all.\nMake sure you accept it properly, okay?",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Prompted by Transcend's words,\nI remember the party that Curren Chan\nand the others threw for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There was nothing to worry about after all.\nBy staying true to herself as a professional, Believe had built wonderful relationships with her friends—",
+      "choice_data_list": [
+        "Everyone really puts their trust in you!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Is that really how it is?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I just...\n......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "…………I'm glad I could be of help.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I returned to the academy together with Believe. Before parting ways at the end, I spoke to her.",
+      "choice_data_list": [
+        "I had so much fun today! Thank you!",
+        "Oh no... my legs feel like lead...!",
+        "Oh no... my legs are like jelly...!",
+        "You really know everything about the mountains, that's amazing!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I returned to the academy together with Believe. Before parting ways at the end, I spoke to her.",
+      "choice_data_list": [
+        "I had so much fun today! Thank you!",
+        "Oh no... my legs feel like lead...!",
+        "Oh no... my legs are like jelly...!",
+        "You really know everything about the mountains, that's amazing!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...Then I'm glad.",
+      "choice_data_list": [
+        "Maybe I'll try going on my own next time!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...It's still too dangerous for you to be alone.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Please call for me. I'll come right away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "You should stretch a bit more.\nAlso, eat some meat and soybeans...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "If anything happens, please LANE me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "...I'll repay as much of it as I can.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "No... compared to people who climb mountains for a living, it's nothing at all...",
+      "choice_data_list": [
+        "Still, you were so reliable!"
+      ]
+    },
+    {
+      "name": "Believe",
+      "text": "...I study occasionally\nusing books and videos, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "I think I'll try to learn a bit more.\nAnd then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Next time...\nI want to make sure I do an even better job.",
+      "choice_data_list": []
+    }
+  ]
+}

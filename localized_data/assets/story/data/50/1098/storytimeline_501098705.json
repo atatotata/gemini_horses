@@ -1,0 +1,273 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "When I visited the zoo together with Copano Rickey—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Recognizable Voice",
+      "text": "Gyaaah!?\nPlease wait, Mr. Monkey!!\nThat plushie is miiiiiine~~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Hmm? Is that voice... Fukukitaru-san!?\nI'm gonna go check it out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "M-My 'Good Luck Penguin'\nbelongs to the monkey now...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "What rock-bottom unhappiness this is!!\nI bet my fortune will be—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I-It really is terrible luck~~~~~!!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Heeey, Fukukitaru-san!\nAre you okay~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah!!\nYou're the Great Master Rickey!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Please save this Fuku! This hopelessly unlucky Fuku!\nI beg of you, save me with your Feng Shui, Masterrr!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I see, I see—and then,\nthe plushie you won from the souvenir shop lottery\ngot snatched away by a monkey, you say.",
+      "choice_data_list": [
+        "That was quite a disaster.",
+        "That was quite a disaster."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Yes... The lottery was sold out so I couldn't even try buying another plushie, leaving my mood and my luck at rock bottom...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Okay, I get the situation!\nI'll solve your problem in a Copa-flash☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Fukukitaru-san, your natal hexagram is 'Qian', right!\nLooks like you're incompatible with earth energy today.\nDirections are northeast, yellow and brown colors, mountains, soil, stones, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "This is definitely... northeast of the zoo!\nPlus, a monkey mountain with terrain, soil, and rocks,\nbrown monkeys... Eeeeeek!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Don't be so scared!\nIf we weaken the Earth Qi with Wood Qi, it'll fix the bad flow!\nAt this zoo—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ta-daaa! This right here\nis the bunny petting zoo corner☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Green trees to the east,\nand a rabbit symbolizing Wood Qi—\nyou can absorb a ton of Wood Qi here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Haaaah, this is sheer paradise...!!\nTo put it in Doto-san's words,\n\"Salvation was right here\"...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Fwaah~♪\nThat relaxing green space full of fluff was the absolute best~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "U-Um~...\nThis properly stored up Wood Qi, right?\nMy luck is bound to skyrocket, right??",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Hmm... Of course it brings you closer to happiness!\nBut feng shui is ultimately just a tool to attract good energy and harmonize your environment, you know~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Happiness is something you seize with your own two hands!\nTo truly be happy, it's crucial to forge ahead with a positive mindset!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I-I seeee...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "If it's you, Fukukitaru-san, you can do it!\nYou're always wishing for happiness with all your heart!\nI'll help you out too, so let's seize that happiness together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mmmgh... S-Hearing you say that, Rickey-san, makes me feel like things might just work out...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I guess... I'll just have to give up\non getting the plushie, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "No, there are still things we can do!\nRight, Trainer?!",
+      "choice_data_list": [
+        "Let's try explaining the situation to the staff.",
+        "There might be souvenir shops other than this one."
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Yeah! Let's at least ask them\nabout the plushie!\nIt might just turn the tides in our favor!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Staff",
+      "text": "—I'm so sorry, little miss!\nWe had the exact same plushie in the back,\nso I brought it over. Here you go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah, thank you so much!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"The thought of asking the staff completely slipped my mind!\nAs expected of the great Rickey and company!\"",
+      "choice_data_list": [
+        "I'm just glad I could help."
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "So, what are you going to do from here, Fukukitaru-san?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I suppose so...\nI'm scared something else unlucky might happen, so maybe I should head home before anything does—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "What?! That's such a waste~!\nBesides, since we ran into each other,\nlet's hang out some more! It'll definitely be fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Rickey-san...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"You're right... Stay positive,\nand seize your own happiness—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Yes... I'd love to join you...!\nThere's still so much of the zoo we haven't seen,\nand since we're here, I want to enjoy it to the fullest...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "That's the spirit, Fukukitaru-san!\nAll right, let's try this again—let's go!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, the three of them toured the zoo\nand had a wonderful, happy time together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "\"That's it! The souvenir shop's location should be on the park map, so—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "I see, I see... Ah, there's one more spot!\nLet's go check it out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Found it...! There are still tons of prizes left!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "All that's left is to draw... I have the blessings of Feng Shui, but my innate luck is abysmal—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "It's okay! Feng shui and all of us are on your side!\nBelieve in yourself, take positive action,\nand you're sure to grab happiness!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "G-Great Master~!!\nY-You're right... Staying positive—\nMatikanefukukitaru, moving out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "O-One more time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Not yet...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "This time for sure—!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "W-We did it! I got\nthe \"Good Luck Penguin\"!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "To seize happiness, your own positive mindset is what matters most—\nIt's all thanks to Rickey-san's advice!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Feng Shui and I only pointed the way!\nThe one who brought in all that happiness was you, Fukukitaru-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "At Copano Rickey's words,\nMatikanefukukitaru wore a proud, beaming expression.",
+      "choice_data_list": []
+    }
+  ]
+}

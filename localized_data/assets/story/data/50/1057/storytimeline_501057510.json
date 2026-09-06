@@ -1,0 +1,234 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Having woken up early, I was taking a stroll\nthrough the morning streets—when I spotted\nMr. C.B. and Katsuragi Ace.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Doesn't look like it's on this street...\nOh well. Let's go check over there too!",
+      "choice_data_list": [
+        "Are you looking for something?",
+        "Are you looking for something?"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Hey, Trainer.\nI'm in such a ramen mood right now.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "CB wants to have ramen for breakfast.\nI was helping her look for a shop, but we haven't had much luck finding one.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...CB is really particular about flavor, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "“Yeah. The broth was light yet rich with flavor. And for the toppings, it had wakame, spinach, and even clams.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I'm picturing it coating thin noodles as I slurp it down, shluuuuuurp.\nYeah, that's the mood today.",
+      "choice_data_list": [
+        "...I might be getting an appetite for it too.",
+        "...I might be getting hungry for some too."
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Oh! In that case, care to lend a hand?\nYou know what they say—two heads are better than one, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the three of them split up to search for shops serving morning ramen, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "—Did you find anything on your end?",
+      "choice_data_list": [
+        "Not yet..."
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "I see... Darn it, and here I was completely in a ramen mood.\nNow that I'm actually looking for one, there isn't any around.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "There's plenty of morning soba and morning udon joints around, though.\n...The aroma's really hitting my empty stomach.",
+      "choice_data_list": [
+        "Maybe save the ramen for lunch...?",
+        "Should we save ramen for lunch...?"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Yeah. I don't mind if you guys do that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "My heart is set on morning ramen, though.\nNot soba, and definitely not udon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I can't—lie to myself.\nI'm going to search for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "—Well, figures. That's just classic C.B. for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "All right! I'm with you all the way!\nLet's join forces and find the ultimate morning ramen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And... at the end of a long journey.\nFinally—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Sniff sniff. ...The smell of broth,\nand a subtle scent of seafood ingredients...\n...No mistake about it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Look! There's a sign that says \"Morning Ramen Open for Business\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ooooh...! Seriously...!\nWe actually did it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Fufufu. Ramen, ramen, here we go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ah, so delicious...! With every bite, I feel like all my hard work is paying off!",
+      "choice_data_list": [
+        "The heat of this soup seeps right into your body...",
+        "The warmth of this soup just seeps right through you..."
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Yeah! And the umami flavor from the clams is just...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "\"Yeah. The spices really hit the spot.\nNow that's an eye-opening kind of spicy!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Yeah, exactly, a spy—huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Why curry?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Huh? Because I smelled curry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "W-Well sure, it's on the menu, but...\nAre you really okay with that!? After coming all this way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Mmm, but now I'm in the mood for curry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Good grief, that's right.\nShe was always this kind of person...",
+      "choice_data_list": [
+        "Let's just eat and build up our strength!",
+        "We've walked a ton since this morning...",
+        "We sure have walked a lot since this morning..."
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Good grief, that's right.\nShe was always this kind of person...",
+      "choice_data_list": [
+        "Let's just eat and build up our strength!",
+        "We've walked a ton since this morning...",
+        "We sure have walked a lot since this morning..."
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Well, of course they are.\nAfter all, they're delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ah, can I have a bite of that one?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ah, sure.\nIn exchange, give me a bite of your curry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Though it was quite an unexplainable fuss,\nthe three of us enjoyed breakfast together nonetheless.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Indeed.\nTurned out to be quite a workout.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Alright, gotta eat back what I burned!\nExcuse me! I'd like a\ncurry over here, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ah, maybe I'll get seconds too then!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I was starving after walking around so much, so I ordered curry—though at the time, I hadn't yet realized something crucial.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I only had a bit of extra time because I woke up early—\ntoday was actually a weekday. ...The deadline for heading\nto work and school was fast approaching.",
+      "choice_data_list": []
+    }
+  ]
+}

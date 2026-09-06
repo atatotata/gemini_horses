@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Red Desire",
+      "text": "Phew...\nThank you so much for giving me yesterday off...",
+      "choice_data_list": [
+        "Despite that, you seem a bit tired...?"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Well, um... during the break, I was devoted to my saintly duties.\nThings like campus beautification and consulting with fellow students on their worries...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "Perhaps I exerted myself a bit too much, as\nmy fatigue has not fully dissipated...\nHow shameful for a saint.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Red Desire",
+      "text": "However, I will not neglect today's duties.\nI shall do my utmost as a Saintess!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Red Desire\nwasn't able to rest very well...",
+      "choice_data_list": []
+    }
+  ]
+}

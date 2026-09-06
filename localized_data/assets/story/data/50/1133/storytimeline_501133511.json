@@ -1,0 +1,246 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking around the academy with Chrono Genesis—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Chrono Genesis!\nTrainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Oh, Reporter Otonashi...!\nHello. Are you here for an interview?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes! We just finished.\n...I'm so glad I ran into you!\nI really wanted to thank you, Chrono-san.",
+      "choice_data_list": [
+        "A thank-you?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Yes! Actually, Chrono-san provided us with race photos the other day!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It was very well received within the company too!\nThey said, 'It feels like the pulse of the Umamusume is coming right through!'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "T-Thank you so much!\nI'm truly honored...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"I was also able to get some valuable feedback regarding the race,\nit was truly a meaningful time...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "N-No! The pleasure is mine...!\n...Ah, that reminds me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "A-Actually, regarding the Umamusume we were talking about back then,\nI just happened to find some new materials yesterday...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "! Really?!\n...Please, tell me more!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "“—An essay by a retired Trainer...!\nI totally overlooked this!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Reading this essay...\nit seems her pre-race dancing routine\nwas taught to her by him during their club days.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I see, I see. I had heard rumors that it was your mentor's influence... but it was true after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "There are actually a few other retired Trainers\nwho have published essays...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "The book I'm reading right now is one of them.\n...I believe it was on this page—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I'll take a look!",
+      "choice_data_list": [
+        "(Wow, giving information to a pro reporter...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Well, actually, under the pen name 'Writer C,' she runs a column in the school newspaper called 'Idle Talks on History.'",
+      "choice_data_list": [
+        "(The content is surprisingly thorough and authentic, too.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Thinking about it that way, their fiery passion made total sense. But as I watched over them with a warm feeling—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—The sun had set before I knew it.",
+      "choice_data_list": [
+        "(Passion is amazing...)"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I am terribly sorry!\nI ended up overstaying my welcome...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "N-No! It was very meaningful for me as well...!\nTo be able to talk like this with a reporter whose\narticles I always read...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "The article... Come to think of it, Chrono-san,\nhave you taken a look at that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "It's time for the Tracen Academy school paper column,\n\"Idle Historical Musings\"!",
+      "choice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "WHAAAAT?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Huh, u-um... well, yes.\nI did look through it... for the most part!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I knew it!\nYou already checked it out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I read it after a staff member recommended it to me, and I was so, so deeply moved!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Not only is the information accurate, but what's truly wonderful is that elevated perspective!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "From the past to the present, and into the future...!\nThe sheer passion of this continuously woven drama is incredible...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Above all, I can feel a deep conviction in that column!\nA strong conviction to preserve the history of Umamusume...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hmm... But I wonder,\nwho is the one writing this?\nIf only they could contribute an article to our company—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Y-You startled me...",
+      "choice_data_list": [
+        "Was it okay not to give your name?",
+        "Was it okay not to give your name?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "...Yes.\nIt's something I write partly as a hobby, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Besides, well... a-anymore than that would be...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Capacity overload...",
+      "choice_data_list": [
+        "Though no amount of praise could ever be enough...",
+        "I mean, you're even using a pen name and all.",
+        "I mean, you're even using a pen name and all, huh."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Capacity overload...",
+      "choice_data_list": [
+        "Though no amount of praise could ever be enough...",
+        "I mean, you're even using a pen name and all.",
+        "I mean, you're even using a pen name and all, huh."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Y-Yes...!?",
+      "choice_data_list": [
+        "First of all, the column title is great, right? And also...",
+        "First of all, the column title is great, and also..."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "P-P-Please wait! Right now... my heart is just so completely full...!",
+      "choice_data_list": [
+        "Your word choice is so precise and passionate—"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "J-Jeez! Trainer-san...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Y-Yes... The reason I started writing articles wasn't to make a name for myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Because I wanted to preserve the history woven at this academy...\nas a picture scroll.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "\"...The history before the bloom is delicate; if no one discovers it, it will simply decay away.\"",
+      "choice_data_list": []
+    }
+  ]
+}

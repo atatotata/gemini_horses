@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about\r\nwith Oguri Cap...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mmh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Oguri Cap was staring intently\nat an Umamusume plushie\ninside the claw machine.",
+      "choice_data_list": [
+        "Do you want that plushie?",
+        "Do you want that plushie?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...I was remembering the stuffed animal\nMasa-san gave me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Whenever I won a race, they'd bring me a stuffed animal\nand say, 'Do your best next time too' ...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "It was handmade and misshapen,\nbut it made me so happy...",
+      "choice_data_list": [
+        "Alright, let's win that plushie!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I-I see...\nI think it's fine, but... why?",
+      "choice_data_list": [
+        "Because I want you to keep doing your best from now on!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "I see... That makes me very happy.\nI'm looking forward to it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

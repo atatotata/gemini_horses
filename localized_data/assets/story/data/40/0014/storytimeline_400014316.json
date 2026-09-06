@@ -1,0 +1,172 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While walking through the shopping district with Calstone Light O,\nshe suddenly let out a shout.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"‘Chokusen Hariganedo’!?\nTrainer, let's go inside!\"",
+      "choice_data_list": [
+        "Wait, what is that... !?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Following her gaze, I see a ramen shop.\nThe sign indeed reads \"Straight Harigane-do.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "I don't know the specifics, but straight to\nharigane firmness! It's bound to be delicious!",
+      "choice_data_list": [
+        "Wait, wait!!"
+      ]
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "WELCOOOOME!! Table for two!!\nTwo orders of 'SprinTonkotsu Ramen', comin' right uuup?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "Which walleye pollock would you like for your kamaboko!?\nOnce you've decided, please grab it with a clothespin!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...I was handed a stainless steel clothespin.\nInside the holding tank, Alaska pollocks are swimming vigorously around, but...—what on earth is this!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Alaska Pollock",
+      "text": "(――*flop!! Flop flop!!*)",
+      "choice_data_list": [
+        "（…………）"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Whoa!? That fish cake just moved...!\nJust like a real fish! Wh-Whyyy...~!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "I-I don't get this at all...!\nEverything about this restaurant is just way too chaotic...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ho, turning this swift walleye pollock into kamaboko in an instant?!\nMagnificent! I'm looking forward to it, Trainer!",
+      "choice_data_list": [
+        "………………"
+      ]
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "Order up!!\nTwo bowls of Sprin-tonkotsu ramen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "First, please try our shop's prized kamaboko!\nWhile it's fresh! Ah, and also—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "――...\n...May the blessings of Ra-men be upon you as well.",
+      "choice_data_list": [
+        "(A blessing...? What even is it, really...??)"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Whoa, that was super fast! And all the toppings are lined up so straight! The noodles, the green onions, the chicken chashu, and the kamaboko too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Before the noodles get soggy—let's eat them while they're still extra firm! Thanks for the food!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...True, it'd be a waste to let them get soggy.\nI decided to focus on the ramen for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(—Slurrrp)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "――! The noodle firmness is definitely wire-hard...!\nIt's extremely firm, this is――",
+      "choice_data_list": [
+        "(――Th-This is delicious!!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The firm noodles pair perfectly with the rich tonkotsu broth!\nThe balance of meat and vegetables was spot on too, and by the time I finished, I was completely satisfied.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "So this is harigane noodles...! Delicious!\nHarigane is... amazing!!",
+      "choice_data_list": [
+        "Ah, yeah...!",
+        "Y-Yeah...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I felt like I was forgetting something,\nbut just as I thought, \"Oh well, whatever...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neighboring Customer",
+      "text": "――Hey there, customer. Sounds like the next gathering is in three months.\nMay the guidance of Rah-men be with you too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "...A meeting? What was that just now?\nAre they going to put on a tuna-cutting show or something?",
+      "choice_data_list": [
+        "W-Well... I have no idea at all."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ugh, that was utterly exhausting...\nThey even gave me fish cake boards as a souvenir...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "The ramen was delicious, but...\nI wonder what that 'meeting' was all about...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems no one else knows anything about\nthe \"gathering\" either... nor, of course, about\nthe kamaboko board souvenir...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "What is this? Power is surging right through me!\nI feel like I could run faster than ever right now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Alright, let's run. Right now.\n—HAAAAAHHHH!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I didn't understand what had just happened,\nbut I decided to chalk today's events up to a bizarre episode of daily life... for now.",
+      "choice_data_list": []
+    }
+  ]
+}

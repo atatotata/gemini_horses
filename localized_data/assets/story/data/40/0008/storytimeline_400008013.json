@@ -1,0 +1,450 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while tending to the fields as usual,\nChairwoman Akikawa came by.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Good day, everyone!\nAs always, you grow splendid vegetables!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, hello!\nAre you tending to the fields too, Chairwoman?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Heh heh, that's part of it.\nI came here because there's one thing I want to ask of you all!",
+      "choice_data_list": [
+        "Meaning...?"
+      ]
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mm. Over the past year, you girls have shown great active engagement regarding nutrition.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"Inspired by you, more and more students are gradually learning about food and nutrition. A truly great momentum is building up!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "And so, let's begin! The 1st Annual Academy Cooking Showcase!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "It is an event where students striving on the front lines\nof vegetable farming are invited to present dishes\ncrafted with all their culinary skill!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"A great opportunity to spread awareness of the power of food to the students!\nWe would absolutely love for you to participate!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "A presentation where all the buono things\neveryone made gather together... sounds like fun~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Yeah. Plus, we've been taking the tasting sessions\nseriously all this time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I really want to show everyone the fruits of all my studying...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice too...! Rice wants everyone to know\nhow delicious the veggies we all grew\ntogether really are...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "I wonder what everyone else will serve...!\nMy stomach's already... no, my chef's blood is boiling with excitement!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Mm! I had faith that\nyou would say that! Well then, I'm expecting great things!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, preparations for the showcase began.\nMountains of vegetables, and a grand unveiling of new menu items.\nThe one most fired up of all was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "—Everyone~! I made some snacks for you~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Waaah~!? There's sooooo much food!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "It's super cold out, after all~. We've got piping hot pot-au-feu, curry, ramen, and extra-spicy mapo tofu! Eat up, everyone~!",
+      "choice_data_list": [
+        "She looks so fulfilled...!",
+        "You look so fulfilled...!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "It's our big presentation, after all☆\nI want lots of people to experience the ultimate buono!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"So, with that said... Starting tomorrow, I'm heading out on a little journey!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Huh!? Wh-Where are you going!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "The main ingredients are the veggies we all grew together,\nbut I want to find something that will bring out their flavor the most buonissimo!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "So, I'm off to the mountains, the river, the sea☆\nand all my favorite Buono spots~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...I understand not wanting to compromise.\nAnd since a guardian was needed anyway,\nI ended up tagging along on the adventure.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ooh, found a *Boletus reticulatus*!\nIt goes ridiculously well with pasta☆\nAnd it's amazing with veggies too, of course!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mushrooms make our bones stronger, so they're perfect for us Umamusume! Let's keep picking more~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Over the mountains, over the seas, over the valleys~♪\nWhere can the tasti~est dashi broth be~♪",
+      "choice_data_list": [
+        "Found kelp!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ooh, nice☆ Today's a bumper crop of minerals!\nTurn it into salted kelp, and it'll be the perfect mid-training refuel!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Nfufu~, we've gathered some great ingredients~ Everyone at the academy is gonna be so surprised~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pairing mushrooms with veggies high in calcium\nmakes for a great injury-prevention meal.\nMaybe I'll toss the salted kelp into a salad~.",
+      "choice_data_list": [
+        "What impressive creativity.",
+        "What impressive creativity."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "You think so~? Fufu, the way we look at ingredients really might be changing, huh~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "—Such ingenuity! Such uncompromising drive!\nTruly magnificent!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Huuuh~, Madame Chairwoman!?\nWhat are you doing in a place like this!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"No, it was quite a struggle...!\nHowever, there was something I wished to hand over to you early!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"This may serve as nothing more than a hint, but...\nI believe that you all will surely produce wonderful results!\nI'm counting on you!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And as the showcase drew nearer,\nparticipants throughout the academy\ncould be seen fiercely vying over their dishes—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "It's reeeady~! The Machitan family special,\nStaff-Meal Chicken Pot-au-Feu is complete~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Now then, let's add the secret prayer to this—\nNourish-come-come, protein-nom-nom...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "Eat this! Here's my specialty—\nGaram Masala Zenith Fire Extinguishaaaa!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Wha--!? The aura of my...\nVortex Fire Ramen is being swallowed up\nby the scent of spices, ss-su!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Jungle Pocket",
+      "text": "Heheh—with this, taking the top spot at the showcase is in the bag!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And—the day of the recital had finally come!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "――Now then! Let the games begin!\nEveryone, bet upon the pride of your vegetables and give it your all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ooh, there are so many dishes lined up...!\nAh, they even have the producers' names on them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Wait!? This table, and that one, and the one over there...\nDon't all the dishes have the exact same name tag on them!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Fufufu, that's exaaactly right!\nEverything around here is all our cooking~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "For example, the dish over there is for sprinters!\nA special curry packed with just the right amount\nof protein and carbs needed for explosive power!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Huh!? S-So there are dishes designed\nfor Long-distance aptitudes too!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "\"Ah, in that case, try this iron-rich veggie pizza!\nIt's packed with clams and drained tuna!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Please check out the recipes too!\nIt includes details on when to eat and how to build a daily routine...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mmmgh... I definitely need to take notes on this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Still... not only is the quality remarkable,\nbut to think you came up with such a wide variety of dishes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ehehe... Come to think of it,\nwe've learned so much over this past year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "“You're right. Starting with Bourbon-san—I learned that running and eating are so deeply connected.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "It doesn't just fill your body, but your heart as well.\nI feel like I've touched upon the true depth\nof what it means to eat!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "That's why I wanted everyone to taste\nevery last bit of our \"buono\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "We get to taste the \"buono\" everyone made, and everyone gets to taste our \"buono\"! That way we can learn from each other's \"buono\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Everyone will be able to make things that are so much more buono! And we can clash with everything we've got in our races, too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Yeah! This recital is a chanko pot\nmade by everyone together, right?☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"What!? Is that true...!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Don't take everything so literally!\nStill, Akebono, that's one hell of a generous spirit...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ehehe. Because those feelings aren't just ours alone, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Actually, you see... the Chairwoman has been keeping a notebook of all the students' troubles for ages!\nShe let me see it to help inspire the cooking theme!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Students",
+      "text": "Wait, the Chairwoman?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Students",
+      "text": "Ah... Come to think of it,\nI answered that survey once!\nThey really took the time to listen to my worries...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "*A-Ahem, cough cough...*",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "N-Now then! The purpose of holding this press conference!\nHishi Akebono has expressed it wonderfully!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "One look at your faces tells me everything.\nYou have drawn immense inspiration from each other's cooking,\nand your passion for food has grown even stronger!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "I want to make food too...! Dishes that can build a strong body! All right, let's do thissss!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "I'm gonna make the Teio-certified Ultimate Hachimitsu Sports Drink super popular all over the academy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hmm. It seems my dish—\n\"Koya-dofu dropped plop into Pot-au-feu\"—\nstill has room for further improvement.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Nutritional value lies not in fine yokan alone\"—\nI shall dedicate myself further to my studies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"...Thanks to the vegetables you all grow, illnesses and injuries at the academy are on the decline.\nThe statistical data shows it clearly!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "\"As Chairwoman, I offer my sincerest gratitude!\nMay you continue to achieve even greater feats!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Then lastly, as a token of our appreciation!\n—Hishi Akebono, you're up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Okaaay! Alright everyone!\nGather all your veggies into this giant pot~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Huh? Why's that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Fufufu~ time for the finale!\nLet's bring everyone's buono together as one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ta-daaa~! A full-power buono chanko pot-au-feu\npacked with all the buono from across the academy is ready~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Please, everyone line up over here!\nWe have small plates ready too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rice Shower",
+      "text": "I-I have to be careful not to spill it... Hehe, it smells so good~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "T-Thanks for the food!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Everyone",
+      "text": "Ah! S-So delicious...! With every bite,\nmy whole body gets all warm and cozy...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Fufu, of course☆ It's a hundred-times-buono hot pot\nfilled with everyone's buono, after all!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Let's keep making lots of buono things together!\nWe'll fill the whole academy with buono!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the showcase was a massive hit—\nbecoming the catalyst for a whole-school\nfood craze.",
+      "choice_data_list": []
+    }
+  ]
+}

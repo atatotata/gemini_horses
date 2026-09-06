@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, when I stopped by the shopping mall...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hey, Tazuna-saaan.\nPretty please~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hmm, I appreciate the invite, but...",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ah, Trainer-kun!\nPerfect timing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ah, Trainer-chan!\nJust in time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Please!\nHelp me convince Tazuna-san~!",
+      "choice_data_list": [
+        "Persuasion?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yep, yep! Ran into her by chance earlier, and looks like she just finished running an errand for the Chairwoman.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So, how about we hang out a bit to take a breather!\n...is what I'm trying to invite you to do, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"The Chairwoman is waiting as well,\nso we must head back quickly.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ugh, she's been like this the whole time~!\nSuch a little goody two-shoes~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Maruzensky and Tazuna-san get along\nquite well, despite their relationship being that of\na student and the Chairwoman's secretary.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I heard you've been working non-stop lately.\nEveryone's worried about you, you know~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "However...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Go on, just shoot 'em a quick message\non that groovy smartphone of yours♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"I'll just tell them, ‘I'm heading to a kissaten with Maruzensky-san for some lem-squash’☆\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Lemon squash at a coffee shop...\nIt does sound lovely, but...",
+      "choice_data_list": [
+        "(They're communicating...)"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hey hey, you think it's fine to go play too, right, Trainer-kun?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hey hey, you think it's fine to go play too, right, Trainer-chan?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I understand Maruzensky's pushy yet kind consideration,\nas well as Tazuna-san's seriousness.\nSo right here...",
+      "choice_data_list": [
+        "We could also take our time heading back to the academy.",
+        "I think it's fine to have a little fun."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, that's an unexpected answer.\nCare to elaborate?",
+      "choice_data_list": [
+        "How about chatting to refresh yourself?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Well, true enough... Chatting with friends really\r\ndoes have a refreshing effect, doesn't it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "See, Trainer-san says so too!\nLet's head back together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Aaah, look at that face, acting like you've been saved~.\nBoo-boo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fufu... I understand how you feel, Maruzen-san.\nThank you so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"...Oh please, it's nothing like that.\nJust chatting is kind of boring, though...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Maybe I should let Trainer-kun in\non one of Ms. Tazuna's top-secret secrets♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"Maybe I'll let Trainer-chan in on a super special secret about Tazuna-san♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "What?!\nWh-What is that...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "\"The other day, when I dropped by her room unannounced\nand opened the creaking closet—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Maruzensky-san!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ufufu, just kidding!\nWell then, shall we head back?♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the end, nothing was said about the secret, but it turned into a peaceful walk home that showed just how close the two of them were.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "See~! I knew you'd\nagree with me, Trainer-kun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "See~! I knew you'd\nagree with me, Trainer-chan!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Now that it's come to this, wouldn't it be better\nto just brace yourself and play along with me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "\"...Fine, I understand.\nJust for ten minutes, okay?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yay, got Tazuna-san☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "By the way, Trainer-kun,\nyour participation is mandatory!",
+      "choice_data_list": [
+        "I'm fully prepared for that.",
+        "I'm fully prepared for that."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "By the way, Trainer-chan,\nyour participation is mandatory!",
+      "choice_data_list": [
+        "I'm fully prepared for that.",
+        "I'm fully prepared for that."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, so you'd already read how it'd play out!\nAs expected of my Trainer-kun☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, so you'd already read how it'd play out!\nAs expected of my Trainer-chan☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Now then, let's start with some shopping!\nOff we go on a shopping spree☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, please wait!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Fufu... Honestly,\nyou really are a meddler.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, the three of us browsed the shopping mall.\nWe were completely worn out, but it was a great\nway to unwind.",
+      "choice_data_list": []
+    }
+  ]
+}

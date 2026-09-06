@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gran Alegria",
+      "text": "Trainer!!\nWhen is my next race?!",
+      "choice_data_list": [
+        "You're full of motivation, huh.",
+        "You're full of motivation, aren't you."
+      ]
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "I went to watch a Kiddie Race tournament!\nEveryone was trying so hard... it made me feel nostalgic!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "The whole venue, including me, went wild with cheers!!\nNgh~! I just can't get enough of this!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Definitely, for sure!\nThe next round of roaring cheers will be all for me!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Gran Alegria's eyes sparkled.\nIt seemed she had a wonderful day off.\"",
+      "choice_data_list": []
+    }
+  ]
+}

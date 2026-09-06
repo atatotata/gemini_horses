@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as I'm wondering why Yaeno Muteki hasn't shown up for training—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Trainer-dono! I am terribly sorry to have kept you waiting for so long!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "The blunder of a lifetime for Yaeno Muteki...! If it has come to this, I am prepared to accept any punishment!",
+      "choice_data_list": [
+        "Why were you late?",
+        "Why were you late?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "To tell the truth, a bicycle almost hit me just now,\r\nand I attacked it purely on reflex...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Fortunately, the cyclist and their bike were unhurt, and we settled it as mutual carelessness, but... I completely forgot about our training in the midst of it all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Yaeno Muteki seemed to deeply regret her mistake,\r\nso I simply told her to be more careful in the future and let the matter rest.",
+      "choice_data_list": []
+    }
+  ]
+}

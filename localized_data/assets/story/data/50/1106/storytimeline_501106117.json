@@ -1,0 +1,249 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Math Teacher",
+      "text": "Ahem, everyone. Please open your textbooks\nto the section on \"Probability.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Math Teacher",
+      "text": "Let us find the solution together. Assuming the probability of event A occurring is P...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ah~ um~.\nMath is way too hard~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though Hishi Miracle scored a brilliant victory at the Arima Kinen,\nupon returning to Tracen Academy, she was just an ordinary student.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just like always, she was writhing in agony,\nunable to keep up with class.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Hey, hey, Bamboo-chan,\ndo you know the answer? Or like, does this even divide evenly?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Whatever you can't figure out, just slash right through it with a shinai!\nIn the end, it's all about fighting spirit!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ah~, she's on the same level as me~.\nSomeone smart, help us~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Later on, I had the chance to talk\non the rooftop with Hishi Miracle\nand Symboli Kris S, the three of us together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "So in the end, Hishi Miracle――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "I couldn't win a single GⅠ, could I.\n—Against you, that is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Not even once? Huh, was that so?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Trainer—you understand, don't you?",
+      "choice_data_list": [
+        "Ah...",
+        "Yeah..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It was just as Symboli Kris S said.\nHishi Miracle was...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The Classic Year's Tokyo Yushun (Japanese Derby), Japan Cup, and Arima Kinen. And...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The Senior Year's Takarazuka Kinen, Tenno Sho (Autumn), Japan Cup, and Arima Kinen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In every single aspect,\nshe proved victorious against Symboli Kris S.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "S-So that's what happened... I barely\nnoticed at all~. Which means...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Maybe I'm super lucky!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Luck?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Well, yeah~\nI mean, I beat the universally acknowledged\nKris S-chan in seven GⅠ races, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "You'd have to be pretty darn lucky to pull that off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "I see.\n...What are the probabilities?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Huh, probability...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Yeah. What is the probability—\nof you beating me 7 times in a row?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Eeeek, m-math!? Anything but that~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "I told you I'm hopeless at math~.\nI give up, I give up already~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unbeatable in races. But when it came to math,\nHishi Miracle admitted defeat in an instant.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...Trainer, what's the percentage?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Told that, I think about it.\nAssuming their abilities are fifty-fifty...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The probability of Hishi Miracle winning all 7 races.\nIn other words, 50% multiplied 7 times is...",
+      "choice_data_list": [
+        "Around 0.8%, maybe?"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Wait, does that mean...",
+      "choice_data_list": [
+        "It doesn't even happen once in a hundred times."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "1 in 100 times?! Then aren't I\nsuper lucky after all~?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Is that really okay?\nUsing up so much of your luck like that~...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Trainer... That is incorrect.\nIt's wrong.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "\"I believe.\nThe probability of 7 consecutive victories is――\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "――100%.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "H-Hundred percent...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Right—it's not about Luck.\nThat is why—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "\"Mission changed.\nFirst... defeat Hishi Miracle.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "\"We shall proceed from there.\n—Farewell.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the eyes of the departing Symboli Kris S,\nthere appeared to be a faint glimmer of respect.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Fueh~... Trainer-san, I really,\ndidn't understand any of that at all, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "So the chance of 7 in a row is 100%, huh.\nMath might actually be surprisingly easy...",
+      "choice_data_list": [
+        "No, not that!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Against Symboli Kris S, an astonishing 7th consecutive GⅠ victory.\nHowever, that was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Proof not of luck, but of true strength.\nHishi Miracle demonstrated power acknowledged even by that Symboli Kris S.",
+      "choice_data_list": []
+    }
+  ]
+}

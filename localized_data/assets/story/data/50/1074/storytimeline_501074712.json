@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While searching for Mejiro Bright,\r\nwho hadn't shown up even though it was time for training...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Howaa~.\r\nThat cloud looks just like a bird~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Are they heading towards\r\nthat big cloud over there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"Hang in there~.\r\nTaking it nice and slow is totally fine~♪\"",
+      "choice_data_list": [
+        "What are you doing here?",
+        "What are you doing here?"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Ah, Trainer-sama.\r\nI was just gazing up at the clouds in the sky~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "It feels just like watching a fairy tale.\r\nI could stay like this forever~",
+      "choice_data_list": [
+        "Don't forget your training, alright?",
+        "Don't forget your training, okay?"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I am truly, deeply sorry...\r\nI only meant to look up at the sky for a moment...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "A disgrace to the Mejiro name.\r\nI shall engrave this into my heart so it never happens again...",
+      "choice_data_list": []
+    }
+  ]
+}

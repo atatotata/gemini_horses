@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Silence Suzuka came walking from down the hallway,\r\nlooking unwell...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ngh... My head...",
+      "choice_data_list": [
+        "Are you okay?",
+        "Are you okay?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ah, Trainer.\r\nI'm fine, it's just a slight headache...",
+      "choice_data_list": [
+        "Do you want to rest for a while?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No. Th-that is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"If anything, I think running will make me feel better.\r\nSo, taking a break is just—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ugh...! Uuugh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"And so, Silence Suzuka was troubled\r\nby a headache...\"",
+      "choice_data_list": []
+    }
+  ]
+}

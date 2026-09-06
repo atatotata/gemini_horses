@@ -1,0 +1,406 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "\"The hot spring excavation is going smoothly.\nHowever, as for publicity...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "—\"Yukoma Onsen\"~?\nAh, is that what they were talking about at the recent school assembly?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Yep! I started going there too, and man, I totally recommend it~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I've also got bargain info on nearby shops~\nHonestly, it's the kind of stuff I wouldn't share for free,\nbut I'll make a special exception this time...♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "I want to relax, but I've got no time. Maybe when things settle down a bit?\n...Wait, I have a committee meeting! Catch ya later!",
+      "choice_data_list": [
+        "Ah, there she goes...!"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"A 'relaxing day' is pretty hard to come by\nunless you make a conscious effort to set one aside, isn't it...?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Haaah...\nPublicity really is difficult, isn't it?",
+      "choice_data_list": [
+        "Right..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "\"Besides, Tracen Academy students are way too busy to begin with!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Attending classes, doing homework, dance lessons,\ntraining, running races,\nfan service, and then, and then...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "There're sooo many academy events too!\nI can't miss out on the fun ones!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"I hear all sorts of events were originally planned so students wouldn't end up buried only in studying and racing, you know?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Oho~? But our academy is packed full of hard workers, so...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "A school culture that values autonomy.\nHigh professionalism...\nI infer that it \"expanded naturally in scale.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Hmm... Then I suppose I need to be\neven more mindful about taking proper 'rests.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "And yet...\nyou don't even have the leeway to come rest...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "That's the real problem, isn't it?\nEven if we dig new springs or add more baths, it won't bring in more customers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Because I understand all too well~~~~.\nThat feeling of not even wanting to leave the house...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Still... just like Teio-chan\nwas saying earlier...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "You want to do fun things\neven if you have to push through exhaustion...\nThat might just be the key!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(That's it...! If the charm\ncan overcome the 'hassle'...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "*sniff*... Ahh, smells nice after all.\nThe air is moist and soft, too.\nThe city tends to get so dry...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Souvenir Shop Staff",
+      "text": "Step right up, closing time discounts!\nHot spring carrots at half price~♪\nCare for one, young lady?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Whoa, then I'll take one.\nEhehe, lucky me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Haaah... so warm...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ah, I should've taken\na picture before eating...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Nah... forget it for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Haaah...\nThis sound is so nice too...\nIt really feels like nature...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "The sunset... is so pretty...\nWith it being this red, tomorrow will probably be sunny too.\n...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "It really is a lovely town...",
+      "choice_data_list": [
+        "Huh, Tarumae?"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ah, you were here!\nUmm, I just couldn't sit still, so I came over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "This hot spring resort... really does have a lot of wonderful things going for it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "I just know that if they come,\nthey'll absolutely love it.\nSo—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "—So, it's for 'town revitalization'?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Yes!\nI used to be a local idol in Tomakomai,\nso I like to think I know a thing or two about it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"Could you at least let me try?\nI'll start by putting together a proposal...!\"",
+      "choice_data_list": [
+        "I'll support you too!"
+      ]
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "My, are you sure?\nI don't mind at all, of course, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "Yeah, there's no reason you can't.\nGo ahead and do as you like.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Thank you very much.\nI look forward to working with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "What do you think! Check out this mascot character.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Is the name \"Yukomaa\"? \"Yukcoma\"...?\nAh, \"Yukomattari\"...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Oh, how well done. It looks like medicinal bath water.\nThat subtly quirky charm\nmight just be a big hit.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "The classic hot spring carrots...\nI wonder if we could add something extra to them?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "A new flavor, you say?\nWell now, if it needs to pair well with hot spring water...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"If we release an add-in recipe using the local specialties here, the synergy will make both of them go viral—!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Let's go~♪ Let's goooo~♪\nTo Yukoma Onseeeen~~~~♪\nAh, heave-ho!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "…………\n\"Hot spring cure, sightseeing, refreshing.\"\n\"Yukoma Hot Spring Village\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Yes, having it be slightly surreal is nice.\nI can clearly visualize the final edit!",
+      "choice_data_list": [
+        "(O-oh, I see...!?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Hokko Tarumae tried various approaches.\nHowever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Whyyy!?\nWe barely got any more customers~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I really thought it would work out.\nThe pitch wasn't bad, right...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No, it's only natural that things aren't going well.\nTown revitalization is just that difficult.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Whether they'll find you or not is honestly down to luck.\nThat's why you can't get discouraged, you just have to think of your next move.\nIt's all about trial and error!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "I see...! \"Keep going until you can do it\", huh.\nAs expected of a \"local idol\", you really are something else.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Right, break's over!\nI'll head back to my room and cook up the next idea.",
+      "choice_data_list": [
+        "(Is it really going to be all right...?)"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "………………。\n………………………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hrrrmmm... it's no use...\nNothing's coming to mind............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "—Pardon me.\nTarumae-sama, do you have a moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"Ah, yes!\nWhat can I do for you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yunohana Bloom",
+      "text": "Good work.\nThis is on the house.\nPlease, help yourself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"W-Wah, thank you so much...!\nIt smells wonderful...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "This herbal tea helps you sleep peacefully.\nIt'll warm you right up. Drink it slowly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "A good night's sleep...\nRight, just because tomorrow is a day off doesn't mean I should stay up this late.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Takeshi Hoshina",
+      "text": "I appreciate the enthusiasm, but you came here to rest, so take it easy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ugh, I went and made you worry about me~~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Or rather... have I just been slacking off at work\nwithout noticing? Staring at my notebook doing nothing...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Nope, no good.\nYou should know by now how important focus is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Alright... that's it for today, bedtime!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The next day...\nDuring <chrname>'s training, we ran into our hot spring buddies.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "—And that's what happened...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Well, well...\nThat really is just so like Tarumae-chan.",
+      "choice_data_list": [
+        "(She's a hard worker, too...)"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "\"I've learned my lesson.\nIf I want to spread the joy of recuperation and hot springs, I need to embody it myself first!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Whoa, don't push yourself so hard.\nTake it easy, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "No, from now on,\nI've decided to try my best... to 'not try too hard'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Um... somehow, without overworking ourselves,\nwe'll work ha—, we'll revitalize the town!",
+      "choice_data_list": [
+        "Uh, hmmm...!"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Fufufu... It's all right. Things will work out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Even at times like this,\nI'm sure the hot springs will work their magic~♪",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "TV Audio",
+      "text": "\"And now for our next segment!\nTwinkle Series Trending News Flash~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Audio",
+      "text": "\"First up, making waves in last year's Hanshin JF,\r\nand the Mejiro family's much-talked-about promising rookie,\nMejiro Dober-san!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "TV Audio",
+      "text": "\"Among fans, expectations and interest are surging regarding Mejiro Dober's campaign along the Tiara route—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since the new year began, the public's attention\r\ntowards Mejiro Dober has been growing...\nThe fervor is far beyond expectations.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Whether this turns out to be good fortune or bad...\r\nFeeling a bit uneasy, I headed to the academy to discuss our plans for this year with Mejiro Dober—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "When I visited the training track,\r\nI spotted Mejiro Dober and Mejiro Bright doing warm-up exercises together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ah... Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "…………Happy New Year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Happy New Year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dober's Trainer,\nHappy New Year~.",
+      "choice_data_list": [
+        "Happy New Year to you both!"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dober's Trainer,\nHappy New Year~.",
+      "choice_data_list": [
+        "Happy New Year to you both!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Looking forward to working with you this year too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yeah. Looking forward to working with you this year, too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I look forward to working with you this year as well~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I look forward to working with you this year as well~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "—Ah, there she is! It's Mejiro Dober!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Mejiro Bright is here with us too...!\nTalk about lucky!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh—\r\nWh-What is it...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A large crowd of people looking like reporters appeared out of nowhere and came rushing over...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "My, oh my. Are you here for an interview~?\r\nQuite a crowd has gathered, hasn't it~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "—Um, Mejiro Dober!\r\nDo you have a moment?\nI'd like to ask about your Classic Year campaign!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Taking on the Hanshin JF... Does this mean you're aiming for the Tiara route after all?!\nExpectations among the fans are soaring!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Being with Mejiro Bright-san like this, could this be some secret special training for the Classic Year?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Please tell me more details!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ngh, —...",
+      "choice_data_list": [
+        "For now, I'll take any questions."
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "\"No, we want to hear directly\nfrom Mejiro Dober-san herself!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "The fans would love to hear Dober-san's thoughts directly, so if you wouldn't mind――\r\n",
+      "choice_data_list": [
+        "Including that, please make sure to stay true to yourself!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Hold on, Trainer!\r\nWhat about what the public thinks?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Oh dear~? Goodness! It seems\r\nI have gone and forgotten something~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"Dober, over here, over here~!\nPlease come and help me carry these~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Huh?! Ah, wait up, you two!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh dear, this won't do~. Being the laid-back person I am,\r\nif Dober doesn't keep an eye on me,\nI'll just keep forgetting more things~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"Right? Pretty please, Dober?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ah... Y-Yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "*pant*... Thanks, Bright.\r\nAnd... well, I guess you too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "*pant*... Thanks, Bright.\r\nAnd you too, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my, whatever could you mean~?\nI was simply having someone accompany me\nto retrieve something I left behind, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my, whatever could you mean~?\nI was simply having someone accompany me\nto retrieve something I left behind, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...You've got to be kidding me. You said you\r\ncame to pick it up, but you're not holding anything right now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Well, you see~ I simply forgot what it was\nthat I forgot in the first place~♪\nI am quite an easygoing sort, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Still, why was that reporter\r\nacting like that...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nothing like this has ever happened before—",
+      "choice_data_list": [
+        "That's just how much attention you're getting.",
+        "That's just how much attention you're getting."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Attention...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Looking at her run in the Hanshin JF,\r\nit seems like a completely natural progression~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"Dober, you performed so splendidly.\nIt is only natural that all eyes are on you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Is that... so? Then... will it be like this forever from now on...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Now, I wonder about that~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"I am sure that from now on, Trainer-sama will\nfirmly decline any interviews that have not\nreceived prior approval~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Right, dear Trainer♪",
+      "choice_data_list": [
+        "Of course, that's the plan.",
+        "Of course, that's what I intend to do."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Y-Yeah……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Dober seems somewhat distracted.\r\nA complete change of pace might be needed here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Thinking \"Since it's the New Year...\",\r\nwhat I spontaneously suggested was—",
+      "choice_data_list": [
+        "Let's play karuta!",
+        "Let's eat ozoni!",
+        "Let's do our first calligraphy of the year!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh!?\nW-What are you saying all of a sudden—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh?!\nW-What's got into you all of a sudden—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my~! Karuta sounds wonderful~!\nIt feels so lively and perfect for the New Year~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my~! Karuta sounds wonderful~!\nIt feels so lively and perfect for the New Year~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No, no, Bright! Don't go along with it!\r\nWhat about the rest of our training!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"How nostalgic~\r\nWhen the Mejiro family played karuta together, Dober couldn't grab a single card and ended up bursting into tears~\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "H-Hold on a second! That's from way back when I was a tiny kid, right!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "When we did it last year, my results\nwere way better than Bright's!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu, was that how it went~?\r\nA year ago is ancient history,\nso I don't remember it very well~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Kh... You were the one who brought up the past first...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "And with that, our match must be decided right here and now♪\r\nCome along, Dober, let us begin~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ah, jeez... Fine, I get it!\r\nI just have to do it, right? Do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu. Well then, Trainer-sama,\r\nplease be our reader~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Since I'm doing this, I'm not gonna lose~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...And so,\r\nI was able to successfully refresh my mind.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh?!\nWhy so suddenly—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my~! Ozoni is so wonderful and fitting for the New Year.\nI was just starting to feel hungry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Streeeetchy mochi! Let's eat!\nEhehe, it makes me smile so much~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Wait, aren't we going to train—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Then let us go shopping right away~.\r\nNow then, what ingredients do we need for ozoni...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...What kind of vegetables were in it again~?\r\nCelery?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ah, jeez...! Stop, Bright!\r\nIf you're making it, I'll help you out!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Don't just zone out over there!\nYou're the one who brought this up, so make yourself useful!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...That said, it's not like I'm super confident in my skills either...\nTrainer, would you give me a hand?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I helped the two of them make\r\nMejiro-style ozoni soup, and we all enjoyed\neating it together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, I helped the two of them make\r\nMejiro-style ozoni soup, and we all enjoyed\neating it together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It served as a good change of pace for Mejiro Dober,\r\nand getting a taste of the Mejiro family's culinary traditions made it a fine start to the new year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "F-First calligraphy of the year?\nWhere's this coming from all of a sudden...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "F-First calligraphy of the year?\r\nWere we just talking about that...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my~! First calligraphy of the year sounds lovely~.\nI haven't gotten around to doing mine yet~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my~! First calligraphy of the year sounds lovely~.\nI haven't gotten around to doing mine yet~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"Dober. Since we have the chance,\nwould you like to write down our goals for the year together~?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Putting our resolve into writing will surely fire us up for training even more~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Well, I don't mind doing it.\r\nWriting it together is kinda embarrassing, though.\nMy handwriting isn't very good, you know...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "What matters most in calligraphy is the heart.\nDon't worry, simply pour your true feelings into the brush and you'll be just fine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Well then, let's get started right away~!\r\nPlease join in as well, Trainer~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, the three of us wrote down our goals\r\nfor the Classic Year and showed them to each other...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Dober seemed able to concentrate too,\r\nand a bit of her drive returned to the words 'Triple Tiara Achieved'.",
+      "choice_data_list": []
+    }
+  ]
+}

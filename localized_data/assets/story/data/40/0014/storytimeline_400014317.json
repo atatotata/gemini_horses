@@ -1,0 +1,202 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from running errands with Calstone Light O—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Grrrr...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "\"Trainer. My stomach is speaking to me.\nIt says it is empty.\"",
+      "choice_data_list": [
+        "Yeah. I'm hungry too, so want to grab a bite before heading home?",
+        "Right. I'm hungry too, so want to grab a bite before heading home?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Then—Ah! There's a \"Straight Wire Hall\"!\nLet's go, Trainer, right away!",
+      "choice_data_list": [
+        "(Ahh, that shop...)",
+        "(Ahh, that shop, huh...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Straight Wire Emporium,\" the place where I was once handed a clothespin\nand forced to fish for walleye pollock...\n...Honestly, it terrifies me. Bracing myself, I entered the shop.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "…………――Now then, let us begin with today's confessions.\nThose who have regrets, pray to the donburi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume in Tracksuit",
+      "text": "Allow me to go first. —It happened just two days ago.\nI... ate an Ultra Giga Burger Set.",
+      "choice_data_list": [
+        "(Hm? What is this situation—)",
+        "(Hm? What is going on here—)"
+      ]
+    },
+    {
+      "name": "Umamusume in Sweats",
+      "text": "Whaaat!?\nThe Ultra Giga Burger Combo?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "FOOOOOOOL!!\nThat single set has an entire day's worth of calories!!\nDon't just casually devour that outside of a cheat day!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "Can't be helped, today we're reviewing nutrition!\nHammer the ingredients essential for running back into your heads!",
+      "choice_data_list": [
+        "（！！！？）"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "...Hm. Trainer,\nI think we might have stumbled into somewhere bad.",
+      "choice_data_list": [
+        "Ah, yeah...",
+        "Y-yeah..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "However, the store was packed with Umamusume. Completely surrounded on all sides, it looked impossible to make it to the exit...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "—They do say, \"When in Rome, do as the Romans do.\"\nSince you're here, why not take it easy for a bit?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Oh, Stego-san. Do you know\nanything about this bizarre gathering?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Nah, I just came here to eat some ramen.\nLooked like you guys were having fun, though.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Do you really think so? I don't understand it at all. It's bizarre, creepy, and abnormal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Shopkeeper, please explain yourself properly!\nOtherwise, I will report this to the proper authorities!",
+      "choice_data_list": [
+        "(She listened...! What a relief...!)"
+      ]
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "Oho, a newcomer to the seminar?\nThen it's only natural you'd wonder.\nThe truth is—I used to be a racing Umamusume myself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "Using that experience, I'm holding a seminar\non nutritional science—called 'Learning Maintenance.'",
+      "choice_data_list": [
+        "Huh? Then what about \"Rah-men\"..."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"Short for 'Learning & Maintenance', huh.\nHaha, what do you know. It's just an ordinary seminar.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "You might've already noticed\nafter eating our ramen, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "See, my ramen had fish cakes in it—\npacked with ingredients to build the fast-twitch muscle needed for sprints, right? That was all part of the lesson.",
+      "choice_data_list": [
+        "Ah, come to think of it...!"
+      ]
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "âRamen is a complete, perfect nutritional meal, you see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hariganedo Umamusume Shopkeeper",
+      "text": "Protein, minerals, fats, carbohydrates... Eat ramen, and everything is in balance—everything goes well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hmm... I see. That makes sense.\nActually, I've been thinking the same thing recently.",
+      "choice_data_list": [
+        "Huh? R-Really...?"
+      ]
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Yes. Top speed is always a battle against one's limits.\n—The closer you get to the light,\nthe more your body burns and gets worn down.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "It might be fine for now—\nbut if all you do is burn through your energy, you will break down someday.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "That is why, going forward, you will need a body that can endure that speed.\nSo that the speed does not tear you apart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "In that respect, the ramen here is fantastic.\nI feel like it's doing wonders for my fast-twitch muscles,\nand above all, it fills me with energy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "—So that I can remain the fastest.\n—So that I can remain a light that never burns out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...To be honest, I was amazed. To think she had\nthought this far ahead. Not just for right now,\nbut to ensure she remains the fastest in the future, too.",
+      "choice_data_list": [
+        "(\"To Continue Being the Light\"… huh)"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha. ...You look surprised.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stay Gold",
+      "text": "—They just grow on their own, you know.\nFar surpassing anything we could have ever predicted.",
+      "choice_data_list": [
+        "...Yeah, looks like it.",
+        "...Yeah, looks like it."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, Calstone Light O listened intently\nwith a positive attitude—\nmaking me feel glad that I had come.",
+      "choice_data_list": []
+    }
+  ]
+}

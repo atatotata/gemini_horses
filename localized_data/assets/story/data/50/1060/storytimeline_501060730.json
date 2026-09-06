@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "\"Woah!!\r\nTo get this many...!!\"",
+      "choice_data_list": [
+        "I'll give you everything",
+        "I'll give you everything I have!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, for me?\r\nNo, no, you went through the trouble of winning it.",
+      "choice_data_list": [
+        "I got it for you",
+        "I got it for you!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh? Are you being serious?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jeez, making such a scene right in front of the store...\r\nHow embarrassing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Still, well, um... Thanks, Trainer.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

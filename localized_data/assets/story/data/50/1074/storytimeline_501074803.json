@@ -1,0 +1,269 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I visited the beach hut that Mejiro Bright praised as \"delicious\"... but a woman who seemed to be the manager was bustling around all on her own amidst the crowd.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beach Hut Manager",
+      "text": "\"Ah, Bright-chan, was it?!\nI'm so sorry, all the part-timers took the day off today!\nIt might be quite a while before a table opens up!\"",
+      "choice_data_list": [
+        "Running the beach house solo during peak season is tough..."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Howaa... Trainer-sama~. I would\nlove to help the store manager out~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer A",
+      "text": "Excuse me!\nIs our order coming anytime soon?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Okaaay, I'll be right there~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer B",
+      "text": "Excuse me, waiter! Sorry!\nThe kid spilled their juice!\nCould you bring something to wipe the table with, please?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh my, what a mess~.\nI'll bring a hand towel right away~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer C",
+      "text": "Excuse me! We're ready for the check over here!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yes. Please hold on a moment~.\nI'll be taking your orders one by one~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer A",
+      "text": "That clerk is really taking their sweet time...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "There's a huge gap between the density of customer orders and Mejiro Bright's leisurely pace.\nI'd love to help her out, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beach Hut Manager",
+      "text": "\"Trainer, keep washing those dishes quickly!\nLooks like we're gonna run out soon!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Helping out in the kitchen has turned into absolute chaos for me too.\nAt this point, all I can do is rely on Mejiro Bright's lone struggle.",
+      "choice_data_list": [
+        "(You can do it, Bright...!)"
+      ]
+    },
+    {
+      "name": "Beachgoer D",
+      "text": "Let's see. Three ciders and one yakisoba.\nAnd then—have you guys decided what you want to eat?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Eeeh! I haven't decided yet!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer D",
+      "text": "Geez, she's been staring at the menu forever... Why hasn't she decided yet?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer E",
+      "text": "\"It's all the same, right? How about everyone just gets the same order?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Whaaat!?\nDad, you always make decisions like that!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Howaa... Every single dish was\nsooo very delicious.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Really~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yes. So, if you pick what you want to eat most right now,\nit's sure to become a wonderful memory~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "First place...!!\nUm, um... Then I'll take this one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer D",
+      "text": "...I'm sorry, miss.\nI guess the traffic and crowds made me irritated.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer E",
+      "text": "I need to take it a bit easier.\nAfter all, this child has been looking forward to this for so long.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu... That is true~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The kitchen was as stiflingly hot as ever, but the atmosphere inside the restaurant seemed to have shifted slightly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beach Hut Manager",
+      "text": "...All the tables are still full, but\nsomehow the chatter from the customers feels a lot nicer now.",
+      "choice_data_list": [
+        "(...I'll check on her when I have a free moment.)"
+      ]
+    },
+    {
+      "name": "Beachgoer F",
+      "text": "I dunno, like, talking to the clerk kinda... softens up your mood, y'know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer G",
+      "text": "Ahaha! Well, let's stop stressing out\nand just chill while we wait!\nI can't wait for the food~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Ufufu~.\nI believe that would be lovely~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer H",
+      "text": "It's so hooot...\nStanding in line in this heat is seriously rough—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "To all the guests waiting in line, we also have cold\nwater available for you~.\nPlease bear with us just a little longer~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer H",
+      "text": "—Maybe it's... not that exhausting.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Boy",
+      "text": "Papa and Mama stopped being mad, and dinner was super-duper yummy! Thanks, Big Sis!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu, I am glad to hear that.\nThank you very much~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beachgoer F",
+      "text": "Excuse me, check please~!\nMan, we sure drank a lot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu, thank you so much~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Once things in the kitchen had calmed down a bit, I stepped out with the manager to check on things—",
+      "choice_data_list": [
+        "Before anyone realized it, the whole shop was filled with a warm atmosphere."
+      ]
+    },
+    {
+      "name": "Beach Hut Manager",
+      "text": "Ahaha! It's a far cry from the usual rowdiness,\nbut in its own way, maybe it really grabs the customers' hearts.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Beach Hut Manager",
+      "text": "Man, you two were a huge help! Thanks a bunch! I'd hire you every single day if I could, hahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Her unique style of customer service bore fruit,\nresulting in both great sales and a fantastic reputation.",
+      "choice_data_list": [
+        "Her gentle hospitality is terrifying...",
+        "Maybe you're surprisingly suited for this kind of business?",
+        "Could you teach me the secret to customer service...?"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Howaa~?\nIs being mellow something to be afraid of~?",
+      "choice_data_list": [
+        "No, no, that's not what I meant."
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I don't really understand, but if the guests\nare satisfied, then I'm happy~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"All's well that ends well.\nIt's best not to overthink things.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu... Well, if there's ever a chance in the future,\nit might be nice to open some kind of shop~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"A doll workshop might be lovely too~.\nWhen that time comes, please join me, Trainer-sama.\nFufu.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Sensing potential hidden business acumen,\nthey returned once more to their days of training.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Would it be... to make sure everyone\nhas a wonderful, fun time~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "So... don't panic, don't rush, and just smile.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Being able to stay by the customers' side with a smile takes real toughness. It's the fruit of daily dedication.",
+      "choice_data_list": []
+    }
+  ]
+}

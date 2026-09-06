@@ -1,0 +1,258 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On our way back from an outing,\nSeeking the Pearl suddenly stopped in her tracks.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Fwoooooooosh, BANG!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "...!!\nIs that... bottle rockets!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Hey, you!\nWere you just launching bottle rockets!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Hm? Ah... that's right.\nThose are fireworks I made myself.\nI was just test-firing them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "\"Which means you're a pyrotechnician?! That's incredible, show me more!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The elderly man we met said he's a pyrotechnician\nwith a workshop nearby. Apparently, he regularly hosts\nfirework-making workshops for children.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "\"I'm holding another workshop soon,\nso I've been prototyping all sorts of fireworks\nto show the kids there.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "A hands-on workshop... How exciting!\nDo you have other prototypes besides this one?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Oh, there are plenty.\n...Would you care to try making some too, if you'd like?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Yeah, exactly, secure it tightly to the bamboo stick.\nThat will control the rocket's thrust.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I see, so that's why it flies straight...!\nI'm gonna try launching one!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*whistle~*, *BANG!*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Wah... Did it work!? Was it a success!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Ooh, that's pretty good for your first time!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeking the Pearl looks like she's having a blast.\nSeeing her act so innocently is rare and truly heartwarming.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "—Oh, right. Hey you,\ngot any bright ideas for me?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "I want to make bottle rockets that kids will enjoy even more, but honestly, I'm in a bit of a rut.\nI'd love to hear a young person's opinion—got any ideas?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "In that case, how about making dance music\nwith whistle-tone rockets!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Drawing pictures with sparklers sounds fun too, don't you think?\nLike, for example, a star!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Hahaha, well that's fascinating! That said,\nmaking actual music is pretty tricky mechanically...\nThough if we get creative, we might manage something close...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "\"...Alright, let's try making it.\nI can at least tap out a rhythm with sound,\nand drawing simple shapes like stars shouldn't be too hard.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Really!? Will we be drawing with sparks?!\nAnd we'll be using flame tests for the coloring, right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Yeah, exactly, you can make any color you want with these color agents.\nOne firework won't be enough, so we'll have to make lots of fountain fireworks alongside it, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I'll make them! Lots of them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "\"...Alright, done!\nOur third fountain firework!\"",
+      "choice_data_list": [
+        "Making good progress! What color was the one you were just making?",
+        "Making good progress! What color was the one you were just making?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "That one just now was yellow! I made red and orange too...\nso what color should I make next?",
+      "choice_data_list": [
+        "How about reddish-purple?",
+        "How about reddish-purple?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Good sense, Trainer!\nLet's make a star with warm, fiery gradients!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Mmm~~ Producing sounds at a steady\nrhythm really is difficult after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Still, you're on the right track.\nJust adjust the length of the fuse a bit more...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I... Is it done, I wonder...!?\n'A burst of fireworks that beats a dancing rhythm\nand paints the stars' rings'!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Yeah, let's try hitting right away!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Wheeeew, clatter-clatter-clap-clap!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "—A... mazing!\nThis dancing rhythm!\nThe star-like fireworks lighting up the sky!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Amazing! A huge success!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Hahahahaha! Now that's incredible!\nI've never seen anything like this before!!",
+      "choice_data_list": [
+        "Those are some amazing fireworks!",
+        "Those are some amazing fireworks!",
+        "You really love bottle rockets, don't you?",
+        "You really love bottle rockets, huh?"
+      ]
+    },
+    {
+      "name": "Pyrotechnician",
+      "text": "Hahahahaha! Now that's incredible!\nI've never seen anything like this before!!",
+      "choice_data_list": [
+        "Those are some amazing fireworks!",
+        "Those are some amazing fireworks!",
+        "You really love bottle rockets, don't you?",
+        "You really love bottle rockets, huh?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "What?! Truly, the potential of bottle rockets\nis expanding this much?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I want to make so many more different things!\nCome on, what do you say!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeking the Pearl seems completely engrossed in making fireworks.\nIt's quite rare to see her pleading like this.",
+      "choice_data_list": [
+        "Yeah, let's come back for another trial workshop."
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Fufu, and you'll be with me then, Trainer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Making fireworks was exciting, of course, but... the reason today was so fun and captivating was because I was with you!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "—Yes. Launching bottle rockets is so active, positive, and exciting, don't you think?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "It feels like they're cheering me on and hyping up\nmy determination to pursue every possibility.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "That's why I love it so much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Fufu, this scenery, this rhythm... I could watch and listen to it forever...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeking the Pearl looked so happy as she murmured that. Seeing her joy brought a warm feeling to my chest, glad that I could give her such a wonderful experience.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Duramente",
+      "text": "\"...I see.\nSo that's how you catch it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I understand the method.\nI owe you one.",
+      "choice_data_list": [
+        "You can have that Paka Petit if you'd like."
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Are you sure? Thank you.\nHaving the real thing makes it much easier to grasp the center of gravity.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "I'll try doing it just like I learned.\n...I'll win Crown's share too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was a respectable result!",
+      "choice_data_list": []
+    }
+  ]
+}

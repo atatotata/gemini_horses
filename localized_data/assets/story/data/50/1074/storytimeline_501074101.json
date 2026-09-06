@@ -1,0 +1,314 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Happy New Year. With the dawn of the new year,\r\nMejiro Bright has entered the Classic Class.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Rattle-clatter-clatter~)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Trainer~,\r\nthank you so very much for all your help this past year~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"I look forward to working with you this year as well~.\r\nMost humbly~.\"",
+      "choice_data_list": [
+        "I humbly—"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...I gave a rather nonsensical reply,\r\nbut since the conversation flowed anyway, I'll take it.",
+      "choice_data_list": [
+        "By the way, Bright, what's your resolution for this year?"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Resolutions~. Of course I have already decided on them~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "—To run well in the Classic Triple Crown,\nand bring glory to the Mejiro family—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Though Mejiro Bright was normally laid-back, she answered without hesitation here. Her goal was crystal clear.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Especially~ the \"Satsuki Sho\" and the \"Japanese Derby,\" which no Mejiro has ever won yet, are the ones I really want to do my best in~.",
+      "choice_data_list": [
+        "I see. The Mejiro family is still...",
+        "I see, the Mejiro family still hasn't..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Hearing that makes me reflect once more. As of yet, no Umamusume in the Mejiro family\nhas ever won both the Satsuki Sho and the Tokyo Yushun (Japanese Derby).",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "If her sights are set on that... she might have already scouted out her rival Umamusume as well.",
+      "choice_data_list": [
+        "The Satsuki Sho—I can't afford to lose to my rivals!",
+        "The Satsuki Sho—we can't lose to our rivals!"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Howaa~... Rivals...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Um, Trainer. What kind of person\nis your rival~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...She didn't seem fully aware of the situation around her. Indeed, the Umamusume of Mejiro Bright's generation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yes, Bright...\r\nYou're aiming for the Satsuki Sho, aren't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "I still haven't found my own running style.\r\nIf only I could figure it out in time for the Japanese Derby...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Silence Suzuka. A quiet Umamusume\r\nwho preferred solitude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"That wavering heart affected her running, leaving her results lacking. Her standing on the Classic Road was also a step down from the main contenders.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mmmm, I see it! I see it, Bright-san!\nYou intend to race straight down the Classic path, don't you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"A formidable rival is sure to appear!\r\nWell, that rival is me, though.\nEven if it's just me wishing I could be!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Matikanefukukitaru.\r\nAn Umamusume whose hobbies are fortune-telling and the occult.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"She seems to be trying hard, but the common rumor\r\nis that she's relying on sheer luck for now.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Lady Suzuka and Lady Fukukitaru~. The two of them\nwould chat every now and then, but~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Yes, we were peers, weren't we~?\r\nCome to think of it now~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The easygoing Mejiro Bright seemed to think of them merely as conversation partners. But her two rivals, naturally...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...I wasn't even aware of it myself.\r\nI've had my hands full just polishing my running.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "\"Me too! I was completely focused on boosting my luck!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Nobody is keeping an eye on anyone else...\nEveryone is right in the middle of finding themselves,\nwithout any room to worry about rivals yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Um, Trainer. Since it's the New Year and all,\nI was hoping we could deepen our bond with those two~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Who should I hang out with, and what should we do~?\r\nThen again, maybe spending it all alone would be nice too~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Spending New Year's with my classmates.\r\nNow then, what should we do?",
+      "choice_data_list": [
+        "Braiding each other's hair with Suzuka",
+        "Gazing at the bonsai alone",
+        "Playing Dolls with Fukukitaru"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"My, hair braiding~.\r\nLady Suzuka, would you permit me\nto braid your beautiful hair~?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I have simply adored knitting\never since I was a little girl~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Braiding hair together...? I don't mind, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Alright then, let's go~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Swi~sh swoo~sh, swi~sh swoo~sh♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Bright?\r\nIt's been quite a while, are you done knitting?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "No, no~ I've only combed it out so far~. The braiding starts now~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Looks like this will take quite a while longer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Bright took her sweet time fixing Silence Suzuka's appearance.\nWhile they played around, she built up quite a lot of patience.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Bonsai all by myself... Well, yes~.\r\nI can play with my schoolmates anytime, after all~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Well then, farewell to you both~.\r\nI shall indulge in a little viewing~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Tonk... tonk...*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "......Whoa.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "......Whoa.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Mejiro Bright simply gazed at the bonsai.\nAnd then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Trainer~.\r\nI have come to a realization~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "They say bonsai is a 'universe in miniature,' but~ looking closely at it like this...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "So it was a tree after all, not the cosmos, isn't it~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I was at a loss for words. Even amidst it all,\r\nMejiro Bright was steadily being soothed.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"Playing with dolls~. Ah, that is right, Fukukitaru-sama.\r\nAre you interested in this child~?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "\"This is 'Maki-chan'~\r\nShe's such a veeery good girl~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ooooh, to think you have such a thing!\r\nYou truly are very devout, Bright-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "You mean that, right? The thing that\r\ntakes all of one's impurities upon itself...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Yes?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "To begin with, a 'katashiro' is...\r\na doll that has been used in purification rituals since ancient times, and...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "It means it will take on any misfortune\nthat might befall you, Bright-san.\nHow blessed~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, my~ Poor Maki-chan...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Receiving Shinto teachings in front of the shrine,\r\nMejiro Bright gained some trivia knowledge.",
+      "choice_data_list": []
+    }
+  ]
+}

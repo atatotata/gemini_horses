@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ouch!\nUgh... My arm feels like it has muscle pain, YES.",
+      "choice_data_list": [
+        "Are you sore?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yes, I was doing some fast-draw\r\ntraining last night, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Whenever I spin a model gun,\r\nI just can't help getting all fired up...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Haaah...\r\nCan't we do something about this, YES...? Ow-ow-ow.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Taiki Shuttle seems to be out of shape...",
+      "choice_data_list": []
+    }
+  ]
+}

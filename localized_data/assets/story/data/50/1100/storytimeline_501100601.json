@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Wonder Acute",
+      "text": "Well, she's had a string of losses lately, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Gotta notch a win right around here~.",
+      "choice_data_list": [
+        "Feeling confident?"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "If I didn't have that,\nI wouldn't be talking about winning in the first place, now would I?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "All right, let's win this and get some momentum going!",
+      "choice_data_list": []
+    }
+  ]
+}

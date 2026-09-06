@@ -1,0 +1,83 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Hishi Akebono got injured,\nso I took her to the nurse's office...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hmm, sorry, Trainer.\nMaybe I didn't warm up enough?",
+      "choice_data_list": [
+        "That's not true, you did a great job.",
+        "That's not true, you did a great job."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Thank you...\r\nBut please, don't make such a sad face, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "This much is easy-peasy!\nChanko nabe always keeps me full of energy~☆\nSo, see?!",
+      "choice_data_list": [
+        "Even so, I want you to rest.",
+        "You're not overdoing it, are you?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Trainer...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ahaha, you're worried about me, aren't you?\nYeah, got it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Alright, let's go eat some chanko nabe!\nI feel like eating together will help you get better in no time☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I made sure Hishi Akebono got plenty of rest today\nto prepare for our next training session...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Of cour... uh!",
+      "choice_data_list": [
+        "Are you okay!?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...Ehehe,\nI guess I strained myself a little too much~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She really wasn't in good shape...\nAfter treating her that day, I decided to let her rest from training...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Of cooouuurse!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Watch this~! My lower body strength from all those shiko stomps isn't just for show~!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After receiving treatment, Hishi Akebono\ncheerfully resumed her training.",
+      "choice_data_list": []
+    }
+  ]
+}

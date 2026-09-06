@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "...You know. Just maybe, today...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"I've got a hunch I can go\r\npretty far with this...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Or something like that~\r\nWhy am I setting up my own flags, anyway?!",
+      "choice_data_list": [
+        "I'm counting on you!",
+        "I'm counting on you!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "H-Hey, stop raising death flags!\r\nJeez, I told you, it's just a hunch...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Well, don't get your hopes too high.\r\nLet's just keep it nice and breezy!",
+      "choice_data_list": []
+    }
+  ]
+}

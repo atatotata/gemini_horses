@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cheval Grand",
+      "text": "Amazing, Trainer!\nThis haul is big enough to raise a big-catch flag...!",
+      "choice_data_list": [
+        "You can have that!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Huh...!? B-But you're the one\nwho won it, Trainer...",
+      "choice_data_list": [
+        "I got to practice fishing, so that's good enough!"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "I-Is that so...?\nUm... Well then...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Fufu, quite a big haul...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—It was an utterly satisfying result!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Sakura Laurel—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah, Trainer!\nIsn't that cute?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking where Sakura Laurel is pointing,\nI see a crane game filled with plushies\nmodeled after Umamusume.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "It really captures everyone's features well, doesn't it!\nI'd love to display it in my room~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "...Ah, but I might not have\nmuch cash on me today.",
+      "choice_data_list": [
+        "I'll get it.",
+        "I'll take it."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "You will, Trainer? Are you sure?",
+      "choice_data_list": [
+        "Leave it to me!"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu. In that case, maybe I'll look forward to seeing\nwhat you can do, Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

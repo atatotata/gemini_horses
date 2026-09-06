@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After the break, Seiun Sky came wandering\nunsteadily into school.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "*Yaaawn*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whoops, hello there, Trainer. It's Sei-chan, completely out of batteries~.",
+      "choice_data_list": [
+        "Didn't get much sleep?",
+        "Didn't get much sleep?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whenever I get time off, I end up wanting to do\nall sorts of things instead...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "I was reading a famous book on military strategy yesterday too, and it was pretty interesting~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Well, you see, as for the contents...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, my head's not working at all~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seiun Sky seemed even sleepier than usual that day.",
+      "choice_data_list": []
+    }
+  ]
+}

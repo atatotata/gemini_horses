@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Cafe Lady",
+      "text": "Here you go! Extra-large mega stamina sanzokuyaki set with five extra cutlets,\r\nplus ginger pork on the side! Thanks for waiting~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hello.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the cafeteria at lunch,\r\nI ran into Narita Brian ordering a set meal that looked like an eating challenge……!",
+      "choice_data_list": [
+        "What happened with that...!?",
+        "What happened with that...!?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hm, yeah...\r\nI feel like I'm not quite at my best.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Take it from experience: meat comes first.\r\nWhen you're tired, nothing beats meat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "If you eat meat, you'll pretty much be cured.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Will this wild conditioning routine\r\nactually relieve any fatigue...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It might be best to reconsider our upcoming race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

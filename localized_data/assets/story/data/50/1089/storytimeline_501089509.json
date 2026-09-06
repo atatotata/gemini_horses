@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I was in the middle of going over race strategies\nwith Cheval Grand in the trainer's office, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "……。\n…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheval Grand stared blankly into space,\nlooking completely lost in thought.",
+      "choice_data_list": [
+        "...Cheval?"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Aah!?\nY-Yes...! I'm listening!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Um... we're talking about going fishing, right?\nI definitely prefer sea fishing...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "When I close my eyes like this...\nmy heart... flies away... aboard a ship...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "A calm sea... a sprawling horizon...\nJust lazily dangling a fishing line...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheval Grand seems to have built up quite a bit of\nfatigue from running in consecutive races.\nWe might need to reconsider her upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

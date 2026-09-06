@@ -1,0 +1,335 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "On the way home from\r\ngoing out with Nice Nature...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh, isn't that City over there?\r\nIs she... on a modeling shoot, maybe?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Whoa... Just standing there, she has this aura.\r\nIt feels like she's on a completely different dimension.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "Hmm, I'd like some more relaxed expressions too.\r\nLet's take a quick break!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "...Whoops—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh, Nature and the others... what's wrong?",
+      "choice_data_list": [
+        "I was just about to head home..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Woooow, this is amazing!\r\nIt's so divine, it makes you just wanna put your hands together in prayer... y'know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "So this is what it feels like to admire someone so much you want to worship them.\nPraise be~, praise be~~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Pfft... Ahaha,\r\nwhat's that even mean? That's a first for me.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "—Love it, that natural smile!\r\nHey, would you girls mind helping with a photoshoot?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh? Filming...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Um... please wait a second.\r\nI don't want to cause trouble for the two of them.",
+      "choice_data_list": [
+        "Want to give it a try? You did say you admired them."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh!? No, that was just a figure of speech, you know!?\r\nThere's no way someone like me could ever do that!",
+      "choice_data_list": [
+        "You won't know until you try!",
+        "You won't know until you try, you know.",
+        "Alright, I'll go!",
+        "Then I'll go!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh!? No, that was just a figure of speech, you know!?\r\nThere's no way someone like me could ever do that!",
+      "choice_data_list": [
+        "You won't know until you try!",
+        "You won't know until you try, you know.",
+        "Alright, I'll go!",
+        "Then I'll go!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "T-That might be true, but!\nIt's an 'aspiration' precisely *because* I can't do it, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "...I see. I get it too, you know.\nThat feeling of not being able to take that step, not being able to run.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "If that's the case, leave it to me.\r\nI'll have your back.",
+      "choice_data_list": [
+        "Let's do this!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Are you serious... Seriouslyy~~...!?\r\nCan I really do this~~!? Me~~...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And thus, the photoshoot began...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Ahaha, you're even stiffer than I am.\r\nLet's think of something funny and relax for a second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"S-Something funny!?\nI don't have the leeway to think about that right now!?\"",
+      "choice_data_list": [
+        "(Make the goofiest face possible.)"
+      ]
+    },
+    {
+      "name": "Both",
+      "text": "—Pfft!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahaha, what's that, that's totally cheating--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "Ooh! Nice smile, love it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "It's... over...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Good work, and thank you so much.\r\nEveryone was raving about the amazing shots we got.",
+      "choice_data_list": [
+        "You two were both sparkling."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah... thanks a bunch~~\r\nEven laying on the flattery, my oh my.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Fufu... Well, I'll send you the magazine once it's finished.\r\nYou can check it out for yourself then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Whoa... The magazine arrived.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Wait, I'm taking up the whole screen!?\r\nHuh!? Isn't that way too much honor for me!?",
+      "choice_data_list": [
+        "Look, it's blowing up online too!",
+        "Look, people are talking about it online too!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No!! Just leave it!!\r\nI don't wanna see... any backlash—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The phone screen was overflowing with praise not only for Gold City\r\nbut also for Nice Nature's smile... along with cheering comments supporting her success.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...W-Wait, enough.\r\nEnough already, I get it, so stop it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Haaah...... So hot.",
+      "choice_data_list": [
+        "Let's shine in the race too, yeah?",
+        "Let's shine in the race too, okay?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Yeah, yeah.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The training session that followed\nhad far more fired-up energy than usual.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yo! As expected of you, Trainer!\r\nI'll be watching your heroic performance with my own two eyes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "And thus, the photoshoot began...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Hmm, so that's how you became their Trainer?\r\nYou're pretty good yourself.",
+      "choice_data_list": [
+        "I'm deeply honored!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Fufu, I think I'm starting to get fired up too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Cameraman",
+      "text": "Ooh! Nice smile, love it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Alright, good work~.\nSo, how was your modeling debut?",
+      "choice_data_list": [
+        "I was so nervous..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hmm... Really?\r\nLooked pretty slick to me, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Man, City-san is really something else.\r\nShe transforms everything around her into another world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Man, I really can't compete with her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Hey, that's my line.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "City-san!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Guess what she talked about the entire time during the shoot?\r\nIt was all about Nature.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh... what's that mean?",
+      "choice_data_list": [
+        "Did it just happen naturally...?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Huh!? Did you really talk about me\r\nwith a smile like that...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "............\r\n...Wait, that is so embarrassing?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "That's embarrassing, but it really fired me up.\r\nI'll be counting on you when we race together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "That... \"bond\" of yours, was it?\r\nI'll be looking forward to seeing it. Later.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Aww, jeez...",
+      "choice_data_list": [
+        "Let's do our best in the race!",
+        "Let's do our best in the race, okay?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Haaah...\r\nThis one has no idea how I feel...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Yes, yes, I'll do my best.\r\n...So that I can shine in my own way, that is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "The training session that followed\nhad far more fired-up energy than usual.",
+      "choice_data_list": []
+    }
+  ]
+}

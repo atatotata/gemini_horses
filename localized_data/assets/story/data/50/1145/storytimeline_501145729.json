@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rulership",
+      "text": "Now, now... Easy, easy.\nThings like this happen from time to time, right?",
+      "choice_data_list": [
+        "Still... it's so frustrating!"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Haha, I know exaaaactly how you feel.\nLet's come back for revenge next time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Until then,\nI'll drill the classroom theory into you thoroughly.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "\"Rest easy, Trainer.\nOnce you grasp the mechanism,\nyou get reasonably good at it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

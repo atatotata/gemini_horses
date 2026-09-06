@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nishino Flower",
+      "text": "—Ah!\nTrainer-san!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Good morning!\nThank you very much for the time off!",
+      "choice_data_list": [
+        "Looks like you had a great time.",
+        "Looks like you had a great time."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Yes! I talked to my mom and dad a lot about you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "I received so much positive energy...\nso starting today, I'll do my best again!",
+      "choice_data_list": []
+    }
+  ]
+}

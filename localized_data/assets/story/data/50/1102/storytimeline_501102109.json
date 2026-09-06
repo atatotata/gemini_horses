@@ -1,0 +1,448 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Inside the banquet hall of a large hotel.\nAs I sit on a plush reception chair,\na spotlight pierces through the darkness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttore—\nWelcome to our concert!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttriceâ\nWelcome to our concert!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Now, with every ounce of my heart and soul,\nI shall play the music overflowing from within me!\nPlease enjoy it to the very end!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Behind Sounds of Earth stood musicians holding various instruments. Though small in scale, it was a complete orchestra.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Only one customer. Faced with such lavish hospitality,\nthey couldn't hide their bewilderment.\nAs for how things came to this, let us turn back the clock a bit—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttore, do you have a moment?",
+      "choice_data_list": [
+        "Earth? I thought you went back to the dorm..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttrice, do you have a moment?",
+      "choice_data_list": [
+        "Earth? I thought you went back to the dorm..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"I just really wanted to give this to you.\nDon't worry, I'll barely make it back before curfew.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"What was handed over was a message card.\nWith Christmas just around the corner, it was easy to tell it was an invitation of some sort.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "I've been wanting to hold a concert for you.\nI heard you were free that day—\nwould you accept my invitation?",
+      "choice_data_list": [
+        "Of course! I'll definitely go."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "'O sole mio!\nI had full faith you would give me that answer!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Allow me to entertain you on the finest stage.\nLook forward to the day! Ciao!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since it was right before curfew, Sounds of Earth quickly delivered his message and hurried off in a flash...",
+      "choice_data_list": [
+        "(Come to think of it, where's the venue?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "He even called it a \"Concert just for you.\"\nA park with illuminated night views\nwould be an easy spot, but...",
+      "choice_data_list": [
+        "Hm!? Is this...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Opening the invitation, I could hardly believe my eyes. Written on it was a banquet hall at a famous hotel often used for wedding receptions.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so arrived the day of the concert.\nUpon arriving at the venue, Sounds of Earth and\nmusicians holding various instruments were there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth's mother is also among them.\nThe crowd gathered here seems to be members of the orchestra where she serves as concertmaster.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Everyone, this is my beloved direttore!\nGive him a round of thunderous applause!",
+      "choice_data_list": [
+        "You don't have to hype it up that much..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Everyone, this is my beloved direttrice!\nGive her a round of thunderous applause!",
+      "choice_data_list": [
+        "You don't have to hype it up that much..."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "What are you talking about?\nDidn't I say this concert was for you?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Besides, it's a Christmas party today, is it not?\nLet us dance, sing, and converse together.\nFor this is a special day to spend with all our family...!",
+      "choice_data_list": [
+        "Family... Wait, does that include me!?",
+        "Family... Wait, does that include me!?"
+      ]
+    },
+    {
+      "name": "Orchestra Member",
+      "text": "Ahahaha!\nLook at you flustered like that, Trainer, you're adorable!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "I'm sorry.\nEarth really should have explained things properly to you, Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "You're always taking such good care of our daughter, so we wanted to thank you properly. And then Earth invited us to the concert, you see?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orchestra Member",
+      "text": "When I talked to the hotel owner, they were kind enough to let us use this venue specially. It pays to work with all sorts of people, ahaha!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "So that's the story.\nYou'll accept our feelings, right?",
+      "choice_data_list": [
+        "Of course!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Guided by Sounds of Earth, I sit on a solitary chair placed right in front of the stage.\nThe lights dim, and the concert begins.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "～～♪　～～～♪♪\n♪♪～♪　♪～～♪♪♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "First up is her favorite: the violin.\nWith flowing strokes of the bow, she plays a passionate melody that stirs the hearts of all who listen...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Rat-tat-tat-tan! Rat-tat-tat-tan!\nRan-tat-tah, ran-tat-tah,\ntaka-taka-tan, rat-tah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Next, the delightful-looking concertina.\nThe rhythm hummed along with its tune\nis so brisk it makes you want to dance!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "La tua musica travolge il\nmio mondo♪　Cantano i fiori,\nil vento e il sole giocondo♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Next was a performance singing at a grand piano.\nThough I couldn't understand the lyrics, my chest trembled,\nand before I knew it, tears were rolling down my cheeks...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "She played more pieces after that, switching instruments and melodies.\nCombined with the accompaniment of top-tier orchestra musicians,\nevery performance was nothing short of magnificent...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "O Dio mio!\nWhy must the good times\nfly by so fast!?",
+      "choice_data_list": [
+        "That was fun! Thank you so much!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "No, Direttore!\nI have yet to fully convey my feelings to you!\nI cherish you so much, much more...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "No, Direttrice!\nI have yet to fully convey my feelings to you!\nI cherish you so much, much more...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth leans in close.\nStill caught up in the excitement of the concert, breathless, she begins to speak passionately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "If I were to describe your heart, it is like the sky!\nIt welcomes freely soaring birds, guides them,\nand inspires dreams of an unknown world!",
+      "choice_data_list": [
+        "You're exaggerating."
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Your eyes are just like the ocean.\nSinging the mystic sound of waves in the lightless abyss.\nI want to hear more! I want to feel it with my whole being!",
+      "choice_data_list": [
+        "Wait, Earth?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Your soul is passionate, radiant, and mighty!\nIt makes even the midsummer sun pale in comparison!\nWithout your brilliance, who could possibly live on...!",
+      "choice_data_list": [
+        "C-Calm down! Everyone's watching!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Desperate to stop Sounds of Earth, who is unusually fired up, I look around for help.\nHowever, the orchestra members...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orchestra Member",
+      "text": "Woo-hoo!\nThat's our Earth-chan! Way to go~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "To receive all of Angelo's love all to yourself...\nI'm getting just a little jealous~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Led by Sounds of Earth's mother, the orchestra members cheered and whistled. The overwhelming excitement made my face flush hot...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "Ahahaha! Just kidding.\nAngelo, you're troubling Trainer too.\nThat's enough for now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Oops... forgive me.\nI was so overwhelmed with excitement\nthat I completely lost myself.",
+      "choice_data_list": [
+        "Don't worry about it. I'm okay."
+      ]
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "“Still, it's true that she loves you very much.\nHonestly, whenever this girl opens her mouth,\nit's always Trainer this, Trainer that.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Being relied upon to that extent genuinely makes me happy as a Trainer.\nTaking this as a good opportunity, I reaffirm my determination to her.",
+      "choice_data_list": [
+        "Earth's mother, I...",
+        "Earth's mother, I..."
+      ]
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "Yes...?",
+      "choice_data_list": [
+        "I'll make sure Earth has the best session ever"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttore...!",
+      "choice_data_list": [
+        "Please watch my race!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttrice...!",
+      "choice_data_list": [
+        "Please watch my race!"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "\"Earth has truly... been blessed\nwith a wonderful Trainer.\nWe are fortunate indeed. Both my daughter and I.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "I'm looking forward to the race.\nPlease take good care of Earth.",
+      "choice_data_list": [
+        "Yes!"
+      ]
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "Well, the snacks should be arriving soon.\nEarth, go call the staff over.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Ah...!\nGot it. I'll be right back.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Afterward, while nibbling on the prepared snacks,\nwe chatted pleasantly with the orchestra members.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the delightful time spent with\nSounds of Earth and the orchestra members\nflew by in the blink of an eye...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Our pleasant conversation carried us all the way to parting time. She mentioned wanting to take a quiet path, so we chose an empty road to head toward the dorms.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Can something be heard even in this silence?\nAs I strained my ears to listen closely,\na sudden thud came from inside my bag.\"",
+      "choice_data_list": [
+        "(That's right, a present!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I remembered buying a gift to thank her for the concert.\nIn a hurry, I pulled out the package and handed it to her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Wait, a present?!\nI'm so happy! Can I open it right now?",
+      "choice_data_list": [
+        "Of course."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "What I bought was hand cream.\nThinking hands are vital when playing an instrument,\nI picked a smooth, non-greasy type that won't smudge it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttore...!\nAh, how is it that you understand me so well?!",
+      "choice_data_list": [
+        "Whoa!?"
+      ]
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Direttrice...!\nAh, why do you understand me\nso deeply?!",
+      "choice_data_list": [
+        "Whoa!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Sounds of Earth hugs me.\nI fluster and try to push her back, but she wraps her arms around me with even greater strength.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Can you hear my heartbeat?\nIt's pounding so fiercely\nit drowns out even the noise of the city...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "\"You have given me such a thrilling rush...\nA melody far too grand to merely be an overture!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Grazie. Ti amo...! \nI am so blessed to be born on this Earth.\nBecause my conductor—because you are here...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sounds of Earth",
+      "text": "Grazie. Ti amo...! \nI am so blessed to be born on this Earth.\nBecause my conductor—because you are here...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While somewhat overwhelmed by such an immense display of affection,\nthere is no way I could not be happy to receive this much trust.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "\"Earth has truly... been blessed\nwith a wonderful Trainer.\nWe are fortunate indeed. Both my daughter and I.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Earth's Mother",
+      "text": "I'm looking forward to the race.\nPlease take good care of Earth.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"To deliver the greatest session\"—\nI will without fail fulfill the vow I made to her mother.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As the conductor who plays her melody!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As the conductor who plays her melody!",
+      "choice_data_list": []
+    }
+  ]
+}

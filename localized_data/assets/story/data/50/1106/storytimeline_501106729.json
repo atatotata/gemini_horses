@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Miracle",
+      "text": "Ah, what a pity...",
+      "choice_data_list": [
+        "Sorry..."
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Not at all. This is super difficult, after all.\nAll my friends failed at it too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "\"Maybe they made it harder than before because Paka Petit got so popular. Geez, what a harsh world...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in a disappointing result...",
+      "choice_data_list": []
+    }
+  ]
+}

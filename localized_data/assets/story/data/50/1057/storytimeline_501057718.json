@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mr. C.B.",
+      "text": "Ah, Trainer. Good morning.",
+      "choice_data_list": [
+        "Did you get proper rest yesterday?"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "\"Yeah. I was just lounging around, listening\nto a trendy CD I borrowed from Maruzensky.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "I don't really follow trends, but that was definitely a great song.\nI can totally see why everyone loves it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Whether that song was actually trending remains questionable.\n—Regardless, Mr. C.B. seemed to get some proper rest.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Messiah",
+      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my daily report for today.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Health status: 37.7°C (normal), no body pain.\nMeals: Attached records for 3 meals (no snacks).\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Voluntary Training Report: 1 hr treadmill (Morning),\n2 km pool swim (Morning), 2 uphill runs (Evening)\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"That is all. Please review it.\n\n—Air Messiah\"",
+      "choice_data_list": [
+        "...We exchange daily reports like that every day."
+      ]
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "O-Ohh~... I see, I see~...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"How do you communicate with your trainee?\"\nWhen asked, I answered... but my colleague just tilted her head in confusion with a puzzled \"hmmm.\"",
+      "choice_data_list": [
+        "W-What, is something wrong?"
+      ]
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "Ah, I totally think it's fine, it's super clear!\nI get that it's super important information to share, but... uuum.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "She's your trainee, right? Couldn't you be\na little more casual with each other?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "You know, sometimes being closer makes it way easier\nto ask for advice and stuff!",
+      "choice_data_list": [
+        "...That's true..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"While having serious exchanges as a matter of routine is all well and good... it's not ideal if it creates distance or makes me seem unapproachable for consultations.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Air Messiah is already dependable enough on her own.\nI need to make the effort to become someone she feels comfortable relying on.\"",
+      "choice_data_list": [
+        "Still... breaking, huh? Will it really break... hmm..."
+      ]
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "Well! This is just how we did it at my place, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "I know a great way to do it!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And... on the following Saturday,\nexactly five minutes before the meetup time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah... good morning.\nDid you just arrive?",
+      "choice_data_list": [
+        "Yeah, you too?",
+        "Yeah, you too?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes. ...Fufu, it almost feels as if right now is the meeting time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "It's a little early, but shall we get going?\nTo scout out the Hanshin Racecourse.",
+      "choice_data_list": [
+        "Ah...!",
+        "Yeah...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Yes. My colleague suggested 'a trip for the two of us.'\n...As an excuse, it was quite premature, but\nI framed it as scouting ahead for next year's Oka Sho.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Regardless, spending that extraordinary time together\nseemed to bring my colleague and their Umamusume\na lot closer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "\"When you go out on a date, you know, you both\ndress up all nice first, right?\nThat special feeling is what—\"",
+      "choice_data_list": [
+        "...Even though it's Saturday, you're wearing your uniform?",
+        "...Even though it's Saturday, you're wearing your uniform?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Huh? Well, since you said it was a preliminary inspection,\nI thought formal attire would be appropriate...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Pardon me, was there any inconvenience?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Still, you're wearing a suit too, Trainer... right?",
+      "choice_data_list": [
+        "(Yeah, that's right, it just completely slipped my mind...)",
+        "(Yeah, that's right, it just completely slipped my mind...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "...Maybe using 'scouting the racecourse' as an excuse was a bad idea. Both she and I ended up wearing surprisingly formal clothes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Regretting the setup at this point was too late――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "\"On the bullet train, we can chat away!\nLet's bring a whole bunch of snacks and share everything!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Since this will be your pre-race meal,\nI prepared a boxed lunch with that in mind\nfor you to eat in the car while we travel.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Would you mind checking this over for me\nto see if the nutrition is well-balanced?\"",
+      "choice_data_list": [
+        "O-Of course...!"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Thank you very much.\nPlease, do not hesitate to share your candid feedback.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "\"The main event has gotta be sightseeing! Let's hit up all the places we both love and get hyped for, spending every single minute we've got!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "From Nigawa Station on the Hankyu Imazu Line, it's about\n5 minutes via the underground walkway...\nAs expected, this seems to be the standard route.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"However, we must also consider potential issues on race day, such as train delays—\"",
+      "choice_data_list": [
+        "Maybe we should consider a bus-focused route as well"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Indeed, gladly. Let us start over\nfrom the inn once more.",
+      "choice_data_list": [
+        "(...Wait, is this \"sightseeing\"...?)"
+      ]
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "\"‘They're a student, so you have to keep that in mind, but staying up just a tiny bit later than usual is totally recommended! We played games together and stuff~’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"—With this report concluded,\nthis will serve as today's daily report email.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "And... since we're in the dorms, it's almost curfew.\nExcuse me, I'll head back to my room first.",
+      "choice_data_list": [
+        "Y-You're fast."
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Yes, I'd like to make a bit more progress on\npreparing for next week's classes... Trainer,\nplease feel free to relax and take your time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Well then, good night.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "...Eh. So the trip was seriously\njust meant for scouting the course like that...!?",
+      "choice_data_list": [
+        "I'm sorry, after you went out of your way to suggest it..."
+      ]
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "N-No, no, you don't need to apologize at all!\nWhaaat, is thaaat... so...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "Wait, by the way, what are you writing there?\n...Whoa, that's a really detailed report!",
+      "choice_data_list": [
+        "I thought I'd at least put together what I found from scouting..."
+      ]
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "I... I se-e-e-e-e...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The main goal was supposed to be \"closing the distance\"...\nYet when it comes to \"scouting the racetrack,\"\nI can't help but scout it completely seriously.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On top of that, since we went together, I even ended up putting together a full summary report.\nThis wasn't supposed to happen, and yet...",
+      "choice_data_list": [
+        "…Done. For now, I'll send it—"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "！　……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "…………。……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "—Hehehe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Hello, Trainer-san.\nI look forward to working with you today as well.",
+      "choice_data_list": [
+        "Please. Well then, the meeting—"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Ah, excuse me, before we begin...\n...There is one thing I would like to say to you once more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Here's the scouting report on Hanshin Racecourse.\nThank you very much for putting it together so thoroughly.",
+      "choice_data_list": [
+        "! W-wait, um, that was——"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"I looked over it thoroughly.\n...It gave me a truly reassuring feeling.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"With this, I'm sure everything will be just fine during the actual Oka Sho, no matter what happens.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Because together with you, we were able to prepare\nso solidly and steadily like this.",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Trainer. I was able to reflect upon and cherish\nthe feelings I had when we first signed our contract.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I'm so glad that the one\nwho teamed up with me was you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "...Because you treasure the very same things\nI do.",
+      "choice_data_list": [
+        "Messiah..."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The tension that had gripped both my shoulders... suddenly fades away.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Eccentric, perhaps.\nMaybe even a little amusing.\nThe relationship between her and me.",
+      "choice_data_list": [
+        "(Even so. ...No, this is fine.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "For us, it's like this. In this form.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking at her smiling face,\nI felt more certain of it than ever before...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I'm sorry for interrupting.\nShall we start the meeting?",
+      "choice_data_list": [
+        "...Sorry, can I ask something too?",
+        "...Sorry, may I ask something too?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "? Yes, here you go.",
+      "choice_data_list": [
+        "Mind if I tweak the daily report template a bit?"
+      ]
+    },
+    {
+      "name": "Air Messiah",
+      "text": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my daily report for today.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Health status: 37.9°C (normal), no body pain.\nMeals: Attached records for 3 meals + 1 snack.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Voluntary Training Report: 1200m turf x 2 (Noon),\n1600m woodchip x 3 (Evening)\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"Remarks:\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"As I ran today, I pictured the Hanshin Racecourse in my mind.\nThank you for such a meaningful Saturday.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Messiah",
+      "text": "\"That is all. Please review it.\n\n—Air Messiah\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Air Messiah,\n\nThank you for the daily report. Acknowledged.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Remarks:\"",
+      "choice_data_list": [
+        "I had a very meaningful time as well."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"I type, 'I look forward to continuing to work with you,'\nand click send.\nThen, I lean back lightly against my chair and stretch.\"",
+      "choice_data_list": [
+        "Alright... let's give it our best!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "We'll keep taking earnest steps forward, true to who we are.\n...With that thought, we renewed our determination.",
+      "choice_data_list": []
+    }
+  ]
+}

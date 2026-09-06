@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gentildonna",
+      "text": "Hmph...! Hmph...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Phew. I've only just passed 400,\nand yet I'm already this exhausted...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"This is no good.\nJust carrying on aimlessly like this won't help.\"",
+      "choice_data_list": [
+        "(Normally she'd knock out a thousand reps without a problem...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Gentildonna is tired from the race.\nIt might be best to reconsider our upcoming schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

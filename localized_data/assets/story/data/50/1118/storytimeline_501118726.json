@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out with Admire Groove—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What she was looking at was a crane game filled with plushies themed after Umamusume.",
+      "choice_data_list": [
+        "Are you interested in this, by any chance?",
+        "Are you interested, by any chance?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...No.\nI was just remembering something from the past.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "The people playing around with that... were very noisy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It doesn't seem like a very fond memory.\nHowever, if she has a fun experience with a claw crane game, that might overwrite the impression.",
+      "choice_data_list": [
+        "Let's give it a try. It might be fun if we do!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "No, thank you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Admire Groove",
+      "text": "If that's what you want to do, be my guest.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

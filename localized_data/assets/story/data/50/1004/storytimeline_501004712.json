@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Since Maruzensky hasn't shown up for training, I decide to take care of some other work, when...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Trainer-kun, so sowwy!",
+      "choice_data_list": [
+        "What kept you so late?",
+        "What kept you so late?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Trainer-chan, my bad, my bad~!",
+      "choice_data_list": [
+        "What kept you so late?",
+        "What kept you so late?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "That's a bit hard for me to say, though...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Some boring stuff suddenly came up.\nTee-hee, my bad! Forgive me, pretty please!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Maruzensky",
+      "text": "I'll make up for being late today.\nDeal?",
+      "choice_data_list": [
+        "Let's be careful next time.",
+        "Be careful next time, okay?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Understood.\nI'm sorry for making you worry.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Assuming there was a good reason for it,\nI refrained from prying too deeply, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Later on, I learned that Maruzensky\nhad been listening to her junior's troubles.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Just as we were about to head back\r\nfrom our outing with Taiki Shuttle—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Trainer, today was so much fun to—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(...*drip*, *drop*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh!? Is it raining!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...It seems to be a passing shower.\nLet's hurry and move under shelter—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "It's RAIIIIIIIN!!",
+      "choice_data_list": [
+        "Taiki Shuttle!?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahaha. We don't have an umbrella right now anyway!\r\nLet's just enjoy the rain instead!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Running in the rain feels absolutely wonderful, YES!\r\nIt is totally different from a pool! Like the sensation of running through water!",
+      "choice_data_list": [
+        "No, you'll catch a cold!!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No problem! I'm totally fine!!\r\nI never catch colds!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Whoo~!! Splaaash!!\nBring on the rain, more and more!",
+      "choice_data_list": [
+        "If it's come to this, then by brute force...!",
+        "Then let's race to the station!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh! Trainer.\r\nIs that a fighting pose!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahaha, okay!\r\nLet's fight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Still, I was no match for Taiki Shuttle's power,\r\nand ended up getting pelted by the rain for a while...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Later on, Taiki Shuttle came to the academy full of energy.\n...Unlike me, who had caught a cold.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Okay!\r\nTrainer, it's a match!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahaha, I definitely won't lose!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And with that, Taiki Shuttle dashed\ncheerfully into the sheltered building.",
+      "choice_data_list": []
+    }
+  ]
+}

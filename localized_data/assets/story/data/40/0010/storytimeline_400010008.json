@@ -1,0 +1,374 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "After the first \"Dream Fest\"—\npublic interest in racing had grown even higher than before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Passerby A",
+      "text": "—Ah, that's right!\nThis is the girl, <chrname>!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Passerby A",
+      "text": "\"I've gotten totally hooked!\nI'm gonna be cheering them on from now on.\nLooks like I'll be hitting the racetrack regularly again!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even just walking through town, you could hear voices full\nof anticipation not only for the 'Dream Fest',\nbut for the entire Twinkle Series.",
+      "choice_data_list": [
+        "(Yeah, it's really heating up!)",
+        "(Yeah, the excitement's really building!)"
+      ]
+    },
+    {
+      "name": "Passerby B",
+      "text": "\"Still, we really picked a great time to come back, didn't we?\nI mean, pretty soon...—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In Umamusume racing, classifications\nare divided by generation.\nThe first year is the Junior Class, and the following year is the Classic Class.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After that, they belong to the Senior Class.\nAmong these, the most important are the once-in-a-lifetime\nClassic Class-exclusive races—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "—It's starting again this year!\nThe Classic season...!",
+      "choice_data_list": [
+        "My heart's pounding...!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Every race is exciting, of course,\nbut the heat of the Classic races is truly something special!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "When skills are evenly matched,\ntheir true mettle is tested as they clash!\nThe sheer intensity of it all is incredible!",
+      "choice_data_list": [
+        "I know, right?!"
+      ]
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "And of course, will a historic record be achieved or not?\nYou just can't help but wonder～.",
+      "choice_data_list": [
+        "The Triple Crown...?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"The Classic Triple Crown, achieved by conquering the royal road of the Satsuki Sho, Japanese Derby, and Kikuka Sho—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Or perhaps the Triple Tiara of the Tiara route,\nachieved by winning the Oka Sho, the Oaks,\nand the Shuka Sho...",
+      "choice_data_list": [
+        "Becoming a Triple Crown Uma Musume is the greatest honor there is!"
+      ]
+    },
+    {
+      "name": "Junior Trainer",
+      "text": "Ah! Speaking of which,\nwhen it comes to the Classic Triple Crown...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Trainer",
+      "text": "St Lite!\nThat's the first time I've ever seen him in person!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—St Lite.\nThe very first \"Classic Triple Crown Umamusume\" in history.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "After claiming the Triple Crown, she retired from her racing career only a year later.\nLeaving behind nothing but a brilliant, dazzling light—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Haiseiko, who continues to thrive in the limelight; Speed Symboli, whose activities any academy member hears about due to her role at the URA...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unlike them, no information ever surfaced\nabout St Lite after she retired from racing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Junior Trainer",
+      "text": "I've looked up to them ever since I entered this world!\nBut they're so legendary... I never thought I'd actually meet them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Your parents are... noble aristocrats\nfrom the UK, if I remember correctly!",
+      "choice_data_list": [
+        "A-Aristocrats...!?"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Yes! I've heard rumors about it in high society ever since I was a child, so... it's truly an honor!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "Haha, you two are full of energy.\nMy heart's still pounding so fast,\nI can barely speak...",
+      "choice_data_list": [
+        "(Actually, me too...)",
+        "(Actually, me too...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Even while I was having someone help\nwith <chrname>'s training...",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "……………………。",
+      "choice_data_list": [
+        "Um, did something happen with <nickname>...?"
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "No.\nI was merely watching.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Heh...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I learn so much from her every day.\nHer assistance with training is spot-on and an enormous help, but...",
+      "choice_data_list": [
+        "It's so mysterious..."
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "\"...Come to think of it!\nRight now, the Umamusume Museum has a special exhibition on the Classic Triple Crown.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "It looks like there are materials on St. Lite as well.\nPerhaps we can learn more about her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "\"Sounds good!\n<chrname> is in the Classic Class right now, after all...\nCould be some good motivation, right?\"",
+      "choice_data_list": [
+        "(The Umamusume Museum, huh...)"
+      ]
+    },
+    {
+      "name": "Trendy Fan A",
+      "text": "—Huh, the Triple Crown exhibition...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Longtime Fan A",
+      "text": "Yeah, exactly! It's super exciting! Triple Crown\nUmamusume don't come around often, you know,\nso once you start looking into it, you fall down the rabbit hole~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trendy Fan A",
+      "text": "Well, I'm new to 'Dream Fest'.\nFor now, just getting to know my oshi is plenty enough for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Longtime Fan A",
+      "text": "Still, if your favorite becomes a Triple Crown Umamusume,\nit'll be an unforgettable memory for life, you know?\nPlus, the more you know, the twice as moving it is, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trendy Fan A",
+      "text": "Hmm... Well, I just love my fave, that's all!\nResults don't really matter.\nAs long as they're having fun running, that's plenty for me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The day after talking with the senior Trainers.\nWhen I paid a visit to the museum adjacent to Tokyo Racecourse...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Oh,\ngood day to you.",
+      "choice_data_list": [
+        "Huh, weren't you two together—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": [
+        "—There's no way they came, right?!",
+        "—There's no way they came, right?"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "\"It seems Orfe-san is also interested\nin the same special exhibition.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Deducing from the situation,\nyou seem to be... the same as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As things turned out, the three of them headed\nto the museum in complete silence...",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Welcome, my darlings.",
+      "choice_data_list": [
+        "Saint Lite...!"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Good day.\nIt is an honor to meet you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Mm.",
+      "choice_data_list": [
+        "（……！）"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Both Orfevre and Gentildonna rein in their arrogant attitudes around him... That alone shows just what an immense presence St Lite is.",
+      "choice_data_list": [
+        "Um, why are you here—"
+      ]
+    },
+    {
+      "name": "St Lite",
+      "text": "Please, have a look.\nI have just added some materials.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "This is my photo album.\n—From when I achieved the Classic Triple Crown.",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "—Let us have a look.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "The \"birthplace of modern Umamusume racing,\" the United Kingdom.\nModeled after their tradition and established here—\nis the Classic Triple Crown route.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Back then, winning the Classic Triple Crown\nwas considered impossible in the Japanese racing world.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "'The fastest,' 'the luckiest,'\nand 'the strongest'... No one can satisfy all three.\nThus, born to fulfill every single one was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "――This has been\nSt Lite.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...――\nIs this right after winning the Classic Triple Crown?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Indeed. It was taken at the estate in Iwate.\nTo demonstrate the majesty of achieving the Triple Crown.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "How lovely.\nYou carry yourself with such dignity and grace.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "\"That was precisely what the Japanese racing world\nneeded back then.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Racing is not merely a fierce contest.\nIt is about showing everyone that it is\na pursuit of pride—",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "—So that those who follow will not lose their way, I shall make a path with a dazzling trail of light.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "That was the only mission given to me.\nNow that I have accomplished it with all my might, I can say it clearly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "St Lite",
+      "text": "Claiming the \"Triple Tiara\"\nis the greatest achievement in Japanese racing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Both",
+      "text": "……――",
+      "choice_data_list": [
+        "(What incredible fighting spirit...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "It was as if she were bathed in a holy halo.\nOverwhelmed by her presence, I was left speechless—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Left alone, my mind finally settled down.\nReflecting back on St Lite's words...\nan idea suddenly struck me.",
+      "choice_data_list": [
+        "(I wonder if I can share what I just heard with the other girls too.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—Especially to Classic-class Umamusume.\nNot just the Classic Triple Crown, but every single path holds glorious history... holds glory itself.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Seeing St Lite like that will inspire everyone to race with pride.\nThat sight is sure to set the fans' hearts ablaze.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "The \"Summer Training Camp\" begins today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Phew.\r\nIt really is hot, isn't it...?",
+      "choice_data_list": [
+        "You're not good with the heat, right?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yes. But... it's also a chance\r\nto build stamina.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "If I can just build up my stamina,\nI'm sure... I could do even more...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Don't hold back, please give it your all.\r\nTrainer...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—The final summer training camp\r\nwith Silence Suzuka has begun!",
+      "choice_data_list": []
+    }
+  ]
+}

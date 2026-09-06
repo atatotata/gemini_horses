@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "In the hallway, I saw Mihono Bourbon\r\nstanding there in a daze.",
+      "choice_data_list": [
+        "What are you doing?",
+        "What are you doing?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…………。\r\n………………。",
+      "choice_data_list": [
+        "Huh? Bourbon...?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "......Ha.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "I am deeply sorry... Due to cognitive decline, Master recognition... failed... f-fa...il.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "The cause... appears to be... severe fatigue\nfrom the strain of racing... I... believe...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Fatigue from the race is starting to affect her daily life.\r\nIt would be wise to reconsider her race schedule...",
+      "choice_data_list": []
+    }
+  ]
+}

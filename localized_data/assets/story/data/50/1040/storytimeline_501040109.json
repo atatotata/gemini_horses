@@ -1,0 +1,345 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Tonight is Christmas. With Gold City's races winding down for now, I was thinking about our future schedule, when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Tremble tremble...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Hello, Trainer? Got a minute?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Hey, come to the place I'm about to tell you, and don't bring anything. Right now. Bye.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "—Trainer!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Merry Christmas.\n...Do you get what I mean if I just say that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "I've got a present for you, so without further ado—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Could you go change downstairs?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Going downstairs as instructed,\nI am led into a fitting room lined with tons of clothes,\nand then—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Stylist",
+      "text": "City-chaaan.\nI dressed up your Trainer just like you wanted~.",
+      "choice_data_list": [
+        "C-City..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ooh...! That's super nice!\nYour sense is top-notch as always. I'm glad I left it to you~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair & Makeup Artist",
+      "text": "Hey, compliment my makeup too~.\nYou asked me to bring out your charm,\nand I totally nailed it, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Yeah, absolutely flawless.\nThank you very much.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hair & Makeup Artist",
+      "text": "\"It's fine~! I'm just so happy I get to spend a Christmas with you that isn't for work, City-chan♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "Hey, all set?\nAlright, let's start the shoot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Yes! Thank you so much everyone\nfor making the time today!\nIt's only for a short while, but I'm looking forward to working with you.",
+      "choice_data_list": [
+        "A photoshoot...?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Yep. My present is a professional photoshoot.",
+      "choice_data_list": [
+        "What?!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Everyone who gathered here is a top-tier artist.\nEven for a model, an opportunity like this doesn't come by easily, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "I'll let them bring out the best in me.",
+      "choice_data_list": [
+        "That's impossible... right?!",
+        "That's impossible... right?!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "No whining allowed.\nAlright, please get started.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "Okaaay.\nTrainer, over this way~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the photoshoot got underway\nrather forcibly, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "...Trainer, you look a bit stiff.\nAre the lights too bright? Want me to have them dimmed?",
+      "choice_data_list": [
+        "N-No..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...You're stiff as a board.\nAnd here you usually don't have a single delicate bone in your body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Hmm... Excuse me,\ndo you have a quick moment?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Trainer, listen to me.\nI'm right here.",
+      "choice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Basically, just keep your eyes on me.\nDo that, and you won't even care about what's around you, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Is there really anything other than me\nthat could captivate your heart so much?\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "All you gotta do is just watch.\r\nLeave the rest to a \"pro\" to handle.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Gold City wears a fearless smile.\nAs I gaze at her, the surrounding voices and blinding lights fade away—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "...Trainer, thanks for your hard work~!\nI'll check the photos, so please go take a break~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before I knew it, the photoshoot was over! The person I saw on the monitor they showed me—looked like an entirely different person.",
+      "choice_data_list": [
+        "Is this... me?",
+        "Is this... me?"
+      ]
+    },
+    {
+      "name": "Photographer",
+      "text": "Haha, of course!\nYou have a wonderful look on your face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "\"I'm sure you look the most beautiful when you're completely absorbed in something. Maybe she thought so, too.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "—Good work, Trainer.\nDidn't we get some great photos?",
+      "choice_data_list": [
+        "I barely remember the second half..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ahaha.\r\nGuess that means I did a professional job too.",
+      "choice_data_list": [
+        "But why would you do something like this...?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "\"...I was thinking about what the best thing\nI could possibly give you would be.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "I thought maybe it's\n\"a side of myself that even I don't know.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Because you taught me\r\nsomething similar too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"When a pro takes your photo, you discover charms\nabout yourself you never even knew you had.\nDoesn't that just make your heart flutter?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "So, that's why I asked my colleagues to help out.\nThough... was it a bit too much?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I was definitely bewildered at first...\nBut just as she said, I feel like this shoot helped me discover a side of myself I never knew.",
+      "choice_data_list": [
+        "Thank you for the best Christmas present ever."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "...Mm, that's a relief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"...So,\ndon't you have anything for me?\"",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "\"In return for the best present,\nI gotta give something that's even better, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "What should I do, maybe a high-end designer bag?\nI've been wanting to check out the new arrivals~",
+      "choice_data_list": [
+        "G-Go easy on me...!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Haha.\nJust kidding.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Fufu... Seriously, get used to it already.\nMy stomach's starting to hurt from laughing...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Christmas night\ndrew on amidst lighthearted laughter.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "Ah, there's City-chan and the others!\nSince we're here, let's take a photo together too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh?\n...You mean just me and Trainer?",
+      "choice_data_list": [
+        "With City?!"
+      ]
+    },
+    {
+      "name": "Photographer",
+      "text": "Yep! Everyone's super hyped to dress City-chan up and take tons of photos.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Photographer",
+      "text": "I bet if it's the two of you, the photos will turn out totally amazing.\nCome on, what do you say?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "...If everyone's saying it that much,\nmaybe I'll try taking some photos?",
+      "choice_data_list": [
+        "With City?!?!?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Heh. Freaking out again.\nI told you, didn't I?\nJust keep your eyes on me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "You can look forward to being escorted\nby a top model, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Click-click-click!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Next, put your hand over here.\n...Yeah, looking good. Just like that—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—And so, after a continuous series of tense moments, the photoshoot ended.\nLooking at the two-shot photo, Gold City... was smiling.",
+      "choice_data_list": []
+    }
+  ]
+}

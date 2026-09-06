@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "I ran into Marvelous Sunday in front of the school gate.\nShe seemed to have less energy than usual.",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Trainer... You see...\nMy Marvelous is running on empty...",
+      "choice_data_list": [
+        "Marvelous is... depleted?"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "\"Yeah... When I stay worn out for too long,\nit gets harder to feel the marvelousness...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems a lot of fatigue has accumulated\nin Marvelous Sunday from consecutive races.\nWe should reconsider her upcoming race schedule.",
+      "choice_data_list": []
+    }
+  ]
+}

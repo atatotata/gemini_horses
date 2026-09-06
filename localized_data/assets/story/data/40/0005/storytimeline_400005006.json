@@ -1,0 +1,296 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Today is <chrname>'s day off from training,\nand as I was wondering how to spend the day—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "To improve stamina, the key is how to increase lung capacity—hmm?",
+      "choice_data_list": [
+        "Are you heading to training now?"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Ah, Trainer <username>.\nI'm just about to start training Little Cocon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Trainer Kashimoto is in charge of another Umamusume named Little Cocon, besides Bitter Glace.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "She pushed through and won her debut race; she's quite a formidable competitor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "From here on—well, knowing her,\nshe's probably already started training by now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Since it was a great opportunity, I accompanied Trainer Kashimoto to observe Little Cocon's training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Phew... phew...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hey, you're Little Cocon, right?!\nYour debut race was amazing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "I totally get it! Hey, wanna train alongside us?\nCome run with us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "...I'll pass.\nI don't really like matching paces with someone else.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Waaah, rejected!\nOh well, hang out with me when you feel like it, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Yeah, if I feel like it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Good work, Little Cocon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Trainer Kashimoto.\nI look forward to working with you today as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "...And who do we have over there?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "I am Trainer <username>.\nI'd like to observe your training today.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Observing? Hmph...\nNot sure what you think you're gonna learn, though.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Now then, let's get started right away.\nFirst, five laps around the dirt track at a three-minute pace.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Yes, I'm heading out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"...There is a weapon\nI'd like her to polish.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Stamina—it is a weapon that will allow you to unleash a long, sustained spurt even as race distances increase.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Since I run long distances, I want to avoid putting too much strain on my legs, so I incorporate more dirt tracks into my training.",
+      "choice_data_list": [
+        "I see..."
+      ]
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Yo, my little lambs!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Darley Arabian-san,\nis something the matter?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Well, yeah. She's got some pretty sharp instincts.\nLittle Cocon's weapon... it really is remarkable!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "\"In her case, because her fundamental abilities are so high,\nat first glance one tends to focus primarily on speed.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "\"Still, what's truly powerful are the heart and lungs! We gotta polish those weapons to the absolute limit!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "...By the way, just to check, Little Cocon is pretty stoic about everything, right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Yes, she even puts in steady running on her own\nbefore our training sessions.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "I knew it. I was wondering why it ended up like that\neven though Trainer Kashimoto was managing it,\nbut now it makes sense.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Little Cocon,\nyour balance is slightly off.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Balance...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "In her case, because she's so stoic,\nshe was doing a bit too much running.\nConversely, her awareness of her upper body had weakened.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Then how about we use that time\nto do some full-body workouts?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Or you could try increasing your caloric intake.\nIt'd be better to put a bit more weight on your upper body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Even a minor mistake in training can ruin an athlete's stamina or burst of speed, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "I eagerly had her do it thinking it would double as a warm-up, but to think it was subtly throwing off her balance...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Each and every Umamusume shines in her own unique way.\nCherish her individuality!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Darley Arabian",
+      "text": "Whoa! That girl's got some great flair too!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"...I suppose that knowledge was also extracted\nas the most appropriate choice from vast amounts of data.\"",
+      "choice_data_list": [
+        "You're so dependable."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"Honestly... However, a Trainer must be\nthe one person their Umamusume can rely on most.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Based on this advice, I must ensure\nthat Little Cocon grows properly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "“—As long as you train your entire body without placing undue strain on it in this manner, there shouldn't be any issue.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Understood.\n...Um, thank you so much for looking over\nmy independent training as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No, I should have paid closer attention as well,\ninstead of just getting carried away by your positive attitude.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "However, thanks to that, it has become much clearer to me.\nHow you will run from here on out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Let us polish your weapon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Yes...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "\"And so, I have just finalized your rotation, so allow me to walk you through it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "First, gain plenty of ring experience,\nbuilding up race experience and conditioning.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "And next year, we'll take on the grand stage.\nEspecially races where your strengths can truly shine.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "Next year's... big stage...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Let's go together to the Classic races.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Little Cocon",
+      "text": "...! Yes!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Trainer Kashimoto and Little Cocon, polishing individuality hand in hand.\nAnd Darley Arabian, who cherishes individuality.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Watching the three interact, it felt as though individuality\nitself was the very definition of an Umamusume.",
+      "choice_data_list": []
+    }
+  ]
+}

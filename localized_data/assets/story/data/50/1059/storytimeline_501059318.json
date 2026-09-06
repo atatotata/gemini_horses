@@ -1,0 +1,439 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "“—Today is the day the Tenno Sho (Spring) takes place.\r\nI head over to watch the race together with Mejiro Dober.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "……………………。",
+      "choice_data_list": [
+        "Dober? What's wrong?",
+        "Dober? What's the matter?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh... Ah, no.\r\nIt's nothing... Nothing at all.",
+      "choice_data_list": [
+        "Is that so...?",
+        "Is that... so?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...Ever since the Fan Appreciation Festival,\nshe seems lost in thought.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I hope watching Mejiro Bright's race today\r\nhelps lift their spirits, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...We're cutting it pretty close on time,\r\nand Bright... still isn't here.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"I wonder if she's all right? She's pretty laid-back...\r\nCould she be having trouble getting ready—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Click, clack, click, clack—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(—*tap.*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ah... um, well. Bright—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(*Tap—*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...I couldn't bring myself to say anything more.\r\nNo matter what—I just couldn't.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...Bright.\r\nWe just couldn't see it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "All I could see... was the race...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "Bright's in the lead, Bright's in the lead!\r\nBright takes the lead!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "And here comes Bright, it's Bright!!\r\nSpring has arrived for the Mejiro family!!\nBright!! It's Mejiro Bright!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(WAAAAAH!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectators",
+      "text": "Bright! Bright! Bright!\r\nBright! Bright! Bright!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...At last, it is complete.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "My name is Mejiro Bright.\r\nHere at Yodo, the most dazzling, supreme radiance—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "A new shield for the noble Mejiro!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "The arrival of a new season...\r\nBlooms proudly in the new era of Mejiro—it is I!\nMejiro Bright!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(WOOOOOOOOH!!!!!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "………………Amazing.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Bright... incredible...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, Dober, and even Trainer!\r\nYou came all the way here to see me~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Bright, congratulations...!\r\nAmazing... That was a truly amazing run!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "The Spring Shield... To bring glory to Mejiro, following in McQueen's footsteps!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "It's incredible!\r\nWith this, surely a \"new glory\" will—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu, yay~! With this—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Finally, we can begin.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "After pushing through a Classic year full of narrow defeats,\nI have finally welcomed this spring~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I have finally achieved one accomplishment,\r\nworthy of the Mejiro predecessors before me—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "It begins from here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Lady McQueen, and Ryan-onesama too.\nSurpassing every brilliant light the Mejiro family has built until now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Let us go and seize our \"new glory\"\ntogether, Dober.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Kh, Bright...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(Incredible... Even though she grabbed a glory to be proud of,\nshe's already looking toward what's next...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(Bright... The aura around her has changed.\r\nIt's strong, dignified, almost—yes,\nalmost like Air Groove-senpai...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Amazing.\r\nHow can I be more like Bright—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "................Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mejiro Dober.\r\nWhat you desire, the future you strive for, that glory...\nYou will never reach it as you are now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Those belong to none other than—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Because if I'm not \"Mejiro Dober,\"\r\nit's something I'll never be able to attain.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Huh? ...Wait, since when did I—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Since when did you start trying to become \"someone else\"?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Since when... did you start thinking that simply seizing the same glory as \"someone else\" was enough—?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...On the way back from Kyoto Racecourse,\nMejiro Dober hadn't said a single word—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Only after reaching the trainer's office\r\ndid those tightly shut lips finally open.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...I finally get it now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What you were trying to say after the Osaka Hai. What Air Groove-senpai said.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "What Trainer was trying to say after the Osaka Hai. What Air Groove-senpai said.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Why can't I be like Senpai... like Bright, or the other Mejiro girls?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Because you're trying to become like everyone else,\"\r\n—right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"‘Someday, the glory that Ramonu-san envisioned...\r\nI want to carry it on, too.’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Aiming for the Triple Tiara,\njust so I could become like Ms. Ramonu.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"‘If I can follow the path you took...\r\ncatch up to where you are...\nand become just like you, Senpai—’\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I set my Senior Year rotation,\nstriving to become like Air Groove-senpai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "So today, I was thinking about how I'd like to be more like Bright.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Even though that's not how it is.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "McQueen, Ryan... Bright, Air Groove-senpai, everyone—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "By my own power, on my own path, in my own way!\r\nBecause I'm resolved to make myself shine!\n...She's strong, and yet...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I just... lacked confidence.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"I didn't have the resolve to shine on my own!\r\nThat's why... I just chased after everyone, hoping to bask in their light—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "At this rate... it's no good.\nI won't be able to seize a \"new glory for Mejiro\" like this.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I'm... still so weak...!!",
+      "choice_data_list": [
+        "No, Dober, you—!",
+        "No, Dober, you—!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "It's fine!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...Thanks for always telling me that.\r\nI get it. I know how you feel.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...Thanks for always telling me that.\r\nI get it. Trainer, I know how you feel.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"Still, that's why... I want to face it now.\r\nI have to face it.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "To what I've always lost to. To my own slyness—my own weakness.",
+      "choice_data_list": [
+        "Dober..."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...Even so, you'll still\nbelieve in me, won't you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "\"...Even so, Trainer,\nyou'll still believe in me, right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I know... that I can overcome\r\neven my own weaknesses.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "You think of me as... that strong of an Umamusume,\ndon't you...?",
+      "choice_data_list": [
+        "Of course...!",
+        "Of course...!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yeah.\r\n...I thought you'd say that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "—I'm running in the Takarazuka Kinen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "But it's not because I'm chasing after Air Groove-senpai.\r\nIt's not because I want to be like someone else.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "To conquer my weak self.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "To become the truly strong me... I'll run.",
+      "choice_data_list": []
+    }
+  ]
+}

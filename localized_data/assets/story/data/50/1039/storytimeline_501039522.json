@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "While moving down the hallway, I spotted\r\nKawakami Princess overcome with grief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Aaah! My face, as a princess! How could this...!\r\nThis is simply unacceptable~~!",
+      "choice_data_list": [
+        "What's the matter?",
+        "What's wrong?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Trainer, please listen to this!\r\nYesterday, for my beauty routine, I did a cucumber pack, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "I tried a mud pack, a tea pack, and a honey pack all at once...\rand now my skin is a total disaster!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "A true princess ought to have an iron face, too...\r\nHow utterly pathetic of me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Kawakami Princess was feeling down\r\nover her skin breakout.",
+      "choice_data_list": []
+    }
+  ]
+}

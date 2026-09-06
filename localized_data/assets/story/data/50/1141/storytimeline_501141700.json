@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Epiphaneia",
+      "text": "*Yaaaaaaaaawn*...",
+      "choice_data_list": [
+        "You look kind of sleepy, huh?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"A little.\nI was up late listening to a friend's troubles.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Call out to everyone in the Ritto Dorm.",
+      "choice_data_list": [
+        "Everyone in the dorm...?"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "\"After asking one person, I figured there might be others.\nEveryone really is carrying their own burdens, huh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Epiphaneia did her utmost to help solve her friend's worries, but she didn't seem to get much rest as a result...",
+      "choice_data_list": []
+    }
+  ]
+}

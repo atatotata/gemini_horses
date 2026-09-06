@@ -1,0 +1,498 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Orfevre showed remarkable growth during summer training camp. Near the end of the camp, that power was nearing completion—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hah!\nHaaaaah...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter A",
+      "text": "Whoa...!\nWhat an incredible final sprint...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "\"With this...\nthe Classic Triple Crown is practically guaranteed!\"",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Reporter A",
+      "text": "\"Indeed. As long as the race runs normally... the winner will undoubtedly be Orfevre!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter B",
+      "text": "Man, the hype is going to be unreal...!\nBack when the last Triple Crown Umamusume was born,\nit was simply out of this world...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Orfevre is strong. I knew just how strong she was\nfrom the Satsuki Sho and the Tokyo Yushun (Japanese Derby).\nThat's why, up until now, I had no doubts whatsoever.",
+      "choice_data_list": [
+        "(Still, is it truly perfect?)",
+        "(Still, is it truly perfect?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"As her Trainer, I wanted to take the victory deemed\ncertain for her and *make* it certain.\nWithout getting cocky, I wanted to think about what more I could do.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "—Is that what you want?\nThe past analysis data for the Kikuka Sho.",
+      "choice_data_list": [
+        "Yeah, I'm counting on you...!",
+        "Yeah, please...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Air Shakur is a Double Crown Umamusume who won\nthe Satsuki Sho and Kikuka Sho, with exceptional data analysis skills.\nSo, I asked for her help.",
+      "choice_data_list": [
+        "I wanted to make your victory in the Kikuka Sho rock-solid!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hah. Rock-solid, huh?\nSomeone's full of themselves.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Still... your trainee\nwas Orfevre, wasn't she?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "If it's her data...\nit should be extremely useful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "It's a trade-off.\nGot a problem with that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I can't hand over Orfevre's personal data.\nHowever, I do have the analysis notebooks I've personally compiled from watching her and the Umamusume around her.",
+      "choice_data_list": [
+        "If you're fine with that, sure!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"...Well, that's more than enough to cover it.\nThanks for your business~.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even among Umamusume, Orfevre's abilities must be extraordinary. If that's the case, then there is still only one thing for me to do—",
+      "choice_data_list": [
+        "(I definitely have to eliminate any 'what-ifs'!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—And through various research and trials,\nwe finally perfected a satisfying menu\nfor the Kikuka Sho.",
+      "choice_data_list": [
+        "(With this, Orfevre will be complete!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Eager to put it to use in training right away,\nI waited enthusiastically for Orfevre.\nHowever...",
+      "choice_data_list": [
+        "...Not coming!"
+      ]
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "Trainer. I believe the King is likely at Prince Journey's residence...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Ah, Trainer.\nThere you are.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "I don't recall inviting you.\nLeave.",
+      "choice_data_list": [
+        "No, today is training—"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Don't make me say it twice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Having achieved the Double Crown and shown growth at summer camp,\nOrfevre had been in high spirits lately, but...",
+      "choice_data_list": [
+        "...Could you tell me why you won't come?",
+        "...Could you tell me why you won't come?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...Trainer,\na moment?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Leave this to me.\nWhy don't you head back for now?",
+      "choice_data_list": [
+        "Do you know the reason?",
+        "Do you know the reason?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "No. But...\nI have a general idea of what to expect.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"I'll do my best to persuade her to join training tomorrow.\"",
+      "choice_data_list": [
+        "...No! I'll try doing it myself."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "That's...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Do you mean you'll find the reason for Orfevre's foul mood yourself\nand resolve it on your own?",
+      "choice_data_list": [
+        "Yeah.",
+        "Yeah."
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"...I see.\nMy apologies for that.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Well then, I shall refrain.\nPlease contact me anytime if anything comes up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Ah, just to be sure...\nThough I suppose this might be unneeded meddling on my part.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "It seems the seeds of her foul mood were planted\nback during the summer training camp...\nSo it might run pretty deep, you know?",
+      "choice_data_list": [
+        "(Summer training camp...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Searching further back in my memory, I suddenly\nremembered what happened right before the summer training camp started.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter D",
+      "text": "Indeed. Visitor numbers still seem to be down as well...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter D",
+      "text": "The mood of self-restraint continues, but... it would be nice if talking about her could serve as an opportunity to look forward, even just a little.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Come to think of it, when I was talking with the reporters...\nThey mentioned that \"the last Triple Crown was a massive sensation.\"",
+      "choice_data_list": [
+        "（……Do you feel that's no longer the case?）"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking into it again, the Derby attendance\nin the year the previous Triple Crown Umamusume\nwas born was actually higher than this year's.",
+      "choice_data_list": [
+        "(Things are different now than they were back then, but...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Given the state of the world, it is inevitable that fewer people are visiting the racecourse than back then.\nHowever, Orfevre will not accept that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "By royal decree.\nRaise your head.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "And now, behold my running!\nThis is light!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Prostrate yourselves and worship.\nI shall illuminate you all—far and wide.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "“—Because a king is one who captures all hearts.\nIn that case, what I must do to resolve Orfevre's dissatisfaction is...”",
+      "choice_data_list": [
+        "To make the Kikuka Sho as exciting as possible!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "—In short, Trainer, you wish to pursue a grassroots campaign, is that it?",
+      "choice_data_list": [
+        "Yeah, I want to draw crowds to Kyoto Racecourse!",
+        "Yeah, I want to draw crowds to Kyoto Racecourse!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "With everyone's cooperation, we make appeals on social media and around town. If our vast number of subjects join forces, we should be able to reach a great many people.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Surely there are people who want to come see the races, but feel they can't.\nIf we could give those people a little push—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—If we can fill the racetrack with people's fervor...\nthen Orfevre will truly be satisfied,\nin the deepest sense.",
+      "choice_data_list": [
+        "That view is truly what she deserves...!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "……――",
+      "choice_data_list": [
+        "Could you help me out?",
+        "Could you help me?"
+      ]
+    },
+    {
+      "name": "Orfe's Retainer A",
+      "text": "Trainer... Of course! If it is for the King, I shall never refuse.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer B",
+      "text": "\"I'll ask for some action on Lady Orfevre's fansite as well.\nThe subjects managing it are acquaintances of mine!\"",
+      "choice_data_list": [
+        "Thank you...!"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Please, let me help out as well. I have quite a few connections, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "……。",
+      "choice_data_list": [
+        "Journey?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...No.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "\"Please continue to look after Orfe... from here on out.\"",
+      "choice_data_list": [
+        "...? Of course!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The promotional campaign for the Kikuka Sho, driven by the united efforts of the populace, gradually spread from person to person...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Customer A",
+      "text": "\"...Maybe I should head over\nand watch the race soon.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Customer B",
+      "text": "Ah... I was wondering about that too!\nI saw the post about the \"Kikuka Sho.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Customer B",
+      "text": "Maybe this could be a good opportunity... to try mustering up some courage—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Band Member A",
+      "text": "—We already settled the matter about withdrawing, didn't we?\nWhat's there to talk about now?",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "Wanna all go watch the upcoming Kikuka Sho together? I'll cover the travel expenses to Kyoto.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Band Member A",
+      "text": "Huh? ...Ah, I think I saw something about that online.\nOrfevre's running, right?\nNot that it has anything to do with us anymore—",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "\"I found it.\nThe answer to what we can do.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "A Certain Band Member",
+      "text": "Please! Let's go—to the Kikuka Sho!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfe's Retainer C",
+      "text": "My King, look. The term 'Triple Crown Umamusume'\nis trending on social media.\n...They must be referring to you, My King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hooh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...This gritty, down-and-dirty style...\nCould it be that guy?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...I'm coming in.",
+      "choice_data_list": [
+        "Orfe?"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "A staff serves the King. It is only natural.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "As are your efforts.\nDevotion is your duty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "However... humans are fragile.\nWithout water, they wither away in no time.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "You do not wither.\nWhy do your roots continue to spread?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "For her, that's surprisingly straightforward phrasing.\nShe must be that curious...\nas to why I keep following her without breaking.",
+      "choice_data_list": [
+        "...I want to see it for myself.",
+        "...I want to see it for myself."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "With a strength so fierce it fills you with longing. With a brilliance like a dream.\nWitnessing Orfevre tread the path of absolute dominion,\ntranscending both past and future...",
+      "choice_data_list": [
+        "I want to watch by their side as the king I serve becomes a legend!"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Heh... I see.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"...You must have a menu\nfor the 'Kikuka Sho', right?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Make ready at once.\nBefore I change my mind.",
+      "choice_data_list": [
+        "Ah...!",
+        "Yeah...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "With Orfevre's motivation rising, preparations were steadily underway. Winning the Kikuka Sho, and then—becoming a Triple Crown Umamusume!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "“Let us witness the birth of a Triple Crown Umamusume\nat Kyoto Racecourse”...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "\"Haha.\nSo it's already completely set in stone, huh.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...\n...Don't mess with me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "This time for sure...\nI'll do it.",
+      "choice_data_list": []
+    }
+  ]
+}

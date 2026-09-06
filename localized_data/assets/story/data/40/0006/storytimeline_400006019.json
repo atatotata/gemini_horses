@@ -1,0 +1,219 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Venus Park",
+      "text": "\"'...—I lost? ...Me?'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Venus Park",
+      "text": "\"...Then the winner is—\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Commentary",
+      "text": "\"—Crossing the line in 1st is <chrname>!\nIt's <chrname>—!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Splendid...! \nMay, she did it! <chrname> has—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Mei?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "...Good job, Mei.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator",
+      "text": "\"Congratulations!\"\n\"A new champion is born!!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheering loud enough to split the sky rang out,\ncelebrating the incredible feat achieved by <chrname>.",
+      "choice_data_list": [
+        "Congratulations, <chrname>...!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I escorted her as she was completely exhausted, and together we headed toward the podium.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter from Japan",
+      "text": "It changed... History did.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter from Japan",
+      "text": "...Huh...? Haha, this is bad...\nMy hands are shaking so much, the camera is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter from Japan",
+      "text": "...Congratulations.\n<chrname>... Thank you...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Japanese Spectator",
+      "text": "Look. <chrname> is...\nA Japanese Umamusume is on the podium—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Japanese Spectator",
+      "text": "—That trophy... she...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As if answering the cheers,\n<chrname> raises the trophy\nhigh towards the sky.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just then, across the distant sea—\nI felt like I could hear the cheers.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—The Prix de l'Arc de Triomphe had come to an end.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking up at the stars on the way back to the hotel. The afterglow of victory showed no signs of fading.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"...<chrname> has become a champion.\nWhich title shall we dedicate to her next?\"",
+      "choice_data_list": [
+        "(If it's what she wishes for, then back-to-back glory shall be hers.)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "—The romance hasn't ended yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Step..., step...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Both",
+      "text": "\"......Ah!\n......\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Is this really okay, Sirius-senpai~? Sneaking out of the hotel like this~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "\"...Right back at you, El. And here I thought you were on the good kids' side.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Fufun. Today is special, *desu*!",
+      "choice_data_list": []
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "El isn't the only one struggling to contain all this heat.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "......Which means.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Hah...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "My, my, what a large gathering we have here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "We're right here too!\nSirius~♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "\"...Nakayama.\nYou take care of this one.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "First one out~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Haaah!? Damn it,\ndon't just start running already!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Haa... haa... haa...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Satono-san, don't push yourself—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crack-crack—!)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "—Kh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "\"...Cafe-san...?\nAre you all right...? You look pale...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...No, I—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "It's nothing, really...",
+      "choice_data_list": []
+    }
+  ]
+}

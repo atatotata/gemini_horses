@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dantsu Flame",
+      "text": "...Good morning.\nHaaah... mm...",
+      "choice_data_list": [
+        "You look super sleepy..."
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "I-I'm sorry.\n...Last night, there were a lot of things...\nWell, a lot of requests I had to handle...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Because I was... dragging my feet, I ended up going to bed later than I planned.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "“Still, it's not like I haven't slept at all...!\nI'm fine... I'm really fine with just this much.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seems Dantsu Flame wasn't able to rest very well...",
+      "choice_data_list": []
+    }
+  ]
+}

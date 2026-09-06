@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "It happened while I was chatting with Transcend, as usual...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "I know, right? That album is an absolute masterpiece.\nEspecially those middle tracks, the rhythm goes like—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "...Ah. Crap.\nWhat kind of rhythm was it again?",
+      "choice_data_list": [
+        "Since we're here, I'll bring the album!"
+      ]
+    },
+    {
+      "name": "Transcend",
+      "text": "Oh, nice. Have a good one~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Transcend",
+      "text": "Haaah... Mr. Headache Medicine...\nPlease don't lose to the barometric pressure~",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day halfway through summer training camp.\nBubble Gum Fellow had taken on coaching at Air Groove's request.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Yeah, looking good! Your form hasn't broken down either.\nShall we try picking up the pace even more next?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Huh...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "If this were a GⅠ-level race...\nthat wouldn't have been enough to take the lead yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ngh......\nUnderstood.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Fufu, you really have gotten faster!\nNo wonder Air Groove has such high hopes for you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Still, I'm sure... that wasn't your limit yet.\nI wonder... what I have to do to make you show me what lies beyond that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "If I can elevate her all-out power even further with my know-how... she'll truly be a rival worth competing against!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Enjoying the process of identifying and nurturing talent while still planning to compete against it. How very like her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "And, as for the other person... let's see—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "—You want *me* to coach Suzuka and Windy?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "My apologies. The meeting for the event is taking\nlonger than anticipated, so my hands are tied.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"Suzuka is a bundle of talent. I'd like to use this chance to develop Windy's explosive power too. Can I count on you?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "I see. Of course I don't mind!\nIf you're paying this much attention to it... it must be interesting♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "My thanks. However, Suzuka aside,\nWindy is currently in a bit of a difficult state—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Nooooo waaaaayyy!!\nWindy-chan wants to play moreee!!",
+      "choice_data_list": [
+        "...Looks like you've been feeling stressed out.",
+        "...Looks like you've been feeling stressed out."
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ahaha, first we'll have to\nget Windy motivated, huh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "And somehow, draw out Suzuka's full power. ...Nice, this is starting to get fun!",
+      "choice_data_list": [
+        "So what are we going to do about your training?",
+        "What about your own training?"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"See, that'll be solved as long as the three of us\ncan just train at the same time.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"Well, just watch me.\nI'm sure it'll work out somehow!\"",
+      "choice_data_list": [
+        "(Are you alright...?)",
+        "(Will they be okay...?)"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "All right! In that case, for the beach flags showdown,\nfirst up is me and Suzuka. Ready――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "LET'S GO!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ahaha, close one, close one!\nI'm not losing to my juniors just yet!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "...H-Hmph!\nSomething like that is bound to be boring, nod-da.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ah, the wind is a bit strong today, Trainer-san.",
+      "choice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Keep an eye on the finish flag so it doesn't move, okay? Because if it moves, we'll be in huuuuge trouble!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "!? ...Fufufu.\nI just had a wonderful idea!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Well, looks like Windy is resting,\nso round two of me versus Suzuka—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Time to GO!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Bwa-ha-ha-ha! The finish flag\nbelongs to Windy-chan now!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...A-Are you sure?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ahaha, it's not looking good, huh.\nThe finish line just ran away, after all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Huh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"Are you sure about this, Suzuka?\nLetting them take the lead, that is.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ngh...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Haha, both of you are finally getting serious.\nYes, yes, this just got a whole lot more fun!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...See?\nEverything worked out, didn't it?",
+      "choice_data_list": [
+        "You're really good at carrying people!"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oops, I'd better give chase too... right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Even against Senpai... I won't give up the lead...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Catch me if you can, I say--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oh, both of you are pretty good!\nI'll have to get serious too... right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Bubble skillfully brought out their true potential while conducting a thoroughly rewarding training session...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...I think that was good training.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Mmm~? So what are we doing next~?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Hmm... They just went all-out in a sprint, after all. Given their stamina, maybe we should switch directions.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Is there something fun we can do at the beach other than running...\nGot any ideas, Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Put on the spot to brainstorm, I frantically think.\nTrainings we can do on the summer beachâ",
+      "choice_data_list": [
+        "...H-How about some sumo wrestling?!",
+        "Maybe we could do some meditation at the beach or something?"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"Sumo!? Ahaha! I like that idea.\nNow we just need to give it a summer twist.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "You've gotta be kidding me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Unstable footing is ideal for training the lower body and core.\nA floating marine battle royale—clever idea.",
+      "choice_data_list": [
+        "Go for it, you three!"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Heh-heh-heh! I'll take you both down together!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Prepare yourself!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "All right, bring it on!\nI'll take you on!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Waltz of Shadow",
+      "text": "Oh? Could that be Bubble and the others?\nFufu, it's nice and lively, isn't it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sol Lapis",
+      "text": "\"Joining in is the only option here.\nCome on, let's go!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Others gathered around for the ocean battle royale,\nmaking this amusing training session lively and energetic.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "I see... Forging the spirit, I like it!\nIn that case, I might have just the thing!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Aargh! It cracked again!\nThis die-cut candy is rigged!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Is it okay... to shave this part off...?",
+      "choice_data_list": [
+        "You can't be too bold or too cautious."
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Right, balance is everything in all things.\nAfter that, it's just about having the perseverance to maintain it... there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bubble-senpai is incredible... She's already almost done.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "I don't cut corners, whether it's playing around or training.\nAnd done! First in line for the shaved ice reward!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sol Lapis",
+      "text": "Oh? Bubble-chan, you're playing a pretty nostalgic game there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Holy Cure",
+      "text": "Shall we give it a try as well?\nNaturally, we'll take the reward sweets as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The \"mental training\"—or rather, the sweets-scramble die-cut candy contest—turned out to be a massive hit.",
+      "choice_data_list": []
+    }
+  ]
+}

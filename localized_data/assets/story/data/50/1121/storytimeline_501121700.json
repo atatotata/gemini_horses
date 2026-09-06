@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "\"I hope you are in good spirits today as well... My Liege...\"",
+      "choice_data_list": [
+        "...You look sleepy.",
+        "...Looks sleepy."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "No, that's... that's not............\nUm............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "……I-I am utterly ashamed!\nIt being a precious day off, I sought the supreme sleep――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I tried working out with some sword practice before bed, but it ended up having the opposite effect... I'm wide awake now...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Your good intentions seemed to have backfired,\nand Durandal was unable to get\nsufficient rest...",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, while out and about with Air Shakur—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Air Shakur's gaze was fixed on a claw crane game\nfilled with plushies modeled after Umamusume.",
+      "choice_data_list": [
+        "Do you want this?",
+        "Do you want this?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Haaah? Like hell that's true.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "I've actually analyzed crane games before.\nAfter all, it's a game that merges digital mechanics with physics.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Going by that experience, you should easily be able\nto snag that plushie if you do it right.",
+      "choice_data_list": [
+        "Then I'll give it a try.",
+        "Then I'll give it a try!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "\"Fine, I'll watch.\nCalculate the plushie's center of gravity and the crane's\nmovement frames while you play.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—I can't afford to lose this game!!",
+      "choice_data_list": []
+    }
+  ]
+}

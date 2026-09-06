@@ -1,0 +1,38 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dream Journey",
+      "text": "*Yaaawn*......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Oh, excuse me...\nGood day, Trainer.",
+      "choice_data_list": [
+        "You look sleepy, what's the matter?",
+        "You look sleepy, what's the matter?"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "I ended up spending quite a bit of time researching. That is the price paid for obtaining knowledge.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Still, being seen caught off guard like that\nmight be considered too high a price to pay.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Let's just say—you didn't see anything,\nif you would be so kind, Trainer-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "While giving off a bizarre, intimidating aura,\nDream Journey clearly looked sleep-deprived.",
+      "choice_data_list": []
+    }
+  ]
+}

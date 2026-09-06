@@ -1,0 +1,620 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "Repeating each and every day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Wake up in the morning. Wash face.\nGet dressed. Leave the house immediately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I head to the hospital.\nI nod politely to the nurses and the attending doctor.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I open the door to the hospital room.\nAnd take a quiet, deep breath.",
+      "choice_data_list": [
+        "...Miracle?"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "――――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The days repeat.\n—K.S.Miracle does not wake today, either.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Ah... Miracle's Trainer!!",
+      "choice_data_list": [
+        "You all... came today too?",
+        "You all... You came again today, didn't you?"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Right, me, Zephyr, Helios, and...\nOh, we've got one more person today!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "My arm hurts, Helios-san.\nCould you please not cling to me so tightly?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "No, but still! If I don't hold on,\nmilady's gonna try and bolt right away, right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"...I am not running away.\nIt is simply that I have... a mission I must fulfill—\"",
+      "choice_data_list": [
+        "...Ruby, thank you for coming, too."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Ah—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": ".....................\n......Regarding Miracle-san...\nMy heart truly... aches for her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hey, hey, Mira-Trainer!\nUm... How's this Miracle, huh?",
+      "choice_data_list": [
+        "...Sorry. They're still asleep."
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "………………!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Would you mind telling me a bit more\nabout your situation?",
+      "choice_data_list": [
+        "...Yeah.",
+        "...Yeah."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Just the other day, I had a long talk with her attending physician.\nI decided to open up to everyone about K.S. Miracle's current condition.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Brain waves are normal. Breathing is unassisted.\nThey examined every inch of her body, but couldn't find anything resembling an abnormality.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "To put it simply, she was in \"good health,\" but...\nshe never regained consciousness.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Attending Physician",
+      "text": "It's embarrassing to admit, but... I cannot say anything with certainty.\nHowever, when it comes to the \"Umamusume\"—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Attending Physician",
+      "text": "Um, the state of one's mind... or perhaps what should be called the 'soul,' can sometimes have a tremendous impact on the body.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Attending Physician",
+      "text": "Therefore, in K.S. Miracle's case—",
+      "choice_data_list": [
+        "...The feeling that \"it's now or never,\" that \"this is the only place.\""
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "The thought that shattered me was...\nI'm running the fastest I ever have \"right now,\"\nso if I don't win the Sprinters Stakes now, then when...?",
+      "choice_data_list": [
+        "Her heart was shattered... maybe that's why she won't wake up."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Miracle...\nI... see............",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even Daitaku Helios fell silent.\nEven the sun that was always bright grew dim,\nand a heavy atmosphere hung in the air.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Yet, at that moment—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "...Considering when your peak would be,\nit's 'now or never.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "If you seek the title of the fastest,\n\"there is only the Sprinters Stakes.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Did she truly say that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Daiichi Ruby asked me that.\nIn an eerily calm... or perhaps, far too quiet voice.",
+      "choice_data_list": [
+        "Ah, yeah... That's what they said.",
+        "Y-yeah... That's what she said"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I see...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Thank you very much for speaking with us.\nNow, if you will excuse us, we shall take our leave.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Wait, what!? H-Hold on, Milady!?\nBy 'all of us', you mean us too!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Wait, wait, wait!! Milady, please~~~!?!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Miss Ruby!\nUm, is something the matter...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Seriously, that surprised me!\n...You don't usually do stuff like this, right?\nLike dragging us into it and all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "I know, right~~~!?!?\nMilady, what's wrong!? Ah, does your tummy hurt!?\nLemme rub it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Ms. Helios.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Pyaaah!!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Bamboo-san, Zephyr-san too.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "—I have a request for all of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Today, the cycle repeats once more.\nWake up in the morning, wash my face, tidy myself up,\nand leave the house immediately.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Head to the hospital, nod to the nurses and attending doctor.\nOpen the door to the hospital room, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Miracle... Miracle, wake uuuup...!! Sending telepathic waaaaves...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Looking good, Helios...!\nThat's prob the max volume allowed in a hospital room...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Then, I will too...!\nMiracle-san... telepaaaathy~~~~...!!",
+      "choice_data_list": [
+        "E-Everyone...?"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Ah, Miracle's Trainer!\nGood morning to ya!!\n...Oops, gotta keep my voice down...!",
+      "choice_data_list": [
+        "No... what's the deal so early in the morning...?",
+        "No... what's going on so early in the morning...?"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "I came to wake Miracle up! ...I'm definitely waking her up and taking her out with me!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Ah, of course, I got the doctor's\npermission too, ya know!\nSo I'm gonna give it my all. ...Since you asked me to!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Yes. This is an earnest request from the Crimson Heavenly Wind—Ruby-san.",
+      "choice_data_list": [
+        "Is that... Ruby...?"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Yeppers!! ...The young lady actually asked us to help out~.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tomorrow, I will be holding an emergency press conference.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "If you need a venue prepared right away...\nI suppose my family's estate would do.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "\"I will follow up with the exact time later,\nbut it will likely be around sunset.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Which is why she must absolutely be present at that press conference.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "I would appreciate it if you could wake Miracle-san\nand bring her along.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Please, I earnestly ask of you.\n...I look forward to working with you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Well, you see.\nI'm not totally sure, but! I think ojousama—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "She looooves this! Seems like there's totally something she wants to tell Miracle!",
+      "choice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "So with that, alright!\nLet's keep at it!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Wake~ up~~~...! Miracle, Miracle, Mi~ra~cle~~~...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Miracle-san. ...Miracle-san.\nPlease wake up, Miracle-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Come on, Miracle's Trainer, you too!\nHelp us out, please!",
+      "choice_data_list": [
+        "O-Okay, got it...!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Together, we call out to K.S.Miracle.\n...Yet calling out like this is something we've done over and over... countless times before.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The faint hope that having her friends join in might change things gradually faded away... as time relentlessly marched on, second by second.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "...This is bad. If I don't get out of the hospital soon, I won't make it to Ruby's family estate before sunset when the press conference starts...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "For now, how about we just get moving?\nIf we keep waking her up while on the move, perhaps—!",
+      "choice_data_list": [
+        "Alright, I'll get a taxi... Huh!?",
+        "Then I'll call a taxi... Huh?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I gasp upon seeing the news notification on my phone. ...It looks like there was an accident on the road near the hospital. Traffic is completely jammed...!",
+      "choice_data_list": [
+        "Like this, I can't deliver any miracles...!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "I-I can carry this, no problem!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Like, I'll carry it, okay?!\n...Ruby's waiting, for real!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hell yeah! Handcart, check!\nMiracle, check! Miratrainer, check!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Alright then, let's go, let's goooo~~!!",
+      "choice_data_list": [
+        "You plan on hauling us in this cart?!",
+        "You plan on hauling us in this cart?!"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "\"No... I thought it was completely reckless, but\nif we cut through the riverbeds and vacant lots...\nthere actually might be a viable route, boss.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "...I think I can do it!\nNo, please let me go!!\nI'm counting on you, Trainer!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "With time so precious right now, hesitation is an ill wind.\nTrainer, please ride with it.\n...And above all, do not let go of Miracle-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hold them tight, and then\ncall out their name plenty of times, okay?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Yeah yeah! And leave the traveling to us!\nLeave it to our legs~~~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "I'll take the lead and pull full throttle!\nBambam and Zephyr-chi will push hard from behind!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "With an ultra-strong sprinter dream team formation...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Blow! 'Em! A-waaaay~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just when the car gave a massive jolt,\na tremendous gust of wind enveloped my entire body.\nWith a roaring sound, the scenery went flying backward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ahahahahahahahah!!\nWait for me, Milady~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Definitely! Absolutely! I swear I'm taking Miracle!!\nWith meeeeeeeeeee!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Insane burst of speed as always, huh! But... like I'd ever let myself lose!! WOOOOOOOOOOOOOAAAHHH!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Then I'll provide an even stronger tailwind!!\nHaaaaaaah...!!",
+      "choice_data_list": [
+        "(Ahh... amazing)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "\"This is why I think Umamusume are amazing.\nBecause they possess one-of-a-kind legs.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Toward what I'm aiming for.\nToward the future I want to seize.\nI have the legs to run at full power.",
+      "choice_data_list": [
+        "...That goes for you too, Miracle!",
+        "...The same goes for you too, Miracle!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I call out to K.S. Miracle, who remains asleep in my arms.\nAgain, and again, and again.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Companions",
+      "text": "Ah ha ha ha ha ha!!\nWhoooooaaaaa!!\nHaaaaaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The handcart jolts enough to bounce off the ground.\nThe wind whips up pale light-blue hair, fluttering her ears.",
+      "choice_data_list": [
+        "Miracle...! Open your eyes, please!!",
+        "Miracle...! Open your eyes!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "K.S.Miracle has not yet woken up.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Hah... gasp... hah-hyu...!!\nUrgh...!! Even though... I'm so close...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Kh, ugh...!!\nHuh? Uh-oh... my vision is going da--",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The Umamusume's strides, which had grown steadily heavier,\nfinally came to a complete halt.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The absolute limit of stamina. Just one look told me\nshe had squeezed out every last drop for us.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Just a little further until the house where Daiichi Ruby waits.\n...The Umamusume had truly worked so hard.",
+      "choice_data_list": [
+        "(In that case, it's my turn next!)",
+        "(In that case, it's my turn next!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Stepping down from the handcart, I carry the still-sleeping\nK.S.Miracle on my back. To keep her from falling,\nI use my taken-off jacket as a strap to tie her to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Haa, ngh... Trainer...?\nDo you really intend to carry me on your back the whole way...?!\"",
+      "choice_data_list": [
+        "Yeah!",
+        "Yeah!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I nod back as firmly as I can.\nI don't have legs that can run forever.\nNor do I have an unbreakable body or an extraordinary soul.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even so, they're human, too.",
+      "choice_data_list": [
+        "We're surprisingly tough ourselves, you know!",
+        "We're pretty tenacious ourselves, you know!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "...The young lady's waiting for ya.\n—I'm counting on you!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "G-Goooooo!!\nMiracle Traiiiiiin--!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "\"Her speed was on a completely different level compared to before.\nEven so, I run with all my might. I keep running.\nAnd as I run—I call out to her.\"",
+      "choice_data_list": [
+        "Miracle!! Miracle, please wake up!!",
+        "Miracle!! Miracle, wake up!!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I'm out of breath in no time.\nBoth my legs grow heavier and heavier, like lead.\nMy pulse thumps so hard that even my vision throbs.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It's brutal. My consciousness is fading.\n\"Move your legs.\" \"Keep calling out to her.\"\nMy thoughts are reduced to simple, mechanical commands.",
+      "choice_data_list": [
+        "Miracle... Miracle!!"
+      ]
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "(Blank)",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "(Blank)",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "(Blank)",
+      "choice_data_list": []
+    },
+    {
+      "name": "K.S. Miracle",
+      "text": "—Crimson.",
+      "choice_data_list": []
+    }
+  ]
+}

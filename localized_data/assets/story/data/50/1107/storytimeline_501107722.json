@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tap Dance City",
+      "text": "\"...Ouch!\nDamn it, it's been like this all morning...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "The medicine isn't working either, huh... Hum...\n\"Pain, pain, go away...\"",
+      "choice_data_list": [
+        "What's that song?"
+      ]
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "It's a little spell to make the pain go away.\nWhenever I got hurt, Mama always sang it for me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "...Ouch...\nMaybe it doesn't work anymore now that I'm older.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Worried about her weakened state from the headache,\nI stayed by her side for a while afterward.\"",
+      "choice_data_list": []
+    }
+  ]
+}

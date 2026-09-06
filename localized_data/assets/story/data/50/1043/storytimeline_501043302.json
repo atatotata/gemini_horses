@@ -1,0 +1,480 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On our way back from an outing with Shinko Windy, we passed through the shopping district in the evening...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hm? There's a crowd gathering, nanoda.\nWhat are they doing...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ooooh?!\nLook, minion! It's a lottery raffle!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"Mister, mister!\nLet Windy-chan draw one too, dammit!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Hahaha, full of energy, aren't we?\nDo you have a raffle ticket?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "You can't get in without a ticket?\nGrrrr...!",
+      "choice_data_list": [
+        "Looks like you get one if you buy something."
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Is that true?!\nYou should've said so sooner, nanoda—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "All right!\nThen we gotta hurry and buy something!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hehehe~~! The good prize\nis gonna be won by Windy-chan~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, with the lottery ticket in hand,\nShinko Windy triumphantly\nturned the crank of the raffle drum!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "—Kh!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Whoaaa!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Yay, yay! I did ittt!\nDid I just pull the absolute best one!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Which means, that means...!\nWe get to go on a hot springs trip?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "We did it! A spacious hot spring, delicious food, and fluffy futons all to the two of us♪",
+      "choice_data_list": [
+        "All to the two of you?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "? Windy-chan and you...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ngh!! B-B-B-But!\nIt says \"Pairs\" right here!\nYou can't do it alone!",
+      "choice_data_list": [
+        "Is there anyone else you want to invite...?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "S-Shut up, nano~!\nWindy-chan needs someone to carry her luggage, nano!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"Windy-chan doesn't just go around\ninviting people! But she does need\nsomeone to carry her bags!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "I'm gonna make you do the prep, the guiding, AND the cleanup after we get back, all of ittttt!\nSo you'd better brace yourself, nanoda~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Saying that, Shinko Windy thrust the hot springs trip ticket upon me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "If you lose it, you get a 'CHOMP!' got it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"Take Windy-chan there once her schedule\nclears up a bit!\nGot it?\"",
+      "choice_data_list": [
+        "Are you really sure you want to go with me?",
+        "Are you sure I'm the one you want?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ugh......",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "A \"No\", huh...?",
+      "choice_data_list": [
+        "I don't hate it at all—I'm thrilled!"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Fufun~♪ Then it's settled!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I ended up holding onto the travel voucher.\nOnce she achieves a big goal,\nI'll take her on a trip to celebrate...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ooooh! It looks so yummy!\nIt's so huge~! *drool*...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"Just watching that made me hungry! Let's hurry back and eat!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "We bought salads, onigiri, and even desserts\nat the shopping street, and decided to eat\ntogether back in the Trainer's Room.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Mmmgh, smells so good... Where's the knife?\nHurry, hurry! Let's split it in half~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Thanks for the food!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Chomp, gulp... Mmmph!\nTh-This is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"It's the kind Windy-chan loves!\nA 'hard-packed hamburger steak'!\"",
+      "choice_data_list": [
+        "What was that?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Like I saaaid!\nIt was chewy and super meaty.\nTasted like there barely weren't any binders!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "The carrots aren't overboiled either, and they have just the right amount of sweetness... Heheh♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "It tasted just like the one Mom makes!\nThough Mom's is definitely way tastier!",
+      "choice_data_list": [
+        "I see."
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "While learning about Shinko Windy's food preferences, we enjoyed a pleasant dinner together...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ooh, so many carrots...!\nSecond prize is pretty good too.",
+      "choice_data_list": [
+        "It's all-you-can-eat, huh?",
+        "It's all-you-can-eat, isn't it?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Yeah, yeah, eat as much as you like...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "No! It would be such a waste to just eat this mountain of carrots normally!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ghehehe~~!!\nI'm totally using this for pranks~~~!!!",
+      "choice_data_list": [
+        "Wh-What are you planning to do...!?",
+        "Wh-What are you planning to do...!?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "(—*knock knock*)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Comiiing... Huh, nobody's here...?\nThat's weird... Wait, what's this...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "What!? There's a carrot on the ground!\nIs this a surprise?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "“—Hey, Windy! It's you, isn't it?!\nYou've been leaving carrots in front of everyone's rooms\nand playing ding-dong ditch lately!”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hmph, Windy-chan doesn't know anything about that!\nIt wasn't Windy-chan, no way!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hahaha, mine was in my shoe locker.\nIt was truly earth-shattering.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"Ah, what do you know!\nSo the President noticed it properly after all, huh?!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "You didn't say anything, so I thought you went in the back and didn't notice me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Blllllleeeeeeeeh!\nI don't know anything about that~~~~~!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Fufu, normally I would take proper\nmeasures to deal with pranks, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Fufufu, everyone is so pleased~.\nThank you for sharing your treats,\nWindy-senpai.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hmphhh! I'm not Windy-chan, noddaaa~~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Geez... So stubborn...\nWas sharing a piece of it really that embarrassing for her...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "—And that's the kind of prank\nI went and pulled!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Heh-heh-heh! The Miho dorm is buzzing with talk about the mysterious 'Phantom Carrot Dropper'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Shinko Windy wore a smug look.\nI'm so glad it was a prank that made everyone happy...!\nI breathed a silent sigh of relief.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "A carrot... Just one, is it...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Hmmmmmm.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "I'll take it, I guess... but\nafter I went out of my way to go shopping and all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Even though I did...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Uuu... Ugaaaahhhhhh!!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Shinko Windy suddenly started chomping down on a carrot head-first!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "—Gasp!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Humph! I ate it all in one go!",
+      "choice_data_list": [
+        "That was some impressive eating..."
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Windy-chan is a villain after all! I went all wild on them!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "This is punishment for disappointing Windy-chan! Become nourishment for an evil Umamusume~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Shinko Windy looks satisfied after having a light snack.\nI hope she eats plenty and grows big and strong.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Tissues... it is...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Gugigi, this is so boringgg...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "\"I wanted to land it more like... with a bigger 'BAM!'...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Mmh! That's it, I'm going home!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Shinko Windy began stomping off toward the academy, looking visibly irritated.",
+      "choice_data_list": []
+    }
+  ]
+}

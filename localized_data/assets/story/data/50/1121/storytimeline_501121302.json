@@ -1,0 +1,495 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, on the way back from running errands with Durandal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Hm? ...Please be careful.\nThere appears to be a crowd over there――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Whoa, that looks so luxurious...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "—Whoops, *cough*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "My apologies, it seems there is no particular danger.\nNow then, continuing with bodyguard duty—",
+      "choice_data_list": [
+        "Since we're here, why don't you draw one?",
+        "Since we're here, why not draw one?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Durandal tries to hide her interest in the raffle to stay knightly, so I decide to invite her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Since the two of us came out shopping together,\nI wanted to give them a little breather.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"...However, playing a lottery while on guard duty\nis unbecoming of a knight.\"",
+      "choice_data_list": [
+        "Durandal. These are your orders.",
+        "Durandal. These are your orders, okay?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "—Kh!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "My lack of foresight brings me nothing but shame...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Now that it has come to this,\nI shall deliver results worthy of offering to my liege!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Clutching the lottery ticket she received while shopping,\nDurandal strides forward gallantly.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Cheeks flushed with anticipation, I gripped the steering wheel.\nThe result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Huh...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Yaaay~~!!\nIncredible, My Liege! It's the grand prize!",
+      "choice_data_list": [
+        "Nice going, Durandal!!",
+        "You did it, Durendal!!"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Yes! And as a pair, no less!\nSurely my liege's divine guidance\nhas drawn this good fortune to us!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Or could it be—my morning knight's prayer actually worked?\nWait, does that mean this is thanks to me!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I'm so glad I stuck with it~!\nMornings are just... so sleepy, reeeally sleepy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "—Wait.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "N-No, that's not it, Trainer-dono!\nWhat happened just now was, well, how should I put it...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "...I got somewhat carried away by this rare victory.\nFrom here on, I shall brace myself and remain vigilant, so I beg your pardon.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Now then, please accept this, my Lord.\nThis victory belongs to you, Trainer.",
+      "choice_data_list": [
+        "Huh!? No, you go ahead and use it!?",
+        "Huh!? No, you go ahead and use it!?"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "No. That lottery ticket was originally obtained\nwhen you purchased my training equipment, Trainer-dono.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"In that case, it is inevitable that this 'Hot Springs Trip Voucher' shall belong to my Lord.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Naturally, whoever you choose to bring along, Trainer, I have no objections.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Please bring along someone you deem worthy of the reward.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even if you say that, the only one\nI can think of who deserves appreciation is Durandal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "However, right now is a crucial period for taking on the Twinkle Series.\nInviting her out to hang out halfway through just wouldn't feel right.",
+      "choice_data_list": [
+        "Alright, I'll hold onto this.",
+        "Alright, I'll hold onto this for you."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Take care of it... you say?",
+      "choice_data_list": [
+        "For when your hard work earns it.",
+        "For when your hard work proves worthy of it."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Does that mean—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "You mean... together, someday...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngh...!! Yes!\nI will make sure my work is worthy of this reward!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I agreed to hold onto the Hot Springs Trip Voucher she had won for a while.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "This is...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Splendid! With this size, it will surely satisfy our appetites!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I borrowed the cafeteria kitchen\nand whipped up some carrot hamburger steaks right away.",
+      "choice_data_list": [
+        "Hold on, I'll slice it up now."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Wait, my liege.\nI implore you, please entrust that crucial duty to me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"For a knight, sharing a table with their King\nis the supreme joy.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "With all that joy and pride behind it, a single clean stroke! I'll show you that I can slice it right in two, carrot and all!",
+      "choice_data_list": [
+        "...No, you look like you're going to cut right through the plate."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "N-No way!\nPlease let me do it, my liege~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The taste of the hamburger eaten amidst such a ruckus\nwould remain etched in memory forever.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "This is... a majestic sight, as if gazing upon Mount Badon itself!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Ooh!! Impressive, customer!!\nBe sure to build up your strength with these carrots!",
+      "choice_data_list": [
+        "Still, it might be a bit too much...",
+        "Still, it might be a bit much, huh..."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "\"If that is so, my Liege...\nWould you permit me to take care of it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Actually, there's something I've always dreamed\nof achieving one day!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What Durandal had prepared\nwas a barbecue featuring mountains of carrots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Durandal-saaan!!\nThank you sooo much for the invite!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "\"Excuse me~! Hehe,\nI came here on an empty stomach♪\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Evidently, a lot of people were invited,\nas participants were arriving one after another.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crunch, munch munch, crunch—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Crunch, crunch, crunch, crunch... Carrots are best eaten while they're still hard and straight.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, twelve Umamusume gathered together—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Thank you all for gathering here today. This—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "To the banquet of the Round Table!",
+      "choice_data_list": [
+        "(I see, so this is what she wanted to do...)",
+        "(I see, so this is what she wanted to do...)"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "As comrades running in the same era,\nI consider you all to be fellow knights, and—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "(Crunch crunch crunch crunch...)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Geez, Right O-san!\nIt was just getting to the good part, so listen!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even as he spoke, the smile never\nfaded from Durandal's face.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, the night of the delightful banquet\npassed by—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngh... How pathetic of me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "My liege, I am terribly sorry.\nI intended to offer you the greatest victory,\nyet all I have is a single carrot...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "However, there is no deceit in my fervent desire to serve the King.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "I was only thinking of the King—",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "—Whaaaaat?!?!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl Out Shopping",
+      "text": "Are the carrots sold out...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Greengrocer Grandma",
+      "text": "I'm sorry. I just handed all of them\nover to be used as raffle prizes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl Out Shopping",
+      "text": "No way……! But I really wanted\nto make curry for Mom and Dad……",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "............\nMy liege...!",
+      "choice_data_list": [
+        "Yeah. Go get 'em."
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "I am deeply grateful for your words.\nHowever, coming to the aid of the weak is also the duty of a knight!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "And now—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Little princess. If you are in need, allow me to offer you this carrot.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Girl Out Shopping",
+      "text": "Whoa..., thank you, big sister!\nHere, I'll give you this in return!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Why, this brings me the utmost joy, my Princess.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "On the way back, Durandal slowly and thoroughly\nsavored the candy she had received from the young girl.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Local",
+      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Acquired \"<itemname>\".",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Kh... To think that I, of all people...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Forgive me, my liege...!\nThis is the blunder of a lifetime for Durandal...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "The victory I was supposed to dedicate to my liege...\nThe hot spring voucher...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, Durandal slumped her shoulders\nin deep disappointment...",
+      "choice_data_list": []
+    }
+  ]
+}
