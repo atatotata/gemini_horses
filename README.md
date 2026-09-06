@@ -9,7 +9,7 @@ Full machine translation patch and numerical skill data overlay for Umamusume: P
 - **Stories**: 2,500+ translated timelines, including all support-card events.
 
 ## Layered UmaTL Synchronization
-Whenever upstream [UmaTL](https://github.com/UmaTL/hachimi-tl-en) updates, new human-curated translations automatically and gracefully replace the machine-translated entries here. Everything else remains intact, maintaining 100% full coverage between updates. Synchronized automatically twice a week.
+Whenever upstream [UmaTL SD](https://github.com/UmaTL/hachimi-tl-en-sd) updates, new human-curated translations automatically and gracefully replace the machine-translated entries here. Everything else remains intact, maintaining 100% full coverage between updates. Synchronized automatically twice a week.
 
 ## Usage
 
@@ -24,5 +24,5 @@ https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
 
 ## Attribution
-- **Curated translations, textures, and media**: [UmaTL](https://github.com/UmaTL/hachimi-tl-en) (noccu and contributors). Takes precedence wherever available.
+- **Curated translations, textures, and media**: [UmaTL SD](https://github.com/UmaTL/hachimi-tl-en-sd) (noccu and contributors). Takes precedence wherever available.
 - **Machine-translated gap coverage** (master strings, support-card stories): this project (Gemini MT).
