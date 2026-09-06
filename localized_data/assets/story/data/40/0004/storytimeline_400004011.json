@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Reporter Otonashi",
-      "text": "<username>!\r\nI have some truly wonderful news for you!",
+      "text": "<username>! I have some truly wonderful news for \nyou!",
       "choice_data_list": [
         "Meaning?"
       ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Actually, I'm a member of the\r\nUmamusume of the Year Selection Committee, and—",
+      "text": "Actually, I'm a member of the Umamusume of \nthe Year Selection Committee, and—",
       "choice_data_list": []
     },
     {
@@ -20,22 +20,22 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "I bring good news from the URA.\nYou might have already received an email about it,\nbut I wanted to let you know just in case.",
+      "text": "I bring good news from the URA. You might \nhave already received an email about it, \nbut I wanted to let you know just in case.",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"...Oh, we had a guest?\r\nMy apologies.\"",
+      "text": "\"...Oh, we had a guest? My apologies.\"",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Not at all!\r\nWe likely need the exact same thing!",
+      "text": "Not at all! We likely need the exact same \nthing!",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "I see.\r\nThen please take this.",
+      "text": "I see. Then please take this.",
       "choice_data_list": []
     },
     {
@@ -45,24 +45,24 @@
     },
     {
       "name": "",
-      "text": "\"To <chrname>.\nWe are pleased to inform you that you have been\nselected as this year's Best Classic Umamusume.\"",
+      "text": "\"To <chrname>. We are pleased to inform you that \nyou have been selected as this year's Best \nClassic Umamusume.\"",
       "choice_data_list": [
         "Best Classic Category Umamusume!?"
       ]
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"Yes. This award is determined and chosen based on an overall assessment of the entire year's performance.\"",
+      "text": "\"Yes. This award is determined and chosen \nbased on an overall assessment of the \nentire year's performance.\"",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "It is not something just anyone can obtain.\r\nThereforeâ",
+      "text": "It is not something just anyone can \nobtain. Thereforeâ",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Splendid. That single word says it all. As someone associated with this academy, I feel immensely proud.",
+      "text": "Splendid. That single word says it all. As \nsomeone associated with this academy, I \nfeel immensely proud.",
       "choice_data_list": []
     },
     {
@@ -79,17 +79,17 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Even so, that doesn't mean your Twinkle Series is over.",
+      "text": "Even so, that doesn't mean your Twinkle \nSeries is over.",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Without letting your guard down,\nplease run your way through the Senior Class as well.",
+      "text": "Without letting your guard down, please \nrun your way through the Senior Class as \nwell.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Afterward, <chrname> and I promised each other to keep doing our best together next year as well.",
+      "text": "Afterward, <chrname> and I promised each other to \nkeep doing our best together next year as \nwell.",
       "choice_data_list": []
     }
   ]

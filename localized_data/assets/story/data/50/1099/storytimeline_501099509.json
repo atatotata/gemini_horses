@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"Going to the cafeteria to take a breather,\nI spotted Hokko Tarumae.\"",
+      "text": "\"Going to the cafeteria to take a \nbreather, I spotted Hokko Tarumae.\"",
       "choice_data_list": []
     },
     {
       "name": "Hokko Tarumae",
-      "text": "*sigh*... These haskap berries are delicious...\n...It might have been a while since I've just leisurely savored something...",
+      "text": "*sigh*... These haskap berries are \ndelicious... ...It might have been a while \nsince I've just leisurely savored \nsomething...",
       "choice_data_list": []
     },
     {
       "name": "Hokko Tarumae",
-      "text": "I miss the harvest festivals...\nEveryone eating until their bellies were full...\nBasking in the sun together... *sigh*...",
+      "text": "I miss the harvest festivals... Everyone \neating until their bellies were full... \nBasking in the sun together... *sigh*...",
       "choice_data_list": [
         "Are you feeling tired, by any chance?"
       ]
@@ -25,12 +25,12 @@
     },
     {
       "name": "Hokko Tarumae",
-      "text": "N-No! I'm full of energy!\nI'm just feeling a little nostalgic, that's all!",
+      "text": "N-No! I'm full of energy! I'm just feeling \na little nostalgic, that's all!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Though she says that, her expression remains gloomy. Fatigue from running in consecutive races seems to have caught up with her, so I should reconsider our upcoming schedule...",
+      "text": "Though she says that, her expression \nremains gloomy. Fatigue from running in \nconsecutive races seems to have caught up \nwith her, so I should reconsider our \nupcoming schedule...",
       "choice_data_list": []
     }
   ]

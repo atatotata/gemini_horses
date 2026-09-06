@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Durandal",
-      "text": "\"I hope you are in good spirits today as well... My Liege...\"",
+      "text": "\"I hope you are in good spirits today as \nwell... My Liege...\"",
       "choice_data_list": [
         "...You look sleepy.",
         "...Looks sleepy."
@@ -11,22 +11,22 @@
     },
     {
       "name": "Durandal",
-      "text": "No, that's... that's not............\nUm............",
+      "text": "No, that's... that's not............ \nUm............",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "……I-I am utterly ashamed!\nIt being a precious day off, I sought the supreme sleep――",
+      "text": "……I-I am utterly ashamed! It being a \nprecious day off, I sought the supreme \nsleep――",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "I tried working out with some sword practice before bed, but it ended up having the opposite effect... I'm wide awake now...!",
+      "text": "I tried working out with some sword \npractice before bed, but it ended up \nhaving the opposite effect... I'm wide \nawake now...!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Your good intentions seemed to have backfired,\nand Durandal was unable to get\nsufficient rest...",
+      "text": "Your good intentions seemed to have \nbackfired, and Durandal was unable to get \nsufficient rest...",
       "choice_data_list": []
     }
   ]

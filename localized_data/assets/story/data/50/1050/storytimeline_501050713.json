@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Narita Taishin got injured during training,\r\nso I brought her to the infirmary.",
+      "text": "Narita Taishin got injured during \ntraining, so I brought her to the \ninfirmary.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...Like I said, you're making a big deal out of nothing.\r\nAn injury like this will heal fine on its own.\"",
+      "text": "\"...Like I said, you're making a big deal \nout of nothing. An injury like this will \nheal fine on its own.\"",
       "choice_data_list": [
         "It'd be bad if it got worse.",
         "It'd be awful if it got worse.",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...Like I said, you're making a big deal out of nothing.\r\nAn injury like this will heal fine on its own.\"",
+      "text": "\"...Like I said, you're making a big deal \nout of nothing. An injury like this will \nheal fine on its own.\"",
       "choice_data_list": [
         "It'd be bad if it got worse.",
         "It'd be awful if it got worse.",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Is it 'cause I'm smaller than the others?!\n'Cause my body's skinny and frail?!",
+      "text": "Is it 'cause I'm smaller than the others?! \n'Cause my body's skinny and frail?!",
       "choice_data_list": [
         "I'm worried about Taishin",
         "I'm worried about Taishin, you know"
@@ -44,47 +44,47 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "I'm telling you, nobody asked for your help!",
+      "text": "I'm telling you, nobody asked for your \nhelp!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "If you've got time to worry,\r\nwhy don't you come up with a training menu instead?",
+      "text": "If you've got time to worry, why don't you \ncome up with a training menu instead?",
       "choice_data_list": [
-        "If I think of something, will you treat it?",
-        "If I think of something, will you treat it?"
+        "If I think of something, will you treat \nit?",
+        "If I think of something, will you treat \nit?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I was all fired up, saying I'd come up with\r\nas many ideas as needed, but then—",
+      "text": "I was all fired up, saying I'd come up \nwith as many ideas as needed, but then—",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "No, that's not what I meant!\r\nWere you even listening?",
+      "text": "No, that's not what I meant! Were you even \nlistening?",
       "choice_data_list": [
         "Of course!"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...Sigh.\r\nThis is starting to feel completely ridiculous.\"",
+      "text": "\"...Sigh. This is starting to feel \ncompletely ridiculous.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Narita Taishin, looking completely drained,\nthen allowed herself to be treated for her injury.",
+      "text": "Narita Taishin, looking completely \ndrained, then allowed herself to be \ntreated for her injury.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Thinking that she must understand her own body best,\r\nI decided to trust Narita Taishin's words.",
+      "text": "Thinking that she must understand her own \nbody best, I decided to trust Narita \nTaishin's words.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Hmph.\r\nYou should've just said so from the start.",
+      "text": "Hmph. You should've just said so from the \nstart.",
       "choice_data_list": []
     },
     {
@@ -101,62 +101,62 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Shut up...!\r\nI can keep going!",
+      "text": "Shut up...! I can keep going!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "I can still run!\nI have to... I must keep running...!",
+      "text": "I can still run! I have to... I must keep \nrunning...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I can understand Narita Taishin's impatience,\r\nbut letting her keep running like this is dangerous.",
+      "text": "I can understand Narita Taishin's \nimpatience, but letting her keep running \nlike this is dangerous.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Somehow, I managed to calm her down and ended training early.",
+      "text": "Somehow, I managed to calm her down and \nended training early.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
       "text": "Haa, haa... How's that?!",
       "choice_data_list": [
-        "Looks like that injury is really nothing to worry about.",
-        "Looks like that injury is really nothing to worry about, huh?"
+        "Looks like that injury is really nothing \nto worry about.",
+        "Looks like that injury is really nothing \nto worry about, huh?"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Of course.\r\nI can't let something like that stop me.",
+      "text": "Of course. I can't let something like that \nstop me.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "If you wanna beat the others,\r\nyou've got no choice but to train more than anyone else.",
+      "text": "If you wanna beat the others, you've got \nno choice but to train more than anyone \nelse.",
       "choice_data_list": [
-        "Still, I want you to take good care of your body."
+        "Still, I want you to take good care of \nyour body."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "*Sigh*...\r\nYou really are a busybody.",
+      "text": "*Sigh*... You really are a busybody.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Come on, stop arguing and just let me train.",
+      "text": "Come on, stop arguing and just let me \ntrain.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...If I get stronger,\r\nyou won't have to worry so much, right?",
+      "text": "...If I get stronger, you won't have to \nworry so much, right?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Afterward, despite Narita Taishin's constant complaining,\nwe managed to complete the training all the way through.",
+      "text": "Afterward, despite Narita Taishin's \nconstant complaining, we managed to \ncomplete the training all the way through.",
       "choice_data_list": []
     }
   ]

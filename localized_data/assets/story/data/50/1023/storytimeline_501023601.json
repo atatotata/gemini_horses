@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Biwa Hayahide",
-      "text": "\"Considering today's weather... wind speed and humidity...\r\n...Yeah, this should work.\"",
+      "text": "\"Considering today's weather... wind speed \nand humidity... ...Yeah, this should \nwork.\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...Sorry to keep you waiting, Trainer-kun.\nI have finished revising the theory.\"",
+      "text": "\"...Sorry to keep you waiting, \nTrainer-kun. I have finished revising the \ntheory.\"",
       "choice_data_list": [
-        "So, how's your confidence? "
+        "So, how's your confidence?"
       ]
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The more refined a theory is, the simpler it becomes.\r\nAllow me to show you.",
+      "text": "The more refined a theory is, the simpler \nit becomes. Allow me to show you.",
       "choice_data_list": []
     },
     {

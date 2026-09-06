@@ -1,24 +1,24 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Congratulations on qualifying!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "It's hard to believe that this was\njust a qualifying round, but it\nwas a great, heated race!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Next up is the semifinals, where you\nwill face the others powerful enough\nto make it through. It will surely\nbe an even tougher race.",
-            "choice_data_list": [
-                "And we'll win that too!"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Yes! I'm looking forward to\nyour continued success!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Congratulations on qualifying!"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "It's hard to believe that this was just a \nqualifying round, but it was a great, \nheated race!"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Next up is the semifinals, where you will \nface the others powerful enough to make it \nthrough. It will surely be an even tougher \nrace.",
+      "choice_data_list": [
+        "And we'll win that too!"
+      ]
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Yes! I'm looking forward to your continued \nsuccess!"
+    }
+  ]
 }

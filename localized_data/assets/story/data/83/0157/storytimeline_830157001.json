@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "I forgot something during daytime training. Remembering it, I went back to fetch it, but—"
+      "text": "I forgot something during daytime \ntraining. Remembering it, I went back to \nfetch it, but—"
     },
     {
       "text": "(Drip... drip...)",
@@ -11,17 +11,17 @@
       ]
     },
     {
-      "text": "No need to linger. Just as I looked for my things and prepared to hurry back to the Trainer's office—"
+      "text": "No need to linger. Just as I looked for my \nthings and prepared to hurry back to the \nTrainer's office—"
     },
     {
       "name": "???",
       "text": "......Did you... forg... something...?"
     },
     {
-      "text": "Even though nobody should be here, I thought I heard someone's voice..."
+      "text": "Even though nobody should be here, I \nthought I heard someone's voice..."
     },
     {
-      "text": "I was scared to turn around. ...No, it's surely just my imagination—"
+      "text": "I was scared to turn around. ...No, it's \nsurely just my imagination—"
     },
     {
       "name": "???",
@@ -32,14 +32,14 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I am... sorry... I was only... submerged... I didn't mean... to scare you..."
+      "text": "...I am... sorry... I was only... \nsubmerged... I didn't mean... to scare \nyou..."
     },
     {
-      "text": "Being apologized to made me feel even more awkward. It was entirely my fault for assuming no one was here and scaring myself."
+      "text": "Being apologized to made me feel even more \nawkward. It was entirely my fault for \nassuming no one was here and scaring \nmyself."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "At this hour... very few people... come here...",
+      "text": "At this hour... very few people... come \nhere...",
       "choice_data_list": [
         "...Are you always here alone?"
       ]
@@ -50,25 +50,25 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I... like it... underwater... It is cold... and quiet..."
+      "text": "...I... like it... underwater... It is \ncold... and quiet..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "The only one here... is myself... Secretive... and free..."
+      "text": "The only one here... is myself... \nSecretive... and free..."
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Being cut off from the outside world... brings peace... Or so... it feels..."
+      "text": "Being cut off from the outside world... \nbrings peace... Or so... it feels..."
     },
     {
-      "text": "Watching her speak while gazing off into the distance, I felt a strange sense of fascination."
+      "text": "Watching her speak while gazing off into \nthe distance, I felt a strange sense of \nfascination."
     },
     {
-      "text": "It seemed that spending time underwater was truly precious to Manhattan Cafe. —Just then..."
+      "text": "It seemed that spending time underwater \nwas truly precious to Manhattan Cafe. \n—Just then..."
     },
     {
       "name": "???",
-      "text": "Because it won't be an experiment without two people~! Cafe was definitely seen around here earlier—"
+      "text": "Because it won't be an experiment without \ntwo people~! Cafe was definitely seen \naround here earlier—"
     },
     {
       "name": "Manhattan Cafe",
@@ -76,7 +76,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh? How strange, she ought to be here— Hey, you there!",
+      "text": "Oh? How strange, she ought to be here— \nHey, you there!",
       "choice_data_list": [
         "...Me?",
         "...Me?"
@@ -84,43 +84,43 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Yes, you! Have you seen Cafe? I came because I have a favor to ask of her—",
+      "text": "Yes, you! Have you seen Cafe? I came \nbecause I have a favor to ask of her—",
       "choice_data_list": [
         "Huh...?"
       ]
     },
     {
-      "text": "Not understanding her question, I looked behind me, only to find Manhattan Cafe had vanished without a trace.",
+      "text": "Not understanding her question, I looked \nbehind me, only to find Manhattan Cafe had \nvanished without a trace.",
       "choice_data_list": [
         "...She's not here.",
-        "Wait, she was definitely right there a second ago?!"
+        "Wait, she was definitely right there a \nsecond ago?!"
       ]
     },
     {
-      "text": "Come to think of it, right before Agnes Tachyon and the other approached, I heard a faint splash as Manhattan Cafe submerged."
+      "text": "Come to think of it, right before Agnes \nTachyon and the other approached, I heard \na faint splash as Manhattan Cafe \nsubmerged."
     },
     {
-      "text": "She cherishes her quiet time. She's probably not in the mood to see anyone right now. Deciding not to reveal her hiding spot—"
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "What a shame~~! And here I was planning to have Cafe and Pocket-kun assist in a special experiment testing an umamusume's limits today!"
+      "text": "She cherishes her quiet time. She's \nprobably not in the mood to see anyone \nright now. Deciding not to reveal her \nhiding spot—"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "After all, my personal masterpiece device is finally complete! A custom-made running wheel with ten stages of resistance!"
+      "text": "What a shame~~! And here I was planning to \nhave Cafe and Pocket-kun assist in a \nspecial experiment testing an umamusume's \nlimits today!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "With that, we could measure running power, endurance, visual perception effects, stress levels, and even the psychological impact of comparative side-by-side pacing—"
+      "text": "After all, my personal masterpiece device \nis finally complete! A custom-made running \nwheel with ten stages of resistance!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "In short! A multitude of experiments so vast that running all night long wouldn't even be enough!"
+      "text": "With that, we could measure running power, \nendurance, visual perception effects, \nstress levels, and even the psychological \nimpact of comparative side-by-side pacing—"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "In short! A multitude of experiments so \nvast that running all night long wouldn't \neven be enough!"
     },
     {
       "name": "Jungle Pocket",
-      "text": "HAAAH?! Run all night long?! You were seriously plannin' to make us do that crap?!"
+      "text": "HAAAH?! Run all night long?! You were \nseriously plannin' to make us do that \ncrap?!"
     },
     {
       "name": "Jungle Pocket",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Aahh! If you leave too, what happens to my experiment?! Hey, Pocket-kun, wait! HEEEYYY, waaaaait!!"
+      "text": "Aahh! If you leave too, what happens to my \nexperiment?! Hey, Pocket-kun, wait! \nHEEEYYY, waaaaait!!"
     },
     {
       "name": "Manhattan Cafe",
@@ -136,22 +136,22 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Whenever... I get involved with Tachyon-san and the others... it tends to become troublesome..."
+      "text": "Whenever... I get involved with \nTachyon-san and the others... it tends to \nbecome troublesome..."
     },
     {
-      "text": "It seemed covering for her had been the right choice. Manhattan Cafe breathed a quiet sigh of relief."
+      "text": "It seemed covering for her had been the \nright choice. Manhattan Cafe breathed a \nquiet sigh of relief."
     },
     {
       "name": "Jungle Pocket",
-      "text": "Ah, oi! There's some kinda black shadow underwater!"
+      "text": "Ah, oi! There's some kinda black shadow \nunderwater!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "My my, playing hide-and-seek? How delightfully adorable of you!"
+      "text": "My my, playing hide-and-seek? How \ndelightfully adorable of you!"
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Did you want to play with us that badly?! Fear not, we shall play together to your heart's content right after this! Come now, come on, come on, out you get!!"
+      "text": "Did you want to play with us that badly?! \nFear not, we shall play together to your \nheart's content right after this! Come \nnow, come on, come on, out you get!!"
     },
     {
       "name": "Manhattan Cafe",
@@ -159,21 +159,21 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "What's up with you? Stay in the water too long and get all pruny?"
+      "text": "What's up with you? Stay in the water too \nlong and get all pruny?"
     },
     {
       "name": "Jungle Pocket",
-      "text": "Hurry up and get changed before ya catch a cold. Then let's go blow off some steam together!"
+      "text": "Hurry up and get changed before ya catch a \ncold. Then let's go blow off some steam \ntogether!"
     },
     {
       "name": "Manhattan Cafe",
       "text": "...Haah... I suppose I have no choice..."
     },
     {
-      "text": "Manhattan Cafe resignedly followed the two. Even so, her expression didn't look nearly as reluctant as her words suggested."
+      "text": "Manhattan Cafe resignedly followed the \ntwo. Even so, her expression didn't look \nnearly as reluctant as her words \nsuggested."
     },
     {
-      "text": "She prefers solitude, but she is far from isolated. Seeing that brought a sense of relief."
+      "text": "She prefers solitude, but she is far from \nisolated. Seeing that brought a sense of \nrelief."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Summer training camp starts today!\nThe days of focused training at the lodge begin!",
+      "text": "Summer training camp starts today! The \ndays of focused training at the lodge \nbegin!",
       "choice_data_list": []
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...The hospital again?\r\nMan, you sure don't give up, do you?",
+      "text": "...The hospital again? Man, you sure don't \ngive up, do you?",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Just hurry up and go to the training camp lodge.\nYou don't need to keep me company, you know.",
+      "text": "Just hurry up and go to the training camp \nlodge. You don't need to keep me company, \nyou know.",
       "choice_data_list": [
         "Don't say that, let's go.",
         "Don't say that, let's go."
@@ -36,7 +36,7 @@
     },
     {
       "name": "",
-      "text": "And so, after visiting the clinic to get Tosen Jordan's\r\nhooves examined and treated,\nwe rejoined the summer training camp.",
+      "text": "And so, after visiting the clinic to get \nTosen Jordan's hooves examined and \ntreated, we rejoined the summer training \ncamp.",
       "choice_data_list": []
     }
   ]

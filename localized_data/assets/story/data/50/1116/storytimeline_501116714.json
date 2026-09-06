@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Gentildonna suffered a severe injury\nand was immediately treated at the nurse's office.",
+      "text": "Gentildonna suffered a severe injury and \nwas immediately treated at the nurse's \noffice.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "According to the doctor,\nit looks like I need to rest for a while.",
+      "text": "According to the doctor, it looks like I \nneed to rest for a while.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "Still, in my opinion, training is possible as long as we pay close attention.",
+      "text": "Still, in my opinion, training is possible \nas long as we pay close attention.",
       "choice_data_list": [
         "Are you planning to keep going?",
         "Are you planning to keep going?"
@@ -21,33 +21,33 @@
     },
     {
       "name": "Gentildonna",
-      "text": "Of course.\nThe strong have no time to stand still, after all.",
+      "text": "Of course. The strong have no time to \nstand still, after all.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "Now, Trainer, won't you get ready as well?\nThis isn't where we are meant to be.",
+      "text": "Now, Trainer, won't you get ready as well? \nThis isn't where we are meant to be.",
       "choice_data_list": [
-        "...Knowing when to comfortably take a rest is the mark of true strength.",
-        "...Taking a well-deserved rest is the mark of true strength, you know.",
+        "...Knowing when to comfortably take a rest \nis the mark of true strength.",
+        "...Taking a well-deserved rest is the mark \nof true strength, you know.",
         "At least let me adjust your training menu."
       ]
     },
     {
       "name": "Gentildonna",
-      "text": "Now, Trainer, won't you get ready as well?\nThis isn't where we are meant to be.",
+      "text": "Now, Trainer, won't you get ready as well? \nThis isn't where we are meant to be.",
       "choice_data_list": [
-        "...Knowing when to comfortably take a rest is the mark of true strength.",
-        "...Taking a well-deserved rest is the mark of true strength, you know.",
+        "...Knowing when to comfortably take a rest \nis the mark of true strength.",
+        "...Taking a well-deserved rest is the mark \nof true strength, you know.",
         "At least let me adjust your training menu."
       ]
     },
     {
       "name": "Narrator",
-      "text": "You might feel confident in your physical condition,\nbut I'd still like you to rest just in case.\nBesides, even if you take a break here—",
+      "text": "You might feel confident in your physical \ncondition, but I'd still like you to rest \njust in case. Besides, even if you take a \nbreak here—",
       "choice_data_list": [
-        "The fact that you're strong is completely undeniable.",
-        "The fact that you're strong remains unshaken."
+        "The fact that you're strong is completely \nundeniable.",
+        "The fact that you're strong remains \nunshaken."
       ]
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "name": "Gentildonna",
-      "text": "“Still, I can tell you won't break either.\nVery well, now is the time for silence.”",
+      "text": "“Still, I can tell you won't break either. \nVery well, now is the time for silence.”",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Gentildonna wore a fearless smile.\nIt seems she was convinced.",
+      "text": "Gentildonna wore a fearless smile. It \nseems she was convinced.",
       "choice_data_list": []
     },
     {
@@ -84,26 +84,26 @@
     },
     {
       "name": "Gentildonna",
-      "text": "...How pathetic.\nAfter boasting like that, too...",
+      "text": "...How pathetic. After boasting like that, \ntoo...",
       "choice_data_list": [
         "Let's just rest for now."
       ]
     },
     {
       "name": "Gentildonna",
-      "text": "Yes. After that, we'll regroup.\nWe need the resilience to not be stopped by an injury of this caliber...",
+      "text": "Yes. After that, we'll regroup. We need \nthe resilience to not be stopped by an \ninjury of this caliber...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "After giving Gentildonna some rest,\nwe discussed our future plans.",
+      "text": "After giving Gentildonna some rest, we \ndiscussed our future plans.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
       "text": "Haaaaah!!",
       "choice_data_list": [
-        "Incredible...! You can't even tell you were injured...!"
+        "Incredible...! You can't even tell you \nwere injured...!"
       ]
     },
     {
@@ -113,12 +113,12 @@
     },
     {
       "name": "Gentildonna",
-      "text": "If it's only this much,\nwe could probably add a bit more load.",
+      "text": "If it's only this much, we could probably \nadd a bit more load.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "No matter how fierce the adversity, Gentildonna charged forward with unyielding power.",
+      "text": "No matter how fierce the adversity, \nGentildonna charged forward with \nunyielding power.",
       "choice_data_list": []
     }
   ]

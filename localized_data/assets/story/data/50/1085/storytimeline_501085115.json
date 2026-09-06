@@ -3,9 +3,9 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"The Oaks is 2400m. In order to handle a longer distance than our previous targets, I had been training continuously with Daiichi Ruby, but—\"",
+      "text": "\"The Oaks is 2400m. In order to handle a \nlonger distance than our previous targets, \nI had been training continuously with \nDaiichi Ruby, but—\"",
       "choice_data_list": [
-        "Alright, let's try running 2400m again today"
+        "Alright, let's try running 2400m again \ntoday"
       ]
     },
     {
@@ -22,14 +22,14 @@
     },
     {
       "name": "Narrator",
-      "text": "She really seems to struggle whenever the distance is increased.\nThe sharpness she showed in the Fillies' Revue and her stability\nin the Oka Sho have completely vanished.",
+      "text": "She really seems to struggle whenever the \ndistance is increased. The sharpness she \nshowed in the Fillies' Revue and her \nstability in the Oka Sho have completely \nvanished.",
       "choice_data_list": [
         "(Is it a solvable factor, or...)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Regarding that matter, I decided to first\nhear Daiichi Ruby out\nto search for the root cause.",
+      "text": "Regarding that matter, I decided to first \nhear Daiichi Ruby out to search for the \nroot cause.",
       "choice_data_list": [
         "How are you feeling right now?"
       ]
@@ -55,12 +55,12 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "It's likely just a simple lack of stamina.\nWe should devote more time to it than ever before.",
+      "text": "It's likely just a simple lack of stamina. \nWe should devote more time to it than ever \nbefore.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Going forward, I would appreciate it if you could\npropose more training focused on building stamina.",
+      "text": "Going forward, I would appreciate it if \nyou could propose more training focused on \nbuilding stamina.",
       "choice_data_list": [
         "Yeah, you're right.",
         "Yeah, that's true."
@@ -68,26 +68,26 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Well then, I shall go...\nand run one more lap.",
+      "text": "Well then, I shall go... and run one more \nlap.",
       "choice_data_list": [
         "(Lacking stamina... huh.)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "True, that could also be a factor.\nHowever, if there is another insurmountable wall\nstanding before her—",
+      "text": "True, that could also be a factor. \nHowever, if there is another \ninsurmountable wall standing before her—",
       "choice_data_list": [
         "(Aptitude—)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Turf, dirt, short distance, long distance...\r\nUmamusume have aptitudes. Though some are all-rounders—",
+      "text": "Turf, dirt, short distance, long \ndistance... Umamusume have aptitudes. \nThough some are all-rounders—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Most of them realize their aptitudes as they race\nand continue down that path.\nAs of now, Daiichi Ruby...",
+      "text": "Most of them realize their aptitudes as \nthey race and continue down that path. As \nof now, Daiichi Ruby...",
       "choice_data_list": []
     },
     {
@@ -99,12 +99,12 @@
     },
     {
       "name": "Narrator",
-      "text": "There is no inherent good or bad to it. However...\nDepending on the path you wish to pursue, it may become a wall.",
+      "text": "There is no inherent good or bad to it. \nHowever... Depending on the path you wish \nto pursue, it may become a wall.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Most of the classic races Daiichi Ruby aims for are medium to long distance... and the “Oaks” is medium distance.\nIf that is the path she desires, it poses a formidable wall.",
+      "text": "Most of the classic races Daiichi Ruby \naims for are medium to long distance... \nand the “Oaks” is medium distance. If that \nis the path she desires, it poses a \nformidable wall.",
       "choice_data_list": [
         "Hey, Ruby...",
         "Hey, Ruby..."
@@ -124,24 +124,24 @@
     },
     {
       "name": "Narrator",
-      "text": "It's still too early to say for sure at this stage.\nFirst, we'll keep stacking stamina training.\nIf we can draw any conclusions... it'll be after that.",
+      "text": "It's still too early to say for sure at \nthis stage. First, we'll keep stacking \nstamina training. If we can draw any \nconclusions... it'll be after that.",
       "choice_data_list": [
         "(Alright, let's do what we can.)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "First, once this training is over,\nI'll assemble a new, efficient routine.\nSomething that can truly support her—",
+      "text": "First, once this training is over, I'll \nassemble a new, efficient routine. \nSomething that can truly support her—",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "(2400m might be tough for me.\nBecause it's outside my aptitude—)",
+      "text": "(2400m might be tough for me. Because it's \noutside my aptitude—)",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "(Trainer deduced as much.\n...And I feel the same way.)",
+      "text": "(Trainer deduced as much. ...And I feel \nthe same way.)",
       "choice_data_list": []
     },
     {
@@ -151,42 +151,42 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "(There is no question of skipping the Oaks.\nAs her daughter, avenging Mother's defeat is an absolute must.)",
+      "text": "(There is no question of skipping the \nOaks. As her daughter, avenging Mother's \ndefeat is an absolute must.)",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "(Only by building on all of this, step by step...\ncan I finally become someone worthy of the \"Illustrious Clan.\")",
+      "text": "(Only by building on all of this, step by \nstep... can I finally become someone \nworthy of the \"Illustrious Clan.\")",
       "choice_data_list": []
     },
     {
       "name": "Young Ruby",
-      "text": "..................Then,\nwhat have I been doing this all for...—",
+      "text": "..................Then, what have I been \ndoing this all for...—",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "(They prepared the vessel for me to fulfill my mission.\nNo matter what happens—)",
+      "text": "(They prepared the vessel for me to \nfulfill my mission. No matter what \nhappens—)",
       "choice_data_list": []
     },
     {
       "name": "Ruby's Butler",
-      "text": "Milady.\nI have arrived to escort you.",
+      "text": "Milady. I have arrived to escort you.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I apologize, but\nI will be changing the schedule.",
+      "text": "I apologize, but I will be changing the \nschedule.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I will be doing some solo practice, so I leave the rest to you.",
+      "text": "I will be doing some solo practice, so I \nleave the rest to you.",
       "choice_data_list": []
     },
     {
       "name": "Ruby's Butler",
-      "text": "Understood.\nPlease don't worry about us and focus on your training.",
+      "text": "Understood. Please don't worry about us \nand focus on your training.",
       "choice_data_list": []
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "I brought a new drink,\nbut...",
+      "text": "I brought a new drink, but...",
       "choice_data_list": []
     },
     {
@@ -231,17 +231,17 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "I happened to be passing by and saw you.\nI wanted to bring you a little refreshment.",
+      "text": "I happened to be passing by and saw you. I \nwanted to bring you a little refreshment.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "Mind if we train together?\nI want to get my body in shape so I can debut soon.",
+      "text": "Mind if we train together? I want to get \nmy body in shape so I can debut soon.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "(If I recall... Miracle-san was frail from birth and is currently making adjustments.)",
+      "text": "(If I recall... Miracle-san was frail from \nbirth and is currently making \nadjustments.)",
       "choice_data_list": []
     },
     {
@@ -251,12 +251,12 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "Ah, yeah.\nI'm okay now!",
+      "text": "Ah, yeah. I'm okay now!",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "It's something I was born with,\nso I'll just keep learning to manage it well.",
+      "text": "It's something I was born with, so I'll \njust keep learning to manage it well.",
       "choice_data_list": []
     },
     {
@@ -266,17 +266,17 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "Ruby is... running in the Oaks next, right?",
+      "text": "Ruby is... running in the Oaks next, \nright?",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "\"...She's giving it her all\nfor what's precious to her.\"",
+      "text": "\"...She's giving it her all for what's \nprecious to her.\"",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "I'm praying\nthat your wish comes true.",
+      "text": "I'm praying that your wish comes true.",
       "choice_data_list": []
     },
     {
@@ -286,7 +286,7 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...No.\nAll that exists there—is will.",
+      "text": "...No. All that exists there—is will.",
       "choice_data_list": []
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "Yeah.\nRight... that's it.",
+      "text": "Yeah. Right... that's it.",
       "choice_data_list": []
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "name": "Narrator",
-      "text": "The new routine for improving stamina is complete!\nIt's a masterpiece that I'm confident Daiichi Ruby will be satisfied with.",
+      "text": "The new routine for improving stamina is \ncomplete! It's a masterpiece that I'm \nconfident Daiichi Ruby will be satisfied \nwith.",
       "choice_data_list": [
         "(Ruby would probably be... at the gym!)"
       ]
@@ -325,7 +325,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Bursting with enthusiasm, I rush in and show Daiichi Ruby\nthe menu I had just put together.",
+      "text": "Bursting with enthusiasm, I rush in and \nshow Daiichi Ruby the menu I had just put \ntogether.",
       "choice_data_list": []
     },
     {
@@ -335,14 +335,14 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "\"Before that.\nIf you had attached the data via email,\nI could have reviewed it immediately.\"",
+      "text": "\"Before that. If you had attached the data \nvia email, I could have reviewed it \nimmediately.\"",
       "choice_data_list": [
         "...Ah!"
       ]
     },
     {
       "name": "K.S. Miracle",
-      "text": "Fufu... You must be truly proud of this work.",
+      "text": "Fufu... You must be truly proud of this \nwork.",
       "choice_data_list": [
         "Y-Yes..."
       ]
@@ -359,7 +359,7 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, days of trial and error\npassed by on the road to the Oaks.",
+      "text": "And so, days of trial and error passed by \non the road to the Oaks.",
       "choice_data_list": []
     }
   ]

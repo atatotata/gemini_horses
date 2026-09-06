@@ -16,7 +16,7 @@
     },
     {
       "name": "Durandal",
-      "text": "I stretch before bed, drink hot milk, and play audiobooks of chivalric tales from my phone by the pillow to ensure a natural sleep!",
+      "text": "I stretch before bed, drink hot milk, and \nplay audiobooks of chivalric tales from my \nphone by the pillow to ensure a natural \nsleep!",
       "choice_data_list": [
         "It's amazing that you're so thorough!",
         "It's amazing that you're so thorough!"
@@ -29,7 +29,7 @@
     },
     {
       "name": "Narrator",
-      "text": "\"Durandal seems to have gotten\nan ideal amount of rest!\"",
+      "text": "\"Durandal seems to have gotten an ideal \namount of rest!\"",
       "choice_data_list": []
     }
   ]

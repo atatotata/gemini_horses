@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Entering the library, I saw Sakura Laurel\nwith a French reference book open before her.",
+      "text": "Entering the library, I saw Sakura Laurel \nwith a French reference book open before \nher.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"Emprunter... It means 'to borrow'...\nReprésenter, 'to represent'...\"",
+      "text": "\"Emprunter... It means 'to borrow'... \nReprésenter, 'to represent'...\"",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"Amidonner...\nUm, what does amidonner mean...?\"",
+      "text": "\"Amidonner... Um, what does amidonner \nmean...?\"",
       "choice_data_list": []
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Umm... \"emprunter\" means\n\"to borrow\"... right.\nAnd \"représenter\" is...",
+      "text": "Umm... \"emprunter\" means \"to borrow\"... \nright. And \"représenter\" is...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems Sakura Laurel hasn't fully recovered from her race fatigue.\nWe need to reconsider our race schedule.",
+      "text": "It seems Sakura Laurel hasn't fully \nrecovered from her race fatigue. We need \nto reconsider our race schedule.",
       "choice_data_list": []
     }
   ]

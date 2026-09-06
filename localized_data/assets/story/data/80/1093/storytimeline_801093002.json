@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Hoping to design a training session utilizing the terrain for <chrname>, I was walking along the river taking notes on my phone when――",
+      "text": "Hoping to design a training session \nutilizing the terrain for <chrname>, I was walking \nalong the river taking notes on my phone \nwhen――",
       "choice_data_list": []
     },
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Startled by a giant crow that suddenly swooped in,\nI dropped my smartphone!",
+      "text": "Startled by a giant crow that suddenly \nswooped in, I dropped my smartphone!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The smartphone kept tumbling noisily across the gravel――",
+      "text": "The smartphone kept tumbling noisily \nacross the gravel――",
       "choice_data_list": [
         "(At this rate, right into the river...!)"
       ]
@@ -37,7 +37,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Like a sudden gust of wind. A shadow so fast it seemed almost an illusion darted across, diving straight into――the river!",
+      "text": "Like a sudden gust of wind. A shadow so \nfast it seemed almost an illusion darted \nacross, diving straight into――the river!",
       "choice_data_list": []
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "Ah... Thank goodness! The screen turned on properly.\nLooks like we made it in time.",
+      "text": "Ah... Thank goodness! The screen turned on \nproperly. Looks like we made it in time.",
       "choice_data_list": [
         "You're soaking wet?!",
         "Wait, you're soaking wet yourself?!"
@@ -60,32 +60,32 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "I'm sorry, with me looking like this, it's just\ngoing to end up soaking wet either way.\nI'll give it right back, right now—",
+      "text": "I'm sorry, with me looking like this, it's \njust going to end up soaking wet either \nway. I'll give it right back, right now—",
       "choice_data_list": [
         "Not like that...!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "K.S. Miracle looks utterly bewildered, but naturally, things can't be left like this...!",
+      "text": "K.S. Miracle looks utterly bewildered, but \nnaturally, things can't be left like \nthis...!",
       "choice_data_list": [
-        "I'll figure out a way to warm us up right away!",
-        "First, let's check your gait to make sure you're not injured!"
+        "I'll figure out a way to warm us up right \naway!",
+        "First, let's check your gait to make sure \nyou're not injured!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Remembering there was a cafe nearby,\nI hurried over to buy some hot drinks.",
+      "text": "Remembering there was a cafe nearby, I \nhurried over to buy some hot drinks.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "Oh... I'm so sorry you went to the trouble.",
+      "text": "Oh... I'm so sorry you went to the \ntrouble.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "Um... I don't have any money on me right now.\nWould it be okay if I ran back to the dorm to get it and pay you back?",
+      "text": "Um... I don't have any money on me right \nnow. Would it be okay if I ran back to the \ndorm to get it and pay you back?",
       "choice_data_list": [
         "You don't have to return it!"
       ]
@@ -97,22 +97,22 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "Fufu. Trainer...\nYou really are so very kind.",
+      "text": "Fufu. Trainer... You really are so very \nkind.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Are you really one to talk?\"\n...I thought from the bottom of my heart.",
+      "text": "\"Are you really one to talk?\" ...I thought \nfrom the bottom of my heart.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Are you really one to talk?\"\n...I thought from the bottom of my heart.",
+      "text": "\"Are you really one to talk?\" ...I thought \nfrom the bottom of my heart.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "――Yes, I am fine.\nNothing hurts, nor does anything feel out of place.",
+      "text": "――Yes, I am fine. Nothing hurts, nor does \nanything feel out of place.",
       "choice_data_list": [
         "Are you really okay...?",
         "Are you really sure you're okay...?"
@@ -120,22 +120,22 @@
     },
     {
       "name": "K.S. Miracle",
-      "text": "Ahaha, yes!\nI'm fine. Nothing to worry about.",
+      "text": "Ahaha, yes! I'm fine. Nothing to worry \nabout.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "These legs are my pride and joy.\n...They're mine, protected and raised by everyone.",
+      "text": "These legs are my pride and joy. \n...They're mine, protected and raised by \neveryone.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "So I'm totally fine.\nReally, I'm okay!",
+      "text": "So I'm totally fine. Really, I'm okay!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "She declared it with such straightforward conviction\nthat I found myself rendered completely speechless...",
+      "text": "She declared it with such straightforward \nconviction that I found myself rendered \ncompletely speechless...",
       "choice_data_list": []
     }
   ]

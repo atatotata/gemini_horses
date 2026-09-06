@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
-      "text": "Master, good morning.\r\nEnergy replenishment has been completed via time off.",
+      "text": "Master, good morning. Energy replenishment \nhas been completed via time off.",
       "choice_data_list": [
         "Feeling refreshed?",
         "Did you get to refresh yourself?"
@@ -11,17 +11,17 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Affirmative. Switching to sleep mode,\r\nexecuting minimal activity such as respiration and blinking.",
+      "text": "Affirmative. Switching to sleep mode, \nexecuting minimal activity such as \nrespiration and blinking.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Result: Successfully purged fatigue.\nConclusion: 'Refreshed' status achieved.",
+      "text": "Result: Successfully purged fatigue. \nConclusion: 'Refreshed' status achieved.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Switching to Active Mode complete.\r\nI look forward to working with you again starting today.",
+      "text": "Switching to Active Mode complete. I look \nforward to working with you again starting \ntoday.",
       "choice_data_list": []
     }
   ]

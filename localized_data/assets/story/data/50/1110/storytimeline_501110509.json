@@ -3,31 +3,31 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Today is supposed to be pool training, but—",
+      "text": "Today is supposed to be pool training, \nbut—",
       "choice_data_list": [
         "Um... why the track suit?"
       ]
     },
     {
       "name": "Cesario",
-      "text": "Huh...?\nAh... I wonder why...?",
+      "text": "Huh...? Ah... I wonder why...?",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "I left my things in the locker room...\nand came straight here.",
+      "text": "I left my things in the locker room... and \ncame straight here.",
       "choice_data_list": [
-        "...Change of plans. Let's stick to classroom study for today."
+        "...Change of plans. Let's stick to \nclassroom study for today."
       ]
     },
     {
       "name": "Cesario",
-      "text": "\"...Sigh.\nUnderstood.\"",
+      "text": "\"...Sigh. Understood.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Even though it's training, she lacks focus.\nPerhaps fatigue has built up from back-to-back races.\nWe might need to review her schedule.",
+      "text": "Even though it's training, she lacks \nfocus. Perhaps fatigue has built up from \nback-to-back races. We might need to \nreview her schedule.",
       "choice_data_list": []
     }
   ]

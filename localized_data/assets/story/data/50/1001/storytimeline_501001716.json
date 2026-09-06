@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "During training time, Special Week\r\napproached me with a serious expression.",
+      "text": "During training time, Special Week \napproached me with a serious expression.",
       "choice_data_list": []
     },
     {
       "name": "Special Week",
-      "text": "U-Um... Trainer...\r\nThis is... really hard to say, but...",
+      "text": "U-Um... Trainer... This is... really hard \nto say, but...",
       "choice_data_list": []
     },
     {
       "name": "Special Week",
-      "text": "Actually, I've put on some weight recently...\r\nIt's quite embarrassing...",
+      "text": "Actually, I've put on some weight \nrecently... It's quite embarrassing...",
       "choice_data_list": [
         "Then shall we do some extra training...!",
         "Then let's do some extra training...!"
@@ -26,12 +26,12 @@
     },
     {
       "name": "Special Week",
-      "text": "I'll do my best to trim down my weight!\r\nI look forward to working with you!",
+      "text": "I'll do my best to trim down my weight! I \nlook forward to working with you!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "After running for a while,\nSpecial Week successfully managed to lose weight.",
+      "text": "After running for a while, Special Week \nsuccessfully managed to lose weight.",
       "choice_data_list": []
     }
   ]

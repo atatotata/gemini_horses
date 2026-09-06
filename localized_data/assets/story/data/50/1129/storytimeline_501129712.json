@@ -8,16 +8,16 @@
     },
     {
       "name": "Narrator",
-      "text": "\"That day, Almond Eye didn't show up for training.\n...Apparently, she got completely caught up in a street race.\"",
+      "text": "\"That day, Almond Eye didn't show up for \ntraining. ...Apparently, she got \ncompletely caught up in a street race.\"",
       "choice_data_list": [
-        "As long as you've learned from it, that's fine. Just make up for it tomorrow."
+        "As long as you've learned from it, that's \nfine. Just make up for it tomorrow."
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "No, not tomorrow—I'll do it right now.\nWait for me, I'll get ready right—",
+      "text": "No, not tomorrow—I'll do it right now. \nWait for me, I'll get ready right—",
       "choice_data_list": [
-        "What you need to do right now is get rid of that fatigue."
+        "What you need to do right now is get rid \nof that fatigue."
       ]
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Almond Eye",
-      "text": "...No, you're right. That's exactly it.\nI'm truly sorry, Trainer.",
+      "text": "...No, you're right. That's exactly it. \nI'm truly sorry, Trainer.",
       "choice_data_list": []
     }
   ]

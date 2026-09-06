@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Just as lunch break was ending,\r\nI bumped right into Fuji Kiseki coming out of the infirmary.",
+      "text": "Just as lunch break was ending, I bumped \nright into Fuji Kiseki coming out of the \ninfirmary.",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ah... Trainer-san.\r\nWhat a coincidence...!",
+      "text": "Ah... Trainer-san. What a coincidence...!",
       "choice_data_list": [
-        "Did you need something in the nurse's office?",
-        "Did you have some business in the nurse's office?"
+        "Did you need something in the nurse's \noffice?",
+        "Did you have some business in the nurse's \noffice?"
       ]
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"...R-Really!\nIt's not anything important...!\"",
+      "text": "\"...R-Really! It's not anything \nimportant...!\"",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Nnnngh...\r\nI-I'm totally fine...!",
+      "text": "Nnnngh... I-I'm totally fine...!",
       "choice_data_list": []
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "name": "",
-      "text": "A pill dropped out of Fuji Kiseki's pocket...",
+      "text": "A pill dropped out of Fuji Kiseki's \npocket...",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "It's just a little headache...!\r\nI'll be fine once I take some medicine...!",
+      "text": "It's just a little headache...! I'll be \nfine once I take some medicine...!",
       "choice_data_list": []
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "",
-      "text": "Though she tried desperately to hide it, Fuji Kiseki seems to be suffering from a terrible headache.",
+      "text": "Though she tried desperately to hide it, \nFuji Kiseki seems to be suffering from a \nterrible headache.",
       "choice_data_list": []
     }
   ]

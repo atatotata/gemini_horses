@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One morning, while walking down the hallway—",
+      "text": "One morning, while walking down the \nhallway—",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "Chiyo, thanks for the English textbook. You saved me.\nOver नारे sleeping is definitely bad, I always end up forgetting stuff.",
+      "text": "Chiyo, thanks for the English textbook. \nYou saved me. Over नारे sleeping is \ndefinitely bad, I always end up forgetting \nstuff.",
       "choice_data_list": []
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "Gold City",
-      "text": "\"No, I definitely feel like I'm the one causing trouble.\nI borrowed some just the other day, too.\"",
+      "text": "\"No, I definitely feel like I'm the one \ncausing trouble. I borrowed some just the \nother day, too.\"",
       "choice_data_list": []
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Next up is moving, right...\nPhew... Well then.",
+      "text": "Next up is moving, right... Phew... Well \nthen.",
       "choice_data_list": []
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "…………\nMmm...",
+      "text": "………… Mmm...",
       "choice_data_list": [
         "What's the matter?",
         "What's wrong?"
@@ -46,61 +46,61 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Kya!?\nWait, Trainer! It's just you!",
+      "text": "Kya!? Wait, Trainer! It's just you!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "No, um... City-san, you\nwork as a model, right?",
+      "text": "No, um... City-san, you work as a model, \nright?",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "So apparently, she wasn't a morning person to begin with because of how busy she is, but...",
+      "text": "So apparently, she wasn't a morning person \nto begin with because of how busy she is, \nbut...",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "I feel like you've been especially tired lately.\nI was just getting a little worried about you~",
+      "text": "I feel like you've been especially tired \nlately. I was just getting a little \nworried about you~",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "If only there was something I could do to help...",
+      "text": "If only there was something I could do to \nhelp...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Even so, if it's work-related, it doesn't seem like there's anything I can help with.\nIf there's anything I can do—",
+      "text": "Even so, if it's work-related, it doesn't \nseem like there's anything I can help \nwith. If there's anything I can do—",
       "choice_data_list": [
-        "How about giving them a gift that'll cheer them up?"
+        "How about giving them a gift that'll cheer \nthem up?"
       ]
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "A gift...!\nI see, a gift, a gift...",
+      "text": "A gift...! I see, a gift, a gift...",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Oh, I know! Just the other day, I saw some clothes\nthat'll totally get you hyped up and looking great!",
+      "text": "Oh, I know! Just the other day, I saw some \nclothes that'll totally get you hyped up \nand looking great!",
       "choice_data_list": [
         "(Hype-tastic and A-OK... ?)"
       ]
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "A dress that's perfect for dancing,\r\nand a mature, smart-looking suit, too!",
+      "text": "A dress that's perfect for dancing, and a \nmature, smart-looking suit, too!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "I don't think I could pull off either of them right now,\r\nbut since you're a model too, City-san, I'm sure\nyou'd look super cool in them!",
+      "text": "I don't think I could pull off either of \nthem right now, but since you're a model \ntoo, City-san, I'm sure you'd look super \ncool in them!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I appreciate your passion...\nbut it wouldn't be good to spend too much.\nPerhaps we should narrow it down to one.",
+      "text": "I appreciate your passion... but it \nwouldn't be good to spend too much. \nPerhaps we should narrow it down to one.",
       "choice_data_list": [
         "A dress perfect for dancing",
         "A mature and intellectual suit."
@@ -113,22 +113,22 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Ah, right!\nGetting a bunch of gifts out of nowhere when it's not even your birthday\nwould definitely be startling. Ahaha.",
+      "text": "Ah, right! Getting a bunch of gifts out of \nnowhere when it's not even your birthday \nwould definitely be startling. Ahaha.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Understood!\nI'll give it to them tomorrow right away!",
+      "text": "Understood! I'll give it to them tomorrow \nright away!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, the following day.\nI happened to run into Sakura Chiyono O\njust as she was handing over her present.",
+      "text": "And so, the following day. I happened to \nrun into Sakura Chiyono O just as she was \nhanding over her present.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "I see. I made you worry, didn't I?\n...Thanks. Can I open it?",
+      "text": "I see. I made you worry, didn't I? \n...Thanks. Can I open it?",
       "choice_data_list": []
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Yes! These are the clothes\na senior I really look up to told me about!",
+      "text": "Yes! These are the clothes a senior I \nreally look up to told me about!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "It's perfect for dancing! Wearing this\r\ngets me super hyped up~!",
+      "text": "It's perfect for dancing! Wearing this \ngets me super hyped up~!",
       "choice_data_list": []
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Fufu, ahaha...! \nI see, thank you. ...I feel a lot better now.",
+      "text": "Fufu, ahaha...! I see, thank you. ...I \nfeel a lot better now.",
       "choice_data_list": []
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Afterward, I spotted Sakura Chiyono O\nreporting how things turned out to the senior she looked up to—Maruzensky.",
+      "text": "Afterward, I spotted Sakura Chiyono O \nreporting how things turned out to the \nsenior she looked up to—Maruzensky.",
       "choice_data_list": []
     },
     {
@@ -188,12 +188,12 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "That's true! Anyone would be surprised to suddenly get a bunch of gifts when it isn't even their birthday!",
+      "text": "That's true! Anyone would be surprised to \nsuddenly get a bunch of gifts when it \nisn't even their birthday!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "All right, in that case, I'll go out and buy it\ntoday right away!",
+      "text": "All right, in that case, I'll go out and \nbuy it today right away!",
       "choice_data_list": []
     },
     {
@@ -203,7 +203,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Chiyo, I received the gift and the letter you hung on my doorknob.",
+      "text": "Chiyo, I received the gift and the letter \nyou hung on my doorknob.",
       "choice_data_list": []
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Sorry for making you worry.\r\nThank you. So—",
+      "text": "Sorry for making you worry. Thank you. So—",
       "choice_data_list": []
     },
     {
@@ -228,32 +228,32 @@
     },
     {
       "name": "Gold City",
-      "text": "No, sorry, sorry.\nIt just felt so wonderfully 'Chiyo'.",
+      "text": "No, sorry, sorry. It just felt so \nwonderfully 'Chiyo'.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "It's a jacket with shoulder pads, right? I'm so happy.\nIt cheered me right up. The matcha color is super cute too.",
+      "text": "It's a jacket with shoulder pads, right? \nI'm so happy. It cheered me right up. The \nmatcha color is super cute too.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Yay, I'm so glad! Right? My senpai told me\nthat matcha color is all the trend right now!",
+      "text": "Yay, I'm so glad! Right? My senpai told me \nthat matcha color is all the trend right \nnow!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "My senpai told me that suit is super hyped and totally rad, meant to be worn when it really counts!",
+      "text": "My senpai told me that suit is super hyped \nand totally rad, meant to be worn when it \nreally counts!",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "I see. In that case, maybe I'll\nwear it for my next interview or something.",
+      "text": "I see. In that case, maybe I'll wear it \nfor my next interview or something.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "The following month, Gold City appeared on TV\nin a nostalgic suit with shoulder pads,\nbecoming a brief sensation.",
+      "text": "The following month, Gold City appeared on \nTV in a nostalgic suit with shoulder pads, \nbecoming a brief sensation.",
       "choice_data_list": []
     }
   ]

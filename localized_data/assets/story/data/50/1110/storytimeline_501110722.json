@@ -3,9 +3,9 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Now that we've finished everything on today's schedule,\nI call out to Cesario.",
+      "text": "Now that we've finished everything on \ntoday's schedule, I call out to Cesario.",
       "choice_data_list": [
-        "Good work. Shall we wrap things up for today?"
+        "Good work. Shall we wrap things up for \ntoday?"
       ]
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "name": "Cesario",
-      "text": "No... I'm merely enduring\na headache—",
+      "text": "No... I'm merely enduring a headache—",
       "choice_data_list": []
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "name": "Cesario",
-      "text": "...I am sorry.\nI will just head home for today...",
+      "text": "...I am sorry. I will just head home for \ntoday...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Cesario seems to be troubled by a headache.",
+      "text": "Cesario seems to be troubled by a \nheadache.",
       "choice_data_list": []
     }
   ]

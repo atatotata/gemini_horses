@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day, I spotted Gran Alegria looking\nunusually downcast.",
+      "text": "One day, I spotted Gran Alegria looking \nunusually downcast.",
       "choice_data_list": [
         "W-What's wrong?",
         "W-What's wrong?"
@@ -11,22 +11,22 @@
     },
     {
       "name": "Gran Alegria",
-      "text": "...Ahaha. My family invited me\non a trip, but—",
+      "text": "...Ahaha. My family invited me on a trip, \nbut—",
       "choice_data_list": []
     },
     {
       "name": "Gran Alegria",
-      "text": "Ah... That won't work. On that day,\nmy schedule is...",
+      "text": "Ah... That won't work. On that day, my \nschedule is...",
       "choice_data_list": []
     },
     {
       "name": "Gran Alegria",
-      "text": "Yeah... Yeah! Have fun!\nI'll be looking forward to souvenirs!",
+      "text": "Yeah... Yeah! Have fun! I'll be looking \nforward to souvenirs!",
       "choice_data_list": []
     },
     {
       "name": "Gran Alegria",
-      "text": "...Aaargh! If only I went, that's 600 miles!\nThink of how many miles I could've saved up...!",
+      "text": "...Aaargh! If only I went, that's 600 \nmiles! Think of how many miles I could've \nsaved up...!",
       "choice_data_list": []
     }
   ]

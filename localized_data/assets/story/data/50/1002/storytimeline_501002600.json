@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "When I visited the waiting room before the race,\r\nSilence Suzuka was nowhere to be seen.",
+      "text": "When I visited the waiting room before the \nrace, Silence Suzuka was nowhere to be \nseen.",
       "choice_data_list": []
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "My legs were itching to run.\r\nSo around the venue...",
+      "text": "My legs were itching to run. So around the \nvenue...",
       "choice_data_list": []
     },
     {
@@ -31,12 +31,12 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Only looking at the very front... running with everything I have to the end.",
+      "text": "Only looking at the very front... running \nwith everything I have to the end.",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "I won't surrender the view from the front to anyone.",
+      "text": "I won't surrender the view from the front \nto anyone.",
       "choice_data_list": []
     }
   ]

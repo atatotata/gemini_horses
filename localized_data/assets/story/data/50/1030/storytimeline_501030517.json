@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "On a rainy day, as I was walking down the hallway—",
+      "text": "On a rainy day, as I was walking down the \nhallway—",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "I slipped on a wet patch\r\nand stumbled.",
+      "text": "I slipped on a wet patch and stumbled.",
       "choice_data_list": []
     },
     {
       "name": "Rice Shower",
-      "text": "Big Brother, are you okay?!\r\nAah... Rice really is...",
+      "text": "Big Brother, are you okay?! Aah... Rice \nreally is...",
       "choice_data_list": [
         "What's wrong?",
         "What's wrong?"
@@ -21,7 +21,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Big Sister, are you okay!?\r\nAaah... Rice really is just...",
+      "text": "Big Sister, are you okay!? Aaah... Rice \nreally is just...",
       "choice_data_list": [
         "What's wrong?",
         "What's wrong?"
@@ -29,12 +29,12 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Rice cleaned the hallway today...\nAnd because of that, Big Brother was in danger... Uuu...",
+      "text": "Rice cleaned the hallway today... And \nbecause of that, Big Brother was in \ndanger... Uuu...",
       "choice_data_list": []
     },
     {
       "name": "Rice Shower",
-      "text": "Rice cleaned the hallway today...\nAnd because of that, Big Sister was in danger... Uuu...",
+      "text": "Rice cleaned the hallway today... And \nbecause of that, Big Sister was in \ndanger... Uuu...",
       "choice_data_list": []
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "",
-      "text": "It seems Rice Shower has gotten discouraged.",
+      "text": "It seems Rice Shower has gotten \ndiscouraged.",
       "choice_data_list": []
     }
   ]

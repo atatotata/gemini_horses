@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Before starting training, I talked to Fine Motion about today's menu, but...",
+      "text": "Before starting training, I talked to Fine \nMotion about today's menu, but...",
       "choice_data_list": []
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Got it!\r\nLet's go with a different menu today♪",
+      "text": "Got it! Let's go with a different menu \ntoday♪",
       "choice_data_list": [
         "Huh?"
       ]
@@ -27,19 +27,19 @@
     },
     {
       "name": "Fine Motion",
-      "text": "\"Because it looks like it'll be way more fun that way!\r\nYou can make the adjustments, right?\"",
+      "text": "\"Because it looks like it'll be way more \nfun that way! You can make the \nadjustments, right?\"",
       "choice_data_list": []
     },
     {
       "name": "Fine Motion",
-      "text": "I've already got an idea♪\r\nWell then, let's get started right away!",
+      "text": "I've already got an idea♪ Well then, let's \nget started right away!",
       "choice_data_list": [
         "No, but..."
       ]
     },
     {
       "name": "Fine Motion",
-      "text": "Um, if I remember correctly, when making a wish...",
+      "text": "Um, if I remember correctly, when making a \nwish...",
       "choice_data_list": []
     },
     {
@@ -51,17 +51,17 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Hm? Just one more push, perhaps?\r\nLet's try a slightly different approach then...",
+      "text": "Hm? Just one more push, perhaps? Let's try \na slightly different approach then...",
       "choice_data_list": []
     },
     {
       "name": "Fine Motion",
-      "text": "*Ahem!* You there...\nAre you saying you refuse to grant my request?!",
+      "text": "*Ahem!* You there... Are you saying you \nrefuse to grant my request?!",
       "choice_data_list": []
     },
     {
       "name": "Fine Motion",
-      "text": "If you don't listen to me, I'm gonna sulk! Hmph!\r\n",
+      "text": "If you don't listen to me, I'm gonna sulk! \nHmph!",
       "choice_data_list": []
     },
     {
@@ -73,12 +73,12 @@
     },
     {
       "name": "Fine Motion",
-      "text": "Yay~!\r\nAlright, let's go!",
+      "text": "Yay~! Alright, let's go!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "And so,\r\nI ended up going with the menu\nFine Motion selected.",
+      "text": "And so, I ended up going with the menu \nFine Motion selected.",
       "choice_data_list": []
     }
   ]

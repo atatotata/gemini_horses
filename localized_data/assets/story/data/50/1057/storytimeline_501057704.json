@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Passing by the movie theater inside the shopping complex, I ran into Maruzensky.",
+      "text": "Passing by the movie theater inside the \nshopping complex, I ran into Maruzensky.",
       "choice_data_list": []
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Yes. I'm going to watch a super trendy\nlove story right now♪",
+      "text": "Yes. I'm going to watch a super trendy \nlove story right now♪",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "It's a story about an ordinary boy and a high-born lady who fall in love\nand elope together.\nYou really can't beat the classics, can you?♪",
+      "text": "It's a story about an ordinary boy and a \nhigh-born lady who fall in love and elope \ntogether. You really can't beat the \nclassics, can you?♪",
       "choice_data_list": []
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Mr. C.B. showed a surprising amount of interest.\nSo, the three of us decided\nto watch it together—",
+      "text": "Mr. C.B. showed a surprising amount of \ninterest. So, the three of us decided to \nwatch it together—",
       "choice_data_list": []
     },
     {
@@ -46,24 +46,24 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Yeah! It was fun!\nMaybe I'll recommend it to my parents sometime.",
+      "text": "Yeah! It was fun! Maybe I'll recommend it \nto my parents sometime.",
       "choice_data_list": [
         "Why not give them a movie gift card?"
       ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "Oh, nice! Maybe I'll make that my souvenir this time.\n",
+      "text": "Oh, nice! Maybe I'll make that my souvenir \nthis time.",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "Fufu... Casting aside all obligations to choose love.\nIt really is the kind of situation one dreams of.",
+      "text": "Fufu... Casting aside all obligations to \nchoose love. It really is the kind of \nsituation one dreams of.",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "...Still, it kinda makes you think.\nDo you think those two were able to find happiness after that?",
+      "text": "...Still, it kinda makes you think. Do you \nthink those two were able to find \nhappiness after that?",
       "choice_data_list": []
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Because the people closest to me\nhave found happiness, you see.",
+      "text": "Because the people closest to me have \nfound happiness, you see.",
       "choice_data_list": []
     },
     {
@@ -85,77 +85,77 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Ufufu, what a wonderful story♪\nAnd they're still head over heels for each other even now, aren't they?",
+      "text": "Ufufu, what a wonderful story♪ And they're \nstill head over heels for each other even \nnow, aren't they?",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "However... not everyone can walk\nthe same path, can they?",
+      "text": "However... not everyone can walk the same \npath, can they?",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "I'm sure every couple is happy the moment they elope. But—",
+      "text": "I'm sure every couple is happy the moment \nthey elope. But—",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "Passion always cools down eventually.\nThings like money, or each other's flaws...\nThe reality of it all starts creeping in—",
+      "text": "Passion always cools down eventually. \nThings like money, or each other's \nflaws... The reality of it all starts \ncreeping in—",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "—Ah! My bad, my bad!\nWe just watched such a wonderful story,\nso getting into serious talk is a liiittle uncalled for, huh?",
+      "text": "—Ah! My bad, my bad! We just watched such \na wonderful story, so getting into serious \ntalk is a liiittle uncalled for, huh?",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Ahaha. But still,\nI think it's only natural that things take hard work.",
+      "text": "Ahaha. But still, I think it's only \nnatural that things take hard work.",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "\"...I wonder if your parents also overcame a story full of ups and downs together?\"",
+      "text": "\"...I wonder if your parents also overcame \na story full of ups and downs together?\"",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Yeah. —I actually asked once.\nWhen it was just me and Mom together.",
+      "text": "Yeah. —I actually asked once. When it was \njust me and Mom together.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Hey, Mom.\nWhen you eloped with Dad—\nwas there ever a time you felt it was tough?",
+      "text": "Hey, Mom. When you eloped with Dad— was \nthere ever a time you felt it was tough?",
       "choice_data_list": []
     },
     {
       "name": "C.B.'s Mother",
-      "text": "Ahaha, of course. My mom and dad went\nthrough continuous hardships, and they were even\ncut off from their families back home.",
+      "text": "Ahaha, of course. My mom and dad went \nthrough continuous hardships, and they \nwere even cut off from their families back \nhome.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "…………\nThen, have you ever had any regrets?",
+      "text": "………… Then, have you ever had any regrets?",
       "choice_data_list": []
     },
     {
       "name": "C.B.'s Mother",
-      "text": "\"...I don't think so. Because it was a path I freely chose in the truest sense.\"",
+      "text": "\"...I don't think so. Because it was a \npath I freely chose in the truest sense.\"",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "In the truest sense? What do you mean by that?",
+      "text": "In the truest sense? What do you mean by \nthat?",
       "choice_data_list": []
     },
     {
       "name": "C.B.'s Mother",
-      "text": "Bound by nothing, making no compromises.\nShe chose what her heart truly desired most\n—that is what it means.",
+      "text": "Bound by nothing, making no compromises. \nShe chose what her heart truly desired \nmost —that is what it means.",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "—Maybe whether you have regrets or not just comes down to whether you can pursue the answer you truly desire to the very end.",
+      "text": "—Maybe whether you have regrets or not \njust comes down to whether you can pursue \nthe answer you truly desire to the very \nend.",
       "choice_data_list": []
     },
     {
@@ -168,49 +168,49 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Ahaha! Of course!\nHow could I not be happy?",
+      "text": "Ahaha! Of course! How could I not be \nhappy?",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Choosing to run. Coming to this academy.\nAnd choosing you as my Trainer.",
+      "text": "Choosing to run. Coming to this academy. \nAnd choosing you as my Trainer.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "It's everything I ever wanted.\nI just followed my heart and chose without hesitation, after all.",
+      "text": "It's everything I ever wanted. I just \nfollowed my heart and chose without \nhesitation, after all.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "I've stayed true to real freedom all along.\nThere's no way I have any regrets.",
+      "text": "I've stayed true to real freedom all \nalong. There's no way I have any regrets.",
       "choice_data_list": [
         "I'd love to stay free from now on too.",
-        "We should both keep being free from now on.",
-        "So it's about whether you can always follow your heart, huh?",
-        "So it's about whether you can always follow your heart, I suppose?",
+        "We should both keep being free from now \non.",
+        "So it's about whether you can always \nfollow your heart, huh?",
+        "So it's about whether you can always \nfollow your heart, I suppose?",
         "I'd love to hear more about your parents."
       ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "I've stayed true to real freedom all along.\nThere's no way I have any regrets.",
+      "text": "I've stayed true to real freedom all \nalong. There's no way I have any regrets.",
       "choice_data_list": [
         "I'd love to stay free from now on too.",
-        "We should both keep being free from now on.",
-        "So it's about whether you can always follow your heart, huh?",
-        "So it's about whether you can always follow your heart, I suppose?",
+        "We should both keep being free from now \non.",
+        "So it's about whether you can always \nfollow your heart, huh?",
+        "So it's about whether you can always \nfollow your heart, I suppose?",
         "I'd love to hear more about your parents."
       ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "Yeah. But we shouldn't have to worry for a while.",
+      "text": "Yeah. But we shouldn't have to worry for a \nwhile.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Because my heart yearns\nto keep running on and on.",
+      "text": "Because my heart yearns to keep running on \nand on.",
       "choice_data_list": [
         "My heart wishes to keep supporting you.",
         "My heart wishes to keep supporting you."
@@ -223,17 +223,17 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "What lies beyond the pursuit of absolute freedom?\n—Shall the two of us go find out?",
+      "text": "What lies beyond the pursuit of absolute \nfreedom? —Shall the two of us go find out?",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "Hmm. That's a bit tough. Sometimes you can't even figure out your own heart or what you really want, you know?",
+      "text": "Hmm. That's a bit tough. Sometimes you \ncan't even figure out your own heart or \nwhat you really want, you know?",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Really? I, for one,\nfeel totally clearheaded right now.",
+      "text": "Really? I, for one, feel totally \nclearheaded right now.",
       "choice_data_list": [
         "So, what do you want to do right now?",
         "So, what do you want to do right now?"
@@ -241,32 +241,32 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "You want to chat more and play together with all three of us, right?\nIs that all right?",
+      "text": "You want to chat more and play together \nwith all three of us, right? Is that all \nright?",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "Ahaha! Abso-lutely♪\nBring it on!",
+      "text": "Ahaha! Abso-lutely♪ Bring it on!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"And so, the three of us enjoyed walking around and sharing a meal while talking about our thoughts on the movie.\"",
+      "text": "\"And so, the three of us enjoyed walking \naround and sharing a meal while talking \nabout our thoughts on the movie.\"",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "Ah! I want to hear that too!\nIs it okay, CB-chan?",
+      "text": "Ah! I want to hear that too! Is it okay, \nCB-chan?",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "Yeah, of course!\nI'll give you plenty to listen to.",
+      "text": "Yeah, of course! I'll give you plenty to \nlisten to.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "A story of those who chose freedom—and remained happy no matter what happened.",
+      "text": "A story of those who chose freedom—and \nremained happy no matter what happened.",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After the race, just as I was about to enter the waiting room—",
+      "text": "After the race, just as I was about to \nenter the waiting room—",
       "choice_data_list": []
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...Gaze straight ahead.\nStand with your back straight.",
+      "text": "...Gaze straight ahead. Stand with your \nback straight.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "If you wish to accomplish something, always maintain a majestic demeanor. Carry yourself in a manner worthy of what you aspire to.",
+      "text": "If you wish to accomplish something, \nalways maintain a majestic demeanor. Carry \nyourself in a manner worthy of what you \naspire to.",
       "choice_data_list": []
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "name": "Narrator",
-      "text": "...Let's give it some time and come back later.",
+      "text": "...Let's give it some time and come back \nlater.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Trainer.\nDo you have a moment to discuss\nthe training menu starting tomorrow?",
+      "text": "Trainer. Do you have a moment to discuss \nthe training menu starting tomorrow?",
       "choice_data_list": [
         "Let's take things slow.",
         "Let's talk about our next race right away."
@@ -41,22 +41,22 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "No, we must produce results\nas expeditiously as possible.",
+      "text": "No, we must produce results as \nexpeditiously as possible.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Please guide and discipline me with that in mind.\nI look forward to working with you.",
+      "text": "Please guide and discipline me with that \nin mind. I look forward to working with \nyou.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I was hoping to discuss the details of our training\nbased on that exact point as well.",
+      "text": "I was hoping to discuss the details of our \ntraining based on that exact point as \nwell.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Today's data is already prepared.\nLet us begin right away.",
+      "text": "Today's data is already prepared. Let us \nbegin right away.",
       "choice_data_list": []
     }
   ]

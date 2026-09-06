@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "While looking for Mejiro McQueen, who didn't show up for training...",
+      "text": "While looking for Mejiro McQueen, who \ndidn't show up for training...",
       "choice_data_list": []
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Megaphones ready! ...Off to the stadium we go!",
+      "text": "Megaphones ready! ...Off to the stadium we \ngo!",
       "choice_data_list": [
         "Found it!"
       ]
@@ -20,10 +20,10 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "\"*Ahem*... What is the meaning of this so suddenly?\r\nI have somewhere I need to be, you see...\"",
+      "text": "\"*Ahem*... What is the meaning of this so \nsuddenly? I have somewhere I need to be, \nyou see...\"",
       "choice_data_list": [
-        "You haven't forgotten about training, have you?",
-        "You haven't forgotten about training, have you?"
+        "You haven't forgotten about training, have \nyou?",
+        "You haven't forgotten about training, have \nyou?"
       ]
     },
     {
@@ -33,14 +33,14 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Awawa... H-How could I let this happen!\nI got so caught up thinking about the consecutive hit record...",
+      "text": "Awawa... H-How could I let this happen! I \ngot so caught up thinking about the \nconsecutive hit record...",
       "choice_data_list": [
         "Consecutive hit streak...?"
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Ah... I-It's nothing at all!\r\nMy sincerest apologies...",
+      "text": "Ah... I-It's nothing at all! My sincerest \napologies...",
       "choice_data_list": [
         "Let's be careful next time.",
         "Let's make sure to be careful next time."
@@ -48,7 +48,7 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes... I will discipline myself once more.\r\nAnd I shall certainly make up for this blunder!",
+      "text": "Yes... I will discipline myself once more. \nAnd I shall certainly make up for this \nblunder!",
       "choice_data_list": []
     }
   ]

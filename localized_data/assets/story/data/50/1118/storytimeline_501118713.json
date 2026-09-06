@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I brought the injured Admire Groove to the infirmary.",
+      "text": "I brought the injured Admire Groove to the \ninfirmary.",
       "choice_data_list": []
     },
     {
@@ -13,37 +13,37 @@
     },
     {
       "name": "Admire Groove",
-      "text": "\"An injury like this...\nMaking a big deal out of it is more of a burden, honestly...\"",
+      "text": "\"An injury like this... Making a big deal \nout of it is more of a burden, \nhonestly...\"",
       "choice_data_list": [
         "Still, I'm worried, so..."
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "...... I can treat this myself,\nso there's no need to intervene.",
+      "text": "...... I can treat this myself, so there's \nno need to intervene.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "...Once that's taken care of,\nlet's continue our training.",
+      "text": "...Once that's taken care of, let's \ncontinue our training.",
       "choice_data_list": [
-        "Just to be safe, let's take a rest for now.",
+        "Just to be safe, let's take a rest for \nnow.",
         "Yeah, as long as it's treated properly.",
-        "Yeah, once it's been properly treated, that is."
+        "Yeah, once it's been properly treated, \nthat is."
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "...Once that's taken care of,\nlet's continue our training.",
+      "text": "...Once that's taken care of, let's \ncontinue our training.",
       "choice_data_list": [
-        "Just to be safe, let's take a rest for now.",
+        "Just to be safe, let's take a rest for \nnow.",
         "Yeah, as long as it's treated properly.",
-        "Yeah, once it's been properly treated, that is."
+        "Yeah, once it's been properly treated, \nthat is."
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "I know myself best...! Trainer, you're not a stranger, are you—",
+      "text": "I know myself best...! Trainer, you're not \na stranger, are you—",
       "choice_data_list": [
         "Even so, you're still my trainee.",
         "Even so, you're still my trainee."
@@ -56,22 +56,22 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...Understood.\nIf that's how it is, I have no objections.",
+      "text": "...Understood. If that's how it is, I have \nno objections.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "...I didn't mean to cause you trouble or anything.",
+      "text": "...I didn't mean to cause you trouble or \nanything.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "Please get back to your work.\nI'm going to... sleep for a bit.",
+      "text": "Please get back to your work. I'm going \nto... sleep for a bit.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Worried about her injury,\nI decided to leave Admire Groove in peace.",
+      "text": "Worried about her injury, I decided to \nleave Admire Groove in peace.",
       "choice_data_list": []
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "(This is strange...\nI should have treated it thoroughly...)",
+      "text": "(This is strange... I should have treated \nit thoroughly...)",
       "choice_data_list": [
         "On second thought, let's not."
       ]
@@ -98,7 +98,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "\"For the next training session,\nplease make it an intense one to make up for today.\"",
+      "text": "\"For the next training session, please \nmake it an intense one to make up for \ntoday.\"",
       "choice_data_list": []
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...As long as I don't move it excessively.\nWell then, I'm off.",
+      "text": "...As long as I don't move it excessively. \nWell then, I'm off.",
       "choice_data_list": []
     }
   ]

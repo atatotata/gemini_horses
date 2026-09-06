@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Neo Universe",
-      "text": "\"This 'bookstore' has an 'extensive' collection of 'specialized books'...\nThen surely, 'Fundamentals of Aerospace Engineering & Orbital Design' should also—\"",
+      "text": "\"This 'bookstore' has an 'extensive' \ncollection of 'specialized books'... Then \nsurely, 'Fundamentals of Aerospace \nEngineering & Orbital Design' should \nalso—\"",
       "choice_data_list": []
     },
     {
       "name": "Clerk",
-      "text": "I am so sorry, that book is currently out of stock.\nIt's out of print, so we're unable to backorder it either—",
+      "text": "I am so sorry, that book is currently out \nof stock. It's out of print, so we're \nunable to backorder it either—",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Narrator",
-      "text": "The book she wanted was out of print,\nleaving Neo Universe feeling disheartened...",
+      "text": "The book she wanted was out of print, \nleaving Neo Universe feeling \ndisheartened...",
       "choice_data_list": []
     }
   ]

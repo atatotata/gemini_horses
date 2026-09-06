@@ -3,24 +3,24 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I rushed an injured Win Variation\nto the nurse's office.",
+      "text": "I rushed an injured Win Variation to the \nnurse's office.",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "I'm sorry... Getting injured like this...\nI just wasn't focused enough...!",
+      "text": "I'm sorry... Getting injured like this... \nI just wasn't focused enough...!",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
       "text": "Seriously, it's so pathetic...",
       "choice_data_list": [
-        "Let's rest up properly and heal that injury."
+        "Let's rest up properly and heal that \ninjury."
       ]
     },
     {
       "name": "Win Variation",
-      "text": "...!\nTrainer, I have a favor to ask.",
+      "text": "...! Trainer, I have a favor to ask.",
       "choice_data_list": []
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Everyone with real talent is training so hard...\nIf I'm the only one resting, I'll never catch up.\nTo catch up, I have to do whatever I can...!",
+      "text": "Everyone with real talent is training so \nhard... If I'm the only one resting, I'll \nnever catch up. To catch up, I have to do \nwhatever I can...!",
       "choice_data_list": []
     },
     {
@@ -40,40 +40,40 @@
     },
     {
       "name": "Win Variation",
-      "text": "I'll pay utmost attention to avoid injuries!\n...So please!",
+      "text": "I'll pay utmost attention to avoid \ninjuries! ...So please!",
       "choice_data_list": [
-        "Don't rush, let's aim for a full recovery first.",
-        "...If I judge that it's even slightly dangerous, I'm putting a stop to it.",
-        "...If I judge that it's even slightly dangerous, I'll stop you."
+        "Don't rush, let's aim for a full recovery \nfirst.",
+        "...If I judge that it's even slightly \ndangerous, I'm putting a stop to it.",
+        "...If I judge that it's even slightly \ndangerous, I'll stop you."
       ]
     },
     {
       "name": "Win Variation",
-      "text": "I'll pay utmost attention to avoid injuries!\n...So please!",
+      "text": "I'll pay utmost attention to avoid \ninjuries! ...So please!",
       "choice_data_list": [
-        "Don't rush, let's aim for a full recovery first.",
-        "...If I judge that it's even slightly dangerous, I'm putting a stop to it.",
-        "...If I judge that it's even slightly dangerous, I'll stop you."
+        "Don't rush, let's aim for a full recovery \nfirst.",
+        "...If I judge that it's even slightly \ndangerous, I'm putting a stop to it.",
+        "...If I judge that it's even slightly \ndangerous, I'll stop you."
       ]
     },
     {
       "name": "Win Variation",
-      "text": "B-But!\nWhile we're doing this, everyone else is...!",
+      "text": "B-But! While we're doing this, everyone \nelse is...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Her strong desire to defeat her rivals is driving her impatience. But if her injury worsens, the setback will only be greater.",
+      "text": "Her strong desire to defeat her rivals is \ndriving her impatience. But if her injury \nworsens, the setback will only be greater.",
       "choice_data_list": [
-        "It's okay. Even if you rest a little, you can definitely make up for it."
+        "It's okay. Even if you rest a little, you \ncan definitely make up for it."
       ]
     },
     {
       "name": "Win Variation",
-      "text": "...How can you say that with such certainty?",
+      "text": "...How can you say that with such \ncertainty?",
       "choice_data_list": [
-        "Because you're an Umamusume who works harder than anyone else.",
-        "Because you're an Umamusume who works harder than anyone else."
+        "Because you're an Umamusume who works \nharder than anyone else.",
+        "Because you're an Umamusume who works \nharder than anyone else."
       ]
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "name": "Win Variation",
-      "text": "Understood.\nI'll trust your words... and rest for now, Trainer.",
+      "text": "Understood. I'll trust your words... and \nrest for now, Trainer.",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "Yes!\nI'll give it a shot, without overdoing it!",
+      "text": "Yes! I'll give it a shot, without \noverdoing it!",
       "choice_data_list": []
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Ngh, ...To think I couldn't even\njudge the severity of my injury...",
+      "text": "Ngh, ...To think I couldn't even judge the \nseverity of my injury...",
       "choice_data_list": []
     },
     {
@@ -110,12 +110,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Win Variation's injury has become even more severe.\nShe had to spend her time resting until it was fully healed...",
+      "text": "Win Variation's injury has become even \nmore severe. She had to spend her time \nresting until it was fully healed...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "Haa, hah...\nAlright...!",
+      "text": "Haa, hah... Alright...!",
       "choice_data_list": [
         "A workload like this looks manageable.",
         "A workload like this looks manageable."
@@ -123,17 +123,17 @@
     },
     {
       "name": "Win Variation",
-      "text": "Yes, no pain or discomfort at all!\n...Thank goodness...!",
+      "text": "Yes, no pain or discomfort at all! \n...Thank goodness...!",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "\"I'll aim for a full recovery just like this.\nStep by step, carefully...!\"",
+      "text": "\"I'll aim for a full recovery just like \nthis. Step by step, carefully...!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "By steadily putting in effort without overdoing it,\nWin Variation made a smooth comeback.",
+      "text": "By steadily putting in effort without \noverdoing it, Win Variation made a smooth \ncomeback.",
       "choice_data_list": []
     }
   ]

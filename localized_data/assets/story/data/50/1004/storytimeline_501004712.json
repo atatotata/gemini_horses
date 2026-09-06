@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Since Maruzensky hasn't shown up for training, I decide to take care of some other work, when...",
+      "text": "Since Maruzensky hasn't shown up for \ntraining, I decide to take care of some \nother work, when...",
       "choice_data_list": []
     },
     {
@@ -29,12 +29,12 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Some boring stuff suddenly came up.\nTee-hee, my bad! Forgive me, pretty please!",
+      "text": "Some boring stuff suddenly came up. \nTee-hee, my bad! Forgive me, pretty \nplease!",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "I'll make up for being late today.\nDeal?",
+      "text": "I'll make up for being late today. Deal?",
       "choice_data_list": [
         "Let's be careful next time.",
         "Be careful next time, okay?"
@@ -42,17 +42,17 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Understood.\nI'm sorry for making you worry.",
+      "text": "Understood. I'm sorry for making you \nworry.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Assuming there was a good reason for it,\nI refrained from prying too deeply, but...",
+      "text": "Assuming there was a good reason for it, I \nrefrained from prying too deeply, but...",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Later on, I learned that Maruzensky\nhad been listening to her junior's troubles.",
+      "text": "Later on, I learned that Maruzensky had \nbeen listening to her junior's troubles.",
       "choice_data_list": []
     }
   ]

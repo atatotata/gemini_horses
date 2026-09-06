@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "A few days after Chairwoman Akikawa took off,\nright around the time I sent <chrname>\nout to run the perimeter—",
+      "text": "A few days after Chairwoman Akikawa took \noff, right around the time I sent <chrname> out to \nrun the perimeter—",
       "choice_data_list": []
     },
     {
@@ -13,19 +13,19 @@
     },
     {
       "name": "Narrator",
-      "text": "I noticed an unfamiliar woman watching the Umamusume during their training.",
+      "text": "I noticed an unfamiliar woman watching the \nUmamusume during their training.",
       "choice_data_list": [
         "Um...?"
       ]
     },
     {
       "name": "？？？",
-      "text": "...You...\r\nYou're the Trainer of the girl who just went out to the perimeter, aren't you?",
+      "text": "...You... You're the Trainer of the girl \nwho just went out to the perimeter, aren't \nyou?",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "\"I had the pleasure of watching your training.\r\nPardon my bluntness right upon meeting, but...\"",
+      "text": "\"I had the pleasure of watching your \ntraining. Pardon my bluntness right upon \nmeeting, but...\"",
       "choice_data_list": []
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "？？？",
-      "text": "Allowing voluntary training, lacking strict start times, permitting idle chatter with other Umamusume during breaks...",
+      "text": "Allowing voluntary training, lacking \nstrict start times, permitting idle \nchatter with other Umamusume during \nbreaks...",
       "choice_data_list": []
     },
     {
@@ -47,86 +47,86 @@
     },
     {
       "name": "？？？",
-      "text": "Then what about her sleep duration and daily sleep satisfaction?\r\nDo you interview her every single day without fail?",
+      "text": "Then what about her sleep duration and \ndaily sleep satisfaction? Do you interview \nher every single day without fail?",
       "choice_data_list": [
         "N-No..."
       ]
     },
     {
       "name": "？？？",
-      "text": "Lack of sleep not only degrades performance,\r\nbut also invites accidents. Keeping track of it is a matter of course.",
+      "text": "Lack of sleep not only degrades \nperformance, but also invites accidents. \nKeeping track of it is a matter of course.",
       "choice_data_list": [
         "I'm sorry..."
       ]
     },
     {
       "name": "？？？",
-      "text": "\"...I am well aware, of course, that this academy places great value on student autonomy.\"",
+      "text": "\"...I am well aware, of course, that this \nacademy places great value on student \nautonomy.\"",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "However, that guiding principle is itself—irresponsible.",
+      "text": "However, that guiding principle is \nitself—irresponsible.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "With that, the woman quietly cast her gaze toward the distant mountains.",
+      "text": "With that, the woman quietly cast her gaze \ntoward the distant mountains.",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "—That cedar mountain you see in the distance is a popular spot that's bustling with climbers in season.",
+      "text": "—That cedar mountain you see in the \ndistance is a popular spot that's bustling \nwith climbers in season.",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "Splendid cedar trees rustle softly, little birds chirp,\r\nand the soft, rich soil gently cushions our feet.",
+      "text": "Splendid cedar trees rustle softly, little \nbirds chirp, and the soft, rich soil \ngently cushions our feet.",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "\"However, much like many mountains in this country,\nits shape exists only because of human hands.\"",
+      "text": "\"However, much like many mountains in this \ncountry, its shape exists only because of \nhuman hands.\"",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "Unmanaged mountains fall into ruin.\nSunlight never reaches the ground, the grass withers, and underfoot\nis nothing but accumulated humus and dead, fallen trees.",
+      "text": "Unmanaged mountains fall into ruin. \nSunlight never reaches the ground, the \ngrass withers, and underfoot is nothing \nbut accumulated humus and dead, fallen \ntrees.",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "It could also lead to landslides and flooding.\r\nThat is precisely what \"management\" entails.",
+      "text": "It could also lead to landslides and \nflooding. That is precisely what \n\"management\" entails.",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "Just watching an immature girl fall into ruin\nis nothing more than the ego of an adult trying to seem kind.",
+      "text": "Just watching an immature girl fall into \nruin is nothing more than the ego of an \nadult trying to seem kind.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The woman's eyes gradually grew sharper as she spoke.\r\nJust as tension filled the air—",
+      "text": "The woman's eyes gradually grew sharper as \nshe spoke. Just as tension filled the air—",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"So this is where you were!\r\nI've been looking for you, Acting Director Kashimoto!\"",
+      "text": "\"So this is where you were! I've been \nlooking for you, Acting Director \nKashimoto!\"",
       "choice_data_list": []
     },
     {
       "name": "？？？",
-      "text": "Excuse me,\r\nI was just curious about your training scene.",
+      "text": "Excuse me, I was just curious about your \ntraining scene.",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Oh, Trainer! Perfect timing.\r\nThis person here is representing Chairwoman Akikawa—",
+      "text": "Oh, Trainer! Perfect timing. This person \nhere is representing Chairwoman Akikawa—",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"I am Riko Kashimoto.\r\nI have been entrusted with full authority over the academy's policies during my term.\"",
+      "text": "\"I am Riko Kashimoto. I have been \nentrusted with full authority over the \nacademy's policies during my term.\"",
       "choice_data_list": []
     },
     {

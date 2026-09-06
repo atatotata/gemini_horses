@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
-      "text": "*pant, pant, pant*...\r\nThe gap between me and my \"friend\"...\nhas narrowed... a little...",
+      "text": "*pant, pant, pant*... The gap between me \nand my \"friend\"... has narrowed... a \nlittle...",
       "choice_data_list": []
     },
     {
@@ -13,22 +13,22 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "And... Special Week-san was even more... than expected.",
+      "text": "And... Special Week-san was even more... \nthan expected.",
       "choice_data_list": []
     },
     {
       "name": "Special Week",
-      "text": "Haa, haa, whew~!\r\nI ran that with everything I had—!!",
+      "text": "Haa, haa, whew~! I ran that with \neverything I had—!!",
       "choice_data_list": []
     },
     {
       "name": "Special Week",
-      "text": "This is the power of Hokkaido's bounty, Cafe-san!\r\nYou get stronger for every bite you eat and every mile you run!",
+      "text": "This is the power of Hokkaido's bounty, \nCafe-san! You get stronger for every bite \nyou eat and every mile you run!",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "As much as you ate and ran...\nYes, you didn't just eat it;\nyou turned all of it into power...",
+      "text": "As much as you ate and ran... Yes, you \ndidn't just eat it; you turned all of it \ninto power...",
       "choice_data_list": []
     },
     {
@@ -38,27 +38,17 @@
     },
     {
       "name": "",
-      "text": "It seemed something lingered\r\nin Manhattan Cafe's heart.",
+      "text": "It seemed something lingered in Manhattan \nCafe's heart.",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer, next up...\r\nAbout our next objective...",
+      "text": "Trainer, next up... About our next \nobjective...",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "—I think. Going by conventional wisdom,\nadvancing to the spring Grand Prix, the Takarazuka Kinen, is the standard path.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "……………………。",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Still, that sickly expression is plain to see. And the condition\nof her hooves is concerning. Taking a \"rest\" might also...",
+      "text": "—I think. Going by conventional wisdom, \nadvancing to the spring Grand Prix, the \nTakarazuka Kinen, is the standard path.",
       "choice_data_list": []
     },
     {
@@ -68,12 +58,22 @@
     },
     {
       "name": "",
-      "text": "...I feel a silent pressure. It's as if\r\nthey're saying, taking a break is \"UNACCEPTABLE\"...",
+      "text": "Still, that sickly expression is plain to \nsee. And the condition of her hooves is \nconcerning. Taking a \"rest\" might also...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "……………………。",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "...If that's the case, let's stick to the standard theory here.\r\nAnd give her a rest during the summer—\nWith that policy decided,",
+      "text": "...I feel a silent pressure. It's as if \nthey're saying, taking a break is \n\"UNACCEPTABLE\"...",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...If that's the case, let's stick to the \nstandard theory here. And give her a rest \nduring the summer— With that policy \ndecided,",
       "choice_data_list": [
         "Let's go with the Takarazuka Kinen."
       ]
@@ -87,17 +87,17 @@
     },
     {
       "name": "",
-      "text": "For an instant, I doubted my ears.\r\nOpposing Manhattan Cafe...\nThat voice... sounded like it belonged to someone else...",
+      "text": "For an instant, I doubted my ears. \nOpposing Manhattan Cafe... That voice... \nsounded like it belonged to someone \nelse...",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Even if she says \"no,\" there shouldn't be\r\na better spring option than the Takarazuka Kinen.\nWhere on earth is she going, then?",
+      "text": "Even if she says \"no,\" there shouldn't be \na better spring option than the Takarazuka \nKinen. Where on earth is she going, then?",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "At this rate... I won't reach it...\r\nTo become stronger, faster...\nThe path we must take is...",
+      "text": "At this rate... I won't reach it... To \nbecome stronger, faster... The path we \nmust take is...",
       "choice_data_list": []
     },
     {
@@ -107,39 +107,39 @@
     },
     {
       "name": "",
-      "text": "A ghost-like movement. It was slow and deliberate, yet the direction she pointed was unmistakably clear.",
+      "text": "A ghost-like movement. It was slow and \ndeliberate, yet the direction she pointed \nwas unmistakably clear.",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Overseas...\r\nAcross the ocean, to \"France\"...",
+      "text": "Overseas... Across the ocean, to \n\"France\"...",
       "choice_data_list": [
         "…………！！！？"
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "My \"friend\" is going away...\r\nAll alone... That's why, I definitely...",
+      "text": "My \"friend\" is going away... All alone... \nThat's why, I definitely...",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Heh, heheh, overseas... huh.\nI see...",
+      "text": "Heh, heheh, overseas... huh. I see...",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "An imaginary friend has no physical form.\r\nSo the laws of physics simply don't apply, huh?",
+      "text": "An imaginary friend has no physical form. \nSo the laws of physics simply don't apply, \nhuh?",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Ah, maybe I should attempt communication.\nHello, this is a three-dimensional being speaking.",
+      "text": "Ah, maybe I should attempt communication. \nHello, this is a three-dimensional being \nspeaking.",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Do you intend to destroy the parent body?\r\nOr do you place your faith in it?",
+      "text": "Do you intend to destroy the parent body? \nOr do you place your faith in it?",
       "choice_data_list": []
     },
     {
@@ -149,49 +149,49 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "...Words do not reach them.\nOr perhaps they simply do not wish to communicate.",
+      "text": "...Words do not reach them. Or perhaps \nthey simply do not wish to communicate.",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer...\r\nWill you grant my wish?",
+      "text": "Trainer... Will you grant my wish?",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "My \"friend\" is also saying, \"Come here.\"\r\nSo...",
+      "text": "My \"friend\" is also saying, \"Come here.\" \nSo...",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "An expedition to France... That is indeed\r\nan even greater option than the Takarazuka Kinen.",
+      "text": "An expedition to France... That is indeed \nan even greater option than the Takarazuka \nKinen.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "To conquer \"that race\" in France.\r\nIt is the ultimate dream of everyone involved in Umamusume racing.",
+      "text": "To conquer \"that race\" in France. It is \nthe ultimate dream of everyone involved in \nUmamusume racing.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Considering Manhattan Cafe's current physical condition...\r\nIt's certainly tough. But if she herself dreams of it.\nAnd above all else—",
+      "text": "Considering Manhattan Cafe's current \nphysical condition... It's certainly \ntough. But if she herself dreams of it. \nAnd above all else—",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "\"Chasing after my friend.\"\r\nBecause that—is a precious promise between the two of us.",
+      "text": "\"Chasing after my friend.\" Because that—is \na precious promise between the two of us.",
       "choice_data_list": [
         "...Let's go."
       ]
     },
     {
       "name": "",
-      "text": "Upon hearing that,\r\nManhattan Cafe smiled, while Agnes Tachyon gave a slight shrug.",
+      "text": "Upon hearing that, Manhattan Cafe smiled, \nwhile Agnes Tachyon gave a slight shrug.",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Ah, that's right. I forgot to mention.\r\nJust between you and me, I actually\ndon't like airplanes!",
+      "text": "Ah, that's right. I forgot to mention. \nJust between you and me, I actually don't \nlike airplanes!",
       "choice_data_list": []
     },
     {
@@ -201,27 +201,27 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"Still, we must go.\r\nAfter all... that is why we made our contract...\"",
+      "text": "\"Still, we must go. After all... that is \nwhy we made our contract...\"",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "...Well, this is just between us,\nso don't worry about it. Still though—",
+      "text": "...Well, this is just between us, so don't \nworry about it. Still though—",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Being crazy...\r\nwas supposed to be my exclusive trademark.",
+      "text": "Being crazy... was supposed to be my \nexclusive trademark.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "\"And so, our plan was set. However, mindful of the potential toll on Manhattan Cafe after the Tenno Sho (Spring)—\"",
+      "text": "\"And so, our plan was set. However, \nmindful of the potential toll on Manhattan \nCafe after the Tenno Sho (Spring)—\"",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "For now, I decide to keep the domestic goal of the \"Takarazuka Kinen\" as an option.\r\nThe final decision on the French expedition will be made next month.",
+      "text": "For now, I decide to keep the domestic \ngoal of the \"Takarazuka Kinen\" as an \noption. The final decision on the French \nexpedition will be made next month.",
       "choice_data_list": []
     }
   ]

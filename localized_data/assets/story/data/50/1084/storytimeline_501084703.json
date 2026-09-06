@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "On the way back from our outing, we stopped by a dining bar\nand found Mayano Top Gun and Narita Brian there.",
+      "text": "On the way back from our outing, we \nstopped by a dining bar and found Mayano \nTop Gun and Narita Brian there.",
       "choice_data_list": []
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Aah! Gimlet-san and Trainer-san!\nWhat's this, what's this? Are you on a date!?",
+      "text": "Aah! Gimlet-san and Trainer-san! What's \nthis, what's this? Are you on a date!?",
       "choice_data_list": [
-        "It's rare to see the two of you in a shop like this.",
-        "It's quite unusual to see the two of you in a place like this."
+        "It's rare to see the two of you in a shop \nlike this.",
+        "It's quite unusual to see the two of you \nin a place like this."
       ]
     },
     {
@@ -21,46 +21,46 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Wait, let me deduce the logic\nthat brought you here.\n\"Cold reading\" is the foundation of a detective's craft...",
+      "text": "Wait, let me deduce the logic that brought \nyou here. \"Cold reading\" is the foundation \nof a detective's craft...",
       "choice_data_list": [
         "Cold reading?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Ah... That's the thing my big sis does all the time.",
+      "text": "Ah... That's the thing my big sis does all \nthe time.",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "That's right...!\n'Deducing things about someone through situational clues and pure observation'—\na classic detective's specialty...",
+      "text": "That's right...! 'Deducing things about \nsomeone through situational clues and pure \nobservation'— a classic detective's \nspecialty...",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "First, take note of their well-polished shoes.\nThey haven't walked along any dirty paths...",
+      "text": "First, take note of their well-polished \nshoes. They haven't walked along any dirty \npaths...",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Is a shallow line of thought! Brian rarely ever polishes her shoes. What if it's right after she did it because they got terribly dirty?!",
+      "text": "Is a shallow line of thought! Brian rarely \never polishes her shoes. What if it's \nright after she did it because they got \nterribly dirty?!",
       "choice_data_list": [
         "I-I see... !?"
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "There was a puddle by the nearby river.\nThe two of them were forced to pass through it...\nPresumably because someone was chasing them!",
+      "text": "There was a puddle by the nearby river. \nThe two of them were forced to pass \nthrough it... Presumably because someone \nwas chasing them!",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "They ran. Like the bard descending into the\nunderworld, never looking back...\nYet as they fled, their hunger finally pushed them to their absolute limit...!",
+      "text": "They ran. Like the bard descending into \nthe underworld, never looking back... Yet \nas they fled, their hunger finally pushed \nthem to their absolute limit...!",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "And then... thinking they could shake off their pursuers by breaking their routine while resupplying, the two dove into this very shop right before their eyes—well, how's that?",
+      "text": "And then... thinking they could shake off \ntheir pursuers by breaking their routine \nwhile resupplying, the two dove into this \nvery shop right before their eyes—well, \nhow's that?",
       "choice_data_list": []
     },
     {
@@ -70,41 +70,41 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "The correct answer is: \"Maya invited you\"!\nI've always wanted to come to a mature place like this♪",
+      "text": "The correct answer is: \"Maya invited you\"! \nI've always wanted to come to a mature \nplace like this♪",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "I only came along because they said the meat dishes were good. My shoes are only polished because my sister nagged me about it.",
+      "text": "I only came along because they said the \nmeat dishes were good. My shoes are only \npolished because my sister nagged me about \nit.",
       "choice_data_list": [
         "Ah, is that so..."
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Heh heh... So it was a false lead, was it...?\nIt seems this flexible intellect of mine isn't suited for petty cases.",
+      "text": "Heh heh... So it was a false lead, was \nit...? It seems this flexible intellect of \nmine isn't suited for petty cases.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Come to think of it, Tanino Gimlet was playing detective before, too.\"",
+      "text": "\"Come to think of it, Tanino Gimlet was \nplaying detective before, too.\"",
       "choice_data_list": [
-        "Why do you keep acting like a detective...?"
+        "Why do you keep acting like a \ndetective...?"
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Ho, curious, are you?\nGood grief... It seems the time for reminiscing has come.\nThat was back when I was just a boy...",
+      "text": "Ho, curious, are you? Good grief... It \nseems the time for reminiscing has come. \nThat was back when I was just a boy...",
       "choice_data_list": []
     },
     {
       "name": "Gimlet's Father",
-      "text": "âLook, it's this detective novel.\nThe 'Gimlet' cocktail makes an appearance in it, too.\nThe moment he gets a flash of inspiration is truly an electric shock that scorches the soul.",
+      "text": "âLook, it's this detective novel. The \n'Gimlet' cocktail makes an appearance in \nit, too. The moment he gets a flash of \ninspiration is truly an electric shock \nthat scorches the soul.",
       "choice_data_list": []
     },
     {
       "name": "Young Gimlet",
-      "text": "Inspiration is like a flash of lightning...? Let me read it too.",
+      "text": "Inspiration is like a flash of \nlightning...? Let me read it too.",
       "choice_data_list": []
     },
     {
@@ -119,37 +119,37 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "\"—A 'detective' is no ally of justice.\nFlattering no one, they merely reveal the truth they have perceived.\"",
+      "text": "\"—A 'detective' is no ally of justice. \nFlattering no one, they merely reveal the \ntruth they have perceived.\"",
       "choice_data_list": []
     },
     {
       "name": "Gimlet's Father",
-      "text": "Everyone is shocked when faced with the truth.\nAnd words can't describe how satisfying it is when a mystery is solved...",
+      "text": "Everyone is shocked when faced with the \ntruth. And words can't describe how \nsatisfying it is when a mystery is \nsolved...",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "It was much like how overwhelming power and speed could intoxicate all who beheld it.",
+      "text": "It was much like how overwhelming power \nand speed could intoxicate all who beheld \nit.",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "And... once the curtain falls on a case, a detective sips a glass at the bar. Solitary, and free...",
+      "text": "And... once the curtain falls on a case, a \ndetective sips a glass at the bar. \nSolitary, and free...",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "—In other words, that way of life\nresonated deeply with my own aesthetic.",
+      "text": "—In other words, that way of life \nresonated deeply with my own aesthetic.",
       "choice_data_list": []
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Fufu, I see!\nYou have such wonderful memories with your dad~♪",
+      "text": "Fufu, I see! You have such wonderful \nmemories with your dad~♪",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I see...\nIt seems she \"longs to be a detective.\"\nThough her deductive skills still seem to have a long way to go...",
+      "text": "I see... It seems she \"longs to be a \ndetective.\" Though her deductive skills \nstill seem to have a long way to go...",
       "choice_data_list": [
         "Detectives are so cool.",
         "Detectives are really cool, aren't they?",
@@ -159,7 +159,7 @@
     },
     {
       "name": "Narrator",
-      "text": "I see...\nIt seems she \"longs to be a detective.\"\nThough her deductive skills still seem to have a long way to go...",
+      "text": "I see... It seems she \"longs to be a \ndetective.\" Though her deductive skills \nstill seem to have a long way to go...",
       "choice_data_list": [
         "Detectives are so cool.",
         "Detectives are really cool, aren't they?",
@@ -169,12 +169,12 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "\"...Right?\nHahaha, you get it too, don't you?!\"",
+      "text": "\"...Right? Hahaha, you get it too, don't \nyou?!\"",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Whenever I transform into a detective again, I might just let you be my assistant!",
+      "text": "Whenever I transform into a detective \nagain, I might just let you be my \nassistant!",
       "choice_data_list": []
     },
     {
@@ -184,34 +184,34 @@
     },
     {
       "name": "Narrator",
-      "text": "Playing her Watson...\nSolving cases might be a pain, but\nI thought it might not be so bad after all.",
+      "text": "Playing her Watson... Solving cases might \nbe a pain, but I thought it might not be \nso bad after all.",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Harsh words. Indeed... rather than waiting for next time, shall we try again right now?\nI shall see through to your true essence...",
+      "text": "Harsh words. Indeed... rather than waiting \nfor next time, shall we try again right \nnow? I shall see through to your true \nessence...",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "From now on, answer all my questions with 'Yes'.\nIf you lie, I'll know just from your reaction.",
+      "text": "From now on, answer all my questions with \n'Yes'. If you lie, I'll know just from \nyour reaction.",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "\"...You're not going back to the dorms just yet, are you?\nYou want to keep playing with fire with me, don't you...?\"",
+      "text": "\"...You're not going back to the dorms \njust yet, are you? You want to keep \nplaying with fire with me, don't you...?\"",
       "choice_data_list": [
         "Huh! Y-Yes!"
       ]
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Ghk...! Hahahaha...!\nWhat a look on your face. So you weren't lying after all?",
+      "text": "Ghk...! Hahahaha...! What a look on your \nface. So you weren't lying after all?",
       "choice_data_list": []
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Huh?! Did someone make you say that?\nSo it really was a date?!\nEeeeek!! My heart is racing!",
+      "text": "Huh?! Did someone make you say that? So it \nreally was a date?! Eeeeek!! My heart is \nracing!",
       "choice_data_list": []
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Was this payback, or was she just being completely natural...?\nEither way, I was left thoroughly flustered.",
+      "text": "Was this payback, or was she just being \ncompletely natural...? Either way, I was \nleft thoroughly flustered.",
       "choice_data_list": []
     }
   ]

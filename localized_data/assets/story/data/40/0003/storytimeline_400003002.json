@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I shared our plans for the upcoming promotional live show and training for the Grand Live with Mihono Bourbon.",
+      "text": "I shared our plans for the upcoming \npromotional live show and training for the \nGrand Live with Mihono Bourbon.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Order comprehended.\nExecuting instructions.",
+      "text": "Order comprehended. Executing \ninstructions.",
       "choice_data_list": [
-        "No, it's not an order, I'm just asking for your advice.",
+        "No, it's not an order, I'm just asking for \nyour advice.",
         "No, it's not an order, just a discussion."
       ]
     },
@@ -21,14 +21,14 @@
     },
     {
       "name": "Narrator",
-      "text": "Light Hello said, \"The Grand Live is a concert meant for expressing gratitude.\"",
+      "text": "Light Hello said, \"The Grand Live is a \nconcert meant for expressing gratitude.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"That's precisely why, especially for Mihono Bourbon, I wanted her to take the stage through her own will and feelings—not just because of an order.\"",
+      "text": "\"That's precisely why, especially for \nMihono Bourbon, I wanted her to take the \nstage through her own will and \nfeelings—not just because of an order.\"",
       "choice_data_list": [
-        "You can just observe first, and decide after that."
+        "You can just observe first, and decide \nafter that."
       ]
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Narrator",
-      "text": "If the day comes when Mihono Bourbon wishes to participate of her own accord... we'll have her join us on stage then.",
+      "text": "If the day comes when Mihono Bourbon \nwishes to participate of her own accord... \nwe'll have her join us on stage then.",
       "choice_data_list": []
     }
   ]

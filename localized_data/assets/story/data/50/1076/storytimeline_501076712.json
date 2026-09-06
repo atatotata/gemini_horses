@@ -3,19 +3,19 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Sakura Laurel hasn't shown up for training...\nThinking something might have happened,\nI search the academy—",
+      "text": "Sakura Laurel hasn't shown up for \ntraining... Thinking something might have \nhappened, I search the academy—",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "...Yeah, this makes no sense after all.\nMaybe I'm just interpreting it wrong?",
+      "text": "...Yeah, this makes no sense after all. \nMaybe I'm just interpreting it wrong?",
       "choice_data_list": [
         "Laurel?"
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "—Eh? Trainer?\nWhat's the matter?",
+      "text": "—Eh? Trainer? What's the matter?",
       "choice_data_list": [
         "You're past training time."
       ]
@@ -27,12 +27,12 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Um... while translating a French book, I came across a sentence that just didn't make any sense...",
+      "text": "Um... while translating a French book, I \ncame across a sentence that just didn't \nmake any sense...",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "I got so stubborn with researching that it's already this late...",
+      "text": "I got so stubborn with researching that \nit's already this late...",
       "choice_data_list": []
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "name": "",
-      "text": "Sakura Laurel seems truly remorseful.\nI reminded her to be more careful from now on.",
+      "text": "Sakura Laurel seems truly remorseful. I \nreminded her to be more careful from now \non.",
       "choice_data_list": []
     }
   ]

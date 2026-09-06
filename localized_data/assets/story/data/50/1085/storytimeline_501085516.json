@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "In order to set up a training schedule, I asked Daiichi Ruby about her upcoming plans, but...",
+      "text": "In order to set up a training schedule, I \nasked Daiichi Ruby about her upcoming \nplans, but...",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "\"Tomorrow, attend a party on a cruise ship.\nThe next day, a hotel meeting followed by dinner at a traditional restaurant—\"",
+      "text": "\"Tomorrow, attend a party on a cruise \nship. The next day, a hotel meeting \nfollowed by dinner at a traditional \nrestaurant—\"",
       "choice_data_list": [
-        "Looks like we'll have more chances to eat together.",
-        "Looks like we'll have more opportunities to eat together."
+        "Looks like we'll have more chances to eat \ntogether.",
+        "Looks like we'll have more opportunities \nto eat together."
       ]
     },
     {
@@ -19,17 +19,17 @@
       "text": "Is there a problem with that?",
       "choice_data_list": [
         "Be careful not to overeat.",
-        "Make sure you eat lots of delicious food while you're there!"
+        "Make sure you eat lots of delicious food \nwhile you're there!"
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Naturally, I am well aware.\nAfter all, my utmost mission is to deliver results in races.",
+      "text": "Naturally, I am well aware. After all, my \nutmost mission is to deliver results in \nraces.",
       "choice_data_list": []
     },
     {
       "name": "Ruby's Butler",
-      "text": "――My Lady.\nMay I go fetch something for you to eat?",
+      "text": "――My Lady. May I go fetch something for \nyou to eat?",
       "choice_data_list": []
     },
     {
@@ -39,42 +39,42 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I make a point of refraining from eating and drinking\njust enough so as not to seem rude.",
+      "text": "I make a point of refraining from eating \nand drinking just enough so as not to seem \nrude.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, as promised, Daiichi Ruby\nkept her calorie intake in check.",
+      "text": "And so, as promised, Daiichi Ruby kept her \ncalorie intake in check.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...Dining together is an important part of negotiations.",
+      "text": "...Dining together is an important part of \nnegotiations.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Regardless of my own wishes,\nI will finish whatever is served so as not to be rude. That is all.",
+      "text": "Regardless of my own wishes, I will finish \nwhatever is served so as not to be rude. \nThat is all.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Today's talk was very fascinating. I also thoroughly enjoyed the meal—",
+      "text": "Today's talk was very fascinating. I also \nthoroughly enjoyed the meal—",
       "choice_data_list": []
     },
     {
       "name": "Dinner Companion",
-      "text": "Then, please be sure to enjoy the dessert buffet at the end.\nOur chef has prepared it in another room.",
+      "text": "Then, please be sure to enjoy the dessert \nbuffet at the end. Our chef has prepared \nit in another room.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...Thank you very much.\nI will gladly partake.",
+      "text": "...Thank you very much. I will gladly \npartake.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, Daiichi Ruby finished every single bite\nof the massive feast without leaving anything behind.",
+      "text": "And so, Daiichi Ruby finished every single \nbite of the massive feast without leaving \nanything behind.",
       "choice_data_list": []
     }
   ]

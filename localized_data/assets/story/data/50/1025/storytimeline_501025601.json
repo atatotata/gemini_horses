@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
-      "text": "...This uneasy feeling just won't go away...",
+      "text": "...This uneasy feeling just won't go \naway...",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...It's like there's a fog in my head...\r\nIt's frustrating... and my heart feels so heavy...",
+      "text": "...It's like there's a fog in my head... \nIt's frustrating... and my heart feels so \nheavy...",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I'll win here\r\nand clear away this gloom...!",
+      "text": "...I'll win here and clear away this \ngloom...!",
       "choice_data_list": [
         "I'm rooting for you.",
         "I'm rooting for you."
@@ -36,7 +36,7 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "......I will live up to your expectations...!",
+      "text": "......I will live up to your \nexpectations...!",
       "choice_data_list": []
     }
   ]

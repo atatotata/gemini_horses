@@ -3,47 +3,47 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Today is the academy's sponsored Fan Interaction Event.\nI was put in charge of running the event, but...\nright before opening, an unexpected problem arose.",
+      "text": "Today is the academy's sponsored Fan \nInteraction Event. I was put in charge of \nrunning the event, but... right before \nopening, an unexpected problem arose.",
       "choice_data_list": [
         "What?! We're short on staff?!"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Yes. The staff member tasked with managing the venue\nsuddenly couldn't make it...\nWe're currently looking for a replacement, but...",
+      "text": "Yes. The staff member tasked with managing \nthe venue suddenly couldn't make it... \nWe're currently looking for a replacement, \nbut...",
       "choice_data_list": [
-        "Understood. I'll help look for someone too!",
-        "Understood. I'll help look for someone too!"
+        "Understood. I'll help look for someone \ntoo!",
+        "Understood. I'll help look for someone \ntoo!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I contacted several event agencies,\nbut same-day dispatch is impossible. With crowds incoming,\nour current manpower is definitely not going to cut it...",
+      "text": "I contacted several event agencies, but \nsame-day dispatch is impossible. With \ncrowds incoming, our current manpower is \ndefinitely not going to cut it...",
       "choice_data_list": [
-        "(Worst case, we might have to consider canceling...)"
+        "(Worst case, we might have to consider \ncanceling...)"
       ]
     },
     {
       "name": "Orfèvre",
-      "text": "You.\nWhat are you doing?",
+      "text": "You. What are you doing?",
       "choice_data_list": [
         "! Orfèvre..."
       ]
     },
     {
       "name": "Orfèvre",
-      "text": "Do not display such a gloomy face\nbefore my eyes."
+      "text": "Do not display such a gloomy face before \nmy eyes."
     },
     {
       "name": "Narrator",
-      "text": "Though her words are unreasonable...\nher unwavering demeanor is so reassuring\nthat I end up explaining the whole situation.",
+      "text": "Though her words are unreasonable... her \nunwavering demeanor is so reassuring that \nI end up explaining the whole situation.",
       "choice_data_list": [
         "...Umm, the truth is—"
       ]
     },
     {
       "name": "Narrator",
-      "text": "As I explain, Orfèvre listens in silence,\nfixing her sharp gaze right through me."
+      "text": "As I explain, Orfèvre listens in silence, \nfixing her sharp gaze right through me."
     },
     {
       "name": "Orfèvre",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Orfèvre",
-      "text": "However—such unsightly behavior from you\nimpugns my own honor.",
+      "text": "However—such unsightly behavior from you \nimpugns my own honor.",
       "choice_data_list": [
         "...Huh?"
       ]
@@ -62,47 +62,47 @@
     },
     {
       "name": "Orfèvre's Subject A",
-      "text": "—Present! Lady Orfèvre,\nI have arrived before you."
+      "text": "—Present! Lady Orfèvre, I have arrived \nbefore you."
     },
     {
       "name": "Orfèvre",
-      "text": "Gather my subjects.\n—Inform my elder sister to make haste as well."
+      "text": "Gather my subjects. —Inform my elder \nsister to make haste as well."
     },
     {
       "name": "Orfèvre",
-      "text": "Should there be any others of use,\nI shall summon them myself."
+      "text": "Should there be any others of use, I shall \nsummon them myself."
     },
     {
       "name": "Narrator",
-      "text": "—At Orfèvre's imperial command,\neveryone around immediately sprang into action."
+      "text": "—At Orfèvre's imperial command, everyone \naround immediately sprang into action."
     },
     {
       "name": "Fenomeno",
-      "text": "The venue entrance is this way!\nPlease do not spill into the road and remain in line!"
+      "text": "The venue entrance is this way! Please do \nnot spill into the road and remain in \nline!"
     },
     {
       "name": "Orfèvre's Subject B",
-      "text": "I'm holding up the placard~!\nPlease follow this line~!"
+      "text": "I'm holding up the placard~! Please follow \nthis line~!"
     },
     {
       "name": "Lucky Lilac",
-      "text": "Welcome, thank you for coming.\nIf you'd like, please take a flyer."
+      "text": "Welcome, thank you for coming. If you'd \nlike, please take a flyer."
     },
     {
       "name": "Nakayama Festa",
-      "text": "Whoa there, baggage inspection time.\nShow me what you got, let's see if there's anything dangerous."
+      "text": "Whoa there, baggage inspection time. Show \nme what you got, let's see if there's \nanything dangerous."
     },
     {
       "name": "Dream Journey",
-      "text": "—It seems a child got lost in the venue.\nOrfe, who shall we entrust them to?"
+      "text": "—It seems a child got lost in the venue. \nOrfe, who shall we entrust them to?"
     },
     {
       "name": "Orfèvre",
-      "text": "Leave it to Golshi.\nShe is adept at dealing with young children."
+      "text": "Leave it to Golshi. She is adept at \ndealing with young children."
     },
     {
       "name": "Narrator",
-      "text": "Under her supreme command,\nthe flow of visitors proceeded smoothly without a hitch.",
+      "text": "Under her supreme command, the flow of \nvisitors proceeded smoothly without a \nhitch.",
       "choice_data_list": [
         "(Incredible...!)"
       ]
@@ -113,7 +113,7 @@
     },
     {
       "name": "Orfèvre",
-      "text": "Now, ensure this event turns into a spectacle\nworthy of my orchestration.",
+      "text": "Now, ensure this event turns into a \nspectacle worthy of my orchestration.",
       "choice_data_list": [
         "...! Yeah, of course!",
         "...! Yeah, of course!"
@@ -121,11 +121,11 @@
     },
     {
       "name": "Narrator",
-      "text": "Determined to answer Orfèvre's expectations,\nI dash around coordinating with staff and verifying schedules.\nAs a result—the event was a roaring success."
+      "text": "Determined to answer Orfèvre's \nexpectations, I dash around coordinating \nwith staff and verifying schedules. As a \nresult—the event was a roaring success."
     },
     {
       "name": "Announcement",
-      "text": "\"Today's event has concluded.\nPlease watch your step on your way home—\"",
+      "text": "\"Today's event has concluded. Please watch \nyour step on your way home—\"",
       "choice_data_list": [
         "Orfèvre!"
       ]
@@ -139,15 +139,15 @@
     },
     {
       "name": "Orfèvre",
-      "text": "Pay it no mind.\nIt is merely the duty of a King."
+      "text": "Pay it no mind. It is merely the duty of a \nKing."
     },
     {
       "name": "Narrator",
-      "text": "Even so... my gratitude toward her knows no bounds.\nYet at the same time, a single question surfaces."
+      "text": "Even so... my gratitude toward her knows \nno bounds. Yet at the same time, a single \nquestion surfaces."
     },
     {
       "name": "Orfèvre",
-      "text": "However—such unsightly behavior from you\nimpugns my own honor."
+      "text": "However—such unsightly behavior from you \nimpugns my own honor."
     },
     {
       "name": "Orfèvre",
@@ -161,8 +161,8 @@
       "name": "Orfèvre",
       "text": "I permit it.",
       "choice_data_list": [
-        "Why would my unsightly failure affect your honor...?",
-        "Why would my unsightly failure affect your honor...?"
+        "Why would my unsightly failure affect your \nhonor...?",
+        "Why would my unsightly failure affect your \nhonor...?"
       ]
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "name": "Orfèvre",
-      "text": "A disgraceful display from a subject\ntarnishes the King's glory."
+      "text": "A disgraceful display from a subject \ntarnishes the King's glory."
     },
     {
       "name": "Orfèvre",
@@ -179,27 +179,27 @@
     },
     {
       "name": "Narrator",
-      "text": "She treated me as her 'subject' like it was second nature.\nAnd yet...",
+      "text": "She treated me as her 'subject' like it \nwas second nature. And yet...",
       "choice_data_list": [
-        "(What is this feeling... this strange exhilaration...?!)"
+        "(What is this feeling... this strange \nexhilaration...?!)"
       ]
     },
     {
       "name": "Orfèvre",
-      "text": "Judging by that look on your face,\nif you have something to say, speak.",
+      "text": "Judging by that look on your face, if you \nhave something to say, speak.",
       "choice_data_list": [
         "—It is an absolute honor...!",
-        "Umm, well... since when was I your subject?",
-        "Umm, well... since when was I your subject?"
+        "Umm, well... since when was I your \nsubject?",
+        "Umm, well... since when was I your \nsubject?"
       ]
     },
     {
       "name": "Orfèvre",
-      "text": "Judging by that look on your face,\nif you have something to say, speak.",
+      "text": "Judging by that look on your face, if you \nhave something to say, speak.",
       "choice_data_list": [
         "—It is an absolute honor...!",
-        "Umm, well... since when was I your subject?",
-        "Umm, well... since when was I your subject?"
+        "Umm, well... since when was I your \nsubject?",
+        "Umm, well... since when was I your \nsubject?"
       ]
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "name": "Orfèvre",
-      "text": "Continue to devote yourself diligently\nas my subject hereafter."
+      "text": "Continue to devote yourself diligently as \nmy subject hereafter."
     },
     {
       "name": "Orfèvre",

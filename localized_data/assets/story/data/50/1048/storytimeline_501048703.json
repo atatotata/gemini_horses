@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After our outing.\r\nTosen Jordan handed me her smartphone.\nOn the screen, a certain traditional inn was displayed...",
+      "text": "After our outing. Tosen Jordan handed me \nher smartphone. On the screen, a certain \ntraditional inn was displayed...",
       "choice_data_list": [
         "...Is something wrong with this?",
         "...Is something wrong with this?"
@@ -11,59 +11,59 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Isn't the ryokan on that website amazing?!\r\nI wanna go! Actually, I'm definitely going!",
+      "text": "Isn't the ryokan on that website amazing?! \nI wanna go! Actually, I'm definitely \ngoing!",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "They said just getting food is fine too,\r\nand that it's super tasty!\nCome on, let's head over right now!",
+      "text": "They said just getting food is fine too, \nand that it's super tasty! Come on, let's \nhead over right now!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"However, the place seems to be quite far away.\r\nI told them we should reschedule and go when we have more time to spare... but.\"",
+      "text": "\"However, the place seems to be quite far \naway. I told them we should reschedule and \ngo when we have more time to spare... \nbut.\"",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ehh, take the train and you're there in a flash!\r\nBesides, going right when you feel like it is the golden rule, right?!",
+      "text": "Ehh, take the train and you're there in a \nflash! Besides, going right when you feel \nlike it is the golden rule, right?!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Riding the train to the inn, an attendant welcomed us at the entrance.\r\nWhen we mentioned we had come to eat—",
+      "text": "Riding the train to the inn, an attendant \nwelcomed us at the entrance. When we \nmentioned we had come to eat—",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "—Wait, you're gonna clean and fillet the fish we caught?!",
+      "text": "—Wait, you're gonna clean and fillet the \nfish we caught?!",
       "choice_data_list": []
     },
     {
       "name": "Inn Waitress",
-      "text": "Yeees, this is our main feature.\r\nThe chef prepares the guest's fish right before their eyes.\nHow does that sound?",
+      "text": "Yeees, this is our main feature. The chef \nprepares the guest's fish right before \ntheir eyes. How does that sound?",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Waaah~ I wanna do it, I wanna do it!\r\nI'm definitely gonna do it~!!",
+      "text": "Waaah~ I wanna do it, I wanna do it! I'm \ndefinitely gonna do it~!!",
       "choice_data_list": [
         "Still, we're short on time today..."
       ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh?\r\nWhy wouldn't I do it after coming this far?",
+      "text": "Huh? Why wouldn't I do it after coming \nthis far?",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Being good at it is obviously better!\nThere's no choice but to go for it!",
+      "text": "Being good at it is obviously better! \nThere's no choice but to go for it!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Swept along by her momentum,\r\nwe ended up fishing in the sea near the inn, but—",
+      "text": "Swept along by her momentum, we ended up \nfishing in the sea near the inn, but—",
       "choice_data_list": []
     },
     {
@@ -78,19 +78,19 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Why is it that you're the only one\r\ncatching anything this whole time?!",
+      "text": "Why is it that you're the only one \ncatching anything this whole time?!",
       "choice_data_list": [
-        "Then we caught something, so let's head back."
+        "Then we caught something, so let's head \nback."
       ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "Huh? No way I'm going back!\r\nLike hell I'm gonna let it end like this!",
+      "text": "Huh? No way I'm going back! Like hell I'm \ngonna let it end like this!",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "I definitely won't lose...\r\nI'm gonna go even deeper!",
+      "text": "I definitely won't lose... I'm gonna go \neven deeper!",
       "choice_data_list": [
         "Watch your step!"
       ]
@@ -114,24 +114,24 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...I'm so sorry, for real.\r\nDropping you... into the ocean...",
+      "text": "...I'm so sorry, for real. Dropping you... \ninto the ocean...",
       "choice_data_list": [
         "I'm fine, I just got a little wet."
       ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"N-No way am I fine!\r\n...Wait, seriously, this is bad.\nYou might catch a cold, so we gotta dry you off quick...!\"",
+      "text": "\"N-No way am I fine! ...Wait, seriously, \nthis is bad. You might catch a cold, so we \ngotta dry you off quick...!\"",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Um, I borrowed yukata, towels,\r\nand a hairdryer... so, yeah.",
+      "text": "Um, I borrowed yukata, towels, and a \nhairdryer... so, yeah.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Tosen Jordan silently dried my hair\r\nusing a towel and a hairdryer.",
+      "text": "Tosen Jordan silently dried my hair using \na towel and a hairdryer.",
       "choice_data_list": []
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "Ah... Hey, so. The innkeeper said the bath's ready. Why don't you go ahead?",
+      "text": "Ah... Hey, so. The innkeeper said the \nbath's ready. Why don't you go ahead?",
       "choice_data_list": []
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Though she pretends to be composed,\r\nit's clear that she's deeply dejected.\nHow should I comfort her...?",
+      "text": "Though she pretends to be composed, it's \nclear that she's deeply dejected. How \nshould I comfort her...?",
       "choice_data_list": [
         "I'm so glad you're safe.",
         "I'm so glad you're safe.",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Though she pretends to be composed,\r\nit's clear that she's deeply dejected.\nHow should I comfort her...?",
+      "text": "Though she pretends to be composed, it's \nclear that she's deeply dejected. How \nshould I comfort her...?",
       "choice_data_list": [
         "I'm so glad you're safe.",
         "I'm so glad you're safe.",
@@ -181,27 +181,27 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"No, this is where you're supposed to get mad...!\r\nI totally dragged you all over the place.\"",
+      "text": "\"No, this is where you're supposed to get \nmad...! I totally dragged you all over the \nplace.\"",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Gorging on food, dragging you around, collapsing from exhaustion...\r\n...making you protect me, falling into the sea...",
+      "text": "Gorging on food, dragging you around, \ncollapsing from exhaustion... ...making \nyou protect me, falling into the sea...",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "...No matter how you look at it, this is pissing me off.\nAll of this.",
+      "text": "...No matter how you look at it, this is \npissing me off. All of this.",
       "choice_data_list": [
-        "I think it's great that you're so energetic."
+        "I think it's great that you're so \nenergetic."
       ]
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"That's why it's such a mess, isn't it?!\r\nWe're being swung all over the place!\"",
+      "text": "\"That's why it's such a mess, isn't it?! \nWe're being swung all over the place!\"",
       "choice_data_list": [
         "It's fun precisely because it's hard work.",
-        "It's fun precisely because it's hard work, you know."
+        "It's fun precisely because it's hard work, \nyou know."
       ]
     },
     {
@@ -216,20 +216,20 @@
     },
     {
       "name": "",
-      "text": "Contrary to her words, Tosen Jordan\nseemed somewhat pleased.",
+      "text": "Contrary to her words, Tosen Jordan seemed \nsomewhat pleased.",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Of course I would. Obviously. Things have gotten totally out of hand, after all.",
+      "text": "...Of course I would. Obviously. Things \nhave gotten totally out of hand, after \nall.",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "\"At times like this, only writing a letter of apology comes to mind, but... want to write one?\r\n\"",
+      "text": "\"At times like this, only writing a letter \nof apology comes to mind, but... want to \nwrite one? \"",
       "choice_data_list": [
-        "Forget the written apology, just don't go catching a cold, got it?",
-        "Forget about the written apology, just make sure you don't catch a cold."
+        "Forget the written apology, just don't go \ncatching a cold, got it?",
+        "Forget about the written apology, just \nmake sure you don't catch a cold."
       ]
     },
     {
@@ -239,17 +239,17 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "...Haaah? What's that about?\r\nAre you still worrying about me?",
+      "text": "...Haaah? What's that about? Are you still \nworrying about me?",
       "choice_data_list": []
     },
     {
       "name": "Tosen Jordan",
-      "text": "Seriously...\r\nJust how softhearted are you?",
+      "text": "Seriously... Just how softhearted are you?",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Afterward, Tosen Jordan grew quiet,\r\nseemingly lost in thought.",
+      "text": "Afterward, Tosen Jordan grew quiet, \nseemingly lost in thought.",
       "choice_data_list": []
     }
   ]

@@ -3,29 +3,29 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "During training, Rulership got a minor injury,\nso we came to the nurse's office.",
+      "text": "During training, Rulership got a minor \ninjury, so we came to the nurse's office.",
       "choice_data_list": []
     },
     {
       "name": "Rulership",
-      "text": "You're exaggerating over a little injury like this.\nYou worry too much, don't you?",
+      "text": "You're exaggerating over a little injury \nlike this. You worry too much, don't you?",
       "choice_data_list": [
         "You can never be too careful."
       ]
     },
     {
       "name": "Rulership",
-      "text": "Hmm... Well, it's pretty common in games\nfor a tiny mistake to come back\nand totally wreck you later.",
+      "text": "Hmm... Well, it's pretty common in games \nfor a tiny mistake to come back and \ntotally wreck you later.",
       "choice_data_list": []
     },
     {
       "name": "Rulership",
-      "text": "However... being too cautious often causes\none to miss the right opportunity.",
+      "text": "However... being too cautious often causes \none to miss the right opportunity.",
       "choice_data_list": []
     },
     {
       "name": "Rulership",
-      "text": "This injury isn't enough\nto force me off the board.",
+      "text": "This injury isn't enough to force me off \nthe board.",
       "choice_data_list": []
     },
     {
@@ -34,7 +34,7 @@
       "choice_data_list": [
         "No... let's just rest up for today.",
         "Okay, but don't overdo it.",
-        "Okay, but don't push yourself too hard, alright?"
+        "Okay, but don't push yourself too hard, \nalright?"
       ]
     },
     {
@@ -43,12 +43,12 @@
       "choice_data_list": [
         "No... let's just rest up for today.",
         "Okay, but don't overdo it.",
-        "Okay, but don't push yourself too hard, alright?"
+        "Okay, but don't push yourself too hard, \nalright?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"Risking making the injury worse by continuing training right now is not wise.\nI persuaded her that she should quietly step back for now.\"",
+      "text": "\"Risking making the injury worse by \ncontinuing training right now is not wise. \nI persuaded her that she should quietly \nstep back for now.\"",
       "choice_data_list": []
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "name": "Rulership",
-      "text": "\"...Sigh. It seems I, too,\nhave lost my composure.\"",
+      "text": "\"...Sigh. It seems I, too, have lost my \ncomposure.\"",
       "choice_data_list": []
     },
     {
       "name": "Rulership",
-      "text": "\"For now, let us follow your strategy.\nI shall do my best to recover quickly.\"",
+      "text": "\"For now, let us follow your strategy. I \nshall do my best to recover quickly.\"",
       "choice_data_list": []
     },
     {
@@ -80,22 +80,22 @@
     },
     {
       "name": "Rulership",
-      "text": "Ha, haha...\nLooks like this is the end of the line for me...",
+      "text": "Ha, haha... Looks like this is the end of \nthe line for me...",
       "choice_data_list": []
     },
     {
       "name": "Rulership",
-      "text": "Sigh... Getting injured, misjudging the situation...\nI'm totally hopeless...",
+      "text": "Sigh... Getting injured, misjudging the \nsituation... I'm totally hopeless...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Because Rulership's injury worsened,\nI hastily called an end to our training session.",
+      "text": "Because Rulership's injury worsened, I \nhastily called an end to our training \nsession.",
       "choice_data_list": []
     },
     {
       "name": "Rulership",
-      "text": "Yeah, no pain... not bad at all.\nLooks like I can keep going like this.",
+      "text": "Yeah, no pain... not bad at all. Looks \nlike I can keep going like this.",
       "choice_data_list": []
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Afterward, Rulership trained at a steady,\ncomfortable pace.",
+      "text": "Afterward, Rulership trained at a steady, \ncomfortable pace.",
       "choice_data_list": []
     }
   ]

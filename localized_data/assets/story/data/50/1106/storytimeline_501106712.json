@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Hishi Miracle didn't show up for training,\nso getting worried, I went looking around for her—",
+      "text": "Hishi Miracle didn't show up for training, \nso getting worried, I went looking around \nfor her—",
       "choice_data_list": []
     },
     {
       "name": "Hishi Miracle",
-      "text": "Hmm... What should I do...?\nI still have plenty of lip balm left...",
+      "text": "Hmm... What should I do...? I still have \nplenty of lip balm left...",
       "choice_data_list": [
         "Hishi Miracle"
       ]
@@ -22,19 +22,19 @@
     },
     {
       "name": "Hishi Miracle",
-      "text": "Huh... Ah, training!\nAh, I completely forgot...",
+      "text": "Huh... Ah, training! Ah, I completely \nforgot...",
       "choice_data_list": []
     },
     {
       "name": "Hishi Miracle",
-      "text": "I'm sorry...\nMy head was completely filled with the thought of having to use my coupon before today ended...",
+      "text": "I'm sorry... My head was completely filled \nwith the thought of having to use my \ncoupon before today ended...",
       "choice_data_list": [
         "A coupon?"
       ]
     },
     {
       "name": "Hishi Miracle",
-      "text": "The discount coupon here expires today.\nBut I just can't seem to find anything\nI actually want to buy...",
+      "text": "The discount coupon here expires today. \nBut I just can't seem to find anything I \nactually want to buy...",
       "choice_data_list": []
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Since Hishi Miracle seemed deeply remorseful,\nI simply warned her to be more careful next time.",
+      "text": "Since Hishi Miracle seemed deeply \nremorseful, I simply warned her to be more \ncareful next time.",
       "choice_data_list": []
     }
   ]

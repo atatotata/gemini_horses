@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "It happened when I was doing\nstrength training together with Gentildonna.",
+      "text": "It happened when I was doing strength \ntraining together with Gentildonna.",
       "choice_data_list": []
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "name": "Gentildonna",
-      "text": "Please don't worry about it.\nIt was just a slight headache.",
+      "text": "Please don't worry about it. It was just a \nslight headache.",
       "choice_data_list": []
     },
     {
@@ -36,24 +36,24 @@
     },
     {
       "name": "Narrator",
-      "text": "Gentildonna gripped the dumbbell so hard\nthat it broke into pieces!!",
+      "text": "Gentildonna gripped the dumbbell so hard \nthat it broke into pieces!!",
       "choice_data_list": [
         "Your hand!! Are you okay!?"
       ]
     },
     {
       "name": "Gentildonna",
-      "text": "\"...You're exaggerating.\nSomething like this is nothing to me.\"",
+      "text": "\"...You're exaggerating. Something like \nthis is nothing to me.\"",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "“Still, tensing up without realizing it\nis somewhat inconvenient, isn't it?”",
+      "text": "“Still, tensing up without realizing it is \nsomewhat inconvenient, isn't it?”",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Gentildonna seems to be suffering from a migraine\nso severe that she can't even\nregulate her own strength...",
+      "text": "Gentildonna seems to be suffering from a \nmigraine so severe that she can't even \nregulate her own strength...",
       "choice_data_list": []
     }
   ]

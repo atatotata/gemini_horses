@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "ST-2 (Satie)",
-      "text": "*pant*, *pant*... The time isn't bad.\nBut still――it's not enough yet.",
+      "text": "*pant*, *pant*... The time isn't bad. But \nstill――it's not enough yet.",
       "choice_data_list": []
     },
     {
@@ -16,12 +16,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Ever since ST-2 upgraded to its final form,\nDr. Wright's passion for the research has grown even stronger.",
+      "text": "Ever since ST-2 upgraded to its final \nform, Dr. Wright's passion for the \nresearch has grown even stronger.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hmm, we've conducted repeated tests in the final configuration,\nbut numerically... things seem rather stagnant.",
+      "text": "Hmm, we've conducted repeated tests in the \nfinal configuration, but numerically... \nthings seem rather stagnant.",
       "choice_data_list": [
         "...Do you know the cause?",
         "...Do you know the cause?"
@@ -29,39 +29,39 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No, it's just that...\nI can't tell what's causing this plateau...",
+      "text": "No, it's just that... I can't tell what's \ncausing this plateau...",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "Damn it... Dammit... Why...?\nI don't understand. Why is this happening...?!",
+      "text": "Damn it... Dammit... Why...? I don't \nunderstand. Why is this happening...?!",
       "choice_data_list": [
         "Please don't overwork yourself..."
       ]
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "Trainer... Indeed, my apologies.\nI must ask to borrow everyone's wisdom once more...",
+      "text": "Trainer... Indeed, my apologies. I must \nask to borrow everyone's wisdom once \nmore...",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "What's missing is,\nI think, the power to push hard at the very end.",
+      "text": "What's missing is, I think, the power to \npush hard at the very end.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "I don't know much about robots,\nbut maybe if we use the emergency booster...",
+      "text": "I don't know much about robots, but maybe \nif we use the emergency booster...",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No, that would ruin the feel of running.\nAs I thought, raising the average power output is the way to go...",
+      "text": "No, that would ruin the feel of running. \nAs I thought, raising the average power \noutput is the way to go...",
       "choice_data_list": []
     },
     {
       "name": "Air Shakur",
-      "text": "\"I told you the hardware is at its limit.\nRather than that, focus on upgrading\nthe 'software'...\"",
+      "text": "\"I told you the hardware is at its limit. \nRather than that, focus on upgrading the \n'software'...\"",
       "choice_data_list": []
     },
     {
@@ -71,12 +71,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Though they brought together various opinions,\nthere was no ray of hope in sight.\nIs there really any way to improve things?",
+      "text": "Though they brought together various \nopinions, there was no ray of hope in \nsight. Is there really any way to improve \nthings?",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Princess of the Wheel, show it to me once more.\nThe supreme run that you are capable of right now.",
+      "text": "Princess of the Wheel, show it to me once \nmore. The supreme run that you are capable \nof right now.",
       "choice_data_list": []
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Cramming at the last second ain't gonna cut it.\nThrowing in random stuff will only make things worse.",
+      "text": "Cramming at the last second ain't gonna \ncut it. Throwing in random stuff will only \nmake things worse.",
       "choice_data_list": []
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Only Tanino Gimlet remained silent.\nShe simply stared intently at ST-2, and then...",
+      "text": "Only Tanino Gimlet remained silent. She \nsimply stared intently at ST-2, and \nthen...",
       "choice_data_list": []
     },
     {
@@ -128,12 +128,12 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "It is still a tin can. On the outside,\nit is polished like a flawless statue. However—",
+      "text": "It is still a tin can. On the outside, it \nis polished like a flawless statue. \nHowever—",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Far from the Deus Ex Machina.\nIn that case—",
+      "text": "Far from the Deus Ex Machina. In that \ncase—",
       "choice_data_list": []
     },
     {
@@ -143,37 +143,37 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "I shall reveal the answer to you.\nMe, myself—no, I will.",
+      "text": "I shall reveal the answer to you. Me, \nmyself—no, I will.",
       "choice_data_list": []
     },
     {
       "name": "Symboli Kris S",
-      "text": "Gimlet, are you planning... to match paces with me?",
+      "text": "Gimlet, are you planning... to match paces \nwith me?",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "\"Tanino Gimlet...\nAre you saying you know?\nWhat it is that I lack.\"",
+      "text": "\"Tanino Gimlet... Are you saying you know? \nWhat it is that I lack.\"",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Indeed. But before that...\nThe pacesetter and Taishin—step forward.",
+      "text": "Indeed. But before that... The pacesetter \nand Taishin—step forward.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "...Called over by Tanino Gimlet, the three of us first held a brief strategy meeting on how to coordinate our tandem run.",
+      "text": "...Called over by Tanino Gimlet, the three \nof us first held a brief strategy meeting \non how to coordinate our tandem run.",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "“—And that's how it is.\nMe and the Doctor will run first, and then—”",
+      "text": "“—And that's how it is. Me and the Doctor \nwill run first, and then—”",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "I shall entrust the horn to the vanguard.\nWhen the time comes to advance, blow it.",
+      "text": "I shall entrust the horn to the vanguard. \nWhen the time comes to advance, blow it.",
       "choice_data_list": [
         "...Understood."
       ]
@@ -185,42 +185,42 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, first up—ST-2 and Tanino Gimlet were to run together.",
+      "text": "And so, first up—ST-2 and Tanino Gimlet \nwere to run together.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I had Narita Taishin wait by the side of the course.",
+      "text": "I had Narita Taishin wait by the side of \nthe course.",
       "choice_data_list": []
     },
     {
       "name": "Gimlet & ST-2",
-      "text": "Haaaaaah!\nTaaaaaaah!",
+      "text": "Haaaaaah! Taaaaaaah!",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Heh, you've improved, tin can.\nHowever—you're still nowhere close.",
+      "text": "Heh, you've improved, tin can. \nHowever—you're still nowhere close.",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "\"Do not underestimate it. The current ST-2\nis no longer the incomplete form it was at first.\"",
+      "text": "\"Do not underestimate it. The current ST-2 \nis no longer the incomplete form it was at \nfirst.\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The speed hardly changed at all.\nQuite surprising.",
+      "text": "The speed hardly changed at all. Quite \nsurprising.",
       "choice_data_list": []
     },
     {
       "name": "Symboli Kris S",
-      "text": "Yeah. But—\na race is not a contest... of speed.",
+      "text": "Yeah. But— a race is not a contest... of \nspeed.",
       "choice_data_list": []
     },
     {
       "name": "Gimlet & ST-2",
-      "text": "Haaaaaaah!\nWoooooooah!",
+      "text": "Haaaaaaah! Woooooooah!",
       "choice_data_list": []
     },
     {
@@ -230,17 +230,17 @@
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "Ugh... guh...!?\nLittle by little... the gap is...",
+      "text": "Ugh... guh...!? Little by little... the \ngap is...",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "\"Is this all you've got, tin can?\nWill you be swallowed helplessly into the muddy sea of reason?\"",
+      "text": "\"Is this all you've got, tin can? Will you \nbe swallowed helplessly into the muddy sea \nof reason?\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"At this rate, ST-2 will\ndefinitely be left behind. In that case—\"",
+      "text": "\"At this rate, ST-2 will definitely be \nleft behind. In that case—\"",
       "choice_data_list": [
         "Now, Taishin!",
         "Now's the time, Taishin!"
@@ -253,12 +253,12 @@
     },
     {
       "name": "Narrator",
-      "text": "—Without missing a beat, Narita Taishin was sent in.\nTo chase after them.",
+      "text": "—Without missing a beat, Narita Taishin \nwas sent in. To chase after them.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Narita Taishin caught up in an instant, and then—",
+      "text": "Narita Taishin caught up in an instant, \nand then—",
       "choice_data_list": []
     },
     {
@@ -268,22 +268,22 @@
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "――!? Taishin!?\nShe's making a move... on the final stretch!?",
+      "text": "――!? Taishin!? She's making a move... on \nthe final stretch!?",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "This off-the-charts speed...\nNo, it isn't speed.\nWhat is completely different between us is...",
+      "text": "This off-the-charts speed... No, it isn't \nspeed. What is completely different \nbetween us is...",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "I used up my burst of speed to catch up. But if it comes down to a battle in the final stretch—",
+      "text": "I used up my burst of speed to catch up. \nBut if it comes down to a battle in the \nfinal stretch—",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "I... won't lose!\nThere's no way in hell I'm losinggg!!!!",
+      "text": "I... won't lose! There's no way in hell \nI'm losinggg!!!!",
       "choice_data_list": []
     },
     {
@@ -293,12 +293,12 @@
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "(The fundamental... quality is different...\nFundamentally different from ST-2's running...)",
+      "text": "(The fundamental... quality is \ndifferent... Fundamentally different from \nST-2's running...)",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "(I am merely, so to speak, \"riding in a vehicle.\"\nTaishin, however...)",
+      "text": "(I am merely, so to speak, \"riding in a \nvehicle.\" Taishin, however...)",
       "choice_data_list": []
     },
     {
@@ -308,17 +308,17 @@
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "(...It's her spirit.\nHer raw feelings are turning directly into her running!)",
+      "text": "(...It's her spirit. Her raw feelings are \nturning directly into her running!)",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "(Unless I reach this state of mind...\nthere's no way I can overcome the wall.)",
+      "text": "(Unless I reach this state of mind... \nthere's no way I can overcome the wall.)",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "\"Yes, the crucial passion isn't found in a tin body.\nThe one who possesses it is—\"",
+      "text": "\"Yes, the crucial passion isn't found in a \ntin body. The one who possesses it is—\"",
       "choice_data_list": []
     },
     {
@@ -328,27 +328,27 @@
     },
     {
       "name": "Tanino Gimlet",
-      "text": "If you wish to fly—tear them to pieces.\nThe chains of the bound princess that shackle your heart.",
+      "text": "If you wish to fly—tear them to pieces. \nThe chains of the bound princess that \nshackle your heart.",
       "choice_data_list": []
     },
     {
       "name": "Sugar Lights",
-      "text": "Right... Until now, I tried\nto run purely on logic. But...",
+      "text": "Right... Until now, I tried to run purely \non logic. But...",
       "choice_data_list": []
     },
     {
       "name": "Sugar Lights",
-      "text": "For ST-2 to truly run on equal footing with an Umamusume—",
+      "text": "For ST-2 to truly run on equal footing \nwith an Umamusume—",
       "choice_data_list": []
     },
     {
       "name": "Sugar Lights",
-      "text": "Reason alone... won't be enough to reach it.",
+      "text": "Reason alone... won't be enough to reach \nit.",
       "choice_data_list": []
     },
     {
       "name": "Sugar Lights",
-      "text": "Running with all your heart, and answering their feelings in kind—that's what it's all about!",
+      "text": "Running with all your heart, and answering \ntheir feelings in kind—that's what it's \nall about!",
       "choice_data_list": []
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "\"I waaaant to...\nI want to... follow my heart eveeeen moreee!!\"",
+      "text": "\"I waaaant to... I want to... follow my \nheart eveeeen moreee!!\"",
       "choice_data_list": []
     },
     {
@@ -373,27 +373,27 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Damn, it surpassed it... beyond all numerical limits...",
+      "text": "Damn, it surpassed it... beyond all \nnumerical limits...",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"I suppose this was inevitable. When an earnest Taishin\ncomes chasing after you, you have no choice but to end up like this...\"",
+      "text": "\"I suppose this was inevitable. When an \nearnest Taishin comes chasing after you, \nyou have no choice but to end up like \nthis...\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Truly a small bullet. Driven by that fierce late surge with everything staked on the line, how could anyone not be fired up?",
+      "text": "Truly a small bullet. Driven by that \nfierce late surge with everything staked \non the line, how could anyone not be fired \nup?",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Chased by that heat, both Ticket and I grew stronger.\nAnd now... the Doctor has too.\"",
+      "text": "\"Chased by that heat, both Ticket and I \ngrew stronger. And now... the Doctor has \ntoo.\"",
       "choice_data_list": []
     },
     {
       "name": "Symboli Kris S",
-      "text": "Hm.\nST-2 is no longer... a machine.\nYes—",
+      "text": "Hm. ST-2 is no longer... a machine. Yes—",
       "choice_data_list": []
     },
     {
@@ -403,90 +403,90 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, running alongside Tanino Gimlet\nand Narita Taishin, ST-2 demonstrated\nan unprecedented level of explosive power.",
+      "text": "And so, running alongside Tanino Gimlet \nand Narita Taishin, ST-2 demonstrated an \nunprecedented level of explosive power.",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "Haa, haa, haa. In the end, I couldn't win.\nHowever...!",
+      "text": "Haa, haa, haa. In the end, I couldn't win. \nHowever...!",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "\"The lubricant is... running hot.\nIs this what ST-2 is like?\"",
+      "text": "\"The lubricant is... running hot. Is this \nwhat ST-2 is like?\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I see... Watching that tandem gallop just now\nallowed me to clearly analyze the root cause.",
+      "text": "I see... Watching that tandem gallop just \nnow allowed me to clearly analyze the root \ncause.",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "Hmm, could it be... that this isn't just a matter of mindset?",
+      "text": "Hmm, could it be... that this isn't just a \nmatter of mindset?",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "To put it crudely, yes... but more precisely—",
+      "text": "To put it crudely, yes... but more \nprecisely—",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The Doctor was still trying to maintain \"control.\"",
+      "text": "The Doctor was still trying to maintain \n\"control.\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Up until now, I consciously tried to move my prosthetic body,\nST-2. However—",
+      "text": "Up until now, I consciously tried to move \nmy prosthetic body, ST-2. However—",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Neither Umamusume nor humans consciously\nthink about how to walk or run.",
+      "text": "Neither Umamusume nor humans consciously \nthink about how to walk or run.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Every movement is \"unconscious.\"\nThat's precisely why her reactions are so fast, and her room for growth so vast...",
+      "text": "Every movement is \"unconscious.\" That's \nprecisely why her reactions are so fast, \nand her room for growth so vast...",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"What the Doctor lacked was trust in ST-2,\nand surrendering to instinct.\"",
+      "text": "\"What the Doctor lacked was trust in ST-2, \nand surrendering to instinct.\"",
       "choice_data_list": []
     },
     {
       "name": "ST-2 (Satie)",
-      "text": "I see... Instinct...\nSo that's the reason...",
+      "text": "I see... Instinct... So that's the \nreason...",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Having Taishin be the one to give chase was also optimal.\nOn the final stretch, she always runs on pure instinct.",
+      "text": "Having Taishin be the one to give chase \nwas also optimal. On the final stretch, \nshe always runs on pure instinct.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The Doctor must have been inspired by that instinct as well.\nThe timing of her order to pursue was impeccable.",
+      "text": "The Doctor must have been inspired by that \ninstinct as well. The timing of her order \nto pursue was impeccable.",
       "choice_data_list": [
-        "Well... there really wasn't anywhere else, was there?",
-        "Well... there really wasn't anywhere else, right?"
+        "Well... there really wasn't anywhere else, \nwas there?",
+        "Well... there really wasn't anywhere else, \nright?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "If we were to make them give chase, it had to be when Dr. Wrights was on the verge of giving up.\nThere was no hesitation in our decision.",
+      "text": "If we were to make them give chase, it had \nto be when Dr. Wrights was on the verge of \ngiving up. There was no hesitation in our \ndecision.",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Heh, thus—it seems the forbidden gate\nhas opened. In that case—",
+      "text": "Heh, thus—it seems the forbidden gate has \nopened. In that case—",
       "choice_data_list": []
     },
     {
       "name": "Tanino Gimlet",
-      "text": "Let us go.\nTo the edge of the horizon, and beyond.",
+      "text": "Let us go. To the edge of the horizon, and \nbeyond.",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "During training, Tokai Teio got injured,\nso I took her to the nurse's office.",
+      "text": "During training, Tokai Teio got injured, \nso I took her to the nurse's office.",
       "choice_data_list": []
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "An injury like this will heal in no time!\r\nStarting tomorrow, I can even—",
+      "text": "An injury like this will heal in no time! \nStarting tomorrow, I can even—",
       "choice_data_list": [
         "First, let's rest."
       ]
@@ -30,14 +30,14 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I won't let an injury get in my way!\r\nWhen I say I'm gonna do it—",
+      "text": "I won't let an injury get in my way! When \nI say I'm gonna do it—",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
       "text": "Ouch!",
       "choice_data_list": [
-        "I don't want you pushing yourself too hard.",
+        "I don't want you pushing yourself too \nhard.",
         "Can you run in that condition?",
         "Can you run in that condition?"
       ]
@@ -46,7 +46,7 @@
       "name": "Tokai Teio",
       "text": "Ouch!",
       "choice_data_list": [
-        "I don't want you pushing yourself too hard.",
+        "I don't want you pushing yourself too \nhard.",
         "Can you run in that condition?",
         "Can you run in that condition?"
       ]
@@ -65,17 +65,17 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "*sniff*... It's all because... you said so, Trainer.",
+      "text": "*sniff*... It's all because... you said \nso, Trainer.",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Truth is... I'm not gonna let\r\na little injury beat me...!",
+      "text": "Truth is... I'm not gonna let a little \ninjury beat me...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And that day,\r\nI made sure Tokai Teio got plenty of rest.",
+      "text": "And that day, I made sure Tokai Teio got \nplenty of rest.",
       "choice_data_list": []
     },
     {
@@ -97,12 +97,12 @@
       "name": "Tokai Teio",
       "text": "…………。",
       "choice_data_list": [
-        "It'll get better if you just take a proper day of rest."
+        "It'll get better if you just take a proper \nday of rest."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "…………。\r\n……。",
+      "text": "…………。 ……。",
       "choice_data_list": []
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Tokai Teio spent the rest of that day with a frustrated look on her face.",
+      "text": "Tokai Teio spent the rest of that day with \na frustrated look on her face.",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Look, Trainer!\r\nI'm totally fine!",
+      "text": "Look, Trainer! I'm totally fine!",
       "choice_data_list": []
     },
     {
@@ -127,17 +127,17 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Have some faith in me, Trainer.\r\nAfter all, I'm the Umamusume you're in charge of, aren't I?",
+      "text": "Have some faith in me, Trainer. After all, \nI'm the Umamusume you're in charge of, \naren't I?",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "No matter what happens, no matter how many times it takes,\r\nI'll always get back on my feet!",
+      "text": "No matter what happens, no matter how many \ntimes it takes, I'll always get back on my \nfeet!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "—The next day, Tokai Teio showed herself\r\nto be stronger and more invincible than ever before.",
+      "text": "—The next day, Tokai Teio showed herself \nto be stronger and more invincible than \never before.",
       "choice_data_list": []
     }
   ]

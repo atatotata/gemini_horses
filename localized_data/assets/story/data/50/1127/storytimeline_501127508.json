@@ -3,29 +3,29 @@
   "text_block_list": [
     {
       "name": "Fenomeno",
-      "text": "...*inhale*............ *gasp*!\n............*mm*............*inhale*...",
+      "text": "...*inhale*............ *gasp*! \n............*mm*............*inhale*...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Fenomeno was studying with her textbook, but she kept nodding off and jerking back awake.",
+      "text": "Fenomeno was studying with her textbook, \nbut she kept nodding off and jerking back \nawake.",
       "choice_data_list": [
         "Hey, are you okay?"
       ]
     },
     {
       "name": "Fenomeno",
-      "text": "\"...Gasp! I-I'm terribly sorry, Boss!\nTo fall asleep when I should be a model student...\"",
+      "text": "\"...Gasp! I-I'm terribly sorry, Boss! To \nfall asleep when I should be a model \nstudent...\"",
       "choice_data_list": []
     },
     {
       "name": "Fenomeno",
-      "text": "I'll go wash my face\nand psych myself up all over again!",
+      "text": "I'll go wash my face and psych myself up \nall over again!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Fenomeno seems to be accumulating fatigue.\nIt might be necessary to review her schedule.",
+      "text": "Fenomeno seems to be accumulating fatigue. \nIt might be necessary to review her \nschedule.",
       "choice_data_list": []
     }
   ]

@@ -3,20 +3,20 @@
   "text_block_list": [
     {
       "name": "Believe",
-      "text": "…………。\n…………。",
+      "text": "…………。 …………。",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "When I entered the waiting room, Believe was working out.\nFor a second, I thought she might be nervous, but—",
+      "text": "When I entered the waiting room, Believe \nwas working out. For a second, I thought \nshe might be nervous, but—",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "...Yeah.\nWith this—",
+      "text": "...Yeah. With this—",
       "choice_data_list": [
         "Were you checking your condition?",
-        "Were you checking how your body was feeling?"
+        "Were you checking how your body was \nfeeling?"
       ]
     },
     {
@@ -26,14 +26,14 @@
     },
     {
       "name": "Believe",
-      "text": "...Because Grandpa always checks his tools\nbefore starting work, too.",
+      "text": "...Because Grandpa always checks his tools \nbefore starting work, too.",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "It's the same as that.\nI was just checking to see if I was ready.",
+      "text": "It's the same as that. I was just checking \nto see if I was ready.",
       "choice_data_list": [
-        "I see... Are you feeling in top shape today?"
+        "I see... Are you feeling in top shape \ntoday?"
       ]
     },
     {

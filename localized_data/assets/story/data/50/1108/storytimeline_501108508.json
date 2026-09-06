@@ -3,30 +3,30 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "A media interview had been scheduled, and preparations were underway, but—",
+      "text": "A media interview had been scheduled, and \npreparations were underway, but—",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
       "text": "...Phew.",
       "choice_data_list": [
-        "You seem kind of down today... are you okay?",
-        "You seem a little down today, don't you...?"
+        "You seem kind of down today... are you \nokay?",
+        "You seem a little down today, don't \nyou...?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "During interviews, Duramente carries herself with dignified grace, befitting a member of a prestigious lineage... but today, she seems somewhat out of spirits.",
+      "text": "During interviews, Duramente carries \nherself with dignified grace, befitting a \nmember of a prestigious lineage... but \ntoday, she seems somewhat out of spirits.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "...No.\n...I'm going to go wash my face for a bit.",
+      "text": "...No. ...I'm going to go wash my face for \na bit.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"...Her steps seem somewhat heavy.\nCould it be fatigue from the previous race?\nI might need to rethink the schedule a bit.\"",
+      "text": "\"...Her steps seem somewhat heavy. Could \nit be fatigue from the previous race? I \nmight need to rethink the schedule a bit.\"",
       "choice_data_list": []
     }
   ]

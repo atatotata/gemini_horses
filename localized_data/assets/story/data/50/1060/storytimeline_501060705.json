@@ -3,22 +3,22 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "On the way home from\r\ngoing out with Nice Nature...",
+      "text": "On the way home from going out with Nice \nNature...",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "Huh, isn't that City over there?\r\nIs she... on a modeling shoot, maybe?",
+      "text": "Huh, isn't that City over there? Is she... \non a modeling shoot, maybe?",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "Whoa... Just standing there, she has this aura.\r\nIt feels like she's on a completely different dimension.",
+      "text": "Whoa... Just standing there, she has this \naura. It feels like she's on a completely \ndifferent dimension.",
       "choice_data_list": []
     },
     {
       "name": "Cameraman",
-      "text": "Hmm, I'd like some more relaxed expressions too.\r\nLet's take a quick break!",
+      "text": "Hmm, I'd like some more relaxed \nexpressions too. Let's take a quick break!",
       "choice_data_list": []
     },
     {
@@ -33,29 +33,29 @@
     },
     {
       "name": "Gold City",
-      "text": "Huh, Nature and the others... what's wrong?",
+      "text": "Huh, Nature and the others... what's \nwrong?",
       "choice_data_list": [
         "I was just about to head home..."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Woooow, this is amazing!\r\nIt's so divine, it makes you just wanna put your hands together in prayer... y'know?",
+      "text": "Woooow, this is amazing! It's so divine, \nit makes you just wanna put your hands \ntogether in prayer... y'know?",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "So this is what it feels like to admire someone so much you want to worship them.\nPraise be~, praise be~~.",
+      "text": "So this is what it feels like to admire \nsomeone so much you want to worship them. \nPraise be~, praise be~~.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "\"Pfft... Ahaha,\r\nwhat's that even mean? That's a first for me.\"",
+      "text": "\"Pfft... Ahaha, what's that even mean? \nThat's a first for me.\"",
       "choice_data_list": []
     },
     {
       "name": "Cameraman",
-      "text": "—Love it, that natural smile!\r\nHey, would you girls mind helping with a photoshoot?",
+      "text": "—Love it, that natural smile! Hey, would \nyou girls mind helping with a photoshoot?",
       "choice_data_list": []
     },
     {
@@ -65,24 +65,14 @@
     },
     {
       "name": "Gold City",
-      "text": "Um... please wait a second.\r\nI don't want to cause trouble for the two of them.",
+      "text": "Um... please wait a second. I don't want \nto cause trouble for the two of them.",
       "choice_data_list": [
-        "Want to give it a try? You did say you admired them."
+        "Want to give it a try? You did say you \nadmired them."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Huh!? No, that was just a figure of speech, you know!?\r\nThere's no way someone like me could ever do that!",
-      "choice_data_list": [
-        "You won't know until you try!",
-        "You won't know until you try, you know.",
-        "Alright, I'll go!",
-        "Then I'll go!"
-      ]
-    },
-    {
-      "name": "Nice Nature",
-      "text": "Huh!? No, that was just a figure of speech, you know!?\r\nThere's no way someone like me could ever do that!",
+      "text": "Huh!? No, that was just a figure of \nspeech, you know!? There's no way someone \nlike me could ever do that!",
       "choice_data_list": [
         "You won't know until you try!",
         "You won't know until you try, you know.",
@@ -92,24 +82,34 @@
     },
     {
       "name": "Nice Nature",
-      "text": "T-That might be true, but!\nIt's an 'aspiration' precisely *because* I can't do it, right?!",
+      "text": "Huh!? No, that was just a figure of \nspeech, you know!? There's no way someone \nlike me could ever do that!",
+      "choice_data_list": [
+        "You won't know until you try!",
+        "You won't know until you try, you know.",
+        "Alright, I'll go!",
+        "Then I'll go!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "T-That might be true, but! It's an \n'aspiration' precisely *because* I can't \ndo it, right?!",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "...I see. I get it too, you know.\nThat feeling of not being able to take that step, not being able to run.",
+      "text": "...I see. I get it too, you know. That \nfeeling of not being able to take that \nstep, not being able to run.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "If that's the case, leave it to me.\r\nI'll have your back.",
+      "text": "If that's the case, leave it to me. I'll \nhave your back.",
       "choice_data_list": [
         "Let's do this!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Are you serious... Seriouslyy~~...!?\r\nCan I really do this~~!? Me~~...!?",
+      "text": "Are you serious... Seriouslyy~~...!? Can I \nreally do this~~!? Me~~...!?",
       "choice_data_list": []
     },
     {
@@ -119,12 +119,12 @@
     },
     {
       "name": "Gold City",
-      "text": "Ahaha, you're even stiffer than I am.\r\nLet's think of something funny and relax for a second.",
+      "text": "Ahaha, you're even stiffer than I am. \nLet's think of something funny and relax \nfor a second.",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "\"S-Something funny!?\nI don't have the leeway to think about that right now!?\"",
+      "text": "\"S-Something funny!? I don't have the \nleeway to think about that right now!?\"",
       "choice_data_list": [
         "(Make the goofiest face possible.)"
       ]
@@ -136,7 +136,7 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Ahaha, what's that, that's totally cheating--!!",
+      "text": "Ahaha, what's that, that's totally \ncheating--!!",
       "choice_data_list": []
     },
     {
@@ -151,19 +151,19 @@
     },
     {
       "name": "Gold City",
-      "text": "Good work, and thank you so much.\r\nEveryone was raving about the amazing shots we got.",
+      "text": "Good work, and thank you so much. Everyone \nwas raving about the amazing shots we got.",
       "choice_data_list": [
         "You two were both sparkling."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Ah... thanks a bunch~~\r\nEven laying on the flattery, my oh my.",
+      "text": "Ah... thanks a bunch~~ Even laying on the \nflattery, my oh my.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "Fufu... Well, I'll send you the magazine once it's finished.\r\nYou can check it out for yourself then.",
+      "text": "Fufu... Well, I'll send you the magazine \nonce it's finished. You can check it out \nfor yourself then.",
       "choice_data_list": []
     },
     {
@@ -173,25 +173,25 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Wait, I'm taking up the whole screen!?\r\nHuh!? Isn't that way too much honor for me!?",
+      "text": "Wait, I'm taking up the whole screen!? \nHuh!? Isn't that way too much honor for \nme!?",
       "choice_data_list": [
         "Look, it's blowing up online too!",
-        "Look, people are talking about it online too!"
+        "Look, people are talking about it online \ntoo!"
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "No!! Just leave it!!\r\nI don't wanna see... any backlash—",
+      "text": "No!! Just leave it!! I don't wanna see... \nany backlash—",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "The phone screen was overflowing with praise not only for Gold City\r\nbut also for Nice Nature's smile... along with cheering comments supporting her success.",
+      "text": "The phone screen was overflowing with \npraise not only for Gold City but also for \nNice Nature's smile... along with cheering \ncomments supporting her success.",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "...W-Wait, enough.\r\nEnough already, I get it, so stop it.",
+      "text": "...W-Wait, enough. Enough already, I get \nit, so stop it.",
       "choice_data_list": []
     },
     {
@@ -209,12 +209,12 @@
     },
     {
       "name": "",
-      "text": "The training session that followed\nhad far more fired-up energy than usual.",
+      "text": "The training session that followed had far \nmore fired-up energy than usual.",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "Yo! As expected of you, Trainer!\r\nI'll be watching your heroic performance with my own two eyes.",
+      "text": "Yo! As expected of you, Trainer! I'll be \nwatching your heroic performance with my \nown two eyes.",
       "choice_data_list": []
     },
     {
@@ -224,14 +224,14 @@
     },
     {
       "name": "Gold City",
-      "text": "Hmm, so that's how you became their Trainer?\r\nYou're pretty good yourself.",
+      "text": "Hmm, so that's how you became their \nTrainer? You're pretty good yourself.",
       "choice_data_list": [
         "I'm deeply honored!"
       ]
     },
     {
       "name": "Gold City",
-      "text": "Fufu, I think I'm starting to get fired up too.",
+      "text": "Fufu, I think I'm starting to get fired up \ntoo.",
       "choice_data_list": []
     },
     {
@@ -246,19 +246,19 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Alright, good work~.\nSo, how was your modeling debut?",
+      "text": "Alright, good work~. So, how was your \nmodeling debut?",
       "choice_data_list": [
         "I was so nervous..."
       ]
     },
     {
       "name": "Nice Nature",
-      "text": "Hmm... Really?\r\nLooked pretty slick to me, though.",
+      "text": "Hmm... Really? Looked pretty slick to me, \nthough.",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "Man, City-san is really something else.\r\nShe transforms everything around her into another world.",
+      "text": "Man, City-san is really something else. \nShe transforms everything around her into \nanother world.",
       "choice_data_list": []
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "name": "Gold City",
-      "text": "Guess what she talked about the entire time during the shoot?\r\nIt was all about Nature.",
+      "text": "Guess what she talked about the entire \ntime during the shoot? It was all about \nNature.",
       "choice_data_list": []
     },
     {
@@ -290,22 +290,22 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Huh!? Did you really talk about me\r\nwith a smile like that...?",
+      "text": "Huh!? Did you really talk about me with a \nsmile like that...?",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "............\r\n...Wait, that is so embarrassing?!",
+      "text": "............ ...Wait, that is so \nembarrassing?!",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "That's embarrassing, but it really fired me up.\r\nI'll be counting on you when we race together.",
+      "text": "That's embarrassing, but it really fired \nme up. I'll be counting on you when we \nrace together.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "That... \"bond\" of yours, was it?\r\nI'll be looking forward to seeing it. Later.",
+      "text": "That... \"bond\" of yours, was it? I'll be \nlooking forward to seeing it. Later.",
       "choice_data_list": []
     },
     {
@@ -318,17 +318,17 @@
     },
     {
       "name": "Nice Nature",
-      "text": "Haaah...\r\nThis one has no idea how I feel...",
+      "text": "Haaah... This one has no idea how I \nfeel...",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "\"Yes, yes, I'll do my best.\r\n...So that I can shine in my own way, that is.\"",
+      "text": "\"Yes, yes, I'll do my best. ...So that I \ncan shine in my own way, that is.\"",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "The training session that followed\nhad far more fired-up energy than usual.",
+      "text": "The training session that followed had far \nmore fired-up energy than usual.",
       "choice_data_list": []
     }
   ]

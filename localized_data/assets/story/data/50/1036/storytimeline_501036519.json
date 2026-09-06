@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Internet Cafe Clerk",
-      "text": "Excuse me~, we are fully booked for today~!",
+      "text": "Excuse me~, we are fully booked for \ntoday~!",
       "choice_data_list": []
     },
     {
       "name": "Air Shakur",
-      "text": "(That's unusual... I should look elsewhere...)",
+      "text": "(That's unusual... I should look \nelsewhere...)",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Group Customers",
-      "text": "Huh, here!? Isn't this incredible?\nIt looks just like the photos on Umastagram!!",
+      "text": "Huh, here!? Isn't this incredible? It \nlooks just like the photos on Umastagram!!",
       "choice_data_list": []
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Dammit!!\nWhy did they have to do repair work today of all days?!",
+      "text": "Dammit!! Why did they have to do repair \nwork today of all days?!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Unable to enjoy some peace and quiet, Air Shakur was in a sour mood.",
+      "text": "Unable to enjoy some peace and quiet, Air \nShakur was in a sour mood.",
       "choice_data_list": []
     }
   ]

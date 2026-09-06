@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day, while walking along the riverbank――",
+      "text": "One day, while walking along the \nriverbank――",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "Um... Excuse me.\r\nDo you have a moment?",
+      "text": "Um... Excuse me. Do you have a moment?",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "Could you please time my run?\r\nIt's quite difficult to do properly on my own...",
+      "text": "Could you please time my run? It's quite \ndifficult to do properly on my own...",
       "choice_data_list": [
         "I don't mind at all.",
         "Try running at full throttle."
@@ -21,7 +21,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": ".\r\nWell then, see you.",
+      "text": ". Well then, see you.",
       "choice_data_list": []
     },
     {
@@ -31,22 +31,22 @@
     },
     {
       "name": "Narrator",
-      "text": "Though overwhelmed by Silence Suzuka's sheer speed, I helped her with her training.",
+      "text": "Though overwhelmed by Silence Suzuka's \nsheer speed, I helped her with her \ntraining.",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "Give it my all... Yes, understood.\nI'm counting on you, then.",
+      "text": "Give it my all... Yes, understood. I'm \ncounting on you, then.",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "*pant*, *pant*, *pant*, *pant*...!\r\nHehe, this feels so good...!",
+      "text": "*pant*, *pant*, *pant*, *pant*...! Hehe, \nthis feels so good...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Silence Suzuka tore past at blistering speed... and simply kept running off into the distance.",
+      "text": "Silence Suzuka tore past at blistering \nspeed... and simply kept running off into \nthe distance.",
       "choice_data_list": []
     }
   ]

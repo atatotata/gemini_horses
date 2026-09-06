@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I visited a shrine to pray with Mihono Bourbon, but...",
+      "text": "I visited a shrine to pray with Mihono \nBourbon, but...",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"Two bows, two claps, one bow: finished...\nOperation 'Shrine Visit' is complete.\"",
+      "text": "\"Two bows, two claps, one bow: finished... \nOperation 'Shrine Visit' is complete.\"",
       "choice_data_list": [
         "What did you wish for?",
         "What did you wish for?"
@@ -16,17 +16,17 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"I have reported this as the number of detected\r\nmalfunctions has increased recently.\"",
+      "text": "\"I have reported this as the number of \ndetected malfunctions has increased \nrecently.\"",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "According to an online article, this is supposed to cure slumps, but—",
+      "text": "According to an online article, this is \nsupposed to cure slumps, but—",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"No change in condition.\r\n...It seems there was an error in the article's report.\"",
+      "text": "\"No change in condition. ...It seems there \nwas an error in the article's report.\"",
       "choice_data_list": []
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Recognized Inari's voice command. Taking action.\r\nIn other words, \"Hold yer horses.\"",
+      "text": "Recognized Inari's voice command. Taking \naction. In other words, \"Hold yer horses.\"",
       "choice_data_list": [
         "What's the matter?",
         "What's wrong?"
@@ -44,42 +44,42 @@
     },
     {
       "name": "Inari One",
-      "text": "\"Well, well! I came to say hi to the gods,\nand what interesting conversation do I overhear?\"",
+      "text": "\"Well, well! I came to say hi to the gods, \nand what interesting conversation do I \noverhear?\"",
       "choice_data_list": []
     },
     {
       "name": "Inari One",
-      "text": "You're lacking that stylish flair that's so important for a shrine visit!",
+      "text": "You're lacking that stylish flair that's \nso important for a shrine visit!",
       "choice_data_list": []
     },
     {
       "name": "Inari One",
-      "text": "Ringing the bell with gusto, clapping my hands... I voice my wish from deep within my chest.",
+      "text": "Ringing the bell with gusto, clapping my \nhands... I voice my wish from deep within \nmy chest.",
       "choice_data_list": []
     },
     {
       "name": "Inari One",
-      "text": "If you stand tall and show just how strong your wish is,\r\nthe gods'll find it all the more worthwhile to grant!",
+      "text": "If you stand tall and show just how strong \nyour wish is, the gods'll find it all the \nmore worthwhile to grant!",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I see.\r\nIt appears there was indeed an error in the information.",
+      "text": "I see. It appears there was indeed an \nerror in the information.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Shrine visit manual update complete.\r\nExecuting Operation: \"Even More Refined Worship.\"",
+      "text": "Shrine visit manual update complete. \nExecuting Operation: \"Even More Refined \nWorship.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, we decided to try visiting the shrine again—",
+      "text": "And so, we decided to try visiting the \nshrine again—",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"First...\nI ring the bell vigorously and clap my hands.\"",
+      "text": "\"First... I ring the bell vigorously and \nclap my hands.\"",
       "choice_data_list": []
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Here's wishing for\r\na complete clean-up of all bad status effects!",
+      "text": "Here's wishing for a complete clean-up of \nall bad status effects!",
       "choice_data_list": []
     },
     {
@@ -99,22 +99,22 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Vitals confirmed stable.\r\nMaster, cleanup was successful.",
+      "text": "Vitals confirmed stable. Master, cleanup \nwas successful.",
       "choice_data_list": []
     },
     {
       "name": "Inari One",
-      "text": "Yeah! That was a pretty stylish way to pay your respects!\r\nI bet the gods loved it.",
+      "text": "Yeah! That was a pretty stylish way to pay \nyour respects! I bet the gods loved it.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "So this is the effect of \"iki\"...\r\nHow fascinating.",
+      "text": "So this is the effect of \"iki\"... How \nfascinating.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Perhaps thanks to our stylish shrine visit,\r\nMihono Bourbon was back\nin top form in no time!",
+      "text": "Perhaps thanks to our stylish shrine \nvisit, Mihono Bourbon was back in top form \nin no time!",
       "choice_data_list": []
     },
     {
@@ -124,17 +124,17 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "!?\r\nDropping of the bell, confirmed...!",
+      "text": "!? Dropping of the bell, confirmed...!",
       "choice_data_list": []
     },
     {
       "name": "Shinto Priest",
-      "text": "Whoa! Are you girls hurt!?\r\nI was just thinking it was about time to replace that, but—",
+      "text": "Whoa! Are you girls hurt!? I was just \nthinking it was about time to replace \nthat, but—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Due to bad timing, the shrine bell was broken and they couldn't pray...\r\nLeaving them no choice but to head back to the academy.\"",
+      "text": "\"Due to bad timing, the shrine bell was \nbroken and they couldn't pray... Leaving \nthem no choice but to head back to the \nacademy.\"",
       "choice_data_list": []
     }
   ]

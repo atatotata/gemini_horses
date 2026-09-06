@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I was training with Mejiro Ryan, but her movements lacked their usual sharpness.",
+      "text": "I was training with Mejiro Ryan, but her \nmovements lacked their usual sharpness.",
       "choice_data_list": [
         "Not feeling well?",
         "Aren't you feeling well?"
@@ -11,27 +11,27 @@
     },
     {
       "name": "Mejiro Ryan",
-      "text": "No, I'm totally fine!\nJust look at these dynamic, thriving muscles—",
+      "text": "No, I'm totally fine! Just look at these \ndynamic, thriving muscles—",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Wait, huh...?\r\nMy biceps aren't as pumped as usual.",
+      "text": "Wait, huh...? My biceps aren't as pumped \nas usual.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ryan",
-      "text": "Your hamstrings and triceps surae\r\nlack energy entirely!?",
+      "text": "Your hamstrings and triceps surae lack \nenergy entirely!?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Her muscle tone doesn't seem quite right either.\nPerhaps fatigue is catching up with her.",
+      "text": "Her muscle tone doesn't seem quite right \neither. Perhaps fatigue is catching up \nwith her.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Maybe I should reconsider our upcoming race schedule...",
+      "text": "Maybe I should reconsider our upcoming \nrace schedule...",
       "choice_data_list": []
     }
   ]

@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Today is Valentine's Day. A day to pour your feelings of friendship, romance, or gratitude into chocolates and give them to someone special.",
+      "text": "Today is Valentine's Day. A day to pour \nyour feelings of friendship, romance, or \ngratitude into chocolates and give them to \nsomeone special.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "…………Trainer.\r\nDo you have a moment?",
+      "text": "…………Trainer. Do you have a moment?",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
@@ -16,22 +16,17 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "It's not like that, but...\r\nWell, you know what today is, right? Valentine's.",
+      "text": "It's not like that, but... Well, you know \nwhat today is, right? Valentine's.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "W-Well... they've taken care of me ever since my debut, right? Consider it common courtesy.",
+      "text": "W-Well... they've taken care of me ever \nsince my debut, right? Consider it common \ncourtesy.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "You do so much for me, Trainer,\r\nso I really wanted to give this to you properly.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "...Here you go.",
+      "text": "You do so much for me, Trainer, so I \nreally wanted to give this to you \nproperly.",
       "choice_data_list": []
     },
     {
@@ -41,7 +36,12 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Yeah.\r\nIt's a famous brand, so I guarantee the taste.",
+      "text": "...Here you go.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yeah. It's a famous brand, so I guarantee \nthe taste.",
       "choice_data_list": [
         "Thank you!"
       ]
@@ -53,7 +53,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "\"I was looking for you, Dober~.\nI knew you'd be here~.\"",
+      "text": "\"I was looking for you, Dober~. I knew \nyou'd be here~.\"",
       "choice_data_list": []
     },
     {
@@ -63,97 +63,97 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Pretty please~? Would you mind\nteaching me how to make chocolates~?",
+      "text": "Pretty please~? Would you mind teaching me \nhow to make chocolates~?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "—In short, you can't just heat up\r\nchocolate directly in a pot to melt it.",
+      "text": "—In short, you can't just heat up \nchocolate directly in a pot to melt it.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "I see, so this is a 'water bath'~.\r\nI've got it down completely~.",
+      "text": "I see, so this is a 'water bath'~. I've \ngot it down completely~.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Geez... You could've come to talk to me earlier\r\ninstead of waiting until the day of.",
+      "text": "Geez... You could've come to talk to me \nearlier instead of waiting until the day \nof.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "Indeed~.\nHow careless of me~.",
+      "text": "Indeed~. How careless of me~.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Wait, I mean,\r\nwhy are you making one too, Trainer?",
+      "text": "...Wait, I mean, why are you making one \ntoo, Trainer?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Wait, I mean, you didn't have to go\r\nout of your way to keep me company, Trainer.",
+      "text": "...Wait, I mean, you didn't have to go out \nof your way to keep me company, Trainer.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "It's way more fun to make it together~\r\nRight, Trainer?",
+      "text": "It's way more fun to make it together~ \nRight, Trainer?",
       "choice_data_list": [
-        "I want to express my gratitude with chocolates too.",
-        "I want to express my gratitude with chocolates too."
+        "I want to express my gratitude with \nchocolates too.",
+        "I want to express my gratitude with \nchocolates too."
       ]
     },
     {
       "name": "Mejiro Bright",
-      "text": "It's way more fun to make it together~\r\nRight, Trainer?",
+      "text": "It's way more fun to make it together~ \nRight, Trainer?",
       "choice_data_list": [
-        "I want to express my gratitude with chocolates too.",
-        "I want to express my gratitude with chocolates too."
+        "I want to express my gratitude with \nchocolates too.",
+        "I want to express my gratitude with \nchocolates too."
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Huh...\r\nYou have someone like that...",
-      "choice_data_list": [
-        "Curious?"
-      ]
-    },
-    {
-      "name": "Mejiro Dober",
-      "text": "Well, if you say so... But by that,\ndo you mean the Chairwoman, or maybe Tazuna-san?",
+      "text": "...Huh... You have someone like that...",
       "choice_data_list": [
         "Curious?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "N-No way...!!\nCome on, quit saying weird things and keep your hands moving!",
+      "text": "Well, if you say so... But by that, do you \nmean the Chairwoman, or maybe Tazuna-san?",
+      "choice_data_list": [
+        "Curious?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-No way...!! Come on, quit saying weird \nthings and keep your hands moving!",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "That look on your face... you're teasing me, aren't you?\r\nFine, don't say it. Can we just hurry up and keep going?",
+      "text": "That look on your face... you're teasing \nme, aren't you? Fine, don't say it. Can we \njust hurry up and keep going?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "All finished~!\r\nThank you, Dober~.",
+      "text": "All finished~! Thank you, Dober~.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "All finished~!\r\nThank you, Dober~.",
+      "text": "All finished~! Thank you, Dober~.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "You're welcome.\nGreat job, both of you.",
+      "text": "You're welcome. Great job, both of you.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "\"All that's left is to hand them over to Ryan-oneesama and the others, but—\r\n\"",
+      "text": "\"All that's left is to hand them over to \nRyan-oneesama and the others, but— \"",
       "choice_data_list": []
     },
     {
@@ -163,7 +163,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "I ended up making a bit too much, so\nwhy don't we have a tasting session right here~?",
+      "text": "I ended up making a bit too much, so why \ndon't we have a tasting session right \nhere~?",
       "choice_data_list": []
     },
     {
@@ -178,59 +178,59 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Fufu. I shall have some of both of your chocolates as well~.",
+      "text": "Fufu. I shall have some of both of your \nchocolates as well~.",
       "choice_data_list": [
         "Dober, can I have some?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "Huh!?\nW-Wait! I'm not mentally prepared...!!",
+      "text": "Huh!? W-Wait! I'm not mentally \nprepared...!!",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Um... Ah, yeah.\r\nIf that's what you want, Trainer.",
+      "text": "Um... Ah, yeah. If that's what you want, \nTrainer.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Not that!\r\nUmm, well, geez, come on!!",
+      "text": "Not that! Umm, well, geez, come on!!",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"It's not from a fancy store or anything, so...\r\nUm... don't get your hopes up too high.\"",
+      "text": "\"It's not from a fancy store or anything, \nso... Um... don't get your hopes up too \nhigh.\"",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "J-Just eat it already!\nI'm not guaranteeing the taste, okay...!?",
+      "text": "J-Just eat it already! I'm not \nguaranteeing the taste, okay...!?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "I don't really have anyone to give them to...\r\nso please, take as many as you like.",
+      "text": "I don't really have anyone to give them \nto... so please, take as many as you like.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "As Mejiro Dober popped the chocolate I made\ninto her mouth while speaking, her cheeks\nwere flushed a faint shade of red.",
+      "text": "As Mejiro Dober popped the chocolate I \nmade into her mouth while speaking, her \ncheeks were flushed a faint shade of red.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "...I'll hand Mejiro Dober her share\r\na bit later.",
+      "text": "...I'll hand Mejiro Dober her share a bit \nlater.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "Before giving it to Sister Ryan and the others,\r\nI thought about giving some to Dober's group, but—",
+      "text": "Before giving it to Sister Ryan and the \nothers, I thought about giving some to \nDober's group, but—",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "Don't the two of you have far more suitable opponents for your first match than me?",
+      "text": "Don't the two of you have far more \nsuitable opponents for your first match \nthan me?",
       "choice_data_list": []
     },
     {
@@ -240,35 +240,35 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Let's not be boorish; let's bite our handkerchiefs\r\nand quietly make our exit here~",
+      "text": "Let's not be boorish; let's bite our \nhandkerchiefs and quietly make our exit \nhere~",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"H-Hold on a second?\nDon't tell me, from the very start—\"",
+      "text": "\"H-Hold on a second? Don't tell me, from \nthe very start—\"",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Bright",
-      "text": "Fufu.\r\nI'll come by to hand it over to you properly later~.",
+      "text": "Fufu. I'll come by to hand it over to you \nproperly later~.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Ugh...\r\nOh, Bright, really...!",
+      "text": "Ugh... Oh, Bright, really...!",
       "choice_data_list": [
-        "...Looks like it's just the two of us now, huh?",
-        "...Looks like it's down to just the two of us, huh?"
+        "...Looks like it's just the two of us now, \nhuh?",
+        "...Looks like it's down to just the two of \nus, huh?"
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "D-Don't phrase it like that!\nWhen you say it that way, it just makes me even more—",
+      "text": "D-Don't phrase it like that! When you say \nit that way, it just makes me even more—",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"...Don't worry about\r\nwhat Bright said earlier, okay?\"",
+      "text": "\"...Don't worry about what Bright said \nearlier, okay?\"",
       "choice_data_list": []
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "Your chocolates turned out pretty great, Trainer.\r\nWhoever receives them is bound to be happy.",
+      "text": "Your chocolates turned out pretty great, \nTrainer. Whoever receives them is bound to \nbe happy.",
       "choice_data_list": [
         "For now, eat some sweets and calm down.",
         "The one I want to give it to is Dober."
@@ -291,16 +291,16 @@
       "name": "Mejiro Dober",
       "text": "What are you say—wait, chocolate?",
       "choice_data_list": [
-        "Happy Valentine's Day! ...It's a little clumsy, though.",
-        "It might look clumsy, but I put my heart into it."
+        "Happy Valentine's Day! ...It's a little \nclumsy, though.",
+        "It might look clumsy, but I put my heart \ninto it."
       ]
     },
     {
       "name": "Mejiro Dober",
       "text": "F-For me?",
       "choice_data_list": [
-        "Happy Valentine's Day! ...It's a little clumsy, though.",
-        "It might look clumsy, but I put my heart into it."
+        "Happy Valentine's Day! ...It's a little \nclumsy, though.",
+        "It might look clumsy, but I put my heart \ninto it."
       ]
     },
     {
@@ -315,12 +315,12 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"Why do you always have to... ugh! Doing the things I can't do so easily—\"",
+      "text": "\"Why do you always have to... ugh! Doing \nthe things I can't do so easily—\"",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "...I look pretty pathetic, huh. Getting cold feet and trying to run away to something store-bought.",
+      "text": "...I look pretty pathetic, huh. Getting \ncold feet and trying to run away to \nsomething store-bought.",
       "choice_data_list": []
     },
     {
@@ -330,27 +330,27 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "...Thank you.\nYou're right, it's the thought that counts...",
+      "text": "...Thank you. You're right, it's the \nthought that counts...",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"...Sigh.\r\nI feel like an idiot for trying to run away.\"",
+      "text": "\"...Sigh. I feel like an idiot for trying \nto run away.\"",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Trainer. I know this is the second time,\nbut will you accept it?",
+      "text": "Trainer. I know this is the second time, \nbut will you accept it?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Take it. ...Just so you know,\r\nI won't let you get away with just forcing yours on me and leaving.",
+      "text": "Take it. ...Just so you know, I won't let \nyou get away with just forcing yours on me \nand leaving.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "It might not be perfect like high-end brand stuff, but...\nthis is the best I can do right now.",
+      "text": "It might not be perfect like high-end \nbrand stuff, but... this is the best I can \ndo right now.",
       "choice_data_list": []
     }
   ]

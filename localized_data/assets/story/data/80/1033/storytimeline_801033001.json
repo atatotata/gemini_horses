@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "One day at the shopping mall,\r\nI spotted Admire Vega talking to a crying little child.",
+      "text": "One day at the shopping mall, I spotted \nAdmire Vega talking to a crying little \nchild.",
       "choice_data_list": []
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "She's been like that the whole time.\r\n...Whenever I try to talk to her, she just cries.",
+      "text": "She's been like that the whole time. \n...Whenever I try to talk to her, she just \ncries.",
       "choice_data_list": [
         "Let's join forces!",
         "Let's calm them down first."
@@ -48,8 +48,8 @@
       "name": "Admire Vega",
       "text": "Huh? Look, no matter what I do—",
       "choice_data_list": [
-        "I'll keep an eye on things, so go call a staff member.",
-        "I'll keep an eye on things, so go call a staff member."
+        "I'll keep an eye on things, so go call a \nstaff member.",
+        "I'll keep an eye on things, so go call a \nstaff member."
       ]
     },
     {
@@ -59,17 +59,17 @@
     },
     {
       "name": "",
-      "text": "Afterward, I had an announcement made over the PA system...",
+      "text": "Afterward, I had an announcement made over \nthe PA system...",
       "choice_data_list": []
     },
     {
       "name": "Boy",
-      "text": "Big sissss!\r\nThat was so scaaary~~!",
+      "text": "Big sissss! That was so scaaary~~!",
       "choice_data_list": []
     },
     {
       "name": "Girl",
-      "text": "Geez! You can't just run off on your own!\nCome on, hold your big sister's hand!",
+      "text": "Geez! You can't just run off on your own! \nCome on, hold your big sister's hand!",
       "choice_data_list": [
         "I'm glad you found it."
       ]
@@ -81,12 +81,12 @@
     },
     {
       "name": "",
-      "text": "Seeing that the child was in a panic from being lost,\nI gently patted their back and waited for them to calm down――",
+      "text": "Seeing that the child was in a panic from \nbeing lost, I gently patted their back and \nwaited for them to calm down――",
       "choice_data_list": []
     },
     {
       "name": "Boy",
-      "text": "...*sniff*.\r\nBig sis... went away somewhere.",
+      "text": "...*sniff*. Big sis... went away \nsomewhere.",
       "choice_data_list": []
     },
     {
@@ -96,17 +96,17 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Don't worry, I'm sure your big sister is looking for you too.\nNow, do you remember where you two got separated?",
+      "text": "...Don't worry, I'm sure your big sister \nis looking for you too. Now, do you \nremember where you two got separated?",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Afterward, I successfully managed to get the information...",
+      "text": "Afterward, I successfully managed to get \nthe information...",
       "choice_data_list": []
     },
     {
       "name": "Boy",
-      "text": "Horsey big sis! Trainer!\nThank you! Bye-byee!",
+      "text": "Horsey big sis! Trainer! Thank you! \nBye-byee!",
       "choice_data_list": [
         "That's great."
       ]

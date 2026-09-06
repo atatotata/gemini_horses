@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"Before the race, I visited the waiting room\nwhere Fenomeno was on standby.\"",
+      "text": "\"Before the race, I visited the waiting \nroom where Fenomeno was on standby.\"",
       "choice_data_list": [
         "Fenomeno, it's almost time."
       ]
@@ -17,22 +17,22 @@
     },
     {
       "name": "Fenomeno",
-      "text": "\"Ah, Boss!\nForgive me, I didn't notice you there...!\"",
+      "text": "\"Ah, Boss! Forgive me, I didn't notice you \nthere...!\"",
       "choice_data_list": []
     },
     {
       "name": "Fenomeno",
-      "text": "Because I was simply concentrating on the race, sir!",
+      "text": "Because I was simply concentrating on the \nrace, sir!",
       "choice_data_list": []
     },
     {
       "name": "Fenomeno",
-      "text": "Boss? You're staring awfully hard at my face... Is something the matter?",
+      "text": "Boss? You're staring awfully hard at my \nface... Is something the matter?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Her drive was on a completely different level than usual,\nand I couldn't help but feel overwhelmed by it.",
+      "text": "Her drive was on a completely different \nlevel than usual, and I couldn't help but \nfeel overwhelmed by it.",
       "choice_data_list": []
     }
   ]

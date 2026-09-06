@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Before the race. The moment I opened the door\nto the waiting room to call Jungle Pocket—",
+      "text": "Before the race. The moment I opened the \ndoor to the waiting room to call Jungle \nPocket—",
       "choice_data_list": [
         "(What is this heavy pressure...!?)",
         "(What is this overwhelming pressure...?!)"
@@ -16,14 +16,14 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "Trainer.\nWhat're you just standing there for?",
+      "text": "Trainer. What're you just standing there \nfor?",
       "choice_data_list": [
         "N-No... the race is starting soon."
       ]
     },
     {
       "name": "Jungle Pocket",
-      "text": "Yeah.\nAlright, time to go wild.",
+      "text": "Yeah. Alright, time to go wild.",
       "choice_data_list": []
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Jungle Pocket",
-      "text": "Keep your eyes peeled on my \"fight,\" got it?",
+      "text": "Keep your eyes peeled on my \"fight,\" got \nit?",
       "choice_data_list": []
     }
   ]

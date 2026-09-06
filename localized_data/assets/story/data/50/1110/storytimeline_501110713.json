@@ -3,32 +3,32 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "I check on Cesario after finishing treating her injury.",
+      "text": "I check on Cesario after finishing \ntreating her injury.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Thank you very much.\nHowever, there is no need to worry.",
+      "text": "Thank you very much. However, there is no \nneed to worry.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
       "text": "There's nothing to worry about at all.",
       "choice_data_list": [
-        "Saying \"nothing\" isn't entirely accurate, though."
+        "Saying \"nothing\" isn't entirely accurate, \nthough."
       ]
     },
     {
       "name": "Cesario",
-      "text": "\"...I suppose I really can't hide anything from you, Trainer.\"",
+      "text": "\"...I suppose I really can't hide anything \nfrom you, Trainer.\"",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "However, it doesn't hinder my movement. I will return to training immediately.",
+      "text": "However, it doesn't hinder my movement. I \nwill return to training immediately.",
       "choice_data_list": [
-        "If a future student of yours said that... would you accept it?",
-        "We're dialing back the workout intensity. That's my condition."
+        "If a future student of yours said that... \nwould you accept it?",
+        "We're dialing back the workout intensity. \nThat's my condition."
       ]
     },
     {
@@ -48,17 +48,17 @@
     },
     {
       "name": "Cesario",
-      "text": "However... a few days of rest versus the risk of worsening.\nThe choice that should be made is the former, I presume.",
+      "text": "However... a few days of rest versus the \nrisk of worsening. The choice that should \nbe made is the former, I presume.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "I will be taking a brief rest.\nI shall return in top form, so please pardon my absence.",
+      "text": "I will be taking a brief rest. I shall \nreturn in top form, so please pardon my \nabsence.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Yes.\nThat is fine with me.",
+      "text": "Yes. That is fine with me.",
       "choice_data_list": []
     },
     {
@@ -75,24 +75,24 @@
     },
     {
       "name": "Cesario",
-      "text": "Ngh...\nI pushed the pace way too hard.",
+      "text": "Ngh... I pushed the pace way too hard.",
       "choice_data_list": [
         "Let's cancel training."
       ]
     },
     {
       "name": "Cesario",
-      "text": "It seems... that was a rather expensive lesson to learn.",
+      "text": "It seems... that was a rather expensive \nlesson to learn.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "While the result is regrettable... an experience like this\nwill surely prove useful down the road.",
+      "text": "While the result is regrettable... an \nexperience like this will surely prove \nuseful down the road.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "It seems that overexerting her workload\nhas worsened her injury...",
+      "text": "It seems that overexerting her workload \nhas worsened her injury...",
       "choice_data_list": []
     },
     {
@@ -114,12 +114,12 @@
     },
     {
       "name": "Cesario",
-      "text": "Even though I'm holding back on the contents,\nI want to at least maintain it enough so my skills don't deteriorate.",
+      "text": "Even though I'm holding back on the \ncontents, I want to at least maintain it \nenough so my skills don't deteriorate.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Cesario switched to a lighter regimen and returned to her regular training routine in a short period of time.",
+      "text": "Cesario switched to a lighter regimen and \nreturned to her regular training routine \nin a short period of time.",
       "choice_data_list": []
     }
   ]

@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Katsuragi Ace",
-      "text": "Phew... Alright, time for our race strategy meeting!",
+      "text": "Phew... Alright, time for our race \nstrategy meeting!",
       "choice_data_list": []
     },
     {
       "name": "Katsuragi Ace",
-      "text": "Whoa, before that... mind if I put on some tunes? I love crazy, hyped-up, blastin' tracks!",
+      "text": "Whoa, before that... mind if I put on some \ntunes? I love crazy, hyped-up, blastin' \ntracks!",
       "choice_data_list": [
         "Nice, that's sure to fire you up!",
         "Sounds good, that'll get us fired up!"
@@ -18,12 +18,12 @@
       "name": "Katsuragi Ace",
       "text": "*Zzz, zzz*...",
       "choice_data_list": [
-        "(She's asleep in the middle of this intense music...!?)"
+        "(She's asleep in the middle of this \nintense music...!?)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "She seems to be carrying an awful lot of fatigue...\nIt might be wise to reconsider our upcoming race schedule.",
+      "text": "She seems to be carrying an awful lot of \nfatigue... It might be wise to reconsider \nour upcoming race schedule.",
       "choice_data_list": []
     }
   ]

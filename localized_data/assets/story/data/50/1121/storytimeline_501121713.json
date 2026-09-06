@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I brought an injured Durandal\nto the nurse's office.",
+      "text": "I brought an injured Durandal to the \nnurse's office.",
       "choice_data_list": [
         "How's your injury doing?"
       ]
     },
     {
       "name": "Durandal",
-      "text": "There is no need for concern.\nIt is only a slight pain.",
+      "text": "There is no need for concern. It is only a \nslight pain.",
       "choice_data_list": []
     },
     {
@@ -23,24 +23,24 @@
     },
     {
       "name": "Durandal",
-      "text": "...Trainer-dono.\nCould you at least allow me\nto do my daily routine training?",
+      "text": "...Trainer-dono. Could you at least allow \nme to do my daily routine training?",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Daily discipline is vital for swordplay.\nIf you neglect your devotion,\nyour body will forget the movements ingrained within it.",
+      "text": "Daily discipline is vital for swordplay. \nIf you neglect your devotion, your body \nwill forget the movements ingrained within \nit.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Running is the same.\nI do not wish to dull this explosive power forged through training by resting.",
+      "text": "Running is the same. I do not wish to dull \nthis explosive power forged through \ntraining by resting.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Please, I entrust this to you\nto maintain the \"Holy Sword's\" sharpness.",
+      "text": "Please, I entrust this to you to maintain \nthe \"Holy Sword's\" sharpness.",
       "choice_data_list": [
-        "Training can wait until your injury is fully healed.",
+        "Training can wait until your injury is \nfully healed.",
         "If it won't make you overdo it..."
       ]
     },
@@ -51,29 +51,29 @@
     },
     {
       "name": "Narrator",
-      "text": "Taking a short break won't dull her instantaneous acceleration.\nAnd that's because—",
+      "text": "Taking a short break won't dull her \ninstantaneous acceleration. And that's \nbecause—",
       "choice_data_list": [
-        "Your body remembers, so you'll get your feel back in no time"
+        "Your body remembers, so you'll get your \nfeel back in no time"
       ]
     },
     {
       "name": "Durandal",
-      "text": "Trainer-dono...!\nWhat deeply honoring words...",
+      "text": "Trainer-dono...! What deeply honoring \nwords...",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Understood.\nIn that case, I will focus entirely on my recovery.",
+      "text": "Understood. In that case, I will focus \nentirely on my recovery.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Thank you very much.\nNow, let us head to the track.",
+      "text": "Thank you very much. Now, let us head to \nthe track.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Afterward, Durandal began with a lighter routine, but...",
+      "text": "Afterward, Durandal began with a lighter \nroutine, but...",
       "choice_data_list": []
     },
     {
@@ -85,37 +85,37 @@
     },
     {
       "name": "Durandal",
-      "text": "...How careless of me. To misjudge her condition like that...!",
+      "text": "...How careless of me. To misjudge her \ncondition like that...!",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "I am terribly sorry.\nI shall rest for a little while longer...",
+      "text": "I am terribly sorry. I shall rest for a \nlittle while longer...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Durandal's injury has worsened.\nIt seems like it will take some time for her to fully recover...\"",
+      "text": "\"Durandal's injury has worsened. It seems \nlike it will take some time for her to \nfully recover...\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Afterward, when Durandal tried starting with a light routine...",
+      "text": "Afterward, when Durandal tried starting \nwith a light routine...",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Phew...\nThere don't seem to be any issues.",
+      "text": "Phew... There don't seem to be any issues.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "With this,\nthe Holy Sword's edge will surely not dull.",
+      "text": "With this, the Holy Sword's edge will \nsurely not dull.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Durandal went through her daily routine at a reasonable pace,\naiming for her comeback.\"",
+      "text": "\"Durandal went through her daily routine \nat a reasonable pace, aiming for her \ncomeback.\"",
       "choice_data_list": []
     }
   ]

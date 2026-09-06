@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "The day of the Arima Kinen arrived, and when I went to pick up Epiphaneia—",
+      "text": "The day of the Arima Kinen arrived, and \nwhen I went to pick up Epiphaneia—",
       "choice_data_list": []
     },
     {
@@ -13,44 +13,44 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "Whoa!!\nShion and Verxina!",
+      "text": "Whoa!! Shion and Verxina!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Good morning.\nAre you on your way to the racetrack too, Epi-san?",
+      "text": "Good morning. Are you on your way to the \nracetrack too, Epi-san?",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Ah! More importantly—Verxina!\nI feel destiny with you!",
+      "text": "Ah! More importantly—Verxina! I feel \ndestiny with you!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Your aura has really sharpened up lately!\nYou've grown even more magnificent... and I'm thrilled to race you again!",
+      "text": "Your aura has really sharpened up lately! \nYou've grown even more magnificent... and \nI'm thrilled to race you again!",
       "choice_data_list": [
         "(Same as always...)"
       ]
     },
     {
       "name": "Verxina",
-      "text": "...Thank you very much.\nHowever... I believe you said the exact same thing to her as well, did you not?",
+      "text": "...Thank you very much. However... I \nbelieve you said the exact same thing to \nher as well, did you not?",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Today is the race where she declared she would step down from the front lines—\nWhich means today, of all days, I must achieve a complete victory.",
+      "text": "Today is the race where she declared she \nwould step down from the front lines— \nWhich means today, of all days, I must \nachieve a complete victory.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"Do you really have the luxury to be flirting?\n...Shion-san, I'm heading ahead.\"",
+      "text": "\"Do you really have the luxury to be \nflirting? ...Shion-san, I'm heading \nahead.\"",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "\"...You can't just go in with the same old attitude.\nPeople are watching closely, after all...\"",
+      "text": "\"...You can't just go in with the same old \nattitude. People are watching closely, \nafter all...\"",
       "choice_data_list": []
     },
     {
@@ -60,17 +60,17 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "More importantly, Shion!\nI get to race against you again!",
+      "text": "More importantly, Shion! I get to race \nagainst you again!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "\"Were you watching my run!?\nThanks to you, I'm still evolving even now!\"",
+      "text": "\"Were you watching my run!? Thanks to you, \nI'm still evolving even now!\"",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "\"...I know that. A run like the Japan Cup is—\"",
+      "text": "\"...I know that. A run like the Japan Cup \nis—\"",
       "choice_data_list": []
     },
     {
@@ -80,22 +80,22 @@
     },
     {
       "name": "Win Variation",
-      "text": "...Last summer, I was really inspired\nby how hard you worked. But—",
+      "text": "...Last summer, I was really inspired by \nhow hard you worked. But—",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "...Even if she's gone,\nwho's the one still standing on the turf today—\nI'm going to prove it.",
+      "text": "...Even if she's gone, who's the one still \nstanding on the turf today— I'm going to \nprove it.",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "...That's right, you have dreams you can't compromise on either!\nI can feel that fighting spirit you keep inside!",
+      "text": "...That's right, you have dreams you can't \ncompromise on either! I can feel that \nfighting spirit you keep inside!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Let's pour all our feelings into this—\nand have the best race ever!!",
+      "text": "Let's pour all our feelings into this— and \nhave the best race ever!!",
       "choice_data_list": []
     },
     {
@@ -110,49 +110,49 @@
     },
     {
       "name": "Gentildonna",
-      "text": "Hohoho...\nHow troublesome.",
+      "text": "Hohoho... How troublesome.",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Golshi! Gentil!!\nMorning!! Good to be working with you both again today!!",
+      "text": "Golshi! Gentil!! Morning!! Good to be \nworking with you both again today!!",
       "choice_data_list": []
     },
     {
       "name": "Gold Ship",
-      "text": "\"...Hmm?\nHmm, hmm, hmm...\"",
+      "text": "\"...Hmm? Hmm, hmm, hmm...\"",
       "choice_data_list": []
     },
     {
       "name": "Gold Ship",
-      "text": "Looks like your yellowtail\nturned into a loofah too, huh.",
+      "text": "Looks like your yellowtail turned into a \nloofah too, huh.",
       "choice_data_list": []
     },
     {
       "name": "Gold Ship",
-      "text": "\"...SO LOOOOONG!!\nTHIS HIIIIIIIILL!!\"",
+      "text": "\"...SO LOOOOONG!! THIS HIIIIIIIILL!!\"",
       "choice_data_list": [
         "She's gone..."
       ]
     },
     {
       "name": "Epiphaneia",
-      "text": "She must be really fired up!\nI've gotta match Golshi's power!",
+      "text": "She must be really fired up! I've gotta \nmatch Golshi's power!",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "Oh, if it's a matter of strength...\nplease do not forget about me.",
+      "text": "Oh, if it's a matter of strength... please \ndo not forget about me.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "\"Defeating you will make for the finest send-off.\nI can prove to everyone\nthat I truly am the strongest, after all.\"",
+      "text": "\"Defeating you will make for the finest \nsend-off. I can prove to everyone that I \ntruly am the strongest, after all.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Verxina hinted at it earlier, too, but...\nGentildonna has announced that today's race\nwill mark her temporary step back from the front lines.",
+      "text": "Verxina hinted at it earlier, too, but... \nGentildonna has announced that today's \nrace will mark her temporary step back \nfrom the front lines.",
       "choice_data_list": []
     },
     {
@@ -162,12 +162,12 @@
     },
     {
       "name": "Gentildonna",
-      "text": "Naturally. I plan to take some time\nto rebuild and condition the foundation of my body.",
+      "text": "Naturally. I plan to take some time to \nrebuild and condition the foundation of my \nbody.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "So that I may always show you\nmy very finest back.",
+      "text": "So that I may always show you my very \nfinest back.",
       "choice_data_list": []
     },
     {
@@ -177,34 +177,34 @@
     },
     {
       "name": "Gentildonna",
-      "text": "Epi-san. Please,\ndon't try to send a bouquet of flowers, alright?",
+      "text": "Epi-san. Please, don't try to send a \nbouquet of flowers, alright?",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "—Facing me with everything you have.\nThat alone is the greatest gift of all.",
+      "text": "—Facing me with everything you have. That \nalone is the greatest gift of all.",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Trainer, I wonder... how can I\ngive F-chan the push she needs?",
+      "text": "Trainer, I wonder... how can I give F-chan \nthe push she needs?",
       "choice_data_list": [
         "What do you mean by... 'what kind of way'?"
       ]
     },
     {
       "name": "Epiphaneia",
-      "text": "It got me thinking. Every girl running today\nis going to inspire someone from now on—",
+      "text": "It got me thinking. Every girl running \ntoday is going to inspire someone from now \non—",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "\"From the moment you start running and make it this far,\nit has already begun.\"",
+      "text": "\"From the moment you start running and \nmake it this far, it has already begun.\"",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Among all of them... what is the one thing\nonly I can give to that girl I felt destiny with?",
+      "text": "Among all of them... what is the one thing \nonly I can give to that girl I felt \ndestiny with?",
       "choice_data_list": [
         "...Epi, what is it that you want to give?",
         "...Epi, what is it that you want to give?"
@@ -214,12 +214,12 @@
       "name": "Epiphaneia",
       "text": "Huh?",
       "choice_data_list": [
-        "Because I can only give what I have to give."
+        "Because I can only give what I have to \ngive."
       ]
     },
     {
       "name": "Narrator",
-      "text": "What a person thinks, how they walk their path, what they internalize as part of themselves... All you can convey is what exists within the light of the life they've lived.",
+      "text": "What a person thinks, how they walk their \npath, what they internalize as part of \nthemselves... All you can convey is what \nexists within the light of the life \nthey've lived.",
       "choice_data_list": [
         "What do you want to show Efforia?",
         "What do you want to show F?"
@@ -227,44 +227,44 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "\"...Whenever I ran true to myself,\nI was always happy.\"",
+      "text": "\"...Whenever I ran true to myself, I was \nalways happy.\"",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "When I regained my confidence—\npower surged through my entire body!",
+      "text": "When I regained my confidence— power \nsurged through my entire body!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "No matter what destiny Eff finds herself in, I want her to always love the path she chooses... and run true to herself!",
+      "text": "No matter what destiny Eff finds herself \nin, I want her to always love the path she \nchooses... and run true to herself!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "...Ah, I see.\nIn that case—this really is the right choice!",
+      "text": "...Ah, I see. In that case—this really is \nthe right choice!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "\"Let's run and have a total blast!\nHead straight for the future with confidence!\"",
+      "text": "\"Let's run and have a total blast! Head \nstraight for the future with confidence!\"",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "And—\nI shall become all of destiny!",
+      "text": "And— I shall become all of destiny!",
       "choice_data_list": [
         "……！！"
       ]
     },
     {
       "name": "Narrator",
-      "text": "—Déjà vu. Back at Make Debut,\nshe had said the exact same thing.",
+      "text": "—Déjà vu. Back at Make Debut, she had said \nthe exact same thing.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Yet, the weight behind them was completely different. Right now, she—\nis speaking with resolve and responsibility.",
+      "text": "Yet, the weight behind them was completely \ndifferent. Right now, she— is speaking \nwith resolve and responsibility.",
       "choice_data_list": [
         "Epi, you've really... gotten so strong",
         "Epi, you have truly... become so strong"
@@ -277,7 +277,7 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "Because you were my 'destiny,'\nand my 'voice.'",
+      "text": "Because you were my 'destiny,' and my \n'voice.'",
       "choice_data_list": []
     },
     {
@@ -289,12 +289,12 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "\"Hey, you already know it!\nSomething incredible is waiting wherever I go!\"",
+      "text": "\"Hey, you already know it! Something \nincredible is waiting wherever I go!\"",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Today, I'll take you to the greatest dream of all!\nCome, take my hand!",
+      "text": "Today, I'll take you to the greatest dream \nof all! Come, take my hand!",
       "choice_data_list": []
     },
     {
@@ -307,12 +307,12 @@
     },
     {
       "name": "Spectators",
-      "text": "\"Go for it, Epiphaneia!\"\n\"Epi-san!! We're rooting for you~~!\"\n\"I'm betting my dreams on you today...!!\"",
+      "text": "\"Go for it, Epiphaneia!\" \"Epi-san!! We're \nrooting for you~~!\" \"I'm betting my dreams \non you today...!!\"",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Thank you, everyone!\nI will definitely live up to all your expectations!",
+      "text": "Thank you, everyone! I will definitely \nlive up to all your expectations!",
       "choice_data_list": []
     },
     {
@@ -332,12 +332,12 @@
     },
     {
       "name": "Epiphaneia",
-      "text": "That's right, keep your eyes on me!\nFollow this back of mine!",
+      "text": "That's right, keep your eyes on me! Follow \nthis back of mine!",
       "choice_data_list": []
     },
     {
       "name": "Epiphaneia",
-      "text": "Now then,\nshall I unleash the ultimate light?!",
+      "text": "Now then, shall I unleash the ultimate \nlight?!",
       "choice_data_list": []
     }
   ]

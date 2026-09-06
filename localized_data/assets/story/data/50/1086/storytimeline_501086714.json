@@ -3,9 +3,9 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I rushed Mejiro Ramonu to the infirmary after she got injured during training.",
+      "text": "I rushed Mejiro Ramonu to the infirmary \nafter she got injured during training.",
       "choice_data_list": [
-        "With these symptoms, you'll need to rest for a while."
+        "With these symptoms, you'll need to rest \nfor a while."
       ]
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "\"This is nothing serious.\nI'm heading back to the track.\"",
+      "text": "\"This is nothing serious. I'm heading back \nto the track.\"",
       "choice_data_list": []
     },
     {
@@ -32,37 +32,37 @@
     },
     {
       "name": "Narrator",
-      "text": "Her expression is stiff. She seems aware herself\nthat frustration is getting the better of her.",
+      "text": "Her expression is stiff. She seems aware \nherself that frustration is getting the \nbetter of her.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Being torn away from the racing she loves because of a severe injury...\nthat thought is likely throwing her heart into turmoil. If so—",
+      "text": "Being torn away from the racing she loves \nbecause of a severe injury... that thought \nis likely throwing her heart into turmoil. \nIf so—",
       "choice_data_list": [
-        "The race isn't going anywhere! You'll be fine!!",
+        "The race isn't going anywhere! You'll be \nfine!!",
         "At least let me adjust your training menu."
       ]
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "You're speaking awfully loud.\nWhatever could be so important――",
+      "text": "You're speaking awfully loud. Whatever \ncould be so important――",
       "choice_data_list": [
-        "Even if you push yourself right now, you won't be able to run the races you love!!"
+        "Even if you push yourself right now, you \nwon't be able to run the races you love!!"
       ]
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "—...Phew.\nI'll take a break. I've grasped it now.",
+      "text": "—...Phew. I'll take a break. I've grasped \nit now.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Acting purely on emotion is\nnothing short of disgraceful...",
+      "text": "Acting purely on emotion is nothing short \nof disgraceful...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "She shot me a glance, but there was no anger in it.\nIt seems she managed to come around.",
+      "text": "She shot me a glance, but there was no \nanger in it. It seems she managed to come \naround.",
       "choice_data_list": []
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "—...How unsightly.\nYou are quite welcome to laugh at me.",
+      "text": "—...How unsightly. You are quite welcome \nto laugh at me.",
       "choice_data_list": [
         "I won't, absolutely not."
       ]
@@ -101,15 +101,15 @@
     },
     {
       "name": "Narrator",
-      "text": "Having worsened her injury,\nMejiro Ramonu quietly cast her eyes downward.",
+      "text": "Having worsened her injury, Mejiro Ramonu \nquietly cast her eyes downward.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ramonu",
       "text": "Fufu... Ahaha...!!",
       "choice_data_list": [
-        "Impressive... Looks like that injury won't be a problem.",
-        "Amazing... Looks like your injury won't be an issue."
+        "Impressive... Looks like that injury won't \nbe a problem.",
+        "Amazing... Looks like your injury won't be \nan issue."
       ]
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Even in the face of adversity, Mejiro Ramonu's love remains absolute—I felt the overwhelming depth of her devotion.",
+      "text": "Even in the face of adversity, Mejiro \nRamonu's love remains absolute—I felt the \noverwhelming depth of her devotion.",
       "choice_data_list": []
     }
   ]

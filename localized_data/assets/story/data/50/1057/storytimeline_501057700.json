@@ -6,7 +6,7 @@
       "text": "Mmm...",
       "choice_data_list": [
         "She looks sleepy just at a glance, huh.",
-        "She looks sleepy just at a glance, doesn't she?"
+        "She looks sleepy just at a glance, doesn't \nshe?"
       ]
     },
     {
@@ -16,19 +16,19 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "I was dreaming about running as fast as I could across an open field,\nand then I tumbled right out of my hammock.",
+      "text": "I was dreaming about running as fast as I \ncould across an open field, and then I \ntumbled right out of my hammock.",
       "choice_data_list": [
         "Huh, are you hurt!?"
       ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "I'm fine on that front. But when I tried to go back to sleep, I just couldn't drift off.",
+      "text": "I'm fine on that front. But when I tried \nto go back to sleep, I just couldn't drift \noff.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Mr. C.B. gives a troubled smile.\nIt seems she didn't get much rest.",
+      "text": "Mr. C.B. gives a troubled smile. It seems \nshe didn't get much rest.",
       "choice_data_list": []
     }
   ]

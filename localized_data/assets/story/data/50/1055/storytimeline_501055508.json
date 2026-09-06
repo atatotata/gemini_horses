@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "While searching for marvelous things by\nthe riverside with Marvelous Sunday...",
+      "text": "While searching for marvelous things by \nthe riverside with Marvelous Sunday...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
       "text": "(SPLASH!!)",
       "choice_data_list": [
-        "Something jumped in the river! What could it be?",
-        "Something jumped in the river! What could it be?"
+        "Something jumped in the river! What could \nit be?",
+        "Something jumped in the river! What could \nit be?"
       ]
     },
     {
@@ -30,12 +30,12 @@
     },
     {
       "name": "Marvelous Sunday",
-      "text": "Really!? I sense something marvelous☆\nHey, hey, let's go check it out★",
+      "text": "Really!? I sense something marvelous☆ Hey, \nhey, let's go check it out★",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Marvelous Sunday's reactions are sluggish.\nFatigue might be piling up.\nWe may need to review her upcoming race schedule.",
+      "text": "Marvelous Sunday's reactions are sluggish. \nFatigue might be piling up. We may need to \nreview her upcoming race schedule.",
       "choice_data_list": []
     }
   ]

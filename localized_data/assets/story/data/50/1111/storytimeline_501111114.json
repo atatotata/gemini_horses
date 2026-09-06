@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Air Messiah",
-      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my daily report for today.\"",
+      "text": "\"Dear Trainer <username>, Thank you for your hard \nwork. Here is my daily report for today.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Health status: 37.4°C (slightly low), no body pain.\nMeals: Attached records for 3 meals.\"",
+      "text": "\"Health status: 37.4°C (slightly low), no \nbody pain. Meals: Attached records for 3 \nmeals.\"",
       "choice_data_list": []
     },
     {
@@ -23,21 +23,21 @@
     },
     {
       "name": "Air Messiah",
-      "text": "\"That is all. Please review it.\n\n—Air Messiah\"",
+      "text": "\"That is all. Please review it. —Air \nMessiah\"",
       "choice_data_list": [
         "Messiah..."
       ]
     },
     {
       "name": "Narrator",
-      "text": "I look back at the daily report emails that had changed so drastically.\nIndependent training reports that kept saying 'None',\nand a completely blank remarks column...",
+      "text": "I look back at the daily report emails \nthat had changed so drastically. \nIndependent training reports that kept \nsaying 'None', and a completely blank \nremarks column...",
       "choice_data_list": [
         "(Something… is being hidden from me)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Something is almost certainly wrong with Air Messiah.\nI knew that, and tried to talk to her whenever I had the chance, but—",
+      "text": "Something is almost certainly wrong with \nAir Messiah. I knew that, and tried to \ntalk to her whenever I had the chance, \nbut—",
       "choice_data_list": []
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "name": "Air Messiah",
-      "text": "...No, well.\nI don't have... anything in particular to consult about.",
+      "text": "...No, well. I don't have... anything in \nparticular to consult about.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "It is... just as I have written in the daily report.",
+      "text": "It is... just as I have written in the \ndaily report.",
       "choice_data_list": []
     },
     {
@@ -64,17 +64,17 @@
     },
     {
       "name": "Narrator",
-      "text": "She wouldn't give me the time of day at all.\nThose frustrating days continued on and on...",
+      "text": "She wouldn't give me the time of day at \nall. Those frustrating days continued on \nand on...",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "(...I was rude to Trainer again today.\nEven though I can tell how deeply they're worried about me.)",
+      "text": "(...I was rude to Trainer again today. \nEven though I can tell how deeply they're \nworried about me.)",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "(Even so... I don't know what to do!\nThere's no way I can tell the truth—!)",
+      "text": "(Even so... I don't know what to do! \nThere's no way I can tell the truth—!)",
       "choice_data_list": []
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "Air Messiah",
-      "text": "\"Shakur-san...?\nWhen you say 'take it', do you mean—\"",
+      "text": "\"Shakur-san...? When you say 'take it', do \nyou mean—\"",
       "choice_data_list": []
     },
     {
@@ -104,12 +104,12 @@
     },
     {
       "name": "Air Shakur",
-      "text": "Some idiot dropped it, but I'm under no obligation to look after it.",
+      "text": "Some idiot dropped it, but I'm under no \nobligation to look after it.",
       "choice_data_list": []
     },
     {
       "name": "Air Shakur",
-      "text": "You handle it.\n...That is all.",
+      "text": "You handle it. ...That is all.",
       "choice_data_list": []
     },
     {
@@ -119,12 +119,12 @@
     },
     {
       "name": "Air Messiah",
-      "text": "...? Well, it's a lost item, so...\nOff to the lost and found box—",
+      "text": "...? Well, it's a lost item, so... Off to \nthe lost and found box—",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "(Alright.\nI've delivered it to the box, so with this—)",
+      "text": "(Alright. I've delivered it to the box, so \nwith this—)",
       "choice_data_list": []
     },
     {
@@ -139,22 +139,22 @@
     },
     {
       "name": "Air Groove",
-      "text": "\"Could that be lost property? How rare.\nThe student council is just about to collect it,\nbut if you'd like to check it first—\"",
+      "text": "\"Could that be lost property? How rare. \nThe student council is just about to \ncollect it, but if you'd like to check it \nfirst—\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "Ah, no, I didn't come here looking for anything...\nI just came to deliver this.",
+      "text": "Ah, no, I didn't come here looking for \nanything... I just came to deliver this.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "Ah, so it was as I thought.\nYou've always been reliable.",
+      "text": "Ah, so it was as I thought. You've always \nbeen reliable.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "N-No, it's not like I picked it up myself.\nUm... Shakur-san did...",
+      "text": "N-No, it's not like I picked it up myself. \nUm... Shakur-san did...",
       "choice_data_list": []
     },
     {
@@ -189,12 +189,12 @@
     },
     {
       "name": "Air Groove",
-      "text": "If you don't have an appetite, wash it down with chazuke.\nGet some nutrients into your body.",
+      "text": "If you don't have an appetite, wash it \ndown with chazuke. Get some nutrients into \nyour body.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "In any case.\nFirst, we start with that.",
+      "text": "In any case. First, we start with that.",
       "choice_data_list": []
     },
     {
@@ -209,7 +209,7 @@
     },
     {
       "name": "Air Messiah",
-      "text": "(...My stomach feels warm.\nMy body is... starting to feel a bit toasty too—)",
+      "text": "(...My stomach feels warm. My body is... \nstarting to feel a bit toasty too—)",
       "choice_data_list": []
     },
     {
@@ -224,12 +224,12 @@
     },
     {
       "name": "Air Groove",
-      "text": "Are you dying of anxiety over the results?\nDoes the brilliance of your rivals blind you?",
+      "text": "Are you dying of anxiety over the results? \nDoes the brilliance of your rivals blind \nyou?",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "Or perhaps both...\nEither way, she is being driven into a corner.",
+      "text": "Or perhaps both... Either way, she is \nbeing driven into a corner.",
       "choice_data_list": []
     },
     {
@@ -259,32 +259,32 @@
     },
     {
       "name": "Air Groove",
-      "text": "In my case, it was the \"Oaks.\"\nRight before that very race, where my revered mother had gloriously claimed the crown—",
+      "text": "In my case, it was the \"Oaks.\" Right \nbefore that very race, where my revered \nmother had gloriously claimed the crown—",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "\"‘Can she achieve victory across two generations, mother and daughter?’\n‘Can she run in a manner worthy of the title \"Empress\"?’\n‘Am I truly capable of achieving such things?’\"",
+      "text": "\"‘Can she achieve victory across two \ngenerations, mother and daughter?’ ‘Can \nshe run in a manner worthy of the title \n\"Empress\"?’ ‘Am I truly capable of \nachieving such things?’\"",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "Tangled up in all manner of doubts,\nshe had no choice but to run as hard as she could to shake them off.",
+      "text": "Tangled up in all manner of doubts, she \nhad no choice but to run as hard as she \ncould to shake them off.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "I-Is that true?\nI've seen the records from back then, but\nthey didn't seem anything like that—",
+      "text": "I-Is that true? I've seen the records from \nback then, but they didn't seem anything \nlike that—",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "Records? Heh... Like the press conference\nfootage for the Oaks, perhaps?",
+      "text": "Records? Heh... Like the press conference \nfootage for the Oaks, perhaps?",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "Y-Yes, I watched it. Back then too, you had such a dignified expression on your face, Senpaiâ",
+      "text": "Y-Yes, I watched it. Back then too, you \nhad such a dignified expression on your \nface, Senpaiâ",
       "choice_data_list": []
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "\"To ensure my brow stayed furrowed, I slammed my forehead hard against the wall before the interview.\"",
+      "text": "\"To ensure my brow stayed furrowed, I \nslammed my forehead hard against the wall \nbefore the interview.\"",
       "choice_data_list": []
     },
     {
@@ -304,17 +304,17 @@
     },
     {
       "name": "Air Groove",
-      "text": "Yes. Fortunately, the swelling wasn't too bad, and the redness can easily be covered up with foundation.",
+      "text": "Yes. Fortunately, the swelling wasn't too \nbad, and the redness can easily be covered \nup with foundation.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "I do feel ashamed. I was immature.\nHowever—",
+      "text": "I do feel ashamed. I was immature. \nHowever—",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "\"I can say with certainty\nthat her feelings were truly that profound.\"",
+      "text": "\"I can say with certainty that her \nfeelings were truly that profound.\"",
       "choice_data_list": []
     },
     {
@@ -324,22 +324,22 @@
     },
     {
       "name": "Air Groove",
-      "text": "Are doubt and fear merely proof of vulnerability?\n...I do not believe so.",
+      "text": "Are doubt and fear merely proof of \nvulnerability? ...I do not believe so.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "\"Accomplish it!\" \"No matter what happens!\"\n\"Even if it costs me my all!\"\n\"Without fail!\" \"Without fail!\" \"Without fail!\"—",
+      "text": "\"Accomplish it!\" \"No matter what happens!\" \n\"Even if it costs me my all!\" \"Without \nfail!\" \"Without fail!\" \"Without fail!\"—",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "Because I wish to believe, I doubt.\nBecause I wish to achieve, I fear.",
+      "text": "Because I wish to believe, I doubt. \nBecause I wish to achieve, I fear.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "It is precisely because of our deeply cherished desires\nthat we sometimes find ourselves pausing in our tracks.",
+      "text": "It is precisely because of our deeply \ncherished desires that we sometimes find \nourselves pausing in our tracks.",
       "choice_data_list": []
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "name": "Air Messiah",
-      "text": "(...I doubted.\nI hesitated and came to a halt.)",
+      "text": "(...I doubted. I hesitated and came to a \nhalt.)",
       "choice_data_list": []
     },
     {
@@ -359,12 +359,12 @@
     },
     {
       "name": "Air Groove",
-      "text": "...Hm, talking about it has made me a bit hungry too.",
+      "text": "...Hm, talking about it has made me a bit \nhungry too.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "Guess I'll peel a peach.\n...Want some?",
+      "text": "Guess I'll peel a peach. ...Want some?",
       "choice_data_list": []
     },
     {
@@ -389,12 +389,12 @@
     },
     {
       "name": "Air Messiah",
-      "text": "\"Thank you for your hard work.\nHere is today's daily report.\"",
+      "text": "\"Thank you for your hard work. Here is \ntoday's daily report.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Health status: 38.1°C (normal), no body pain.\nMeals: Attached records for 3 meals + 1 snack.\nIndependent training report: None.\"",
+      "text": "\"Health status: 38.1°C (normal), no body \npain. Meals: Attached records for 3 meals \n+ 1 snack. Independent training report: \nNone.\"",
       "choice_data_list": []
     },
     {
@@ -419,17 +419,17 @@
     },
     {
       "name": "Air Messiah",
-      "text": "\"I really, truly want to win the Shuka Sho.\nI don't want to lose to Craft-san or Heart-san, no matter what.\"",
+      "text": "\"I really, truly want to win the Shuka \nSho. I don't want to lose to Craft-san or \nHeart-san, no matter what.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"\"Still, I'm scared.\nI just don't feel like I can win.\"\"",
+      "text": "\"\"Still, I'm scared. I just don't feel \nlike I can win.\"\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "“I possess no outstanding genius. I only know how to accumulate honest, ordinary effort.”",
+      "text": "“I possess no outstanding genius. I only \nknow how to accumulate honest, ordinary \neffort.”",
       "choice_data_list": []
     },
     {
@@ -446,26 +446,26 @@
     },
     {
       "name": "Narrator",
-      "text": "After reading through the daily report to the very end,\nI tightly grip my smartphone.\n...This is a cry. A cry from her heart.",
+      "text": "After reading through the daily report to \nthe very end, I tightly grip my \nsmartphone. ...This is a cry. A cry from \nher heart.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I quickly typed a reply.\nForgetting my usual formal greetings,\nI just sent a single sentence as fast as I could.",
+      "text": "I quickly typed a reply. Forgetting my \nusual formal greetings, I just sent a \nsingle sentence as fast as I could.",
       "choice_data_list": [
         "\"We definitely need to talk tomorrow.\""
       ]
     },
     {
       "name": "Narrator",
-      "text": "The moment the message was sent,\nthe laptop was flipped open immediately.\n—There was no time to lose.",
+      "text": "The moment the message was sent, the \nlaptop was flipped open immediately. \n—There was no time to lose.",
       "choice_data_list": [
-        "(I'll have everything ready... by tomorrow!)"
+        "(I'll have everything ready... by \ntomorrow!)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Even the time it takes to return to my room is precious. Under the starlight,\nI wipe away sweat while typing on the keyboard as fast as I possibly can.",
+      "text": "Even the time it takes to return to my \nroom is precious. Under the starlight, I \nwipe away sweat while typing on the \nkeyboard as fast as I possibly can.",
       "choice_data_list": []
     },
     {

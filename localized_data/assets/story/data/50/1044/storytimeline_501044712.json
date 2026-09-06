@@ -3,15 +3,15 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"Since Sweep Tosho didn't show up for training,\nI searched all over, only to finally find her\nin the library once evening came.\"",
+      "text": "\"Since Sweep Tosho didn't show up for \ntraining, I searched all over, only to \nfinally find her in the library once \nevening came.\"",
       "choice_data_list": []
     },
     {
       "name": "Sweep Tosho",
-      "text": "—Oh, if it isn't my familiar.\nDid you need something?",
+      "text": "—Oh, if it isn't my familiar. Did you need \nsomething?",
       "choice_data_list": [
         "I thought we had training today.",
-        "I thought we were supposed to have training today."
+        "I thought we were supposed to have \ntraining today."
       ]
     },
     {
@@ -21,27 +21,27 @@
     },
     {
       "name": "Sweep Tosho",
-      "text": "I-It's not like I forgot!\nI was just a little busy practicing my magic,\nthat's all!",
+      "text": "I-It's not like I forgot! I was just a \nlittle busy practicing my magic, that's \nall!",
       "choice_data_list": []
     },
     {
       "name": "Sweep Tosho",
-      "text": "Hold on right there!\nI'll use magic to turn back time before training!\nI definitely will!",
+      "text": "Hold on right there! I'll use magic to \nturn back time before training! I \ndefinitely will!",
       "choice_data_list": []
     },
     {
       "name": "Sweep Tosho",
-      "text": "Smoky Orange Reversal!\nSmoky Orange Reversaaal!",
+      "text": "Smoky Orange Reversal! Smoky Orange \nReversaaal!",
       "choice_data_list": []
     },
     {
       "name": "Sweep Tosho",
-      "text": "Turn back time already! You're so cheeky!\nFluffy Orange Reversal——!!",
+      "text": "Turn back time already! You're so cheeky! \nFluffy Orange Reversal——!!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Seeing her desperately trying to use magic, she seemed aware that she had done something wrong, so I simply told her to be more careful in the future.",
+      "text": "Seeing her desperately trying to use \nmagic, she seemed aware that she had done \nsomething wrong, so I simply told her to \nbe more careful in the future.",
       "choice_data_list": []
     }
   ]

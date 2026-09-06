@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "While waiting for her race, Yamanin Zephyr\nwas pacing around the waiting room.",
+      "text": "While waiting for her race, Yamanin Zephyr \nwas pacing around the waiting room.",
       "choice_data_list": [
         "Are you okay?",
         "Are you okay?"
@@ -11,25 +11,25 @@
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes, do not worry.\nI am merely surrendering myself to the wind arising from within.",
+      "text": "Yes, do not worry. I am merely \nsurrendering myself to the wind arising \nfrom within.",
       "choice_data_list": []
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "A fierce whirlwind is dancing within me.\nBlowing through swiftly, ready to sweep up everything in its path—!",
+      "text": "A fierce whirlwind is dancing within me. \nBlowing through swiftly, ready to sweep up \neverything in its path—!",
       "choice_data_list": []
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "I know I shouldn't rush ahead, but...\nI'm itching to go play with the wind.",
+      "text": "I know I shouldn't rush ahead, but... I'm \nitching to go play with the wind.",
       "choice_data_list": [
-        "You're fully fired up! ",
+        "You're fully fired up!",
         "You're fully fired up, aren't you!"
       ]
     },
     {
       "name": "Yamanin Zephyr",
-      "text": "Yes. Today, I shall whip up\na swift-footed typhoon!",
+      "text": "Yes. Today, I shall whip up a swift-footed \ntyphoon!",
       "choice_data_list": []
     }
   ]

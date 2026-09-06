@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I'm having a meal with Special Week,\r\nbut she seems down in the dumps for some reason.",
+      "text": "I'm having a meal with Special Week, but \nshe seems down in the dumps for some \nreason.",
       "choice_data_list": []
     },
     {
@@ -13,22 +13,22 @@
     },
     {
       "name": "Special Week",
-      "text": "I'm sorry... Lately, it feels like all I do is sigh... *sigh*...",
+      "text": "I'm sorry... Lately, it feels like all I \ndo is sigh... *sigh*...",
       "choice_data_list": []
     },
     {
       "name": "Special Week",
-      "text": "\"I love racing, but...\r\nit's just not thrilling, I guess...\"",
+      "text": "\"I love racing, but... it's just not \nthrilling, I guess...\"",
       "choice_data_list": []
     },
     {
       "name": "Special Week",
-      "text": "Even food doesn't taste good anymore...\r\nWhat in the world is happening to me?",
+      "text": "Even food doesn't taste good anymore... \nWhat in the world is happening to me?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "For the sake of her future success, it seems we'll need to review her race schedule...",
+      "text": "For the sake of her future success, it \nseems we'll need to review her race \nschedule...",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "\"Having entered the Classic Year, Vivlos gradually ramped up her training intensity aiming for the Tiara route.\"",
+      "text": "\"Having entered the Classic Year, Vivlos \ngradually ramped up her training intensity \naiming for the Tiara route.\"",
       "choice_data_list": []
     },
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "Vivlos",
-      "text": "No, I'm okay...\nJust one mooore...!",
+      "text": "No, I'm okay... Just one mooore...!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Naturally, as the intensity of training increases,\nso does fatigue. I assumed that was the reason\nfor Vivlos's exhaustion as well.",
+      "text": "Naturally, as the intensity of training \nincreases, so does fatigue. I assumed that \nwas the reason for Vivlos's exhaustion as \nwell.",
       "choice_data_list": []
     },
     {
@@ -30,14 +30,14 @@
     },
     {
       "name": "Vivlos",
-      "text": "—...Ugh... Mmm...\n*wheeze*... *wheeze*...",
+      "text": "—...Ugh... Mmm... *wheeze*... *wheeze*...",
       "choice_data_list": [
         "(...Huh?)"
       ]
     },
     {
       "name": "",
-      "text": "Though Vivlos seems unaware of it,\nshe's rubbing her stomach,\nand her breathing sounds different than usual.",
+      "text": "Though Vivlos seems unaware of it, she's \nrubbing her stomach, and her breathing \nsounds different than usual.",
       "choice_data_list": []
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "*pant*... Hey, Trainy, maybe\nwe could take a little breather...?",
+      "text": "*pant*... Hey, Trainy, maybe we could take \na little breather...?",
       "choice_data_list": [
         "No, that's it for today.",
         "No, let's stop here for today."
@@ -57,12 +57,12 @@
       "name": "Vivlos",
       "text": "Huh?",
       "choice_data_list": [
-        "Let's get you checked out in the nurse's office."
+        "Let's get you checked out in the nurse's \noffice."
       ]
     },
     {
       "name": "Vivlos",
-      "text": "\"...I'm okay, you know?\nJust need to rest a bit.\"",
+      "text": "\"...I'm okay, you know? Just need to rest \na bit.\"",
       "choice_data_list": [
         "Let's make sure things are fine."
       ]
@@ -82,24 +82,24 @@
     },
     {
       "name": "School Nurse",
-      "text": "Hmm... It might be better to have it\nchecked out properly at a hospital.",
+      "text": "Hmm... It might be better to have it \nchecked out properly at a hospital.",
       "choice_data_list": [
         "！"
       ]
     },
     {
       "name": "School Nurse",
-      "text": "Repeated stomach aches, abnormal breathing sounds...\nIt's possible she is suffering from multiple symptoms.",
+      "text": "Repeated stomach aches, abnormal breathing \nsounds... It's possible she is suffering \nfrom multiple symptoms.",
       "choice_data_list": []
     },
     {
       "name": "School Nurse",
-      "text": "It seems best to wait and see for a while.\nIn my medical opinion... it will take at least six months for a full recovery.",
+      "text": "It seems best to wait and see for a while. \nIn my medical opinion... it will take at \nleast six months for a full recovery.",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "\"Six months, you say...\nThen it really is...\"",
+      "text": "\"Six months, you say... Then it really \nis...\"",
       "choice_data_list": [
         "...Vivlos, I'm sorry!"
       ]
@@ -108,19 +108,19 @@
       "name": "Vivlos",
       "text": "Huh...",
       "choice_data_list": [
-        "I'm sorry I didn't notice anything was wrong."
+        "I'm sorry I didn't notice anything was \nwrong."
       ]
     },
     {
       "name": "",
-      "text": "Being too naive to take the warning signs seriously, and lacking the reliability to make Vivlos feel she could confide in me... This happened because of me.",
+      "text": "Being too naive to take the warning signs \nseriously, and lacking the reliability to \nmake Vivlos feel she could confide in \nme... This happened because of me.",
       "choice_data_list": [
         "I'm really sorry."
       ]
     },
     {
       "name": "Vivlos",
-      "text": "...No, that's not it.\nYou see, Trainer—",
+      "text": "...No, that's not it. You see, Trainer—",
       "choice_data_list": []
     },
     {
@@ -130,39 +130,39 @@
     },
     {
       "name": "Vivlos",
-      "text": "Big sis?\nWhy...?",
+      "text": "Big sis? Why...?",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Your Trainer got in touch with me.\nMore importantly, are you okay?!",
+      "text": "Your Trainer got in touch with me. More \nimportantly, are you okay?!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "Yeah, I'm calm now.\nI'm okay...",
+      "text": "Yeah, I'm calm now. I'm okay...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "That's right, thank goodness...\n...Hey, Vivlos.",
+      "text": "That's right, thank goodness... ...Hey, \nVivlos.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "You... actually knew all along, didn't you?\nThat you weren't in good shape.",
+      "text": "You... actually knew all along, didn't \nyou? That you weren't in good shape.",
       "choice_data_list": [
         "！"
       ]
     },
     {
       "name": "Verxina",
-      "text": "\"You're a clever girl.\nThere's no way you hadn't noticed.\"",
+      "text": "\"You're a clever girl. There's no way you \nhadn't noticed.\"",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "\"...Because I truly\nthought it would be fine.\"",
+      "text": "\"...Because I truly thought it would be \nfine.\"",
       "choice_data_list": []
     },
     {
@@ -172,29 +172,29 @@
     },
     {
       "name": "Verxina",
-      "text": "Trainer,\ngot a minute?",
+      "text": "Trainer, got a minute?",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...Trainer, do you understand?\nThe reason she was hiding it...",
+      "text": "...Trainer, do you understand? The reason \nshe was hiding it...",
       "choice_data_list": [
         "Maybe she wanted to run the Tiara route"
       ]
     },
     {
       "name": "",
-      "text": "Vivlos's desire for the Tiara route grew deeper by the day. She probably knew that speaking up now would be too late.",
+      "text": "Vivlos's desire for the Tiara route grew \ndeeper by the day. She probably knew that \nspeaking up now would be too late.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"...I had no idea\nit had gotten so heavy.\"",
+      "text": "\"...I had no idea it had gotten so heavy.\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...As a senior competitor,\nallow me to share my thoughts.",
+      "text": "...As a senior competitor, allow me to \nshare my thoughts.",
       "choice_data_list": [
         "Tell me.",
         "Tell me."
@@ -202,19 +202,19 @@
     },
     {
       "name": "Verxina",
-      "text": "It might be better if we don't have Vivlos run in races.",
+      "text": "It might be better if we don't have Vivlos \nrun in races.",
       "choice_data_list": [
         "！"
       ]
     },
     {
       "name": "Verxina",
-      "text": "The Twinkle Series is a harsh world.\nI wonder if she can endure it as she is now...",
+      "text": "The Twinkle Series is a harsh world. I \nwonder if she can endure it as she is \nnow...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Continuing alongside treatment is unrealistic.\nI believe it would be best to rest until a full recovery is made.",
+      "text": "Continuing alongside treatment is \nunrealistic. I believe it would be best to \nrest until a full recovery is made.",
       "choice_data_list": [
         "...That's one path to take.",
         "...That's one path to take."
@@ -222,9 +222,9 @@
     },
     {
       "name": "",
-      "text": "I was thinking along similar lines myself.\nSkip the upcoming Oka Sho and Yushun Himba (Japanese Oaks), and depending on the situation, sit out the Shuka Sho as well—",
+      "text": "I was thinking along similar lines myself. \nSkip the upcoming Oka Sho and Yushun Himba \n(Japanese Oaks), and depending on the \nsituation, sit out the Shuka Sho as well—",
       "choice_data_list": [
-        "In order to advance to my biggest dream, Dubai—"
+        "In order to advance to my biggest dream, \nDubai—"
       ]
     },
     {
@@ -234,12 +234,12 @@
     },
     {
       "name": "Verxina",
-      "text": "!\nListen to me—",
+      "text": "! Listen to me—",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "I'm definitely, positively running the Tiara route!!",
+      "text": "I'm definitely, positively running the \nTiara route!!",
       "choice_data_list": []
     },
     {
@@ -261,22 +261,22 @@
     },
     {
       "name": "Vivlos",
-      "text": "No way, I don't want to!\nI'm definitely not taking a break!",
+      "text": "No way, I don't want to! I'm definitely \nnot taking a break!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"...I'm sorry for discussing it without telling you.\nBut I intended to explain it properly\nso you would understand――\"",
+      "text": "\"...I'm sorry for discussing it without \ntelling you. But I intended to explain it \nproperly so you would understand――\"",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "No!\nI don't wanna hear it~~!",
+      "text": "No! I don't wanna hear it~~!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Vivlos is usually so honest and obedient...\nYet right now, she was being stubborn.",
+      "text": "Vivlos is usually so honest and \nobedient... Yet right now, she was being \nstubborn.",
       "choice_data_list": [
         "Vivlos..."
       ]
@@ -288,12 +288,12 @@
     },
     {
       "name": "Vivlos",
-      "text": "No!!\nI want to win the Triple Tiara!",
+      "text": "No!! I want to win the Triple Tiara!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "\"Because! Because, Big Sis...\nyou can't do it anymore!\"",
+      "text": "\"Because! Because, Big Sis... you can't do \nit anymore!\"",
       "choice_data_list": []
     },
     {
@@ -303,42 +303,42 @@
     },
     {
       "name": "Vivlos",
-      "text": "I've been watching you all this time too, you know?\nBig Sis...",
+      "text": "I've been watching you all this time too, \nyou know? Big Sis...",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "Do you know how much she wanted that tiara...?\nHow hard she worked for it!",
+      "text": "Do you know how much she wanted that \ntiara...? How hard she worked for it!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "To me... you've always been number one, Sis!\nYou were the coolest of all!!",
+      "text": "To me... you've always been number one, \nSis! You were the coolest of all!!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "!\nVivlos...",
+      "text": "! Vivlos...",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "...I'm not an older sister. But, I'm sure I'm the only one who can become one to her.",
+      "text": "...I'm not an older sister. But, I'm sure \nI'm the only one who can become one to \nher.",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "Everyone who loves Big Sis so much\nhas entrusted their feelings to me!",
+      "text": "Everyone who loves Big Sis so much has \nentrusted their feelings to me!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "I'll make Big Sis's dream come true!\nIf I don't, then—",
+      "text": "I'll make Big Sis's dream come true! If I \ndon't, then—",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "Otherwise,\nI couldn't just have my own dream come true!",
+      "text": "Otherwise, I couldn't just have my own \ndream come true!",
       "choice_data_list": []
     },
     {
@@ -348,12 +348,12 @@
     },
     {
       "name": "",
-      "text": "It was a passion hidden deep inside Vivlos's heart that I had never known before. \"To get revenge for my sister\"... In those words lay an unmistakable love for her sister.",
+      "text": "It was a passion hidden deep inside \nVivlos's heart that I had never known \nbefore. \"To get revenge for my sister\"... \nIn those words lay an unmistakable love \nfor her sister.",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "Hey, Trainer-san...\nYou understand, right?",
+      "text": "Hey, Trainer-san... You understand, right?",
       "choice_data_list": [
         "……So you're prepared, huh.",
         "……So you're prepared, then?"
@@ -361,20 +361,20 @@
     },
     {
       "name": "",
-      "text": "Even with her current condition, entering races is possible.\nHowever, she is aiming for the Triple Tiara...\nWinning will require a considerable effort.",
+      "text": "Even with her current condition, entering \nraces is possible. However, she is aiming \nfor the Triple Tiara... Winning will \nrequire a considerable effort.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Managing her physical condition while getting stronger without overloading her... It'll demand a higher level of focus than ever before. It could even affect her future.",
+      "text": "Managing her physical condition while \ngetting stronger without overloading \nher... It'll demand a higher level of \nfocus than ever before. It could even \naffect her future.",
       "choice_data_list": [
-        "Even so, you're still going through with it?",
-        "Even so, you're still going through with it?"
+        "Even so, you're still going through with \nit?",
+        "Even so, you're still going through with \nit?"
       ]
     },
     {
       "name": "Vivlos",
-      "text": "...Yeah!\nI'll do it!",
+      "text": "...Yeah! I'll do it!",
       "choice_data_list": []
     },
     {
@@ -386,7 +386,7 @@
     },
     {
       "name": "Verxina",
-      "text": "\"...How am I supposed to trust the words\nof someone without a proven track record?\"",
+      "text": "\"...How am I supposed to trust the words \nof someone without a proven track record?\"",
       "choice_data_list": [
         "What about your little sister?"
       ]
@@ -395,18 +395,18 @@
       "name": "Verxina",
       "text": "Huh?",
       "choice_data_list": [
-        "If it's about Vivlos, won't you believe me?",
-        "If it's about Vivlos, you don't believe me?"
+        "If it's about Vivlos, won't you believe \nme?",
+        "If it's about Vivlos, you don't believe \nme?"
       ]
     },
     {
       "name": "Vivlos",
-      "text": "Big sis...!\nI promise I won't do anything reckless!",
+      "text": "Big sis...! I promise I won't do anything \nreckless!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "I won't give up on the Triple Tiara or Dubai!\nThat's why...!",
+      "text": "I won't give up on the Triple Tiara or \nDubai! That's why...!",
       "choice_data_list": []
     },
     {
@@ -416,7 +416,7 @@
     },
     {
       "name": "Verxina",
-      "text": "...That's not fair. If I say no now,\nit'll make it seem like I don't trust you.",
+      "text": "...That's not fair. If I say no now, it'll \nmake it seem like I don't trust you.",
       "choice_data_list": []
     },
     {
@@ -426,7 +426,7 @@
     },
     {
       "name": "Verxina",
-      "text": "Trainer. If anything happens to this girl...\nI will never forgive you.",
+      "text": "Trainer. If anything happens to this \ngirl... I will never forgive you.",
       "choice_data_list": [
         "...Ah!",
         "...Yeah!"
@@ -434,12 +434,12 @@
     },
     {
       "name": "Verxina",
-      "text": "\"Vivlos. You need to listen to what\nyour Trainer tells you, too.\"",
+      "text": "\"Vivlos. You need to listen to what your \nTrainer tells you, too.\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Because this person bears all the responsibility.\n...That's what a trainer contract means. Understood?",
+      "text": "Because this person bears all the \nresponsibility. ...That's what a trainer \ncontract means. Understood?",
       "choice_data_list": []
     },
     {
@@ -449,12 +449,12 @@
     },
     {
       "name": "Vivlos",
-      "text": "\"Trainer!\n...I'm counting on you!\"",
+      "text": "\"Trainer! ...I'm counting on you!\"",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "The next day—Vivlos officially announced that she would run the Triple Tiara route as scheduled.\nThe fans were overjoyed—",
+      "text": "The next day—Vivlos officially announced \nthat she would run the Triple Tiara route \nas scheduled. The fans were overjoyed—",
       "choice_data_list": []
     }
   ]

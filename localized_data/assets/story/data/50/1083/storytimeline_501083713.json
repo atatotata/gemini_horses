@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Symboli Kris S got injured, so I brought her to the infirmary.",
+      "text": "Symboli Kris S got injured, so I brought \nher to the infirmary.",
       "choice_data_list": []
     },
     {
@@ -13,17 +13,17 @@
     },
     {
       "name": "Symboli Kris S",
-      "text": "—Back to training.\nToday's quota—remains incomplete.",
+      "text": "—Back to training. Today's quota—remains \nincomplete.",
       "choice_data_list": [
-        "What are you gonna do if that injury gets worse?",
-        "What will you do if your injury gets worse?"
+        "What are you gonna do if that injury gets \nworse?",
+        "What will you do if your injury gets \nworse?"
       ]
     },
     {
       "name": "Symboli Kris S",
-      "text": "\"...Then—light training.\nI want to minimize—any disruptions to the schedule.\"",
+      "text": "\"...Then—light training. I want to \nminimize—any disruptions to the schedule.\"",
       "choice_data_list": [
-        "Please rest up until you're completely healed.",
+        "Please rest up until you're completely \nhealed.",
         "As long as it's within reason..."
       ]
     },
@@ -36,12 +36,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Persuade her that readjusting the training menu\nwill allow her to catch up once she's fully healed.",
+      "text": "Persuade her that readjusting the training \nmenu will allow her to catch up once she's \nfully healed.",
       "choice_data_list": []
     },
     {
       "name": "Symboli Kris S",
-      "text": "—Understood.\nIn that case—I have no objections.",
+      "text": "—Understood. In that case—I have no \nobjections.",
       "choice_data_list": []
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Symboli Kris S",
-      "text": "Understood.\nThen—a light run, to start.",
+      "text": "Understood. Then—a light run, to start.",
       "choice_data_list": []
     },
     {
@@ -66,12 +66,12 @@
     },
     {
       "name": "Symboli Kris S",
-      "text": "\"...Any more of this is dangerous.\nWe're stopping training.\"",
+      "text": "\"...Any more of this is dangerous. We're \nstopping training.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seemed her injury had worsened.\nSymboli Kris S was put on rest for a while...",
+      "text": "It seemed her injury had worsened. Symboli \nKris S was put on rest for a while...",
       "choice_data_list": []
     },
     {
@@ -86,12 +86,12 @@
     },
     {
       "name": "Symboli Kris S",
-      "text": "\"Let us proceed—as planned.\nI shall keep any disruption to the schedule—to a minimum.\"",
+      "text": "\"Let us proceed—as planned. I shall keep \nany disruption to the schedule—to a \nminimum.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Symboli Kris S overcame her injury at this pace,\nand her return to training went remarkably smoothly.",
+      "text": "Symboli Kris S overcame her injury at this \npace, and her return to training went \nremarkably smoothly.",
       "choice_data_list": []
     }
   ]

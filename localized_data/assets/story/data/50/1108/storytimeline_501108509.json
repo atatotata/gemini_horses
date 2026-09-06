@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After the meeting, I noticed Duramente\npulling out a container with food inside.",
+      "text": "After the meeting, I noticed Duramente \npulling out a container with food inside.",
       "choice_data_list": [
         "What's in there?",
         "What's inside that?"
@@ -11,22 +11,22 @@
     },
     {
       "name": "Duramente",
-      "text": "Hmm...? Ah, it's chicken tenderloin.\nI made it as a snack.",
+      "text": "Hmm...? Ah, it's chicken tenderloin. I \nmade it as a snack.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Mmph... No good.\nIt's dry and not tasty.",
+      "text": "Mmph... No good. It's dry and not tasty.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Did I overheat it? ...I forgot to taste-test it too.\nOne shouldn't daydream while cooking...",
+      "text": "Did I overheat it? ...I forgot to \ntaste-test it too. One shouldn't daydream \nwhile cooking...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Could her fatigue be from racing so frequently?\nI should probably re-evaluate her racing schedule.",
+      "text": "Could her fatigue be from racing so \nfrequently? I should probably re-evaluate \nher racing schedule.",
       "choice_data_list": []
     }
   ]

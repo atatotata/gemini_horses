@@ -3,20 +3,20 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day, I was talking with Admire Groove\nabout nutritional balance in meals.",
+      "text": "One day, I was talking with Admire Groove \nabout nutritional balance in meals.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "I'll make up for what's lacking with supplements.\nAll that's left that I need is... chocolate...",
+      "text": "I'll make up for what's lacking with \nsupplements. All that's left that I need \nis... chocolate...",
       "choice_data_list": [
-        "Chocolate definitely is great for a quick sugar boost.",
-        "Chocolate definitely is great for a quick sugar boost."
+        "Chocolate definitely is great for a quick \nsugar boost.",
+        "Chocolate definitely is great for a quick \nsugar boost."
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "I never said anything about chocolate.\nAs if I would want to eat such a thing...",
+      "text": "I never said anything about chocolate. As \nif I would want to eat such a thing...",
       "choice_data_list": []
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Admire Groove has lost her focus. Perhaps fatigue from the races is catching up to her... I may need to reconsider her race schedule.",
+      "text": "Admire Groove has lost her focus. Perhaps \nfatigue from the races is catching up to \nher... I may need to reconsider her race \nschedule.",
       "choice_data_list": []
     }
   ]

@@ -3,25 +3,25 @@
   "text_block_list": [
     {
       "name": "Cesario",
-      "text": "Good morning, Trainer.\nI look forward to your guidance again today.",
+      "text": "Good morning, Trainer. I look forward to \nyour guidance again today.",
       "choice_data_list": [
-        "Yeah. Were you able to get some good rest over the break?",
-        "Yeah. Did you get some good rest over the break?"
+        "Yeah. Were you able to get some good rest \nover the break?",
+        "Yeah. Did you get some good rest over the \nbreak?"
       ]
     },
     {
       "name": "Cesario",
-      "text": "Yes. Rest is also part of training.\nI made sure to take it easy—cooking at my own pace,\ngoing for strolls, and relaxing.",
+      "text": "Yes. Rest is also part of training. I made \nsure to take it easy—cooking at my own \npace, going for strolls, and relaxing.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Thanks to that, I was able to thoroughly\nrest my mind and body.\nI will tackle this with full focus.",
+      "text": "Thanks to that, I was able to thoroughly \nrest my mind and body. I will tackle this \nwith full focus.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "To ensure effective training,\nshe managed herself well over the break\nand seems to have come back fully refreshed.",
+      "text": "To ensure effective training, she managed \nherself well over the break and seems to \nhave come back fully refreshed.",
       "choice_data_list": []
     }
   ]

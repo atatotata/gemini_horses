@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
-      "text": "\"They are...\r\nThey aren't...\r\nThey are......\r\nThey aren't......\"",
+      "text": "\"They are... They aren't... They are...... \nThey aren't......\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The Make Debut. While many Umamusume trembled\r\nwith nervous anticipation, Manhattan Cafe's\nmind was somewhere else entirely.",
+      "text": "The Make Debut. While many Umamusume \ntrembled with nervous anticipation, \nManhattan Cafe's mind was somewhere else \nentirely.",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "\"Trainer, before the race...\r\nMay I... go look around... for a little bit?\"",
+      "text": "\"Trainer, before the race... May I... go \nlook around... for a little bit?\"",
       "choice_data_list": [
         "Yeah, of course.",
         "Yeah, of course."
@@ -41,12 +41,12 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Trainer, there's... there was someone...\r\nFar beyond the goalpost...",
+      "text": "Trainer, there's... there was someone... \nFar beyond the goalpost...",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "They looked so happy. So I knew\nI wasn't wrong after all. That's why...",
+      "text": "They looked so happy. So I knew I wasn't \nwrong after all. That's why...",
       "choice_data_list": [
         "Let's try to catch up, even just a little."
       ]
@@ -58,7 +58,7 @@
     },
     {
       "name": "Narrator",
-      "text": "The secret game of tag that had continued unbeknownst to anyone\n—finally unfolds upon the turf.",
+      "text": "The secret game of tag that had continued \nunbeknownst to anyone —finally unfolds \nupon the turf.",
       "choice_data_list": []
     }
   ]

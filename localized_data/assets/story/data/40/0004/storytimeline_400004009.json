@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "It happened on the way home, right after finishing\r\nour daily training and parting ways with <chrname>.",
+      "text": "It happened on the way home, right after \nfinishing our daily training and parting \nways with <chrname>.",
       "choice_data_list": []
     },
     {
@@ -13,34 +13,34 @@
     },
     {
       "name": "",
-      "text": "The one who called out was Aoi Kiryuin, an earnest fellow Trainer affiliated with Tracen Academy.",
+      "text": "The one who called out was Aoi Kiryuin, an \nearnest fellow Trainer affiliated with \nTracen Academy.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Good work today.\r\nWe're just wrapping up our work as well—",
+      "text": "Good work today. We're just wrapping up \nour work as well—",
       "choice_data_list": [
         "\"...Us\"?"
       ]
     },
     {
       "name": "",
-      "text": "\"Looking thoroughly exhausted, Trainer Riko Kashimoto—\r\na strict yet brilliant peer from Tracen Academy—arrived.\"",
+      "text": "\"Looking thoroughly exhausted, Trainer \nRiko Kashimoto— a strict yet brilliant \npeer from Tracen Academy—arrived.\"",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "...\nGood work... today.",
+      "text": "... Good work... today.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Ah, Trainer Kashimoto!\r\nYou really should still be resting...!",
+      "text": "Ah, Trainer Kashimoto! You really should \nstill be resting...!",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "No, it's not a problem.\nIt's not as if... *pant*...\nI'm particularly tired... or anything.",
+      "text": "No, it's not a problem. It's not as if... \n*pant*... I'm particularly tired... or \nanything.",
       "choice_data_list": [
         "Did something happen?"
       ]
@@ -52,17 +52,17 @@
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "\"Trainer Kashimoto!\r\nGood work today. Did you just finish training?\"",
+      "text": "\"Trainer Kashimoto! Good work today. Did \nyou just finish training?\"",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Yes, thank you for your hard work.\r\nLastly, I was thinking of checking the course\none more time for tomorrow.",
+      "text": "Yes, thank you for your hard work. Lastly, \nI was thinking of checking the course one \nmore time for tomorrow.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "! I was just thinking the exact same thing.\r\nI-If you'd like... well, um...",
+      "text": "! I was just thinking the exact same \nthing. I-If you'd like... well, um...",
       "choice_data_list": []
     },
     {
@@ -77,27 +77,27 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"I don't mind. If it's a simple check,\r\nthat would be more efficient anyway.\"",
+      "text": "\"I don't mind. If it's a simple check, \nthat would be more efficient anyway.\"",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Thank you so much...!\nLet's make our rounds quickly, then!",
+      "text": "Thank you so much...! Let's make our \nrounds quickly, then!",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "It's only slight,\r\nbut the turf is a bit rough...",
+      "text": "It's only slight, but the turf is a bit \nrough...",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "The academy should be handling maintenance first thing tomorrow morning,\r\nbut if you're doing early morning practice, you ought to be careful.",
+      "text": "The academy should be handling maintenance \nfirst thing tomorrow morning, but if \nyou're doing early morning practice, you \nought to be careful.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "You're right!\r\nUm, next is... that way!",
+      "text": "You're right! Um, next is... that way!",
       "choice_data_list": []
     },
     {
@@ -107,49 +107,49 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"...The dirt is... *pant*, well-groomed.\r\nThis should, *whew*, be no problem...\"",
+      "text": "\"...The dirt is... *pant*, well-groomed. \nThis should, *whew*, be no problem...\"",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "\"Trainer Kashimoto? Are you okay?\r\nC-Could it be that my pace was too fast?!\"",
+      "text": "\"Trainer Kashimoto? Are you okay? C-Could \nit be that my pace was too fast?!\"",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "I'm sorry!\r\nLet's try turning a bit more slowly—",
+      "text": "I'm sorry! Let's try turning a bit more \nslowly—",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "No.\r\n...There is no problem.",
+      "text": "No. ...There is no problem.",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"If anything, we could go a little faster.\r\nLet's hurry, Trainer Kiryuin.\"",
+      "text": "\"If anything, we could go a little faster. \nLet's hurry, Trainer Kiryuin.\"",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Huh?\r\nR-Really...!?",
+      "text": "Huh? R-Really...!?",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "*pant*... *pant*...!\r\nTh-The turf over here is a bit better...!",
+      "text": "*pant*... *pant*...! Th-The turf over here \nis a bit better...!",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "T-Trainer Kashimoto!\r\nPushing yourself too hard isn't good~...!",
+      "text": "T-Trainer Kashimoto! Pushing yourself too \nhard isn't good~...!",
       "choice_data_list": []
     },
     {
       "name": "",
       "text": "………………。",
       "choice_data_list": [
-        "I see, so that's why you sprinted at full speed."
+        "I see, so that's why you sprinted at full \nspeed."
       ]
     },
     {
@@ -159,65 +159,65 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "How pathetic...\nI've shown you such an unsightly side of myself.",
+      "text": "How pathetic... I've shown you such an \nunsightly side of myself.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "N-No! But, um, err.\r\nAh, Trainer <username>!",
+      "text": "N-No! But, um, err. Ah, Trainer <username>!",
       "choice_data_list": [
         "Pardon?"
       ]
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Today's training was magnificent!\r\nAnd not just in terms of your fast times.",
+      "text": "Today's training was magnificent! And not \njust in terms of your fast times.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "Trainer and the Umamusume were so in sync... You could really tell how much they trusted each other.",
+      "text": "Trainer and the Umamusume were so in \nsync... You could really tell how much \nthey trusted each other.",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Regarding that, I have to agree as well.\r\nIt was a training session that couldn't be done without a strong bond of trust.",
+      "text": "Regarding that, I have to agree as well. \nIt was a training session that couldn't be \ndone without a strong bond of trust.",
       "choice_data_list": [
         "Y-you're too kind!"
       ]
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"...Still, I don't believe we are inferior.\r\nMy trainee and I have come this far together, after all.\"",
+      "text": "\"...Still, I don't believe we are \ninferior. My trainee and I have come this \nfar together, after all.\"",
       "choice_data_list": []
     },
     {
       "name": "Riko Kashimoto",
-      "text": "Even if they ran in the same race right now,\r\nour Umamusume would win. That's what I believe.",
+      "text": "Even if they ran in the same race right \nnow, our Umamusume would win. That's what \nI believe.",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "\"M-Me too! I may have said all that, but I don't think our Bitter Glacé is going to lose either!\"",
+      "text": "\"M-Me too! I may have said all that, but I \ndon't think our Bitter Glacé is going to \nlose either!\"",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "The one working hard is Meek, the one running is Meek!\nOnce the gates open,\nall I can do is watch, but still!",
+      "text": "The one working hard is Meek, the one \nrunning is Meek! Once the gates open, all \nI can do is watch, but still!",
       "choice_data_list": []
     },
     {
       "name": "Trainer Kiryuin",
-      "text": "That is why, more than anyone else...\r\nI believe in Meek.",
+      "text": "That is why, more than anyone else... I \nbelieve in Meek.",
       "choice_data_list": [
         "Trainer Kiryuin..."
       ]
     },
     {
       "name": "Riko Kashimoto",
-      "text": "\"...Trainer <username>,\r\nwhat about you? Do you believe in Umamusume?\"",
+      "text": "\"...Trainer <username>, what about you? Do you \nbelieve in Umamusume?\"",
       "choice_data_list": [
-        "When it comes to the power of belief, I have no intention of losing."
+        "When it comes to the power of belief, I \nhave no intention of losing."
       ]
     },
     {
@@ -227,14 +227,14 @@
     },
     {
       "name": "Riko Kashimoto",
-      "text": "I wish you the best of luck, Trainer Kiryuin.\r\nAnd to you as well, Trainer <username>.",
+      "text": "I wish you the best of luck, Trainer \nKiryuin. And to you as well, Trainer <username>.",
       "choice_data_list": [
         "Yes, likewise!"
       ]
     },
     {
       "name": "",
-      "text": "It was a night where, wishing each other the best,\nI renewed my resolve to keep believing in <chrname> and do my best...!",
+      "text": "It was a night where, wishing each other \nthe best, I renewed my resolve to keep \nbelieving in <chrname> and do my best...!",
       "choice_data_list": []
     }
   ]

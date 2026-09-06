@@ -3,9 +3,9 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "The days at the summer training camp were truly fulfilling.\nToday, once again, the alarm rings at 4:00 AM—",
+      "text": "The days at the summer training camp were \ntruly fulfilling. Today, once again, the \nalarm rings at 4:00 AM—",
       "choice_data_list": [
-        "(Alright, let's do this! First, stretches!)",
+        "(Alright, let's do this! First, \nstretches!)",
         "(Alright, let's do it! First, stretches!)"
       ]
     },
@@ -16,7 +16,7 @@
     },
     {
       "name": "Almond Eye",
-      "text": "I'm finished stretching.\nI'm ready whenever. —How about you?",
+      "text": "I'm finished stretching. I'm ready \nwhenever. —How about you?",
       "choice_data_list": [
         "All good on this end too.",
         "We're all set over here too!"
@@ -24,80 +24,80 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Alright then, let's go!\n—First, at a nice and easy pace to warm up!",
+      "text": "Alright then, let's go! —First, at a nice \nand easy pace to warm up!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I jog at a relaxed pace alongside Almond Eye.\nEver since training camp started, we've gathered at sunrise,\nand I've been accompanying her on light jogs.",
+      "text": "I jog at a relaxed pace alongside Almond \nEye. Ever since training camp started, \nwe've gathered at sunrise, and I've been \naccompanying her on light jogs.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Running beside her allows me to read her breathing and movements clearly.\nFar better than watching from a distance, I can closely assess her condition—that was the reasoning behind it.\"",
+      "text": "\"Running beside her allows me to read her \nbreathing and movements clearly. Far \nbetter than watching from a distance, I \ncan closely assess her condition—that was \nthe reasoning behind it.\"",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
       "text": "...Huff, puff...",
       "choice_data_list": [
-        "Come to think of it, did you win the capsule toy you wanted?",
-        "Come to think of it, did you win the capsule toy you wanted?"
+        "Come to think of it, did you win the \ncapsule toy you wanted?",
+        "Come to think of it, did you win the \ncapsule toy you wanted?"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "No... not a single one!\nI try every time I go to the cafeteria,\nbut so far, I have zero Rare Q-marus...",
+      "text": "No... not a single one! I try every time I \ngo to the cafeteria, but so far, I have \nzero Rare Q-marus...",
       "choice_data_list": [
-        "I'm trying my best too, but I've still got a long way to go...",
-        "I'm doing my best too, but it's just not working at all..."
+        "I'm trying my best too, but I've still got \na long way to go...",
+        "I'm doing my best too, but it's just not \nworking at all..."
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "\"Ugh, thank you! But really, in the first place...\nwhy is there a capsule toy machine in the cafeteria?\nIt's a mystery...\"",
+      "text": "\"Ugh, thank you! But really, in the first \nplace... why is there a capsule toy \nmachine in the cafeteria? It's a \nmystery...\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Even while making small talk, I'm constantly wondering if there's anything different about her.\nMy mind is completely full of Almond Eye.",
+      "text": "Even while making small talk, I'm \nconstantly wondering if there's anything \ndifferent about her. My mind is completely \nfull of Almond Eye.",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "—Mmh~...!\nMy body feels all nice and warm!",
+      "text": "—Mmh~...! My body feels all nice and warm!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "\"Looking good!\nAlright, let's start training—\"",
+      "text": "\"Looking good! Alright, let's start \ntraining—\"",
       "choice_data_list": [
-        "Ai, right now... your fatigue level is at '3', right?",
-        "Ai, right now... your fatigue level is at \"3,\" isn't it?"
+        "Ai, right now... your fatigue level is at \n'3', right?",
+        "Ai, right now... your fatigue level is at \n\"3,\" isn't it?"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "Uh! ...No!\n'Two'!",
+      "text": "Uh! ...No! 'Two'!",
       "choice_data_list": [
         "And the truth?"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "...... It's a 『3』.\nI hear you, let's keep it moderate today!",
+      "text": "...... It's a 『3』. I hear you, let's \nkeep it moderate today!",
       "choice_data_list": [
-        "Let's rest for now and start in the afternoon."
+        "Let's rest for now and start in the \nafternoon."
       ]
     },
     {
       "name": "Narrator",
-      "text": "Through thorough communication, she remains in great condition.\nThough her actual number of training sessions is fewer than the others—",
+      "text": "Through thorough communication, she \nremains in great condition. Though her \nactual number of training sessions is \nfewer than the others—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "By structuring the training menu with clear variations, we're achieving the results we originally aimed for.\nThis turned out to be a pleasant surprise.",
+      "text": "By structuring the training menu with \nclear variations, we're achieving the \nresults we originally aimed for. This \nturned out to be a pleasant surprise.",
       "choice_data_list": [
         "(I'm glad things are going smoothly...!)"
       ]
@@ -109,45 +109,45 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "――Ah, you're back!\nGood morning, Ai-chan!",
+      "text": "――Ah, you're back! Good morning, Ai-chan!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Good morning, Blast!\n...And—",
+      "text": "Good morning, Blast! ...And—",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Good morning, Ai-chan!\nYour eyes are sparkling today too!",
+      "text": "Good morning, Ai-chan! Your eyes are \nsparkling today too!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Her name is Kiseki. Last year's Kikuka Sho winner, a GⅠ Umamusume who, true to her name, performed a miracle by tearing through an unprecedentedly bad track.",
+      "text": "Her name is Kiseki. Last year's Kikuka Sho \nwinner, a GⅠ Umamusume who, true to her \nname, performed a miracle by tearing \nthrough an unprecedentedly bad track.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "She hasn't seen a win since then, but because\nshe brings all kinds of surprises every time she runs,\nshe remains hugely popular with racing fans.",
+      "text": "She hasn't seen a win since then, but \nbecause she brings all kinds of surprises \nevery time she runs, she remains hugely \npopular with racing fans.",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Man, that's seriously amazing.\nThe way these highlights are done is gonna be\nsuch good reference for character design...",
+      "text": "Man, that's seriously amazing. The way \nthese highlights are done is gonna be such \ngood reference for character design...",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "H-Hold on...\nAren't you staring a bit too much?",
+      "text": "H-Hold on... Aren't you staring a bit too \nmuch?",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Ah! Sorry, sorry!\nYou're just so pretty, I guess I'll never quite get used to it.",
+      "text": "Ah! Sorry, sorry! You're just so pretty, I \nguess I'll never quite get used to it.",
       "choice_data_list": [
-        "By the way, did you need something from Ai?",
-        "By the way, did you need something from Ai?"
+        "By the way, did you need something from \nAi?",
+        "By the way, did you need something from \nAi?"
       ]
     },
     {
@@ -157,26 +157,26 @@
     },
     {
       "name": "Kiseki",
-      "text": "I was hanging out with Blast-chan and came up with all sorts of moves!\nI really want Ai-chan to try them out too!",
+      "text": "I was hanging out with Blast-chan and came \nup with all sorts of moves! I really want \nAi-chan to try them out too!",
       "choice_data_list": [
         "Technique...?"
       ]
     },
     {
       "name": "Blast Onepiece",
-      "text": "\"Are you interested?!\nThen play with us too, Trainer!\"",
+      "text": "\"Are you interested?! Then play with us \ntoo, Trainer!\"",
       "choice_data_list": []
     },
     {
       "name": "Blast Onepiece",
-      "text": "First, a demonstration!\nWhich one do you want, the \"Giant Blast\"\nor the \"Kiseki-Style Amazing Sault\"!?",
+      "text": "First, a demonstration! Which one do you \nwant, the \"Giant Blast\" or the \n\"Kiseki-Style Amazing Sault\"!?",
       "choice_data_list": [
         "What!? I-I..."
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "...I'm not sure what kind of example to follow,\nbut I'll leave it to you.",
+      "text": "...I'm not sure what kind of example to \nfollow, but I'll leave it to you.",
       "choice_data_list": [
         "\"Giant Blast\"",
         "'Kiseki-Style Amazing Salto'"
@@ -184,7 +184,7 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "Here goes!\n\"Giant Blast\"—!!",
+      "text": "Here goes! \"Giant Blast\"—!!",
       "choice_data_list": []
     },
     {
@@ -196,30 +196,30 @@
     },
     {
       "name": "Almond Eye",
-      "text": "—T-that tackle was incredible...!\nThe punching bag is completely wrecked...",
+      "text": "—T-that tackle was incredible...! The \npunching bag is completely wrecked...",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "A dynamic move making full use of Blast-chan's build that knocks you out in one hit!\nAugh, I want to see it in a full-page spread!",
+      "text": "A dynamic move making full use of \nBlast-chan's build that knocks you out in \none hit! Augh, I want to see it in a \nfull-page spread!",
       "choice_data_list": [
-        "By the way, why are you developing special moves?",
-        "By the way, why are you developing special moves?"
+        "By the way, why are you developing special \nmoves?",
+        "By the way, why are you developing special \nmoves?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "For some reason, mats were laid out outside,\ncomplete with steel posts and ropes.\nIt looked just like a pro wrestling ring.",
+      "text": "For some reason, mats were laid out \noutside, complete with steel posts and \nropes. It looked just like a pro wrestling \nring.",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "We were thinking up special moves for a battle manga, and decided to actually try doing them ourselves!",
+      "text": "We were thinking up special moves for a \nbattle manga, and decided to actually try \ndoing them ourselves!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "And then your face popped into my head, Ai-chan! You're so athletic, I just had to see what it'd look like if you gave it a shot!",
+      "text": "And then your face popped into my head, \nAi-chan! You're so athletic, I just had to \nsee what it'd look like if you gave it a \nshot!",
       "choice_data_list": [
         "Are you gonna do it, Ai...?",
         "Are you gonna do it, Ai...?"
@@ -227,12 +227,12 @@
     },
     {
       "name": "Almond Eye",
-      "text": "...Everyone's expecting a lot from me, so\nfor now—let's give it a shot!",
+      "text": "...Everyone's expecting a lot from me, so \nfor now—let's give it a shot!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Here I go...!\n\"Giant Blast\"!!",
+      "text": "Here I go...! \"Giant Blast\"!!",
       "choice_data_list": []
     },
     {
@@ -242,19 +242,19 @@
     },
     {
       "name": "Blast Onepiece",
-      "text": "Ooh~~!\nThat acceleration clicked right in... So smart!",
+      "text": "Ooh~~! That acceleration clicked right \nin... So smart!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Still, it wouldn't have the same impact as yours, would it?\nIf I were to do it...\nI'd want to use the rebound of the ropes too!",
+      "text": "Still, it wouldn't have the same impact as \nyours, would it? If I were to do it... I'd \nwant to use the rebound of the ropes too!",
       "choice_data_list": [
         "(She's taking this so seriously...)"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "I wonder if the day will ever come when I can reveal\nmy newly developed \"Three-Through Spear\"...?",
+      "text": "I wonder if the day will ever come when I \ncan reveal my newly developed \n\"Three-Through Spear\"...?",
       "choice_data_list": [
         "My \"Trainer Chop\" too...",
         "My \"Trainer Chop\" too..."
@@ -262,7 +262,7 @@
     },
     {
       "name": "Kiseki",
-      "text": "Now is the hour to take flight!\nUnleash! 'Kiseki-Style Amazing Salto'!",
+      "text": "Now is the hour to take flight! Unleash! \n'Kiseki-Style Amazing Salto'!",
       "choice_data_list": []
     },
     {
@@ -274,30 +274,30 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Look at all those somersaults...!\nIt's just like a circus!",
+      "text": "Look at all those somersaults...! It's \njust like a circus!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Heheh! I wanted to surprise everyone,\nso I pulled off a diving attack right off the top turnbuckle!",
+      "text": "Heheh! I wanted to surprise everyone, so I \npulled off a diving attack right off the \ntop turnbuckle!",
       "choice_data_list": [
-        "By the way, why are you developing special moves?",
-        "By the way, why are you developing special moves?"
+        "By the way, why are you developing special \nmoves?",
+        "By the way, why are you developing special \nmoves?"
       ]
     },
     {
       "name": "Narrator",
-      "text": "For some reason, mats were laid out outside,\ncomplete with turnbuckles and ropes.\nIt looked just like a pro wrestling ring.",
+      "text": "For some reason, mats were laid out \noutside, complete with turnbuckles and \nropes. It looked just like a pro wrestling \nring.",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "We were thinking up special moves for a battle manga, and decided to actually try doing them ourselves!",
+      "text": "We were thinking up special moves for a \nbattle manga, and decided to actually try \ndoing them ourselves!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "And then your face popped into my head, Ai-chan! You're so athletic, I just had to see what it'd look like if you gave it a shot!",
+      "text": "And then your face popped into my head, \nAi-chan! You're so athletic, I just had to \nsee what it'd look like if you gave it a \nshot!",
       "choice_data_list": [
         "Are you gonna do it, Ai...?",
         "Are you gonna do it, Ai...?"
@@ -305,12 +305,12 @@
     },
     {
       "name": "Almond Eye",
-      "text": "...Everyone's expecting a lot from me, so\nfor now—let's give it a shot!",
+      "text": "...Everyone's expecting a lot from me, so \nfor now—let's give it a shot!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "I'll decide it with all my might!\n—\"Kiseki-style Amazing Salto\"!",
+      "text": "I'll decide it with all my might! \n—\"Kiseki-style Amazing Salto\"!",
       "choice_data_list": []
     },
     {
@@ -320,19 +320,19 @@
     },
     {
       "name": "Kiseki",
-      "text": "W-What brilliance...!\nTruly taking flight! And each and every\none of those spins is gorgeous...!",
+      "text": "W-What brilliance...! Truly taking flight! \nAnd each and every one of those spins is \ngorgeous...!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Still, that was one less spin than you.\nIf I were to do it,\nI'd want it to be even flashier...!",
+      "text": "Still, that was one less spin than you. If \nI were to do it, I'd want it to be even \nflashier...!",
       "choice_data_list": [
         "(She's taking this so seriously...)"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "I wonder if the day will ever come when I can reveal\nmy newly developed \"Thunder Eye Shot\"...?",
+      "text": "I wonder if the day will ever come when I \ncan reveal my newly developed \"Thunder Eye \nShot\"...?",
       "choice_data_list": [
         "My \"Trainer Chop\" too...",
         "My \"Trainer Chop\" too..."
@@ -340,40 +340,40 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Well then...\nShall we start training soon?",
+      "text": "Well then... Shall we start training soon?",
       "choice_data_list": [
-        "Yeah, I fixed up the menu too, so take a look.",
-        "Yeah, I fixed up the menu too, so take a look!"
+        "Yeah, I fixed up the menu too, so take a \nlook.",
+        "Yeah, I fixed up the menu too, so take a \nlook!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "What I showed her was the whiteboard.\nBecause the regimen changes frequently depending on her condition, I've recently been writing it on the board to share with her.",
+      "text": "What I showed her was the whiteboard. \nBecause the regimen changes frequently \ndepending on her condition, I've recently \nbeen writing it on the board to share with \nher.",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "...Oh? You can actually tackle this pretty thoroughly, can't you!",
+      "text": "...Oh? You can actually tackle this pretty \nthoroughly, can't you!",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "The workload is higher than the day before yesterday...\nEven though we agreed to take it easy this morning.",
+      "text": "The workload is higher than the day before \nyesterday... Even though we agreed to take \nit easy this morning.",
       "choice_data_list": [
-        "I saw how you were doing earlier and thought you could pull it off."
+        "I saw how you were doing earlier and \nthought you could pull it off."
       ]
     },
     {
       "name": "Almond Eye",
       "text": "...You're confident, aren't you?",
       "choice_data_list": [
-        "Yeah. I'll make sure you get thorough care too!",
-        "Yeah. We'll take care of you perfectly, too!"
+        "Yeah. I'll make sure you get thorough care \ntoo!",
+        "Yeah. We'll take care of you perfectly, \ntoo!"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "Right! Well then,\nI'll give it everything I've got, too!!",
+      "text": "Right! Well then, I'll give it everything \nI've got, too!!",
       "choice_data_list": []
     },
     {
@@ -390,16 +390,16 @@
     },
     {
       "name": "Almond Eye",
-      "text": "\"I have to win the Shuka Sho!\n—For your sake, too.\"",
+      "text": "\"I have to win the Shuka Sho! —For your \nsake, too.\"",
       "choice_data_list": [
         "……！"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "\"...Huh?\nJust now... I...\"",
+      "text": "\"...Huh? Just now... I...\"",
       "choice_data_list": [
-        "...Are you saying you're doing this for my sake?",
+        "...Are you saying you're doing this for my \nsake?",
         "...Are you saying it's for my sake?"
       ]
     },
@@ -410,27 +410,27 @@
     },
     {
       "name": "Almond Eye",
-      "text": "...Ah, I see.\nSince when did...—",
+      "text": "...Ah, I see. Since when did...—",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "...I'm not lying.\nFor now, isn't that enough?",
+      "text": "...I'm not lying. For now, isn't that \nenough?",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Now, let's get down to training!\nI'm going to give it my all!",
+      "text": "Now, let's get down to training! I'm going \nto give it my all!",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "—*Haa*... *haa*...\n*Phew*............",
+      "text": "—*Haa*... *haa*... *Phew*............",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "\"...That's all for today.\n............\"",
+      "text": "\"...That's all for today. ............\"",
       "choice_data_list": []
     },
     {
@@ -450,42 +450,42 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Well, that's a relief. But you startled me, you know?\nYou were staring out at the sea so blankly.",
+      "text": "Well, that's a relief. But you startled \nme, you know? You were staring out at the \nsea so blankly.",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "I was training just a moment ago...\nMy face got a little flushed, you see.\nI was just cooling off.",
+      "text": "I was training just a moment ago... My \nface got a little flushed, you see. I was \njust cooling off.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "\"...Are you okay?\nWhat about Trainer?\"",
+      "text": "\"...Are you okay? What about Trainer?\"",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "She's watching over me from over there\nwhile adjusting my regimen.",
+      "text": "She's watching over me from over there \nwhile adjusting my regimen.",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "This level of fatigue is well within expectations.\nI've adjusted the workload so it builds strength without causing heat buildup.",
+      "text": "This level of fatigue is well within \nexpectations. I've adjusted the workload \nso it builds strength without causing heat \nbuildup.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "\"Man, they're really going the extra mile, huh?\n...Well, guess you don't wanna slack off.\"",
+      "text": "\"Man, they're really going the extra mile, \nhuh? ...Well, guess you don't wanna slack \noff.\"",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "...If I win the next one too,\nthat'll be the Triple Tiara, won't it?",
+      "text": "...If I win the next one too, that'll be \nthe Triple Tiara, won't it?",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Ah......\nCome to think of it, you're right.",
+      "text": "Ah...... Come to think of it, you're \nright.",
       "choice_data_list": []
     },
     {
@@ -500,12 +500,12 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "\"Ai-san... really doesn't care\nabout that title at all, does she?\"",
+      "text": "\"Ai-san... really doesn't care about that \ntitle at all, does she?\"",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "That's right. What I'm aiming for... is to win the races I want to win!",
+      "text": "That's right. What I'm aiming for... is to \nwin the races I want to win!",
       "choice_data_list": []
     },
     {
@@ -520,32 +520,32 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "“...I'm sure Ai-san's gonna win the Triple Tiara.”",
+      "text": "“...I'm sure Ai-san's gonna win the Triple \nTiara.”",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "I think it'd be an honor if I pulled it off!\nBut I don't know if that's how it'll go.",
+      "text": "I think it'd be an honor if I pulled it \noff! But I don't know if that's how it'll \ngo.",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "\"You never know what will happen in a race. ...The next one to win might just be you.\"",
+      "text": "\"You never know what will happen in a \nrace. ...The next one to win might just be \nyou.\"",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "………………—\nAre you... really serious about that?",
+      "text": "………………— Are you... really serious about \nthat?",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "It's true! That's why I train, and why I never let my guard down. I make adjustments right down to the wire.",
+      "text": "It's true! That's why I train, and why I \nnever let my guard down. I make \nadjustments right down to the wire.",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "—Because I definitely want to win!\nDon't you feel the same?",
+      "text": "—Because I definitely want to win! Don't \nyou feel the same?",
       "choice_data_list": []
     },
     {

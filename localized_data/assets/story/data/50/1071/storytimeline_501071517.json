@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "When I entered the trainer's office,\nMejiro Ardan was gazing out the window\nwith a melancholic expression.",
+      "text": "When I entered the trainer's office, \nMejiro Ardan was gazing out the window \nwith a melancholic expression.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Oh, my... Good day to you,\nTrainer.",
+      "text": "Oh, my... Good day to you, Trainer.",
       "choice_data_list": [
         "You seem down.",
         "You seem a bit down."
@@ -16,17 +16,17 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "...I apologize.\nIt's a trivial matter... really quite trivial, but...",
+      "text": "...I apologize. It's a trivial matter... \nreally quite trivial, but...",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ardan",
-      "text": "\"The other day, I ordered both volumes of a book I've wanted to read online, and—\"",
+      "text": "\"The other day, I ordered both volumes of \na book I've wanted to read online, and—\"",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Ardan",
-      "text": "When I opened the package... the first volume was the old edition, and the second volume was the new edition. It looks so odd when lined up on the bookshelf...",
+      "text": "When I opened the package... the first \nvolume was the old edition, and the second \nvolume was the new edition. It looks so \nodd when lined up on the bookshelf...",
       "choice_data_list": [
         "...That doesn't sit well with me.",
         "...That doesn't sit well with me."
@@ -34,12 +34,12 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Yes. ...Perhaps I should not have been lazy and visited the bookstore myself to buy it on foot.",
+      "text": "Yes. ...Perhaps I should not have been \nlazy and visited the bookstore myself to \nbuy it on foot.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Mejiro Ardan let out a sigh,\r\nlooking visibly troubled...",
+      "text": "Mejiro Ardan let out a sigh, looking \nvisibly troubled...",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Narita Taishin got injured,\r\nso I brought her to the infirmary.",
+      "text": "Narita Taishin got injured, so I brought \nher to the infirmary.",
       "choice_data_list": [
         "Taishin, are you okay!?",
         "Taishin, are you okay!?"
@@ -11,19 +11,19 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...I can hear you just fine without you yelling like that.",
+      "text": "...I can hear you just fine without you \nyelling like that.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "An injury like this is nothing!\r\nThe pain is already fading, so I'm totally fine.",
+      "text": "An injury like this is nothing! The pain \nis already fading, so I'm totally fine.",
       "choice_data_list": [
         "Taishin"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "I can handle training without any problem too, so—",
+      "text": "I can handle training without any problem \ntoo, so—",
       "choice_data_list": [
         "Taishin!"
       ]
@@ -32,8 +32,8 @@
       "name": "Narita Taishin",
       "text": "...Wh-What!?",
       "choice_data_list": [
-        "I came to the infirmary because it looked like something might be wrong.",
-        "I came to the infirmary because it looked like something might be wrong.",
+        "I came to the infirmary because it looked \nlike something might be wrong.",
+        "I came to the infirmary because it looked \nlike something might be wrong.",
         "I'll live up to your enthusiasm!",
         "I'll live up to your enthusiasm!"
       ]
@@ -42,8 +42,8 @@
       "name": "Narita Taishin",
       "text": "...Wh-What!?",
       "choice_data_list": [
-        "I came to the infirmary because it looked like something might be wrong.",
-        "I came to the infirmary because it looked like something might be wrong.",
+        "I came to the infirmary because it looked \nlike something might be wrong.",
+        "I came to the infirmary because it looked \nlike something might be wrong.",
         "I'll live up to your enthusiasm!",
         "I'll live up to your enthusiasm!"
       ]
@@ -55,15 +55,15 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Still, I don't have time to rest!\nYou of all people should understand that, shouldn't you!?",
+      "text": "Still, I don't have time to rest! You of \nall people should understand that, \nshouldn't you!?",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "If I fall behind over something like this,\r\nI'll stay a weakling forever...!",
+      "text": "If I fall behind over something like this, \nI'll stay a weakling forever...!",
       "choice_data_list": [
-        "You won't be able to run properly unless you rest.",
-        "You won't be able to run properly unless you rest."
+        "You won't be able to run properly unless \nyou rest.",
+        "You won't be able to run properly unless \nyou rest."
       ]
     },
     {
@@ -73,30 +73,30 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Shut up, shut up, shut up!\r\nActing all high and mighty with your logical points...!!",
+      "text": "Shut up, shut up, shut up! Acting all high \nand mighty with your logical points...!!",
       "choice_data_list": [
-        "Still, you don't want lies or empty platitudes, right?",
-        "Still, you're not looking for lies or platitudes, are you?"
+        "Still, you don't want lies or empty \nplatitudes, right?",
+        "Still, you're not looking for lies or \nplatitudes, are you?"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Of course not...!\r\nI won't forgive you if you say that!",
+      "text": "Of course not...! I won't forgive you if \nyou say that!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...Damn it!\r\nI'm definitely gonna recover fast...!",
+      "text": "...Damn it! I'm definitely gonna recover \nfast...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "After that, although it was mostly out of sulking, Narita Taishin did take some time to rest.",
+      "text": "After that, although it was mostly out of \nsulking, Narita Taishin did take some time \nto rest.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Seeing her still trying to stand up despite her injury moved me deeply.\r\nWhen I told her I would support her with everything I had—",
+      "text": "Seeing her still trying to stand up \ndespite her injury moved me deeply. When I \ntold her I would support her with \neverything I had—",
       "choice_data_list": []
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Fine, as long as you get it...\r\nThough you really are suffocatingly intense.",
+      "text": "Fine, as long as you get it... Though you \nreally are suffocatingly intense.",
       "choice_data_list": []
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah, shut up already!\r\nI told you to stop, you're distracting me—",
+      "text": "Ah, shut up already! I told you to stop, \nyou're distracting me—",
       "choice_data_list": []
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "name": "Narrator",
-      "text": "In the end, Narita Taishin aggravated her injury during training and was forced to take time off to rest.",
+      "text": "In the end, Narita Taishin aggravated her \ninjury during training and was forced to \ntake time off to rest.",
       "choice_data_list": []
     },
     {
@@ -140,12 +140,12 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Good grief,\r\nit's not like it's a ticket or anything...!",
+      "text": "Good grief, it's not like it's a ticket or \nanything...!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "(Still, making noise dulls the pain,\r\nand it definitely fires me up... Annoying as it is to admit――)",
+      "text": "(Still, making noise dulls the pain, and \nit definitely fires me up... Annoying as \nit is to admit――)",
       "choice_data_list": []
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Narita Taishin showed her sheer grit and\nmanaged to power through the rest of the day's training.",
+      "text": "Narita Taishin showed her sheer grit and \nmanaged to power through the rest of the \nday's training.",
       "choice_data_list": []
     }
   ]

@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Air Messiah",
-      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my report from my time off.\"",
+      "text": "\"Dear Trainer <username>, Thank you for your hard \nwork. Here is my report from my time off.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Meal details attached in the document.\nOn sunny days, light jogs to break a light sweat;\notherwise focused on rest through reading and studying.\" —",
+      "text": "\"Meal details attached in the document. On \nsunny days, light jogs to break a light \nsweat; otherwise focused on rest through \nreading and studying.\" —",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I look over the vacation report sent by Air Messiah.\nJust as I finish reading it, the door opens.",
+      "text": "I look over the vacation report sent by \nAir Messiah. Just as I finish reading it, \nthe door opens.",
       "choice_data_list": []
     },
     {
@@ -23,15 +23,15 @@
     },
     {
       "name": "Air Messiah",
-      "text": "I will return to training starting today.\nI look forward to your continued guidance and support.",
+      "text": "I will return to training starting today. \nI look forward to your continued guidance \nand support.",
       "choice_data_list": [
-        "Yeah. Let's give it our all again starting today.",
-        "Yeah. Let's give it our all again starting today."
+        "Yeah. Let's give it our all again starting \ntoday.",
+        "Yeah. Let's give it our all again starting \ntoday."
       ]
     },
     {
       "name": "Narrator",
-      "text": "Air Messiah's complexion looks great.\nJust as the report said, it seems she enjoyed a relaxing break\nand rested both mind and body thoroughly.",
+      "text": "Air Messiah's complexion looks great. Just \nas the report said, it seems she enjoyed a \nrelaxing break and rested both mind and \nbody thoroughly.",
       "choice_data_list": []
     }
   ]

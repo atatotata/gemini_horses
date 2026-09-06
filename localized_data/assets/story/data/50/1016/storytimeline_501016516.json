@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "When I went to a ramen shop, I happened to spot\r\nNarita Brian and Biwa Hayahide there.",
+      "text": "When I went to a ramen shop, I happened to \nspot Narita Brian and Biwa Hayahide there.",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Thanks for the food.\r\nIt was good.\"",
+      "text": "\"...Thanks for the food. It was good.\"",
       "choice_data_list": []
     },
     {
@@ -23,36 +23,36 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Are you leaving already?\r\nYou really ought to rest a bit after eating...",
+      "text": "Are you leaving already? You really ought \nto rest a bit after eating...",
       "choice_data_list": [
         "Want to have lunch together?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "\"...Oh, it's you.\nWe just happened to run into each other, that's all.\"",
+      "text": "\"...Oh, it's you. We just happened to run \ninto each other, that's all.\"",
       "choice_data_list": []
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Oh, welcome!\r\nLet me know whenever you're ready to order!",
+      "text": "Oh, welcome! Let me know whenever you're \nready to order!",
       "choice_data_list": []
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Right now, it comes with \"Extra Specialty Chashu\" on the house!",
+      "text": "Right now, it comes with \"Extra Specialty \nChashu\" on the house!",
       "choice_data_list": [
         "Extra chashu... extra chashu..."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "\"That stuff is delicious.\r\nEvery single bite just bursts with juice.\"",
+      "text": "\"That stuff is delicious. Every single \nbite just bursts with juice.\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Isn't this leaning a bit too heavily toward meat...?\r\nYou even moved all the vegetables that were on top over to my plate.",
+      "text": "Isn't this leaning a bit too heavily \ntoward meat...? You even moved all the \nvegetables that were on top over to my \nplate.",
       "choice_data_list": []
     },
     {
@@ -62,17 +62,17 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Imagination, nothing! I saw you.\r\nYou need to eat more vegetables, too...!",
+      "text": "Imagination, nothing! I saw you. You need \nto eat more vegetables, too...!",
       "choice_data_list": []
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "Ah ha ha! But if you like it,\r\nthen I'm happy!",
+      "text": "Ah ha ha! But if you like it, then I'm \nhappy!",
       "choice_data_list": []
     },
     {
       "name": "Ramen Shop Owner",
-      "text": "\"If you like it that much,\r\nhow about some extra chashu on the house?\"",
+      "text": "\"If you like it that much, how about some \nextra chashu on the house?\"",
       "choice_data_list": []
     },
     {
@@ -85,49 +85,49 @@
     },
     {
       "name": "Narita Brian",
-      "text": "...Yeah.\r\nEat too much, and it'll slow down your movements.",
+      "text": "...Yeah. Eat too much, and it'll slow down \nyour movements.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yeah, I think that's a wise decision.\r\nAnd good advice from you, too.",
+      "text": "Yeah, I think that's a wise decision. And \ngood advice from you, too.",
       "choice_data_list": [
-        "Thank you...? "
+        "Thank you...?"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Tch, my sis is meddlesome about every little thing,\r\nor rather, she acts too much like a big sister.",
+      "text": "Tch, my sis is meddlesome about every \nlittle thing, or rather, she acts too much \nlike a big sister.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Is that so?\r\nStill, the fact remains that you are the older sister—",
+      "text": "Is that so? Still, the fact remains that \nyou are the older sister—",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hey, Brian!\r\nDon't run on the way back! Take it slow!",
+      "text": "Hey, Brian! Don't run on the way back! \nTake it slow!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "While warmly watching the sisters' exchange,\r\nI went ahead and ordered the ramen with extra chashu pork.",
+      "text": "While warmly watching the sisters' \nexchange, I went ahead and ordered the \nramen with extra chashu pork.",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "...Yeah.\r\nUntil every last bite is gone!",
+      "text": "...Yeah. Until every last bite is gone!",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "How reckless can you girls be...!\r\nWait, are you really fine with just chashu?!",
+      "text": "How reckless can you girls be...! Wait, \nare you really fine with just chashu?!",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "I can keep going.\r\nPops, give me an extra serving of chashu.",
+      "text": "I can keep going. Pops, give me an extra \nserving of chashu.",
       "choice_data_list": []
     },
     {
@@ -137,27 +137,27 @@
     },
     {
       "name": "Narita Brian",
-      "text": "......Phew.\r\nThat was a bigger catch than I imagined.",
+      "text": "......Phew. That was a bigger catch than I \nimagined.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "That shopkeeper was so moved by how much you ate,\r\nhe kept bringing out one refill after another...",
+      "text": "That shopkeeper was so moved by how much \nyou ate, he kept bringing out one refill \nafter another...",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"Are you all right, Brian?\r\nThat clearly exceeds a sensible portion size...\"",
+      "text": "\"Are you all right, Brian? That clearly \nexceeds a sensible portion size...\"",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "No problem... I'm going to run\r\nand burn it off right away... anyway...",
+      "text": "No problem... I'm going to run and burn it \noff right away... anyway...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Narita Brian fully enjoyed the chashu pork, but ended up feeling a bit bloated from overeating...",
+      "text": "Narita Brian fully enjoyed the chashu \npork, but ended up feeling a bit bloated \nfrom overeating...",
       "choice_data_list": []
     }
   ]

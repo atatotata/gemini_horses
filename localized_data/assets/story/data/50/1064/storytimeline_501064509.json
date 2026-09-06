@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"In the cafeteria, I caught sight of Mejiro Palmer chatting and laughing with her friends.\"",
+      "text": "\"In the cafeteria, I caught sight of \nMejiro Palmer chatting and laughing with \nher friends.\"",
       "choice_data_list": []
     },
     {
       "name": "Palmer's Friend",
-      "text": "...That's what Helios said!\nAnd I just burst out laughing~!",
+      "text": "...That's what Helios said! And I just \nburst out laughing~!",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Huh...!? Ah, ohoho!\nMy, that is quite charming—",
+      "text": "Huh...!? Ah, ohoho! My, that is quite \ncharming—",
       "choice_data_list": []
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Mejiro Palmer",
-      "text": "N-No, seriously, it's nothing!\nMaybe I'm just tired lately,\nI feel kind of off, or something...!",
+      "text": "N-No, seriously, it's nothing! Maybe I'm \njust tired lately, I feel kind of off, or \nsomething...!",
       "choice_data_list": []
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "name": "Narrator",
-      "text": "...It seems the fatigue from running back-to-back races is causing strange side effects. We'll need to reconsider your future schedule.",
+      "text": "...It seems the fatigue from running \nback-to-back races is causing strange side \neffects. We'll need to reconsider your \nfuture schedule.",
       "choice_data_list": []
     }
   ]

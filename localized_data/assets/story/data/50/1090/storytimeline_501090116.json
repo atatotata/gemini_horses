@@ -3,31 +3,31 @@
   "text_block_list": [
     {
       "name": "Verxina's LANE",
-      "text": "\"I haven't recovered from my fatigue yet,\nso please allow me to rest for a short while.\"",
+      "text": "\"I haven't recovered from my fatigue yet, \nso please allow me to rest for a short \nwhile.\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina's LANE",
-      "text": "\"I will return shortly, so please do not worry. Please take this opportunity to get some rest, Trainer.\"",
+      "text": "\"I will return shortly, so please do not \nworry. Please take this opportunity to get \nsome rest, Trainer.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "That LANE message arrived the day after we went to spectate the Japan Cup.",
+      "text": "That LANE message arrived the day after we \nwent to spectate the Japan Cup.",
       "choice_data_list": [
         "(I wonder if everything's okay...)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"The toll from that fierce battle in the Shuka Sho\nclearly still lingered; on the way back from observing,\nshe looked somewhat pale. But...\"",
+      "text": "\"The toll from that fierce battle in the \nShuka Sho clearly still lingered; on the \nway back from observing, she looked \nsomewhat pale. But...\"",
       "choice_data_list": [
         "(...Let's wait just a little longer.)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I wanted to believe her own words that she would \"be right back.\"\nBecause—",
+      "text": "I wanted to believe her own words that she \nwould \"be right back.\" Because—",
       "choice_data_list": [
         "(You must be strong, Verxina...)",
         "(You are strong, aren't you, Verxina—)"
@@ -50,12 +50,12 @@
     },
     {
       "name": "Verxina",
-      "text": "(I want to run more.\nTo become stronger... and yet...)",
+      "text": "(I want to run more. To become stronger... \nand yet...)",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Why...\nWon't you move...?!",
+      "text": "Why... Won't you move...?!",
       "choice_data_list": []
     },
     {
@@ -65,17 +65,17 @@
     },
     {
       "name": "Verxina",
-      "text": "?\nShion-san...?",
+      "text": "? Shion-san...?",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "\"Did you say it won't move...!?\nA-Are you injured!? Someone call an ambulance...!\"",
+      "text": "\"Did you say it won't move...!? A-Are you \ninjured!? Someone call an ambulance...!\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "N-No! I'm not hurt.\nNothing hurts at all, so...",
+      "text": "N-No! I'm not hurt. Nothing hurts at all, \nso...",
       "choice_data_list": []
     },
     {
@@ -85,27 +85,27 @@
     },
     {
       "name": "Win Variation",
-      "text": "Haha... Jumping to conclusions, huh.\nStill... what a relief.",
+      "text": "Haha... Jumping to conclusions, huh. \nStill... what a relief.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...Um, are you doing your training\noutside today too, Shion-san?",
+      "text": "...Um, are you doing your training outside \ntoday too, Shion-san?",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "Ah, no... I'm,\nin rehab right now, so...",
+      "text": "Ah, no... I'm, in rehab right now, so...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "...Ah, why, umm...\nPut simply, well...",
+      "text": "...Ah, why, umm... Put simply, well...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "It seemed like she was interested in Verxina-san, or something...",
+      "text": "It seemed like she was interested in \nVerxina-san, or something...",
       "choice_data_list": []
     },
     {
@@ -115,17 +115,17 @@
     },
     {
       "name": "Win Variation",
-      "text": "...I know I probably look pretty...\nunreliable from the outside, but...",
+      "text": "...I know I probably look pretty... \nunreliable from the outside, but...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "If you're feeling off somehow,\nI'll stick with you... until we figure out why.",
+      "text": "If you're feeling off somehow, I'll stick \nwith you... until we figure out why.",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "\"If it's just that much...\neven I should be able to do it, right?\"",
+      "text": "\"If it's just that much... even I should \nbe able to do it, right?\"",
       "choice_data_list": []
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "—I see... So ever since the Japan Cup, you haven't been able to run well, huh?",
+      "text": "—I see... So ever since the Japan Cup, you \nhaven't been able to run well, huh?",
       "choice_data_list": []
     },
     {
@@ -145,12 +145,12 @@
     },
     {
       "name": "Verxina",
-      "text": "There really is nothing wrong with my body. I even got examined. And yet...",
+      "text": "There really is nothing wrong with my \nbody. I even got examined. And yet...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "...Maybe it's... like, a mental thing, ya know?",
+      "text": "...Maybe it's... like, a mental thing, ya \nknow?",
       "choice_data_list": []
     },
     {
@@ -160,22 +160,22 @@
     },
     {
       "name": "Win Variation",
-      "text": "At least, that's how it was for me...\nAn overwhelming presence stood in front of me, blocking the way...",
+      "text": "At least, that's how it was for me... An \noverwhelming presence stood in front of \nme, blocking the way...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "No matter how much, how much, how much, how much...\nNo matter how hard I try...!",
+      "text": "No matter how much, how much, how much, \nhow much... No matter how hard I try...!",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "When you're made to think,\n\"There's no way I can ever beat this person\"—",
+      "text": "When you're made to think, \"There's no way \nI can ever beat this person\"—",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "...I heard it.\nClear as day... the sound of a heart breaking.",
+      "text": "...I heard it. Clear as day... the sound \nof a heart breaking.",
       "choice_data_list": []
     },
     {
@@ -185,12 +185,12 @@
     },
     {
       "name": "Verxina",
-      "text": "............\n...Heh.",
+      "text": "............ ...Heh.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Fufu, fufufu... Oh, honestly.\nWhat are you saying...?",
+      "text": "Fufu, fufufu... Oh, honestly. What are you \nsaying...?",
       "choice_data_list": []
     },
     {
@@ -200,17 +200,17 @@
     },
     {
       "name": "Verxina",
-      "text": "Me, breaking?\n...That is utterly out of the question!",
+      "text": "Me, breaking? ...That is utterly out of \nthe question!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"I am strong...\nMy ability is second to none, not even to her!\"",
+      "text": "\"I am strong... My ability is second to \nnone, not even to her!\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...I must stand at the pinnacle.\nBreaking down is simply—unthinkable!",
+      "text": "...I must stand at the pinnacle. Breaking \ndown is simply—unthinkable!",
       "choice_data_list": []
     },
     {
@@ -225,32 +225,32 @@
     },
     {
       "name": "Win Variation",
-      "text": "Verxina-san...\nThat's... no good.",
+      "text": "Verxina-san... That's... no good.",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "...If I don't look closely,\nI'll just... sink deeper—",
+      "text": "...If I don't look closely, I'll just... \nsink deeper—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "—One evening. Cheval Grand visited the Trainer's Office,\naccompanied by Win Variation and Verxina.",
+      "text": "—One evening. Cheval Grand visited the \nTrainer's Office, accompanied by Win \nVariation and Verxina.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Apparently, Cheval Grand heard from Win Variation that she wanted to talk about Verxina, and came over with her younger sister.",
+      "text": "Apparently, Cheval Grand heard from Win \nVariation that she wanted to talk about \nVerxina, and came over with her younger \nsister.",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "—And that's where the conversation ended.\nAt least, that's my personal take on it...",
+      "text": "—And that's where the conversation ended. \nAt least, that's my personal take on it...",
       "choice_data_list": []
     },
     {
       "name": "Win Variation",
-      "text": "Verxina-san...\nShe's being pushed pretty hard, I think.",
+      "text": "Verxina-san... She's being pushed pretty \nhard, I think.",
       "choice_data_list": [
         "I see... Thank you for telling me.",
         "I see... Thanks for telling me."
@@ -258,17 +258,17 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Big sis...\nI had no idea at all.",
+      "text": "Big sis... I had no idea at all.",
       "choice_data_list": []
     },
     {
       "name": "Cheval Grand",
-      "text": "\"That day, I was... so caught up in the excitement\nof that amazing race... that I couldn't see a thing.\"",
+      "text": "\"That day, I was... so caught up in the \nexcitement of that amazing race... that I \ncouldn't see a thing.\"",
       "choice_data_list": []
     },
     {
       "name": "Cheval Grand",
-      "text": "Besides, I thought there was no way...\nthat Big Sis would ever break...",
+      "text": "Besides, I thought there was no way... \nthat Big Sis would ever break...",
       "choice_data_list": [
         "I'm... a failure of a Trainer too.",
         "I'm a failure as a Trainer too..."
@@ -276,27 +276,27 @@
     },
     {
       "name": "Narrator",
-      "text": "Having watched her stand back up time and time again,\nI knew how strong-willed she was...\nor perhaps I had only assumed I did.",
+      "text": "Having watched her stand back up time and \ntime again, I knew how strong-willed she \nwas... or perhaps I had only assumed I \ndid.",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "...Whoa, hold on a second!\nThere's no way things would ever get that awkward~!",
+      "text": "...Whoa, hold on a second! There's no way \nthings would ever get that awkward~!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "Big Sister is feeling down, right?\nThen we just gotta cheer her up!",
+      "text": "Big Sister is feeling down, right? Then we \njust gotta cheer her up!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "If Cheval-chi and I give you a big hug, everything's gonna be just fine♡",
+      "text": "If Cheval-chi and I give you a big hug, \neverything's gonna be just fine♡",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Indeed, the source of Verxina's strength has always been her sisters.\nTheir trust could very well help her stand back up.",
+      "text": "Indeed, the source of Verxina's strength \nhas always been her sisters. Their trust \ncould very well help her stand back up.",
       "choice_data_list": [
         "(That's exactly why, if even this...)"
       ]
@@ -315,32 +315,32 @@
     },
     {
       "name": "Verxina",
-      "text": "Geez, what's up, Vivlos?\nCalling me out like this out of nowhere—",
+      "text": "Geez, what's up, Vivlos? Calling me out \nlike this out of nowhere—",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Wait, Cheval and Trainer too?\n...Seriously, what's going on?",
+      "text": "Wait, Cheval and Trainer too? \n...Seriously, what's going on?",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "\"It's okay,\nBig Sis!\"",
+      "text": "\"It's okay, Big Sis!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Vivlos eagerly leaped at Verxina.\nIt was a sight I had seen many times before.\nAnd then—",
+      "text": "Vivlos eagerly leaped at Verxina. It was a \nsight I had seen many times before. And \nthen—",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "You see, Big Sis is super-duper strong!\nShe's always so sparkling, and so cool!",
+      "text": "You see, Big Sis is super-duper strong! \nShe's always so sparkling, and so cool!",
       "choice_data_list": []
     },
     {
       "name": "Vivlos",
-      "text": "—You're my pride and joy, the strongest big sister ever!\nSo everything's gonna be just fine! Right?",
+      "text": "—You're my pride and joy, the strongest \nbig sister ever! So everything's gonna be \njust fine! Right?",
       "choice_data_list": []
     },
     {
@@ -355,17 +355,17 @@
     },
     {
       "name": "Verxina",
-      "text": "...Uh... Yes.\nThat's right, I'm fine... Because...",
+      "text": "...Uh... Yes. That's right, I'm fine... \nBecause...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "I'm, fine.\nBecause...",
+      "text": "I'm, fine. Because...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"Because Big Sis is...\nmore than anyone... more than ANYONE...—\"",
+      "text": "\"Because Big Sis is... more than anyone... \nmore than ANYONE...—\"",
       "choice_data_list": []
     },
     {
@@ -377,12 +377,12 @@
     },
     {
       "name": "Verxina",
-      "text": "I'm sorry, I'm so sorry...! Even though... I'm the big sister...",
+      "text": "I'm sorry, I'm so sorry...! Even though... \nI'm the big sister...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "“Still, no more... than this...! \n...I just... can't—”",
+      "text": "“Still, no more... than this...! ...I \njust... can't—”",
       "choice_data_list": []
     },
     {
@@ -392,12 +392,12 @@
     },
     {
       "name": "Narrator",
-      "text": "\"No one could utter another word.\nSeeing the ever-resolute Verxina\nso completely weakened... was just that shocking—\"",
+      "text": "\"No one could utter another word. Seeing \nthe ever-resolute Verxina so completely \nweakened... was just that shocking—\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Later on, Verxina contacted me.\nShe said things had settled down for now, but...\nthere still seemed to be a shadow behind her smile—",
+      "text": "Later on, Verxina contacted me. She said \nthings had settled down for now, but... \nthere still seemed to be a shadow behind \nher smile—",
       "choice_data_list": []
     }
   ]

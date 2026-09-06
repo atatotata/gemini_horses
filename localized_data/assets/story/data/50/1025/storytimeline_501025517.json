@@ -8,7 +8,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Manhattan Cafe lets out a small sigh.\r\nShe seems rather downcast...",
+      "text": "Manhattan Cafe lets out a small sigh. She \nseems rather downcast...",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
@@ -16,7 +16,7 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I had ordered specialty coffee, but...\nthey contacted me to say it's going to be significantly delayed...",
+      "text": "...I had ordered specialty coffee, but... \nthey contacted me to say it's going to be \nsignificantly delayed...",
       "choice_data_list": []
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Narrator",
-      "text": "She must have been deeply disheartened,\r\nas Manhattan Cafe seemed out of sorts\nfor the rest of the day...",
+      "text": "She must have been deeply disheartened, as \nManhattan Cafe seemed out of sorts for the \nrest of the day...",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Before the race, when I visited the waiting room,\r\nAir Groove was trembling ever so slightly.",
+      "text": "Before the race, when I visited the \nwaiting room, Air Groove was trembling \never so slightly.",
       "choice_data_list": [
         "Are you nervous or something?",
         "Are you nervous?"
@@ -16,19 +16,19 @@
     },
     {
       "name": "Air Groove",
-      "text": "Fool, it is the exact opposite.\r\nI am having the time of my life.",
+      "text": "Fool, it is the exact opposite. I am \nhaving the time of my life.",
       "choice_data_list": []
     },
     {
       "name": "Air Groove",
-      "text": "\"For this will bring me one step closer\r\nto proving that I can serve as a role model\r\nfor all the world's Umamusume.\"",
+      "text": "\"For this will bring me one step closer to \nproving that I can serve as a role model \nfor all the world's Umamusume.\"",
       "choice_data_list": [
         "Let's win no matter what!"
       ]
     },
     {
       "name": "Air Groove",
-      "text": "Isn't it obvious...? Witness the running of the \"Empress\", and keep your eyes peeled!",
+      "text": "Isn't it obvious...? Witness the running \nof the \"Empress\", and keep your eyes \npeeled!",
       "choice_data_list": []
     }
   ]

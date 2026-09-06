@@ -3,10 +3,10 @@
   "text_block_list": [
     {
       "name": "Nice Nature",
-      "text": "Ah...\nWell, don't sweat it?",
+      "text": "Ah... Well, don't sweat it?",
       "choice_data_list": [
-        "...Showed you a pretty uncool side of me, huh.",
-        "...Showed you a pretty uncool side of me, huh."
+        "...Showed you a pretty uncool side of me, \nhuh.",
+        "...Showed you a pretty uncool side of me, \nhuh."
       ]
     },
     {
@@ -16,12 +16,12 @@
     },
     {
       "name": "Nice Nature",
-      "text": "If they were easy to get, the arcades\r\nwould go out of business, after all.",
+      "text": "If they were easy to get, the arcades \nwould go out of business, after all.",
       "choice_data_list": []
     },
     {
       "name": "Nice Nature",
-      "text": "Don't sweat it, let's grab some ramen on the way home!",
+      "text": "Don't sweat it, let's grab some ramen on \nthe way home!",
       "choice_data_list": []
     },
     {

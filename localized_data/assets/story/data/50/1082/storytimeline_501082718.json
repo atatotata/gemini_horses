@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "North Flight",
-      "text": "Thanks to you, I'm completely back on my feet!\nI'll be in your care again starting today♪",
+      "text": "Thanks to you, I'm completely back on my \nfeet! I'll be in your care again starting \ntoday♪",
       "choice_data_list": [
         "You seem to be in good condition.",
         "You seem to be in good condition."
@@ -11,17 +11,17 @@
     },
     {
       "name": "North Flight",
-      "text": "Yes! When you can rest, you must rest thoroughly!\nWithout pushing myself, I spent a relaxing time reading books and going on walks.",
+      "text": "Yes! When you can rest, you must rest \nthoroughly! Without pushing myself, I \nspent a relaxing time reading books and \ngoing on walks.",
       "choice_data_list": []
     },
     {
       "name": "North Flight",
-      "text": "Also, I've been keeping a log of my meals and sleep,\nso I can show you if you'd like.",
+      "text": "Also, I've been keeping a log of my meals \nand sleep, so I can show you if you'd \nlike.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems she managed herself thoroughly even during the break.\nAt this rate, our upcoming training will surely bear fruit.",
+      "text": "It seems she managed herself thoroughly \neven during the break. At this rate, our \nupcoming training will surely bear fruit.",
       "choice_data_list": []
     }
   ]

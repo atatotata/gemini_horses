@@ -3,35 +3,35 @@
   "text_block_list": [
     {
       "name": "Kiseki",
-      "text": "We're here! Phew, the air is so fresh!\nThe forest is the absolute best!",
+      "text": "We're here! Phew, the air is so fresh! The \nforest is the absolute best!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "After our outing, the two of us\ncame to visit a cottage deep in the forest.",
+      "text": "After our outing, the two of us came to \nvisit a cottage deep in the forest.",
       "choice_data_list": [
-        "Looks like this'll be a nice change of pace.",
-        "This seems like it'll be a nice change of pace."
+        "Looks like this'll be a nice change of \npace.",
+        "This seems like it'll be a nice change of \npace."
       ]
     },
     {
       "name": "Kiseki",
-      "text": "Right, right! Ah, over there. Looks like there are other customers too!",
+      "text": "Right, right! Ah, over there. Looks like \nthere are other customers too!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Eeeh! That's awesome!\nYou went to all those places as a couple!?",
+      "text": "Eeeh! That's awesome! You went to all \nthose places as a couple!?",
       "choice_data_list": []
     },
     {
       "name": "Young Woman",
-      "text": "Fufu, well, yeah.\nThough that goes for you, too. It feels like a true three-legged race.",
+      "text": "Fufu, well, yeah. Though that goes for \nyou, too. It feels like a true \nthree-legged race.",
       "choice_data_list": []
     },
     {
       "name": "Young Man",
-      "text": "\"...Whoops, we totally got caught up talking.\nIt's already dark outside.\"",
+      "text": "\"...Whoops, we totally got caught up \ntalking. It's already dark outside.\"",
       "choice_data_list": [
         "Ah, shall we wrap things up soon?"
       ]
@@ -43,7 +43,7 @@
     },
     {
       "name": "",
-      "text": "Just then, the cottage phone suddenly rang—\nand went dead midway through.",
+      "text": "Just then, the cottage phone suddenly \nrang— and went dead midway through.",
       "choice_data_list": [
         "...Wrong number?"
       ]
@@ -62,24 +62,24 @@
     },
     {
       "name": "",
-      "text": "The lights come back on. In the suddenly hushed room,\nsomeone gasped.",
+      "text": "The lights come back on. In the suddenly \nhushed room, someone gasped.",
       "choice_data_list": [
         "I wonder what that was all about..."
       ]
     },
     {
       "name": "Young Man",
-      "text": "The call... has gone dead.\nJust who was that...?",
+      "text": "The call... has gone dead. Just who was \nthat...?",
       "choice_data_list": []
     },
     {
       "name": "Young Woman",
-      "text": "Hey, hey, don't say weird things like that!\nWhat do you mean, 'who'...?",
+      "text": "Hey, hey, don't say weird things like \nthat! What do you mean, 'who'...?",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "...A suspicious phone call, a blackout, and crows flying off eerily. A group that just happened to gather, effectively trapped on an isolated island—",
+      "text": "...A suspicious phone call, a blackout, \nand crows flying off eerily. A group that \njust happened to gather, effectively \ntrapped on an isolated island—",
       "choice_data_list": []
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "name": "Middle-Aged Man",
-      "text": "Tch, what nonsense. You read way too much manga.\nI'm going back to my room.",
+      "text": "Tch, what nonsense. You read way too much \nmanga. I'm going back to my room.",
       "choice_data_list": []
     },
     {
@@ -101,9 +101,9 @@
     },
     {
       "name": "Kiseki",
-      "text": "In situations like this, the one who goes off alone always gets taken out first! Splitting up is strictly forbidden!",
+      "text": "In situations like this, the one who goes \noff alone always gets taken out first! \nSplitting up is strictly forbidden!",
       "choice_data_list": [
-        "Indeed, it's dangerous until we understand the situation."
+        "Indeed, it's dangerous until we understand \nthe situation."
       ]
     },
     {
@@ -113,12 +113,12 @@
     },
     {
       "name": "Kiseki",
-      "text": "Don't worry.\nThere's a standard method for situations like this.\nLet's shut down every single possibility one by one!",
+      "text": "Don't worry. There's a standard method for \nsituations like this. Let's shut down \nevery single possibility one by one!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "I don't know who is plotting what,\nbut I won't let it happen!",
+      "text": "I don't know who is plotting what, but I \nwon't let it happen!",
       "choice_data_list": []
     },
     {
@@ -128,56 +128,56 @@
     },
     {
       "name": "Kiseki",
-      "text": "Everyone! First, let's block all entry points!\nThe attic, the windows, under the floorboards! Oh, and check behind picture frames too!",
+      "text": "Everyone! First, let's block all entry \npoints! The attic, the windows, under the \nfloorboards! Oh, and check behind picture \nframes too!",
       "choice_data_list": []
     },
     {
       "name": "Young Woman",
-      "text": "Wait, under the floor... Wait, it's creaking right here!\nCould it really be...!?",
+      "text": "Wait, under the floor... Wait, it's \ncreaking right here! Could it really \nbe...!?",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Nice call!\nIt's a relief we were able to find it here!",
+      "text": "Nice call! It's a relief we were able to \nfind it here!",
       "choice_data_list": [
-        "Just in case, should we put something on top to block it?"
+        "Just in case, should we put something on \ntop to block it?"
       ]
     },
     {
       "name": "Kiseki",
-      "text": "Yes! If entry from the outside and escape routes\nafter the incident are completely blocked,\nthe culprit won't be able to carry out their crime!",
+      "text": "Yes! If entry from the outside and escape \nroutes after the incident are completely \nblocked, the culprit won't be able to \ncarry out their crime!",
       "choice_data_list": []
     },
     {
       "name": "Middle-Aged Man",
-      "text": "...Is this for real?\nDamn it.",
+      "text": "...Is this for real? Damn it.",
       "choice_data_list": []
     },
     {
       "name": "Middle-Aged Man",
-      "text": "...Hey, what am I supposed to do?\nTell me what I can help with.",
+      "text": "...Hey, what am I supposed to do? Tell me \nwhat I can help with.",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "...! Thank you very much!\nAs for the rest, let's see...—",
+      "text": "...! Thank you very much! As for the rest, \nlet's see...—",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "If we sneak in from under the floor like earlier...\nAway from prying eyes, it must be around here!\nThere's probably an elaborate trick to it!",
+      "text": "If we sneak in from under the floor like \nearlier... Away from prying eyes, it must \nbe around here! There's probably an \nelaborate trick to it!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Be careful not to trigger anything by mistake!\nWatch out for tripwires, hidden buttons, and narrow gaps! And also—",
+      "text": "Be careful not to trigger anything by \nmistake! Watch out for tripwires, hidden \nbuttons, and narrow gaps! And also—",
       "choice_data_list": [
         "Like the dolls and figurines on display?"
       ]
     },
     {
       "name": "Kiseki",
-      "text": "...! That's it, Trainer!\nAll right! Let's check out every single suspicious spot!",
+      "text": "...! That's it, Trainer! All right! Let's \ncheck out every single suspicious spot!",
       "choice_data_list": []
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "name": "Owner",
-      "text": "Excuse me... Ah, was everyone okay\nduring the blackout? Sorry, I was checking\non the trouble and got completely delayed...",
+      "text": "Excuse me... Ah, was everyone okay during \nthe blackout? Sorry, I was checking on the \ntrouble and got completely delayed...",
       "choice_data_list": []
     },
     {
@@ -209,24 +209,24 @@
     },
     {
       "name": "Owner",
-      "text": "Yes. Well, it was crows. Pieces of metal got mixed into a crow's nest and touched the power lines, causing a massive blackout.",
+      "text": "Yes. Well, it was crows. Pieces of metal \ngot mixed into a crow's nest and touched \nthe power lines, causing a massive \nblackout.",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
       "text": "Huh?",
       "choice_data_list": [
-        "...The calls cutting off midway, the power outages..."
+        "...The calls cutting off midway, the power \noutages..."
       ]
     },
     {
       "name": "Kiseki",
-      "text": "Because of crows...\nSo the culprit was a crow?",
+      "text": "Because of crows... So the culprit was a \ncrow?",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "...Everyone instantly deflated.\nIt seemed there was never a culprit to begin with...",
+      "text": "...Everyone instantly deflated. It seemed \nthere was never a culprit to begin with...",
       "choice_data_list": []
     },
     {
@@ -238,7 +238,7 @@
     },
     {
       "name": "Kiseki",
-      "text": "Um, Trainer...\nThe culprit wasn't there, but...",
+      "text": "Um, Trainer... The culprit wasn't there, \nbut...",
       "choice_data_list": []
     },
     {
@@ -256,24 +256,24 @@
     },
     {
       "name": "Kiseki",
-      "text": "My heart started racing all at once, and I got so nervous!\nSeeing you investigate everything so efficiently, Trainer,\nyou were so cool and reliable!",
+      "text": "My heart started racing all at once, and I \ngot so nervous! Seeing you investigate \neverything so efficiently, Trainer, you \nwere so cool and reliable!",
       "choice_data_list": [
         "You're praising me way too much!"
       ]
     },
     {
       "name": "Kiseki",
-      "text": "Ehehe, but still!\nIt was just... so much fun!",
+      "text": "Ehehe, but still! It was just... so much \nfun!",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "Eeeh? Come on!\nYou were totally getting into it, weren't you?",
+      "text": "Eeeh? Come on! You were totally getting \ninto it, weren't you?",
       "choice_data_list": []
     },
     {
       "name": "Kiseki",
-      "text": "...Well, that's what I'd like to think, anyway.\nBecause, it was just... so much fun!",
+      "text": "...Well, that's what I'd like to think, \nanyway. Because, it was just... so much \nfun!",
       "choice_data_list": []
     }
   ]

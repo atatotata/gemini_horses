@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Silence Suzuka came walking from down the hallway,\r\nlooking unwell...",
+      "text": "Silence Suzuka came walking from down the \nhallway, looking unwell...",
       "choice_data_list": []
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Ah, Trainer.\r\nI'm fine, it's just a slight headache...",
+      "text": "Ah, Trainer. I'm fine, it's just a slight \nheadache...",
       "choice_data_list": [
         "Do you want to rest for a while?"
       ]
@@ -28,7 +28,7 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "\"If anything, I think running will make me feel better.\r\nSo, taking a break is just—\"",
+      "text": "\"If anything, I think running will make me \nfeel better. So, taking a break is just—\"",
       "choice_data_list": []
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "",
-      "text": "\"And so, Silence Suzuka was troubled\r\nby a headache...\"",
+      "text": "\"And so, Silence Suzuka was troubled by a \nheadache...\"",
       "choice_data_list": []
     }
   ]

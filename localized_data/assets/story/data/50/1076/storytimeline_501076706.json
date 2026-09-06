@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After hanging out with Sakura Laurel,\nshe extended an invitation to me.",
+      "text": "After hanging out with Sakura Laurel, she \nextended an invitation to me.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "After this, I'm planning to borrow the kitchen\nin the cafeteria to make some espresso.",
+      "text": "After this, I'm planning to borrow the \nkitchen in the cafeteria to make some \nespresso.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"So... if it's alright with you,\nwould you please have some?\"",
+      "text": "\"So... if it's alright with you, would you \nplease have some?\"",
       "choice_data_list": [
         "You're letting me drink it?",
         "Are you going to let me drink that?"
@@ -21,24 +21,24 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Yes.\n...Actually, I've been researching brewing methods lately, and I'd love to hear your thoughts on it.",
+      "text": "Yes. ...Actually, I've been researching \nbrewing methods lately, and I'd love to \nhear your thoughts on it.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"My goal is to recreate 'authentic French espresso'\nand brew a cup for my father!\"",
+      "text": "\"My goal is to recreate 'authentic French \nespresso' and brew a cup for my father!\"",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "I just thought it'd be wonderful to have familiar flavors while you're back in the country!",
+      "text": "I just thought it'd be wonderful to have \nfamiliar flavors while you're back in the \ncountry!",
       "choice_data_list": [
         "If that's the case, I'd be happy to help."
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "Heh-heh-hmm, hmm...♪ Alright, nice! Looks like the tamping turned out great too.",
+      "text": "Heh-heh-hmm, hmm...♪ Alright, nice! Looks \nlike the tamping turned out great too.",
       "choice_data_list": [
         "You're really skilled with your hands!",
         "You're really skilled with your hands!"
@@ -46,17 +46,17 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Ufufu, Cafe-chan actually taught me,\nand I practiced a whole lo~t!",
+      "text": "Ufufu, Cafe-chan actually taught me, and I \npracticed a whole lo~t!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Sakura Laurel began to happily talk about when she practiced—",
+      "text": "Sakura Laurel began to happily talk about \nwhen she practiced—",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Roasting is a battle against time...\nPlease quickly remove the coffee beans\nfrom the machine and cool them down.",
+      "text": "Roasting is a battle against time... \nPlease quickly remove the coffee beans \nfrom the machine and cool them down.",
       "choice_data_list": []
     },
     {
@@ -66,47 +66,47 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Ah... Ow, ow, hot...!\nRoasters get this hot!?",
+      "text": "Ah... Ow, ow, hot...! Roasters get this \nhot!?",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Are you okay...?\nIf you got burned, you should put some ice on it.",
+      "text": "Are you okay...? If you got burned, you \nshould put some ice on it.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "No, I barely grazed it, so I'm fine!\nMore importantly, we've got to hurry, right?!",
+      "text": "No, I barely grazed it, so I'm fine! More \nimportantly, we've got to hurry, right?!",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Next, we grind the beans...\nEspresso requires an extra-fine grind. ...However,\nthe hand grinder I have doesn't produce a uniform size.",
+      "text": "Next, we grind the beans... Espresso \nrequires an extra-fine grind. ...However, \nthe hand grinder I have doesn't produce a \nuniform size.",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Please regrind it in the mill several times...\nPatience is key... again and again.",
+      "text": "Please regrind it in the mill several \ntimes... Patience is key... again and \nagain.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "......Yeah, looks evenly mixed now, right?\nHow's this?",
+      "text": "......Yeah, looks evenly mixed now, right? \nHow's this?",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Almost there.\nPlease gather beans of similar size...\nIf we regrind them, I believe the grind will even out.",
+      "text": "...Almost there. Please gather beans of \nsimilar size... If we regrind them, I \nbelieve the grind will even out.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "I see...! Yeah, got it!\nI'll spin it round and round until it gets delicious!",
+      "text": "I see...! Yeah, got it! I'll spin it round \nand round until it gets delicious!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"Phew... It's finished, I think?!\nThis is my espresso...!\"",
+      "text": "\"Phew... It's finished, I think?! This is \nmy espresso...!\"",
       "choice_data_list": []
     },
     {
@@ -116,52 +116,52 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Mmm... Huh?! It's super bitter!!\nWhy...?!",
+      "text": "Mmm... Huh?! It's super bitter!! Why...?!",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I believe it's because... it took time\nto cool the beans after taking them out of the roaster.\nThe roasting continues even during that interval, you see...",
+      "text": "...I believe it's because... it took time \nto cool the beans after taking them out of \nthe roaster. The roasting continues even \nduring that interval, you see...",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "And also... you turned the mill plenty of times, but... it's not quite there.\n...There's a slight inconsistency in the flavor.",
+      "text": "And also... you turned the mill plenty of \ntimes, but... it's not quite there. \n...There's a slight inconsistency in the \nflavor.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "I see, I see... Even after taking them out of the machine,\nthe beans continue to roast... and the bean size\nalso changes the flavor profile, right?",
+      "text": "I see, I see... Even after taking them out \nof the machine, the beans continue to \nroast... and the bean size also changes \nthe flavor profile, right?",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "...Which means you can fine-tune the taste just by changing the roast and grind size!",
+      "text": "...Which means you can fine-tune the taste \njust by changing the roast and grind size!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "All right, one step forward!\nI'll aim for the flavor Dad loves,\nand try as many times as it takes!",
+      "text": "All right, one step forward! I'll aim for \nthe flavor Dad loves, and try as many \ntimes as it takes!",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Fufu... Crafting the ideal espresso...\nI will help you... all the way to the end.",
+      "text": "Fufu... Crafting the ideal espresso... I \nwill help you... all the way to the end.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"The brew time was spot on... and yep!\nA gorgeous caramel color! The crema is perfect too♪\"",
+      "text": "\"The brew time was spot on... and yep! A \ngorgeous caramel color! The crema is \nperfect too♪\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Sakura Laurel handles the coffee with meticulous care right to the very end. It was clear she had mastered the skill after challenging herself through countless failures.",
+      "text": "Sakura Laurel handles the coffee with \nmeticulous care right to the very end. It \nwas clear she had mastered the skill after \nchallenging herself through countless \nfailures.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Here you go, the finest espresso!\nPlease enjoy, Trainer♪",
+      "text": "Here you go, the finest espresso! Please \nenjoy, Trainer♪",
       "choice_data_list": []
     },
     {
@@ -178,55 +178,55 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Well now, I'm gonna give it a try too!\nDown the hatch!",
+      "text": "Well now, I'm gonna give it a try too! \nDown the hatch!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Mm... Yeah! It's delicious!\nBut—",
+      "text": "Mm... Yeah! It's delicious! But—",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Dad likes a pleasant acidity, so maybe a slightly milder flavor would be better.\n—Alright, let's do this!",
+      "text": "Dad likes a pleasant acidity, so maybe a \nslightly milder flavor would be better. \n—Alright, let's do this!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Trainer, could you taste test\nagain for me next time too?",
+      "text": "Trainer, could you taste test again for me \nnext time too?",
       "choice_data_list": [
         "Of course!",
-        "The coffee tastes delicious as it is, too—I really like it."
+        "The coffee tastes delicious as it is, \ntoo—I really like it."
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "Leave it to me!\nI'll leap right over your expectations, Trainer!",
+      "text": "Leave it to me! I'll leap right over your \nexpectations, Trainer!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Ah, maybe next time I'll try making some treats that go well with espresso too?",
+      "text": "Ah, maybe next time I'll try making some \ntreats that go well with espresso too?",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Please give that one a taste too, Trainer-san♪",
+      "text": "Please give that one a taste too, \nTrainer-san♪",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "So this is what you like, Trainer...\nHm, hm. I'll make sure to remember that.",
+      "text": "So this is what you like, Trainer... Hm, \nhm. I'll make sure to remember that.",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "...Fufu, I'm so glad\nyou drank it, Trainer!",
+      "text": "...Fufu, I'm so glad you drank it, \nTrainer!",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "Hearing you say it's delicious\ngives me so much confidence♪",
+      "text": "Hearing you say it's delicious gives me so \nmuch confidence♪",
       "choice_data_list": []
     }
   ]

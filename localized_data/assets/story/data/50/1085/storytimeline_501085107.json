@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Today is Valentine's Day. To those who've helped you, to friends, to special someone... It's a day when all kinds of feelings are given form as chocolate.",
+      "text": "Today is Valentine's Day. To those who've \nhelped you, to friends, to special \nsomeone... It's a day when all kinds of \nfeelings are given form as chocolate.",
       "choice_data_list": [
         "(Maybe I could, too—)",
         "(Maybe I could, too—)"
@@ -11,12 +11,12 @@
     },
     {
       "name": "Narrator",
-      "text": "—...Nothing of the sort happened,\nand Valentine's Day quietly came to an end.",
+      "text": "—...Nothing of the sort happened, and \nValentine's Day quietly came to an end.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"And the next day, when I went to the trainer's office, Daiichi Ruby was waiting with what looked like a present.\"",
+      "text": "\"And the next day, when I went to the \ntrainer's office, Daiichi Ruby was waiting \nwith what looked like a present.\"",
       "choice_data_list": [
         "Ruby, is that...!?"
       ]
@@ -30,22 +30,22 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Yesterday, Miracle-san and Helios-san\ncame to visit together, and—",
+      "text": "Yesterday, Miracle-san and Helios-san came \nto visit together, and—",
       "choice_data_list": []
     },
     {
       "name": "Daitaku Helios",
-      "text": "From Miracle and me,\nHappy Valentine's~☆",
+      "text": "From Miracle and me, Happy Valentine's~☆",
       "choice_data_list": []
     },
     {
       "name": "Daitaku Helios",
-      "text": "I just reeeally wanted to give the lady a present!\nAnd when I asked Miracle, she put crazy thought into it, right?\nSo I was like, let's just give it to her together!",
+      "text": "I just reeeally wanted to give the lady a \npresent! And when I asked Miracle, she put \ncrazy thought into it, right? So I was \nlike, let's just give it to her together!",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "Um... we both thought really hard about\nwhat kind of thing would make you happy.",
+      "text": "Um... we both thought really hard about \nwhat kind of thing would make you happy.",
       "choice_data_list": []
     },
     {
@@ -55,17 +55,17 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Since your feelings are so genuine,\nit would be impolite of me to decline.",
+      "text": "Since your feelings are so genuine, it \nwould be impolite of me to decline.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Also, it is proper etiquette\nto express one's gratitude for gifts received.",
+      "text": "Also, it is proper etiquette to express \none's gratitude for gifts received.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I brought this return gift along\nbecause I wanted to hear your opinion on it, Trainer.",
+      "text": "I brought this return gift along because I \nwanted to hear your opinion on it, \nTrainer.",
       "choice_data_list": [
         "Why me?",
         "Why me?"
@@ -73,60 +73,60 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "\"I am ashamed to admit it, but\nI am rather ignorant of such worldly customs.\"",
+      "text": "\"I am ashamed to admit it, but I am rather \nignorant of such worldly customs.\"",
       "choice_data_list": [
-        "You seem used to picking out gifts, though..."
+        "You seem used to picking out gifts, \nthough..."
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "True, it is an everyday matter. As long as you don't mind me choosing based on my own \"common\" sensibilities, it shouldn't be a problem.",
+      "text": "True, it is an everyday matter. As long as \nyou don't mind me choosing based on my own \n\"common\" sensibilities, it shouldn't be a \nproblem.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Assuming handicrafts or a silk handkerchief are appropriate as a return gift for the chocolates, that is.",
+      "text": "Assuming handicrafts or a silk \nhandkerchief are appropriate as a return \ngift for the chocolates, that is.",
       "choice_data_list": [
         "I see..."
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "As their Trainer, you know both of their personalities, and you must be well acquainted with student circumstances too.",
+      "text": "As their Trainer, you know both of their \npersonalities, and you must be well \nacquainted with student circumstances too.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I look forward to your continued\nguidance and support.",
+      "text": "I look forward to your continued guidance \nand support.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, I brought Daiichi Ruby to the department\nstore. They have already switched over to White Day\ngoods, and it's reasonably bustling.",
+      "text": "And so, I brought Daiichi Ruby to the \ndepartment store. They have already \nswitched over to White Day goods, and it's \nreasonably bustling.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "That brand over there has quite elaborate packaging design.",
+      "text": "That brand over there has quite elaborate \npackaging design.",
       "choice_data_list": [
         "I bet Helios would like this."
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...Indeed, if it is addressed to Helios-san,\nwe ought to take the decorative aspects into account as well.",
+      "text": "...Indeed, if it is addressed to \nHelios-san, we ought to take the \ndecorative aspects into account as well.",
       "choice_data_list": [
         "Ah, look, sustainable chocolate!"
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Miracle-san might also be interested\nin issues of that nature.\nLet us look into it.",
+      "text": "Miracle-san might also be interested in \nissues of that nature. Let us look into \nit.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Listening to Daiichi Ruby's comments,\nshe clearly observes her surroundings well.\nIt almost felt like my advice was unnecessary, but...",
+      "text": "Listening to Daiichi Ruby's comments, she \nclearly observes her surroundings well. It \nalmost felt like my advice was \nunnecessary, but...",
       "choice_data_list": [
         "Looks like you're ready to decide.",
         "Looks like you're ready to decide."
@@ -134,24 +134,24 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "No, I worry these evaluation criteria might not be sufficient.",
+      "text": "No, I worry these evaluation criteria \nmight not be sufficient.",
       "choice_data_list": [
         "Why?"
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "You both chose your gifts\nsolely based on what would bring me joy.",
+      "text": "You both chose your gifts solely based on \nwhat would bring me joy.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "However, while I can present what is appropriate,\nI know not what brings her joy.",
+      "text": "However, while I can present what is \nappropriate, I know not what brings her \njoy.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I would like to receive advice\nfrom you with that kind of perspective.",
+      "text": "I would like to receive advice from you \nwith that kind of perspective.",
       "choice_data_list": [
         "I'm happy just because you chose it, Ruby"
       ]
@@ -168,7 +168,7 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "\"If that is the case, I will decide based on my own standards.\nExcuse me, I shall go take a look at that brand over there.\"",
+      "text": "\"If that is the case, I will decide based \non my own standards. Excuse me, I shall go \ntake a look at that brand over there.\"",
       "choice_data_list": [
         "Yeah.",
         "Yeah."
@@ -176,19 +176,19 @@
     },
     {
       "name": "Narrator",
-      "text": "Looking into the display case, I spot a bright red,\nheart-shaped piece of chocolate.\nIt sparkles just like a gemstone.",
+      "text": "Looking into the display case, I spot a \nbright red, heart-shaped piece of \nchocolate. It sparkles just like a \ngemstone.",
       "choice_data_list": [
-        "(The price is... 2,000 yen for a single piece!?)"
+        "(The price is... 2,000 yen for a single \npiece!?)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "It was quite an exorbitant price for chocolates.\nYet, resting in its dedicated display case, the chocolate\nseemed to embody Daiichi Ruby herself—",
+      "text": "It was quite an exorbitant price for \nchocolates. Yet, resting in its dedicated \ndisplay case, the chocolate seemed to \nembody Daiichi Ruby herself—",
       "choice_data_list": []
     },
     {
       "name": "Daitaku Helios",
-      "text": "—Fo' real?!\nFrom the young lady to us?!",
+      "text": "—Fo' real?! From the young lady to us?!",
       "choice_data_list": []
     },
     {
@@ -198,42 +198,42 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "This is a token of gratitude for what I received before.",
+      "text": "This is a token of gratitude for what I \nreceived before.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "For Ms. Helios, some fancy truffles.\nPlease enjoy the variety of flavors among these colorful chocolates.",
+      "text": "For Ms. Helios, some fancy truffles. \nPlease enjoy the variety of flavors among \nthese colorful chocolates.",
       "choice_data_list": []
     },
     {
       "name": "Daitaku Helios",
-      "text": "Truffles~~~~!!\nAwesome!!",
+      "text": "Truffles~~~~!! Awesome!!",
       "choice_data_list": []
     },
     {
       "name": "Daitaku Helios",
-      "text": "Milady~... Thank youuu~...!\nI'm so haaaaappy~~~~!!",
+      "text": "Milady~... Thank youuu~...! I'm so \nhaaaaappy~~~~!!",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "For Miracle-san, I have prepared a fair-trade chocolate tablet.\nIt is organic cacao, so please enjoy it with peace of mind.",
+      "text": "For Miracle-san, I have prepared a \nfair-trade chocolate tablet. It is organic \ncacao, so please enjoy it with peace of \nmind.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "Whoa...\nThis is such a gentle, comforting chocolate.",
+      "text": "Whoa... This is such a gentle, comforting \nchocolate.",
       "choice_data_list": []
     },
     {
       "name": "K.S. Miracle",
-      "text": "Thank you, Ruby.\n...For returning my feelings.",
+      "text": "Thank you, Ruby. ...For returning my \nfeelings.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The chocolate chosen by Daiichi Ruby brought great joy to the two of them.\nThis meant our objective had been thoroughly achieved.",
+      "text": "The chocolate chosen by Daiichi Ruby \nbrought great joy to the two of them. This \nmeant our objective had been thoroughly \nachieved.",
       "choice_data_list": [
         "Glad they liked it.",
         "I'm glad they liked it."
@@ -241,7 +241,7 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Yes,\nthank you for your cooperation.",
+      "text": "Yes, thank you for your cooperation.",
       "choice_data_list": []
     },
     {
@@ -254,16 +254,16 @@
     },
     {
       "name": "Narrator",
-      "text": "I pick up the box lying on the desk and open it.\nI had bought that single chocolate that shone so brightly at the department store, wanting to give it to her.",
+      "text": "I pick up the box lying on the desk and \nopen it. I had bought that single \nchocolate that shone so brightly at the \ndepartment store, wanting to give it to \nher.",
       "choice_data_list": [
-        "I found a chocolate that looks just like Ruby..."
+        "I found a chocolate that looks just like \nRuby..."
       ]
     },
     {
       "name": "Daiichi Ruby",
       "text": "……。",
       "choice_data_list": [
-        "Of course, you don't need to give anything in return!"
+        "Of course, you don't need to give anything \nin return!"
       ]
     },
     {
@@ -290,9 +290,9 @@
     },
     {
       "name": "Narrator",
-      "text": "I pick up the box lying on the desk and open it.\nI had bought that single chocolate that shone so brightly at the department store, wanting to give it to her.",
+      "text": "I pick up the box lying on the desk and \nopen it. I had bought that single \nchocolate that shone so brightly at the \ndepartment store, wanting to give it to \nher.",
       "choice_data_list": [
-        "I found a chocolate that looks just like Ruby..."
+        "I found a chocolate that looks just like \nRuby..."
       ]
     },
     {
@@ -309,29 +309,29 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I have prepared items from the same brand as well.",
+      "text": "I have prepared items from the same brand \nas well.",
       "choice_data_list": [
         "Huh?!"
       ]
     },
     {
       "name": "Daiichi Ruby",
-      "text": "\"It's addressed to the Trainer.\nPlease take a look.\"",
+      "text": "\"It's addressed to the Trainer. Please \ntake a look.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "What I received from Daiichi Ruby\nwas the exact same single red chocolate.",
+      "text": "What I received from Daiichi Ruby was the \nexact same single red chocolate.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "After seeing it at the department store that day, I had it ordered.",
+      "text": "After seeing it at the department store \nthat day, I had it ordered.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I thought this would make a fitting token of gratitude for your cooperation.",
+      "text": "I thought this would make a fitting token \nof gratitude for your cooperation.",
       "choice_data_list": [
         "Then why don't you have this—",
         "Then you take this too—"
@@ -339,17 +339,17 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "No, I purchased it because it resembled garnet.",
+      "text": "No, I purchased it because it resembled \ngarnet.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Hoping to live up to the saying\nthat hard work bears fruit. But...",
+      "text": "Hoping to live up to the saying that hard \nwork bears fruit. But...",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "\"In this case,\nyou'd just end up swapping for the exact same thing.\"",
+      "text": "\"In this case, you'd just end up swapping \nfor the exact same thing.\"",
       "choice_data_list": [
         "I'm so happy!",
         "I'm so incredibly happy!"
@@ -362,7 +362,7 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "If that is the case,\nthen very well.",
+      "text": "If that is the case, then very well.",
       "choice_data_list": []
     }
   ]

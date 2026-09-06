@@ -11,8 +11,8 @@
       "text": "—And we were so close, too.",
       "choice_data_list": [
         "Next time, I'll make the escape stick!",
-        "We'll start training as soon as we get back!",
-        "We'll start training as soon as we get back!"
+        "We'll start training as soon as we get \nback!",
+        "We'll start training as soon as we get \nback!"
       ]
     },
     {
@@ -20,28 +20,28 @@
       "text": "—And we were so close, too.",
       "choice_data_list": [
         "Next time, I'll make the escape stick!",
-        "We'll start training as soon as we get back!",
-        "We'll start training as soon as we get back!"
+        "We'll start training as soon as we get \nback!",
+        "We'll start training as soon as we get \nback!"
       ]
     },
     {
       "name": "Silence Suzuka",
-      "text": "Yes.\r\nNever again to such a cramped place...",
+      "text": "Yes. Never again to such a cramped \nplace...",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "...Next time, for sure.\r\nI'll show you I can keep running in the lead.",
+      "text": "...Next time, for sure. I'll show you I \ncan keep running in the lead.",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "...Yes.\r\nBecause this is still nowhere near enough.",
+      "text": "...Yes. Because this is still nowhere near \nenough.",
       "choice_data_list": []
     },
     {
       "name": "Silence Suzuka",
-      "text": "\"Please let me run a lot.\r\n...So that no one can ever overtake me again.\"",
+      "text": "\"Please let me run a lot. ...So that no \none can ever overtake me again.\"",
       "choice_data_list": []
     }
   ]

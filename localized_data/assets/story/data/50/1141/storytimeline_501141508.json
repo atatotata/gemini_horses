@@ -3,16 +3,16 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "It happened when I was having\na meeting with Epiphaneia—",
+      "text": "It happened when I was having a meeting \nwith Epiphaneia—",
       "choice_data_list": [
-        "This time, we'll focus on improving stamina—"
+        "This time, we'll focus on improving \nstamina—"
       ]
     },
     {
       "name": "Epiphaneia",
       "text": "—I see!",
       "choice_data_list": [
-        "? So I was going to try out the new equipment too—"
+        "? So I was going to try out the new \nequipment too—"
       ]
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Perhaps she's exhausted; despite her energetic replies, it feels like nothing is getting through to her.\nI should probably reconsider our upcoming schedule.",
+      "text": "Perhaps she's exhausted; despite her \nenergetic replies, it feels like nothing \nis getting through to her. I should \nprobably reconsider our upcoming schedule.",
       "choice_data_list": []
     }
   ]

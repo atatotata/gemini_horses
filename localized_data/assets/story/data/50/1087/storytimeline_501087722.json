@@ -3,19 +3,19 @@
   "text_block_list": [
     {
       "name": "Aston Machan",
-      "text": "Ugh. My head hurts. It really hurts.\nThis is quite a predicament. What a trouble, indeed.",
+      "text": "Ugh. My head hurts. It really hurts. This \nis quite a predicament. What a trouble, \nindeed.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Right after we finished our training meeting,\nshe suddenly began complaining of feeling unwell in an overly dramatic fashion.",
+      "text": "Right after we finished our training \nmeeting, she suddenly began complaining of \nfeeling unwell in an overly dramatic \nfashion.",
       "choice_data_list": [
         "A-Are you okay?"
       ]
     },
     {
       "name": "Aston Machan",
-      "text": "\"I am perfectly fine.\nBecause Machan has a powerful ally... Whatzitsname Pharmaceuticals' headache medicine!\"",
+      "text": "\"I am perfectly fine. Because Machan has a \npowerful ally... Whatzitsname \nPharmaceuticals' headache medicine!\"",
       "choice_data_list": []
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "Aston Machan",
-      "text": "\"...What do you think of Chan-me's acting?\nWith this, no matter when a commercial offer comes in—\"",
+      "text": "\"...What do you think of Chan-me's acting? \nWith this, no matter when a commercial \noffer comes in—\"",
       "choice_data_list": []
     },
     {
@@ -40,12 +40,12 @@
     },
     {
       "name": "Aston Machan",
-      "text": "...Come to think of it... this pain wasn't an act after all...",
+      "text": "...Come to think of it... this pain wasn't \nan act after all...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Afterward, I actually took some over-the-counter medicine, but...\nthe headache showed no signs of easing.",
+      "text": "Afterward, I actually took some \nover-the-counter medicine, but... the \nheadache showed no signs of easing.",
       "choice_data_list": []
     }
   ]

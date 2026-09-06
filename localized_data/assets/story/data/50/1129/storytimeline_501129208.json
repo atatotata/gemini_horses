@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "The day of the Yasuda Kinen. After arriving at the racecourse, I spent every spare moment checking on Almond Eye's condition and caring for her body.",
+      "text": "The day of the Yasuda Kinen. After \narriving at the racecourse, I spent every \nspare moment checking on Almond Eye's \ncondition and caring for her body.",
       "choice_data_list": [
         "—Your heart rate is a little high.",
         "—Your heart rate is a little high."
@@ -11,10 +11,10 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Well...\nit's right before a race, so of course it'd go up a bit, right?",
+      "text": "Well... it's right before a race, so of \ncourse it'd go up a bit, right?",
       "choice_data_list": [
         "Even compared to before a normal race.",
-        "Even compared to before a normal race, you know."
+        "Even compared to before a normal race, you \nknow."
       ]
     },
     {
@@ -24,17 +24,17 @@
     },
     {
       "name": "Almond Eye",
-      "text": "\"...Geez, you know full well!\nI'm just really, really looking forward to it!\"",
+      "text": "\"...Geez, you know full well! I'm just \nreally, really looking forward to it!\"",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "\"Ever since the Victoria Mile, you and I have been tuning up together just for today...\"",
+      "text": "\"Ever since the Victoria Mile, you and I \nhave been tuning up together just for \ntoday...\"",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "\"I just want to run with all my might—I want to win!\nI'm just itching to get out there!\"",
+      "text": "\"I just want to run with all my might—I \nwant to win! I'm just itching to get out \nthere!\"",
       "choice_data_list": [
         "Yeah, that's true.",
         "Yeah, you're right."
@@ -42,9 +42,9 @@
     },
     {
       "name": "Almond Eye",
-      "text": "I knew it!\nYou knew all along, didn't you?",
+      "text": "I knew it! You knew all along, didn't you?",
       "choice_data_list": [
-        "Shall we take a look at how your muscles move next?"
+        "Shall we take a look at how your muscles \nmove next?"
       ]
     },
     {
@@ -54,57 +54,57 @@
     },
     {
       "name": "Narrator",
-      "text": "Completely focused on facing Almond Eye.\nShutting out entirely all the chatter around her\nthat she would usually worry about—",
+      "text": "Completely focused on facing Almond Eye. \nShutting out entirely all the chatter \naround her that she would usually worry \nabout—",
       "choice_data_list": []
     },
     {
       "name": "Race Fan A",
-      "text": "If she runs normally, Ai-chan will win!\nAi-chan is the strongest~♡",
+      "text": "If she runs normally, Ai-chan will win! \nAi-chan is the strongest~♡",
       "choice_data_list": []
     },
     {
       "name": "Race Fan A",
-      "text": "I mean, I totally want her to win!\n'Cause, 'cause if she wins today... hehehe~♪",
+      "text": "I mean, I totally want her to win! 'Cause, \n'cause if she wins today... hehehe~♪",
       "choice_data_list": []
     },
     {
       "name": "Race Fan B",
-      "text": "Hmm, if she runs normally, sure, but...\nMy concern is that the race interval is just too short.",
+      "text": "Hmm, if she runs normally, sure, but... My \nconcern is that the race interval is just \ntoo short.",
       "choice_data_list": []
     },
     {
       "name": "Gran Alegria",
-      "text": "Huh?\nIs it really that short?",
+      "text": "Huh? Is it really that short?",
       "choice_data_list": []
     },
     {
       "name": "Race Fan B",
-      "text": "Well, yeah. There are even rumors that Ai-chan collapsed after the Oaks... I don't think she's built super tough or anything.",
+      "text": "Well, yeah. There are even rumors that \nAi-chan collapsed after the Oaks... I \ndon't think she's built super tough or \nanything.",
       "choice_data_list": []
     },
     {
       "name": "Race Fan B",
-      "text": "\"I wonder how that will affect things...\nThough under normal circumstances, I'd bet on Ai-chan too.\"",
+      "text": "\"I wonder how that will affect things... \nThough under normal circumstances, I'd bet \non Ai-chan too.\"",
       "choice_data_list": []
     },
     {
       "name": "Gran Alegria",
-      "text": "Don't worry! You watched the Victoria Mile,\nright? Ai-senpai isn't that fragile.",
+      "text": "Don't worry! You watched the Victoria \nMile, right? Ai-senpai isn't that fragile.",
       "choice_data_list": []
     },
     {
       "name": "Gran Alegria",
-      "text": "Aaah, I'm still so frustrated!\nFrustrated for a whole 100 miles!\nI wanted to run today toooo!!",
+      "text": "Aaah, I'm still so frustrated! Frustrated \nfor a whole 100 miles! I wanted to run \ntoday toooo!!",
       "choice_data_list": []
     },
     {
       "name": "Race Fan A",
-      "text": "\"...Huh? Wait, we were just talking normally, but...\nWhaaaaaat!?!?\"",
+      "text": "\"...Huh? Wait, we were just talking \nnormally, but... Whaaaaaat!?!?\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "――I'll check every detail to ensure Almond Eye\ncan deliver beyond normal... her absolute best performance. And then...",
+      "text": "――I'll check every detail to ensure Almond \nEye can deliver beyond normal... her \nabsolute best performance. And then...",
       "choice_data_list": [
         "...All right, it's going to be fine!",
         "...Yeah, I'm okay!"
@@ -117,14 +117,14 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Thank you!\nWell then, I'm heading out!",
+      "text": "Thank you! Well then, I'm heading out!",
       "choice_data_list": [
         "Stop, stop, your hair's all messed up"
       ]
     },
     {
       "name": "Almond Eye",
-      "text": "No way!\nWhere is it? Fix it!",
+      "text": "No way! Where is it? Fix it!",
       "choice_data_list": []
     },
     {
@@ -152,12 +152,12 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Thank you.\nMake sure you watch the race closely, okay?",
+      "text": "Thank you. Make sure you watch the race \nclosely, okay?",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Today, I know for sure—I'm stronger! Even stronger than usual!",
+      "text": "Today, I know for sure—I'm stronger! Even \nstronger than usual!",
       "choice_data_list": []
     }
   ]

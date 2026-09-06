@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "I was explaining the training routine to Air Groove, but she didn't seem to be feeling well at all...",
+      "text": "I was explaining the training routine to \nAir Groove, but she didn't seem to be \nfeeling well at all...",
       "choice_data_list": [
         "Are you okay?"
       ]
     },
     {
       "name": "Air Groove",
-      "text": "\"It's nothing... pay it no mind.\r\nContinue your explanation.\"",
+      "text": "\"It's nothing... pay it no mind. Continue \nyour explanation.\"",
       "choice_data_list": [
         "You don't look so good.",
         "You don't look so good."
@@ -28,7 +28,7 @@
     },
     {
       "name": "Air Groove",
-      "text": "My apologies. How careless of me...\r\nI've had a terrible headache lately.",
+      "text": "My apologies. How careless of me... I've \nhad a terrible headache lately.",
       "choice_data_list": []
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "",
-      "text": "Air Groove seems to be suffering from a headache...",
+      "text": "Air Groove seems to be suffering from a \nheadache...",
       "choice_data_list": []
     }
   ]

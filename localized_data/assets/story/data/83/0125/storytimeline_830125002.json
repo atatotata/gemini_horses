@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "While coaching <chrname>,\nI accidentally twisted my leg\nand ended up at the hospital, but——"
+      "text": "While coaching <chrname>, I accidentally twisted my \nleg and ended up at the hospital, but——"
     },
     {
       "name": "Orthopedic Doctor",
-      "text": "This is a mild sprain.\nYou should avoid unnecessary movement for two or three days,\nand have your trainee do independent practice for now."
+      "text": "This is a mild sprain. You should avoid \nunnecessary movement for two or three \ndays, and have your trainee do independent \npractice for now."
     },
     {
       "name": "???",
@@ -14,13 +14,13 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Sorry for suddenly interrupting. You looked a bit down,\nso... if you'd like,\nwould you care to walk back together while we chat?"
+      "text": "Sorry for suddenly interrupting. You \nlooked a bit down, so... if you'd like, \nwould you care to walk back together while \nwe chat?"
     },
     {
       "name": "Sakura Laurel",
-      "text": "I see——you feel anxious because of the period\nwhere you can't train them. That's true... as a Trainer,\nthat must be a really painful situation.",
+      "text": "I see——you feel anxious because of the \nperiod where you can't train them. That's \ntrue... as a Trainer, that must be a \nreally painful situation.",
       "choice_data_list": [
-        "...Maybe I could move around just a little bit?"
+        "...Maybe I could move around just a little \nbit?"
       ]
     },
     {
@@ -29,44 +29,44 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Right now, let your body rest properly... and during that time,\nkeep your spirit moving forward."
+      "text": "Right now, let your body rest properly... \nand during that time, keep your spirit \nmoving forward."
     },
     {
       "name": "Sakura Laurel",
-      "text": "If you do, your body is sure to\ncatch up to your feelings!"
+      "text": "If you do, your body is sure to catch up \nto your feelings!"
     },
     {
-      "text": "I recall hearing that Sakura Laurel had weak legs since childhood\nand had fallen behind her peers, but clawed her way up\nthrough sheer hard work.",
+      "text": "I recall hearing that Sakura Laurel had \nweak legs since childhood and had fallen \nbehind her peers, but clawed her way up \nthrough sheer hard work.",
       "choice_data_list": [
-        "Hearing you say it really makes it convincing.",
-        "Hearing that from you makes it truly convincing."
+        "Hearing you say it really makes it \nconvincing.",
+        "Hearing that from you makes it truly \nconvincing."
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "Yes, because I learned it firsthand.\nThe anxiety of falling behind, the frustration of enduring it,\nand... the fact that with hard work, you can always rise back up."
+      "text": "Yes, because I learned it firsthand. The \nanxiety of falling behind, the frustration \nof enduring it, and... the fact that with \nhard work, you can always rise back up."
     },
     {
       "name": "Sakura Laurel",
-      "text": "Even when I felt like coming to a halt...\nsong gave me courage.",
+      "text": "Even when I felt like coming to a halt... \nsong gave me courage.",
       "choice_data_list": [
         "A song...?"
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "A song of happiness that we used to sing in our club.\nMaybe it will give you some energy too."
+      "text": "A song of happiness that we used to sing \nin our club. Maybe it will give you some \nenergy too."
     },
     {
       "name": "Sakura Laurel",
-      "text": "『——The cherry blossoms will surely bloom in our future~♪』",
+      "text": "『——The cherry blossoms will surely bloom \nin our future~♪』",
       "choice_data_list": [
-        "(What a voice... it resonates straight into my heart...)"
+        "(What a voice... it resonates straight \ninto my heart...)"
       ]
     },
     {
       "name": "???",
-      "text": "Oh, my, my! I thought I recognized that song,\nand it really was you, Laurel-san!!"
+      "text": "Oh, my, my! I thought I recognized that \nsong, and it really was you, Laurel-san!!"
     },
     {
       "name": "Sakura Laurel",
@@ -74,48 +74,48 @@
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Hearing that song takes me right back to our club days!\nSinging together, running all around together..."
+      "text": "Hearing that song takes me right back to \nour club days! Singing together, running \nall around together..."
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Indeed! Whenever I hum this tune,\nI can dash forward with even more bakushin than usual!\nIt is truly a magnificent bakushin song!!"
+      "text": "Indeed! Whenever I hum this tune, I can \ndash forward with even more bakushin than \nusual! It is truly a magnificent bakushin \nsong!!"
     },
     {
       "name": "Both",
-      "text": "『March on to victory~ Full of cheerful blooming energy~♪\nAim for victory~ With an indomitable spirit~♪』",
+      "text": "『March on to victory~ Full of cheerful \nblooming energy~♪ Aim for victory~ With an \nindomitable spirit~♪』",
       "choice_data_list": [
-        "...I really do feel like I've received energy from everyone."
+        "...I really do feel like I've received \nenergy from everyone."
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "Fufu, I'm glad to hear that.\n...Back when I had no choice but to watch over everyone,\nthose two would always come over and sing by my side——"
+      "text": "Fufu, I'm glad to hear that. ...Back when \nI had no choice but to watch over \neveryone, those two would always come over \nand sing by my side——"
     },
     {
       "name": "Sakura Laurel",
-      "text": "I truly love singing together with my clubmates.\nBoth back then, and now, always.",
-      "choice_data_list": [
-        "What a great club.",
-        "That sounds like a wonderful club.",
-        "It makes me want to see your Winning Live, Laurel."
-      ]
-    },
-    {
-      "name": "Sakura Laurel",
-      "text": "I truly love singing together with my clubmates.\nBoth back then, and now, always.",
+      "text": "I truly love singing together with my \nclubmates. Both back then, and now, \nalways.",
       "choice_data_list": [
         "What a great club.",
         "That sounds like a wonderful club.",
-        "It makes me want to see your Winning Live, Laurel."
+        "It makes me want to see your Winning Live, \nLaurel."
       ]
     },
     {
       "name": "Sakura Laurel",
-      "text": "Yes, it really is.\nEvery day was so lively, and we got along so well——"
+      "text": "I truly love singing together with my \nclubmates. Both back then, and now, \nalways.",
+      "choice_data_list": [
+        "What a great club.",
+        "That sounds like a wonderful club.",
+        "It makes me want to see your Winning Live, \nLaurel."
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yes, it really is. Every day was so \nlively, and we got along so well——"
     },
     {
       "name": "Club Members",
-      "text": "On your mark!\nGet set, go!"
+      "text": "On your mark! Get set, go!"
     },
     {
       "name": "Young Laurel",
@@ -123,31 +123,31 @@
     },
     {
       "name": "Young Chiyono O",
-      "text": "Ah, there you are, Laurel-san!\nI came up with a new motto,\nwon't you listen to it?!"
+      "text": "Ah, there you are, Laurel-san! I came up \nwith a new motto, won't you listen to it?!"
     },
     {
       "name": "Young Bakushin O",
-      "text": "I, too, have come up with a bakushin-style——no!\nA super ultra bakushin-level famous quote!\nBehold!!"
+      "text": "I, too, have come up with a \nbakushin-style——no! A super ultra \nbakushin-level famous quote! Behold!!"
     },
     {
       "name": "Young Laurel",
-      "text": "...Fufu, I'm curious about both~.\nTell me, tell me♪"
+      "text": "...Fufu, I'm curious about both~. Tell me, \ntell me♪"
     },
     {
       "name": "Sakura Laurel",
-      "text": "——Because Baku-chan, Chiyo-chan, and the others\ncheerfully stayed by my side, I barely had time to feel down."
+      "text": "——Because Baku-chan, Chiyo-chan, and the \nothers cheerfully stayed by my side, I \nbarely had time to feel down."
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "It's the other way around! Seeing you move forward\nwithout ever giving up no matter what,\nLaurel-san, always gave me courage...!"
+      "text": "It's the other way around! Seeing you move \nforward without ever giving up no matter \nwhat, Laurel-san, always gave me \ncourage...!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Dashing forward with positivity and fulfilling your wish brilliantly——\nLaurel-san, you are the pride of the 'Victory Club'!\nI hold my head exceptionally high with pride as well!!"
+      "text": "Dashing forward with positivity and \nfulfilling your wish brilliantly—— \nLaurel-san, you are the pride of the \n'Victory Club'! I hold my head \nexceptionally high with pride as well!!"
     },
     {
       "name": "Sakura Laurel",
-      "text": "I wanted to run like everyone else as soon as possible.\nBeing able to run alongside them like this now\nmakes me so incredibly happy.",
+      "text": "I wanted to run like everyone else as soon \nas possible. Being able to run alongside \nthem like this now makes me so incredibly \nhappy.",
       "choice_data_list": [
         "I'm truly glad for you.",
         "I'm so glad that worked out."
@@ -155,30 +155,30 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Yes. So Trainer-san, as long as\nyou keep moving forward without losing heart,\nthe results are bound to follow."
+      "text": "Yes. So Trainer-san, as long as you keep \nmoving forward without losing heart, the \nresults are bound to follow."
     },
     {
       "name": "Sakura Laurel",
-      "text": "The cherry blossoms of you and your trainee will surely bloom."
+      "text": "The cherry blossoms of you and your \ntrainee will surely bloom."
     },
     {
-      "text": "Nodding at Sakura Laurel's words,\nI headed on my way back with a positive mindset."
+      "text": "Nodding at Sakura Laurel's words, I headed \non my way back with a positive mindset."
     },
     {
       "name": "Sakura Laurel",
-      "text": "Then I'll win lots of races\nand show you plenty of wonderful\nWinning Lives♪"
+      "text": "Then I'll win lots of races and show you \nplenty of wonderful Winning Lives♪"
     },
     {
       "name": "Sakura Chiyono O",
-      "text": "Wah, I can't wait!\nWe'll definitely rush over to cheer for your races!"
+      "text": "Wah, I can't wait! We'll definitely rush \nover to cheer for your races!"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Yes! We will inject Laurel-san with energy\nusing the 'Victory Club' fight song!!"
+      "text": "Yes! We will inject Laurel-san with energy \nusing the 'Victory Club' fight song!!"
     },
     {
       "name": "Both",
-      "text": "『Overcome all hardships~ Seize the glory~\nThat's right, we are Victrooo-y~♪』",
+      "text": "『Overcome all hardships~ Seize the glory~ \nThat's right, we are Victrooo-y~♪』",
       "choice_data_list": [
         "That's a nice song.",
         "What a lovely song."
@@ -186,17 +186,17 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "Yes.\nIt's a deeply memorable, precious song."
+      "text": "Yes. It's a deeply memorable, precious \nsong."
     },
     {
       "name": "Sakura Laurel",
-      "text": "Oh, I know! If you'd like, Trainer-san,\nwould you like to sing along with us?\nIt'll cheer you up even more, you know?",
+      "text": "Oh, I know! If you'd like, Trainer-san, \nwould you like to sing along with us? \nIt'll cheer you up even more, you know?",
       "choice_data_list": [
         "Well, don't mind if I do."
       ]
     },
     {
-      "text": "Humming the song together with Sakura Laurel and the others,\nI returned to the academy with a bright, refreshed feeling."
+      "text": "Humming the song together with Sakura \nLaurel and the others, I returned to the \nacademy with a bright, refreshed feeling."
     }
   ]
 }

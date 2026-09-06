@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Chrono Genesis",
-      "text": "I-I am terribly sorry...!\nTo skip training without notice, I...",
+      "text": "I-I am terribly sorry...! To skip training \nwithout notice, I...",
       "choice_data_list": [
         "Did something urgent come up?",
         "I wonder if something urgent came up?"
@@ -11,25 +11,25 @@
     },
     {
       "name": "Chrono Genesis",
-      "text": "No... the historical documents were about to overflow from the shelves, so I was organizing them... but I just can't seem to sort through them...",
+      "text": "No... the historical documents were about \nto overflow from the shelves, so I was \norganizing them... but I just can't seem \nto sort through them...",
       "choice_data_list": [
-        "That might be a bit tough for Chrono, though...",
+        "That might be a bit tough for Chrono, \nthough...",
         "That might be a bit tough for Chrono..."
       ]
     },
     {
       "name": "Chrono Genesis",
-      "text": "Yes... Fearing that getting rid of them would break tradition,\nwe haven't been able to come up with a clear countermeasure...",
+      "text": "Yes... Fearing that getting rid of them \nwould break tradition, we haven't been \nable to come up with a clear \ncountermeasure...",
       "choice_data_list": []
     },
     {
       "name": "Chrono Genesis",
-      "text": "Before I realized it, so much time had passed...\nI will be far more careful from now on...",
+      "text": "Before I realized it, so much time had \npassed... I will be far more careful from \nnow on...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Seeing how downcast she looks, it seems she's properly reflecting on what happened. Let's have her give it her all again starting tomorrow.",
+      "text": "Seeing how downcast she looks, it seems \nshe's properly reflecting on what \nhappened. Let's have her give it her all \nagain starting tomorrow.",
       "choice_data_list": []
     }
   ]

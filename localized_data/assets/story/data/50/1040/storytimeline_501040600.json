@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Gold City",
-      "text": "The energy here is incredible……\r\nIt's even more intense than the fashion show.",
+      "text": "The energy here is incredible…… It's even \nmore intense than the fashion show.",
       "choice_data_list": [
         "Everyone came to watch you run.",
         "Everyone came to watch you run."
@@ -16,12 +16,12 @@
     },
     {
       "name": "Gold City",
-      "text": "...I can't be running so lamely.\nI gotta step it up from here on out.",
+      "text": "...I can't be running so lamely. I gotta \nstep it up from here on out.",
       "choice_data_list": []
     },
     {
       "name": "Gold City",
-      "text": "\"I'll sprint through this runway\nwith everything I've got...!\"",
+      "text": "\"I'll sprint through this runway with \neverything I've got...!\"",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "I wanted to invite Ms. Tazuna out on an outing, but—",
+      "text": "I wanted to invite Ms. Tazuna out on an \nouting, but—",
       "choice_data_list": [
         "(Oh, a reply from Ms. Tazuna.)",
         "(Ah, a reply from Ms. Tazuna.)"
@@ -16,19 +16,19 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"However, I am terribly sorry~!\nWork has been piling up recently, so it looks like I won't be able to go out today...\"",
+      "text": "\"However, I am terribly sorry~! Work has \nbeen piling up recently, so it looks like \nI won't be able to go out today...\"",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"Please invite me again someday without fail!\nI'll be sure to reach out to you as well!\"",
+      "text": "\"Please invite me again someday without \nfail! I'll be sure to reach out to you as \nwell!\"",
       "choice_data_list": [
         "Too bad..."
       ]
     },
     {
       "name": "",
-      "text": "Still, having nothing else to do felt like a waste, so I decided to go check on things around the academy.",
+      "text": "Still, having nothing else to do felt like \na waste, so I decided to go check on \nthings around the academy.",
       "choice_data_list": []
     },
     {
@@ -40,29 +40,29 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Splendid fortune! I was just searching for you!",
+      "text": "Splendid fortune! I was just searching for \nyou!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "I hear you've been getting along\nswimmingly with Tazuna lately!",
+      "text": "I hear you've been getting along \nswimmingly with Tazuna lately!",
       "choice_data_list": [
         "I've been taking you up on that."
       ]
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Splendid! Tazuna looks positively delightful\nwhenever she speaks of you!",
+      "text": "Splendid! Tazuna looks positively \ndelightful whenever she speaks of you!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Hence! That is precisely why I was looking for you!",
+      "text": "Hence! That is precisely why I was looking \nfor you!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "She's been pushing herself a bit too hard lately.\nHer passion is commendable, but wrecking her health simply won't do!",
+      "text": "She's been pushing herself a bit too hard \nlately. Her passion is commendable, but \nwrecking her health simply won't do!",
       "choice_data_list": []
     },
     {
@@ -72,19 +72,19 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "――And with that, allow me to guide you!\nCome on, right this way!!",
+      "text": "――And with that, allow me to guide you! \nCome on, right this way!!",
       "choice_data_list": [
         "Huh? What?!"
       ]
     },
     {
       "name": "",
-      "text": "Led along without any understanding of what was happening, the destination turned out to be――",
+      "text": "Led along without any understanding of \nwhat was happening, the destination turned \nout to be――",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "—It was the hallway in front of the Chairwoman's office.",
+      "text": "—It was the hallway in front of the \nChairwoman's office.",
       "choice_data_list": [
         "What could be here...?"
       ]
@@ -96,12 +96,12 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "However... absolute silence! We must enter veeeery quietly...!",
+      "text": "However... absolute silence! We must enter \nveeeery quietly...!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Just as Chairwoman Akikawa instructed,\nI crept inside with hushed footsteps……",
+      "text": "Just as Chairwoman Akikawa instructed, I \ncrept inside with hushed footsteps……",
       "choice_data_list": []
     },
     {
@@ -118,24 +118,24 @@
     },
     {
       "name": "",
-      "text": "...You look exhausted.\nEven if it's for the academy's sake, you're overworking yourself.",
+      "text": "...You look exhausted. Even if it's for \nthe academy's sake, you're overworking \nyourself.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Hearing the door open, I looked over\nand saw Chairwoman Akikawa peeking in from outside.",
+      "text": "Hearing the door open, I looked over and \nsaw Chairwoman Akikawa peeking in from \noutside.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Without making a sound, Chairwoman Akikawa mouthed the words,\n\"Leave the rest of the work to me.\"",
+      "text": "Without making a sound, Chairwoman Akikawa \nmouthed the words, \"Leave the rest of the \nwork to me.\"",
       "choice_data_list": [
         "(Understood.)"
       ]
     },
     {
       "name": "",
-      "text": "I nodded silently in return,\nfirst placing a jacket over the sleeping Ms. Tazunaâ",
+      "text": "I nodded silently in return, first placing \na jacket over the sleeping Ms. Tazunaâ",
       "choice_data_list": []
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "――Huh?! Oh, my goodness...!\nWhen did I fall asleep...?",
+      "text": "――Huh?! Oh, my goodness...! When did I \nfall asleep...?",
       "choice_data_list": []
     },
     {
@@ -179,14 +179,14 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "That much!? Aaah, no no no,\nI haven't even finished this or that yet...!",
+      "text": "That much!? Aaah, no no no, I haven't even \nfinished this or that yet...!",
       "choice_data_list": [
-        "She said, \"Leave the rest of the work to me!\""
+        "She said, \"Leave the rest of the work to \nme!\""
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Huh, Chairwoman Akikawa did?\nNo way――",
+      "text": "Huh, Chairwoman Akikawa did? No way――",
       "choice_data_list": [
         "She also said, \"Tazuna needs some rest\"..."
       ]
@@ -198,17 +198,17 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "...True, maybe I've been pushing myself a little too hard lately.",
+      "text": "...True, maybe I've been pushing myself a \nlittle too hard lately.",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Still... yeah.\nThe tension's gone now. Thanks to you.",
+      "text": "Still... yeah. The tension's gone now. \nThanks to you.",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Besides, I got to have a rather sweet dream...",
+      "text": "Besides, I got to have a rather sweet \ndream...",
       "choice_data_list": [
         "A good dream?"
       ]
@@ -225,12 +225,12 @@
     },
     {
       "name": "",
-      "text": "And so, I spent a lovely day out with Tazuna-san\nnow that she had some free time.",
+      "text": "And so, I spent a lovely day out with \nTazuna-san now that she had some free \ntime.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "...However, much to my chagrin,\nI ended up making a noise when closing the door.",
+      "text": "...However, much to my chagrin, I ended up \nmaking a noise when closing the door.",
       "choice_data_list": []
     },
     {
@@ -245,22 +245,22 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "A blunder...!! I wanted to let her rest first,\nthen spring another surprise on her, but...",
+      "text": "A blunder...!! I wanted to let her rest \nfirst, then spring another surprise on \nher, but...",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Chairwoman Akikawa?!\nA surprise...? Huh? What?!",
+      "text": "Chairwoman Akikawa?! A surprise...? Huh? \nWhat?!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "There is no other choiceââ Trainer!\nThis is an official Chairwoman order!",
+      "text": "There is no other choiceââ Trainer! \nThis is an official Chairwoman order!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Direct order! Take Tazuna into custody and force her to rest!!",
+      "text": "Direct order! Take Tazuna into custody and \nforce her to rest!!",
       "choice_data_list": [
         "Understood!"
       ]
@@ -272,7 +272,7 @@
     },
     {
       "name": "",
-      "text": "...Though I practically had to force her, I managed to get Tazuna-san to take a rest.",
+      "text": "...Though I practically had to force her, \nI managed to get Tazuna-san to take a \nrest.",
       "choice_data_list": []
     }
   ]

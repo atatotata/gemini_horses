@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Rulership",
-      "text": "\"So that's how you're playing it... Not bad, Trainer.\nThen my next move should be...\"",
+      "text": "\"So that's how you're playing it... Not \nbad, Trainer. Then my next move should \nbe...\"",
       "choice_data_list": []
     },
     {
@@ -20,14 +20,14 @@
     },
     {
       "name": "Rulership",
-      "text": "*Inhale*...\n*Zzz*... *zzz*...",
+      "text": "*Inhale*... *Zzz*... *zzz*...",
       "choice_data_list": [
         "(Is she asleep...?)"
       ]
     },
     {
       "name": "",
-      "text": "Falling asleep while thinking over tactics means\nshe must be exhausted from the race.\nIt would be best to reconsider our schedule.",
+      "text": "Falling asleep while thinking over tactics \nmeans she must be exhausted from the race. \nIt would be best to reconsider our \nschedule.",
       "choice_data_list": []
     }
   ]

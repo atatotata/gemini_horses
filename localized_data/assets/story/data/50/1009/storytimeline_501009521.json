@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "In the morning, on my way to the Trainer's Room,\nI spotted Daiwa Scarlet.",
+      "text": "In the morning, on my way to the Trainer's \nRoom, I spotted Daiwa Scarlet.",
       "choice_data_list": []
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ugh... Since it's relative frequency... I calculate the total\r\nfrequency... and then... um... *sigh*",
+      "text": "Ugh... Since it's relative frequency... I \ncalculate the total frequency... and \nthen... um... *sigh*",
       "choice_data_list": [
         "What are you doing?",
         "What are you doing?"
@@ -16,22 +16,22 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Ah...!!\r\nG-Good morn—!",
+      "text": "Ah...!! G-Good morn—!",
       "choice_data_list": []
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Wait, oh... it's just you.\r\nI'm studying, obviously... The exams are coming up soon...",
+      "text": "Wait, oh... it's just you. I'm studying, \nobviously... The exams are coming up \nsoon...",
       "choice_data_list": []
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "Haaah... An honor student is expected to get a perfect score... right?\nThere's no time... to sleep... at all...",
+      "text": "Haaah... An honor student is expected to \nget a perfect score... right? There's no \ntime... to sleep... at all...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems she hasn't been getting much sleep.\r\nWe'll need to keep a close eye on her physical condition.",
+      "text": "It seems she hasn't been getting much \nsleep. We'll need to keep a close eye on \nher physical condition.",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Maruzensky",
-      "text": "Good morning, Trainer-kun.\n...*sigh*",
+      "text": "Good morning, Trainer-kun. ...*sigh*",
       "choice_data_list": [
         "Are you sleep-deprived?",
         "Are you not getting enough sleep?"
@@ -11,7 +11,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Good morning, Trainer-chan.\n...*sigh*",
+      "text": "Good morning, Trainer-chan. ...*sigh*",
       "choice_data_list": [
         "Are you sleep-deprived?",
         "Are you not getting enough sleep?"
@@ -24,17 +24,17 @@
     },
     {
       "name": "Maruzensky",
-      "text": "It's just that yesterday, I got totally carried away\r\nhaving girl talk with my friends.",
+      "text": "It's just that yesterday, I got totally \ncarried away having girl talk with my \nfriends.",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "She was running close to curfew, so I gave her a ride in my beloved Tac-chan.",
+      "text": "She was running close to curfew, so I gave \nher a ride in my beloved Tac-chan.",
       "choice_data_list": []
     },
     {
       "name": "Maruzensky",
-      "text": "“Still, yesterday was yesterday, and today is today.\nNo problem at all!”",
+      "text": "“Still, yesterday was yesterday, and today \nis today. No problem at all!”",
       "choice_data_list": []
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Despite her words,\nMaruzensky still looked sleepy.",
+      "text": "Despite her words, Maruzensky still looked \nsleepy.",
       "choice_data_list": []
     }
   ]

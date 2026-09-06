@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After declaring \"I'll definitely get one!\",\nI tried my best to get at least one... but failed.",
+      "text": "After declaring \"I'll definitely get \none!\", I tried my best to get at least \none... but failed.",
       "choice_data_list": []
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Oh, are you all finished with your business?",
+      "text": "Oh, are you all finished with your \nbusiness?",
       "choice_data_list": []
     },
     {
@@ -25,9 +25,9 @@
     },
     {
       "name": "Narrator",
-      "text": "She was the same Mejiro Ramonu as always.\nIn the end, all that mattered to her was the race.",
+      "text": "She was the same Mejiro Ramonu as always. \nIn the end, all that mattered to her was \nthe race.",
       "choice_data_list": [
-        "(Maybe she just wasn't interested to begin with...)"
+        "(Maybe she just wasn't interested to begin \nwith...)"
       ]
     },
     {

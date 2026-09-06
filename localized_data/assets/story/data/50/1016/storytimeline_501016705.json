@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "On the way home from an outing with Narita Brian...",
+      "text": "On the way home from an outing with Narita \nBrian...",
       "choice_data_list": []
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Narita Brian remained restless like that\r\nall the way back to the academy.\nI should probably ask her properly what's going on.",
+      "text": "Narita Brian remained restless like that \nall the way back to the academy. I should \nprobably ask her properly what's going on.",
       "choice_data_list": []
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I dropped my wallet. That's all there is to it.",
+      "text": "I dropped my wallet. That's all there is \nto it.",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "It's just the one I was using for spare change anyway,\r\nso there's nothing important in it. It doesn't really matter.",
+      "text": "It's just the one I was using for spare \nchange anyway, so there's nothing \nimportant in it. It doesn't really matter.",
       "choice_data_list": [
         "You can't just give up.",
         "Giving up isn't an option."
@@ -76,32 +76,32 @@
     },
     {
       "name": "Narita Brian",
-      "text": "\"I haven't given up on it.\nI was planning to go search for it later.\"",
+      "text": "\"I haven't given up on it. I was planning \nto go search for it later.\"",
       "choice_data_list": [
-        "It'll be more efficient if the two of us search together."
+        "It'll be more efficient if the two of us \nsearch together."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "*sigh*... This is why I hate letting you find out about things.\r\nIt always turns into such a hassle.",
+      "text": "*sigh*... This is why I hate letting you \nfind out about things. It always turns \ninto such a hassle.",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "I'm the one who lost it. I'll search for it.\r\nSo, just go home.",
+      "text": "I'm the one who lost it. I'll search for \nit. So, just go home.",
       "choice_data_list": [
-        "It's okay, I'm sure we'll find it right away!",
+        "It's okay, I'm sure we'll find it right \naway!",
         "When I'm in trouble, I'll ask for help."
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "Where does this optimism of yours even come from...",
+      "text": "Where does this optimism of yours even \ncome from...",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "\"Well, fine. You must have a plan if you're so adamant about it, right?\r\nWhere should we start looking?\"",
+      "text": "\"Well, fine. You must have a plan if \nyou're so adamant about it, right? Where \nshould we start looking?\"",
       "choice_data_list": [
         "Let's head back the way we came!"
       ]
@@ -113,7 +113,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "However, if I don't head back,\r\nI won't be able to find it, will I...?",
+      "text": "However, if I don't head back, I won't be \nable to find it, will I...?",
       "choice_data_list": []
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "name": "Narrator",
-      "text": "As I retraced my steps and arrived in front of the station—",
+      "text": "As I retraced my steps and arrived in \nfront of the station—",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "...Ah. Right, now that I think about it, I took out my wallet when buying the ticket...",
+      "text": "...Ah. Right, now that I think about it, I \ntook out my wallet when buying the \nticket...",
       "choice_data_list": []
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "My wallet was turned in at the station.\nApparently, I left it right next to the ticket machine...",
+      "text": "My wallet was turned in at the station. \nApparently, I left it right next to the \nticket machine...",
       "choice_data_list": [
         "Good for you!",
         "That's great!"
@@ -156,12 +156,12 @@
     },
     {
       "name": "Narrator",
-      "text": "With the wallet safely recovered,\r\nI headed back home with Narita Brian.",
+      "text": "With the wallet safely recovered, I headed \nback home with Narita Brian.",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "Just who are you gonna get to help?\r\nAre you gonna go around asking random passersby?",
+      "text": "Just who are you gonna get to help? Are \nyou gonna go around asking random \npassersby?",
       "choice_data_list": [
         "Sounds good, shall we do that?",
         "Sounds good, let's do that."
@@ -169,12 +169,12 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I won't, and it's not okay.\r\nAre you stupid or something?",
+      "text": "I won't, and it's not okay. Are you stupid \nor something?",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "\"In a situation like this, we should probably ask the police box or the staff here.\"",
+      "text": "\"In a situation like this, we should \nprobably ask the police box or the staff \nhere.\"",
       "choice_data_list": [
         "Alright, let's go ask."
       ]
@@ -186,17 +186,17 @@
     },
     {
       "name": "Narrator",
-      "text": "Upon returning to the station and asking if a lost wallet had been turned in—",
+      "text": "Upon returning to the station and asking \nif a lost wallet had been turned in—",
       "choice_data_list": []
     },
     {
       "name": "Station Attendant",
-      "text": "A coin purse... Ah, yes, it's been turned in.\r\nThey said it was found near the ticket machines.",
+      "text": "A coin purse... Ah, yes, it's been turned \nin. They said it was found near the ticket \nmachines.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And thus, the coin purse was safely found\r\nand returned to Narita Brian.",
+      "text": "And thus, the coin purse was safely found \nand returned to Narita Brian.",
       "choice_data_list": []
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Still, we're finding quite a lot, surprisingly.",
+      "text": "Still, we're finding quite a lot, \nsurprisingly.",
       "choice_data_list": [
         "It's because you didn't give up",
         "It's all because you didn't give up."
@@ -214,22 +214,22 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Tch, don't get cocky.\r\nIt's only thanks to some stranger picking it up for you.",
+      "text": "Tch, don't get cocky. It's only thanks to \nsome stranger picking it up for you.",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "Well, that was certainly one factor\r\nthat helped us find it, but...",
+      "text": "Well, that was certainly one factor that \nhelped us find it, but...",
       "choice_data_list": []
     },
     {
       "name": "Narita Brian",
-      "text": "That's enough, it's getting late.\r\nLet's head home, quick...!",
+      "text": "That's enough, it's getting late. Let's \nhead home, quick...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "With the wallet safely found,\r\nI headed back home with Narita Brian.",
+      "text": "With the wallet safely found, I headed \nback home with Narita Brian.",
       "choice_data_list": []
     }
   ]

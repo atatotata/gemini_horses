@@ -3,24 +3,24 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "In the morning, when I arrived at the Trainer's Room,\nMejiro Dober was already there.",
+      "text": "In the morning, when I arrived at the \nTrainer's Room, Mejiro Dober was already \nthere.",
       "choice_data_list": [
         "You're pretty early."
       ]
     },
     {
       "name": "Mejiro Dober",
-      "text": "! ...I-It's totally normal, alright? Doing this much.",
+      "text": "! ...I-It's totally normal, alright? Doing \nthis much.",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "Yeah. Looks like the new aroma I bought\nreally worked... I slept like a baby!",
+      "text": "Yeah. Looks like the new aroma I bought \nreally worked... I slept like a baby!",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"Aren't you the one running slow?\r\n...Are you sleeping properly?\"",
+      "text": "\"Aren't you the one running slow? ...Are \nyou sleeping properly?\"",
       "choice_data_list": [
         "Just in case.",
         "Just in case."
@@ -28,7 +28,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "How about you, Trainer?\r\nAre you getting enough sleep?",
+      "text": "How about you, Trainer? Are you getting \nenough sleep?",
       "choice_data_list": [
         "Just in case.",
         "Just in case."
@@ -36,7 +36,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "\"...You should get some proper sleep on your days off.\nTry using some aromatherapy or something.\"",
+      "text": "\"...You should get some proper sleep on \nyour days off. Try using some aromatherapy \nor something.\"",
       "choice_data_list": [
         "Thanks for being so considerate.",
         "Thanks for being so considerate."
@@ -44,7 +44,7 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I see... But I'm still worried.\nYou tend to push yourself too hard, Trainer.",
+      "text": "I see... But I'm still worried. You tend \nto push yourself too hard, Trainer.",
       "choice_data_list": [
         "Thanks for being so considerate.",
         "Thanks for being so considerate."
@@ -52,22 +52,22 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "! I-I'm just giving you a warning!\nIt'd be a pain if something happened to you!\n...Got that!?",
+      "text": "! I-I'm just giving you a warning! It'd be \na pain if something happened to you! \n...Got that!?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro Dober",
-      "text": "That's my line.\r\nIf it'll help, I can recommend some nice aromas for you.",
+      "text": "That's my line. If it'll help, I can \nrecommend some nice aromas for you.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I should follow Mejiro Dober's example\r\nand get some quality rest.",
+      "text": "I should follow Mejiro Dober's example and \nget some quality rest.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I should follow Mejiro Dober's example\r\nand get some quality rest.",
+      "text": "I should follow Mejiro Dober's example and \nget some quality rest.",
       "choice_data_list": []
     }
   ]

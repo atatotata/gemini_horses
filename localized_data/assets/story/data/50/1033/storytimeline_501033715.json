@@ -13,7 +13,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Saying that, Admire Vega began walking\r\nin the exact opposite direction of the changing room.",
+      "text": "Saying that, Admire Vega began walking in \nthe exact opposite direction of the \nchanging room.",
       "choice_data_list": [
         "Where you going?",
         "Where are you off to?"
@@ -21,17 +21,17 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...Through the park, and then back and forth along the riverbank.",
+      "text": "...Through the park, and then back and \nforth along the riverbank.",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "\"If I head up to the hilltop park from here and turn back,\r\nit'll be just in time for curfew.\"",
+      "text": "\"If I head up to the hilltop park from \nhere and turn back, it'll be just in time \nfor curfew.\"",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "\"I can still run.\r\nI'm going to continue training.\"",
+      "text": "\"I can still run. I'm going to continue \ntraining.\"",
       "choice_data_list": [
         "I'll come with you.",
         "Let's save our strength for tomorrow"
@@ -39,37 +39,37 @@
     },
     {
       "name": "Admire Vega",
-      "text": "Keep up with me...?\r\nThere's no way you could ever keep pace with me.",
+      "text": "Keep up with me...? There's no way you \ncould ever keep pace with me.",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "...Well, fine. In that case, I'll be doing laps\r\naround the track today, so please check my form.",
+      "text": "...Well, fine. In that case, I'll be doing \nlaps around the track today, so please \ncheck my form.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, I stayed late to accompany\r\nAdmire Vega on her running drills.",
+      "text": "And so, I stayed late to accompany Admire \nVega on her running drills.",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "...Even if I run this much extra,\r\nI'll still be able to handle tomorrow's practice.",
+      "text": "...Even if I run this much extra, I'll \nstill be able to handle tomorrow's \npractice.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I explained to Admire Vega\r\nthe importance of letting her body rest.",
+      "text": "I explained to Admire Vega the importance \nof letting her body rest.",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "\"...If you insist that much, I'll pass.\nIt's not like you're speaking without thinking, after all...\"",
+      "text": "\"...If you insist that much, I'll pass. \nIt's not like you're speaking without \nthinking, after all...\"",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "\"Still, in return, you'd better put in an equal amount of training tomorrow.\"",
+      "text": "\"Still, in return, you'd better put in an \nequal amount of training tomorrow.\"",
       "choice_data_list": []
     }
   ]

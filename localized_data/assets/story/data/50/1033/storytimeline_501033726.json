@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day, while out and about\r\nwith Admire Vega...",
+      "text": "One day, while out and about with Admire \nVega...",
       "choice_data_list": []
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "Narrator",
-      "text": "At the end of Admire Vega's gaze\r\nwas a crane game filled with plushies\nmodeled after Umamusume.",
+      "text": "At the end of Admire Vega's gaze was a \ncrane game filled with plushies modeled \nafter Umamusume.",
       "choice_data_list": [
         "Do you want that plushie?",
         "Do you want that plushie?"
@@ -21,12 +21,12 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...I was just wondering if someone might want it.\r\nNot me, of course.",
+      "text": "...I was just wondering if someone might \nwant it. Not me, of course.",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "............\r\nIt's nothing.\nI need to get back and train soon.",
+      "text": "............ It's nothing. I need to get \nback and train soon.",
       "choice_data_list": []
     },
     {
@@ -36,16 +36,16 @@
     },
     {
       "name": "Narrator",
-      "text": "Even as she said that, Admire Vega looked as if she were reluctant to leave.\nAll right, in that case—",
+      "text": "Even as she said that, Admire Vega looked \nas if she were reluctant to leave. All \nright, in that case—",
       "choice_data_list": [
         "I'll get it for you."
       ]
     },
     {
       "name": "Admire Vega",
-      "text": "Huh...? \r\nLike I said, I'm not really...",
+      "text": "Huh...? Like I said, I'm not really...",
       "choice_data_list": [
-        "Maybe you'll change your mind once you get it."
+        "Maybe you'll change your mind once you get \nit."
       ]
     },
     {

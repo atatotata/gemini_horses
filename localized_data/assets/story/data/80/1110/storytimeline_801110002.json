@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Today is the day of an important meeting.\nI spent plenty of time preparing for it, but...",
+      "text": "Today is the day of an important meeting. \nI spent plenty of time preparing for it, \nbut...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Truthfully, I lacked the confidence to get the proposal approved.\nMy steps felt heavy as I headed toward the meeting room—",
+      "text": "Truthfully, I lacked the confidence to get \nthe proposal approved. My steps felt heavy \nas I headed toward the meeting room—",
       "choice_data_list": []
     },
     {
@@ -25,9 +25,9 @@
     },
     {
       "name": "Cesario",
-      "text": "You seemed to space out for a bit...\nAre you feeling alright?",
+      "text": "You seemed to space out for a bit... Are \nyou feeling alright?",
       "choice_data_list": [
-        "I'm sorry... I was lost in thought for a second."
+        "I'm sorry... I was lost in thought for a \nsecond."
       ]
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Um, sorry out of nowhere,\nbut could you close your eyes for a sec?",
+      "text": "Um, sorry out of nowhere, but could you \nclose your eyes for a sec?",
       "choice_data_list": [
         "Hm, huh...?",
         "Hm, yeah...?"
@@ -45,81 +45,81 @@
     },
     {
       "name": "Narrator",
-      "text": "Swayed by that gentle tone of voice,\nmy eyes naturally closed shut...",
+      "text": "Swayed by that gentle tone of voice, my \neyes naturally closed shut...",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Unpleasant things rest upon your palm.\nDifficult things, painful things, worrying things.",
+      "text": "Unpleasant things rest upon your palm. \nDifficult things, painful things, worrying \nthings.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "For unpleasant things like that...\nTake this~~! Hah!",
+      "text": "For unpleasant things like that... Take \nthis~~! Hah!",
       "choice_data_list": [
-        "(Did someone just place something in my palm...?)"
+        "(Did someone just place something in my \npalm...?)"
       ]
     },
     {
       "name": "Cesario",
-      "text": "Behold! All your unpleasant thoughts have turned into sweet little candies!",
+      "text": "Behold! All your unpleasant thoughts have \nturned into sweet little candies!",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "With this, we can beat back any bad vibes!\nGo ahead, take a big bite!",
+      "text": "With this, we can beat back any bad vibes! \nGo ahead, take a big bite!",
       "choice_data_list": [
         "*nom*…… Ahaha, it's sweet."
       ]
     },
     {
       "name": "Cesario",
-      "text": "Yeah, that furrow between your brows is gone.\nThat's a great expression♪",
+      "text": "Yeah, that furrow between your brows is \ngone. That's a great expression♪",
       "choice_data_list": [
         "Thanks, you really helped me out.",
-        "Alright, this meeting is going to go great!",
+        "Alright, this meeting is going to go \ngreat!",
         "Alright, this meeting should go great!"
       ]
     },
     {
       "name": "Cesario",
-      "text": "Yeah, that furrow between your brows is gone.\nThat's a great expression♪",
+      "text": "Yeah, that furrow between your brows is \ngone. That's a great expression♪",
       "choice_data_list": [
         "Thanks, you really helped me out.",
-        "Alright, this meeting is going to go great!",
+        "Alright, this meeting is going to go \ngreat!",
         "Alright, this meeting should go great!"
       ]
     },
     {
       "name": "Cesario",
-      "text": "In that case, let me add one more just to make sure.",
+      "text": "In that case, let me add one more just to \nmake sure.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "I made a few too many cookies, so here are the leftovers.\nGo on, enjoy! ♪",
+      "text": "I made a few too many cookies, so here are \nthe leftovers. Go on, enjoy! ♪",
       "choice_data_list": [
         "Thank you so much, for everything."
       ]
     },
     {
       "name": "Cesario",
-      "text": "Fufu, please don't worry about it. Weren't you in a hurry with an errand to run?",
+      "text": "Fufu, please don't worry about it. Weren't \nyou in a hurry with an errand to run?",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Have a cookie and calm your nerves.\nGo get 'em!",
+      "text": "Have a cookie and calm your nerves. Go get \n'em!",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Ah, so that's why you looked so troubled.\nMust be quite an important meeting.",
+      "text": "Ah, so that's why you looked so troubled. \nMust be quite an important meeting.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "Well then, shall we try\nanother good luck charm as well!",
+      "text": "Well then, shall we try another good luck \ncharm as well!",
       "choice_data_list": []
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "name": "Cesario",
-      "text": "The Toughness Bar with a message is complete. Eat this, and you'll surely feel the energy surging within you!",
+      "text": "The Toughness Bar with a message is \ncomplete. Eat this, and you'll surely feel \nthe energy surging within you!",
       "choice_data_list": [
         "Yeah, that's reassuring!",
         "Yeah, you're such a reassuring presence!"
@@ -137,7 +137,7 @@
     },
     {
       "name": "Cesario",
-      "text": "I'll be praying for your meeting to go well.\nGo get 'em, Trainer! ♪",
+      "text": "I'll be praying for your meeting to go \nwell. Go get 'em, Trainer! ♪",
       "choice_data_list": []
     }
   ]

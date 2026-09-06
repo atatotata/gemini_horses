@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Before leaving the hotel, I ponder the words I want to say to <chrname> for the Prix de l'Arc de Triomphe.",
+      "text": "Before leaving the hotel, I ponder the \nwords I want to say to <chrname> for the Prix de \nl'Arc de Triomphe.",
       "choice_data_list": []
     },
     {
@@ -13,17 +13,17 @@
     },
     {
       "name": "Narrator",
-      "text": "We must possess that as well.\nEven more so if we are to rival those two—",
+      "text": "We must possess that as well. Even more so \nif we are to rival those two—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "...My right hand is trembling.\nI steady it with my left hand and exhale.",
+      "text": "...My right hand is trembling. I steady it \nwith my left hand and exhale.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "If I panic, <chrname> will pick up on it.\nIt would only cause her unnecessary anxiety.",
+      "text": "If I panic, <chrname> will pick up on it. It would \nonly cause her unnecessary anxiety.",
       "choice_data_list": [
         "...Don't be nervous, me.",
         "...Don't be nervous, me."
@@ -36,29 +36,29 @@
     },
     {
       "name": "Narrator",
-      "text": "Think about what you can do.\nAfter all, you are <chrname>'s\nTrainer.",
+      "text": "Think about what you can do. After all, \nyou are <chrname>'s Trainer.",
       "choice_data_list": []
     },
     {
       "name": "Longchamp Spectator",
-      "text": "\"Montjeu is going to claim the crown once more!\"\n\"No, this year belongs to Rigantona!\"\n\"Venus Park has evolved too!!\"",
+      "text": "\"Montjeu is going to claim the crown once \nmore!\" \"No, this year belongs to \nRigantona!\" \"Venus Park has evolved too!!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The crowd surging into the venue\nshouts the names of the Umamusume they believe in.",
+      "text": "The crowd surging into the venue shouts \nthe names of the Umamusume they believe \nin.",
       "choice_data_list": [
         "(Even <chrname>...!)"
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "\"...Trainer <username>,\ntake a deep breath.\"",
+      "text": "\"...Trainer <username>, take a deep breath.\"",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "No matter who the opponent is,\n<chrname> will be just fine.",
+      "text": "No matter who the opponent is, <chrname> will be \njust fine.",
       "choice_data_list": [
         "...Yes."
       ]
@@ -70,12 +70,12 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Trainer <username>!\nHave no fear!\nWe will become your confidence!",
+      "text": "Trainer <username>! Have no fear! We will become \nyour confidence!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "With those words, Chairwoman Akikawa hurriedly spread out a large piece of cloth—",
+      "text": "With those words, Chairwoman Akikawa \nhurriedly spread out a large piece of \ncloth—",
       "choice_data_list": [
         "Chairwoman, that's...!"
       ]
@@ -87,17 +87,17 @@
     },
     {
       "name": "Narrator",
-      "text": "Words of encouragement fill the banner.\n'You can do it' 'Run all the way to the end'—",
+      "text": "Words of encouragement fill the banner. \n'You can do it' 'Run all the way to the \nend'—",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Tracen Academy and the URA collaborated to gather messages of support from all across Japan!",
+      "text": "Tracen Academy and the URA collaborated to \ngather messages of support from all across \nJapan!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Rally 'round! This flag alone cannot hold it all!\nWe've received countless words of encouragement!",
+      "text": "Rally 'round! This flag alone cannot hold \nit all! We've received countless words of \nencouragement!",
       "choice_data_list": []
     },
     {
@@ -107,22 +107,22 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"Never forget! There are people who are captivated by your strength and entrust their hopes to you!\"",
+      "text": "\"Never forget! There are people who are \ncaptivated by your strength and entrust \ntheir hopes to you!\"",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Even if Montjeu and Rigantona were terrifyingly strong—",
+      "text": "Even if Montjeu and Rigantona were \nterrifyingly strong—",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"To us, you girls are the ones who shine far too brightly!\"",
+      "text": "\"To us, you girls are the ones who shine \nfar too brightly!\"",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"To us, you girls are the stars we truly believe can become the best in the world!!\"",
+      "text": "\"To us, you girls are the stars we truly \nbelieve can become the best in the \nworld!!\"",
       "choice_data_list": []
     },
     {
@@ -134,34 +134,34 @@
     },
     {
       "name": "Narrator",
-      "text": "...I exhale the air trapped in my lungs.\nBreathe out, let it all out, breathe in—",
+      "text": "...I exhale the air trapped in my lungs. \nBreathe out, let it all out, breathe in—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I turn back to face <chrname>.\nThis is my final major task left before the Prix de l'Arc de Triomphe.",
+      "text": "I turn back to face <chrname>. This is my final \nmajor task left before the Prix de l'Arc \nde Triomphe.",
       "choice_data_list": [
-        "...You don't need to feel like you have to win."
+        "...You don't need to feel like you have to \nwin."
       ]
     },
     {
       "name": "Narrator",
-      "text": "I don't need thoughts like \"What if I lose?\" either.",
+      "text": "I don't need thoughts like \"What if I \nlose?\" either.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "During our preparation period up until now,\nan appetite for growth was necessary as fuel.",
+      "text": "During our preparation period up until \nnow, an appetite for growth was necessary \nas fuel.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "However, on the world's grandest stage,\neven desire itself can sometimes become a distraction to one's focus.",
+      "text": "However, on the world's grandest stage, \neven desire itself can sometimes become a \ndistraction to one's focus.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Swallowing down all my lingering feelings,\nI decided to convey it to <chrname>.",
+      "text": "Swallowing down all my lingering feelings, \nI decided to convey it to <chrname>.",
       "choice_data_list": [
         "—Because you're going to win.",
         "—Because you're going to win."
@@ -179,17 +179,17 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Because you've always been the one helping me.",
+      "text": "Because you've always been the one helping \nme.",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Mei. You've chased the dream of becoming the best in the world with me.\nEven after I took over for Mother.",
+      "text": "Mei. You've chased the dream of becoming \nthe best in the world with me. Even after \nI took over for Mother.",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "This project was something you really wanted to continue with Mother and the others...\nYet you ended up stuck working with me, someone who knows nothing...",
+      "text": "This project was something you really \nwanted to continue with Mother and the \nothers... Yet you ended up stuck working \nwith me, someone who knows nothing...",
       "choice_data_list": []
     },
     {
@@ -204,22 +204,22 @@
     },
     {
       "name": "Mei Satake",
-      "text": "I bet old man Symboli and\ngrandma Mejiro feel the same way.",
+      "text": "I bet old man Symboli and grandma Mejiro \nfeel the same way.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "From the past to the future.\n...Because there were those who inherited feelings from long ago,\nthe romance of the \"Prix de l'Arc de Triomphe\" continues to this day.",
+      "text": "From the past to the future. ...Because \nthere were those who inherited feelings \nfrom long ago, the romance of the \"Prix de \nl'Arc de Triomphe\" continues to this day.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Yours truly is glad I could serve\nas a bridge to Yayoi.",
+      "text": "Yours truly is glad I could serve as a \nbridge to Yayoi.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Being able to meet everyone here...\n...I'm so glad.",
+      "text": "Being able to meet everyone here... ...I'm \nso glad.",
       "choice_data_list": []
     },
     {
@@ -229,27 +229,27 @@
     },
     {
       "name": "Japanese Fan A",
-      "text": "Please...! <chrname>...!\nHang in there, hang in there...! Give it everything...!!",
+      "text": "Please...! <chrname>...! Hang in there, hang in \nthere...! Give it everything...!!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "—There was a feeling that had lingered in my heart all this time.",
+      "text": "—There was a feeling that had lingered in \nmy heart all this time.",
       "choice_data_list": []
     },
     {
       "name": "Man Looking at Phone",
-      "text": "Don't you dare lose here...!\nI'm definitely gonna watch you win...!",
+      "text": "Don't you dare lose here...! I'm \ndefinitely gonna watch you win...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "—No matter how many times I lose, no matter how impossible they say it is.",
+      "text": "—No matter how many times I lose, no \nmatter how impossible they say it is.",
       "choice_data_list": []
     },
     {
       "name": "Woman on a Date",
-      "text": "You can do it...!\nIf it's <chrname>, the title of world's best is――",
+      "text": "You can do it...! If it's <chrname>, the title of \nworld's best is――",
       "choice_data_list": []
     },
     {
@@ -259,17 +259,17 @@
     },
     {
       "name": "Mejiro Family Matriarch",
-      "text": "...Seize the summit with your own hands.\nYou already have the power to do so, don't you?",
+      "text": "...Seize the summit with your own hands. \nYou already have the power to do so, don't \nyou?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "—I have continued entrusting hope to a future called \"someday.\"",
+      "text": "—I have continued entrusting hope to a \nfuture called \"someday.\"",
       "choice_data_list": []
     },
     {
       "name": "Symboli Family Grandfather",
-      "text": "What lies \"beyond\" this path is something\nonly you can forge. Run, sprint. Show me—",
+      "text": "What lies \"beyond\" this path is something \nonly you can forge. Run, sprint. Show me—",
       "choice_data_list": []
     },
     {
@@ -279,12 +279,12 @@
     },
     {
       "name": "Narrator",
-      "text": "A single, pure emotion.\nA heart that yearns to be 'number one in the world.'",
+      "text": "A single, pure emotion. A heart that \nyearns to be 'number one in the world.'",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The romance that had driven us up to this day—was right here.",
+      "text": "The romance that had driven us up to this \nday—was right here.",
       "choice_data_list": []
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "name": "Venus Park",
-      "text": "\"‘The only one who can surpass Montjeu,\nwho changed European history...\nis me, Venus Park.’\"",
+      "text": "\"‘The only one who can surpass Montjeu, \nwho changed European history... is me, \nVenus Park.’\"",
       "choice_data_list": []
     },
     {
@@ -304,12 +304,12 @@
     },
     {
       "name": "Rigauntona",
-      "text": "\"\"...My, will you accept\nmy love as well?\"\"",
+      "text": "\"\"...My, will you accept my love as \nwell?\"\"",
       "choice_data_list": []
     },
     {
       "name": "Montjeu",
-      "text": "\"Hahaha. In your case,\nI must be the one to gift you love.\"",
+      "text": "\"Hahaha. In your case, I must be the one \nto gift you love.\"",
       "choice_data_list": []
     },
     {
@@ -319,17 +319,17 @@
     },
     {
       "name": "Montjeu",
-      "text": "\"Bear witness!\nTo this moment where renowned Umamusume gathered from across the globe clash for the ultimate crown!\"",
+      "text": "\"Bear witness! To this moment where \nrenowned Umamusume gathered from across \nthe globe clash for the ultimate crown!\"",
       "choice_data_list": []
     },
     {
       "name": "Montjeu",
-      "text": "\"And bestow your blessings. ——Upon the Umamusume destined to bear the title of the world's strongest!\"",
+      "text": "\"And bestow your blessings. ——Upon the \nUmamusume destined to bear the title of \nthe world's strongest!\"",
       "choice_data_list": []
     },
     {
       "name": "Commentary",
-      "text": "“And so, the Prix de l'Arc de Triomphe begins once again this year—”",
+      "text": "“And so, the Prix de l'Arc de Triomphe \nbegins once again this year—”",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I rushed the injured Admire Groove to the nurse's office.",
+      "text": "I rushed the injured Admire Groove to the \nnurse's office.",
       "choice_data_list": []
     },
     {
@@ -16,20 +16,20 @@
     },
     {
       "name": "Admire Groove",
-      "text": "\"I should have moved more carefully...\nIt was my mistake.\"",
+      "text": "\"I should have moved more carefully... It \nwas my mistake.\"",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "If I were to take time off on top of that—\nit would be too terrible to bear...!",
+      "text": "If I were to take time off on top of that— \nit would be too terrible to bear...!",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "...I'll just get first aid and head right back.\nI have to get back to training—",
+      "text": "...I'll just get first aid and head right \nback. I have to get back to training—",
       "choice_data_list": [
-        "I want you to rest and not push yourself for now.",
-        "...All right. Let's keep going within reasonable limits."
+        "I want you to rest and not push yourself \nfor now.",
+        "...All right. Let's keep going within \nreasonable limits."
       ]
     },
     {
@@ -39,9 +39,9 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...Even though all the other girls are moving forward...\"",
+      "text": "...Even though all the other girls are \nmoving forward...\"",
       "choice_data_list": [
-        "If it gets worse, it'll set you back even further."
+        "If it gets worse, it'll set you back even \nfurther."
       ]
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...A sound argument.\nUnderstood... I will comply.",
+      "text": "...A sound argument. Understood... I will \ncomply.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "So――please, don't look at me with those eyes.",
+      "text": "So――please, don't look at me with those \neyes.",
       "choice_data_list": []
     },
     {
@@ -73,7 +73,7 @@
       "name": "Admire Groove",
       "text": "Why...?",
       "choice_data_list": [
-        "I'll cover for the delay... so let's take a break."
+        "I'll cover for the delay... so let's take \na break."
       ]
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...Trainer.\nPlease keep your promise... no matter what.",
+      "text": "...Trainer. Please keep your promise... no \nmatter what.",
       "choice_data_list": []
     },
     {
@@ -98,19 +98,19 @@
     },
     {
       "name": "Admire Groove",
-      "text": "As you can see, I can still do light\nexercise while protecting the injury.",
+      "text": "As you can see, I can still do light \nexercise while protecting the injury.",
       "choice_data_list": [
-        "We'll take it slow and see how it goes, okay?"
+        "We'll take it slow and see how it goes, \nokay?"
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "I know...\nIf I'm stopped here, it'll all be for nothing.",
+      "text": "I know... If I'm stopped here, it'll all \nbe for nothing.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "\"...I'll increase the intensity, bit by bit.\nDoing everything I can... with all my might...!\"",
+      "text": "\"...I'll increase the intensity, bit by \nbit. Doing everything I can... with all my \nmight...!\"",
       "choice_data_list": []
     }
   ]

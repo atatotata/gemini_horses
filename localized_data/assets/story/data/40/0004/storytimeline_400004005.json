@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Campus Broadcast",
-      "text": "\"—Trainer <username>,\nplease report to the Chairwoman's Office immediately.\"",
+      "text": "\"—Trainer <username>, please report to the \nChairwoman's Office immediately.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Summoned by an alarming broadcast,\r\nI hurried over to the Chairwoman's office.\"",
+      "text": "\"Summoned by an alarming broadcast, I \nhurried over to the Chairwoman's office.\"",
       "choice_data_list": [
         "This is <username>."
       ]
@@ -37,12 +37,12 @@
     },
     {
       "name": "Narrator",
-      "text": "An eerie silence...! The stillness continued for several minutes afterwards—",
+      "text": "An eerie silence...! The stillness \ncontinued for several minutes afterwards—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"...I'm starting to get uneasy.\r\nCould it be that something terrible\nhas happened?\"",
+      "text": "\"...I'm starting to get uneasy. Could it \nbe that something terrible has happened?\"",
       "choice_data_list": [
         "Um! What in the world is going on...?!"
       ]
@@ -56,44 +56,44 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Today, I asked you out here\r\nso I could express my gratitude to you, Trainer!",
+      "text": "Today, I asked you out here so I could \nexpress my gratitude to you, Trainer!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Oh, right! The trainee you're in charge of,\r\n<chrname>, isâ",
+      "text": "Oh, right! The trainee you're in charge \nof, <chrname>, isâ",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "She ran through the crucial third year\r\nof the Twinkle Series with a magnificent brilliance!",
+      "text": "She ran through the crucial third year of \nthe Twinkle Series with a magnificent \nbrilliance!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"The path she carves will without a doubt become a shining beacon not just for her peers, but for future generations of Umamusume too!\"",
+      "text": "\"The path she carves will without a doubt \nbecome a shining beacon not just for her \npeers, but for future generations of \nUmamusume too!\"",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Therefore... You have my huuuuuge gratitude!!\r\nSplendidly done, Trainer!",
+      "text": "Therefore... You have my huuuuuge \ngratitude!! Splendidly done, Trainer!",
       "choice_data_list": [
         "Ah, thank you very much!"
       ]
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Indeed! And... EXPECTATION!!\r\nI eagerly await your unprecedented, legendary triumphs\nfrom here on out!!",
+      "text": "Indeed! And... EXPECTATION!! I eagerly \nawait your unprecedented, legendary \ntriumphs from here on out!!",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "\"From me as well... truly, thank you for all your hard work as always.\r\nIf there's anything I can help with,\nplease feel free to ask me anytime.\"",
+      "text": "\"From me as well... truly, thank you for \nall your hard work as always. If there's \nanything I can help with, please feel free \nto ask me anytime.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems I've received some words of praise!\r\nI'm grateful, but...\nthere was one thing that caught my attention.",
+      "text": "It seems I've received some words of \npraise! I'm grateful, but... there was one \nthing that caught my attention.",
       "choice_data_list": [
         "What was that silence all about?"
       ]
@@ -107,22 +107,22 @@
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Indeed! I just felt like... that would build up\r\nmore excitement!",
+      "text": "Indeed! I just felt like... that would \nbuild up more excitement!",
       "choice_data_list": []
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I-I'm sorry.\r\nI did try to stop them, but...",
+      "text": "I-I'm sorry. I did try to stop them, \nbut...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "...I do feel like retorting,\r\nbut I'm honestly glad to be praised.",
+      "text": "...I do feel like retorting, but I'm \nhonestly glad to be praised.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "A few days later, I told <chrname> about this,\r\nand the two of us shared the joy together!",
+      "text": "A few days later, I told <chrname> about this, and \nthe two of us shared the joy together!",
       "choice_data_list": []
     }
   ]

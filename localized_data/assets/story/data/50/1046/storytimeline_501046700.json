@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Smart Falcon",
-      "text": "\"...Uuuugh.\r\nTrainer, can I take a little break?\"",
+      "text": "\"...Uuuugh. Trainer, can I take a little \nbreak?\"",
       "choice_data_list": [
         "Are you still feeling tired?",
         "Are you still feeling tired?"
@@ -11,17 +11,17 @@
     },
     {
       "name": "Smart Falcon",
-      "text": "No, I'm just running on a little less sleep than usual.\r\nI was up late writing the comments for the flyers.",
+      "text": "No, I'm just running on a little less \nsleep than usual. I was up late writing \nthe comments for the flyers.",
       "choice_data_list": []
     },
     {
       "name": "Smart Falcon",
-      "text": "Isn't a hard-working Falco cute too?\r\n*yaaawn*... Well then, good night...",
+      "text": "Isn't a hard-working Falco cute too? \n*yaaawn*... Well then, good night...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Her dedication was admirable, but it seemed\r\nSmart Falcon wasn't getting proper rest...",
+      "text": "Her dedication was admirable, but it \nseemed Smart Falcon wasn't getting proper \nrest...",
       "choice_data_list": []
     }
   ]

@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Tokai Teio",
-      "text": "\"Ugh, jeez!! So frustrating, frustrating, frustrating!!\"",
+      "text": "\"Ugh, jeez!! So frustrating, frustrating, \nfrustrating!!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "One day, Tokai Teio came bursting into the trainer's office\nwith a loud shout.",
+      "text": "One day, Tokai Teio came bursting into the \ntrainer's office with a loud shout.",
       "choice_data_list": [
         "What happened?",
         "What happened?"
@@ -16,12 +16,12 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "I lost to McQueen on the math test!\nBy one point! Just one point! Ugh, so frustrating~!",
+      "text": "I lost to McQueen on the math test! By one \npoint! Just one point! Ugh, so \nfrustrating~!",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "\"I'm definitely gonna win on tomorrow's sports science test!\nTime for some intense training! Come on, let's go!\"",
+      "text": "\"I'm definitely gonna win on tomorrow's \nsports science test! Time for some intense \ntraining! Come on, let's go!\"",
       "choice_data_list": [
         "Where are you going!?",
         "Where are you going!?"
@@ -29,12 +29,12 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "The library, obviously!\nCome on, let's hurry!",
+      "text": "The library, obviously! Come on, let's \nhurry!",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Now then, the reference books should be around here—\nWait, McQueen!?",
+      "text": "Now then, the reference books should be \naround here— Wait, McQueen!?",
       "choice_data_list": []
     },
     {
@@ -44,57 +44,57 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "\"Are you asking about this book? I'm about to borrow it, is there any problem?\"",
+      "text": "\"Are you asking about this book? I'm about \nto borrow it, is there any problem?\"",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Totally! Absolutely down!\nI mean—",
+      "text": "Totally! Absolutely down! I mean—",
       "choice_data_list": []
     },
     {
       "name": "Library Committee Member",
-      "text": "Um.\nPlease keep it down in the library...",
+      "text": "Um. Please keep it down in the library...",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Ah... I'm sorry.\nYou're right, quiet, quiet...",
+      "text": "Ah... I'm sorry. You're right, quiet, \nquiet...",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Aside from that, I was the one trying to borrow it first,\nso I have the right to rent it!",
+      "text": "Aside from that, I was the one trying to \nborrow it first, so I have the right to \nrent it!",
       "choice_data_list": []
     },
     {
       "name": "Mejiro McQueen",
-      "text": "All the books in the library belong to the academy, right?\nIf you want to see it that badly, would you like to look together?",
+      "text": "All the books in the library belong to the \nacademy, right? If you want to see it that \nbadly, would you like to look together?",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "That's... I mean,\nit just feels kinda off, you know...",
+      "text": "That's... I mean, it just feels kinda off, \nyou know...",
       "choice_data_list": []
     },
     {
       "name": "Mejiro McQueen",
-      "text": "...I don't really understand, but in that case,\nyou wouldn't mind if I borrowed it, would you?",
+      "text": "...I don't really understand, but in that \ncase, you wouldn't mind if I borrowed it, \nwould you?",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "No! I told you, that's not okay!\nI want McQueen toâ",
+      "text": "No! I told you, that's not okay! I want \nMcQueen toâ",
       "choice_data_list": []
     },
     {
       "name": "Library Committee Member",
-      "text": "*Ahem!* Did I not just remind you\nto keep quiet in the library?",
+      "text": "*Ahem!* Did I not just remind you to keep \nquiet in the library?",
       "choice_data_list": []
     },
     {
       "name": "Library Committee Member",
-      "text": "You're disturbing the other visitors, so\nboth of you are banned from the library for the rest of the day!",
+      "text": "You're disturbing the other visitors, so \nboth of you are banned from the library \nfor the rest of the day!",
       "choice_data_list": []
     },
     {
@@ -109,12 +109,12 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "For an Umamusume of the Mejiro family to be locked out of the library...",
+      "text": "For an Umamusume of the Mejiro family to \nbe locked out of the library...",
       "choice_data_list": []
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Ah, this is a shame that will last for generations...",
+      "text": "Ah, this is a shame that will last for \ngenerations...",
       "choice_data_list": [
         "I got a bit too stubborn.",
         "We got a bit too stubborn, huh?"
@@ -127,12 +127,12 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "...I can't help it.\nWhen it's you, I just...",
+      "text": "...I can't help it. When it's you, I \njust...",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "No matter what, I just can't bring myself to lose to you!",
+      "text": "No matter what, I just can't bring myself \nto lose to you!",
       "choice_data_list": []
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "\"...Come now, how long do you intend to mope around?\nOr would you rather end our match here?\"",
+      "text": "\"...Come now, how long do you intend to \nmope around? Or would you rather end our \nmatch here?\"",
       "choice_data_list": []
     },
     {
@@ -162,19 +162,19 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "Still, what should I do about studying?\nI at least need somewhere I can focus...",
+      "text": "Still, what should I do about studying? I \nat least need somewhere I can focus...",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Wait, that's it!\nHey, hey, lend me the Trainer's office, will ya?!",
+      "text": "Wait, that's it! Hey, hey, lend me the \nTrainer's office, will ya?!",
       "choice_data_list": [
         "Sure."
       ]
     },
     {
       "name": "Tokai Teio",
-      "text": "\"That's the spirit!\nThat's my Trainer♪\nCome on, McQueen, let's go~!\"",
+      "text": "\"That's the spirit! That's my Trainer♪ \nCome on, McQueen, let's go~!\"",
       "choice_data_list": []
     },
     {
@@ -184,35 +184,35 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, the two of them\nhappily studied together... or not.",
+      "text": "And so, the two of them happily studied \ntogether... or not.",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Hmph! You're still taking so long to solve the problems?\nI've already solved three of them, you know?",
+      "text": "Hmph! You're still taking so long to solve \nthe problems? I've already solved three of \nthem, you know?",
       "choice_data_list": []
     },
     {
       "name": "Mejiro McQueen",
-      "text": "\"Geez! You're distracting me!\nThis isn't a race, so speed\ndoesn't matter here, does it!?\"",
+      "text": "\"Geez! You're distracting me! This isn't a \nrace, so speed doesn't matter here, does \nit!?\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "At this rate, there's no way I can study properly. In that case...",
+      "text": "At this rate, there's no way I can study \nproperly. In that case...",
       "choice_data_list": [
-        "Let's test each other with questions and compete!",
-        "If you want to see who's better that badly, go out and race.",
-        "If you want to see who's better that badly, go out and race."
+        "Let's test each other with questions and \ncompete!",
+        "If you want to see who's better that \nbadly, go out and race.",
+        "If you want to see who's better that \nbadly, go out and race."
       ]
     },
     {
       "name": "Narrator",
-      "text": "At this rate, there's no way I can study properly. In that case...",
+      "text": "At this rate, there's no way I can study \nproperly. In that case...",
       "choice_data_list": [
-        "Let's test each other with questions and compete!",
-        "If you want to see who's better that badly, go out and race.",
-        "If you want to see who's better that badly, go out and race."
+        "Let's test each other with questions and \ncompete!",
+        "If you want to see who's better that \nbadly, go out and race.",
+        "If you want to see who's better that \nbadly, go out and race."
       ]
     },
     {
@@ -222,12 +222,12 @@
     },
     {
       "name": "Tokai Teio",
-      "text": "\"What do you call the force\nthat a leg exerts on the ground when running?\"",
+      "text": "\"What do you call the force that a leg \nexerts on the ground when running?\"",
       "choice_data_list": []
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Since we're talking about force... 'Ground Reaction Force'!\nFufun, something of this level is a piece of cake for me!",
+      "text": "Since we're talking about force... 'Ground \nReaction Force'! Fufun, something of this \nlevel is a piece of cake for me!",
       "choice_data_list": []
     },
     {
@@ -237,12 +237,12 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Well then, it's my turn next.\nRegarding the relationship between ground reaction force and foot strike—",
+      "text": "Well then, it's my turn next. Regarding \nthe relationship between ground reaction \nforce and foot strike—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The two engaged in a back-and-forth battle.\nI later heard that both scored 100 points\non the test, ending the contest in a draw.",
+      "text": "The two engaged in a back-and-forth \nbattle. I later heard that both scored 100 \npoints on the test, ending the contest in \na draw.",
       "choice_data_list": []
     },
     {
@@ -252,17 +252,17 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes, rather than continuing endless, fruitless disputes,\nit is better to settle this once and for all!",
+      "text": "Yes, rather than continuing endless, \nfruitless disputes, it is better to settle \nthis once and for all!",
       "choice_data_list": []
     },
     {
       "name": "Tokai Teio",
-      "text": "Alright, Trainer!\nI'm heading out!",
+      "text": "Alright, Trainer! I'm heading out!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I heard later that while neither of their test scores was great,\ntheir times on the track had improved.",
+      "text": "I heard later that while neither of their \ntest scores was great, their times on the \ntrack had improved.",
       "choice_data_list": []
     }
   ]

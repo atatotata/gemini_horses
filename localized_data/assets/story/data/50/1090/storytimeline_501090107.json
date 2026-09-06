@@ -8,32 +8,32 @@
     },
     {
       "name": "Clerk A",
-      "text": "The end of the line for \"Hiam\", the cutting-edge chocolate brand from Dubai, is right over here!",
+      "text": "The end of the line for \"Hiam\", the \ncutting-edge chocolate brand from Dubai, \nis right over here!",
       "choice_data_list": []
     },
     {
       "name": "Store Clerk B",
-      "text": "\"As seen on TV!\nOur super popular seashell-shaped chocolates\nare limited in quantity! Get yours soon!\"",
+      "text": "\"As seen on TV! Our super popular \nseashell-shaped chocolates are limited in \nquantity! Get yours soon!\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Phew...\nAnother year has begun, hasn't it?",
+      "text": "Phew... Another year has begun, hasn't it?",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Valentine's is coming...! \n—I am definitely going to win!",
+      "text": "Valentine's is coming...! —I am definitely \ngoing to win!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Between tasks, my thoughts drifted to Verxina.\nShe had slipped away for just a few hours\nto buy Valentine's gifts for her family.",
+      "text": "Between tasks, my thoughts drifted to \nVerxina. She had slipped away for just a \nfew hours to buy Valentine's gifts for her \nfamily.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems she enthusiastically participates every year, gathering intel just to make her younger sisters happy, showing incredible dedication.",
+      "text": "It seems she enthusiastically participates \nevery year, gathering intel just to make \nher younger sisters happy, showing \nincredible dedication.",
       "choice_data_list": [
         "(Maybe I should prepare something too.)",
         "(Maybe I should prepare something, too.)"
@@ -41,27 +41,27 @@
     },
     {
       "name": "Narrator",
-      "text": "She's always working hard for others, so I wanted to show my appreciation...\nAfter giving it a lot of thought, I decided to go with a classic, well-known brand.",
+      "text": "She's always working hard for others, so I \nwanted to show my appreciation... After \ngiving it a lot of thought, I decided to \ngo with a classic, well-known brand.",
       "choice_data_list": [
-        "(I'm aiming for the very top of the chocolate world!)"
+        "(I'm aiming for the very top of the \nchocolate world!)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"And then came\nValentine's Day.\"",
+      "text": "\"And then came Valentine's Day.\"",
       "choice_data_list": [
-        "Have you given the chocolates to your family yet?",
-        "Have you given the chocolates to your family yet?"
+        "Have you given the chocolates to your \nfamily yet?",
+        "Have you given the chocolates to your \nfamily yet?"
       ]
     },
     {
       "name": "Verxina",
-      "text": "Yes.\nEveryone was so happy!",
+      "text": "Yes. Everyone was so happy!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Vivlos was especially thrilled...!\nIt was well worth waiting in line for two hours.",
+      "text": "Vivlos was especially thrilled...! It was \nwell worth waiting in line for two hours.",
       "choice_data_list": [
         "I see. That's great.",
         "I see, that's great to hear."
@@ -69,12 +69,12 @@
     },
     {
       "name": "Verxina",
-      "text": "\"Yes.\n...And well, about that.\"",
+      "text": "\"Yes. ...And well, about that.\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Happy Valentine's,\nTrainer-san!",
+      "text": "Happy Valentine's, Trainer-san!",
       "choice_data_list": [
         "Huh... To me?",
         "Huh... For me?"
@@ -82,20 +82,20 @@
     },
     {
       "name": "Verxina",
-      "text": "Yes. Back then,\nI caused you trouble with adjusting my training and all.",
+      "text": "Yes. Back then, I caused you trouble with \nadjusting my training and all.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"...Of course, this isn't just for this one time,\nbut a thank-you for everything up until now.\"",
+      "text": "\"...Of course, this isn't just for this \none time, but a thank-you for everything \nup until now.\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "I do not believe this is enough to repay you.\nHowever... thank you, as always.",
+      "text": "I do not believe this is enough to repay \nyou. However... thank you, as always.",
       "choice_data_list": [
-        "...Well then, thank you as always from me too!",
-        "...Well then, thank you as always, from me too!"
+        "...Well then, thank you as always from me \ntoo!",
+        "...Well then, thank you as always, from me \ntoo!"
       ]
     },
     {
@@ -113,29 +113,29 @@
     },
     {
       "name": "Verxina",
-      "text": "Yes! Actually... I absolutely love it. Its gentle, melt-in-your-mouth texture is utterly enchanting.",
+      "text": "Yes! Actually... I absolutely love it. Its \ngentle, melt-in-your-mouth texture is \nutterly enchanting.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "I haven't been able to eat any lately,\nso I'm really happy!",
+      "text": "I haven't been able to eat any lately, so \nI'm really happy!",
       "choice_data_list": [
         "That's great!"
       ]
     },
     {
       "name": "Verxina",
-      "text": "However... it's a classic brand,\nso didn't that make it even harder to choose?\nI was researching all sorts of things, after all...",
+      "text": "However... it's a classic brand, so didn't \nthat make it even harder to choose? I was \nresearching all sorts of things, after \nall...",
       "choice_data_list": [
-        "No, I actually thought there wouldn't be any overlap."
+        "No, I actually thought there wouldn't be \nany overlap."
       ]
     },
     {
       "name": "Narrator",
-      "text": "For her sisters' sake, Verxina always tried to choose fresh new brands each year.\nIf that's the case, she'll likely avoid the mainstream classics—",
+      "text": "For her sisters' sake, Verxina always \ntried to choose fresh new brands each \nyear. If that's the case, she'll likely \navoid the mainstream classics—",
       "choice_data_list": [
-        "When I thought about what was best for you, I didn't hesitate.",
-        "When I thought about what's best for you, I didn't hesitate."
+        "When I thought about what was best for \nyou, I didn't hesitate.",
+        "When I thought about what's best for you, \nI didn't hesitate."
       ]
     },
     {
@@ -150,10 +150,10 @@
     },
     {
       "name": "Verxina",
-      "text": "\"...Um,\nabout this chocolate...?\"",
+      "text": "\"...Um, about this chocolate...?\"",
       "choice_data_list": [
-        "Of course, you can give some to your little sisters too.",
-        "Of course, you can give some to your little sisters too."
+        "Of course, you can give some to your \nlittle sisters too.",
+        "Of course, you can give some to your \nlittle sisters too."
       ]
     },
     {
@@ -163,10 +163,10 @@
     },
     {
       "name": "Verxina",
-      "text": "After taking the trouble to give it all to me, you're asking to share it instead?",
+      "text": "After taking the trouble to give it all to \nme, you're asking to share it instead?",
       "choice_data_list": [
-        "Because I know that brings you the ultimate joy.",
-        "Because I know that brings you the greatest joy of all."
+        "Because I know that brings you the \nultimate joy.",
+        "Because I know that brings you the \ngreatest joy of all."
       ]
     },
     {
@@ -176,22 +176,22 @@
     },
     {
       "name": "Vivlos",
-      "text": "Mmm, delicious~♡♡\nI absolutely love this brand!",
+      "text": "Mmm, delicious~♡♡ I absolutely love this \nbrand!",
       "choice_data_list": []
     },
     {
       "name": "Cheval Grand",
-      "text": "Still, are you sure it's okay...?\n...It's from your Trainer, right?",
+      "text": "Still, are you sure it's okay...? ...It's \nfrom your Trainer, right?",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "It's alright, don't worry.\nGo ahead and eat as much as you like.",
+      "text": "It's alright, don't worry. Go ahead and \neat as much as you like.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Because you... really understand me\nso well, Trainer.",
+      "text": "Because you... really understand me so \nwell, Trainer.",
       "choice_data_list": []
     },
     {
@@ -201,27 +201,27 @@
     },
     {
       "name": "Verxina",
-      "text": "(To think Trainer-san cared about me\nthat much...)",
+      "text": "(To think Trainer-san cared about me that \nmuch...)",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "(I wonder if that was enough?\nI chose a more mature brand than what I gave my little sisters, but...)",
+      "text": "(I wonder if that was enough? I chose a \nmore mature brand than what I gave my \nlittle sisters, but...)",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "(...Is this really enough?\nCan I truly say I've considered everything for their sake?\nShould I head back to the event venue right now and get more――)",
+      "text": "(...Is this really enough? Can I truly say \nI've considered everything for their sake? \nShould I head back to the event venue \nright now and get more――)",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...No, even that's not enough.\nIn that case...!",
+      "text": "...No, even that's not enough. In that \ncase...!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...Phew, finished melting the extra batch!\nNext is carving the chocolate decorations...!",
+      "text": "...Phew, finished melting the extra batch! \nNext is carving the chocolate \ndecorations...!",
       "choice_data_list": []
     },
     {
@@ -231,81 +231,81 @@
     },
     {
       "name": "Verxina",
-      "text": "No, it's not working...! \nIs there anything else I could use...?",
+      "text": "No, it's not working...! Is there anything \nelse I could use...?",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "\"...In the back of the second shelf in the fridge.\nThere are edible rose flowers, so why don't you use them?\"",
+      "text": "\"...In the back of the second shelf in the \nfridge. There are edible rose flowers, so \nwhy don't you use them?\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Huh?\nUm...?",
+      "text": "Huh? Um...?",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "...Opera O just forced it on me,\nand it was a nuisance, that's all.\nIf you don't want it, throw it away.",
+      "text": "...Opera O just forced it on me, and it \nwas a nuisance, that's all. If you don't \nwant it, throw it away.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Ah...\nThank you, very much!",
+      "text": "Ah... Thank you, very much!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Alright, the decorations are all set.\nNow for the rest...—",
+      "text": "Alright, the decorations are all set. Now \nfor the rest...—",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "(Considering the dorm curfew, I'm almost out of time... Will I make it in time...!?)",
+      "text": "(Considering the dorm curfew, I'm almost \nout of time... Will I make it in \ntime...!?)",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"...No, I'll make it in time!\nJust like when I used to make things for my little sisters back then--\"",
+      "text": "\"...No, I'll make it in time! Just like \nwhen I used to make things for my little \nsisters back then--\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Pour your heart into it and make it complete!\nThis race... I am NOT going to lose!!",
+      "text": "Pour your heart into it and make it \ncomplete! This race... I am NOT going to \nlose!!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "That night, I was suddenly summoned by Verxina.\nAnd then—",
+      "text": "That night, I was suddenly summoned by \nVerxina. And then—",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"Trainer!\n—Please take this!\"",
+      "text": "\"Trainer! —Please take this!\"",
       "choice_data_list": [
         "Wait, is this...?"
       ]
     },
     {
       "name": "Verxina",
-      "text": "It's a Valentine's chocolate cake.\nFreshly made and still warm.",
+      "text": "It's a Valentine's chocolate cake. Freshly \nmade and still warm.",
       "choice_data_list": [
         "Handmade?! Wait, earlier too...?"
       ]
     },
     {
       "name": "Verxina",
-      "text": "...Both of them are packed full\nof... my precious feelings for you.",
+      "text": "...Both of them are packed full of... my \nprecious feelings for you.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "One is my gratitude.\nThe other is...",
+      "text": "One is my gratitude. The other is...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"A grea— designed with\nevery thought for your sake—\"",
+      "text": "\"A grea— designed with every thought for \nyour sake—\"",
       "choice_data_list": [
         "...huh?"
       ]
@@ -317,19 +317,19 @@
     },
     {
       "name": "Verxina",
-      "text": "I-It's... deep... deep...\ndeep—deepest gratitude, from the bottom of my heart!",
+      "text": "I-It's... deep... deep... deep—deepest \ngratitude, from the bottom of my heart!",
       "choice_data_list": [
         "Verxina... Thank YOU so much!!"
       ]
     },
     {
       "name": "Verxina",
-      "text": "Y-Yes.\nI am most delighted that you enjoyed it.",
+      "text": "Y-Yes. I am most delighted that you \nenjoyed it.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "(I almost spoke to them the way\nI talk to my little sisters...\n――T-That was close... right?)",
+      "text": "(I almost spoke to them the way I talk to \nmy little sisters... ――T-That was close... \nright?)",
       "choice_data_list": []
     }
   ]

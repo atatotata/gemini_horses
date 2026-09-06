@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Durandal",
-      "text": "Trainer-dono, your cup is empty.\nAllow me to get you a fresh one—",
+      "text": "Trainer-dono, your cup is empty. Allow me \nto get you a fresh one—",
       "choice_data_list": []
     },
     {
@@ -15,24 +15,24 @@
     },
     {
       "name": "Durandal",
-      "text": "...There is no problem.\nI just had a slight headache, that is all.",
+      "text": "...There is no problem. I just had a \nslight headache, that is all.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "More importantly, the drinks—\nKgh...!",
+      "text": "More importantly, the drinks— Kgh...!",
       "choice_data_list": [
-        "I can pour it myself, so don't push yourself."
+        "I can pour it myself, so don't push \nyourself."
       ]
     },
     {
       "name": "Durandal",
-      "text": "Guh...!\nI am deeply sorry, Trainer-dono.",
+      "text": "Guh...! I am deeply sorry, Trainer-dono.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "To think I've caused my master to worry... I will have this pain healed right away, so—",
+      "text": "To think I've caused my master to worry... \nI will have this pain healed right away, \nso—",
       "choice_data_list": []
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "name": "Narrator",
-      "text": "\"Durandal suffered from\na headache for a while...\"",
+      "text": "\"Durandal suffered from a headache for a \nwhile...\"",
       "choice_data_list": []
     }
   ]

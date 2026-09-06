@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Oguri Cap",
-      "text": "Trainer...\r\nThat was fun!",
+      "text": "Trainer... That was fun!",
       "choice_data_list": [
         "Good work!",
         "Good work!"
@@ -11,7 +11,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Thank you. Miles really are my forte.\r\nI can run with total confidence!",
+      "text": "Thank you. Miles really are my forte. I \ncan run with total confidence!",
       "choice_data_list": [
         "Then want to run more?",
         "Then want to run more?"
@@ -24,7 +24,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "...Hm?\r\nWhich means...",
+      "text": "...Hm? Which means...",
       "choice_data_list": [
         "We're taking the championship next!",
         "Let's take the championship next!"
@@ -32,17 +32,17 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Champion...\r\nYou mean the Mile Championship?!",
+      "text": "Champion... You mean the Mile \nChampionship?!",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah, I feel like I can do it now. I'll keep this momentum going and keep on winning!",
+      "text": "Yeah, I feel like I can do it now. I'll \nkeep this momentum going and keep on \nwinning!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "—And so,\r\naiming for the Mile Championship was decided!",
+      "text": "—And so, aiming for the Mile Championship \nwas decided!",
       "choice_data_list": []
     }
   ]

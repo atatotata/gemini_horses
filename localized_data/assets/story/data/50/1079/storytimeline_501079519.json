@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Classmate",
-      "text": "\"Hey, I'm heading to a cafe with everyone from class right now, want to come along, Furioso-chan?\"",
+      "text": "\"Hey, I'm heading to a cafe with everyone \nfrom class right now, want to come along, \nFurioso-chan?\"",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "\"...I must decline.\nI have no time to play nice with others.\"",
+      "text": "\"...I must decline. I have no time to play \nnice with others.\"",
       "choice_data_list": []
     },
     {
@@ -18,12 +18,12 @@
     },
     {
       "name": "Furioso",
-      "text": "(Ugh, was that too rude of me?\nNo, but...!)",
+      "text": "(Ugh, was that too rude of me? No, \nbut...!)",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Furioso lost her concentration,\nand her self-training ended up doing more harm than good...",
+      "text": "Furioso lost her concentration, and her \nself-training ended up doing more harm \nthan good...",
       "choice_data_list": []
     }
   ]

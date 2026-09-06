@@ -8,7 +8,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Even though it was early in the morning, Bamboo Memory's\nloud greeting could already be heard\ncoming from the gate.",
+      "text": "Even though it was early in the morning, \nBamboo Memory's loud greeting could \nalready be heard coming from the gate.",
       "choice_data_list": [
         "You're unusually early today.",
         "You're here unusually early today."
@@ -16,22 +16,22 @@
     },
     {
       "name": "Bamboo Memory",
-      "text": "Yes!\nIt's all thanks to getting plenty of rest!",
+      "text": "Yes! It's all thanks to getting plenty of \nrest!",
       "choice_data_list": []
     },
     {
       "name": "Bamboo Memory",
-      "text": "Actually, I managed to wake up before my alarm today!\nI already won my first match of the morning, so I'm in top form!",
+      "text": "Actually, I managed to wake up before my \nalarm today! I already won my first match \nof the morning, so I'm in top form!",
       "choice_data_list": []
     },
     {
       "name": "Bamboo Memory",
-      "text": "Alright, starting today, I'm gonna give it everything I've got again!",
+      "text": "Alright, starting today, I'm gonna give it \neverything I've got again!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It looks like Bamboo Memory was able\nto get plenty of proper rest.",
+      "text": "It looks like Bamboo Memory was able to \nget plenty of proper rest.",
       "choice_data_list": []
     }
   ]

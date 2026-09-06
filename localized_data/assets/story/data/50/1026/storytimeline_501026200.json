@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "At last, it's time for Mihono Bourbon's\nDebut Race.",
+      "text": "At last, it's time for Mihono Bourbon's \nDebut Race.",
       "choice_data_list": []
     },
     {
@@ -15,19 +15,19 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "—Initiating scan. Heart rate and blood pressure are both normal.\nStatus estimated as 'Relaxed.'",
+      "text": "—Initiating scan. Heart rate and blood \npressure are both normal. Status estimated \nas 'Relaxed.'",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "In other words, I am not \"nervous.\" If necessary, I can execute \"nervousness.\" Would you like to place an order for it?",
+      "text": "In other words, I am not \"nervous.\" If \nnecessary, I can execute \"nervousness.\" \nWould you like to place an order for it?",
       "choice_data_list": [
         "No, I'm okay!"
       ]
     },
     {
       "name": "",
-      "text": "She looks calm and composed, just as usual, which puts me at ease.",
+      "text": "She looks calm and composed, just as \nusual, which puts me at ease.",
       "choice_data_list": [
         "Go run with everything you've got!",
         "Go out there and run your heart out!"
@@ -35,7 +35,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Order received.\nExecuting: \"Run with all my might.\"",
+      "text": "Order received. Executing: \"Run with all \nmy might.\"",
       "choice_data_list": []
     },
     {

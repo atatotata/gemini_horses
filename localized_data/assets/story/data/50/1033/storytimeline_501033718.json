@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "Admire Vega",
-      "text": "I did some solo training during the break.\nI'll hand you the data later—",
+      "text": "I did some solo training during the break. \nI'll hand you the data later—",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
       "text": "...What?",
       "choice_data_list": [
-        "I was just wondering if you got some proper rest."
+        "I was just wondering if you got some \nproper rest."
       ]
     },
     {
@@ -20,12 +20,12 @@
     },
     {
       "name": "Admire Vega",
-      "text": "...\n..........I did take a rest, you know.",
+      "text": "... ..........I did take a rest, you know.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "In her own way, it seems Admire Vega\nwas able to enjoy a fulfilling day off.",
+      "text": "In her own way, it seems Admire Vega was \nable to enjoy a fulfilling day off.",
       "choice_data_list": []
     }
   ]

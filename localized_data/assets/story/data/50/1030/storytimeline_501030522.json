@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "Mmmgh... I wonder if this keeps me hidden...",
+      "text": "Mmmgh... I wonder if this keeps me \nhidden...",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "When I went to the trainer's office, Rice Shower\r\nwas there, seemingly fussing with her bangs.",
+      "text": "When I went to the trainer's office, Rice \nShower was there, seemingly fussing with \nher bangs.",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Rice Shower",
-      "text": "I got a bump on my forehead... so I'm trying to hide it with my bangs...\r\nCan you tell...?",
+      "text": "I got a bump on my forehead... so I'm \ntrying to hide it with my bangs... Can you \ntell...?",
       "choice_data_list": [
         "It's okay, you can't see it."
       ]
@@ -40,7 +40,7 @@
     },
     {
       "name": "",
-      "text": "Although she accepted the decision, Rice Shower\r\nstill seemed worried about her skin condition.",
+      "text": "Although she accepted the decision, Rice \nShower still seemed worried about her skin \ncondition.",
       "choice_data_list": []
     }
   ]

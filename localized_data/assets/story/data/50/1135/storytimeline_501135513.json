@@ -3,14 +3,14 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "On a certain day, Stay Gold and I decided to \nembark on a little expedition —"
+      "text": "On a certain day, Stay Gold and I decided \nto embark on a little expedition —"
     },
     {
       "name": "Announcement",
       "text": "\"To allow the express train to pass, we \nwill be pausing service for a moment —\""
     },
     {
-      "text": "Our destination is still many stations away. \nI leaned against the backrest, peeked out \nthe window and —"
+      "text": "Our destination is still many stations \naway. I leaned against the backrest, \npeeked out the window and —"
     },
     {
       "name": "Stay Gold",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Elderly Storekeeper",
-      "text": "Welcome…… <i>huh!</i> May it be that you're \nStay Gold!?"
+      "text": "Welcome…… <i>huh!</i> May it be that you're Stay \nGold!?"
     },
     {
       "name": "Stay Gold",
@@ -51,14 +51,14 @@
     },
     {
       "name": "Elderly Storekeeper",
-      "text": "And your races always keep me on the \nedge of my seat! I can never guess how \nthey'll end when you're there."
+      "text": "And your races always keep me on the edge \nof my seat! I can never guess how they'll \nend when you're there."
     },
     {
       "name": "Elderly Storekeeper",
-      "text": "……<i>Ah</i>, that's right! Please give \nme one moment!!!"
+      "text": "……<i>Ah</i>, that's right! Please give me one \nmoment!!!"
     },
     {
-      "text": "The storekeeper then dashed into \nthe back of the store.",
+      "text": "The storekeeper then dashed into the back \nof the store.",
       "choice_data_list": [
         "Seems like you even reached people here",
         "Seems like you even reached people here"
@@ -70,7 +70,7 @@
     },
     {
       "name": "Elderly Storekeeper",
-      "text": "Whew, apologies for the wait! \nHere, would you accept this?",
+      "text": "Whew, apologies for the wait! Here, would \nyou accept this?",
       "choice_data_list": [
         "This is… An embroidered patch?"
       ]
@@ -81,7 +81,7 @@
     },
     {
       "name": "Stay Gold",
-      "text": "……It's a good design. I see, it's handmade."
+      "text": "……It's a good design. I see, it's \nhandmade."
     },
     {
       "name": "Stay Gold",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Hey there! Did you just go mushroom \nforaging? Your basket… there's so \nmany yummy looking mushrooms \nin there."
+      "text": "Hey there! Did you just go mushroom \nforaging? Your basket… there's so many \nyummy looking mushrooms in there."
     },
     {
-      "text": "Stay Gold suddenly called out to an \nold lady carrying a large basket on \nher back."
+      "text": "Stay Gold suddenly called out to an old \nlady carrying a large basket on her back."
     },
     {
       "name": "Elderly Lady",
@@ -103,18 +103,18 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Mushroom feast… That sounds so good! \n<i>…Hey!</i> Could you let me have a \ntaste too!?",
+      "text": "Mushroom feast… That sounds so good! <i>…Hey!</i> \nCould you let me have a taste too!?",
       "choice_data_list": [
         "Eh! This suddenly!?"
       ]
     },
     {
       "name": "Elderly Lady",
-      "text": "My my, are you feeling hungry? \nOf course, of course, for you \nhorsegirls need to eat well!"
+      "text": "My my, are you feeling hungry? Of course, \nof course, for you horsegirls need to eat \nwell!"
     },
     {
       "name": "Stay Gold",
-      "text": "Really? Thank you! Please, I want to \nhear all about the mushrooms you \ngot to pick today."
+      "text": "Really? Thank you! Please, I want to hear \nall about the mushrooms you got to pick \ntoday."
     },
     {
       "text": "Stay Gold picked up the pace and walked \noff with the old lady. I quickly put my \nphone away and chased after her.",
@@ -129,47 +129,47 @@
     },
     {
       "name": "Elderly Lady",
-      "text": "<i>Fufu</i>, to see you pour some tea on it to \nmake a mushroom <i>chazuke!</i> Aren't you \na curious child～"
+      "text": "<i>Fufu</i>, to see you pour some tea on it to \nmake a mushroom <i>chazuke!</i> Aren't you a \ncurious child～"
     },
     {
       "name": "Stay Gold",
       "text": "Really? Thought I'd give it a try. It's \nreally yummy, y'know?"
     },
     {
-      "text": "Copying Stay Gold, I poured some tea \nover my dish and—",
+      "text": "Copying Stay Gold, I poured some tea over \nmy dish and—",
       "choice_data_list": [
         "Oh, it's good!"
       ]
     },
     {
       "name": "Elderly Lady",
-      "text": "Oh my, truly! I was thinking it may end up \ntasting bitter but that is not the case at all."
+      "text": "Oh my, truly! I was thinking it may end up \ntasting bitter but that is not the case at \nall."
     },
     {
       "name": "Stay Gold",
-      "text": "Just some of my survival experiences. \nAs long as you prepare your food well \nenough, you'll have no worries.",
+      "text": "Just some of my survival experiences. As \nlong as you prepare your food well enough, \nyou'll have no worries.",
       "choice_data_list": [
         "Ohh, I see"
       ]
     },
     {
       "name": "Stay Gold",
-      "text": "…Say, it's an impulsive thought, but \ndo you have any mayonnaise?"
+      "text": "…Say, it's an impulsive thought, but do \nyou have any mayonnaise?"
     },
     {
       "name": "Stay Gold",
-      "text": "Mushroom Mayo <i>Ochazuke.</i> It will \ndefinitely hit.",
+      "text": "Mushroom Mayo <i>Ochazuke.</i> It will definitely \nhit.",
       "choice_data_list": [
         "Mushroom Mayonnaise Ochazuke!?"
       ]
     },
     {
       "name": "Elderly Lady",
-      "text": "Yes I do, wait one moment dear. \n<i>Fufu,</i> what a fun child."
+      "text": "Yes I do, wait one moment dear. <i>Fufu,</i> what \na fun child."
     },
     {
       "name": "Elderly Lady",
-      "text": "Do you feel like this when you're in a race?"
+      "text": "Do you feel like this when you're in a \nrace?"
     },
     {
       "name": "Stay Gold",
@@ -177,11 +177,11 @@
     },
     {
       "name": "Elderly Lady",
-      "text": "Is that so, well that sounds absolutely \ndelightful then. <i>Fufu,</i> I am most \ndefinitely looking forward to \nyour races."
+      "text": "Is that so, well that sounds absolutely \ndelightful then. <i>Fufu,</i> I am most \ndefinitely looking forward to your races."
     },
     {
       "name": "Stay Gold",
-      "text": "I ate something great, and I even got \na cool souvenir. <i>Ahh —</i> What a \nsatisfying day.",
+      "text": "I ate something great, and I even got a \ncool souvenir. <i>Ahh —</i> What a satisfying \nday.",
       "choice_data_list": [
         "Start of the day was a little worrying…"
       ]
@@ -198,14 +198,14 @@
       ]
     },
     {
-      "text": "It is those who are a little unconventional \nthat have the power to captivate others, \ncharming not only those in this town… but \nmyself also."
+      "text": "It is those who are a little \nunconventional that have the power to \ncaptivate others, charming not only those \nin this town… but myself also."
     },
     {
       "name": "Stay Gold",
       "text": "<i>Hum……</i> Now then, guess I'll need to start \nworking hard from tomorrow again."
     },
     {
-      "text": "While saying that, she pulled out the patch \nreceived earlier from her pocket to take \nanother look at it.",
+      "text": "While saying that, she pulled out the \npatch received earlier from her pocket to \ntake another look at it.",
       "choice_data_list": [
         "We're training lots once we're back yeah",
         "We're training lots once we're back yeah",
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "text": "While saying that, she pulled out the patch \nreceived earlier from her pocket to take \nanother look at it.",
+      "text": "While saying that, she pulled out the \npatch received earlier from her pocket to \ntake another look at it.",
       "choice_data_list": [
         "We're training lots once we're back yeah",
         "We're training lots once we're back yeah",
@@ -245,7 +245,7 @@
     },
     {
       "name": "Stay Gold",
-      "text": "! <i>Hum.</i> I see. Then I'll definitely come back, \nand I'll make it soon."
+      "text": "! <i>Hum.</i> I see. Then I'll definitely come \nback, and I'll make it soon."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "While walking down the hallway,\nI ran into Mr. C.B.",
+      "text": "While walking down the hallway, I ran into \nMr. C.B.",
       "choice_data_list": []
     },
     {
@@ -13,20 +13,20 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Phew... Thank goodness, it's you, Trainer.\nI thought you were another teacher.",
+      "text": "Phew... Thank goodness, it's you, Trainer. \nI thought you were another teacher.",
       "choice_data_list": [
-        "Did something happen between you and Trainer?",
-        "Did something happen between you and Trainer?"
+        "Did something happen between you and \nTrainer?",
+        "Did something happen between you and \nTrainer?"
       ]
     },
     {
       "name": "Mr. C.B.",
-      "text": "It's nothing major.\nJust the usual thing.",
+      "text": "It's nothing major. Just the usual thing.",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "\"Go to class.\"\n\"At least turn in your reports.\"\n\"Meet your deadlines.\"... That sort of thing—",
+      "text": "\"Go to class.\" \"At least turn in your \nreports.\" \"Meet your deadlines.\"... That \nsort of thing—",
       "choice_data_list": []
     },
     {
@@ -36,17 +36,17 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "Haa... My head and heart both feel so heavy...",
+      "text": "Haa... My head and heart both feel so \nheavy...",
       "choice_data_list": []
     },
     {
       "name": "Mr. C.B.",
-      "text": "I'm going to take a short walk outside to clear my head.\nSee you later.",
+      "text": "I'm going to take a short walk outside to \nclear my head. See you later.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Mr. C.B. would be plagued by a headache for quite some time, all thanks to that relentless nagging...",
+      "text": "Mr. C.B. would be plagued by a headache \nfor quite some time, all thanks to that \nrelentless nagging...",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I spotted Eishin Flash\nlooking somewhat gloomy.",
+      "text": "I spotted Eishin Flash looking somewhat \ngloomy.",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
@@ -16,7 +16,7 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "I searched for ingredients to cook\na dish I used to eat a lot back home, but...",
+      "text": "I searched for ingredients to cook a dish \nI used to eat a lot back home, but...",
       "choice_data_list": [
         "Were they not selling it?",
         "Was it sold out?"
@@ -29,7 +29,7 @@
     },
     {
       "name": "Eishin Flash",
-      "text": "Caviar is really expensive in Japan, isn't it...?\nThere's no way I could afford it with my allowance.",
+      "text": "Caviar is really expensive in Japan, isn't \nit...? There's no way I could afford it \nwith my allowance.",
       "choice_data_list": []
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "Narrator",
-      "text": "I couldn't bring myself to say, \"I'll buy it for you\"...\r\nEishin Flash walked away looking crestfallen...",
+      "text": "I couldn't bring myself to say, \"I'll buy \nit for you\"... Eishin Flash walked away \nlooking crestfallen...",
       "choice_data_list": []
     }
   ]

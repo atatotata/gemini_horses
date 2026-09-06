@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Matikanetannhauser got injured during training,\r\nso I brought her to the infirmary.",
+      "text": "Matikanetannhauser got injured during \ntraining, so I brought her to the \ninfirmary.",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I'm sorry for making you worry.\r\nIt looks like it's nothing serious, though.",
+      "text": "I'm sorry for making you worry. It looks \nlike it's nothing serious, though.",
       "choice_data_list": []
     },
     {
@@ -21,12 +21,12 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I'm fine! Sure, I get frequent nosebleeds,\r\nfevers, and hives, but when it comes to energy,\nI'm confident I have more than anyone else!",
+      "text": "I'm fine! Sure, I get frequent nosebleeds, \nfevers, and hives, but when it comes to \nenergy, I'm confident I have more than \nanyone else!",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Besides, when everyone else is working so hard,\r\nI can't be the only one taking a break!",
+      "text": "Besides, when everyone else is working so \nhard, I can't be the only one taking a \nbreak!",
       "choice_data_list": [
         "For now, you should get some proper rest.",
         "Got it, let's not push ourselves too hard."
@@ -34,14 +34,14 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Hauu... I had a feeling you would\r\nsay that, but...",
+      "text": "Hauu... I had a feeling you would say \nthat, but...",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Still, times like this are when I have to work hardest,\r\notherwise I feel like I'll remain ordinary forever...",
+      "text": "Still, times like this are when I have to \nwork hardest, otherwise I feel like I'll \nremain ordinary forever...",
       "choice_data_list": [
-        "If something happened to you, I wouldn't be able to act normal either."
+        "If something happened to you, I wouldn't \nbe able to act normal either."
       ]
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Understood. I'll make sure to rest well today so that I can make a full recovery quickly.",
+      "text": "Understood. I'll make sure to rest well \ntoday so that I can make a full recovery \nquickly.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Matikanetannhauser sounded a bit disappointed\r\nas she headed back to the dorm.",
+      "text": "Matikanetannhauser sounded a bit \ndisappointed as she headed back to the \ndorm.",
       "choice_data_list": []
     },
     {
@@ -71,32 +71,32 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Ugh... The spot I hurt earlier is starting to ache again...\nMaybe I got a bit carried away...",
+      "text": "Ugh... The spot I hurt earlier is starting \nto ache again... Maybe I got a bit carried \naway...",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Trainer, I'm so sorry...\r\nI don't think I can make it today after all...",
+      "text": "Trainer, I'm so sorry... I don't think I \ncan make it today after all...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Matikanetannhauser spoke with regret\r\nand headed back to the dorm.",
+      "text": "Matikanetannhauser spoke with regret and \nheaded back to the dorm.",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Phew... Looks like I won't have to run at full power!",
+      "text": "Phew... Looks like I won't have to run at \nfull power!",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "All right, I'll do my best!\r\nJust like the Trainer said,\nI'll make sure not to overdo it! Munh!",
+      "text": "All right, I'll do my best! Just like the \nTrainer said, I'll make sure not to overdo \nit! Munh!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Mindful of her injury, Matikanetannhauser\r\ntrained reasonably within her limits.",
+      "text": "Mindful of her injury, Matikanetannhauser \ntrained reasonably within her limits.",
       "choice_data_list": []
     }
   ]

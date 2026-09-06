@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day, a fan letter arrived from the\nfacility where Admire Groove grew up—",
+      "text": "One day, a fan letter arrived from the \nfacility where Admire Groove grew up—",
       "choice_data_list": []
     },
     {
@@ -13,20 +13,20 @@
     },
     {
       "name": "Admire Groove",
-      "text": "More importantly, it's time for training, right?",
+      "text": "More importantly, it's time for training, \nright?",
       "choice_data_list": [
-        "You sure you don't need to read it thoroughly?",
+        "You sure you don't need to read it \nthoroughly?",
         "Aren't you going to read it carefully?"
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "Yes.\nTo me... training is more important.",
+      "text": "Yes. To me... training is more important.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Admire Groove completes her assigned training in her usual composed manner.",
+      "text": "Admire Groove completes her assigned \ntraining in her usual composed manner.",
       "choice_data_list": [
         "(Stoic as always today.)",
         "(Stoic as always today, huh.)"
@@ -44,12 +44,12 @@
     },
     {
       "name": "Letter Message",
-      "text": "\"The day after Big Sis races,\neveryone talks about nothing but Big Sis.\"",
+      "text": "\"The day after Big Sis races, everyone \ntalks about nothing but Big Sis.\"",
       "choice_data_list": []
     },
     {
       "name": "Letter Message",
-      "text": "\"Big Sis is our pride.\nBig Sis is our dream.\nBig Sis—\"",
+      "text": "\"Big Sis is our pride. Big Sis is our \ndream. Big Sis—\"",
       "choice_data_list": []
     },
     {
@@ -87,14 +87,14 @@
     },
     {
       "name": "Narrator",
-      "text": "I tried to stop her, but the words caught in my throat.\nAdmire Groove was... completely serious.",
+      "text": "I tried to stop her, but the words caught \nin my throat. Admire Groove was... \ncompletely serious.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It's surely thanks to that letter.\nIf so, as her Trainer,\nI want to give her a push forward.",
+      "text": "It's surely thanks to that letter. If so, \nas her Trainer, I want to give her a push \nforward.",
       "choice_data_list": [
-        "...All right, let's keep going until we're completely satisfied!"
+        "...All right, let's keep going until we're \ncompletely satisfied!"
       ]
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "name": "Narrator",
-      "text": "I watched over her for a while\nas she trained with all her might!",
+      "text": "I watched over her for a while as she \ntrained with all her might!",
       "choice_data_list": []
     }
   ]

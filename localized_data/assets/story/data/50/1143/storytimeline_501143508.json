@@ -3,9 +3,9 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day, during a strategy meeting for our next race.",
+      "text": "One day, during a strategy meeting for our \nnext race.",
       "choice_data_list": [
-        "I've prepared the list of runners right here, so—"
+        "I've prepared the list of runners right \nhere, so—"
       ]
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "name": "Victoire Pisa",
-      "text": "*Zzz*... *zzz*...\nNnh, ah, aaah...",
+      "text": "*Zzz*... *zzz*... Nnh, ah, aaah...",
       "choice_data_list": []
     },
     {
       "name": "Victoire Pisa",
-      "text": "\"...Tree kangaroo-san, that's not a tree, that's a high-rise apart...ment...\n...Mnya.\"",
+      "text": "\"...Tree kangaroo-san, that's not a tree, \nthat's a high-rise apart...ment... \n...Mnya.\"",
       "choice_data_list": [
         "...Just what kind of dream are you having?",
         "...Just what kind of dream are you having?"
@@ -30,7 +30,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Regardless of what she dreamed, she must be tired enough\nto doze off like that. I might need to\nre-evaluate her schedule...",
+      "text": "Regardless of what she dreamed, she must \nbe tired enough to doze off like that. I \nmight need to re-evaluate her schedule...",
       "choice_data_list": []
     }
   ]

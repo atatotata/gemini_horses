@@ -3,24 +3,24 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Duramente suffered an injury during training.",
+      "text": "Duramente suffered an injury during \ntraining.",
       "choice_data_list": [
         "Does it hurt?"
       ]
     },
     {
       "name": "Duramente",
-      "text": "No, I am fine.\nI have applied athletic tape, so it will not be an issue.",
+      "text": "No, I am fine. I have applied athletic \ntape, so it will not be an issue.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "The pain will probably linger for a few days, but—",
+      "text": "The pain will probably linger for a few \ndays, but—",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "As long as we don't put strain on the injured area, it shouldn't cause any problems.",
+      "text": "As long as we don't put strain on the \ninjured area, it shouldn't cause any \nproblems.",
       "choice_data_list": []
     },
     {
@@ -28,42 +28,42 @@
       "text": "Let's get back to training.",
       "choice_data_list": [
         "You should get some rest for now.",
-        "If we change up the menu and see how it goes..."
+        "If we change up the menu and see how it \ngoes..."
       ]
     },
     {
       "name": "Duramente",
-      "text": "Resting would cause that much of a delay.\nIf the schedule leading up to the race was thrown off drastically—",
+      "text": "Resting would cause that much of a delay. \nIf the schedule leading up to the race was \nthrown off drastically—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I explained that moving while favoring an injury puts strain on other parts, and that this was to prevent a chain reaction of risks.",
+      "text": "I explained that moving while favoring an \ninjury puts strain on other parts, and \nthat this was to prevent a chain reaction \nof risks.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "If favoring an injury leads to even more injuries,\nit'll throw off the schedule even further, huh...",
+      "text": "If favoring an injury leads to even more \ninjuries, it'll throw off the schedule \neven further, huh...",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Understood.\nFor now, as you say, I'll take a rest.",
+      "text": "Understood. For now, as you say, I'll take \na rest.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Once the break is over—I'll make up for lost time all at once.",
+      "text": "Once the break is over—I'll make up for \nlost time all at once.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, Duramente ended up\ndedicating herself to treating her injury.",
+      "text": "And so, Duramente ended up dedicating \nherself to treating her injury.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"I tell her that if it gets even slightly worse,\nwe will stop right on the spot.\"",
+      "text": "\"I tell her that if it gets even slightly \nworse, we will stop right on the spot.\"",
       "choice_data_list": []
     },
     {
@@ -81,17 +81,17 @@
     },
     {
       "name": "Duramente",
-      "text": "...Was my assessment too optimistic?\nAnd to think it concerned my very own body.",
+      "text": "...Was my assessment too optimistic? And \nto think it concerned my very own body.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "\"...Forgive me.\nIt seems I should indeed rest quietly for a while.\"",
+      "text": "\"...Forgive me. It seems I should indeed \nrest quietly for a while.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Having aggravated her injury, she would have to\ntake a break from training for a while...",
+      "text": "Having aggravated her injury, she would \nhave to take a break from training for a \nwhile...",
       "choice_data_list": []
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Duramente",
-      "text": "Movement at this level won't affect anything.\n...I'm going to run one more light lap.",
+      "text": "Movement at this level won't affect \nanything. ...I'm going to run one more \nlight lap.",
       "choice_data_list": []
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Without worsening her injury, Duramente was able to make an early comeback.",
+      "text": "Without worsening her injury, Duramente \nwas able to make an early comeback.",
       "choice_data_list": []
     }
   ]

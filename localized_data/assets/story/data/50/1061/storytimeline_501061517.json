@@ -3,24 +3,24 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Taking a break from training, I came to the park with King Halo.",
+      "text": "Taking a break from training, I came to \nthe park with King Halo.",
       "choice_data_list": []
     },
     {
       "name": "King Halo",
-      "text": "...The wind is quite strong today, isn't it?",
+      "text": "...The wind is quite strong today, isn't \nit?",
       "choice_data_list": [
         "Are you really that curious?"
       ]
     },
     {
       "name": "King Halo",
-      "text": "Yes, dust kicks up on windy days, right?\r\nI... hate that...",
+      "text": "Yes, dust kicks up on windy days, right? \nI... hate that...",
       "choice_data_list": []
     },
     {
       "name": "King Halo",
-      "text": "Sand gets all over your clothes and hair,\r\nand on top of that, you sneeze—",
+      "text": "Sand gets all over your clothes and hair, \nand on top of that, you sneeze—",
       "choice_data_list": []
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "King Halo",
-      "text": "Haaah...\r\nThis is why I hate dirt tracks...",
+      "text": "Haaah... This is why I hate dirt tracks...",
       "choice_data_list": []
     }
   ]

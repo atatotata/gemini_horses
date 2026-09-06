@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Hishi Amazon got injured during training,\r\nso I brought her to the infirmary.",
+      "text": "Hishi Amazon got injured during training, \nso I brought her to the infirmary.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hey, I really don't need any first aid.\r\nGetting a little hurt happens all the time.",
+      "text": "Hey, I really don't need any first aid. \nGetting a little hurt happens all the \ntime.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "It's a waste of time, so...\r\nLet's just get back to training already.",
+      "text": "It's a waste of time, so... Let's just get \nback to training already.",
       "choice_data_list": [
         "I'm worried, so let me treat that.",
         "Let's stay focused and get to practice."
@@ -29,39 +29,39 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "No... well, it hurt a little,\r\nbut it's nothing that won't heal on its own!",
+      "text": "No... well, it hurt a little, but it's \nnothing that won't heal on its own!",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Can't be worrying over minor injuries.\r\nSometimes you've gotta push through, right?",
+      "text": "Can't be worrying over minor injuries. \nSometimes you've gotta push through, \nright?",
       "choice_data_list": [
-        "What if an injured junior said the same thing to you?"
+        "What if an injured junior said the same \nthing to you?"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Well, of course I'd scold them and make them rest!",
+      "text": "Well, of course I'd scold them and make \nthem rest!",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "...Aah, damn it.\nI get what you're trying to say.",
+      "text": "...Aah, damn it. I get what you're trying \nto say.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Resting just to be safe... that should be fine, right?",
+      "text": "Resting just to be safe... that should be \nfine, right?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "After finishing the treatment,\r\nI had her rest thoroughly.",
+      "text": "After finishing the treatment, I had her \nrest thoroughly.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "I know! I can't look pathetic in front of my juniors any longer, after all.",
+      "text": "I know! I can't look pathetic in front of \nmy juniors any longer, after all.",
       "choice_data_list": []
     },
     {
@@ -81,19 +81,19 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Walking was fine, but\r\nrunning is a whole different story, huh...",
+      "text": "Walking was fine, but running is a whole \ndifferent story, huh...",
       "choice_data_list": [
         "Let's rest and heal up properly."
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Damn it, fine, I get it. Can't go letting it get worse\r\nin front of the underclassmen, after all.",
+      "text": "Damn it, fine, I get it. Can't go letting \nit get worse in front of the \nunderclassmen, after all.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Suppressing her restless urge, Hishi Amazon\ndecided to take a rest.",
+      "text": "Suppressing her restless urge, Hishi \nAmazon decided to take a rest.",
       "choice_data_list": []
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"...Sorry, Trainy, I take back what I said earlier.\nCould you tape me up after all?\"",
+      "text": "\"...Sorry, Trainy, I take back what I said \nearlier. Could you tape me up after all?\"",
       "choice_data_list": [
         "Does it hurt?",
         "Does it hurt?"
@@ -111,22 +111,22 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "I wouldn't say it hurts, exactly,\nbut it does feel a bit off.",
+      "text": "I wouldn't say it hurts, exactly, but it \ndoes feel a bit off.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "If we're returning to practice, we need to ensure everything is in perfect order.",
+      "text": "If we're returning to practice, we need to \nensure everything is in perfect order.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "After all, I'm the one always telling my juniors\nnever to take an injury lightly.",
+      "text": "After all, I'm the one always telling my \njuniors never to take an injury lightly.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Thanks to the thorough taping,\r\nshe was able to continue her training without any issues.",
+      "text": "Thanks to the thorough taping, she was \nable to continue her training without any \nissues.",
       "choice_data_list": []
     }
   ]

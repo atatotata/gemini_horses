@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Gentildonna",
-      "text": "Trainer, do you have about two hours to spare sometime soon?\nTomorrow—no, today would be best.",
+      "text": "Trainer, do you have about two hours to \nspare sometime soon? Tomorrow—no, today \nwould be best.",
       "choice_data_list": [
         "That's sudden. Did something happen?",
         "That's sudden. Did something happen?"
@@ -11,12 +11,12 @@
     },
     {
       "name": "Gentildonna",
-      "text": "I want to go to an esthetic clinic.\nMaybe it's the intense sun, but the skin around my eyes feels dry.",
+      "text": "I want to go to an esthetic clinic. Maybe \nit's the intense sun, but the skin around \nmy eyes feels dry.",
       "choice_data_list": []
     },
     {
       "name": "Gentildonna",
-      "text": "In a state like this, even the tiara\nI've rightfully earned would be ruined.",
+      "text": "In a state like this, even the tiara I've \nrightfully earned would be ruined.",
       "choice_data_list": []
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Narrator",
-      "text": "It might not seem obvious at first glance, but to her,\nit was a grave situation. To help cheer her up,\nI opened my planner...",
+      "text": "It might not seem obvious at first glance, \nbut to her, it was a grave situation. To \nhelp cheer her up, I opened my planner...",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "At last, it's time for Agnes Tachyon's\r\nDebut Race.",
+      "text": "At last, it's time for Agnes Tachyon's \nDebut Race.",
       "choice_data_list": []
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "",
-      "text": "Agnes Tachyon is uncharacteristically quiet.",
+      "text": "Agnes Tachyon is uncharacteristically \nquiet.",
       "choice_data_list": [
         "Are you nervous, by any chance?"
       ]
@@ -25,14 +25,14 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "I was lamenting the fact that the lab ran out of black tea.\nHow careless of me to forget to restock.",
+      "text": "I was lamenting the fact that the lab ran \nout of black tea. How careless of me to \nforget to restock.",
       "choice_data_list": [
-        "(That has nothing to do with the debut race...!)"
+        "(That has nothing to do with the debut \nrace...!)"
       ]
     },
     {
       "name": "Agnes Tachyon",
-      "text": "Oh, while the races are going on is fine, just buy me some tea.\r\nSabaragamuwa or Keemun would be lovely.",
+      "text": "Oh, while the races are going on is fine, \njust buy me some tea. Sabaragamuwa or \nKeemun would be lovely.",
       "choice_data_list": [
         "There's no way I could miss your race—",
         "There's no way I could miss your race—"
@@ -40,17 +40,17 @@
     },
     {
       "name": "Agnes Tachyon",
-      "text": "—Oh, look at the time.\r\nI really must be going.",
+      "text": "—Oh, look at the time. I really must be \ngoing.",
       "choice_data_list": []
     },
     {
       "name": "Agnes Tachyon",
-      "text": "If you have neither, Assam will do.\r\nBring it to the lab.",
+      "text": "If you have neither, Assam will do. Bring \nit to the lab.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Saying that, Agnes Tachyon made a dashing exit from the waiting room.",
+      "text": "Saying that, Agnes Tachyon made a dashing \nexit from the waiting room.",
       "choice_data_list": []
     }
   ]

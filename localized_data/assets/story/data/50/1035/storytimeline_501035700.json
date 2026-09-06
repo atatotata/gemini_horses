@@ -3,40 +3,40 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After the break, I exchanged greetings\r\nwith Winning Ticket in the central plaza, but...",
+      "text": "After the break, I exchanged greetings \nwith Winning Ticket in the central plaza, \nbut...",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Fwaaaaaahhh~~~...\r\nTrainer-san, good morniiing~...",
+      "text": "Fwaaaaaahhh~~~... Trainer-san, good \nmorniiing~...",
       "choice_data_list": [
-        "You look sleepy, what were you doing yesterday?",
-        "You look sleepy, what were you doing yesterday?"
+        "You look sleepy, what were you doing \nyesterday?",
+        "You look sleepy, what were you doing \nyesterday?"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Well, you see, I wanted to spend my day off to the fullest.\r\nThere were sooooo many things I wanted to do, so—",
+      "text": "Well, you see, I wanted to spend my day \noff to the fullest. There were sooooo many \nthings I wanted to do, so—",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "We spent the whole day doing eee-ve-ry-thing!\nManga, movies, food, and cycling!",
+      "text": "We spent the whole day doing \neee-ve-ry-thing! Manga, movies, food, and \ncycling!",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "It was so much fun.\nBut... after that—",
+      "text": "It was so much fun. But... after that—",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Before I knew it, it was already morning...\r\nHuaaaahhh...",
+      "text": "Before I knew it, it was already \nmorning... Huaaaahhh...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems Winning Ticket went all out even on her day off,\r\nand ended up sleep-deprived...",
+      "text": "It seems Winning Ticket went all out even \non her day off, and ended up \nsleep-deprived...",
       "choice_data_list": []
     }
   ]

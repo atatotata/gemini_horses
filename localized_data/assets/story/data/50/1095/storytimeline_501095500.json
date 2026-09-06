@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Believe",
-      "text": "(...Hm?\nThe Trainer's Office... the lights are on.)",
+      "text": "(...Hm? The Trainer's Office... the lights \nare on.)",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "............\nIt's already quite late at night.",
+      "text": "............ It's already quite late at \nnight.",
       "choice_data_list": [
         "Ah, sorry! I'll be done soon!",
         "Ah, sorry! I'm almost done!"
@@ -16,7 +16,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Apologizing as I did so, I printed out the documents.\nI handed the freshly completed papers to Believe.",
+      "text": "Apologizing as I did so, I printed out the \ndocuments. I handed the freshly completed \npapers to Believe.",
       "choice_data_list": []
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Believe",
-      "text": "...I see.\nI'll put that into practice next time.",
+      "text": "...I see. I'll put that into practice next \ntime.",
       "choice_data_list": []
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "Durandal",
-      "text": "Good work. That was an extraordinary run.\nYour endurance... is something I ought to learn from.",
+      "text": "Good work. That was an extraordinary run. \nYour endurance... is something I ought to \nlearn from.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "...By the way, did something happen?\nYou've seemed to be in good spirits lately.",
+      "text": "...By the way, did something happen? \nYou've seemed to be in good spirits \nlately.",
       "choice_data_list": []
     },
     {
@@ -53,17 +53,17 @@
     },
     {
       "name": "Believe",
-      "text": "\"However... Trainer did make some improvements\nto the menu the other day.\"",
+      "text": "\"However... Trainer did make some \nimprovements to the menu the other day.\"",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "......You did your job, Trainer-san.\nProperly.",
+      "text": "......You did your job, Trainer-san. \nProperly.",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "\"So, to that extent—I'm simply responding in kind.\"",
+      "text": "\"So, to that extent—I'm simply responding \nin kind.\"",
       "choice_data_list": []
     },
     {
@@ -73,12 +73,12 @@
     },
     {
       "name": "Durandal",
-      "text": "Fufu, is that so...\nYou met a wonderful King, didn't you?",
+      "text": "Fufu, is that so... You met a wonderful \nKing, didn't you?",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "...No.\nWe're work colleagues.",
+      "text": "...No. We're work colleagues.",
       "choice_data_list": []
     }
   ]

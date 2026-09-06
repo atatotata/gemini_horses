@@ -3,24 +3,24 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After spending some time out with Red Desire,\nmy phone suddenly started ringing.",
+      "text": "After spending some time out with Red \nDesire, my phone suddenly started ringing.",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Please, go ahead and answer the call from over yonder.\nI shall keep watch over the surroundings.",
+      "text": "Please, go ahead and answer the call from \nover yonder. I shall keep watch over the \nsurroundings.",
       "choice_data_list": [
         "(...It's from Loves)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Since she has plenty of connections as a streamer,\nwe had asked her to help look for Red Desire's lost brooch, but—",
+      "text": "Since she has plenty of connections as a \nstreamer, we had asked her to help look \nfor Red Desire's lost brooch, but—",
       "choice_data_list": []
     },
     {
       "name": "Loves Only You",
-      "text": "\"I found the brooch you were looking for! ♪\nMy child picked it up at the park and let me know.\"",
+      "text": "\"I found the brooch you were looking for! \n♪ My child picked it up at the park and \nlet me know.\"",
       "choice_data_list": [
         "Really!?",
         "Really!?"
@@ -28,20 +28,20 @@
     },
     {
       "name": "Loves Only You",
-      "text": "\"Yes. The serial number on the back matches the one I heard from Desire earlier.\"",
+      "text": "\"Yes. The serial number on the back \nmatches the one I heard from Desire \nearlier.\"",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "—Oh my.\nAre you finished speaking?",
+      "text": "—Oh my. Are you finished speaking?",
       "choice_data_list": [
-        "Yeah, so... there's something I want to tell you.",
-        "Yeah, so... there's something I want to tell you."
+        "Yeah, so... there's something I want to \ntell you.",
+        "Yeah, so... there's something I want to \ntell you."
       ]
     },
     {
       "name": "Narrator",
-      "text": "On my way to meet Loves Only You at our rendezvous point,\nI decided to tell her the truth.",
+      "text": "On my way to meet Loves Only You at our \nrendezvous point, I decided to tell her \nthe truth.",
       "choice_data_list": []
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Red Desire",
-      "text": "So then, what you received back then\nwas different from the brooch you had lost.",
+      "text": "So then, what you received back then was \ndifferent from the brooch you had lost.",
       "choice_data_list": [
         "Sorry! And that was your one and only...",
         "Sorry! And that was your one and only..."
@@ -64,7 +64,7 @@
     },
     {
       "name": "Red Desire",
-      "text": "It is quite all right... You did it out of concern for me, did you not?\nThen it is perfectly fine.",
+      "text": "It is quite all right... You did it out of \nconcern for me, did you not? Then it is \nperfectly fine.",
       "choice_data_list": []
     },
     {
@@ -74,12 +74,12 @@
     },
     {
       "name": "Loves Only You",
-      "text": "The person who found it is inside.\nHowever—",
+      "text": "The person who found it is inside. \nHowever—",
       "choice_data_list": []
     },
     {
       "name": "Mother of the Finder",
-      "text": "...Come on, Shi-chan. Let's give the brooch back, okay?",
+      "text": "...Come on, Shi-chan. Let's give the \nbrooch back, okay?",
       "choice_data_list": []
     },
     {
@@ -89,12 +89,12 @@
     },
     {
       "name": "Girl Who Found It",
-      "text": "*sniff*, but... it's mine.\nIt wanted me to pick it up...",
+      "text": "*sniff*, but... it's mine. It wanted me to \npick it up...",
       "choice_data_list": []
     },
     {
       "name": "Mother of the Finder",
-      "text": "Oh, you silly thing... Big Sis is\nthe real owner, okay? Let's give it back to her, alright?",
+      "text": "Oh, you silly thing... Big Sis is the real \nowner, okay? Let's give it back to her, \nalright?",
       "choice_data_list": []
     },
     {
@@ -121,17 +121,17 @@
     },
     {
       "name": "Red Desire",
-      "text": "Not just anyone can hear the voice.\nIt is an encounter with destiny—a revelation from \"that place.\"",
+      "text": "Not just anyone can hear the voice. It is \nan encounter with destiny—a revelation \nfrom \"that place.\"",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "\"...In an encounter from days gone by,\nI, too, heard the call of the brooch.\"",
+      "text": "\"...In an encounter from days gone by, I, \ntoo, heard the call of the brooch.\"",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "“Yet, those are distant memories now. The one this brooch seeks today must be you.”",
+      "text": "“Yet, those are distant memories now. The \none this brooch seeks today must be you.”",
       "choice_data_list": []
     },
     {
@@ -141,22 +141,22 @@
     },
     {
       "name": "Red Desire",
-      "text": "Every time I looked at that brooch,\nmy resolve to be a saint surged within me,\nand gave me the courage to overcome any trial.",
+      "text": "Every time I looked at that brooch, my \nresolve to be a saint surged within me, \nand gave me the courage to overcome any \ntrial.",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "I'm sure it will be a great source of support for you.",
+      "text": "I'm sure it will be a great source of \nsupport for you.",
       "choice_data_list": []
     },
     {
       "name": "Girl Who Found It",
-      "text": "…………\nBig sister, are you really sure about this?",
+      "text": "………… Big sister, are you really sure about \nthis?",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Yes. Because... I already have\n\"my own brooch.\"",
+      "text": "Yes. Because... I already have \"my own \nbrooch.\"",
       "choice_data_list": []
     },
     {
@@ -166,66 +166,66 @@
     },
     {
       "name": "Red Desire",
-      "text": "Back when you gave me that other brooch, Trainer...\nI had already realized.",
+      "text": "Back when you gave me that other brooch, \nTrainer... I had already realized.",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "You're saying the numbers of the gospel differ?",
+      "text": "You're saying the numbers of the gospel \ndiffer?",
       "choice_data_list": [
         "...! Then, from the very beginning—"
       ]
     },
     {
       "name": "Red Desire",
-      "text": "Yes. You were worried about me running around day after day on this lost-item trial, weren't you?",
+      "text": "Yes. You were worried about me running \naround day after day on this lost-item \ntrial, weren't you?",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "The noble compassion you showed me back then\nwas unmistakably genuine—",
+      "text": "The noble compassion you showed me back \nthen was unmistakably genuine—",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "\"Which is why, that moment you gave it to me,\nthat brooch became 'the real thing' to me too.\"",
+      "text": "\"Which is why, that moment you gave it to \nme, that brooch became 'the real thing' to \nme too.\"",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "For this one-of-a-kind, precious brooch...\nThank you so much.",
+      "text": "For this one-of-a-kind, precious brooch... \nThank you so much.",
       "choice_data_list": [
         "I really appreciate your kindness too.",
         "Your kindness makes me happy too",
         "She's a saintess……",
-        "Once again, won't you let me pour my feelings into it?",
-        "Once again, will you let me pour my heart into it?"
+        "Once again, won't you let me pour my \nfeelings into it?",
+        "Once again, will you let me pour my heart \ninto it?"
       ]
     },
     {
       "name": "Red Desire",
-      "text": "For this one-of-a-kind, precious brooch...\nThank you so much.",
+      "text": "For this one-of-a-kind, precious brooch... \nThank you so much.",
       "choice_data_list": [
         "I really appreciate your kindness too.",
         "Your kindness makes me happy too",
         "She's a saintess……",
-        "Once again, won't you let me pour my feelings into it?",
-        "Once again, will you let me pour my heart into it?"
+        "Once again, won't you let me pour my \nfeelings into it?",
+        "Once again, will you let me pour my heart \ninto it?"
       ]
     },
     {
       "name": "Red Desire",
-      "text": "\"Fufu. Thanks to this brooch, we've been bound by an even stronger bond—\"",
+      "text": "\"Fufu. Thanks to this brooch, we've been \nbound by an even stronger bond—\"",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "\"As expected, blessings await\nbeyond the trials we overcome, don't they?♪\"",
+      "text": "\"As expected, blessings await beyond the \ntrials we overcome, don't they?♪\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Seeing Red Desire so happy\nbrought a bright smile to my own face as well.",
+      "text": "Seeing Red Desire so happy brought a \nbright smile to my own face as well.",
       "choice_data_list": []
     },
     {
@@ -235,24 +235,24 @@
     },
     {
       "name": "Red Desire",
-      "text": "...?\nYes, of course. I am a Saint, you know?",
+      "text": "...? Yes, of course. I am a Saint, you \nknow?",
       "choice_data_list": [
         "Well, that may be true, but..."
       ]
     },
     {
       "name": "Narrator",
-      "text": "I tell her that the smile she directed at me was so dazzling, the words just slipped out of my mouth.",
+      "text": "I tell her that the smile she directed at \nme was so dazzling, the words just slipped \nout of my mouth.",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Fufu. I practice my benevolent smile in front of the mirror every day.\nIt's the fruit of my saintly training♪",
+      "text": "Fufu. I practice my benevolent smile in \nfront of the mirror every day. It's the \nfruit of my saintly training♪",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Red Desire was her usual self.\nLooking at her, I couldn't help but feel she was dazzling.",
+      "text": "Red Desire was her usual self. Looking at \nher, I couldn't help but feel she was \ndazzling.",
       "choice_data_list": []
     },
     {
@@ -264,12 +264,12 @@
     },
     {
       "name": "Red Desire",
-      "text": "\"No, not at all!\nPlease, I would be honored...!\"",
+      "text": "\"No, not at all! Please, I would be \nhonored...!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Taking the brooch from Red Desire, I pour my feelings into it.",
+      "text": "Taking the brooch from Red Desire, I pour \nmy feelings into it.",
       "choice_data_list": [
         "May this brooch protect the Saintess..."
       ]
@@ -281,7 +281,7 @@
     },
     {
       "name": "Red Desire",
-      "text": "I shall continue to take on trials carrying Trainer's feelings with me!",
+      "text": "I shall continue to take on trials \ncarrying Trainer's feelings with me!",
       "choice_data_list": []
     }
   ]

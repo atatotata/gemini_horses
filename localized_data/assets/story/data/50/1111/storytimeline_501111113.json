@@ -3,24 +3,24 @@
   "text_block_list": [
     {
       "name": "Air Messiah",
-      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my daily report for today.\"",
+      "text": "\"Dear Trainer <username>, Thank you for your hard \nwork. Here is my daily report for today.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Health status: 37.7°C (normal), no body pain.\nMeals: Attached records for 3 meals (no snacks).\"",
+      "text": "\"Health status: 37.7°C (normal), no body \npain. Meals: Attached records for 3 meals \n(no snacks).\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Voluntary Training Report: 1 hr treadmill (Morning),\n2 km pool swim (Morning), 2 uphill runs (Evening)\"",
+      "text": "\"Voluntary Training Report: 1 hr treadmill \n(Morning), 2 km pool swim (Morning), 2 \nuphill runs (Evening)\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"That is all. Please review it.\n\n—Air Messiah\"",
+      "text": "\"That is all. Please review it. —Air \nMessiah\"",
       "choice_data_list": [
-        "...We exchange daily reports like that every day."
+        "...We exchange daily reports like that \nevery day."
       ]
     },
     {
@@ -30,43 +30,43 @@
     },
     {
       "name": "Narrator",
-      "text": "\"How do you communicate with your trainee?\"\nWhen asked, I answered... but my colleague just tilted her head in confusion with a puzzled \"hmmm.\"",
+      "text": "\"How do you communicate with your \ntrainee?\" When asked, I answered... but my \ncolleague just tilted her head in \nconfusion with a puzzled \"hmmm.\"",
       "choice_data_list": [
         "W-What, is something wrong?"
       ]
     },
     {
       "name": "Rookie Trainer A",
-      "text": "Ah, I totally think it's fine, it's super clear!\nI get that it's super important information to share, but... uuum.",
+      "text": "Ah, I totally think it's fine, it's super \nclear! I get that it's super important \ninformation to share, but... uuum.",
       "choice_data_list": []
     },
     {
       "name": "Rookie Trainer A",
-      "text": "She's your trainee, right? Couldn't you be\na little more casual with each other?",
+      "text": "She's your trainee, right? Couldn't you be \na little more casual with each other?",
       "choice_data_list": []
     },
     {
       "name": "Rookie Trainer A",
-      "text": "You know, sometimes being closer makes it way easier\nto ask for advice and stuff!",
+      "text": "You know, sometimes being closer makes it \nway easier to ask for advice and stuff!",
       "choice_data_list": [
         "...That's true..."
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"While having serious exchanges as a matter of routine is all well and good... it's not ideal if it creates distance or makes me seem unapproachable for consultations.\"",
+      "text": "\"While having serious exchanges as a \nmatter of routine is all well and good... \nit's not ideal if it creates distance or \nmakes me seem unapproachable for \nconsultations.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Air Messiah is already dependable enough on her own.\nI need to make the effort to become someone she feels comfortable relying on.\"",
+      "text": "\"Air Messiah is already dependable enough \non her own. I need to make the effort to \nbecome someone she feels comfortable \nrelying on.\"",
       "choice_data_list": [
-        "Still... breaking, huh? Will it really break... hmm..."
+        "Still... breaking, huh? Will it really \nbreak... hmm..."
       ]
     },
     {
       "name": "Rookie Trainer A",
-      "text": "Well! This is just how we did it at my place, but—",
+      "text": "Well! This is just how we did it at my \nplace, but—",
       "choice_data_list": []
     },
     {
@@ -76,12 +76,12 @@
     },
     {
       "name": "Narrator",
-      "text": "And... on the following Saturday,\nexactly five minutes before the meetup time.",
+      "text": "And... on the following Saturday, exactly \nfive minutes before the meetup time.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "Ah... good morning.\nDid you just arrive?",
+      "text": "Ah... good morning. Did you just arrive?",
       "choice_data_list": [
         "Yeah, you too?",
         "Yeah, you too?"
@@ -89,12 +89,12 @@
     },
     {
       "name": "Air Messiah",
-      "text": "Yes. ...Fufu, it almost feels as if right now is the meeting time.",
+      "text": "Yes. ...Fufu, it almost feels as if right \nnow is the meeting time.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "It's a little early, but shall we get going?\nTo scout out the Hanshin Racecourse.",
+      "text": "It's a little early, but shall we get \ngoing? To scout out the Hanshin \nRacecourse.",
       "choice_data_list": [
         "Ah...!",
         "Yeah...!"
@@ -102,25 +102,25 @@
     },
     {
       "name": "Narrator",
-      "text": "\"Yes. My colleague suggested 'a trip for the two of us.'\n...As an excuse, it was quite premature, but\nI framed it as scouting ahead for next year's Oka Sho.\"",
+      "text": "\"Yes. My colleague suggested 'a trip for \nthe two of us.' ...As an excuse, it was \nquite premature, but I framed it as \nscouting ahead for next year's Oka Sho.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Regardless, spending that extraordinary time together\nseemed to bring my colleague and their Umamusume\na lot closer.",
+      "text": "Regardless, spending that extraordinary \ntime together seemed to bring my colleague \nand their Umamusume a lot closer.",
       "choice_data_list": []
     },
     {
       "name": "Rookie Trainer A",
-      "text": "\"When you go out on a date, you know, you both\ndress up all nice first, right?\nThat special feeling is what—\"",
+      "text": "\"When you go out on a date, you know, you \nboth dress up all nice first, right? That \nspecial feeling is what—\"",
       "choice_data_list": [
-        "...Even though it's Saturday, you're wearing your uniform?",
-        "...Even though it's Saturday, you're wearing your uniform?"
+        "...Even though it's Saturday, you're \nwearing your uniform?",
+        "...Even though it's Saturday, you're \nwearing your uniform?"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "Huh? Well, since you said it was a preliminary inspection,\nI thought formal attire would be appropriate...",
+      "text": "Huh? Well, since you said it was a \npreliminary inspection, I thought formal \nattire would be appropriate...",
       "choice_data_list": []
     },
     {
@@ -130,88 +130,88 @@
     },
     {
       "name": "Air Messiah",
-      "text": "Still, you're wearing a suit too, Trainer... right?",
+      "text": "Still, you're wearing a suit too, \nTrainer... right?",
       "choice_data_list": [
-        "(Yeah, that's right, it just completely slipped my mind...)",
-        "(Yeah, that's right, it just completely slipped my mind...)"
+        "(Yeah, that's right, it just completely \nslipped my mind...)",
+        "(Yeah, that's right, it just completely \nslipped my mind...)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "...Maybe using 'scouting the racecourse' as an excuse was a bad idea. Both she and I ended up wearing surprisingly formal clothes.",
+      "text": "...Maybe using 'scouting the racecourse' \nas an excuse was a bad idea. Both she and \nI ended up wearing surprisingly formal \nclothes.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Regretting the setup at this point was too late――",
+      "text": "Regretting the setup at this point was too \nlate――",
       "choice_data_list": []
     },
     {
       "name": "Rookie Trainer A",
-      "text": "\"On the bullet train, we can chat away!\nLet's bring a whole bunch of snacks and share everything!\"",
+      "text": "\"On the bullet train, we can chat away! \nLet's bring a whole bunch of snacks and \nshare everything!\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "Since this will be your pre-race meal,\nI prepared a boxed lunch with that in mind\nfor you to eat in the car while we travel.",
+      "text": "Since this will be your pre-race meal, I \nprepared a boxed lunch with that in mind \nfor you to eat in the car while we travel.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Would you mind checking this over for me\nto see if the nutrition is well-balanced?\"",
+      "text": "\"Would you mind checking this over for me \nto see if the nutrition is well-balanced?\"",
       "choice_data_list": [
         "O-Of course...!"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "Thank you very much.\nPlease, do not hesitate to share your candid feedback.",
+      "text": "Thank you very much. Please, do not \nhesitate to share your candid feedback.",
       "choice_data_list": []
     },
     {
       "name": "Rookie Trainer A",
-      "text": "\"The main event has gotta be sightseeing! Let's hit up all the places we both love and get hyped for, spending every single minute we've got!\"",
+      "text": "\"The main event has gotta be sightseeing! \nLet's hit up all the places we both love \nand get hyped for, spending every single \nminute we've got!\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "From Nigawa Station on the Hankyu Imazu Line, it's about\n5 minutes via the underground walkway...\nAs expected, this seems to be the standard route.",
+      "text": "From Nigawa Station on the Hankyu Imazu \nLine, it's about 5 minutes via the \nunderground walkway... As expected, this \nseems to be the standard route.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"However, we must also consider potential issues on race day, such as train delays—\"",
+      "text": "\"However, we must also consider potential \nissues on race day, such as train delays—\"",
       "choice_data_list": [
-        "Maybe we should consider a bus-focused route as well"
+        "Maybe we should consider a bus-focused \nroute as well"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "Indeed, gladly. Let us start over\nfrom the inn once more.",
+      "text": "Indeed, gladly. Let us start over from the \ninn once more.",
       "choice_data_list": [
         "(...Wait, is this \"sightseeing\"...?)"
       ]
     },
     {
       "name": "Rookie Trainer A",
-      "text": "\"‘They're a student, so you have to keep that in mind, but staying up just a tiny bit later than usual is totally recommended! We played games together and stuff~’\"",
+      "text": "\"‘They're a student, so you have to keep \nthat in mind, but staying up just a tiny \nbit later than usual is totally \nrecommended! We played games together and \nstuff~’\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"—With this report concluded,\nthis will serve as today's daily report email.\"",
+      "text": "\"—With this report concluded, this will \nserve as today's daily report email.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "And... since we're in the dorms, it's almost curfew.\nExcuse me, I'll head back to my room first.",
+      "text": "And... since we're in the dorms, it's \nalmost curfew. Excuse me, I'll head back \nto my room first.",
       "choice_data_list": [
         "Y-You're fast."
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "Yes, I'd like to make a bit more progress on\npreparing for next week's classes... Trainer,\nplease feel free to relax and take your time.",
+      "text": "Yes, I'd like to make a bit more progress \non preparing for next week's classes... \nTrainer, please feel free to relax and \ntake your time.",
       "choice_data_list": []
     },
     {
@@ -221,21 +221,21 @@
     },
     {
       "name": "Rookie Trainer A",
-      "text": "...Eh. So the trip was seriously\njust meant for scouting the course like that...!?",
+      "text": "...Eh. So the trip was seriously just \nmeant for scouting the course like \nthat...!?",
       "choice_data_list": [
-        "I'm sorry, after you went out of your way to suggest it..."
+        "I'm sorry, after you went out of your way \nto suggest it..."
       ]
     },
     {
       "name": "Rookie Trainer A",
-      "text": "N-No, no, you don't need to apologize at all!\nWhaaat, is thaaat... so...?",
+      "text": "N-No, no, you don't need to apologize at \nall! Whaaat, is thaaat... so...?",
       "choice_data_list": []
     },
     {
       "name": "Rookie Trainer A",
-      "text": "Wait, by the way, what are you writing there?\n...Whoa, that's a really detailed report!",
+      "text": "Wait, by the way, what are you writing \nthere? ...Whoa, that's a really detailed \nreport!",
       "choice_data_list": [
-        "I thought I'd at least put together what I found from scouting..."
+        "I thought I'd at least put together what I \nfound from scouting..."
       ]
     },
     {
@@ -245,19 +245,19 @@
     },
     {
       "name": "Narrator",
-      "text": "The main goal was supposed to be \"closing the distance\"...\nYet when it comes to \"scouting the racetrack,\"\nI can't help but scout it completely seriously.",
+      "text": "The main goal was supposed to be \"closing \nthe distance\"... Yet when it comes to \n\"scouting the racetrack,\" I can't help but \nscout it completely seriously.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "On top of that, since we went together, I even ended up putting together a full summary report.\nThis wasn't supposed to happen, and yet...",
+      "text": "On top of that, since we went together, I \neven ended up putting together a full \nsummary report. This wasn't supposed to \nhappen, and yet...",
       "choice_data_list": [
         "…Done. For now, I'll send it—"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "！　……？",
+      "text": "！ ……？",
       "choice_data_list": []
     },
     {
@@ -272,65 +272,65 @@
     },
     {
       "name": "Air Messiah",
-      "text": "Hello, Trainer-san.\nI look forward to working with you today as well.",
+      "text": "Hello, Trainer-san. I look forward to \nworking with you today as well.",
       "choice_data_list": [
         "Please. Well then, the meeting—"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "Ah, excuse me, before we begin...\n...There is one thing I would like to say to you once more.",
+      "text": "Ah, excuse me, before we begin... ...There \nis one thing I would like to say to you \nonce more.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "Here's the scouting report on Hanshin Racecourse.\nThank you very much for putting it together so thoroughly.",
+      "text": "Here's the scouting report on Hanshin \nRacecourse. Thank you very much for \nputting it together so thoroughly.",
       "choice_data_list": [
         "! W-wait, um, that was——"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "\"I looked over it thoroughly.\n...It gave me a truly reassuring feeling.\"",
+      "text": "\"I looked over it thoroughly. ...It gave \nme a truly reassuring feeling.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"With this, I'm sure everything will be just fine during the actual Oka Sho, no matter what happens.\"",
+      "text": "\"With this, I'm sure everything will be \njust fine during the actual Oka Sho, no \nmatter what happens.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "Because together with you, we were able to prepare\nso solidly and steadily like this.",
+      "text": "Because together with you, we were able to \nprepare so solidly and steadily like this.",
       "choice_data_list": [
         "……！"
       ]
     },
     {
       "name": "Air Messiah",
-      "text": "Trainer. I was able to reflect upon and cherish\nthe feelings I had when we first signed our contract.",
+      "text": "Trainer. I was able to reflect upon and \ncherish the feelings I had when we first \nsigned our contract.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "I'm so glad that the one\nwho teamed up with me was you.",
+      "text": "I'm so glad that the one who teamed up \nwith me was you.",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "...Because you treasure the very same things\nI do.",
+      "text": "...Because you treasure the very same \nthings I do.",
       "choice_data_list": [
         "Messiah..."
       ]
     },
     {
       "name": "Narrator",
-      "text": "The tension that had gripped both my shoulders... suddenly fades away.",
+      "text": "The tension that had gripped both my \nshoulders... suddenly fades away.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Eccentric, perhaps.\nMaybe even a little amusing.\nThe relationship between her and me.",
+      "text": "Eccentric, perhaps. Maybe even a little \namusing. The relationship between her and \nme.",
       "choice_data_list": [
         "(Even so. ...No, this is fine.)"
       ]
@@ -342,12 +342,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Looking at her smiling face,\nI felt more certain of it than ever before...",
+      "text": "Looking at her smiling face, I felt more \ncertain of it than ever before...",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "I'm sorry for interrupting.\nShall we start the meeting?",
+      "text": "I'm sorry for interrupting. Shall we start \nthe meeting?",
       "choice_data_list": [
         "...Sorry, can I ask something too?",
         "...Sorry, may I ask something too?"
@@ -357,7 +357,7 @@
       "name": "Air Messiah",
       "text": "? Yes, here you go.",
       "choice_data_list": [
-        "Mind if I tweak the daily report template a bit?"
+        "Mind if I tweak the daily report template \na bit?"
       ]
     },
     {
@@ -367,17 +367,17 @@
     },
     {
       "name": "Air Messiah",
-      "text": "\"Dear Trainer <username>,\n\nThank you for your hard work. Here is my daily report for today.\"",
+      "text": "\"Dear Trainer <username>, Thank you for your hard \nwork. Here is my daily report for today.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Health status: 37.9°C (normal), no body pain.\nMeals: Attached records for 3 meals + 1 snack.\"",
+      "text": "\"Health status: 37.9°C (normal), no body \npain. Meals: Attached records for 3 meals \n+ 1 snack.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"Voluntary Training Report: 1200m turf x 2 (Noon),\n1600m woodchip x 3 (Evening)\"",
+      "text": "\"Voluntary Training Report: 1200m turf x 2 \n(Noon), 1600m woodchip x 3 (Evening)\"",
       "choice_data_list": []
     },
     {
@@ -387,17 +387,17 @@
     },
     {
       "name": "Air Messiah",
-      "text": "\"As I ran today, I pictured the Hanshin Racecourse in my mind.\nThank you for such a meaningful Saturday.\"",
+      "text": "\"As I ran today, I pictured the Hanshin \nRacecourse in my mind. Thank you for such \na meaningful Saturday.\"",
       "choice_data_list": []
     },
     {
       "name": "Air Messiah",
-      "text": "\"That is all. Please review it.\n\n—Air Messiah\"",
+      "text": "\"That is all. Please review it. —Air \nMessiah\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Air Messiah,\n\nThank you for the daily report. Acknowledged.\"",
+      "text": "\"Air Messiah, Thank you for the daily \nreport. Acknowledged.\"",
       "choice_data_list": []
     },
     {
@@ -409,14 +409,14 @@
     },
     {
       "name": "Narrator",
-      "text": "\"I type, 'I look forward to continuing to work with you,'\nand click send.\nThen, I lean back lightly against my chair and stretch.\"",
+      "text": "\"I type, 'I look forward to continuing to \nwork with you,' and click send. Then, I \nlean back lightly against my chair and \nstretch.\"",
       "choice_data_list": [
         "Alright... let's give it our best!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "We'll keep taking earnest steps forward, true to who we are.\n...With that thought, we renewed our determination.",
+      "text": "We'll keep taking earnest steps forward, \ntrue to who we are. ...With that thought, \nwe renewed our determination.",
       "choice_data_list": []
     }
   ]

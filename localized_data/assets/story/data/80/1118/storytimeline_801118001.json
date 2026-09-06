@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Café Clerk",
-      "text": "—I am terribly sorry. Our window-side seats\nare fully booked for today...",
+      "text": "—I am terribly sorry. Our window-side \nseats are fully booked for today...",
       "choice_data_list": []
     },
     {
       "name": "Café Clerk",
-      "text": "How about a terrace seat instead?\nIt's a dog-friendly area, so if you don't mind that...",
+      "text": "How about a terrace seat instead? It's a \ndog-friendly area, so if you don't mind \nthat...",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Woman Walking a Dog",
-      "text": "Alright, I'm gonna run to the restroom real quick.\nStay, okay? Be a good girl and wait right here!",
+      "text": "Alright, I'm gonna run to the restroom \nreal quick. Stay, okay? Be a good girl and \nwait right here!",
       "choice_data_list": []
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...\n......Looking at me like that won't get you headpats.",
+      "text": "... ......Looking at me like that won't \nget you headpats.",
       "choice_data_list": []
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "name": "Woman Walking a Dog",
-      "text": "I'm home~! Wait... Ah! I-I'm so sorry! Did my girl cause trouble for you...?!",
+      "text": "I'm home~! Wait... Ah! I-I'm so sorry! Did \nmy girl cause trouble for you...?!",
       "choice_data_list": []
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "name": "",
-      "text": "On our day off, as I waited to meet up with\n<chrname> in front of the station……",
+      "text": "On our day off, as I waited to meet up \nwith <chrname> in front of the station……",
       "choice_data_list": []
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "name": "Fundraising Man",
-      "text": "Here are some photos of our rescue dogs as a thank-you!\nPlease feel free to pick whichever one you like best.",
+      "text": "Here are some photos of our rescue dogs as \na thank-you! Please feel free to pick \nwhichever one you like best.",
       "choice_data_list": []
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...\n...Well then, I'll take the one that golden girl is having.",
+      "text": "... ...Well then, I'll take the one that \ngolden girl is having.",
       "choice_data_list": []
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "name": "",
-      "text": "A few days after that incident, I picked up a photo of a Golden Retriever in the hallway. Thinking it might belong to Admire Groove, I brought it to her.",
+      "text": "A few days after that incident, I picked \nup a photo of a Golden Retriever in the \nhallway. Thinking it might belong to \nAdmire Groove, I brought it to her.",
       "choice_data_list": []
     },
     {
@@ -113,7 +113,7 @@
       "text": "! That is……",
       "choice_data_list": [
         "You really like dogs, don't you?",
-        "I saw you donating earlier. That was very sweet of you."
+        "I saw you donating earlier. That was very \nsweet of you."
       ]
     },
     {
@@ -125,19 +125,19 @@
     },
     {
       "name": "Admire Groove",
-      "text": "That isn't mine either.\n...Excuse me.",
+      "text": "That isn't mine either. ...Excuse me.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "...The loose change was getting in the way, that's all.\nNo other motive behind it—",
+      "text": "...The loose change was getting in the \nway, that's all. No other motive behind \nit—",
       "choice_data_list": [
         "Ah! I have to go now... Here, take this!"
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "...\n......It came back.",
+      "text": "... ......It came back.",
       "choice_data_list": []
     }
   ]

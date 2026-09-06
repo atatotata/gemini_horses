@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Matikanetannhauser was injured during training,\r\nso we rushed over to the infirmary.",
+      "text": "Matikanetannhauser was injured during \ntraining, so we rushed over to the \ninfirmary.",
       "choice_data_list": []
     },
     {
@@ -13,30 +13,30 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "With this injury, I'll have to take a break from training\r\nfor a while, won't I... Mmm-mmm...",
+      "text": "With this injury, I'll have to take a \nbreak from training for a while, won't \nI... Mmm-mmm...",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "...Um, I can bear a little pain,\r\nso can't I please train...?",
+      "text": "...Um, I can bear a little pain, so can't \nI please train...?",
       "choice_data_list": [
-        "Let's pause for a moment so that you can keep running in the long run.",
+        "Let's pause for a moment so that you can \nkeep running in the long run.",
         "Shall we explore what options we have?"
       ]
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Hau... You're right...\r\nIt's dangerous to push myself too hard, after all...",
+      "text": "Hau... You're right... It's dangerous to \npush myself too hard, after all...",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "\"All I can do right now\r\nis heal my injury quickly...\nI'll be on my best behavior today...\"",
+      "text": "\"All I can do right now is heal my injury \nquickly... I'll be on my best behavior \ntoday...\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Matikanetannhauser spoke with disappointment\r\nand returned to the dorms.",
+      "text": "Matikanetannhauser spoke with \ndisappointment and returned to the dorms.",
       "choice_data_list": []
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "All right, let's head out to the track right away and see if there's anything we can do!",
+      "text": "All right, let's head out to the track \nright away and see if there's anything we \ncan do!",
       "choice_data_list": []
     },
     {
@@ -56,32 +56,32 @@
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Gaaah... It's no good...\nThe moment I put any strength into it, it throbs with sharp pain.",
+      "text": "Gaaah... It's no good... The moment I put \nany strength into it, it throbs with sharp \npain.",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "\"Looks like all I can do right now\r\nis rest... Sigh...\"",
+      "text": "\"Looks like all I can do right now is \nrest... Sigh...\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Looking like she was in pain, Matikanetannhauser\r\nslowly made her way back to the dorm.",
+      "text": "Looking like she was in pain, \nMatikanetannhauser slowly made her way \nback to the dorm.",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "—Phew!\nAs long as I don't go at a full sprint, it seems I'll be fine!",
+      "text": "—Phew! As long as I don't go at a full \nsprint, it seems I'll be fine!",
       "choice_data_list": []
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Looks like we can manage training like this until it's fully healed!\nWhew, what a relief!",
+      "text": "Looks like we can manage training like \nthis until it's fully healed! Whew, what a \nrelief!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Mindful of her injury, Matikanetannhauser\r\ntrained reasonably within her limits.",
+      "text": "Mindful of her injury, Matikanetannhauser \ntrained reasonably within her limits.",
       "choice_data_list": []
     }
   ]

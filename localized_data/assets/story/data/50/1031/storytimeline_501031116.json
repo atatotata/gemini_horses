@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Doctor",
-      "text": "...The swelling in your leg is concerning.\r\nWhy don't you take a break for a little while?",
+      "text": "...The swelling in your leg is concerning. \nWhy don't you take a break for a little \nwhile?",
       "choice_data_list": []
     },
     {
       "name": "Doctor",
-      "text": "We've done a general check on everything else, too,\nand there don't seem to be any major problems.\nWell, we just need to keep an eye on things.",
+      "text": "We've done a general check on everything \nelse, too, and there don't seem to be any \nmajor problems. Well, we just need to keep \nan eye on things.",
       "choice_data_list": [
         "...Thank goodness."
       ]
@@ -35,189 +35,189 @@
     },
     {
       "name": "Ines Fujin",
-      "text": "Dad and Mom are sending way too many messages...",
+      "text": "Dad and Mom are sending way too many \nmessages...",
       "choice_data_list": [
         "I was just that worried about you."
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "...Ahaha. I guess that makes sense.\r\nYour daughter being rushed to the hospital right after the Derby,\nafter all.",
+      "text": "...Ahaha. I guess that makes sense. Your \ndaughter being rushed to the hospital \nright after the Derby, after all.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Since her family had come to cheer her on at the Derby, they have already been contacted about the situation.",
+      "text": "Since her family had come to cheer her on \nat the Derby, they have already been \ncontacted about the situation.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I explained to her family that it wasn't anything serious\r\nand took over looking after her, but...\nthey must have been worried the entire time.",
+      "text": "I explained to her family that it wasn't \nanything serious and took over looking \nafter her, but... they must have been \nworried the entire time.",
       "choice_data_list": [
-        "How about heading home next time you get some time off?",
-        "How about visiting home next time you take a break?"
+        "How about heading home next time you get \nsome time off?",
+        "How about visiting home next time you take \na break?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "...Hmm, yeah, you're right.\nIt might be more reassuring to show our faces in person.",
+      "text": "...Hmm, yeah, you're right. It might be \nmore reassuring to show our faces in \nperson.",
       "choice_data_list": [
-        "You should head home and do the big-sister thing for a change.",
-        "Why don't you go home and be a big sister for a change?"
+        "You should head home and do the big-sister \nthing for a change.",
+        "Why don't you go home and be a big sister \nfor a change?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Totally! Resting your legs sounds like it'd get super boring with nothing to do~",
+      "text": "Totally! Resting your legs sounds like \nit'd get super boring with nothing to do~",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "And in the meantime, Trainer,\r\nyou think up the training for our next goal, the \"Kikuka Sho\"!\nI'm counting on you!",
+      "text": "And in the meantime, Trainer, you think up \nthe training for our next goal, the \n\"Kikuka Sho\"! I'm counting on you!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "“—And so, I submitted a leave request\r\nand decided to let her rest at her family home for about a week.”",
+      "text": "“—And so, I submitted a leave request and \ndecided to let her rest at her family home \nfor about a week.”",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer, you'd better not eat anything weird\njust because I'm not around, okay?",
+      "text": "Trainer, you'd better not eat anything \nweird just because I'm not around, okay?",
       "choice_data_list": [
         "I won't eat it, I swear!!"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Ehh, really~?\r\nThen I'm off-nano!",
+      "text": "Ehh, really~? Then I'm off-nano!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, I watched until the train\ncarrying Ines Fujin departed from the station.",
+      "text": "And so, I watched until the train carrying \nInes Fujin departed from the station.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "When I returned to the trainer's office,\nthe room that had been cluttered with Derby materials\nuntil recently was now tidy and clean.",
+      "text": "When I returned to the trainer's office, \nthe room that had been cluttered with \nDerby materials until recently was now \ntidy and clean.",
       "choice_data_list": [
         "…I wonder if Aines cleaned up for me"
       ]
     },
     {
       "name": "Narrator",
-      "text": "I think things over on my cleared-off desk.",
+      "text": "I think things over on my cleared-off \ndesk.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The final leg of the Classic Triple Crown, the Kikuka-sho, is a 3,000-meter stamina contest. If Ines Fujin challenges it—",
+      "text": "The final leg of the Classic Triple Crown, \nthe Kikuka-sho, is a 3,000-meter stamina \ncontest. If Ines Fujin challenges it—",
       "choice_data_list": []
     },
     {
       "name": "School Nurse",
-      "text": "\"...There is a concern\nthat her body might not be able to hold out.\"",
+      "text": "\"...There is a concern that her body might \nnot be able to hold out.\"",
       "choice_data_list": [
         "...Yes."
       ]
     },
     {
       "name": "School Nurse",
-      "text": "\"...Indeed. How she looked after the Derby had the Academy staff worried as well.\"",
+      "text": "\"...Indeed. How she looked after the Derby \nhad the Academy staff worried as well.\"",
       "choice_data_list": []
     },
     {
       "name": "School Nurse",
-      "text": "More support will surely be needed. Her physical condition is one thing, but I'm especially worried about her mental balance.",
+      "text": "More support will surely be needed. Her \nphysical condition is one thing, but I'm \nespecially worried about her mental \nbalance.",
       "choice_data_list": [
         "The heart?"
       ]
     },
     {
       "name": "School Nurse",
-      "text": "Yes. When you push your body too hard,\r\nyour mind begins to fray as well.",
+      "text": "Yes. When you push your body too hard, \nyour mind begins to fray as well.",
       "choice_data_list": []
     },
     {
       "name": "School Nurse",
-      "text": "Please watch over her even more attentively\r\nthan ever before, okay?",
+      "text": "Please watch over her even more \nattentively than ever before, okay?",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "Ah, Trainer!\r\nI'm home!",
+      "text": "Ah, Trainer! I'm home!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "A week flew by in no time.\r\nAfter an examination at the hospital, there seemed to be no issue with resuming training, but—",
+      "text": "A week flew by in no time. After an \nexamination at the hospital, there seemed \nto be no issue with resuming training, \nbut—",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "Trainer!\r\nI have something reaaally important to tell you!!",
+      "text": "Trainer! I have something reaaally \nimportant to tell you!!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The moment she arrived at the gym,\nshe leaned forward and broke the silence.",
+      "text": "The moment she arrived at the gym, she \nleaned forward and broke the silence.",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "Hey. For my upcoming races,\ncan I aim for a more efficient running style?",
+      "text": "Hey. For my upcoming races, can I aim for \na more efficient running style?",
       "choice_data_list": [
         "An efficient way of running?"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "Yeah. Um, you know how...\r\nI completely passed out after the Derby, right?",
+      "text": "Yeah. Um, you know how... I completely \npassed out after the Derby, right?",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "\"That's why I want to make sure this doesn't happen next time.\r\n...I want to avoid getting exhausted.\"",
+      "text": "\"That's why I want to make sure this \ndoesn't happen next time. ...I want to \navoid getting exhausted.\"",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "Like... blazing a brand new trail for my running!\nWhat do you think!?",
+      "text": "Like... blazing a brand new trail for my \nrunning! What do you think!?",
       "choice_data_list": [
         "……！"
       ]
     },
     {
       "name": "Narrator",
-      "text": "What she approached me with\r\nwas an opportunity I couldn't have even dreamed of asking for.",
+      "text": "What she approached me with was an \nopportunity I couldn't have even dreamed \nof asking for.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Some Umamusume have an extremely hard time changing their familiar running style.\r\nBecause of that, you must be prepared for a long battle, but...",
+      "text": "Some Umamusume have an extremely hard time \nchanging their familiar running style. \nBecause of that, you must be prepared for \na long battle, but...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "If it can lessen the burden on her body,\r\nwe should definitely give it a try.",
+      "text": "If it can lessen the burden on her body, \nwe should definitely give it a try.",
       "choice_data_list": [
-        "Sounds great! Let's try it at the training camp too!"
+        "Sounds great! Let's try it at the training \ncamp too!"
       ]
     },
     {
       "name": "Ines Fujin",
-      "text": "...! Yeah!\nPlease take care of updating the menu too!",
+      "text": "...! Yeah! Please take care of updating \nthe menu too!",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "With this, even more.\r\nIf my body can move whenever I want it to...",
+      "text": "With this, even more. If my body can move \nwhenever I want it to...",
       "choice_data_list": []
     },
     {
       "name": "Ines Fujin",
-      "text": "...Um, Boss.\r\nThere's something I'd like to consult you about.",
+      "text": "...Um, Boss. There's something I'd like to \nconsult you about.",
       "choice_data_list": []
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "name": "Narrator",
-      "text": "“—Summer training camp season is just around the corner.\nI need to come up with new training for her before then.”",
+      "text": "“—Summer training camp season is just \naround the corner. I need to come up with \nnew training for her before then.”",
       "choice_data_list": []
     },
     {

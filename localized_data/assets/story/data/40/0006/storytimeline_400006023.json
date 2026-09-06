@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "We spent the entire day at the hospital\nputting <chrname> through a detailed examination.",
+      "text": "We spent the entire day at the hospital \nputting <chrname> through a detailed examination.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "As a result, no specific injuries were found.\nHer disordered stride after returning to Japan\nwas apparently caused by sheer fatigue.",
+      "text": "As a result, no specific injuries were \nfound. Her disordered stride after \nreturning to Japan was apparently caused \nby sheer fatigue.",
       "choice_data_list": []
     },
     {
@@ -18,19 +18,19 @@
     },
     {
       "name": "",
-      "text": "As I made my way to the hospital waiting room,\na familiar figure came rushing in.",
+      "text": "As I made my way to the hospital waiting \nroom, a familiar figure came rushing in.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "\"I had informed Mei Satake that I was getting examined today.\nI intended to call and report to her after leaving the hospital, but...\"",
+      "text": "\"I had informed Mei Satake that I was \ngetting examined today. I intended to call \nand report to her after leaving the \nhospital, but...\"",
       "choice_data_list": [
         "Did you come all this way for me?"
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "\"...Ah, yeah.\nI wanted to ask you directly.\"",
+      "text": "\"...Ah, yeah. I wanted to ask you \ndirectly.\"",
       "choice_data_list": []
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "As per your instructions, I have compiled\na list of the medical checkup statuses for each Umamusume.",
+      "text": "As per your instructions, I have compiled \na list of the medical checkup statuses for \neach Umamusume.",
       "choice_data_list": []
     },
     {
@@ -55,22 +55,22 @@
     },
     {
       "name": "Mei Satake",
-      "text": "—After returning to Japan,\nfive Umamusume showed abnormalities in their running.",
+      "text": "—After returning to Japan, five Umamusume \nshowed abnormalities in their running.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Of those, three Umamusume visited the infirmary and were examined at a hospital.",
+      "text": "Of those, three Umamusume visited the \ninfirmary and were examined at a hospital.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "In addition, while there were no issues in\ntraining, six Umamusume have shown a drop\nin condition since their last race...",
+      "text": "In addition, while there were no issues in \ntraining, six Umamusume have shown a drop \nin condition since their last race...",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "At the moment, everyone, including <chrname>,\nis on the road to recovery... but.",
+      "text": "At the moment, everyone, including <chrname>, is on \nthe road to recovery... but.",
       "choice_data_list": []
     },
     {
@@ -85,12 +85,12 @@
     },
     {
       "name": "Mei Satake",
-      "text": "Based on past experience, I should have seen the possibility.\n...I could have prevented this.",
+      "text": "Based on past experience, I should have \nseen the possibility. ...I could have \nprevented this.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "In a situation where a level head was crucial,\nthe one who failed to avoid that risk\n—...was me.",
+      "text": "In a situation where a level head was \ncrucial, the one who failed to avoid that \nrisk —...was me.",
       "choice_data_list": []
     },
     {
@@ -105,12 +105,12 @@
     },
     {
       "name": "Mei Satake",
-      "text": "...From Yayoi, huh.\nHa ha. Did she hear about that matter already?",
+      "text": "...From Yayoi, huh. Ha ha. Did she hear \nabout that matter already?",
       "choice_data_list": []
     },
     {
       "name": "URA Director",
-      "text": "\"Satake-kun. Am I right in assuming you'll continue focusing on Tracen Academy's overseas expeditions next year?\"",
+      "text": "\"Satake-kun. Am I right in assuming you'll \ncontinue focusing on Tracen Academy's \noverseas expeditions next year?\"",
       "choice_data_list": []
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "name": "Mei Satake",
-      "text": "...Could I have a moment\nof your time?",
+      "text": "...Could I have a moment of your time?",
       "choice_data_list": []
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "name": "Mei Satake",
-      "text": "...What if next year, another Umamusume\nbecomes unable to run? ...Because of me.",
+      "text": "...What if next year, another Umamusume \nbecomes unable to run? ...Because of me.",
       "choice_data_list": []
     },
     {
@@ -147,24 +147,24 @@
     },
     {
       "name": "",
-      "text": "It happened on the way back\nafter running an errand in the neighboring town.",
+      "text": "It happened on the way back after running \nan errand in the neighboring town.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "...!\nTrainer <username>...",
+      "text": "...! Trainer <username>...",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
       "text": "What about <chrname>?",
       "choice_data_list": [
-        "To the academy. You're heading back there too, right, Satake-san?"
+        "To the academy. You're heading back there \ntoo, right, Satake-san?"
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "\"...Ah, yeah.\nThat's true.......\"",
+      "text": "\"...Ah, yeah. That's true.......\"",
       "choice_data_list": []
     },
     {
@@ -176,21 +176,21 @@
     },
     {
       "name": "Mei Satake",
-      "text": "\"...Trainer <username>.\nI'm sorry.\"",
+      "text": "\"...Trainer <username>. I'm sorry.\"",
       "choice_data_list": [
         "Huh?"
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "Please, let me apologize.\nEven though I was entrusted with your precious Umamusume, I allowed her condition to deteriorate.",
+      "text": "Please, let me apologize. Even though I \nwas entrusted with your precious \nUmamusume, I allowed her condition to \ndeteriorate.",
       "choice_data_list": [
         "That's..."
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "...You must have panicked, too.\nOn that day, right after returning home, when <chrname>\nsuddenly couldn't run anymore.",
+      "text": "...You must have panicked, too. On that \nday, right after returning home, when <chrname> \nsuddenly couldn't run anymore.",
       "choice_data_list": []
     },
     {
@@ -200,49 +200,49 @@
     },
     {
       "name": "Mei Satake",
-      "text": "Taking on challenges overseas comes with immense stress.\nLong flights, unfamiliar lands, and the tension unique to playing away from home.",
+      "text": "Taking on challenges overseas comes with \nimmense stress. Long flights, unfamiliar \nlands, and the tension unique to playing \naway from home.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "And to run on such demanding turf,\ngetting her body into peak condition\nshould have been the top priority above all else.",
+      "text": "And to run on such demanding turf, getting \nher body into peak condition should have \nbeen the top priority above all else.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "More than that,\nI prioritized pushing you all to your limits.",
+      "text": "More than that, I prioritized pushing you \nall to your limits.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Blinded and carried away by the hope of a historic first victory.\nEven though I was the one in charge.",
+      "text": "Blinded and carried away by the hope of a \nhistoric first victory. Even though I was \nthe one in charge.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "\"I prioritized my own dream over your future.\"",
+      "text": "\"I prioritized my own dream over your \nfuture.\"",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "\"...I forced my ego onto you\nand put you all in danger.\"",
+      "text": "\"...I forced my ego onto you and put you \nall in danger.\"",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Even now, I'm putting my own feelings first.\nVenting my complaints like this only puts you in a bind.",
+      "text": "Even now, I'm putting my own feelings \nfirst. Venting my complaints like this \nonly puts you in a bind.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "...Perhaps I was never cut out\nto be a leader in the first place.",
+      "text": "...Perhaps I was never cut out to be a \nleader in the first place.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
       "text": "Maybe it'd be better if I weren't around—",
       "choice_data_list": [
-        "Are you planning on quitting, by any chance?"
+        "Are you planning on quitting, by any \nchance?"
       ]
     },
     {
@@ -257,34 +257,34 @@
     },
     {
       "name": "Mei Satake",
-      "text": "...I don't want the dreams\nto fade from your eyes, either.",
+      "text": "...I don't want the dreams to fade from \nyour eyes, either.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "At some point, you all began holding joint training sessions of your own accord, didn't you?",
+      "text": "At some point, you all began holding joint \ntraining sessions of your own accord, \ndidn't you?",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "\"When I saw that, I felt happy from the bottom of my heart.\nThinking what a wonderful team it is.\"",
+      "text": "\"When I saw that, I felt happy from the \nbottom of my heart. Thinking what a \nwonderful team it is.\"",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "—Even though you can already\ndream all on your own now.",
+      "text": "—Even though you can already dream all on \nyour own now.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "\"...These hands have no right to tear it down.\nI'm already just a superfluous relic of the past—\"",
+      "text": "\"...These hands have no right to tear it \ndown. I'm already just a superfluous relic \nof the past—\"",
       "choice_data_list": [
         "...You're just looking away from reality."
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "...! No.\nThat would just be running away.",
+      "text": "...! No. That would just be running away.",
       "choice_data_list": [
         "Then please look straight at us!",
         "Then look right at us!"
@@ -292,12 +292,12 @@
     },
     {
       "name": "",
-      "text": "I grab Mei Satake's hand and take off running.",
+      "text": "I grab Mei Satake's hand and take off \nrunning.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Huh...? \nTrainer <username>...!?",
+      "text": "Huh...? Trainer <username>...!?",
       "choice_data_list": []
     },
     {
@@ -307,17 +307,17 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Want to go for one more?\nSatono.",
+      "text": "Want to go for one more? Satono.",
       "choice_data_list": []
     },
     {
       "name": "Satono Diamond",
-      "text": "\"...I'll go.\nI can do this!!\"",
+      "text": "\"...I'll go. I can do this!!\"",
       "choice_data_list": []
     },
     {
       "name": "Nakayama Festa",
-      "text": "Cafe. I borrowed some nail strengthener from Jordan.",
+      "text": "Cafe. I borrowed some nail strengthener \nfrom Jordan.",
       "choice_data_list": []
     },
     {
@@ -327,12 +327,12 @@
     },
     {
       "name": "Veteran Trainer",
-      "text": "We're starting core training now!\nAnyone who wants to join, head over to this floor!",
+      "text": "We're starting core training now! Anyone \nwho wants to join, head over to this \nfloor!",
       "choice_data_list": []
     },
     {
       "name": "El Condor Pasa",
-      "text": "Bueno! Sirius-senpai!\nLet's have a contest to see who can hold a plank the longest!",
+      "text": "Bueno! Sirius-senpai! Let's have a contest \nto see who can hold a plank the longest!",
       "choice_data_list": []
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "name": "Umamusume A",
-      "text": "Wait!\nWhoa, whoa, hold on, you two~!",
+      "text": "Wait! Whoa, whoa, hold on, you two~!",
       "choice_data_list": []
     },
     {
@@ -362,7 +362,7 @@
     },
     {
       "name": "Umamusume B",
-      "text": "Ah, Satake-san! Thanks for your hard work!\nDid you come to watch our training!?",
+      "text": "Ah, Satake-san! Thanks for your hard work! \nDid you come to watch our training!?",
       "choice_data_list": [
         "...They're calling for you, Ms. Satake."
       ]
@@ -379,62 +379,62 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...I look forward to working with you\nat next year's Prix de l'Arc de Triomphe, too...",
+      "text": "...I look forward to working with you at \nnext year's Prix de l'Arc de Triomphe, \ntoo...",
       "choice_data_list": []
     },
     {
       "name": "El Condor Pasa",
-      "text": "Me too! Me too!\nI'm definitely making the national team,\nso look forward to it, yeees!",
+      "text": "Me too! Me too! I'm definitely making the \nnational team, so look forward to it, \nyeees!",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Y-You guys...\nHowever, I—",
+      "text": "Y-You guys... However, I—",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "\"The kind of person who burdened you, prioritizing victory at the Prix de l'Arc de Triomphe over your future...\"",
+      "text": "\"The kind of person who burdened you, \nprioritizing victory at the Prix de l'Arc \nde Triomphe over your future...\"",
       "choice_data_list": []
     },
     {
       "name": "Nakayama Festa",
-      "text": "That's why you were able to put up a decent fight, right?",
+      "text": "That's why you were able to put up a \ndecent fight, right?",
       "choice_data_list": []
     },
     {
       "name": "Nakayama Festa",
-      "text": "Everyone knew. Just how obsessed you were with the Prix de l'Arc de Triomphe.",
+      "text": "Everyone knew. Just how obsessed you were \nwith the Prix de l'Arc de Triomphe.",
       "choice_data_list": []
     },
     {
       "name": "Nakayama Festa",
-      "text": "I jumped onto this project fully aware of that,\nbecause I want to win with you.",
+      "text": "I jumped onto this project fully aware of \nthat, because I want to win with you.",
       "choice_data_list": []
     },
     {
       "name": "Nakayama Festa",
-      "text": "\"...And because we believed we could win next time,\nwe're still standing right here today.\"",
+      "text": "\"...And because we believed we could win \nnext time, we're still standing right here \ntoday.\"",
       "choice_data_list": []
     },
     {
       "name": "Satono Diamond",
-      "text": "\"Me too! I admit there was a moment after returning to Japan where my condition dropped. But that was simply proof of my own weakness.\"",
+      "text": "\"Me too! I admit there was a moment after \nreturning to Japan where my condition \ndropped. But that was simply proof of my \nown weakness.\"",
       "choice_data_list": []
     },
     {
       "name": "Satono Diamond",
-      "text": "\"That's why we're preparing now, so it won't happen again next year!\"",
+      "text": "\"That's why we're preparing now, so it \nwon't happen again next year!\"",
       "choice_data_list": []
     },
     {
       "name": "Satono Diamond",
-      "text": "\"I believe that is precisely the meaning\nbehind continuing this project over the long term.\"",
+      "text": "\"I believe that is precisely the meaning \nbehind continuing this project over the \nlong term.\"",
       "choice_data_list": []
     },
     {
       "name": "Manhattan Cafe",
-      "text": "...Satake-san. You once said\nthat this project 'should be able to give a push\nto every Umamusume who dreamed of being the best in the world.'",
+      "text": "...Satake-san. You once said that this \nproject 'should be able to give a push to \nevery Umamusume who dreamed of being the \nbest in the world.'",
       "choice_data_list": []
     },
     {
@@ -452,17 +452,17 @@
     },
     {
       "name": "",
-      "text": "She reached out to me.\nBack when I was feeling inferior to the brilliance around me and on the verge of giving up.",
+      "text": "She reached out to me. Back when I was \nfeeling inferior to the brilliance around \nme and on the verge of giving up.",
       "choice_data_list": [
-        "\"Only those who never give up can rise to the challenge.\""
+        "\"Only those who never give up can rise to \nthe challenge.\""
       ]
     },
     {
       "name": "",
-      "text": "—This time, I'll try passing on to her\nthe feelings that were given to me back then.",
+      "text": "—This time, I'll try passing on to her the \nfeelings that were given to me back then.",
       "choice_data_list": [
-        "Won't you chase the world's greatest dream with us?",
-        "Won't you chase the world's greatest dream with us?"
+        "Won't you chase the world's greatest dream \nwith us?",
+        "Won't you chase the world's greatest dream \nwith us?"
       ]
     },
     {
@@ -477,62 +477,62 @@
     },
     {
       "name": "Sirius Symboli",
-      "text": "The ones who created this project\nwere neither Symboli nor Mejiro.",
+      "text": "The ones who created this project were \nneither Symboli nor Mejiro.",
       "choice_data_list": []
     },
     {
       "name": "Sirius Symboli",
-      "text": "I joined the project\nyou're in charge of.",
+      "text": "I joined the project you're in charge of.",
       "choice_data_list": []
     },
     {
       "name": "Sirius Symboli",
-      "text": "Because you were our leader,\nwe had this year's Prix de l'Arc de Triomphe, and we have where we are today.",
+      "text": "Because you were our leader, we had this \nyear's Prix de l'Arc de Triomphe, and we \nhave where we are today.",
       "choice_data_list": []
     },
     {
       "name": "Sirius Symboli",
-      "text": "Then the only one I can build the future with\nis you. ...Am I wrong?",
+      "text": "Then the only one I can build the future \nwith is you. ...Am I wrong?",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "...So you're telling me to create the kind of future only I can make, huh.",
+      "text": "...So you're telling me to create the kind \nof future only I can make, huh.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "...Haha.\nTo think you'd go that far for me...",
+      "text": "...Haha. To think you'd go that far for \nme...",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "...Mmh! Mei!\nSo this is where you were!",
+      "text": "...Mmh! Mei! So this is where you were!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Next year! Even though there was talk\nof international participants for the planned\n'Representative Exchange Match'!",
+      "text": "Next year! Even though there was talk of \ninternational participants for the planned \n'Representative Exchange Match'!",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "I'm sorry, Yayoi.\nYou're right...",
+      "text": "I'm sorry, Yayoi. You're right...",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "...Everyone, let's talk about next year.\nLet me tell you about what comes next.",
+      "text": "...Everyone, let's talk about next year. \nLet me tell you about what comes next.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Next year, too... I want to aim for the world together with all of you.",
+      "text": "Next year, too... I want to aim for the \nworld together with all of you.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "—It was the very same wish shared by everyone in Project L'Arc.",
+      "text": "—It was the very same wish shared by \neveryone in Project L'Arc.",
       "choice_data_list": []
     }
   ]

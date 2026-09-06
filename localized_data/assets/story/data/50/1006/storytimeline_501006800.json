@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Oguri Cap and Biwa Hayahide wanted to go out\r\nand train, so I accompanied them, but...",
+      "text": "Oguri Cap and Biwa Hayahide wanted to go \nout and train, so I accompanied them, \nbut...",
       "choice_data_list": []
     },
     {
@@ -15,14 +15,14 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The summit of the mountain. Just the right amount of snow has accumulated.",
+      "text": "The summit of the mountain. Just the right \namount of snow has accumulated.",
       "choice_data_list": [
         "I-I'm not following..."
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...Listen carefully, Trainer.\nI am—",
+      "text": "...Listen carefully, Trainer. I am—",
       "choice_data_list": []
     },
     {
@@ -34,27 +34,27 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...I know exactly how you feel.\nWhen I was first told about this,\nI made the exact same face you're making right now.",
+      "text": "...I know exactly how you feel. When I was \nfirst told about this, I made the exact \nsame face you're making right now.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Huh? The speed of Santa's reindeer?\r\nEven assuming only the Northern Hemisphere, based on the number of children...\nI'd deduce it's likely near the speed of light.",
+      "text": "Huh? The speed of Santa's reindeer? Even \nassuming only the Northern Hemisphere, \nbased on the number of children... I'd \ndeduce it's likely near the speed of \nlight.",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "That much...!\r\nJust what kind of training does one need to do\nto become that fast...",
+      "text": "That much...! Just what kind of training \ndoes one need to do to become that fast...",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "!? ...Y-You don't mean to say\r\nyou're trying to catch up to them, do you?\nTo a reindeer running at near-lightspeed...?",
+      "text": "!? ...Y-You don't mean to say you're \ntrying to catch up to them, do you? To a \nreindeer running at near-lightspeed...?",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Of course. Running together with Santas\nis bound to be fun, after all...!",
+      "text": "Of course. Running together with Santas is \nbound to be fun, after all...!",
       "choice_data_list": []
     },
     {
@@ -64,71 +64,71 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Yeah...!\nDon't you think Trainer looks like they're having fun, too?",
+      "text": "Yeah...! Don't you think Trainer looks \nlike they're having fun, too?",
       "choice_data_list": [
         "(Such earnest eyes...)"
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "When she looks at you with those eyes,\r\nyou just can't stop her... You know what I mean, right?",
+      "text": "When she looks at you with those eyes, you \njust can't stop her... You know what I \nmean, right?",
       "choice_data_list": [
-        "...Alright, let's catch up to the reindeer!"
+        "...Alright, let's catch up to the \nreindeer!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Ah...!\r\nI'm counting on you...!",
+      "text": "Ah...! I'm counting on you...!",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Now then, the log cabin is fully decorated.\r\nLet's see just how much Oguri-san can perform under the exact same conditions as Santa Claus—",
+      "text": "Now then, the log cabin is fully \ndecorated. Let's see just how much \nOguri-san can perform under the exact same \nconditions as Santa Claus—",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Ugh... I tried running a bit, but the snowy path\r\nmakes you lose your footing, so it's hard to run properly...",
+      "text": "Ugh... I tried running a bit, but the \nsnowy path makes you lose your footing, so \nit's hard to run properly...",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "To be able to run so freely through that...\r\nReindeer must have incredibly strong legs and hips...",
+      "text": "To be able to run so freely through \nthat... Reindeer must have incredibly \nstrong legs and hips...",
       "choice_data_list": [
-        "In that case, you should train your lower body too.",
-        "In that case, you should train your lower body too."
+        "In that case, you should train your lower \nbody too.",
+        "In that case, you should train your lower \nbody too."
       ]
     },
     {
       "name": "Biwa Hayahide",
-      "text": "In that case, I have a good idea.\r\nPlease follow me.",
+      "text": "In that case, I have a good idea. Please \nfollow me.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I built snowmen along the open mountain path. Please run while dodging them. Bracing yourself through the turns should strengthen your legs and hips.",
+      "text": "I built snowmen along the open mountain \npath. Please run while dodging them. \nBracing yourself through the turns should \nstrengthen your legs and hips.",
       "choice_data_list": [
         "Be careful not to slip"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Of course. Besides, if we crashed into it,\nthe snowman would probably get hurt.",
+      "text": "Of course. Besides, if we crashed into it, \nthe snowman would probably get hurt.",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "\"Phew... That was a harder workout\r\nthan I expected, but...\nIt wasn't impossible for me...!\"",
+      "text": "\"Phew... That was a harder workout than I \nexpected, but... It wasn't impossible for \nme...!\"",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Still... does Santa's reindeer really pull\r\na sleigh on top of doing all this...?",
+      "text": "Still... does Santa's reindeer really pull \na sleigh on top of doing all this...?",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "\"...Then there is no reason for me to back down...!\nAs for the sled—Trainer, would you ride on it?\"",
+      "text": "\"...Then there is no reason for me to back \ndown...! As for the sled—Trainer, would \nyou ride on it?\"",
       "choice_data_list": [
         "Me?!",
         "Me!?"
@@ -136,56 +136,56 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I think that's a great idea.\r\nPlease leave the support to me.",
+      "text": "I think that's a great idea. Please leave \nthe support to me.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, I ended up riding in\r\nthe sled pulled by Oguri Cap—",
+      "text": "And so, I ended up riding in the sled \npulled by Oguri Cap—",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "How is it, Trainer...?! Am I running properly...?",
+      "text": "How is it, Trainer...?! Am I running \nproperly...?",
       "choice_data_list": [
         "I think... I'm running well!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Her running was so fast you could hardly believe\r\nshe was pulling a sled.\nThat must be just how serious she is...",
+      "text": "Her running was so fast you could hardly \nbelieve she was pulling a sled. That must \nbe just how serious she is...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "After wrapping up a full round of training,\r\nwe clocked the times once again, and...",
+      "text": "After wrapping up a full round of \ntraining, we clocked the times once again, \nand...",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "*pant*... *pant*...\r\nHow's the time?",
+      "text": "*pant*... *pant*... How's the time?",
       "choice_data_list": [
         "You're getting better...!"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "...We did it! Training in the snow\r\nreally does pay off!",
+      "text": "...We did it! Training in the snow really \ndoes pay off!",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Besides............ hoo, hoo, hee, foo~~.\r\n...Yes... this feeling, after all, is—",
+      "text": "Besides............ hoo, hoo, hee, foo~~. \n...Yes... this feeling, after all, is—",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "...Trainer! Next time, why don't we try\r\nactually racing Santa's reindeer!?",
+      "text": "...Trainer! Next time, why don't we try \nactually racing Santa's reindeer!?",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "I finally caught up a little, so please,\r\nlet me test these legs of mine...!",
+      "text": "I finally caught up a little, so please, \nlet me test these legs of mine...!",
       "choice_data_list": [
         "Where are we competing?",
         "Where are you competing?",
@@ -195,7 +195,7 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "I finally caught up a little, so please,\r\nlet me test these legs of mine...!",
+      "text": "I finally caught up a little, so please, \nlet me test these legs of mine...!",
       "choice_data_list": [
         "Where are we competing?",
         "Where are you competing?",
@@ -205,60 +205,60 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "Mmh... Come to think of it...\r\nWhere do all the Santas actually live in the first place?",
+      "text": "Mmh... Come to think of it... Where do all \nthe Santas actually live in the first \nplace?",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...It's just one theory, but it is often said that they live in Finland.\"",
+      "text": "\"...It's just one theory, but it is often \nsaid that they live in Finland.\"",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Overseas, huh... That's pretty far.\r\nBesides, racing overseas means\nthe conditions will be completely different, too...",
+      "text": "Overseas, huh... That's pretty far. \nBesides, racing overseas means the \nconditions will be completely different, \ntoo...",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "\"Anyway, first comes Japan.\r\nWe've got to give it our all, Trainer...!\"",
+      "text": "\"Anyway, first comes Japan. We've got to \ngive it our all, Trainer...!\"",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "And so, determined to compete with a reindeer one day,\r\nOguri Cap resolved to push forward even further.",
+      "text": "And so, determined to compete with a \nreindeer one day, Oguri Cap resolved to \npush forward even further.",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
       "text": "Is that so...?",
       "choice_data_list": [
-        "Shouldn't you build up your skills before meeting them?",
-        "Shouldn't you build up your skills before meeting them?"
+        "Shouldn't you build up your skills before \nmeeting them?",
+        "Shouldn't you build up your skills before \nmeeting them?"
       ]
     },
     {
       "name": "Oguri Cap",
-      "text": "Gasp!! Indeed, you are right!\r\nHalf-hearted skills would be an insult to the reindeer as well.",
+      "text": "Gasp!! Indeed, you are right! Half-hearted \nskills would be an insult to the reindeer \nas well.",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Understood... First, let us hone my abilities further.\nWe shall take on the challenge after that.",
+      "text": "Understood... First, let us hone my \nabilities further. We shall take on the \nchallenge after that.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You're making steady progress,\r\nso I'm sure you'll be fine, Senpai!",
+      "text": "You're making steady progress, so I'm sure \nyou'll be fine, Senpai!",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "! Indeed...! If I keep this up,\r\nthe day I can run alongside reindeer won't be far off.\nAh... I can hardly wait!",
+      "text": "! Indeed...! If I keep this up, the day I \ncan run alongside reindeer won't be far \noff. Ah... I can hardly wait!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Oguri Cap made that vow\r\nwith a radiant smile on her face.",
+      "text": "Oguri Cap made that vow with a radiant \nsmile on her face.",
       "choice_data_list": []
     }
   ]

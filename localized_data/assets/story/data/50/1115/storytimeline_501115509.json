@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day. I received a message from Orfevre\ntelling me to \"Come at once,\"\nso I rushed over.",
+      "text": "One day. I received a message from Orfevre \ntelling me to \"Come at once,\" so I rushed \nover.",
       "choice_data_list": [
         "Did you need something from me—",
         "Did you need something from me—"
@@ -16,19 +16,19 @@
     },
     {
       "name": "Narrator",
-      "text": "In that instant, Orfevre glared at me!\nUnder those piercing eyes, I couldn't stop trembling...!",
+      "text": "In that instant, Orfevre glared at me! \nUnder those piercing eyes, I couldn't stop \ntrembling...!",
       "choice_data_list": [
         "(O-Orfevre...!?)"
       ]
     },
     {
       "name": "Orfevre",
-      "text": "\"Consider this an admonition.\nExhausting all your strength in vain is the height of folly.\n...Reflect upon your own foolishness.\"",
+      "text": "\"Consider this an admonition. Exhausting \nall your strength in vain is the height of \nfolly. ...Reflect upon your own \nfoolishness.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "...It seems running back-to-back races\nhas caused a significant amount of fatigue to build up.\nI need to rethink her rotation immediately...!",
+      "text": "...It seems running back-to-back races has \ncaused a significant amount of fatigue to \nbuild up. I need to rethink her rotation \nimmediately...!",
       "choice_data_list": []
     }
   ]

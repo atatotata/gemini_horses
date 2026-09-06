@@ -13,7 +13,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Following Manhattan Cafe's gaze, I saw a crane game filled with plushies themed after Umamusume.",
+      "text": "Following Manhattan Cafe's gaze, I saw a \ncrane game filled with plushies themed \nafter Umamusume.",
       "choice_data_list": [
         "Shall I get that for you?"
       ]
@@ -25,14 +25,14 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "Besides... with that adorable plushie...\r\nher hair... probably won't grow on its own...",
+      "text": "Besides... with that adorable plushie... \nher hair... probably won't grow on its \nown...",
       "choice_data_list": [
         "Huh...?"
       ]
     },
     {
       "name": "Manhattan Cafe",
-      "text": "No... that's in the past...\r\nMore importantly... please do your best.",
+      "text": "No... that's in the past... More \nimportantly... please do your best.",
       "choice_data_list": []
     },
     {

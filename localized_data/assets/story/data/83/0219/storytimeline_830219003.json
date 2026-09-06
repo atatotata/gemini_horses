@@ -2,23 +2,23 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "One day, while walking through town, I ran into Fuji Kiseki giving directions in front of an outdoor stage.",
+      "text": "One day, while walking through town, I ran \ninto Fuji Kiseki giving directions in \nfront of an outdoor stage.",
       "choice_data_list": [
-        "Could it be, you're putting on another play?",
-        "Could it be, you're putting on another play?"
+        "Could it be, you're putting on another \nplay?",
+        "Could it be, you're putting on another \nplay?"
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ah, <chrname>!\nYeah, we're doing a rerun of that play we put on with everyone from the Ritto Dormitory before."
+      "text": "Ah, <chrname>! Yeah, we're doing a rerun of that \nplay we put on with everyone from the \nRitto Dormitory before."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "When I attended a \"tea party\" hosted by my fan club earlier, the regulars asked if we could do it again since they'd prepare a stage for us."
+      "text": "When I attended a \"tea party\" hosted by my \nfan club earlier, the regulars asked if we \ncould do it again since they'd prepare a \nstage for us."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "So, I'm right in the middle of getting everything ready as the director and stage manager.\nFeel free to come watch if you'd like!",
+      "text": "So, I'm right in the middle of getting \neverything ready as the director and stage \nmanager. Feel free to come watch if you'd \nlike!",
       "choice_data_list": [
         "I'd love to go, of course, but—"
       ]
@@ -29,205 +29,205 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Pokke, and... are those your old friends from your freestyle racing days behind you?\nWhat's the matter?"
+      "text": "Pokke, and... are those your old friends \nfrom your freestyle racing days behind \nyou? What's the matter?"
     },
     {
       "name": "Jungle Pocket",
-      "text": "I'm gonna be blunt with ya.\nFuji-san, let us handle all the staff work!"
+      "text": "I'm gonna be blunt with ya. Fuji-san, let \nus handle all the staff work!"
     },
     {
       "name": "Jungle Pocket",
-      "text": "Where you belong is up on that stage, right?! You gotta be in the play! I'll bust my tail working for it!"
+      "text": "Where you belong is up on that stage, \nright?! You gotta be in the play! I'll \nbust my tail working for it!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Umm... I appreciate the thought, but it might be better if I handle stage management myself.\nSince that's the chief supervisor position over the entire staff."
+      "text": "Umm... I appreciate the thought, but it \nmight be better if I handle stage \nmanagement myself. Since that's the chief \nsupervisor position over the entire staff."
     },
     {
       "name": "Jungle Pocket",
-      "text": "Chief supervisor? Bring it on!\nSetting up any stage, safety checks included—I'll pull it off without a hitch!"
+      "text": "Chief supervisor? Bring it on! Setting up \nany stage, safety checks included—I'll \npull it off without a hitch!"
     },
     {
       "name": "Jungle Pocket",
-      "text": "Everyone's comin' here just to see you, Fuji-san.\nSo you gotta perform! Come on!"
+      "text": "Everyone's comin' here just to see you, \nFuji-san. So you gotta perform! Come on!"
     },
     {
       "name": "Fuji Kiseki",
       "text": "But...",
       "choice_data_list": [
-        "If you want to make your fans happy, you really should perform!"
+        "If you want to make your fans happy, you \nreally should perform!"
       ]
     },
     {
       "name": "Jungle Pocket",
-      "text": "Right on! Please, Fuji-san!\nI want everyone to see your acting!"
+      "text": "Right on! Please, Fuji-san! I want \neveryone to see your acting!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "............ Yeah, you're right.\nYou used to lead your crew as their leader. You might actually be suited for stage management."
+      "text": "............ Yeah, you're right. You used \nto lead your crew as their leader. You \nmight actually be suited for stage \nmanagement."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "All right.\nI'll trust Pokke and take the stage!"
+      "text": "All right. I'll trust Pokke and take the \nstage!"
     },
     {
       "name": "Jungle Pocket",
-      "text": "Hell yeah!!\nAll right, let's check the schedule and assign everyone's roles.\nIf any of you do a half-assed job, you'll answer to me!"
+      "text": "Hell yeah!! All right, let's check the \nschedule and assign everyone's roles. If \nany of you do a half-assed job, you'll \nanswer to me!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Now then... the question is what role I should play.\nTo avoid making everyone re-memorize their lines, I'm thinking of adding a standalone scene for myself, but..."
+      "text": "Now then... the question is what role I \nshould play. To avoid making everyone \nre-memorize their lines, I'm thinking of \nadding a standalone scene for myself, \nbut..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Since you're here, let me ask you.\nWhat kind of role would you like to see me perform?",
+      "text": "Since you're here, let me ask you. What \nkind of role would you like to see me \nperform?",
       "choice_data_list": [
-        "A magician captivating the audience with flashy magic",
-        "A narrator guiding the story to hype up the play"
+        "A magician captivating the audience with \nflashy magic",
+        "A narrator guiding the story to hype up \nthe play"
       ]
     },
     {
-      "text": "The next day, upon arriving at the audience seats to watch the play—"
+      "text": "The next day, upon arriving at the \naudience seats to watch the play—"
     },
     {
       "name": "Fuji Kiseki Fan Club Member",
-      "text": "Pardon me, this stage was organized by Fuji-sama, wasn't it?\nWhy are there such rough-looking girls here?"
+      "text": "Pardon me, this stage was organized by \nFuji-sama, wasn't it? Why are there such \nrough-looking girls here?"
     },
     {
       "name": "Roughly-Dressed Horse Girl",
-      "text": "Huh? We got seats reserved for us as thanks for helping set up the stage.\nGot a problem with that?!",
+      "text": "Huh? We got seats reserved for us as \nthanks for helping set up the stage. Got a \nproblem with that?!",
       "choice_data_list": [
         "(The atmosphere is getting tense...!)"
       ]
     },
     {
-      "text": "An elegantly dressed adult and Jungle Pocket's horse girl friend glared at each other.\nWith no other empty seats around, I sat between them..."
+      "text": "An elegantly dressed adult and Jungle \nPocket's horse girl friend glared at each \nother. With no other empty seats around, I \nsat between them..."
     },
     {
-      "text": "The opening announcement played, and the performance began.\nAround the midpoint of the story, Fuji Kiseki appeared alongside memorable music."
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Ah, pony-chan.\nCrushed by a sorrowful destiny, shedding bitter tears... Poor thing..."
+      "text": "The opening announcement played, and the \nperformance began. Around the midpoint of \nthe story, Fuji Kiseki appeared alongside \nmemorable music."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "But fear not, for I am here now.\nI shall cast a spell of courage upon you so you may carve open your destiny! Hah!"
-    },
-    {
-      "text": "As Fuji Kiseki clapped her hands, confetti rained down from the stage, turning into lovely flowers amidst puffs of white smoke.\nThe audience seats transformed into a flower field, eliciting cheers from the crowd."
+      "text": "Ah, pony-chan. Crushed by a sorrowful \ndestiny, shedding bitter tears... Poor \nthing..."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "All right, now I'd like the pony-chans in the audience to assist in this miracle.\nCome, pluck a flower and gently blow on the fluff!"
+      "text": "But fear not, for I am here now. I shall \ncast a spell of courage upon you so you \nmay carve open your destiny! Hah!"
     },
     {
-      "text": "Prompted, I picked a nearby flower and blew on the fluff.\nAs it drifted upward, it burst like soap bubbles, illuminating the sky with kaleidoscopic rainbow light."
+      "text": "As Fuji Kiseki clapped her hands, confetti \nrained down from the stage, turning into \nlovely flowers amidst puffs of white \nsmoke. The audience seats transformed into \na flower field, eliciting cheers from the \ncrowd."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Hehe, do you feel courage welling up within you now?\nOur dreamlike time together draws to a close.\nI wish you the best of luck, pony-chan!"
+      "text": "All right, now I'd like the pony-chans in \nthe audience to assist in this miracle. \nCome, pluck a flower and gently blow on \nthe fluff!"
+    },
+    {
+      "text": "Prompted, I picked a nearby flower and \nblew on the fluff. As it drifted upward, \nit burst like soap bubbles, illuminating \nthe sky with kaleidoscopic rainbow light."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hehe, do you feel courage welling up \nwithin you now? Our dreamlike time \ntogether draws to a close. I wish you the \nbest of luck, pony-chan!"
     },
     {
       "name": "Roughly-Dressed Horse Girl",
-      "text": "WOOOOOO~~~~!! What in the world was that?!!\nSo freakin' cooool~! I can't stop clappiiing!!"
+      "text": "WOOOOOO~~~~!! What in the world was \nthat?!! So freakin' cooool~! I can't stop \nclappiiing!!"
     },
     {
-      "text": "The next day, upon arriving at the audience seats to watch the play—"
+      "text": "The next day, upon arriving at the \naudience seats to watch the play—"
     },
     {
       "name": "Fuji Kiseki Fan Club Member",
-      "text": "Pardon me, this stage was organized by Fuji-sama, wasn't it?\nWhy are there such rough-looking girls here?"
+      "text": "Pardon me, this stage was organized by \nFuji-sama, wasn't it? Why are there such \nrough-looking girls here?"
     },
     {
       "name": "Roughly-Dressed Horse Girl",
-      "text": "Huh? We got seats reserved for us as thanks for helping set up the stage.\nGot a problem with that?!",
+      "text": "Huh? We got seats reserved for us as \nthanks for helping set up the stage. Got a \nproblem with that?!",
       "choice_data_list": [
         "(The atmosphere is getting tense...!)"
       ]
     },
     {
-      "text": "An elegantly dressed adult and Jungle Pocket's horse girl friend glared at each other.\nWith no other empty seats around, I sat between them..."
+      "text": "An elegantly dressed adult and Jungle \nPocket's horse girl friend glared at each \nother. With no other empty seats around, I \nsat between them..."
     },
     {
-      "text": "The opening announcement played, and the performance began.\nAround the midpoint of the story, Fuji Kiseki appeared alongside memorable music."
-    },
-    {
-      "name": "Fuji Kiseki",
-      "text": "Ah, the young man gazes up at the sky, baring his innermost feelings.\nYet, there is none who can hear his plea.\nA wind carrying the lingering humidity of midday blows past."
+      "text": "The opening announcement played, and the \nperformance began. Around the midpoint of \nthe story, Fuji Kiseki appeared alongside \nmemorable music."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Will this story conclude in tragedy as is?!\nNo, none of us desire such a sorrowful ending!"
+      "text": "Ah, the young man gazes up at the sky, \nbaring his innermost feelings. Yet, there \nis none who can hear his plea. A wind \ncarrying the lingering humidity of midday \nblows past."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Come now, everyone, observers of this tale!\nClap your hands and bestow your blessings upon them!\nSo that they may grasp a future filled with hope!"
+      "text": "Will this story conclude in tragedy as \nis?! No, none of us desire such a \nsorrowful ending!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Yes, more! Give me more!\nLet us deliver light to them through your power!\nClap your hands!"
-    },
-    {
-      "text": "Moved by Fuji Kiseki's passionate plea, everyone in the audience clapped fervently.\nThen, with dramatic music, the light returned to the stage."
+      "text": "Come now, everyone, observers of this \ntale! Clap your hands and bestow your \nblessings upon them! So that they may \ngrasp a future filled with hope!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Thank you, everyone!\nNow, the story at last approaches its climax—\nWhen the grand finale arrives, grant us your applause once more!"
+      "text": "Yes, more! Give me more! Let us deliver \nlight to them through your power! Clap \nyour hands!"
+    },
+    {
+      "text": "Moved by Fuji Kiseki's passionate plea, \neveryone in the audience clapped \nfervently. Then, with dramatic music, the \nlight returned to the stage."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thank you, everyone! Now, the story at \nlast approaches its climax— When the grand \nfinale arrives, grant us your applause \nonce more!"
     },
     {
       "name": "Roughly-Dressed Horse Girl",
-      "text": "WOOOOOO~~~~!! What in the world was that?!!\nSo freakin' cooool~! I can't stop clappiiing!!"
+      "text": "WOOOOOO~~~~!! What in the world was \nthat?!! So freakin' cooool~! I can't stop \nclappiiing!!"
     },
     {
       "name": "Fuji Kiseki Fan Club Member",
-      "text": "Goodness, how noisy... hehe.\nStill, to witness such a wonderful performance, I am truly grateful to Fuji-sama!"
+      "text": "Goodness, how noisy... hehe. Still, to \nwitness such a wonderful performance, I am \ntruly grateful to Fuji-sama!"
     },
     {
       "name": "Roughly-Dressed Horse Girl",
-      "text": "Hey, lady, ya got time after this?\nLet's talk about the show over some pudding!"
+      "text": "Hey, lady, ya got time after this? Let's \ntalk about the show over some pudding!"
     },
     {
       "name": "Fuji Kiseki Fan Club Member",
-      "text": "I am not an old lady! ...Though, I suppose this bond too was forged by Fuji-sama.\nVery well, let's go!",
+      "text": "I am not an old lady! ...Though, I suppose \nthis bond too was forged by Fuji-sama. \nVery well, let's go!",
       "choice_data_list": [
         "(Everyone's getting along now...!)"
       ]
     },
     {
-      "text": "After all the spectators had departed, Fuji Kiseki and Jungle Pocket were talking beneath the stage."
+      "text": "After all the spectators had departed, \nFuji Kiseki and Jungle Pocket were talking \nbeneath the stage."
     },
     {
       "name": "Jungle Pocket",
-      "text": "Fuji-san, you're seriously incredible!!\nTo unite everyone's hearts with pure emotion like that!"
+      "text": "Fuji-san, you're seriously incredible!! To \nunite everyone's hearts with pure emotion \nlike that!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "An actor could ask for nothing more.\nThank you, Pokke.\nManaging the stage must have been tough, right?"
+      "text": "An actor could ask for nothing more. Thank \nyou, Pokke. Managing the stage must have \nbeen tough, right?"
     },
     {
       "name": "Jungle Pocket",
-      "text": "Heheh,\nthat wasn't tough at all!"
+      "text": "Heheh, that wasn't tough at all!"
     },
     {
       "name": "Jungle Pocket",
-      "text": "Ah~ that was awesome. I wanna see it again.\nAt this rate, why not make it a regular performance?\nI'll be the stage manager again anytime!"
+      "text": "Ah~ that was awesome. I wanna see it \nagain. At this rate, why not make it a \nregular performance? I'll be the stage \nmanager again anytime!"
     },
     {
       "name": "Fuji Kiseki",
-      "text": "That sounds fun too.\nJust don't forget, Pokke—the ultimate stage for me will always be the turf."
+      "text": "That sounds fun too. Just don't forget, \nPokke—the ultimate stage for me will \nalways be the turf."
     },
     {
       "name": "Fuji Kiseki",
-      "text": "I want to bring joy to long-time fans, first-time viewers, and the staff supporting the races alike... through my running!"
+      "text": "I want to bring joy to long-time fans, \nfirst-time viewers, and the staff \nsupporting the races alike... through my \nrunning!"
     },
     {
       "name": "Jungle Pocket",
-      "text": "...You're right.\nI'm one of those folks who was captivated by your running after all."
+      "text": "...You're right. I'm one of those folks \nwho was captivated by your running after \nall."
     },
     {
       "name": "Jungle Pocket",
-      "text": "If it's you, Fuji-san, you could captivate any person, any horse girl!\nAfter all, everyone acknowledges you're a true entertainer!"
+      "text": "If it's you, Fuji-san, you could captivate \nany person, any horse girl! After all, \neveryone acknowledges you're a true \nentertainer!"
     }
   ]
 }

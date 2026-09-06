@@ -3,44 +3,44 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"Following the Prix de l'Arc de Triomphe, all members of Project L'Arc returned home to Japan together.\"",
+      "text": "\"Following the Prix de l'Arc de Triomphe, \nall members of Project L'Arc returned home \nto Japan together.\"",
       "choice_data_list": []
     },
     {
       "name": "News Program",
-      "text": "\"And now for today's news.\nThe national soccer team, which began training recently—\"",
+      "text": "\"And now for today's news. The national \nsoccer team, which began training \nrecently—\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "A few days later, and the talk of the town moved on.\nOur Prix de l'Arc de Triomphe had already become a thing of the past.",
+      "text": "A few days later, and the talk of the town \nmoved on. Our Prix de l'Arc de Triomphe \nhad already become a thing of the past.",
       "choice_data_list": []
     },
     {
       "name": "Reporter A",
-      "text": "I suppose the favorites for this year's Japan Cup and Arima Kinen will likely be Senior Year runners~.",
+      "text": "I suppose the favorites for this year's \nJapan Cup and Arima Kinen will likely be \nSenior Year runners~.",
       "choice_data_list": []
     },
     {
       "name": "Reporter B",
-      "text": "More importantly, we should focus on the Mile races!\nAt the Mile Championship, I'm sure—",
+      "text": "More importantly, we should focus on the \nMile races! At the Mile Championship, I'm \nsure—",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Cutting through the various voices,\nI give instructions to <chrname>\nand begin today's training.",
+      "text": "Cutting through the various voices, I give \ninstructions to <chrname> and begin today's \ntraining.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Once she finishes warming up, I'll re-measure her times.\nIn order to review her fundamentals heading into next year...",
+      "text": "Once she finishes warming up, I'll \nre-measure her times. In order to review \nher fundamentals heading into next year...",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "—...?\nSomething's off about <chrname>'s running.",
+      "text": "—...? Something's off about <chrname>'s running.",
       "choice_data_list": [
-        "Your form's falling apart? No, more importantly—"
+        "Your form's falling apart? No, more \nimportantly—"
       ]
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "Mei Satake",
-      "text": "“You've got to be kidding...?\nDon't tell me you too...”",
+      "text": "“You've got to be kidding...? Don't tell \nme you too...”",
       "choice_data_list": [
         "Ms. Satake?"
       ]
@@ -67,19 +67,19 @@
     },
     {
       "name": "Narrator",
-      "text": "I quickly halted training\nand took <chrname> to the infirmary.",
+      "text": "I quickly halted training and took <chrname> to the \ninfirmary.",
       "choice_data_list": []
     },
     {
       "name": "School Nurse",
-      "text": "From a brief examination, it doesn't look like an injury,\nbut just in case, I will write a referral to the university hospital\nso please get a detailed checkup.",
+      "text": "From a brief examination, it doesn't look \nlike an injury, but just in case, I will \nwrite a referral to the university \nhospital so please get a detailed checkup.",
       "choice_data_list": [
         "...Understood."
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "Manhattan Cafe, and Satono Diamond too, huh...",
+      "text": "Manhattan Cafe, and Satono Diamond too, \nhuh...",
       "choice_data_list": []
     },
     {
@@ -89,47 +89,47 @@
     },
     {
       "name": "Former Academy Chairwoman",
-      "text": "\"...Are her legs all right!?\nIt looked like in the second half of the race—\"",
+      "text": "\"...Are her legs all right!? It looked \nlike in the second half of the race—\"",
       "choice_data_list": []
     },
     {
       "name": "Veteran Trainer",
-      "text": "I won't let that girl race for a while.\nRest will be our top priority.",
+      "text": "I won't let that girl race for a while. \nRest will be our top priority.",
       "choice_data_list": []
     },
     {
       "name": "Veteran Trainer",
-      "text": "\"We completely overlooked it.\nThe risks of the Prix de l'Arc de Triomphe.\"",
+      "text": "\"We completely overlooked it. The risks of \nthe Prix de l'Arc de Triomphe.\"",
       "choice_data_list": []
     },
     {
       "name": "Doctor",
-      "text": "Her damage is severe.\nIt's most likely caused by\nrunning in the Prix de l'Arc de Triomphe.",
+      "text": "Her damage is severe. It's most likely \ncaused by running in the Prix de l'Arc de \nTriomphe.",
       "choice_data_list": []
     },
     {
       "name": "Doctor",
-      "text": "European racecourses are completely different from Japan's.\nWhen the environment changes, it's only natural\nfor fatigue and stress to build up.",
+      "text": "European racecourses are completely \ndifferent from Japan's. When the \nenvironment changes, it's only natural for \nfatigue and stress to build up.",
       "choice_data_list": []
     },
     {
       "name": "Doctor",
-      "text": "\"...However, excessive excitement paralyzes the brain.\nIt fools you into thinking it's okay for everything to end here.\"",
+      "text": "\"...However, excessive excitement \nparalyzes the brain. It fools you into \nthinking it's okay for everything to end \nhere.\"",
       "choice_data_list": []
     },
     {
       "name": "Doctor",
-      "text": "Your awareness of the pain fades away.\nTo the point where you can easily ignore your own limits.",
+      "text": "Your awareness of the pain fades away. To \nthe point where you can easily ignore your \nown limits.",
       "choice_data_list": []
     },
     {
       "name": "Former Academy Chairwoman",
-      "text": "\"...I wonder if she would've avoided that injury and slump if she'd never shared this dream with us.\"",
+      "text": "\"...I wonder if she would've avoided that \ninjury and slump if she'd never shared \nthis dream with us.\"",
       "choice_data_list": []
     },
     {
       "name": "Former Academy Chairwoman",
-      "text": "Mei. What we're lacking\nis always experience.",
+      "text": "Mei. What we're lacking is always \nexperience.",
       "choice_data_list": []
     },
     {
@@ -139,17 +139,17 @@
     },
     {
       "name": "Mei Satake",
-      "text": "\"...Who was it that drove them to this?\nWho was it that failed to stop them?\"",
+      "text": "\"...Who was it that drove them to this? \nWho was it that failed to stop them?\"",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "A girl's life could completely change depending on the support of those around her!",
+      "text": "A girl's life could completely change \ndepending on the support of those around \nher!",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Who blinded their eyes with dreams?!\nWho crushed them beneath expectations?!",
+      "text": "Who blinded their eyes with dreams?! Who \ncrushed them beneath expectations?!",
       "choice_data_list": []
     },
     {
@@ -159,12 +159,12 @@
     },
     {
       "name": "Mei Satake",
-      "text": "What was I doing...!\nI'm supposed to be the one in charge...!",
+      "text": "What was I doing...! I'm supposed to be \nthe one in charge...!",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "You don't have the slightest right\nto rob them of their potential...!!",
+      "text": "You don't have the slightest right to rob \nthem of their potential...!!",
       "choice_data_list": []
     }
   ]

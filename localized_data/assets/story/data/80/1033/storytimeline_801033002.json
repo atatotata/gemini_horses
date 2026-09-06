@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "With the cutoff time approaching fast,\nI was tidying up after our training session, when……",
+      "text": "With the cutoff time approaching fast, I \nwas tidying up after our training session, \nwhen……",
       "choice_data_list": []
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Even with only one lap left,\r\nthis course covers quite a substantial distance...",
+      "text": "Even with only one lap left, this course \ncovers quite a substantial distance...",
       "choice_data_list": [
         "Will we make it in time?"
       ]
@@ -32,7 +32,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Without even waiting for my answer,\nshe ran off.\nIn that case...",
+      "text": "Without even waiting for my answer, she \nran off. In that case...",
       "choice_data_list": [
         "Let's tidy things up one step at a time!",
         "...Let's respect her wishes."
@@ -40,7 +40,7 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, as we cleaned up beside her――\nshe pulled off a magnificent finish right on time.",
+      "text": "And so, as we cleaned up beside her―― she \npulled off a magnificent finish right on \ntime.",
       "choice_data_list": []
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "I'll pack up the ladder. You can head home now.",
+      "text": "I'll pack up the ladder. You can head home \nnow.",
       "choice_data_list": []
     },
     {
@@ -67,12 +67,12 @@
     },
     {
       "name": "Narrator",
-      "text": "...Surely, she must have her reasons.\r\nWatching her running figure from behind, I left the area.",
+      "text": "...Surely, she must have her reasons. \nWatching her running figure from behind, I \nleft the area.",
       "choice_data_list": []
     },
     {
       "name": "Admire Vega",
-      "text": "*pant*... *pant*... The stars... are beautiful.",
+      "text": "*pant*... *pant*... The stars... are \nbeautiful.",
       "choice_data_list": []
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "name": "Admire Vega",
-      "text": "(This is fine………… For her sake,\r\nI have to keep running…… after all……)",
+      "text": "(This is fine………… For her sake, I have to \nkeep running…… after all……)",
       "choice_data_list": []
     }
   ]

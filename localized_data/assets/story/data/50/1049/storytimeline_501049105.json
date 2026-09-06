@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "The summer training camp season has arrived once again this year.",
+      "text": "The summer training camp season has \narrived once again this year.",
       "choice_data_list": []
     },
     {
       "name": "Reporter A",
-      "text": "El Condor Pasa!\nIs it true you're making a comeback!?",
+      "text": "El Condor Pasa! Is it true you're making a \ncomeback!?",
       "choice_data_list": []
     },
     {
       "name": "Reporter B",
-      "text": "\"Following her victory in the Takarazuka Kinen, Nakayama Festa is set to face off against you in the Japan Cup—\"",
+      "text": "\"Following her victory in the Takarazuka \nKinen, Nakayama Festa is set to face off \nagainst you in the Japan Cup—\"",
       "choice_data_list": []
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "Well, we're out of time, so...!\nCiao~~!",
+      "text": "Well, we're out of time, so...! Ciao~~!",
       "choice_data_list": []
     },
     {
@@ -33,20 +33,20 @@
     },
     {
       "name": "Reporter B",
-      "text": "\"Still, she was in incredible shape... Did you see the way she ran off just now? She's definitely primed and ready...!\"",
+      "text": "\"Still, she was in incredible shape... Did \nyou see the way she ran off just now? \nShe's definitely primed and ready...!\"",
       "choice_data_list": []
     },
     {
       "name": "Reporter A",
-      "text": "She doesn't even have time to answer our interviews;\nthat just shows how serious she is.",
+      "text": "She doesn't even have time to answer our \ninterviews; that just shows how serious \nshe is.",
       "choice_data_list": []
     },
     {
       "name": "Nakayama Festa",
       "text": "*pant*, *gasp*... *pant*...!",
       "choice_data_list": [
-        "Can you still run? If you can, ten more sets!",
-        "Can you still run? If you can, ten more sets!"
+        "Can you still run? If you can, ten more \nsets!",
+        "Can you still run? If you can, ten more \nsets!"
       ]
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "",
-      "text": "Heading into the decisive battle, the Umamusumes' fighting spirits\nblazed hotter than the summer itself—",
+      "text": "Heading into the decisive battle, the \nUmamusumes' fighting spirits blazed hotter \nthan the summer itself—",
       "choice_data_list": []
     }
   ]

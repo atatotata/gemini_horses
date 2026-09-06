@@ -3,14 +3,14 @@
   "text_block_list": [
     {
       "name": "St Lite",
-      "text": "Look at that expression on <chrname>'s face...\nHehe, she is simply overflowing with motivation, isn't she?",
+      "text": "Look at that expression on <chrname>'s face... \nHehe, she is simply overflowing with \nmotivation, isn't she?",
       "choice_data_list": [
         "(Now that you mention it...)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "<chrname> seems to be in great form right now!\nLet's enrich her training even more\nand look forward to further growth!",
+      "text": "<chrname> seems to be in great form right now! \nLet's enrich her training even more and \nlook forward to further growth!",
       "choice_data_list": []
     }
   ]

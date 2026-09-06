@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I brought Admire Groove, who hasn't been\nfeeling well lately, to visit a shrine.",
+      "text": "I brought Admire Groove, who hasn't been \nfeeling well lately, to visit a shrine.",
       "choice_data_list": []
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Make a wish, throw a stone into the hollow of the rock, and it will come true.\nShe's taking on the challenge, but it's proving easier said than done.",
+      "text": "Make a wish, throw a stone into the hollow \nof the rock, and it will come true. She's \ntaking on the challenge, but it's proving \neasier said than done.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "...Maybe I should close my eyes when I throw next time.",
+      "text": "...Maybe I should close my eyes when I \nthrow next time.",
       "choice_data_list": [
         "Didn't that just get even harder?"
       ]
@@ -35,9 +35,9 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...No good.\nNext time, I'll switch throwing hands, too...",
+      "text": "...No good. Next time, I'll switch \nthrowing hands, too...",
       "choice_data_list": [
-        "I think you should just throw it normally, though..."
+        "I think you should just throw it normally, \nthough..."
       ]
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "name": "Admire Groove",
-      "text": "The strength that comes out when I'm backed into a cornerâ\nthat is my true worth.",
+      "text": "The strength that comes out when I'm \nbacked into a cornerâ that is my true \nworth.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The sun had completely set. The number of stones Admire Groove had thrown easily exceeded a hundred by now.",
+      "text": "The sun had completely set. The number of \nstones Admire Groove had thrown easily \nexceeded a hundred by now.",
       "choice_data_list": []
     },
     {
@@ -62,19 +62,19 @@
     },
     {
       "name": "Admire Groove",
-      "text": "...You can go on home ahead of me, you know.",
+      "text": "...You can go on home ahead of me, you \nknow.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I can't gauge her true intentions. Even so,\nas long as the light in her eyes hasn't faded, I will choose to believe in her.",
+      "text": "I can't gauge her true intentions. Even \nso, as long as the light in her eyes \nhasn't faded, I will choose to believe in \nher.",
       "choice_data_list": [
         "...I'll be watching until the very end!"
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "(Letting my guard down is why my condition is slipping...)",
+      "text": "(Letting my guard down is why my condition \nis slipping...)",
       "choice_data_list": []
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "(This isn't a wish for luck... it's a challenge to myself!)",
+      "text": "(This isn't a wish for luck... it's a \nchallenge to myself!)",
       "choice_data_list": []
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "Narrator",
-      "text": "The pebble arced through the air\nand began its descent toward the rock—",
+      "text": "The pebble arced through the air and began \nits descent toward the rock—",
       "choice_data_list": []
     },
     {
@@ -104,10 +104,10 @@
     },
     {
       "name": "Narrator",
-      "text": "As if sucked into it, the stone nestled perfectly\ninto the hollow of the rock.",
+      "text": "As if sucked into it, the stone nestled \nperfectly into the hollow of the rock.",
       "choice_data_list": [
         "You did it, Alv!",
-        "We did it, Alv! "
+        "We did it, Alv!"
       ]
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Starting from this day, Admire Groove got back into her groove!",
+      "text": "Starting from this day, Admire Groove got \nback into her groove!",
       "choice_data_list": []
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Bouncing off a hollow in the rock,\nthe stone mercilessly fell to the ground.",
+      "text": "Bouncing off a hollow in the rock, the \nstone mercilessly fell to the ground.",
       "choice_data_list": []
     },
     {
       "name": "Admire Groove",
-      "text": "...Any more than this will affect tomorrow.",
+      "text": "...Any more than this will affect \ntomorrow.",
       "choice_data_list": []
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Admire Groove was unable to get back in top form...",
+      "text": "Admire Groove was unable to get back in \ntop form...",
       "choice_data_list": []
     }
   ]

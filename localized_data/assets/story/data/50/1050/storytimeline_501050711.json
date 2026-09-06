@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narita Taishin",
-      "text": "\"I lost again!\r\nAnd I really thought this was the time...!!\"",
+      "text": "\"I lost again! And I really thought this \nwas the time...!!\"",
       "choice_data_list": [
         "Let's not rush and just keep at it.",
         "We don't have time to be moping around!",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "\"I lost again!\r\nAnd I really thought this was the time...!!\"",
+      "text": "\"I lost again! And I really thought this \nwas the time...!!\"",
       "choice_data_list": [
         "Let's not rush and just keep at it.",
         "We don't have time to be moping around!",
@@ -26,10 +26,10 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "You have to be impatient!\nWhile you're slacking off, everyone else is――",
+      "text": "You have to be impatient! While you're \nslacking off, everyone else is――",
       "choice_data_list": [
-        "There are things you can only see when you're calm",
-        "There are things you can see better when you're calm"
+        "There are things you can only see when \nyou're calm",
+        "There are things you can see better when \nyou're calm"
       ]
     },
     {
@@ -39,71 +39,71 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...Leave me alone!\r\nJust go home already!\"",
+      "text": "\"...Leave me alone! Just go home already!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Words meant out of concern for her\r\nended up rubbing her the wrong way,\nand she threw me out without letting me say another word...",
+      "text": "Words meant out of concern for her ended \nup rubbing her the wrong way, and she \nthrew me out without letting me say \nanother word...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "I might have been thoughtless, not considering\r\nNarita Taishin's feelings.\nAs I waited to apologize—",
+      "text": "I might have been thoughtless, not \nconsidering Narita Taishin's feelings. As \nI waited to apologize—",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...What are you doing in a place like this?",
+      "text": "...What are you doing in a place like \nthis?",
       "choice_data_list": [
-        "I wanted to apologize for what happened in the waiting room."
+        "I wanted to apologize for what happened in \nthe waiting room."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...You've been standing here this whole time\njust for that?\"",
+      "text": "\"...You've been standing here this whole \ntime just for that?\"",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Haa... How should I put it, you're really something...",
+      "text": "Haa... How should I put it, you're really \nsomething...",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...Sure, whatever.\nI've calmed down a bit now anyway.",
+      "text": "...Sure, whatever. I've calmed down a bit \nnow anyway.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"True... There were things I could see.\r\n...I still have so much to work on.\"",
+      "text": "\"True... There were things I could see. \n...I still have so much to work on.\"",
       "choice_data_list": [
         "Let's overcome that together!"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "\"Yeah, yeah.\r\nThen we don't have time to just stand around chatting, do we?\"",
+      "text": "\"Yeah, yeah. Then we don't have time to \njust stand around chatting, do we?\"",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Let's head to the trainer's office.\r\nWe'll work out a strategy and take 1st place next time...!",
+      "text": "Let's head to the trainer's office. We'll \nwork out a strategy and take 1st place \nnext time...!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "As she declared that, her eyes shone brilliantly. It was a brilliance that made me believe... she really could win next time.",
+      "text": "As she declared that, her eyes shone \nbrilliantly. It was a brilliance that made \nme believe... she really could win next \ntime.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...Shut up!\nI'm not down in the dumps at all!",
+      "text": "...Shut up! I'm not down in the dumps at \nall!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "I'm just so utterly pathetic,\r\nand it's pissing me off like crazy!",
+      "text": "I'm just so utterly pathetic, and it's \npissing me off like crazy!",
       "choice_data_list": [
         "Turn that frustration into fuel!",
         "Turn that frustration into fuel!"
@@ -113,7 +113,7 @@
       "name": "Narita Taishin",
       "text": "Huh?",
       "choice_data_list": [
-        "And starting tomorrow, let's train like crazy!"
+        "And starting tomorrow, let's train like \ncrazy!"
       ]
     },
     {
@@ -123,17 +123,17 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "\"Instead of taking it easy and saying 'tomorrow,'\r\nshouldn't you start today?\"",
+      "text": "\"Instead of taking it easy and saying \n'tomorrow,' shouldn't you start today?\"",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"Furious special training? Bring it on.\r\nI'll build a stronger body and win this time for sure...!\"",
+      "text": "\"Furious special training? Bring it on. \nI'll build a stronger body and win this \ntime for sure...!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, days of rigorous special training began\nwith Narita Taishin, who had sworn to get her revenge.",
+      "text": "And so, days of rigorous special training \nbegan with Narita Taishin, who had sworn \nto get her revenge.",
       "choice_data_list": []
     }
   ]

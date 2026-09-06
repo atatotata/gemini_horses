@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"...The new year has begun.\nStarting this year, <chrname> is in the Senior Class.\"",
+      "text": "\"...The new year has begun. Starting this \nyear, <chrname> is in the Senior Class.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"On the track, despite it being early morning,\nthe members of 'Project L'Arc'\nwere already putting in running laps.\"",
+      "text": "\"On the track, despite it being early \nmorning, the members of 'Project L'Arc' \nwere already putting in running laps.\"",
       "choice_data_list": []
     },
     {
@@ -25,24 +25,24 @@
     },
     {
       "name": "Mei Satake",
-      "text": "The number of supporters hasn't dropped.\nWe expect to provide the same level of backing as last year.",
+      "text": "The number of supporters hasn't dropped. \nWe expect to provide the same level of \nbacking as last year.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "I think we should start making our serious moves\nbeginning with the \"Representative Exchange Match\" in late March.",
+      "text": "I think we should start making our serious \nmoves beginning with the \"Representative \nExchange Match\" in late March.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "Until then, I want you to build up your strength and prepare for the Prix de l'Arc de Triomphe.\n...Though I imagine you are already doing so.",
+      "text": "Until then, I want you to build up your \nstrength and prepare for the Prix de l'Arc \nde Triomphe. ...Though I imagine you are \nalready doing so.",
       "choice_data_list": [
         "...I'll do my best."
       ]
     },
     {
       "name": "Mei Satake",
-      "text": "Yeah.\nThis year, let's make our dream a reality!",
+      "text": "Yeah. This year, let's make our dream a \nreality!",
       "choice_data_list": []
     }
   ]

@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I sprinted through the first three years of the Twinkle Series\nalongside Ikuno Dictus. Yet, the busy days\ncontinued just as before.",
+      "text": "I sprinted through the first three years \nof the Twinkle Series alongside Ikuno \nDictus. Yet, the busy days continued just \nas before.",
       "choice_data_list": []
     },
     {
       "name": "Mid-Level Trainer",
-      "text": "—If an Umamusume's condition changes, how should I input that into \"IRON WILL\"?\nI wonder if it can account for mental slumps too.",
+      "text": "—If an Umamusume's condition changes, how \nshould I input that into \"IRON WILL\"? I \nwonder if it can account for mental slumps \ntoo.",
       "choice_data_list": []
     },
     {
       "name": "Veteran Trainer",
-      "text": "Excuse me, could you explain this data on Ikuno Dictus in more detail?",
+      "text": "Excuse me, could you explain this data on \nIkuno Dictus in more detail?",
       "choice_data_list": []
     },
     {
@@ -23,9 +23,9 @@
     },
     {
       "name": "Veteran Trainer",
-      "text": "I see. Through learning, \"IRON WILL\" has begun to take the Umamusume's individuality into account.",
+      "text": "I see. Through learning, \"IRON WILL\" has \nbegun to take the Umamusume's \nindividuality into account.",
       "choice_data_list": [
-        "Yes. In order to facilitate the AI's learning..."
+        "Yes. In order to facilitate the AI's \nlearning..."
       ]
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "Rookie Trainer",
-      "text": "\"Thank you as always, that really helps.\nI've brewed some black tea, so please enjoy.\"",
+      "text": "\"Thank you as always, that really helps. \nI've brewed some black tea, so please \nenjoy.\"",
       "choice_data_list": [
         "Thank you!"
       ]
@@ -57,14 +57,14 @@
     },
     {
       "name": "Narrator",
-      "text": "My phone vibrates, so I excuse myself from the other Trainers to check it. It was a task notification. On the screen were the words 'Hot Springs Trip.'",
+      "text": "My phone vibrates, so I excuse myself from \nthe other Trainers to check it. It was a \ntask notification. On the screen were the \nwords 'Hot Springs Trip.'",
       "choice_data_list": [
         "That's it, the hot springs trip voucher!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "After wrapping up the lecture on \"IRON WILL,\" I hurried over to Ikuno Dictus.\nShe was already training as usual.",
+      "text": "After wrapping up the lecture on \"IRON \nWILL,\" I hurried over to Ikuno Dictus. She \nwas already training as usual.",
       "choice_data_list": [
         "Let's go to the hot springs, Ikuno!"
       ]
@@ -76,32 +76,32 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"...That's right.\nI was reminded of that hot spring voucher I won in the lottery.\"",
+      "text": "\"...That's right. I was reminded of that \nhot spring voucher I won in the lottery.\"",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Yes, let's go.\nBody maintenance is essential, after all.",
+      "text": "Yes, let's go. Body maintenance is \nessential, after all.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The day of the hot springs trip.\nIkuno Dictus had brought quite a lot of luggage.",
+      "text": "The day of the hot springs trip. Ikuno \nDictus had brought quite a lot of luggage.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Trainer,\nwhat would you like to drink on the train?",
+      "text": "Trainer, what would you like to drink on \nthe train?",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "We have tea, water, and coffee.\nIf you haven't eaten breakfast yet,\nwe also have rice balls and stuffed breads.",
+      "text": "We have tea, water, and coffee. If you \nhaven't eaten breakfast yet, we also have \nrice balls and stuffed breads.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Everything listed is food and drink\nthat I usually enjoy.\nTo think they even accounted for when I skip breakfast...",
+      "text": "Everything listed is food and drink that I \nusually enjoy. To think they even \naccounted for when I skip breakfast...",
       "choice_data_list": [
         "That's Ikuno for you, so thoughtful!",
         "That's Ikuno for you, so thoughtful!"
@@ -109,99 +109,99 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Thank you very much.\nThese past three years spent together with you weren't just for show, Trainer.",
+      "text": "Thank you very much. These past three \nyears spent together with you weren't just \nfor show, Trainer.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Please leave the support during our journey to me as well.\nI have completed all my advance research thoroughly.",
+      "text": "Please leave the support during our \njourney to me as well. I have completed \nall my advance research thoroughly.",
       "choice_data_list": [
         "I'm counting on you!"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"We have arrived.\nHowever, the real journey starts from here.\"",
+      "text": "\"We have arrived. However, the real \njourney starts from here.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Before heading into the inn, we took a stroll through the hot spring town.",
+      "text": "Before heading into the inn, we took a \nstroll through the hot spring town.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "That old-fashioned game parlor was quite enjoyable.\n—Since we moved around so much, are you feeling a bit hungry?",
+      "text": "That old-fashioned game parlor was quite \nenjoyable. —Since we moved around so much, \nare you feeling a bit hungry?",
       "choice_data_list": [
         "Yeah. Let's enjoy a food tour together."
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"Hot spring steamed buns, onsen carrots, croquettes,\nsoft-serve ice cream... There are also places where you can buy vegetables and eggs to steam in the hot spring!\"",
+      "text": "\"Hot spring steamed buns, onsen carrots, \ncroquettes, soft-serve ice cream... There \nare also places where you can buy \nvegetables and eggs to steam in the hot \nspring!\"",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "What is your stomach\nin the mood for, Trainer?",
+      "text": "What is your stomach in the mood for, \nTrainer?",
       "choice_data_list": [
         "I wonder if it's a hot spring manju?"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "The closest shop is a long-established one where you can enjoy classic flavors.\nIf you prefer it less sweet, there's a shop 25 meters ahead, and for unique options like custard, 40 meters ahead—",
+      "text": "The closest shop is a long-established one \nwhere you can enjoy classic flavors. If \nyou prefer it less sweet, there's a shop \n25 meters ahead, and for unique options \nlike custard, 40 meters ahead—",
       "choice_data_list": [
         "You looked into it that much!?"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Yes. Since I always have trouble deciding which shop to go to.\nIf we look it up beforehand, we can choose without any regrets, right?",
+      "text": "Yes. Since I always have trouble deciding \nwhich shop to go to. If we look it up \nbeforehand, we can choose without any \nregrets, right?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Her preliminary research let us have a total blast,\nand yet she still has more tricks up her sleeve?",
+      "text": "Her preliminary research let us have a \ntotal blast, and yet she still has more \ntricks up her sleeve?",
       "choice_data_list": [
         "Can I squeal with joy?"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Fufufu, I shall make sure\nthose screams never stop.",
+      "text": "Fufufu, I shall make sure those screams \nnever stop.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Trainer, would you like to go to the 2nd-floor\nlounge before dinner?\nApparently, there's going to be a Japanese drum performance.",
+      "text": "Trainer, would you like to go to the \n2nd-floor lounge before dinner? \nApparently, there's going to be a Japanese \ndrum performance.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I heard there's an opening act before the show starts.\nIt might be best to head over early.",
+      "text": "I heard there's an opening act before the \nshow starts. It might be best to head over \nearly.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "When I arrived at the lounge, the crowd was sparse.\nRight after taking a seat, an announcement for an upcoming event came over the PA system.",
+      "text": "When I arrived at the lounge, the crowd \nwas sparse. Right after taking a seat, an \nannouncement for an upcoming event came \nover the PA system.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "It looks like it's going to get crowded soon.\nI'm glad we were able to secure good seats.",
+      "text": "It looks like it's going to get crowded \nsoon. I'm glad we were able to secure good \nseats.",
       "choice_data_list": [
         "Ikuno's been a real lifesaver today."
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Fufu, I'm glad to hear you say that.\nPlease look forward to what comes next.",
+      "text": "Fufu, I'm glad to hear you say that. \nPlease look forward to what comes next.",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I'll make sure to deliver\nthe greatest travel experience to you with my own hands, Trainer.",
+      "text": "I'll make sure to deliver the greatest \ntravel experience to you with my own \nhands, Trainer.",
       "choice_data_list": []
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "name": "Narrator",
-      "text": "I spotted a massage chair near the grand bath.\nA massage right after soaking in the hot springs would work wonders.\nJust as I was about to sit downâ",
+      "text": "I spotted a massage chair near the grand \nbath. A massage right after soaking in the \nhot springs would work wonders. Just as I \nwas about to sit downâ",
       "choice_data_list": []
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "...A massage, is it?\nI humbly believe that fingers can make far more delicate adjustments than any machine, however.",
+      "text": "...A massage, is it? I humbly believe that \nfingers can make far more delicate \nadjustments than any machine, however.",
       "choice_data_list": []
     },
     {
@@ -233,10 +233,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Before I could even reply, Ikuno Dictus urged me to sit,\nand I ended up getting a shoulder massage from her.\nThe moderate pressure felt so soothing.",
+      "text": "Before I could even reply, Ikuno Dictus \nurged me to sit, and I ended up getting a \nshoulder massage from her. The moderate \npressure felt so soothing.",
       "choice_data_list": [
-        "Just as you said, it's way better than a machine.",
-        "Just like you said, it's way better than a machine."
+        "Just as you said, it's way better than a \nmachine.",
+        "Just like you said, it's way better than a \nmachine."
       ]
     },
     {
@@ -251,26 +251,26 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "...Ghh, Trainer.\nI am terribly sorry!",
+      "text": "...Ghh, Trainer. I am terribly sorry!",
       "choice_data_list": [
         "Huh!? What brought this on, so suddenly?"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Saying that fingers were better than the machine earlier was just an excuse on the spot!",
+      "text": "Saying that fingers were better than the \nmachine earlier was just an excuse on the \nspot!",
       "choice_data_list": [
         "An excuse?"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"...This trip is meant for maintaining both of our bodies.\nThat is why I was... preparing for it.\"",
+      "text": "\"...This trip is meant for maintaining \nboth of our bodies. That is why I was... \npreparing for it.\"",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Of course, since I didn't mention it to you,\nyou were free to do whatever you liked, Trainer, but...",
+      "text": "Of course, since I didn't mention it to \nyou, you were free to do whatever you \nliked, Trainer, but...",
       "choice_data_list": []
     },
     {
@@ -280,19 +280,19 @@
     },
     {
       "name": "Narrator",
-      "text": "She is rambling rather vaguely, which is rare for her.\nIn other words, was she preparing\nto give me a massage...?",
+      "text": "She is rambling rather vaguely, which is \nrare for her. In other words, was she \npreparing to give me a massage...?",
       "choice_data_list": [
         "It's fine, you don't need to apologize."
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"—No.\nI have used other excuses as well.\"",
+      "text": "\"—No. I have used other excuses as well.\"",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"When you asked me to go to the hot springs with you,\nI acted as if I had just remembered, but...\"",
+      "text": "\"When you asked me to go to the hot \nsprings with you, I acted as if I had just \nremembered, but...\"",
       "choice_data_list": []
     },
     {
@@ -302,19 +302,19 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "\"So before that...\nI had actually gone to the Trainer Lounge.\"",
+      "text": "\"So before that... I had actually gone to \nthe Trainer Lounge.\"",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I promised I'd remind you\nif you happened to forget, Trainer...",
+      "text": "I promised I'd remind you if you happened \nto forget, Trainer...",
       "choice_data_list": [
         "! Sorry, I didn't notice!"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "No, I knew you were busy.\nI was waiting for your conversation to finish.\nHowever...",
+      "text": "No, I knew you were busy. I was waiting \nfor your conversation to finish. \nHowever...",
       "choice_data_list": []
     },
     {
@@ -329,44 +329,44 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "“I deeply apologize for my dishonesty and for trying to paper things over with a lie.”",
+      "text": "“I deeply apologize for my dishonesty and \nfor trying to paper things over with a \nlie.”",
       "choice_data_list": [
         "It really doesn't bother me."
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "No! I am fully aware that this is\na grave breach of trust that shakes our relationship!",
+      "text": "No! I am fully aware that this is a grave \nbreach of trust that shakes our \nrelationship!",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I am so inexperienced that I cannot even manage my own mentality,\nbut please... please, do not give up on me...",
+      "text": "I am so inexperienced that I cannot even \nmanage my own mentality, but please... \nplease, do not give up on me...",
       "choice_data_list": [
-        "I'm not exasperated at all. You're just very diligent, Ikuno."
+        "I'm not exasperated at all. You're just \nvery diligent, Ikuno."
       ]
     },
     {
       "name": "Narrator",
-      "text": "You could have just kept quiet about it.\nYet you honestly confessed to me,\nfeeling that you had been dishonest.",
+      "text": "You could have just kept quiet about it. \nYet you honestly confessed to me, feeling \nthat you had been dishonest.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "She was so earnest it almost made me feel bad.\nYet, seeing how far she was willing to go not to lose\nmy trust filled me with pure happiness.",
+      "text": "She was so earnest it almost made me feel \nbad. Yet, seeing how far she was willing \nto go not to lose my trust filled me with \npure happiness.",
       "choice_data_list": [
-        "I must stay true to your sincerity as well.",
-        "I have to stay true to your sincerity as well"
+        "I must stay true to your sincerity as \nwell.",
+        "I have to stay true to your sincerity as \nwell"
       ]
     },
     {
       "name": "Ikuno Dictus",
-      "text": "Trainer...\nYou are already sincere enough. It's just—",
+      "text": "Trainer... You are already sincere enough. \nIt's just—",
       "choice_data_list": []
     },
     {
       "name": "Ikuno Dictus",
-      "text": "If you tell me\nthat you still trust me as you always have.",
+      "text": "If you tell me that you still trust me as \nyou always have.",
       "choice_data_list": []
     },
     {
@@ -378,12 +378,12 @@
     },
     {
       "name": "Ikuno Dictus",
-      "text": "...A water bottle, so you can drink in the break room in the future.\nMay I prepare one for you?",
+      "text": "...A water bottle, so you can drink in the \nbreak room in the future. May I prepare \none for you?",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It was a moment where I felt an\nirreplaceable bond between Ikuno Dictus and myself...",
+      "text": "It was a moment where I felt an \nirreplaceable bond between Ikuno Dictus \nand myself...",
       "choice_data_list": []
     }
   ]

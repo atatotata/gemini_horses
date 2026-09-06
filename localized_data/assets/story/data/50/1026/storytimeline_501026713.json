@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
-      "text": "Reporting to Master.\r\nDiagnostic result: \"Damage: Minor.\"",
+      "text": "Reporting to Master. Diagnostic result: \n\"Damage: Minor.\"",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"The probability is low, but... if the power is successfully controlled,\r\nI judge the subject will be in a condition capable of exercise.\"",
+      "text": "\"The probability is low, but... if the \npower is successfully controlled, I judge \nthe subject will be in a condition capable \nof exercise.\"",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"...Requesting permission to continue training.\r\nNo matter how low the probability, I will make it a success.\"",
+      "text": "\"...Requesting permission to continue \ntraining. No matter how low the \nprobability, I will make it a success.\"",
       "choice_data_list": [
         "I'm worried, so let's get some rest.",
         "…Okay, let's continue!",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"...Requesting permission to continue training.\r\nNo matter how low the probability, I will make it a success.\"",
+      "text": "\"...Requesting permission to continue \ntraining. No matter how low the \nprobability, I will make it a success.\"",
       "choice_data_list": [
         "I'm worried, so let's get some rest.",
         "…Okay, let's continue!",
@@ -36,32 +36,32 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Order understood.\r\nI apologize for causing you concern.",
+      "text": "...Order understood. I apologize for \ncausing you concern.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Initiating Operation: \"Resting to Avoid Causing Worry.\"",
+      "text": "Initiating Operation: \"Resting to Avoid \nCausing Worry.\"",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "And so,\r\nMihono Bourbon took time to heal her injury...",
+      "text": "And so, Mihono Bourbon took time to heal \nher injury...",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Understood.\r\nCommencing Operation: 'Control Power and Continue Training.'",
+      "text": "Understood. Commencing Operation: 'Control \nPower and Continue Training.'",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Factoring in damaged components. Throttling power output.",
+      "text": "Factoring in damaged components. \nThrottling power output.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "First, let's start halfway, at 50% output...!",
+      "text": "First, let's start halfway, at 50% \noutput...!",
       "choice_data_list": [
         "Wait! 50% is dangerous—",
         "Wait! 50% is too dange—"
@@ -79,7 +79,7 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "...Nngh!\r\nChecking the pain... in the affected area...",
+      "text": "...Nngh! Checking the pain... in the \naffected area...",
       "choice_data_list": [
         "Are you okay?!",
         "Are you okay!?"
@@ -87,27 +87,27 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I am... sorry.\nEven at 50% output... it seems to have provided stimulation.",
+      "text": "I am... sorry. Even at 50% output... it \nseems to have provided stimulation.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Deciding that any form of exercise would only make things worse, you have her rest quietly.",
+      "text": "Deciding that any form of exercise would \nonly make things worse, you have her rest \nquietly.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "No pain... Output at 50%, clear.\r\nNext is... 55%—!",
+      "text": "No pain... Output at 50%, clear. Next \nis... 55%—!",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Reporting to Master.\r\nVerification shows an output capacity of up to 65%.",
+      "text": "Reporting to Master. Verification shows an \noutput capacity of up to 65%.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I propose restructuring the regimen\r\nbased on this data.",
+      "text": "I propose restructuring the regimen based \non this data.",
       "choice_data_list": [
         "Leave it to me!",
         "Leave it to me!"
@@ -115,17 +115,17 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yes... Whatever the training regimen may be,\r\nI will carry it out without fail.",
+      "text": "Yes... Whatever the training regimen may \nbe, I will carry it out without fail.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "For the sake of Master, who believed I could maintain control and gave me the command.",
+      "text": "For the sake of Master, who believed I \ncould maintain control and gave me the \ncommand.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Having successfully mastered control of her power,\r\nMihono Bourbon tackled her restructured regimen with diligence...\nand made a swift return to the track!",
+      "text": "Having successfully mastered control of \nher power, Mihono Bourbon tackled her \nrestructured regimen with diligence... and \nmade a swift return to the track!",
       "choice_data_list": []
     }
   ]

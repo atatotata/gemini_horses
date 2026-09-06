@@ -8,10 +8,10 @@
     },
     {
       "name": "Narrator",
-      "text": "Today, we conducted the early morning training that Calstone Light O had requested.",
+      "text": "Today, we conducted the early morning \ntraining that Calstone Light O had \nrequested.",
       "choice_data_list": [
-        "Looking good! Looks like you'll get a great time!",
-        "Looking good! Looks like you'll get a great time!"
+        "Looking good! Looks like you'll get a \ngreat time!",
+        "Looking good! Looks like you'll get a \ngreat time!"
       ]
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Calstone Light O crosses the finish line... but\nwithout slowing down, she bolts straight\nout of Tracen Academy!",
+      "text": "Calstone Light O crosses the finish \nline... but without slowing down, she \nbolts straight out of Tracen Academy!",
       "choice_data_list": [
         "Where are you going, Light O!?",
         "Where are you going, Light O!?"
@@ -29,27 +29,27 @@
     },
     {
       "name": "High School Girl",
-      "text": "An Umamusume with straight black hair...?\nCan't say I've seen her.",
+      "text": "An Umamusume with straight black hair...? \nCan't say I've seen her.",
       "choice_data_list": []
     },
     {
       "name": "Elderly Man",
-      "text": "If you mean that kid, she ran off toward the riverbed.",
+      "text": "If you mean that kid, she ran off toward \nthe riverbed.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Searching for Calstone Light O,\nI arrived at the riverbank.",
+      "text": "Searching for Calstone Light O, I arrived \nat the riverbank.",
       "choice_data_list": []
     },
     {
       "name": "Calstone Light O",
-      "text": "Hmm, seems I ended up focusing a little too hard.",
+      "text": "Hmm, seems I ended up focusing a little \ntoo hard.",
       "choice_data_list": []
     },
     {
       "name": "Calstone Light O",
-      "text": "To think I had run off the track\nwithout even realizing it...",
+      "text": "To think I had run off the track without \neven realizing it...",
       "choice_data_list": [
         "You're getting way too into it."
       ]
@@ -61,7 +61,7 @@
     },
     {
       "name": "Calstone Light O",
-      "text": "Fufu... Ahaha!\nRight?!",
+      "text": "Fufu... Ahaha! Right?!",
       "choice_data_list": []
     },
     {
@@ -71,25 +71,25 @@
     },
     {
       "name": "Calstone Light O",
-      "text": "My passion for reaching top speed\nhasn't changed one bit even now!",
+      "text": "My passion for reaching top speed hasn't \nchanged one bit even now!",
       "choice_data_list": []
     },
     {
       "name": "Calstone Light O",
-      "text": "There, good job! Looking splendid, me! Keep it up, me!",
+      "text": "There, good job! Looking splendid, me! \nKeep it up, me!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "She seems in great spirits after being able to run just as she wanted.\nIndeed, her running today\nwas nothing short of wonderful.",
+      "text": "She seems in great spirits after being \nable to run just as she wanted. Indeed, \nher running today was nothing short of \nwonderful.",
       "choice_data_list": [
-        "(Come to think of it, she was timing her laps.)",
-        "(Come to think of it, she was timing her laps.)"
+        "(Come to think of it, she was timing her \nlaps.)",
+        "(Come to think of it, she was timing her \nlaps.)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Her record etched on the screen.\nIt was just a tiny bit faster than yesterday.",
+      "text": "Her record etched on the screen. It was \njust a tiny bit faster than yesterday.",
       "choice_data_list": []
     }
   ]

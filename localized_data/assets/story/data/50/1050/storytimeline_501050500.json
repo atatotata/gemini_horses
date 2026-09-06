@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narita Taishin",
-      "text": "\"...Ah, a stamina recovery item dropped. I still have time, maybe I should use it...?\"",
+      "text": "\"...Ah, a stamina recovery item dropped. I \nstill have time, maybe I should use \nit...?\"",
       "choice_data_list": []
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...Ah, geez, you.\r\nI told you to stop shouting my name so loud every single time.",
+      "text": "...Ah, geez, you. I told you to stop \nshouting my name so loud every single \ntime.",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Ehehe, so sorry, so sorry!! But listen, listen,\r\nsomething super funny just happened!",
+      "text": "Ehehe, so sorry, so sorry!! But listen, \nlisten, something super funny just \nhappened!",
       "choice_data_list": []
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "T-Ta... Ta-Ta... TAI-SHIIIIIN!!\r\nWAAAAAAHHHHHH!!",
+      "text": "T-Ta... Ta-Ta... TAI-SHIIIIIN!! \nWAAAAAAHHHHHH!!",
       "choice_data_list": []
     },
     {
@@ -53,44 +53,44 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "You actually put your phone away mid-game\r\njust to listen to what I have to say?!",
+      "text": "You actually put your phone away mid-game \njust to listen to what I have to say?!",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "I'm zzooo moveddddd!!! You really\nstarted to enjoy chatting a little bit, didn't youuuu?!",
+      "text": "I'm zzooo moveddddd!!! You really started \nto enjoy chatting a little bit, didn't \nyouuuu?!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"N-No, wait, this is...!!\r\nAh, damn it...!!\"",
+      "text": "\"N-No, wait, this is...!! Ah, damn \nit...!!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Lately, I feel like I've been able to\r\ncommunicate really well with Narita Taishin.\"",
+      "text": "\"Lately, I feel like I've been able to \ncommunicate really well with Narita \nTaishin.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, I was intending to discuss training again today, but...",
+      "text": "And so, I was intending to discuss \ntraining again today, but...",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...I'll just listen like this today.\r\nGo ahead and say whatever you want.\"",
+      "text": "\"...I'll just listen like this today. Go \nahead and say whatever you want.\"",
       "choice_data_list": [
         "Huh!?"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Don't 'huh' me! I said I'm listening right like this!",
+      "text": "Don't 'huh' me! I said I'm listening right \nlike this!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "...Narita Taishin seemed\r\nunusually embarrassed for some reason.",
+      "text": "...Narita Taishin seemed unusually \nembarrassed for some reason.",
       "choice_data_list": []
     }
   ]

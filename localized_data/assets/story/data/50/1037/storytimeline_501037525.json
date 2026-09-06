@@ -3,19 +3,19 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "For this session,\r\nshe had provided the training plan herself.",
+      "text": "For this session, she had provided the \ntraining plan herself.",
       "choice_data_list": []
     },
     {
       "name": "Eishin Flash",
-      "text": "Everything went exactly according to my plan, down to the millimeter.\r\nThank you very much, Trainer.",
+      "text": "Everything went exactly according to my \nplan, down to the millimeter. Thank you \nvery much, Trainer.",
       "choice_data_list": [
         "How did it go?"
       ]
     },
     {
       "name": "Eishin Flash",
-      "text": "...It feels a bit like the first time\r\nI baked a cake using a recipe I made up myself.",
+      "text": "...It feels a bit like the first time I \nbaked a cake using a recipe I made up \nmyself.",
       "choice_data_list": []
     },
     {
@@ -25,27 +25,27 @@
     },
     {
       "name": "Narrator",
-      "text": "It seemed to have been a wonderful experience for Eishin Flash!",
+      "text": "It seemed to have been a wonderful \nexperience for Eishin Flash!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "However, due to scheduling conflicts, we were unable to carry out the training as planned...",
+      "text": "However, due to scheduling conflicts, we \nwere unable to carry out the training as \nplanned...",
       "choice_data_list": []
     },
     {
       "name": "Eishin Flash",
-      "text": "...No, that's quite alright.\r\nIt is not as though I hadn't anticipated this possibility.",
+      "text": "...No, that's quite alright. It is not as \nthough I hadn't anticipated this \npossibility.",
       "choice_data_list": []
     },
     {
       "name": "Eishin Flash",
-      "text": "I look forward to working with you in the future as well.",
+      "text": "I look forward to working with you in the \nfuture as well.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "From then on, Eishin Flash never again offered to create training plans.",
+      "text": "From then on, Eishin Flash never again \noffered to create training plans.",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "While out with Durandal, as we passed through a shopping street,\nher steps came to a halt in front of a local Chinese restaurant.",
+      "text": "While out with Durandal, as we passed \nthrough a shopping street, her steps came \nto a halt in front of a local Chinese \nrestaurant.",
       "choice_data_list": [
         "What's the matter?",
         "What's wrong?"
@@ -11,94 +11,94 @@
     },
     {
       "name": "Durandal",
-      "text": "No, um,\nit's my usual spot, but... I saw a familiar face.",
+      "text": "No, um, it's my usual spot, but... I saw a \nfamiliar face.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "\"Believe-san?\nDid you start a part-time job or something?\"",
+      "text": "\"Believe-san? Did you start a part-time \njob or something?\"",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "...I am merely assisting with the shop's repairs.",
+      "text": "...I am merely assisting with the shop's \nrepairs.",
       "choice_data_list": []
     },
     {
       "name": "Shopkeeper",
-      "text": "Whoa there, little ladies.\nSorry, but as you can see, we're closed today.",
+      "text": "Whoa there, little ladies. Sorry, but as \nyou can see, we're closed today.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "\"I can tell it's your day off, but...\nWhy are you doing repair work, Believe-san?\"",
+      "text": "\"I can tell it's your day off, but... Why \nare you doing repair work, Believe-san?\"",
       "choice_data_list": []
     },
     {
       "name": "Shopkeeper",
-      "text": "It's pretty worn down, but it's a shop full of memories.\nI asked for repairs to see if it could hold out a bit longer.",
+      "text": "It's pretty worn down, but it's a shop \nfull of memories. I asked for repairs to \nsee if it could hold out a bit longer.",
       "choice_data_list": []
     },
     {
       "name": "Repairman",
-      "text": "Man... I threw my back out for the first time in a while.\nSorry 'bout that.",
+      "text": "Man... I threw my back out for the first \ntime in a while. Sorry 'bout that.",
       "choice_data_list": []
     },
     {
       "name": "Shopkeeper",
-      "text": "So, while I was wondering what to do, young miss Believe offered to help out.",
+      "text": "So, while I was wondering what to do, \nyoung miss Believe offered to help out.",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "This is a shop that has long been loved by this town.\nI believe places like this should be preserved.",
+      "text": "This is a shop that has long been loved by \nthis town. I believe places like this \nshould be preserved.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "I agree. And if it means preserving a beloved shop for everyone,\nit is my duty to lend a hand!",
+      "text": "I agree. And if it means preserving a \nbeloved shop for everyone, it is my duty \nto lend a hand!",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "—...Guh,\nhow utterly pathetic of me...!",
+      "text": "—...Guh, how utterly pathetic of me...!",
       "choice_data_list": [
         "...Durandal?"
       ]
     },
     {
       "name": "Durandal",
-      "text": "\"Helping those who should be helped\" must be the right thing to do. And yet... to think there's nothing I can do to help...",
+      "text": "\"Helping those who should be helped\" must \nbe the right thing to do. And yet... to \nthink there's nothing I can do to help...",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Everything Believe-san is doing right now involves adjusting and machining parts to the millimeter.",
+      "text": "Everything Believe-san is doing right now \ninvolves adjusting and machining parts to \nthe millimeter.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "It is very delicate work...\nand at the same time, something I am quite unsuited for.",
+      "text": "It is very delicate work... and at the \nsame time, something I am quite unsuited \nfor.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "I'd like to help if I can...\nHowever, the only thing I can offer right now is manual labor—",
+      "text": "I'd like to help if I can... However, the \nonly thing I can offer right now is manual \nlabor—",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "...Well, I'll manage somehow.\nAfter all, it is necessary.",
+      "text": "...Well, I'll manage somehow. After all, \nit is necessary.",
       "choice_data_list": []
     },
     {
       "name": "Shopkeeper",
-      "text": "That might be true, but screwing in bolts while holding down this oversized sign... No matter how tough you are, little lady, doing it alone is—",
+      "text": "That might be true, but screwing in bolts \nwhile holding down this oversized sign... \nNo matter how tough you are, little lady, \ndoing it alone is—",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Is this my turn to shine?!\n...I'm on my way!",
+      "text": "Is this my turn to shine?! ...I'm on my \nway!",
       "choice_data_list": [
         "Now go and work to your heart's content!"
       ]
@@ -110,12 +110,12 @@
     },
     {
       "name": "Believe",
-      "text": "Huh...?\nNo, well... I suppose so.\nIf you could hold it until I tack it in place.",
+      "text": "Huh...? No, well... I suppose so. If you \ncould hold it until I tack it in place.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Fufu, leave it to me!\nI'll give you my full and solid support!",
+      "text": "Fufu, leave it to me! I'll give you my \nfull and solid support!",
       "choice_data_list": []
     },
     {
@@ -125,17 +125,17 @@
     },
     {
       "name": "Durandal",
-      "text": "I vowed to the Lord that I would be one to extend a helping hand.\nAs long as I can fulfill that, the size of the task does not matter.",
+      "text": "I vowed to the Lord that I would be one to \nextend a helping hand. As long as I can \nfulfill that, the size of the task does \nnot matter.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "And by consistently doing what is right,\nI can maintain a heart that I can be proud of.",
+      "text": "And by consistently doing what is right, I \ncan maintain a heart that I can be proud \nof.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Besides, I wanted to return the favor just as much.",
+      "text": "Besides, I wanted to return the favor just \nas much.",
       "choice_data_list": []
     },
     {
@@ -145,27 +145,27 @@
     },
     {
       "name": "Believe",
-      "text": "High-precision work is my job, after all... But if it's auxiliary tasks like hauling materials or tearing down scrap, even someone who isn't great at delicate work could probably help.",
+      "text": "High-precision work is my job, after \nall... But if it's auxiliary tasks like \nhauling materials or tearing down scrap, \neven someone who isn't great at delicate \nwork could probably help.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Fufu, I feel like I can really contribute to something like that!\nI'm itching to get started!",
+      "text": "Fufu, I feel like I can really contribute \nto something like that! I'm itching to get \nstarted!",
       "choice_data_list": [
         "Let's start with hauling materials, then.",
-        "Let's help out by clearing scrap wood and doing demolition."
+        "Let's help out by clearing scrap wood and \ndoing demolition."
       ]
     },
     {
       "name": "Durandal",
-      "text": "Hup!\nThat makes half!",
+      "text": "Hup! That makes half!",
       "choice_data_list": [
         "Be careful not to drop it~!"
       ]
     },
     {
       "name": "Durandal",
-      "text": "Nothing has been overlooked! Behold my prowess as a match for a thousand warriors!",
+      "text": "Nothing has been overlooked! Behold my \nprowess as a match for a thousand \nwarriors!",
       "choice_data_list": []
     },
     {
@@ -175,12 +175,12 @@
     },
     {
       "name": "Shopkeeper",
-      "text": "You girls were a real lifesaver!\nThanks to you, I can keep the shop running!",
+      "text": "You girls were a real lifesaver! Thanks to \nyou, I can keep the shop running!",
       "choice_data_list": []
     },
     {
       "name": "Landlady",
-      "text": "Please let me treat you today.\nMake sure to eat plenty.",
+      "text": "Please let me treat you today. Make sure \nto eat plenty.",
       "choice_data_list": []
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "name": "Believe",
-      "text": "Durandal-san was... a big help too.\nIt would have taken a bit more time if I were alone.",
+      "text": "Durandal-san was... a big help too. It \nwould have taken a bit more time if I were \nalone.",
       "choice_data_list": []
     },
     {
@@ -205,19 +205,19 @@
     },
     {
       "name": "Durandal",
-      "text": "\"...Shopkeeper, if there's ever another chance to help with repairs,\nplease don't hesitate to call on me again!\"",
+      "text": "\"...Shopkeeper, if there's ever another \nchance to help with repairs, please don't \nhesitate to call on me again!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "In a wonderful mood, Durandal happily\nstuffed her cheeks with the thank-you meal...",
+      "text": "In a wonderful mood, Durandal happily \nstuffed her cheeks with the thank-you \nmeal...",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "I have finished dismantling the cleared materials.\nThe sharpness of my hand blade does not shame the name of the holy sword, either.",
+      "text": "I have finished dismantling the cleared \nmaterials. The sharpness of my hand blade \ndoes not shame the name of the holy sword, \neither.",
       "choice_data_list": [
-        "Dismantling it with your bare hands... You never cease to amaze me...!"
+        "Dismantling it with your bare hands... You \nnever cease to amaze me...!"
       ]
     },
     {
@@ -227,32 +227,32 @@
     },
     {
       "name": "Shopkeeper",
-      "text": "Man... you two really finished it all by yourselves.\nYou young ladies are seriously something else!",
+      "text": "Man... you two really finished it all by \nyourselves. You young ladies are seriously \nsomething else!",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "Securing pathways while observing the surroundings.\nHandling materials without wasting a second.",
+      "text": "Securing pathways while observing the \nsurroundings. Handling materials without \nwasting a second.",
       "choice_data_list": []
     },
     {
       "name": "Believe",
-      "text": "...I think that was a job well done,\nDurandal.",
+      "text": "...I think that was a job well done, \nDurandal.",
       "choice_data_list": []
     },
     {
       "name": "Repairman",
-      "text": "You're welcome anytime if you ever feel like learning the ropes.\n...Though you folks definitely look happiest when you're running.",
+      "text": "You're welcome anytime if you ever feel \nlike learning the ropes. ...Though you \nfolks definitely look happiest when you're \nrunning.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "Fufu. Indeed. But if there is ever another chance\nto be of assistance, I would be delighted to help.",
+      "text": "Fufu. Indeed. But if there is ever another \nchance to be of assistance, I would be \ndelighted to help.",
       "choice_data_list": []
     },
     {
       "name": "Durandal",
-      "text": "\"Because nothing brings me greater joy\nthan being someone who can help others.\"",
+      "text": "\"Because nothing brings me greater joy \nthan being someone who can help others.\"",
       "choice_data_list": []
     }
   ]

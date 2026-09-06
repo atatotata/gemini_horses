@@ -3,30 +3,30 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I searched for Zenno Rob Roy, who hadn't shown up despite it being time for training,\nand found her on a hill...",
+      "text": "I searched for Zenno Rob Roy, who hadn't \nshown up despite it being time for \ntraining, and found her on a hill...",
       "choice_data_list": []
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah, Trainer!\nLook at this cityscape.\nThe buildings and the park's location... there's no doubt about it!",
+      "text": "Ah, Trainer! Look at this cityscape. The \nbuildings and the park's location... \nthere's no doubt about it!",
       "choice_data_list": []
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "\"This town was the model for where the protagonist grew up!\nThe scene where they train by running all around town was so memorable—\"",
+      "text": "\"This town was the model for where the \nprotagonist grew up! The scene where they \ntrain by running all around town was so \nmemorable—\"",
       "choice_data_list": [
-        "Looks like it's time for your training too.",
+        "Looks like it's time for your training \ntoo.",
         "Time for your training too, huh?"
       ]
     },
     {
       "name": "Zenno Rob Roy",
-      "text": "Ah...! I-I-I'm so sorry!\nWhat have I done...?!",
+      "text": "Ah...! I-I-I'm so sorry! What have I \ndone...?!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Zenno Rob Roy got too caught up researching the book\nand ended up skipping training.\nI warned her to be more careful in the future.",
+      "text": "Zenno Rob Roy got too caught up \nresearching the book and ended up skipping \ntraining. I warned her to be more careful \nin the future.",
       "choice_data_list": []
     }
   ]

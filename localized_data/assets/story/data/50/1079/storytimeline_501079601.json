@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Furioso",
-      "text": "This time... we are the winners of this race.",
+      "text": "This time... we are the winners of this \nrace.",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "Burning with fighting spirit, we raced together.\nNothing can outshine the brilliance of our twin stars.",
+      "text": "Burning with fighting spirit, we raced \ntogether. Nothing can outshine the \nbrilliance of our twin stars.",
       "choice_data_list": []
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Furioso",
-      "text": "Yes.\nI'll rush over right away.",
+      "text": "Yes. I'll rush over right away.",
       "choice_data_list": []
     }
   ]

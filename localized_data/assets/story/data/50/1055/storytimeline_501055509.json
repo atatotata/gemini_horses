@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "I ran into Marvelous Sunday in front of the school gate.\nShe seemed to have less energy than usual.",
+      "text": "I ran into Marvelous Sunday in front of \nthe school gate. She seemed to have less \nenergy than usual.",
       "choice_data_list": [
         "What's the matter?",
         "What's wrong?"
@@ -11,19 +11,19 @@
     },
     {
       "name": "Marvelous Sunday",
-      "text": "Trainer... You see...\nMy Marvelous is running on empty...",
+      "text": "Trainer... You see... My Marvelous is \nrunning on empty...",
       "choice_data_list": [
         "Marvelous is... depleted?"
       ]
     },
     {
       "name": "Marvelous Sunday",
-      "text": "\"Yeah... When I stay worn out for too long,\nit gets harder to feel the marvelousness...\"",
+      "text": "\"Yeah... When I stay worn out for too \nlong, it gets harder to feel the \nmarvelousness...\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "It seems a lot of fatigue has accumulated\nin Marvelous Sunday from consecutive races.\nWe should reconsider her upcoming race schedule.",
+      "text": "It seems a lot of fatigue has accumulated \nin Marvelous Sunday from consecutive \nraces. We should reconsider her upcoming \nrace schedule.",
       "choice_data_list": []
     }
   ]

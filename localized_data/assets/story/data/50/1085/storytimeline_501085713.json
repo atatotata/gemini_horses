@@ -3,22 +3,22 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Daiichi Ruby got injured,\nso I immediately had her treated in the infirmary.",
+      "text": "Daiichi Ruby got injured, so I immediately \nhad her treated in the infirmary.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Doctor, thank you very much for treating me.",
+      "text": "Doctor, thank you very much for treating \nme.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Trainer.\nLet us resume our training.",
+      "text": "Trainer. Let us resume our training.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I have no time to be\npreoccupied with pain of this degree.",
+      "text": "I have no time to be preoccupied with pain \nof this degree.",
       "choice_data_list": [
         "Let's not rush—let's get some rest.",
         "As long as it's within reason..."
@@ -26,14 +26,14 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "...I cannot accept that.\nPlease provide valid reasoning as to why rest is necessary.",
+      "text": "...I cannot accept that. Please provide \nvalid reasoning as to why rest is \nnecessary.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Thinking she'd say that, I spread out the latest research paper I had printed out to show her.",
+      "text": "Thinking she'd say that, I spread out the \nlatest research paper I had printed out to \nshow her.",
       "choice_data_list": [
-        "Pushing through the pain won't do you any good."
+        "Pushing through the pain won't do you any \ngood."
       ]
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Then, I shall focus on my treatment.\n...Please excuse me.",
+      "text": "Then, I shall focus on my treatment. \n...Please excuse me.",
       "choice_data_list": []
     },
     {
       "name": "Daiichi Ruby",
-      "text": "Understood.\nLet us begin with some light jogging, then.",
+      "text": "Understood. Let us begin with some light \njogging, then.",
       "choice_data_list": []
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "name": "Narrator",
-      "text": "\"When she tried running, her form was off...\nJudging from her expression, she likely knows it's the lingering effect of her injury.\"",
+      "text": "\"When she tried running, her form was \noff... Judging from her expression, she \nlikely knows it's the lingering effect of \nher injury.\"",
       "choice_data_list": [
         "Let's call it a day here."
       ]
@@ -70,7 +70,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Afterward, she immediately went on rest, but...\nperhaps letting her run a bit was a mistake, as it took\nquite a while for her to get back into top shape.",
+      "text": "Afterward, she immediately went on rest, \nbut... perhaps letting her run a bit was a \nmistake, as it took quite a while for her \nto get back into top shape.",
       "choice_data_list": []
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "name": "Daiichi Ruby",
-      "text": "I don't feel any pain at all either.\nAt this rate, I should be able to make a quick return.",
+      "text": "I don't feel any pain at all either. At \nthis rate, I should be able to make a \nquick return.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Daiichi Ruby calmly overcame her injury,\nmaking her return remarkably smooth.",
+      "text": "Daiichi Ruby calmly overcame her injury, \nmaking her return remarkably smooth.",
       "choice_data_list": []
     }
   ]

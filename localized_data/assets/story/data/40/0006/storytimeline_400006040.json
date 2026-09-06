@@ -3,17 +3,17 @@
   "text_block_list": [
     {
       "name": "Spectator",
-      "text": "\"The winner was... a Japanese Umamusume...?!\"\n\"To think she could beat those three...!\"",
+      "text": "\"The winner was... a Japanese \nUmamusume...?!\" \"To think she could beat \nthose three...!\"",
       "choice_data_list": []
     },
     {
       "name": "Caster",
-      "text": "People of Japan, can you see this!?\nThe incredible feat that <chrname> has achieved!",
+      "text": "People of Japan, can you see this!? The \nincredible feat that <chrname> has achieved!",
       "choice_data_list": []
     },
     {
       "name": "Caster",
-      "text": "...Ngh, ...What a magnificent... ngh,\n<chrname> has...!",
+      "text": "...Ngh, ...What a magnificent... ngh, <chrname> \nhas...!",
       "choice_data_list": []
     },
     {
@@ -23,12 +23,12 @@
     },
     {
       "name": "",
-      "text": "—It is no dream. It is no illusion.\nVoices of praise and blessing soar across France.",
+      "text": "—It is no dream. It is no illusion. Voices \nof praise and blessing soar across France.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The hand <chrname> reached out\nhad touched the gate. As the world's strongest Umamusume—",
+      "text": "The hand <chrname> reached out had touched the \ngate. As the world's strongest Umamusume—",
       "choice_data_list": []
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "Rigauntona",
-      "text": "\"‘Making it so I can't forget you...\nthat's just unfair...’\"",
+      "text": "\"‘Making it so I can't forget you... \nthat's just unfair...’\"",
       "choice_data_list": []
     },
     {
       "name": "Montjeu",
-      "text": "\"Venus Park,\nyou are allowed to voice your frustration.\"",
+      "text": "\"Venus Park, you are allowed to voice your \nfrustration.\"",
       "choice_data_list": []
     },
     {
@@ -53,27 +53,27 @@
     },
     {
       "name": "Montjeu",
-      "text": "\"Frustration becomes strength.\nIt transforms into the flame of determination for next time.\"",
+      "text": "\"Frustration becomes strength. It \ntransforms into the flame of determination \nfor next time.\"",
       "choice_data_list": []
     },
     {
       "name": "Montjeu",
-      "text": "\"Make everything useful your own nourishment.\nEven I... feel frustrated, after all.\"",
+      "text": "\"Make everything useful your own \nnourishment. Even I... feel frustrated, \nafter all.\"",
       "choice_data_list": []
     },
     {
       "name": "Venus Park",
-      "text": "\"‘...?! ...Ngh.\nU-Uuuugh...!’\"",
+      "text": "\"‘...?! ...Ngh. U-Uuuugh...!’\"",
       "choice_data_list": []
     },
     {
       "name": "Venus Park",
-      "text": "\"I wanted to win... I wanted to... I... waaaahhh...!\"",
+      "text": "\"I wanted to win... I wanted to... I... \nwaaaahhh...!\"",
       "choice_data_list": []
     },
     {
       "name": "Montjeu",
-      "text": "\"\"...Yeah. That's fine.\nWe'll keep trying until we win.\"\"",
+      "text": "\"\"...Yeah. That's fine. We'll keep trying \nuntil we win.\"\"",
       "choice_data_list": []
     },
     {
@@ -83,27 +83,27 @@
     },
     {
       "name": "Mei Satake",
-      "text": "...Now then, Trainer <username>.\nYou two still have a big job left to do.",
+      "text": "...Now then, Trainer <username>. You two still have \na big job left to do.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "The world is waiting for you all.\nIt's telling you to hurry up and lift that trophy!",
+      "text": "The world is waiting for you all. It's \ntelling you to hurry up and lift that \ntrophy!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"With Mei Satake pulling me by the arm,\nI head toward the podium alongside <chrname>.\"",
+      "text": "\"With Mei Satake pulling me by the arm, I \nhead toward the podium alongside <chrname>.\"",
       "choice_data_list": []
     },
     {
       "name": "Spectator",
-      "text": "You are so amazing!!\nFélicitations !",
+      "text": "You are so amazing!! Félicitations !",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Even while on the move, people from various countries\nshower <chrname> with praise.\nApplause is offered, handshakes are requested—",
+      "text": "Even while on the move, people from \nvarious countries shower <chrname> with praise. \nApplause is offered, handshakes are \nrequested—",
       "choice_data_list": []
     },
     {
@@ -120,14 +120,14 @@
     },
     {
       "name": "Mei Satake",
-      "text": "Haha... Sorry, sorry.\nYou're the ones who worked so hard, after all...",
+      "text": "Haha... Sorry, sorry. You're the ones who \nworked so hard, after all...",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "\"Really... it feels like I'm dreaming.\nTo be able to welcome a sight like this.\"",
+      "text": "\"Really... it feels like I'm dreaming. To \nbe able to welcome a sight like this.\"",
       "choice_data_list": [
-        "It's because I never stopped dreaming that I'm able to stand here now."
+        "It's because I never stopped dreaming that \nI'm able to stand here now."
       ]
     },
     {
@@ -137,27 +137,27 @@
     },
     {
       "name": "Mei Satake",
-      "text": "Thank you.\n<chrname>,\nTrainer <username>.",
+      "text": "Thank you. <chrname>, Trainer <username>.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "The podium is just ahead.\nPlease go ahead and guide your prized Umamusume.",
+      "text": "The podium is just ahead. Please go ahead \nand guide your prized Umamusume.",
       "choice_data_list": []
     },
     {
       "name": "Mei Satake",
-      "text": "—Go out there, the two of you, and soak in the finest praise.",
+      "text": "—Go out there, the two of you, and soak in \nthe finest praise.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "—Exchanging a glance with <chrname>,\nwe set off walking once more.",
+      "text": "—Exchanging a glance with <chrname>, we set off \nwalking once more.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Step by step, together with her,\nI climbed the stairs to the podium—",
+      "text": "Step by step, together with her, I climbed \nthe stairs to the podium—",
       "choice_data_list": []
     },
     {
@@ -167,20 +167,20 @@
     },
     {
       "name": "Narrator",
-      "text": "\"...I shall follow as well.\nFeeling that very weight in the palm of my hand.\"",
+      "text": "\"...I shall follow as well. Feeling that \nvery weight in the palm of my hand.\"",
       "choice_data_list": [
-        "(The title of the best in the world we seized together)",
+        "(The title of the best in the world we \nseized together)",
         "(The world title we seized together.)"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Holding the romance I've always wished for close to my heart.",
+      "text": "Holding the romance I've always wished for \nclose to my heart.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "...So that those who wished to see that sight\ncan also witness the gleam of the trophy.",
+      "text": "...So that those who wished to see that \nsight can also witness the gleam of the \ntrophy.",
       "choice_data_list": []
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "name": "Symboli Family Grandfather",
-      "text": "...So this is the view from the top of the world, huh.",
+      "text": "...So this is the view from the top of the \nworld, huh.",
       "choice_data_list": []
     }
   ]

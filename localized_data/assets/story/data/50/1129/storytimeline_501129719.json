@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Girl A",
-      "text": "Excuse me, sparkly miss! Do you have a moment?!",
+      "text": "Excuse me, sparkly miss! Do you have a \nmoment?!",
       "choice_data_list": []
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Oh! ...Fufu, thank you for the invitation.\nI have something to take care of after this, so just for a little bit, okay?",
+      "text": "Oh! ...Fufu, thank you for the invitation. \nI have something to take care of after \nthis, so just for a little bit, okay?",
       "choice_data_list": []
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "name": "Almond Eye",
-      "text": "Huh!?\nAre they asleep!?",
+      "text": "Huh!? Are they asleep!?",
       "choice_data_list": []
     },
     {
       "name": "Almond Eye",
-      "text": "Hey, hey, wake up!\nYou'll catch a cold if you sleep in a place like this!",
+      "text": "Hey, hey, wake up! You'll catch a cold if \nyou sleep in a place like this!",
       "choice_data_list": []
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "name": "Almond Eye",
-      "text": "(What should I do...\nIt's almost time for training, right...?)",
+      "text": "(What should I do... It's almost time for \ntraining, right...?)",
       "choice_data_list": []
     },
     {
@@ -53,12 +53,12 @@
     },
     {
       "name": "Almond Eye",
-      "text": "(I'm sorry, Trainer...!\nI just can't leave these little ones behind!)",
+      "text": "(I'm sorry, Trainer...! I just can't leave \nthese little ones behind!)",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "After much internal conflict,\nAlmond Eye put off her training for later.",
+      "text": "After much internal conflict, Almond Eye \nput off her training for later.",
       "choice_data_list": []
     }
   ]

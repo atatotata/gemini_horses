@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "When I contacted Duramente on business, she replied, \"I'm in the kitchen. Sorry, but my hands are full.\"\nHeading over to the kitchen—",
+      "text": "When I contacted Duramente on business, \nshe replied, \"I'm in the kitchen. Sorry, \nbut my hands are full.\" Heading over to \nthe kitchen—",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Trainer, you came.\nSorry for making you go out of your way.",
+      "text": "Trainer, you came. Sorry for making you go \nout of your way.",
       "choice_data_list": [
         "No... what's up with this food?",
         "No... what's with this food?"
@@ -16,61 +16,61 @@
     },
     {
       "name": "",
-      "text": "A massive spread of dishes was lined up in front of Duramente. It was an extraordinary amount of food.",
+      "text": "A massive spread of dishes was lined up in \nfront of Duramente. It was an \nextraordinary amount of food.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "I was putting together a trial menu\ntailored to your training.",
+      "text": "I was putting together a trial menu \ntailored to your training.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "This menu is for the body-building phase.\nFocus on getting protein from meat, fish, eggs, and soy.",
+      "text": "This menu is for the body-building phase. \nFocus on getting protein from meat, fish, \neggs, and soy.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "\"The ones in the back are for the weight-cut phase.\nI've increased the vegetables and seaweed.\"",
+      "text": "\"The ones in the back are for the \nweight-cut phase. I've increased the \nvegetables and seaweed.\"",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Next to that are the ones for improving endurance, pre-race, and post-race.",
+      "text": "Next to that are the ones for improving \nendurance, pre-race, and post-race.",
       "choice_data_list": [
-        "Incredible... The nutritional balance is absolute perfection.",
-        "Amazing... The nutritional balance is totally perfect!"
+        "Incredible... The nutritional balance is \nabsolute perfection.",
+        "Amazing... The nutritional balance is \ntotally perfect!"
       ]
     },
     {
       "name": "Duramente",
-      "text": "Yes. Additionally, in case ingredients aren't available,\nI've prepared three different menu options for each.\nAny nutritional variance has also been kept within margin of error.",
+      "text": "Yes. Additionally, in case ingredients \naren't available, I've prepared three \ndifferent menu options for each. Any \nnutritional variance has also been kept \nwithin margin of error.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "Let us taste it, then.\nThere is no point if it is not a flavor one can keep eating, after all.",
+      "text": "Let us taste it, then. There is no point \nif it is not a flavor one can keep eating, \nafter all.",
       "choice_data_list": [
-        "This ridiculous amount... are you really gonna eat it all?",
-        "This ridiculous amount... are you going to eat it all?"
-      ]
-    },
-    {
-      "name": "Duramente",
-      "text": "Naturally.",
-      "choice_data_list": [
-        "You'll end up overeating, so let's keep it to a moderate amount.",
-        "Whether you can actually finish it all is important too!",
-        "Whether you can actually finish it all is important too!"
+        "This ridiculous amount... are you really \ngonna eat it all?",
+        "This ridiculous amount... are you going to \neat it all?"
       ]
     },
     {
       "name": "Duramente",
       "text": "Naturally.",
       "choice_data_list": [
-        "You'll end up overeating, so let's keep it to a moderate amount.",
-        "Whether you can actually finish it all is important too!",
-        "Whether you can actually finish it all is important too!"
+        "You'll end up overeating, so let's keep it \nto a moderate amount.",
+        "Whether you can actually finish it all is \nimportant too!",
+        "Whether you can actually finish it all is \nimportant too!"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "Naturally.",
+      "choice_data_list": [
+        "You'll end up overeating, so let's keep it \nto a moderate amount.",
+        "Whether you can actually finish it all is \nimportant too!",
+        "Whether you can actually finish it all is \nimportant too!"
       ]
     },
     {
@@ -80,29 +80,29 @@
     },
     {
       "name": "Duramente",
-      "text": "Still, we cannot let food go to waste.\nWould you eat with me?",
+      "text": "Still, we cannot let food go to waste. \nWould you eat with me?",
       "choice_data_list": [
         "Understood."
       ]
     },
     {
       "name": "Duramente",
-      "text": "If you don't mind, I'd like to hear what you think of the flavor.",
+      "text": "If you don't mind, I'd like to hear what \nyou think of the flavor.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Duramente tasted a little bit of each prototype dish.",
+      "text": "Duramente tasted a little bit of each \nprototype dish.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "That's right.\nIf the seasoning is too strong or too weak and they can't finish it, that defeats the whole purpose.",
+      "text": "That's right. If the seasoning is too \nstrong or too weak and they can't finish \nit, that defeats the whole purpose.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "I'm checking whether the flavor holds up\nand stays delicious until the very last bite.",
+      "text": "I'm checking whether the flavor holds up \nand stays delicious until the very last \nbite.",
       "choice_data_list": []
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "",
-      "text": "After that, Duramente devoured\nthe massive spread of food all by herself.",
+      "text": "After that, Duramente devoured the massive \nspread of food all by herself.",
       "choice_data_list": []
     }
   ]

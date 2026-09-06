@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "After the break.\r\nWhen I visited the Trainer's office for a meeting with Fuji Kiseki—",
+      "text": "After the break. When I visited the \nTrainer's office for a meeting with Fuji \nKiseki—",
       "choice_data_list": []
     },
     {
@@ -18,24 +18,24 @@
     },
     {
       "name": "Fuji Kiseki",
-      "text": "T-Trainer...!?\r\nDid I fall asleep, by any chance—",
+      "text": "T-Trainer...!? Did I fall asleep, by any \nchance—",
       "choice_data_list": [
         "Slept like a log, of course."
       ]
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Ah... I'm sorry.\nI've shown you an unsightly side of myself.",
+      "text": "Ah... I'm sorry. I've shown you an \nunsightly side of myself.",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "One of the girls in the dorm was feeling homesick, you see.\nI stayed by her side until she fell asleep, but... *yawn*.",
+      "text": "One of the girls in the dorm was feeling \nhomesick, you see. I stayed by her side \nuntil she fell asleep, but... *yawn*.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Thanks to Fuji Kiseki, the girl in the dorm was able to sleep peacefully,\nthough it seems Fuji herself didn't get much rest.",
+      "text": "Thanks to Fuji Kiseki, the girl in the \ndorm was able to sleep peacefully, though \nit seems Fuji herself didn't get much \nrest.",
       "choice_data_list": []
     }
   ]

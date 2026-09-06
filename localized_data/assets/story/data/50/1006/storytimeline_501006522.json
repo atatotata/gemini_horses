@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Oguri Cap stares intently at a bag of snack food\r\nwith a troubled expression on her face.",
+      "text": "Oguri Cap stares intently at a bag of \nsnack food with a troubled expression on \nher face.",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Mmmgh... Maybe just one...\nBut, my skin breakouts...",
+      "text": "Mmmgh... Maybe just one... But, my skin \nbreakouts...",
       "choice_data_list": [
         "What's the matter?",
         "What's wrong?"
@@ -16,22 +16,22 @@
     },
     {
       "name": "Oguri Cap",
-      "text": "\"...When I consulted Creek about my rough skin,\rshe told me it's best to cut back on greasy food.\"",
+      "text": "\"...When I consulted Creek about my rough \nskin, she told me it's best to cut back on \ngreasy food.\"",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "Still, now that the sweets are right in front of me—",
+      "text": "Still, now that the sweets are right in \nfront of me—",
       "choice_data_list": []
     },
     {
       "name": "Oguri Cap",
-      "text": "*sigh*... Guess I'll pass on the carrot snacks\r\nand settle for spinach cookies instead...",
+      "text": "*sigh*... Guess I'll pass on the carrot \nsnacks and settle for spinach cookies \ninstead...",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Unable to eat her favorite foods due to her rough skin,\r\nOguri Cap seemed somewhat down in the dumps.",
+      "text": "Unable to eat her favorite foods due to \nher rough skin, Oguri Cap seemed somewhat \ndown in the dumps.",
       "choice_data_list": []
     }
   ]

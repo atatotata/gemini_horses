@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
-      "text": "Mission complete.\nOrder finished, Master.",
+      "text": "Mission complete. Order finished, Master.",
       "choice_data_list": [
         "That was a great run!",
         "That was a great run!"
@@ -11,14 +11,14 @@
     },
     {
       "name": "Mihono Bourbon",
-      "text": "This is because progressive, continuous daily training resulted in effective physical enhancement.",
+      "text": "This is because progressive, continuous \ndaily training resulted in effective \nphysical enhancement.",
       "choice_data_list": []
     },
     {
       "name": "Mihono Bourbon",
-      "text": "\"I estimate that I have gained sufficient strength in time for the Satsuki Sho.\nThank you, Master.\"",
+      "text": "\"I estimate that I have gained sufficient \nstrength in time for the Satsuki Sho. \nThank you, Master.\"",
       "choice_data_list": [
-        "Let's keep this up and do our best in the Satsuki Sho too!"
+        "Let's keep this up and do our best in the \nSatsuki Sho too!"
       ]
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "",
-      "text": "Now that we've achieved solid results,\r\nnext up is finally the Satsuki Sho!",
+      "text": "Now that we've achieved solid results, \nnext up is finally the Satsuki Sho!",
       "choice_data_list": []
     }
   ]

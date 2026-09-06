@@ -3,43 +3,34 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "During lunch break, I saw Hishi Amazon and Fuji Kiseki\nat the cafe and approached them—",
+      "text": "During lunch break, I saw Hishi Amazon and \nFuji Kiseki at the cafe and approached \nthem—",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Fufu, you sure can eat.\r\nIs that your fourth slice of cake?",
+      "text": "Fufu, you sure can eat. Is that your \nfourth slice of cake?",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "I can't afford to fail today's makeup exam!\r\nI've gotta eat way more to fuel up.",
+      "text": "I can't afford to fail today's makeup \nexam! I've gotta eat way more to fuel up.",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"Just let me know if you need more, okay?\r\nI'll keep bringing them over!\"",
+      "text": "\"Just let me know if you need more, okay? \nI'll keep bringing them over!\"",
       "choice_data_list": [
-        "Do makeup exams have anything to do with cake?"
+        "Do makeup exams have anything to do with \ncake?"
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Well, if it isn't the Trainer! Glad you asked!",
+      "text": "Well, if it isn't the Trainer! Glad you \nasked!",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"They say sweets are good when you're using your brain, right?\r\nIn other words, this makeup exam is totally in the bag!\"",
-      "choice_data_list": [
-        "Wouldn't overeating be counterproductive?",
-        "Eat up and do your best on the test!",
-        "Eat plenty and do your best on the test!"
-      ]
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "\"They say sweets are good when you're using your brain, right?\r\nIn other words, this makeup exam is totally in the bag!\"",
+      "text": "\"They say sweets are good when you're \nusing your brain, right? In other words, \nthis makeup exam is totally in the bag!\"",
       "choice_data_list": [
         "Wouldn't overeating be counterproductive?",
         "Eat up and do your best on the test!",
@@ -48,45 +39,54 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "\"Still, sweet things serve as fuel to keep your brain running, right?\"",
+      "text": "\"They say sweets are good when you're \nusing your brain, right? In other words, \nthis makeup exam is totally in the bag!\"",
+      "choice_data_list": [
+        "Wouldn't overeating be counterproductive?",
+        "Eat up and do your best on the test!",
+        "Eat plenty and do your best on the test!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "\"Still, sweet things serve as fuel to keep \nyour brain running, right?\"",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Then it's better to eat a lot...\r\nRight, Fuji?",
+      "text": "Then it's better to eat a lot... Right, \nFuji?",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Yeah, the more fuel the better, of course.\r\nWell, eating too much can make you sleepy, though.",
+      "text": "Yeah, the more fuel the better, of course. \nWell, eating too much can make you sleepy, \nthough.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Fuji... Are you finding this amusing by any chance?",
+      "text": "Fuji... Are you finding this amusing by \nany chance?",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"No way! I just thought Hishiama could power through\nboth the drowsiness and the retake exam with pure spirit!\"",
+      "text": "\"No way! I just thought Hishiama could \npower through both the drowsiness and the \nretake exam with pure spirit!\"",
       "choice_data_list": [
         "Moderation is best in all things.",
-        "Moderation is best in all things, you know."
+        "Moderation is best in all things, you \nknow."
       ]
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hmm... If you say so, Trainer-boy,\r\nI suppose I'll call it a day here.",
+      "text": "Hmm... If you say so, Trainer-boy, I \nsuppose I'll call it a day here.",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Huh, you really trust your Trainer\r\na lot, don't you?",
+      "text": "Huh, you really trust your Trainer a lot, \ndon't you?",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "As long as we work together, trust will come naturally.",
+      "text": "As long as we work together, trust will \ncome naturally.",
       "choice_data_list": []
     },
     {
@@ -96,32 +96,32 @@
     },
     {
       "name": "",
-      "text": "After getting a suitable amount of sugar,\r\nHishi Amazon eagerly threw herself into studying for the makeup exam.",
+      "text": "After getting a suitable amount of sugar, \nHishi Amazon eagerly threw herself into \nstudying for the makeup exam.",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Hell yeah, leave it to me!\r\nI'll knock history and math flat on their backs together!",
+      "text": "Hell yeah, leave it to me! I'll knock \nhistory and math flat on their backs \ntogether!",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "\"That's the spirit!\r\nI'll go get us some more cake, then.\"",
+      "text": "\"That's the spirit! I'll go get us some \nmore cake, then.\"",
       "choice_data_list": []
     },
     {
       "name": "Fuji Kiseki",
-      "text": "Since we're celebrating, I'll have them prepare a whole cake♪",
+      "text": "Since we're celebrating, I'll have them \nprepare a whole cake♪",
       "choice_data_list": []
     },
     {
       "name": "Hishi Amazon",
-      "text": "Bring it on! I'll eat till I burst\nand take on the test in peak condition!",
+      "text": "Bring it on! I'll eat till I burst and \ntake on the test in peak condition!",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "After stuffing herself with cake while studying,\r\nHishi Amazon headed off to take her makeup exam...",
+      "text": "After stuffing herself with cake while \nstudying, Hishi Amazon headed off to take \nher makeup exam...",
       "choice_data_list": []
     }
   ]

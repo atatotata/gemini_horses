@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "One day on the way home,\r\nas I passed through the shopping district—",
+      "text": "One day on the way home, as I passed \nthrough the shopping district—",
       "choice_data_list": []
     },
     {
@@ -13,22 +13,22 @@
     },
     {
       "name": "Shopping District Local",
-      "text": "Step right up, the New Year's Grand Raffle is underway~!\nThe grand prize is an all-expenses-paid hot springs trip!",
+      "text": "Step right up, the New Year's Grand Raffle \nis underway~! The grand prize is an \nall-expenses-paid hot springs trip!",
       "choice_data_list": []
     },
     {
       "name": "Shopping District Local",
-      "text": "1st prize is the \"Special Carrot Hamburg Steak\"!\n2nd prize is \"Mountain of Carrots\"!\n3rd prize is \"Single Carrot\"!",
+      "text": "1st prize is the \"Special Carrot Hamburg \nSteak\"! 2nd prize is \"Mountain of \nCarrots\"! 3rd prize is \"Single Carrot\"!",
       "choice_data_list": []
     },
     {
       "name": "Shopping District Local",
-      "text": "\"Step right up, step right up, it's the fun, fun lottery!\nAnyone and everyone, come on over!\"",
+      "text": "\"Step right up, step right up, it's the \nfun, fun lottery! Anyone and everyone, \ncome on over!\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "In my hand is a single raffle ticket\nfrom my shopping earlier. This is—",
+      "text": "In my hand is a single raffle ticket from \nmy shopping earlier. This is—",
       "choice_data_list": [
         "You've got no choice but to pull, Taishin!",
         "You've got no choice but to pull, Taishin!"
@@ -36,27 +36,27 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Why don't you draw it by yourself?\nI'm heading home ahead of you anyway.",
+      "text": "Why don't you draw it by yourself? I'm \nheading home ahead of you anyway.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Besides, these things are usually rigged\r\nso you don't win anyway.",
+      "text": "Besides, these things are usually rigged \nso you don't win anyway.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "The grand prize is nothing but a distant dream—",
+      "text": "The grand prize is nothing but a distant \ndream—",
       "choice_data_list": []
     },
     {
       "name": "Shopping District Local",
-      "text": "Oh! Aiming for the grand prize, little lady?\r\nNice! You gotta dream big, after all!",
+      "text": "Oh! Aiming for the grand prize, little \nlady? Nice! You gotta dream big, after \nall!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh!?\r\nNo, I'm...!",
+      "text": "Huh!? No, I'm...!",
       "choice_data_list": [
         "We're aiming for the grand prize, Taishin!",
         "We're aiming for the grand prize, Taishin!"
@@ -64,12 +64,12 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Nnnrgh!\r\nShut up, dummy!",
+      "text": "Nnnrgh! Shut up, dummy!",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Narita Taishin cranked the lottery wheel\r\nin near desperation!",
+      "text": "Narita Taishin cranked the lottery wheel \nin near desperation!",
       "choice_data_list": []
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "name": "Shopping District Local",
-      "text": "Incredible! Congraaaatulations!!\nThe Grand Prize, 'Hot Springs Trip Ticket', has been won~~~~!!",
+      "text": "Incredible! Congraaaatulations!! The Grand \nPrize, 'Hot Springs Trip Ticket', has been \nwon~~~~!!",
       "choice_data_list": []
     },
     {
@@ -106,14 +106,14 @@
     },
     {
       "name": "Narrator",
-      "text": "Perhaps she was so utterly flabbergasted\r\nthat Narita Taishin actually became somewhat docile—",
+      "text": "Perhaps she was so utterly flabbergasted \nthat Narita Taishin actually became \nsomewhat docile—",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "“Still, it was your lottery ticket to begin with.\r\nDoesn't that make the travel voucher yours too?”",
+      "text": "“Still, it was your lottery ticket to \nbegin with. Doesn't that make the travel \nvoucher yours too?”",
       "choice_data_list": [
-        "Since Taishin won it for you, go and enjoy yourself"
+        "Since Taishin won it for you, go and enjoy \nyourself"
       ]
     },
     {
@@ -128,12 +128,12 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "\"...I see, so you want one of us\r\nto accompany you on a trip.\"",
+      "text": "\"...I see, so you want one of us to \naccompany you on a trip.\"",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Whoaaa, sweet!\r\nIf it's a hot spring, then I—",
+      "text": "Whoaaa, sweet! If it's a hot spring, then \nI—",
       "choice_data_list": []
     },
     {
@@ -148,32 +148,32 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "...You should also be more perceptive\nto the subtle nuances of your friends once in a while.",
+      "text": "...You should also be more perceptive to \nthe subtle nuances of your friends once in \na while.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sorry, Taishin.\r\nWe're going to be busy for a while, so we won't be able to make it.",
+      "text": "Sorry, Taishin. We're going to be busy for \na while, so we won't be able to make it.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You'll have a mountain of things to do\r\neven after the Twinkle Series, after all.",
+      "text": "You'll have a mountain of things to do \neven after the Twinkle Series, after all.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Besides, there are probably others better suited for it than us.",
+      "text": "Besides, there are probably others better \nsuited for it than us.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"Best person for the job? ...W-Who are you talking about?\"",
+      "text": "\"Best person for the job? ...W-Who are you \ntalking about?\"",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Now then, which would be more embarrassing:\nleaving it unsaid, or having me spell it all out?",
+      "text": "Now then, which would be more \nembarrassing: leaving it unsaid, or having \nme spell it all out?",
       "choice_data_list": []
     },
     {
@@ -188,12 +188,12 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Fufu, is that so? I actually find your clumsiness\r\nquite charming.",
+      "text": "Fufu, is that so? I actually find your \nclumsiness quite charming.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Later on, as soon as Narita Taishin walked into the Trainer's office, she marched straight up to me and practically thrust hot spring trip tickets into my hands.",
+      "text": "Later on, as soon as Narita Taishin walked \ninto the Trainer's office, she marched \nstraight up to me and practically thrust \nhot spring trip tickets into my hands.",
       "choice_data_list": []
     },
     {
@@ -203,7 +203,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...If you haven't found anyone in particular\r\nby the time the deadline comes—\"",
+      "text": "\"...If you haven't found anyone in \nparticular by the time the deadline \ncomes—\"",
       "choice_data_list": [
         "...Huh?"
       ]
@@ -220,12 +220,12 @@
     },
     {
       "name": "Narrator",
-      "text": "And so, I ended up holding onto\nthe hot springs voucher—",
+      "text": "And so, I ended up holding onto the hot \nsprings voucher—",
       "choice_data_list": []
     },
     {
       "name": "Shopping District Local",
-      "text": "Congratulations, you won 1st prize~!\nThe prize is a \"Special Carrot Hamburg Steak\"!",
+      "text": "Congratulations, you won 1st prize~! The \nprize is a \"Special Carrot Hamburg Steak\"!",
       "choice_data_list": []
     },
     {
@@ -240,12 +240,12 @@
     },
     {
       "name": "Shopping District Local",
-      "text": "Right?! Even the biggest Umamusume\nfood lovers will be totally satisfied with\na hearty portion like this!!",
+      "text": "Right?! Even the biggest Umamusume food \nlovers will be totally satisfied with a \nhearty portion like this!!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "(I'm telling you, that's way too much for me...)",
+      "text": "(I'm telling you, that's way too much for \nme...)",
       "choice_data_list": []
     },
     {
@@ -255,57 +255,57 @@
     },
     {
       "name": "Narrator",
-      "text": "That night, while I was working in the trainer's office—",
+      "text": "That night, while I was working in the \ntrainer's office—",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Ah, there you are.\n...Did you eat dinner already?",
+      "text": "Ah, there you are. ...Did you eat dinner \nalready?",
       "choice_data_list": [
         "Not yet, but..."
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "Yep. ...You're not gonna tell me you dislike bolognese, right?",
+      "text": "Yep. ...You're not gonna tell me you \ndislike bolognese, right?",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "If you break up pre-packaged burger patties,\r\nthey can double as ground meat.",
+      "text": "If you break up pre-packaged burger \npatties, they can double as ground meat.",
       "choice_data_list": [
-        "You made it out of that carrot hamburg steak?!",
-        "You made it out of that carrot hamburg steak?!"
+        "You made it out of that carrot hamburg \nsteak?!",
+        "You made it out of that carrot hamburg \nsteak?!"
       ]
     },
     {
       "name": "Narita Taishin",
-      "text": "That's true, but is there a problem with that?",
+      "text": "That's true, but is there a problem with \nthat?",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"...It was your raffle ticket in the first place,\r\nso you've got every right to eat it too.\"",
+      "text": "\"...It was your raffle ticket in the first \nplace, so you've got every right to eat it \ntoo.\"",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "So... look, it's gonna get cold, so hurry up.\r\nGet ready to eat.",
+      "text": "So... look, it's gonna get cold, so hurry \nup. Get ready to eat.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "(...Sharing a hamburger steak in half is totally out of the question, but with this—)",
+      "text": "(...Sharing a hamburger steak in half is \ntotally out of the question, but with \nthis—)",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "The two of us thoroughly enjoyed\r\nNarita Taishin's special homemade bolognese.",
+      "text": "The two of us thoroughly enjoyed Narita \nTaishin's special homemade bolognese.",
       "choice_data_list": []
     },
     {
       "name": "Shopping District Local",
-      "text": "Second prize~!!\nThe prize is a \"Mountain of Carrots\"!",
+      "text": "Second prize~!! The prize is a \"Mountain \nof Carrots\"!",
       "choice_data_list": []
     },
     {
@@ -315,37 +315,37 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Whoa, that really is a huge heap...\r\nOr rather, isn't this way too piled up?",
+      "text": "Whoa, that really is a huge heap... Or \nrather, isn't this way too piled up?",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...Ah, whatever.\r\nIf that's how it's gonna be—",
+      "text": "...Ah, whatever. If that's how it's gonna \nbe—",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Whoaaaaa!!\r\nIt really is a massive mountain of carrots--!!",
+      "text": "Whoaaaaa!! It really is a massive mountain \nof carrots--!!",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It certainly was a tall order for just the two of you\r\nto clear that amount of food.",
+      "text": "It certainly was a tall order for just the \ntwo of you to clear that amount of food.",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Hey, hey!\r\nAre you sure I can take as much as I want?!",
+      "text": "Hey, hey! Are you sure I can take as much \nas I want?!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "\"Sure, but...\r\nDon't blame me if you overeat.\"",
+      "text": "\"Sure, but... Don't blame me if you \novereat.\"",
       "choice_data_list": []
     },
     {
       "name": "Winning Ticket",
-      "text": "Yaaaaay!!\r\nWe're having a carrot party when we get home!!",
+      "text": "Yaaaaay!! We're having a carrot party when \nwe get home!!",
       "choice_data_list": []
     },
     {
@@ -355,29 +355,29 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Now, now.\r\n...Then, I suppose I shall gratefully accept as well.",
+      "text": "Now, now. ...Then, I suppose I shall \ngratefully accept as well.",
       "choice_data_list": []
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I was just wondering what to put in Brian's bento.\r\nYou really saved me.",
+      "text": "I was just wondering what to put in \nBrian's bento. You really saved me.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "If you wanna thank someone, tell that Trainer over there, okay?\r\nThe raffle tickets were theirs anyway.",
+      "text": "If you wanna thank someone, tell that \nTrainer over there, okay? The raffle \ntickets were theirs anyway.",
       "choice_data_list": [
-        "Taishin was the one who suggested sharing, you know."
+        "Taishin was the one who suggested sharing, \nyou know."
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "THANK YOOOOU!!\r\nI knew you were nice deep down, Taishiiiiin!!",
+      "text": "THANK YOOOOU!! I knew you were nice deep \ndown, Taishiiiiin!!",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Agh, give me a break! You're so annoying!\r\nIt's not like I'm being nice or anything!",
+      "text": "Agh, give me a break! You're so annoying! \nIt's not like I'm being nice or anything!",
       "choice_data_list": [
         "Taishin's so kind, you know."
       ]
@@ -394,7 +394,7 @@
     },
     {
       "name": "Shopping District Local",
-      "text": "3rd prize~!\nThe prize is \"one carrot\"!",
+      "text": "3rd prize~! The prize is \"one carrot\"!",
       "choice_data_list": []
     },
     {
@@ -409,17 +409,17 @@
     },
     {
       "name": "Narrator",
-      "text": "Narita Taishin threw a carrot\r\nright at me.",
+      "text": "Narita Taishin threw a carrot right at me.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "You won the prize with your own raffle ticket,\r\nso it belongs to you.",
+      "text": "You won the prize with your own raffle \nticket, so it belongs to you.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Look, it's almost dinner time,\r\nso let's hurry up and go ho—",
+      "text": "Look, it's almost dinner time, so let's \nhurry up and go ho—",
       "choice_data_list": []
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "Shut up, shut up!\r\nI'm not hungry, and I don't want any...!",
+      "text": "Shut up, shut up! I'm not hungry, and I \ndon't want any...!",
       "choice_data_list": []
     },
     {
@@ -458,12 +458,12 @@
     },
     {
       "name": "Narrator",
-      "text": "After that, when I offered the carrot to her once more, Narita Taishin accepted it in silence.",
+      "text": "After that, when I offered the carrot to \nher once more, Narita Taishin accepted it \nin silence.",
       "choice_data_list": []
     },
     {
       "name": "Shopping District Local",
-      "text": "Too bad, you lost!\nYour consolation prize is a pack of tissues~",
+      "text": "Too bad, you lost! Your consolation prize \nis a pack of tissues~",
       "choice_data_list": []
     },
     {
@@ -481,17 +481,17 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "No, I was just forced to draw in someone else's place,\nso I don't care what prize it is anyway.",
+      "text": "No, I was just forced to draw in someone \nelse's place, so I don't care what prize \nit is anyway.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...You can go to a hot spring\r\nwithout having to win a lottery, you know.",
+      "text": "...You can go to a hot spring without \nhaving to win a lottery, you know.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "Being comforted weirdly like that\r\njust makes me feel awkward, ya know?",
+      "text": "Being comforted weirdly like that just \nmakes me feel awkward, ya know?",
       "choice_data_list": [
         "I-I see.",
         "O-Oh, I see."
@@ -499,12 +499,12 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "...Come on, let's go home.\r\nYou can keep the pocket tissues.",
+      "text": "...Come on, let's go home. You can keep \nthe pocket tissues.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "As Narita Taishin walked off with quick strides,\r\nher profile betrayed a hint of lingering frustration.",
+      "text": "As Narita Taishin walked off with quick \nstrides, her profile betrayed a hint of \nlingering frustration.",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Before the race. The moment I opened the waiting room\ndoor to call Duramente—\na piercing atmosphere ran right through me.",
+      "text": "Before the race. The moment I opened the \nwaiting room door to call Duramente— a \npiercing atmosphere ran right through me.",
       "choice_data_list": []
     },
     {
@@ -13,19 +13,19 @@
     },
     {
       "name": "Duramente",
-      "text": "“—Hm, is it already post time?\nYou could have simply called out to me.”",
+      "text": "“—Hm, is it already post time? You could \nhave simply called out to me.”",
       "choice_data_list": [
-        "You were so focused, and your spirit was incredible, so..."
+        "You were so focused, and your spirit was \nincredible, so..."
       ]
     },
     {
       "name": "Duramente",
-      "text": "Ah... I was doing some visualization training\nin order to become the \"strongest\" in the race.",
+      "text": "Ah... I was doing some visualization \ntraining in order to become the \n\"strongest\" in the race.",
       "choice_data_list": []
     },
     {
       "name": "Duramente",
-      "text": "I've got a good feel for it now.\nAll that's left is to prove it with my own ability.",
+      "text": "I've got a good feel for it now. All \nthat's left is to prove it with my own \nability.",
       "choice_data_list": []
     }
   ]

@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Because Furioso had suffered a serious injury,\nI brought her to the infirmary.",
+      "text": "Because Furioso had suffered a serious \ninjury, I brought her to the infirmary.",
       "choice_data_list": []
     },
     {
@@ -15,14 +15,14 @@
     },
     {
       "name": "Furioso",
-      "text": "No, an injury of this degree won't... I have my next race coming up, so... I have to hurry.",
+      "text": "No, an injury of this degree won't... I \nhave my next race coming up, so... I have \nto hurry.",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
       "text": "—Kh!",
       "choice_data_list": [
-        "...Do you realize you're pushing yourself too hard?"
+        "...Do you realize you're pushing yourself \ntoo hard?"
       ]
     },
     {
@@ -32,39 +32,39 @@
     },
     {
       "name": "Furioso",
-      "text": "\"...Actually, last night,\na package of vegetables arrived from my parents.\"",
+      "text": "\"...Actually, last night, a package of \nvegetables arrived from my parents.\"",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "\"I ate vegetables from Funabashi for the first time in a while.\nThey were so sweet and delicious.\"",
+      "text": "\"I ate vegetables from Funabashi for the \nfirst time in a while. They were so sweet \nand delicious.\"",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "My heart feels so warm and cozy.\nIt brought back so many memories of the past, too...",
+      "text": "My heart feels so warm and cozy. It \nbrought back so many memories of the past, \ntoo...",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "To give it my all for Funabashi, for everyone.\nFrom the bottom of my heart, I truly wanted to win.",
+      "text": "To give it my all for Funabashi, for \neveryone. From the bottom of my heart, I \ntruly wanted to win.",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "\"...Trainer. I know I'm pushing myself.\nBut right now, I really want to do my best.\"",
+      "text": "\"...Trainer. I know I'm pushing myself. \nBut right now, I really want to do my \nbest.\"",
       "choice_data_list": [
         "Getting better quickly is the top priority",
-        "Getting better quickly is the top priority, okay?",
+        "Getting better quickly is the top \npriority, okay?",
         "...Just don't do anything reckless."
       ]
     },
     {
       "name": "Furioso",
-      "text": "\"...Trainer. I know I'm pushing myself.\nBut right now, I really want to do my best.\"",
+      "text": "\"...Trainer. I know I'm pushing myself. \nBut right now, I really want to do my \nbest.\"",
       "choice_data_list": [
         "Getting better quickly is the top priority",
-        "Getting better quickly is the top priority, okay?",
+        "Getting better quickly is the top \npriority, okay?",
         "...Just don't do anything reckless."
       ]
     },
@@ -72,7 +72,7 @@
       "name": "Furioso",
       "text": "However...!",
       "choice_data_list": [
-        "No one wants to see you pushing yourself like that."
+        "No one wants to see you pushing yourself \nlike that."
       ]
     },
     {
@@ -82,17 +82,17 @@
     },
     {
       "name": "Furioso",
-      "text": "...\n...I cannot allow myself to make everyone worry.",
+      "text": "... ...I cannot allow myself to make \neveryone worry.",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "In that case, at the very least! I'll cure you in no time.",
+      "text": "In that case, at the very least! I'll cure \nyou in no time.",
       "choice_data_list": []
     },
     {
       "name": "Furioso",
-      "text": "Once I have recovered,\nI look forward to your training guidance once more.",
+      "text": "Once I have recovered, I look forward to \nyour training guidance once more.",
       "choice_data_list": []
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "Narrator",
-      "text": "Due to impatience, the injury worsened.\nMore time would have to be dedicated to treatment.",
+      "text": "Due to impatience, the injury worsened. \nMore time would have to be dedicated to \ntreatment.",
       "choice_data_list": []
     },
     {
@@ -127,12 +127,12 @@
     },
     {
       "name": "Furioso",
-      "text": "\"Everyone—I will win, no matter what.\nI'll prove that we can stand up to the Chuoh.\"",
+      "text": "\"Everyone—I will win, no matter what. I'll \nprove that we can stand up to the Chuoh.\"",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "\"Recovering steadily,\nFurioso's passion for Funabashi\nburned brightly once more.\"",
+      "text": "\"Recovering steadily, Furioso's passion \nfor Funabashi burned brightly once more.\"",
       "choice_data_list": []
     }
   ]

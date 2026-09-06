@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narita Taishin",
-      "text": "Alright, all done.\r\nIt's a shame, but why don't you give up?",
+      "text": "Alright, all done. It's a shame, but why \ndon't you give up?",
       "choice_data_list": [
         "Sorry...",
         "I'm sorry..."
@@ -16,12 +16,12 @@
     },
     {
       "name": "Narita Taishin",
-      "text": "I told ya from the start, I'm not interested.\r\n",
+      "text": "I told ya from the start, I'm not \ninterested.",
       "choice_data_list": []
     },
     {
       "name": "Narita Taishin",
-      "text": "...*Sigh*, don't look so down.\r\nCome on, let's head back.",
+      "text": "...*Sigh*, don't look so down. Come on, \nlet's head back.",
       "choice_data_list": []
     },
     {

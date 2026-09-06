@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
-      "text": "...It's strange.\r\nToday, for some reason――",
+      "text": "...It's strange. Today, for some reason――",
       "choice_data_list": []
     },
     {
@@ -13,10 +13,10 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "And yet, it's like the night...\r\nfaintly translucent... and sparkling...",
+      "text": "And yet, it's like the night... faintly \ntranslucent... and sparkling...",
       "choice_data_list": [
-        "It feels like I'm about to see a whole new world.",
-        "It feels like we're about to see a whole new world, huh?"
+        "It feels like I'm about to see a whole new \nworld.",
+        "It feels like we're about to see a whole \nnew world, huh?"
       ]
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "Manhattan Cafe",
-      "text": "I will go find it...\nThe horizon that only I can seeâ",
+      "text": "I will go find it... The horizon that only \nI can seeâ",
       "choice_data_list": []
     }
   ]

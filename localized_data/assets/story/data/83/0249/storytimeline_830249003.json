@@ -2,14 +2,14 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Walking down the hallway one day, I spotted Transcend looking around with extreme caution.",
+      "text": "Walking down the hallway one day, I \nspotted Transcend looking around with \nextreme caution.",
       "choice_data_list": [
         "W-What's the matter—"
       ]
     },
     {
       "name": "Transcend",
-      "text": "Shh, keep it down.\n...I'm being targeted right now.",
+      "text": "Shh, keep it down. ...I'm being targeted \nright now.",
       "choice_data_list": [
         "Sounds serious... How did that happen?",
         "Sounds serious... How did that happen?"
@@ -21,18 +21,18 @@
     },
     {
       "name": "Transcend",
-      "text": "Well, I have a pretty good guess why.\nEven if it's my own doing, it's quite a headache~"
+      "text": "Well, I have a pretty good guess why. Even \nif it's my own doing, it's quite a \nheadache~"
     },
     {
       "name": "Transcend",
-      "text": "Anyway, no matter who asks or what they ask, don't tell them where I went, got it?"
+      "text": "Anyway, no matter who asks or what they \nask, don't tell them where I went, got it?"
     },
     {
-      "text": "Leaving behind those words, Transcend headed off toward the rooftop."
+      "text": "Leaving behind those words, Transcend \nheaded off toward the rooftop."
     },
     {
       "name": "Tosen Jordan",
-      "text": "Hey hey, Trainer.\nSeen Tran-san anywhere?",
+      "text": "Hey hey, Trainer. Seen Tran-san anywhere?",
       "choice_data_list": [
         "No, I haven't...",
         "No, I haven't..."
@@ -40,49 +40,49 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "For real? Where'd she go, seriously...\nOh well, lemme know if you spot her!"
+      "text": "For real? Where'd she go, seriously... Oh \nwell, lemme know if you spot her!"
     },
     {
       "name": "Furioso",
-      "text": "Pardon me while you are on break.\nHave you seen Tran-san?",
+      "text": "Pardon me while you are on break. Have you \nseen Tran-san?",
       "choice_data_list": [
-        "I haven't, but... do you need her for something?",
-        "I haven't, but... do you need her for something?"
+        "I haven't, but... do you need her for \nsomething?",
+        "I haven't, but... do you need her for \nsomething?"
       ]
     },
     {
       "name": "Furioso",
-      "text": "Yes. I must properly express my gratitude to her."
+      "text": "Yes. I must properly express my gratitude \nto her."
     },
     {
       "name": "Buena Vista",
-      "text": "Ah, Furioso-san! Tran-san wasn't over that way either.\nHmm, wherever could she have gone?"
+      "text": "Ah, Furioso-san! Tran-san wasn't over that \nway either. Hmm, wherever could she have \ngone?"
     },
     {
       "name": "Wonder Acute",
-      "text": "Excuse me, Trainer-san,\nwould you happen to have seen Tran-san around?",
+      "text": "Excuse me, Trainer-san, would you happen \nto have seen Tran-san around?",
       "choice_data_list": [
-        "D-Did something happen between you all and her?",
-        "D-Did something happen between you all and her?"
+        "D-Did something happen between you all and \nher?",
+        "D-Did something happen between you all and \nher?"
       ]
     },
     {
       "name": "Wonder Acute",
-      "text": "Trouble? Oh goodness, no~\nThe reason we're looking for her is—"
+      "text": "Trouble? Oh goodness, no~ The reason we're \nlooking for her is—"
     },
     {
-      "text": "Just as expected, Transcend was up on the rooftop."
+      "text": "Just as expected, Transcend was up on the \nrooftop."
     },
     {
       "name": "Transcend",
-      "text": "Oh, Trainer-chan?\nWhat's up?",
+      "text": "Oh, Trainer-chan? What's up?",
       "choice_data_list": [
         "Sorry, I told them where you were."
       ]
     },
     {
       "name": "Transcend",
-      "text": "Ehh, seriously?\n...Don't tell me, did you find out the whole story?"
+      "text": "Ehh, seriously? ...Don't tell me, did you \nfind out the whole story?"
     },
     {
       "name": "Wonder Acute",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Furioso",
-      "text": "Tran-san. Today of all days—\nI will convey my thanks to you."
+      "text": "Tran-san. Today of all days— I will convey \nmy thanks to you."
     },
     {
       "name": "Transcend",
@@ -98,39 +98,39 @@
     },
     {
       "name": "Tosen Jordan",
-      "text": "I mean, Tran-san, you're always helping us out,\nbut you never let us thank you properly, right?"
+      "text": "I mean, Tran-san, you're always helping us \nout, but you never let us thank you \nproperly, right?"
     },
     {
       "name": "Buena Vista",
-      "text": "You always make excuses and run off right away!"
+      "text": "You always make excuses and run off right \naway!"
     },
     {
       "name": "Wonder Acute",
-      "text": "So we thought we'd make sure to give Tran-san our proper thanks, you see~"
+      "text": "So we thought we'd make sure to give \nTran-san our proper thanks, you see~"
     },
     {
       "name": "Furioso",
-      "text": "We decided to team up and track you down together."
+      "text": "We decided to team up and track you down \ntogether."
     },
     {
       "name": "Transcend",
-      "text": "...Heheh, is that so.\nSorry for making you go through all that trouble."
+      "text": "...Heheh, is that so. Sorry for making you \ngo through all that trouble."
     },
     {
       "name": "Transcend",
-      "text": "(They really are good kids, all of 'em.\nMakes helping them worth every second. But still—)"
+      "text": "(They really are good kids, all of 'em. \nMakes helping them worth every second. But \nstill—)"
     },
     {
       "name": "Tosen Jordan",
-      "text": "Now that we found Tran-san, let's head to the cafeteria! ☆"
+      "text": "Now that we found Tran-san, let's head to \nthe cafeteria! ☆"
     },
     {
       "name": "Buena Vista",
-      "text": "We prepared a modest tea party for you, so please come join us!"
+      "text": "We prepared a modest tea party for you, so \nplease come join us!"
     },
     {
       "name": "Transcend",
-      "text": "Oh my, I feel bad making you go that far.\nWell then, guess I'll gladly accept the treat."
+      "text": "Oh my, I feel bad making you go that far. \nWell then, guess I'll gladly accept the \ntreat."
     },
     {
       "name": "Transcend",
@@ -141,30 +141,30 @@
     },
     {
       "name": "Transcend",
-      "text": "It's still going strong! They even prepared delicious snacks and presents for me...\nThey're such sweet girls, honestly."
+      "text": "It's still going strong! They even \nprepared delicious snacks and presents for \nme... They're such sweet girls, honestly."
     },
     {
       "name": "Transcend",
-      "text": "Still, I was only doing what comes naturally, so being thanked this much makes me feel a bit bashful."
+      "text": "Still, I was only doing what comes \nnaturally, so being thanked this much \nmakes me feel a bit bashful."
     },
     {
       "name": "Transcend",
-      "text": "Besides, things like gratitude and thank-yous don't really suit an info broker, do they?"
+      "text": "Besides, things like gratitude and \nthank-yous don't really suit an info \nbroker, do they?"
     },
     {
       "name": "Transcend",
-      "text": "Fufu, it's suuuuch a pain, really.\nTotal obstruction of business, right?"
+      "text": "Fufu, it's suuuuch a pain, really. Total \nobstruction of business, right?"
     },
     {
       "name": "Transcend",
-      "text": "What's that smirk for?\nYou're a weird one, Trainer-chan."
+      "text": "What's that smirk for? You're a weird one, \nTrainer-chan."
     },
     {
       "name": "Transcend",
-      "text": "Well then, guess I should head back soon.\nI am the guest of honor, after all♪"
+      "text": "Well then, guess I should head back soon. \nI am the guest of honor, after all♪"
     },
     {
-      "text": "Saying that, Transcend walked away with a noticeably light and cheerful step."
+      "text": "Saying that, Transcend walked away with a \nnoticeably light and cheerful step."
     }
   ]
 }

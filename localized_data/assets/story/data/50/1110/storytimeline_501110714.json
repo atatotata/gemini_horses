@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Cesario got injured,\nso I brought her to the infirmary.",
+      "text": "Cesario got injured, so I brought her to \nthe infirmary.",
       "choice_data_list": []
     },
     {
@@ -13,34 +13,34 @@
     },
     {
       "name": "Cesario",
-      "text": "...Trainer,\nI have a special favor to ask.",
+      "text": "...Trainer, I have a special favor to ask.",
       "choice_data_list": [
         "I'm sure you know, but about training—"
       ]
     },
     {
       "name": "Cesario",
-      "text": "As someone aiming to become an instructor in the future, I would never do something so reckless.",
+      "text": "As someone aiming to become an instructor \nin the future, I would never do something \nso reckless.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "\"However, even amidst all this, I want to explore ways to minimize the decline in motor function as much as possible.\"",
+      "text": "\"However, even amidst all this, I want to \nexplore ways to minimize the decline in \nmotor function as much as possible.\"",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "If we construct a regimen combining\nvarious treatments with light exercise—",
+      "text": "If we construct a regimen combining \nvarious treatments with light exercise—",
       "choice_data_list": [
-        "Even so, you should recover a bit before you do it.",
-        "Easier said than done, but... let's give it a try."
+        "Even so, you should recover a bit before \nyou do it.",
+        "Easier said than done, but... let's give \nit a try."
       ]
     },
     {
       "name": "Cesario",
       "text": "...",
       "choice_data_list": [
-        "Even if it's the long way around, it's not a step backward. Trust me."
+        "Even if it's the long way around, it's not \na step backward. Trust me."
       ]
     },
     {
@@ -55,22 +55,22 @@
     },
     {
       "name": "",
-      "text": "Cesario ended up taking a period of rest...",
+      "text": "Cesario ended up taking a period of \nrest...",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "I appreciate it.\nI wanted to explore every possible avenue.",
+      "text": "I appreciate it. I wanted to explore every \npossible avenue.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "If we do that, whether it succeeds or fails,\nthe day will come when you can put this experience to good use in the future.",
+      "text": "If we do that, whether it succeeds or \nfails, the day will come when you can put \nthis experience to good use in the future.",
       "choice_data_list": []
     },
     {
       "name": "Doctor",
-      "text": "Hmm... You've strained a muscle here, haven't you?\nApart from the injury you had before, that is.",
+      "text": "Hmm... You've strained a muscle here, \nhaven't you? Apart from the injury you had \nbefore, that is.",
       "choice_data_list": []
     },
     {
@@ -80,19 +80,19 @@
     },
     {
       "name": "Doctor",
-      "text": "That's the risk of continuing to move while favoring an injury.\nI've minimized the strain as much as possible, but I cannot allow any exercise until further notice.",
+      "text": "That's the risk of continuing to move \nwhile favoring an injury. I've minimized \nthe strain as much as possible, but I \ncannot allow any exercise until further \nnotice.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Perhaps impatience played a part.\nAnother injury developed alongside it, prolonging the recovery.",
+      "text": "Perhaps impatience played a part. Another \ninjury developed alongside it, prolonging \nthe recovery.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
       "text": "1……2……3……4……5……6……7……8。",
       "choice_data_list": [
-        "Looks like the natural movement is coming back a bit."
+        "Looks like the natural movement is coming \nback a bit."
       ]
     },
     {
@@ -102,22 +102,22 @@
     },
     {
       "name": "Cesario",
-      "text": "Alongside electrotherapy and thermotherapy, perform exercise as appropriate within feasible limits to prevent loss of motor function...",
+      "text": "Alongside electrotherapy and \nthermotherapy, perform exercise as \nappropriate within feasible limits to \nprevent loss of motor function...",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "If we follow the hospital's guided pace,\nwe can keep the risk of worsening it to a minimum.",
+      "text": "If we follow the hospital's guided pace, \nwe can keep the risk of worsening it to a \nminimum.",
       "choice_data_list": []
     },
     {
       "name": "Cesario",
-      "text": "At this rate, an early comeback should come first. Please wait for me just a little longer.",
+      "text": "At this rate, an early comeback should \ncome first. Please wait for me just a \nlittle longer.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Cesario's efforts paid off, and she was able to return to regular training sooner than originally expected.",
+      "text": "Cesario's efforts paid off, and she was \nable to return to regular training sooner \nthan originally expected.",
       "choice_data_list": []
     }
   ]

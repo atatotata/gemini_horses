@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "One afternoon—\nAs I was preparing for\n<chrname>'s training...",
+      "text": "One afternoon— As I was preparing for <chrname>'s \ntraining...",
       "choice_data_list": []
     },
     {
@@ -13,14 +13,14 @@
     },
     {
       "name": "？？？",
-      "text": "Excuse me.\nAre you Trainer <username>?",
+      "text": "Excuse me. Are you Trainer <username>?",
       "choice_data_list": [
         "...Who might you be?"
       ]
     },
     {
       "name": "？？？",
-      "text": "Pardon me for not introducing myself sooner. I am\r\na reporter for \"Monthly Twinkle\"—",
+      "text": "Pardon me for not introducing myself \nsooner. I am a reporter for \"Monthly \nTwinkle\"—",
       "choice_data_list": []
     },
     {
@@ -30,48 +30,48 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I've come today to conduct an interview, following an introduction from Chairwoman Akikawa.",
+      "text": "I've come today to conduct an interview, \nfollowing an introduction from Chairwoman \nAkikawa.",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I shall endeavor not to get in the way of your training, so I look forward to working with you.",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "I hadn't heard anything about an interview, but their polite and sincere demeanor put me at ease.",
-      "choice_data_list": [
-        "Likewise, I look forward to working with you."
-      ]
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Yes. Please do cooperate with our interview.",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "Now then, getting straight to it... The racing world has\nseen immense excitement with the launch of the URA Finals,\nand so on—",
-      "choice_data_list": []
-    },
-    {
-      "name": "Reporter Otonashi",
-      "text": "\"Could you tell us about your future outlook\r\nwith your trainee Umamusume?\"",
+      "text": "I shall endeavor not to get in the way of \nyour training, so I look forward to \nworking with you.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "There have certainly been big developments—but my conviction hasn't wavered since the day I decided to walk alongside <chrname>.",
+      "text": "I hadn't heard anything about an \ninterview, but their polite and sincere \ndemeanor put me at ease.",
       "choice_data_list": [
-        "I will keep supporting her so she can seize her dream."
+        "Likewise, I look forward to working with \nyou."
       ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "...I see.\r\nIn other words, your role as a Trainer is—",
+      "text": "Yes. Please do cooperate with our \ninterview.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Now then, getting straight to it... The \nracing world has seen immense excitement \nwith the launch of the URA Finals, and so \non—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Could you tell us about your future \noutlook with your trainee Umamusume?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "There have certainly been big \ndevelopments—but my conviction hasn't \nwavered since the day I decided to walk \nalongside <chrname>.",
       "choice_data_list": [
-        "It's to help the Umamusume achieve their dreams!"
+        "I will keep supporting her so she can \nseize her dream."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...I see. In other words, your role as a \nTrainer is—",
+      "choice_data_list": [
+        "It's to help the Umamusume achieve their \ndreams!"
       ]
     },
     {
@@ -98,118 +98,118 @@
     },
     {
       "name": "Reporter Otonashi",
-      "text": "'To help the Umamusume in my charge seize their dreams!'\n'To assist in doing so!' That is what you said, is it not!?",
+      "text": "'To help the Umamusume in my charge seize \ntheir dreams!' 'To assist in doing so!' \nThat is what you said, is it not!?",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "In other words, it means accepting everything if it's to grasp that dream!!",
+      "text": "In other words, it means accepting \neverything if it's to grasp that dream!!",
       "choice_data_list": [
         "...Huh?"
       ]
     },
     {
       "name": "Reporter Otonashi",
-      "text": "If she asks to train, I'll join her anytime; for post-race recovery, we'll tour famous hot springs; and if she says she's thirsty, I'll climb a mountain to fetch water!",
+      "text": "If she asks to train, I'll join her \nanytime; for post-race recovery, we'll \ntour famous hot springs; and if she says \nshe's thirsty, I'll climb a mountain to \nfetch water!",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Ah... Trainer-san, your resolve...\r\nis so... so truly admirable...!",
+      "text": "Ah... Trainer-san, your resolve... is \nso... so truly admirable...!",
       "choice_data_list": [
         "(Did we ever talk about that...!?)"
       ]
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Splendid!\nLooks like the press coverage has already begun!",
+      "text": "Splendid! Looks like the press coverage \nhas already begun!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"How's that! This Trainer is quite the exceptional talent, wouldn't you say?\"",
+      "text": "\"How's that! This Trainer is quite the \nexceptional talent, wouldn't you say?\"",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Yes, yes! Even though it was our first meeting,\r\nI was so moved that I lost my composure...!",
+      "text": "Yes, yes! Even though it was our first \nmeeting, I was so moved that I lost my \ncomposure...!",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I hear you are prepared to dive even into a storm\r\nif it is for the sake of an Umamusume...!",
+      "text": "I hear you are prepared to dive even into \na storm if it is for the sake of an \nUmamusume...!",
       "choice_data_list": [
         "(Did we ever talk about that...!?)"
       ]
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"Splendid!! Exactly what I'd expect!\r\nSpoken like a true Trainer of a future star Umamusume!\"",
+      "text": "\"Splendid!! Exactly what I'd expect! \nSpoken like a true Trainer of a future \nstar Umamusume!\"",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "I've been keeping a close eye on your recent performances too!",
+      "text": "I've been keeping a close eye on your \nrecent performances too!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "However... hm-mm-mm!\r\nIt seems gaining fans is proving quite difficult.",
+      "text": "However... hm-mm-mm! It seems gaining fans \nis proving quite difficult.",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"Inspiration! There is still time\nbefore the URA Finals! Stage your comeback from here!\"",
+      "text": "\"Inspiration! There is still time before \nthe URA Finals! Stage your comeback from \nhere!\"",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Weren't you receiving plenty of cheers yourself?\nIndeed, putting on a great performance is what truly captures people's hearts.",
+      "text": "Weren't you receiving plenty of cheers \nyourself? Indeed, putting on a great \nperformance is what truly captures \npeople's hearts.",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "High hopes! I trust you will treat each race with utmost care and turn them into magnificent results!",
+      "text": "High hopes! I trust you will treat each \nrace with utmost care and turn them into \nmagnificent results!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Astounding!! You received far more cheers than I could have ever imagined!",
+      "text": "Astounding!! You received far more cheers \nthan I could have ever imagined!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "\"An Umamusume who captivates people's hearts to this extent.\nRunning in the URA Finals is no mere pipe dream!\"",
+      "text": "\"An Umamusume who captivates people's \nhearts to this extent. Running in the URA \nFinals is no mere pipe dream!\"",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "The volume of cheering is the barometer of a star Umamusume.\nIt's proof of just how much they are loved.",
+      "text": "The volume of cheering is the barometer of \na star Umamusume. It's proof of just how \nmuch they are loved.",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "I would like to offer my support as well,\nso that we may gather even more backing.",
+      "text": "I would like to offer my support as well, \nso that we may gather even more backing.",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "Appreciation! The media's cooperation is essential both for boosting the popularity of Umamusume and for ensuring the tournament's success!",
+      "text": "Appreciation! The media's cooperation is \nessential both for boosting the popularity \nof Umamusume and for ensuring the \ntournament's success!",
       "choice_data_list": []
     },
     {
       "name": "Chairwoman Akikawa",
-      "text": "I'm counting on you, Otonashi-kun!!\r\nFor the success of the URA Finals!",
+      "text": "I'm counting on you, Otonashi-kun!! For \nthe success of the URA Finals!",
       "choice_data_list": []
     },
     {
       "name": "Reporter Otonashi",
-      "text": "Understood.\nTrainer, I'm counting on you as well.",
+      "text": "Understood. Trainer, I'm counting on you \nas well.",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "In an effort to drum up support for <chrname>,\nwe've managed to connect with a powerful ally in more ways than one...",
+      "text": "In an effort to drum up support for <chrname>, \nwe've managed to connect with a powerful \nally in more ways than one...",
       "choice_data_list": []
     }
   ]

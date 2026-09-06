@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "In the morning, while working in the Trainer's Room,\nI received a phone call from Sakura Laurel.",
+      "text": "In the morning, while working in the \nTrainer's Room, I received a phone call \nfrom Sakura Laurel.",
       "choice_data_list": []
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "To tell the truth, the race the other day\nis still taking a toll on my legs...",
+      "text": "To tell the truth, the race the other day \nis still taking a toll on my legs...",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "I wanted to consult you as early as possible, so I called.\n...Sorry for calling so early in the morning.",
+      "text": "I wanted to consult you as early as \npossible, so I called. ...Sorry for \ncalling so early in the morning.",
       "choice_data_list": [
         "\"Got it, thanks for letting me know.\""
       ]
@@ -30,20 +30,20 @@
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"There are things I can do!\nMy hands and brain still work.\"",
+      "text": "\"There are things I can do! My hands and \nbrain still work.\"",
       "choice_data_list": []
     },
     {
       "name": "Sakura Laurel",
-      "text": "\"...I want to grow, even if it's just a little.\"",
+      "text": "\"...I want to grow, even if it's just a \nlittle.\"",
       "choice_data_list": [
-        "...Yeah, I'll build the menu around that schedule.",
-        "...Yeah, I'll plan the training menu around that schedule."
+        "...Yeah, I'll build the menu around that \nschedule.",
+        "...Yeah, I'll plan the training menu \naround that schedule."
       ]
     },
     {
       "name": "Narrator",
-      "text": "\"The race seems to have worn Sakura Laurel out\nmore than usual.\n...I'll need to reconsider her schedule with that in mind.\"",
+      "text": "\"The race seems to have worn Sakura Laurel \nout more than usual. ...I'll need to \nreconsider her schedule with that in \nmind.\"",
       "choice_data_list": []
     }
   ]

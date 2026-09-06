@@ -3,59 +3,59 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "On the way home from an outing with Buena Vista—",
+      "text": "On the way home from an outing with Buena \nVista—",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "\"...Hey, Trainer-san.\nAre you... hungry at all?\"",
+      "text": "\"...Hey, Trainer-san. Are you... hungry at \nall?\"",
       "choice_data_list": [
         "Actually, I'm free"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "Right? We've relaxed plenty,\nso next up, let's grab some food!",
+      "text": "Right? We've relaxed plenty, so next up, \nlet's grab some food!",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "I know lots of delicious restaurants,\nso I can show you around.\nWhat are you in the mood to eat?",
+      "text": "I know lots of delicious restaurants, so I \ncan show you around. What are you in the \nmood to eat?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "\"Italian, Chinese, French, Thai...\nand delicious Japanese food, of course.\nI'll take you anywhere you want, so leave it to me, okay?\"",
+      "text": "\"Italian, Chinese, French, Thai... and \ndelicious Japanese food, of course. I'll \ntake you anywhere you want, so leave it to \nme, okay?\"",
       "choice_data_list": [
         "Restaurant hopping is your hobby, huh.",
-        "Restaurant hopping is your hobby, isn't it?"
+        "Restaurant hopping is your hobby, isn't \nit?"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "Yeah, and I still am!\nNow, where do you want to go?\nOr should we search for a new place together?",
+      "text": "Yeah, and I still am! Now, where do you \nwant to go? Or should we search for a new \nplace together?",
       "choice_data_list": [
         "In that case—"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Since we're going out, it might as well be a place Buena Vista has never been to.\nWhen I suggested this—",
+      "text": "Since we're going out, it might as well be \na place Buena Vista has never been to. \nWhen I suggested this—",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Then... there's a shop I've been curious about,\nbut I didn't have the courage to go alone!\nHow about that place?",
+      "text": "Then... there's a shop I've been curious \nabout, but I didn't have the courage to go \nalone! How about that place?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "—Waaah, this really feels like a secret hideaway!\nThanks for navigating, Trainer♪",
+      "text": "—Waaah, this really feels like a secret \nhideaway! Thanks for navigating, Trainer♪",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "The food's good, but it seems like\na pretty peculiar shop.\nApparently, their system is a secret only known to customers who enter—",
+      "text": "The food's good, but it seems like a \npretty peculiar shop. Apparently, their \nsystem is a secret only known to customers \nwho enter—",
       "choice_data_list": [
         "This is kind of exciting!",
         "This is kind of exciting, isn't it!"
@@ -63,29 +63,29 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Right! I'm really looking forward to it...!",
+      "text": "Right! I'm really looking forward to \nit...!",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Hmm, looks like a normal Chinese restaurant to me.\nWhat's supposed to be different about it?",
+      "text": "Hmm, looks like a normal Chinese \nrestaurant to me. What's supposed to be \ndifferent about it?",
       "choice_data_list": [
         "Let's take a look at the menu first."
       ]
     },
     {
       "name": "Narrator",
-      "text": "Written on it were ramen, fried rice,\ngyoza... and even some Japanese dishes.\n—Except, prefixed before every single one of them was:",
+      "text": "Written on it were ramen, fried rice, \ngyoza... and even some Japanese dishes. \n—Except, prefixed before every single one \nof them was:",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "\"‘Handmade by you’...?\nWhat does this item on the menu\nmean?\"",
+      "text": "\"‘Handmade by you’...? What does this item \non the menu mean?\"",
       "choice_data_list": []
     },
     {
       "name": "Shopkeeper",
-      "text": "Yes, our shop's system is set up\nso that customers cook everything on the menu themselves!",
+      "text": "Yes, our shop's system is set up so that \ncustomers cook everything on the menu \nthemselves!",
       "choice_data_list": []
     },
     {
@@ -95,12 +95,12 @@
     },
     {
       "name": "Shopkeeper",
-      "text": "We will certainly provide the necessary ingredients.\nHowever, the recipe and seasoning\nare for the customers themselves to think up and make.",
+      "text": "We will certainly provide the necessary \ningredients. However, the recipe and \nseasoning are for the customers themselves \nto think up and make.",
       "choice_data_list": []
     },
     {
       "name": "Shopkeeper",
-      "text": "Please enjoy\na menu crafted just for you!",
+      "text": "Please enjoy a menu crafted just for you!",
       "choice_data_list": [
         "I see, this really is unusual.",
         "I see, this really is unusual."
@@ -108,37 +108,37 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Yeah! Sounds fun!\nIt reminds me of when the two of us used to play house when we were little.",
+      "text": "Yeah! Sounds fun! It reminds me of when \nthe two of us used to play house when we \nwere little.",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Not mud balls or mud soup,\nbut proper real cooking together next time...\nEhehe, I'm already getting so excited♪",
+      "text": "Not mud balls or mud soup, but proper real \ncooking together next time... Ehehe, I'm \nalready getting so excited♪",
       "choice_data_list": [
-        "Let's do our best and make something delicious!"
+        "Let's do our best and make something \ndelicious!"
       ]
     },
     {
       "name": "Shopkeeper",
-      "text": "Haha, love the enthusiasm!\nWhat can I get started for you?",
+      "text": "Haha, love the enthusiasm! What can I get \nstarted for you?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Hmm... Trainer-san, what should we have?\nShould we choose from what we can make?",
+      "text": "Hmm... Trainer-san, what should we have? \nShould we choose from what we can make?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "\"Or... would you rather go with this special menu?\nEither one is totally fine with me as long as we can enjoy it together!\"",
+      "text": "\"Or... would you rather go with this \nspecial menu? Either one is totally fine \nwith me as long as we can enjoy it \ntogether!\"",
       "choice_data_list": [
-        "Let's stick to something we can actually make.",
+        "Let's stick to something we can actually \nmake.",
         "I want to try the special menu!"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "Yeah!\nThen how about gyoza and fried rice?",
+      "text": "Yeah! Then how about gyoza and fried rice?",
       "choice_data_list": [
         "Nice, let's go with that then!",
         "Sounds good, let's go with that!"
@@ -146,25 +146,25 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Wrapping gyoza with Trainer, huh?\n...Fufu. You used to be pretty bad at wrapping them, right?",
+      "text": "Wrapping gyoza with Trainer, huh? ...Fufu. \nYou used to be pretty bad at wrapping \nthem, right?",
       "choice_data_list": [
-        "It's different now, you know? I won't even burn the fried rice!",
-        "It's different now, okay? I won't burn the fried rice anymore!"
+        "It's different now, you know? I won't even \nburn the fried rice!",
+        "It's different now, okay? I won't burn the \nfried rice anymore!"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "I've practiced a lot and gotten really good too.\nWhy don't we... have a match?",
+      "text": "I've practiced a lot and gotten really \ngood too. Why don't we... have a match?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Wah...! It's wrapped so neatly.\nAmazing, amazing, you've gotten really good at this~!",
+      "text": "Wah...! It's wrapped so neatly. Amazing, \namazing, you've gotten really good at \nthis~!",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "\"Can't afford to lose either.\nHeave-ho—\"",
+      "text": "\"Can't afford to lose either. Heave-ho—\"",
       "choice_data_list": []
     },
     {
@@ -176,19 +176,19 @@
     },
     {
       "name": "Buena Vista",
-      "text": "The fried rice ingredients are... alright, this should do it!\nNow all that's left is to cook...",
+      "text": "The fried rice ingredients are... alright, \nthis should do it! Now all that's left is \nto cook...",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Wait, huh? Trainer, your toppings are...\nnatto, curry, tuna, and—",
+      "text": "Wait, huh? Trainer, your toppings are... \nnatto, curry, tuna, and—",
       "choice_data_list": [
-        "Since I've got the chance, I figured I'd go on an adventure!"
+        "Since I've got the chance, I figured I'd \ngo on an adventure!"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "Mumu... True, when we can use so many different ingredients, sticking to the standard ones would be a waste!",
+      "text": "Mumu... True, when we can use so many \ndifferent ingredients, sticking to the \nstandard ones would be a waste!",
       "choice_data_list": []
     },
     {
@@ -203,35 +203,35 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Hmm. Both kinds of gyoza look delicious, and I wonder how the fried rice turned out~?",
+      "text": "Hmm. Both kinds of gyoza look delicious, \nand I wonder how the fried rice turned \nout~?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "I know!\nTrainer, would you like to split it?\nI was actually curious about how that flavor tasted too.",
+      "text": "I know! Trainer, would you like to split \nit? I was actually curious about how that \nflavor tasted too.",
       "choice_data_list": [
-        "Are you sure? Well then, don't mind if I do.",
-        "Are you sure? Well then, don't mind if I do."
+        "Are you sure? Well then, don't mind if I \ndo.",
+        "Are you sure? Well then, don't mind if I \ndo."
       ]
     },
     {
       "name": "Narrator",
-      "text": "In the end—the cooking contest ended without a clear winner, but we spent an unforgettable time together.",
+      "text": "In the end—the cooking contest ended \nwithout a clear winner, but we spent an \nunforgettable time together.",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "I figured that'd catch your eye.\nWell then, wanna give it a shot?♪",
+      "text": "I figured that'd catch your eye. Well \nthen, wanna give it a shot?♪",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Hmm... Whoa, it says \"Unnamed Dish.\" Looks like they just give you the ingredients and you have to figure out what to make yourself.",
+      "text": "Hmm... Whoa, it says \"Unnamed Dish.\" Looks \nlike they just give you the ingredients \nand you have to figure out what to make \nyourself.",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "...This looks super exciting!\nShall we give it a try?",
+      "text": "...This looks super exciting! Shall we \ngive it a try?",
       "choice_data_list": [
         "Sounds good, I'm in!",
         "Sounds good, count me in!"
@@ -239,41 +239,41 @@
     },
     {
       "name": "Buena Vista",
-      "text": "Hmm. Sashimi, cucumbers, rolled omelet... True to the name 'Seafood Course,' these really are the perfect ingredients for a seafood bowl.",
+      "text": "Hmm. Sashimi, cucumbers, rolled omelet... \nTrue to the name 'Seafood Course,' these \nreally are the perfect ingredients for a \nseafood bowl.",
       "choice_data_list": [
-        "Just making it normally would be boring, right?",
-        "Just making it normally would be boring, wouldn't it?"
+        "Just making it normally would be boring, \nright?",
+        "Just making it normally would be boring, \nwouldn't it?"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "Right on!\nSince we're doing this, let's make it turn out like \"Wait, this came from *those* ingredients?!\"",
+      "text": "Right on! Since we're doing this, let's \nmake it turn out like \"Wait, this came \nfrom *those* ingredients?!\"",
       "choice_data_list": [
         "...So, how about a seafood parfait?",
-        "...So, how about a seafood parfait? What do you think?"
+        "...So, how about a seafood parfait? What \ndo you think?"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "A parfait?\nYou mean decorating these ingredients\nto make it look like a parfait?",
+      "text": "A parfait? You mean decorating these \ningredients to make it look like a \nparfait?",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "...It's great!\nI think it's super good! It's gonna turn out so cute♪",
+      "text": "...It's great! I think it's super good! \nIt's gonna turn out so cute♪",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Then, we'll roll the salmon like roses,\nfinely chop the rolled omelet,\nand scatter it like cornflakes—",
+      "text": "Then, we'll roll the salmon like roses, \nfinely chop the rolled omelet, and scatter \nit like cornflakes—",
       "choice_data_list": [
-        "Sushi rice could pass for cream, I suppose.",
-        "Sushi rice could pass for cream, don't you think?"
+        "Sushi rice could pass for cream, I \nsuppose.",
+        "Sushi rice could pass for cream, don't you \nthink?"
       ]
     },
     {
       "name": "Buena Vista",
-      "text": "That's right♪\nWe'll layer it in the cup with the toppings to make the parfait's base, and then—",
+      "text": "That's right♪ We'll layer it in the cup \nwith the toppings to make the parfait's \nbase, and then—",
       "choice_data_list": []
     },
     {
@@ -283,17 +283,17 @@
     },
     {
       "name": "Shopkeeper",
-      "text": "\"Well, well, well...!\nYou've made quite a delightful-looking dish.\"",
+      "text": "\"Well, well, well...! You've made quite a \ndelightful-looking dish.\"",
       "choice_data_list": []
     },
     {
       "name": "Buena Vista",
-      "text": "Yes!\nIt's a masterpiece from the two of us♪",
+      "text": "Yes! It's a masterpiece from the two of \nus♪",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Watching Buena Vista smile with supreme confidence\nmade me feel proud as well.",
+      "text": "Watching Buena Vista smile with supreme \nconfidence made me feel proud as well.",
       "choice_data_list": []
     }
   ]

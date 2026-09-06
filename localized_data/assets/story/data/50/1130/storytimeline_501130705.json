@@ -3,12 +3,12 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "\"I want to see the rare flowers that bloom on the mountain peak\"—\nAt Lucky Lilac's request,\nthis happened when we climbed a nearby mountain on our way back from an outing.",
+      "text": "\"I want to see the rare flowers that bloom \non the mountain peak\"— At Lucky Lilac's \nrequest, this happened when we climbed a \nnearby mountain on our way back from an \nouting.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Look at these flowers. Aren't they pretty? Fufu♪\nI'm truly looking forward to seeing them with my own eyes.",
+      "text": "Look at these flowers. Aren't they pretty? \nFufu♪ I'm truly looking forward to seeing \nthem with my own eyes.",
       "choice_data_list": [
         "(Look at Luck, so excited~)"
       ]
@@ -20,7 +20,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Eep!? So cold...!\n...Huh?",
+      "text": "Eep!? So cold...! ...Huh?",
       "choice_data_list": []
     },
     {
@@ -32,24 +32,24 @@
       "name": "Lucky Lilac",
       "text": "No way, it's raining!?",
       "choice_data_list": [
-        "A-Anyway, let's take shelter under that tree!"
+        "A-Anyway, let's take shelter under that \ntree!"
       ]
     },
     {
       "name": "Narrator",
-      "text": "Fortunately, it was just a passing shower, so it stopped right away.\nHowever, the mountain trail's condition had changed completely as a result...",
+      "text": "Fortunately, it was just a passing shower, \nso it stopped right away. However, the \nmountain trail's condition had changed \ncompletely as a result...",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Ugh... Quite a lot of mud, huh.\nI'll need to clean my shoes thoroughly when I get back...",
+      "text": "Ugh... Quite a lot of mud, huh. I'll need \nto clean my shoes thoroughly when I get \nback...",
       "choice_data_list": [
-        "My feet are getting caught, it might be tough to walk..."
+        "My feet are getting caught, it might be \ntough to walk..."
       ]
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Ah, jeez! Seriously, the rain...!\nIt's such a downer, give me a break already...)",
+      "text": "(Ah, jeez! Seriously, the rain...! It's \nsuch a downer, give me a break already...)",
       "choice_data_list": []
     },
     {
@@ -59,47 +59,47 @@
     },
     {
       "name": "Red Desire",
-      "text": "—Oh my! What a coincidence bumping into you here!",
+      "text": "—Oh my! What a coincidence bumping into \nyou here!",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Ain't that the truth.\nWhat's Desire-san up to?",
+      "text": "Ain't that the truth. What's Desire-san up \nto?",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "With the landowner's permission, I'm gathering herbs here.\nBrewing potions is a saint's duty, after all♪",
+      "text": "With the landowner's permission, I'm \ngathering herbs here. Brewing potions is a \nsaint's duty, after all♪",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "A potion... I see.\nYou're certainly working hard at it.",
+      "text": "A potion... I see. You're certainly \nworking hard at it.",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "\"I've heard that there are medicinal herbs\nand flowers even at the summit.\nI'm thinking of climbing up there.\"",
+      "text": "\"I've heard that there are medicinal herbs \nand flowers even at the summit. I'm \nthinking of climbing up there.\"",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "That's right. If both of you are climbing as well,\nwould you care to join me?",
+      "text": "That's right. If both of you are climbing \nas well, would you care to join me?",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Uuu...! It's way muddier here\nthan on that last road...!\nIt's all squishy and gross...)",
+      "text": "(Uuu...! It's way muddier here than on \nthat last road...! It's all squishy and \ngross...)",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Man, this really kills the mood...\n...Maybe giving up and headin' home for today is the way to go...)",
+      "text": "(Man, this really kills the mood... \n...Maybe giving up and headin' home for \ntoday is the way to go...)",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Phew... This is quite a rough road. But that's exactly why... hehe. It's worth walking on!",
+      "text": "Phew... This is quite a rough road. But \nthat's exactly why... hehe. It's worth \nwalking on!",
       "choice_data_list": []
     },
     {
@@ -109,17 +109,17 @@
     },
     {
       "name": "Red Desire",
-      "text": "Yes! This must surely be a trial bestowed upon a saint!\n'A true saint must never stumble in the mud'—\nI feel like that is what I'm being told!",
+      "text": "Yes! This must surely be a trial bestowed \nupon a saint! 'A true saint must never \nstumble in the mud'— I feel like that is \nwhat I'm being told!",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Wait, who's the one that told ya?!\n...Between this and that potion earlier,\nshe sure has a unique worldview as always...)",
+      "text": "(Wait, who's the one that told ya?! \n...Between this and that potion earlier, \nshe sure has a unique worldview as \nalways...)",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Once I overcome this trial, I'll draw closer! One step closer to another world—",
+      "text": "Once I overcome this trial, I'll draw \ncloser! One step closer to another world—",
       "choice_data_list": []
     },
     {
@@ -134,65 +134,65 @@
     },
     {
       "name": "Red Desire",
-      "text": "I-I'm fine... I just slipped a little.\nThough... Ehehe!",
+      "text": "I-I'm fine... I just slipped a little. \nThough... Ehehe!",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "That only makes it more worth challenging!\nThe greater the obstacle, the greater the heights\nI can reach as a Saint—!",
+      "text": "That only makes it more worth challenging! \nThe greater the obstacle, the greater the \nheights I can reach as a Saint—!",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "No matter what misfortune befalls me,\nI will overcome it without fail!\nOn the name of the Saintess, Red Desire!",
+      "text": "No matter what misfortune befalls me, I \nwill overcome it without fail! On the name \nof the Saintess, Red Desire!",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
       "text": "Desire-san...",
       "choice_data_list": [
-        "You took a fall, yet you still look like you're having fun.",
-        "You took a fall, yet you still look like you're having fun."
+        "You took a fall, yet you still look like \nyou're having fun.",
+        "You took a fall, yet you still look like \nyou're having fun."
       ]
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Ain't that the truth. I'd be pretty bummed out myself if I got that covered in mud.",
+      "text": "...Ain't that the truth. I'd be pretty \nbummed out myself if I got that covered in \nmud.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "However... even with the same hardship,\nif I change how I approach it—",
+      "text": "However... even with the same hardship, if \nI change how I approach it—",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Like—... you know.\nYou get this kind of muddy feeling during races too.)",
+      "text": "(Like—... you know. You get this kind of \nmuddy feeling during races too.)",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Losing footing in the post-rain mud.\nEven so, enduring it, pushing forward.)",
+      "text": "(Losing footing in the post-rain mud. Even \nso, enduring it, pushing forward.)",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(...Aye. This path will be an 'ordeal' for me too. To endure and persevere, so I can blossom on the track—)",
+      "text": "(...Aye. This path will be an 'ordeal' for \nme too. To endure and persevere, so I can \nblossom on the track—)",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Shall we keep movin' forward, Trainer?\n—This right here is where we gotta give it our all.",
+      "text": "Shall we keep movin' forward, Trainer? \n—This right here is where we gotta give it \nour all.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "Grimacing at the heavily muddied mountain path,\nLucky Lilac pushed her legs forward with all her might.\nAnd finally—",
+      "text": "Grimacing at the heavily muddied mountain \npath, Lucky Lilac pushed her legs forward \nwith all her might. And finally—",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Miss Lala, over here, over here!\nLook, come see this!",
+      "text": "Miss Lala, over here, over here! Look, \ncome see this!",
       "choice_data_list": []
     },
     {
@@ -202,65 +202,65 @@
     },
     {
       "name": "Red Desire",
-      "text": "\"The dew catches the sunlight and glitters so brilliantly...!\nSurely, this must be a blessing for overcoming our trials!\"",
+      "text": "\"The dew catches the sunlight and glitters \nso brilliantly...! Surely, this must be a \nblessing for overcoming our trials!\"",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Yeah, honestly. I'm so glad I gave it my all...",
+      "text": "...Yeah, honestly. I'm so glad I gave it \nmy all...",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Thank you, Desire-san.\nTo be honest, the rain had gotten me down, but if I think of this as a trial for me—",
+      "text": "...Thank you, Desire-san. To be honest, \nthe rain had gotten me down, but if I \nthink of this as a trial for me—",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "That was over in a flash!\nA pathetic little muddy road like that's nothin'!",
+      "text": "That was over in a flash! A pathetic \nlittle muddy road like that's nothin'!",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "My! If I was able to be of any help,\nI couldn't be happier. Ufufu♪",
+      "text": "My! If I was able to be of any help, I \ncouldn't be happier. Ufufu♪",
       "choice_data_list": [
-        "Since we're here, wanna take a commemorative photo in front of the flowers?",
-        "Then maybe I could help pick some herbs as thanks?"
+        "Since we're here, wanna take a \ncommemorative photo in front of the \nflowers?",
+        "Then maybe I could help pick some herbs as \nthanks?"
       ]
     },
     {
       "name": "Lucky Lilac",
-      "text": "Sounds great. Since we came all this way—\nDesire, why don't you join us for the photo?",
+      "text": "Sounds great. Since we came all this way— \nDesire, why don't you join us for the \nphoto?",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Yes! In that case, leave the pose to me.\nI shall pour all my gratitude into the beauty of this land.",
+      "text": "Yes! In that case, leave the pose to me. I \nshall pour all my gratitude into the \nbeauty of this land.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Then me too.\nStriking the same pose as Desire-san. Heheh.",
+      "text": "Then me too. Striking the same pose as \nDesire-san. Heheh.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Right ya are. Desire-san,\nmind if we lend a hand gatherin' medicinal herbs too?",
+      "text": "Right ya are. Desire-san, mind if we lend \na hand gatherin' medicinal herbs too?",
       "choice_data_list": []
     },
     {
       "name": "Red Desire",
-      "text": "Oh, that's a huge help! Once the potion is\nready, I'll give some to you too, Lala-san!",
+      "text": "Oh, that's a huge help! Once the potion is \nready, I'll give some to you too, \nLala-san!",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Oh, are ya sure?\nI'm lookin' forward to it then.",
+      "text": "Oh, are ya sure? I'm lookin' forward to it \nthen.",
       "choice_data_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Well, not that I'm planning to go dungeon-crawling or anything!\nBut who wouldn't be curious about what kind of potion Desire-san makes~!)",
+      "text": "(Well, not that I'm planning to go \ndungeon-crawling or anything! But who \nwouldn't be curious about what kind of \npotion Desire-san makes~!)",
       "choice_data_list": []
     }
   ]

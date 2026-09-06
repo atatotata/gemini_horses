@@ -3,40 +3,40 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "Verxina got injured during training,\nso I brought her to the infirmary.",
+      "text": "Verxina got injured during training, so I \nbrought her to the infirmary.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "It wasn't a serious injury,\nso I will return to training now.",
+      "text": "It wasn't a serious injury, so I will \nreturn to training now.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "A queen cannot afford to be brought to a halt\nby an injury of this magnitude.",
+      "text": "A queen cannot afford to be brought to a \nhalt by an injury of this magnitude.",
       "choice_data_list": [
-        "Overdoing it is a no-go, okay? "
+        "Overdoing it is a no-go, okay?"
       ]
     },
     {
       "name": "Verxina",
-      "text": "Thank you for your concern.\nHowever, as you can see, it's not hindering my movement much at all.",
+      "text": "Thank you for your concern. However, as \nyou can see, it's not hindering my \nmovement much at all.",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Daily accumulation is the true path to the \"pinnacle.\"\nIf so, I wish to keep moving forward without pause—",
+      "text": "Daily accumulation is the true path to the \n\"pinnacle.\" If so, I wish to keep moving \nforward without pause—",
       "choice_data_list": [
-        "…No, let's play it safe and take a break here.",
-        "In that case, just to be safe, let's start with some light exercise."
+        "…No, let's play it safe and take a break \nhere.",
+        "In that case, just to be safe, let's start \nwith some light exercise."
       ]
     },
     {
       "name": "Verxina",
-      "text": "You're exaggerating!\nI really didn't do anything—...!",
+      "text": "You're exaggerating! I really didn't do \nanything—...!",
       "choice_data_list": [
-        "If you aim for the top, you must ensure you're fully prepared.",
-        "If you aim for the top, you should make sure you're fully prepared."
+        "If you aim for the top, you must ensure \nyou're fully prepared.",
+        "If you aim for the top, you should make \nsure you're fully prepared."
       ]
     },
     {
@@ -46,22 +46,22 @@
     },
     {
       "name": "Verxina",
-      "text": "\"...Indeed. If worsening my injury sets me back, it would defeat the whole purpose.\"",
+      "text": "\"...Indeed. If worsening my injury sets me \nback, it would defeat the whole purpose.\"",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "I'm sorry...\nI'll stay quiet and rest for now...",
+      "text": "I'm sorry... I'll stay quiet and rest for \nnow...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Haa, hah....\n...gh?!",
+      "text": "Haa, hah.... ...gh?!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "\"...I'm sorry, Trainer.\nMaybe I took this too lightly... ngh!\"",
+      "text": "\"...I'm sorry, Trainer. Maybe I took this \ntoo lightly... ngh!\"",
       "choice_data_list": []
     },
     {
@@ -71,29 +71,29 @@
     },
     {
       "name": "Narrator",
-      "text": "Verxina's injury worsened,\nforcing her to take a period of rest...",
+      "text": "Verxina's injury worsened, forcing her to \ntake a period of rest...",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "Haa, hah....\n............Phew.",
+      "text": "Haa, hah.... ............Phew.",
       "choice_data_list": [
         "Any pain?"
       ]
     },
     {
       "name": "Verxina",
-      "text": "Yes! At this pace,\nI'll gradually get used to it!",
+      "text": "Yes! At this pace, I'll gradually get used \nto it!",
       "choice_data_list": []
     },
     {
       "name": "Verxina",
-      "text": "...Thank goodness. With this, surely\nI won't fall behind the others.",
+      "text": "...Thank goodness. With this, surely I \nwon't fall behind the others.",
       "choice_data_list": []
     },
     {
       "name": "Narrator",
-      "text": "And so, by continuing with lighter training,\nVerxina smoothly made her comeback.",
+      "text": "And so, by continuing with lighter \ntraining, Verxina smoothly made her \ncomeback.",
       "choice_data_list": []
     }
   ]

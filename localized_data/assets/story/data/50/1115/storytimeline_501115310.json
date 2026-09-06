@@ -3,7 +3,7 @@
   "text_block_list": [
     {
       "name": "Narrator",
-      "text": "With the Hanshin Daishoten also concluding without incident, just as everyone was heading back—",
+      "text": "With the Hanshin Daishoten also concluding \nwithout incident, just as everyone was \nheading back—",
       "choice_data_list": []
     },
     {
@@ -23,12 +23,12 @@
     },
     {
       "name": "Narrator",
-      "text": "Suddenly, Orfevre dashed off!\n...It seems she hasn't had enough running yet.\nHowever—",
+      "text": "Suddenly, Orfevre dashed off! ...It seems \nshe hasn't had enough running yet. \nHowever—",
       "choice_data_list": []
     },
     {
       "name": "Racetrack Staff",
-      "text": "\"Eeeeeh...!!\nH-Hold on! What about my plans after this...?!\"",
+      "text": "\"Eeeeeh...!! H-Hold on! What about my \nplans after this...?!\"",
       "choice_data_list": [
         "Whoa, I'll go stop them!!"
       ]
@@ -65,32 +65,32 @@
     },
     {
       "name": "Narrator",
-      "text": "For some reason, Orfevre ran away the moment I approached...\nI scrambled to chase after her, but naturally, there was no catching up—",
+      "text": "For some reason, Orfevre ran away the \nmoment I approached... I scrambled to \nchase after her, but naturally, there was \nno catching up—",
       "choice_data_list": []
     },
     {
       "name": "Spectator A",
-      "text": "...What are those two doing?\nA game of tag?",
+      "text": "...What are those two doing? A game of \ntag?",
       "choice_data_list": []
     },
     {
       "name": "Spectator B",
-      "text": "...It's turned into something like that. Trainer looks like they're having a really tough time, but—",
+      "text": "...It's turned into something like that. \nTrainer looks like they're having a really \ntough time, but—",
       "choice_data_list": []
     },
     {
       "name": "Race Fan B",
-      "text": "Orfevre looks like... she might be having fun... maybe?",
+      "text": "Orfevre looks like... she might be having \nfun... maybe?",
       "choice_data_list": []
     },
     {
       "name": "Race Fan B",
-      "text": "Ah, look. She stopped again...\nAh, she started running. ...Ah, she stopped again.",
+      "text": "Ah, look. She stopped again... Ah, she \nstarted running. ...Ah, she stopped again.",
       "choice_data_list": []
     },
     {
       "name": "Race Fan A",
-      "text": "...A-Are you teasing me?\nWhat an... amazing duo—",
+      "text": "...A-Are you teasing me? What an... \namazing duo—",
       "choice_data_list": []
     }
   ]
