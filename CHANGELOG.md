@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-06 — Extra Stories 224 + career wrap fix
+
+- career overflow: re-wrapped 15,893 files (40/50/80/82/83) to 42 cols tag-aware ` \n`, collapsed `     \n` artifacts (max 76→42, p90 41), both repos identical, UmaTL 04/09/10 untouched
+- Extra Stories: +224 (Seasonal 19+3 + Story Event 202) via apsw chacha20 meta decrypt (365,808 rows) + Akamai CDN `Windows/assetbundles` (198 CDN + 4 local + 22 seasonal), UmaTL 09:255→457, 10:24→43, 14:0→3
+- translate: dual-engine fallback (gemini-3.7-flash-low → deepseek-v4-flash/qwen3.8-flash/deepseek-v4-pro/gemini-3.1-pro-low), 11,357 strings (9,871 new 09), wrapped 42 cols, `no_wrap:true`, CRLF clean
+- index now 19,922 files (blake3, LF, zip_url/zip_dir) — Extra Stories now 100% in `Extra Stories` hub (55/55, 11/11, 3/3, 4/4)
+
 ## 2026-09-05 — 14k career stories + fallback hardening
 
 - timeline shift fix: stripped dummy block 0 across 1,483 files (choices now land correctly, Epiphaneia screenshot fixed)
