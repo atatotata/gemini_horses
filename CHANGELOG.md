@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-05 — 14k career stories + fallback hardening
+
+- timeline shift fix: stripped dummy block 0 across 1,483 files (choices now land correctly, Epiphaneia screenshot fixed)
+- canonical names: standardized 13 names (Efforia not Euphoria, Curren Chan, Rhein Kraft, etc.) in voice bible, text_data cat6, and 216 stories
+- support card career events: +395 missing (gallery_flag=2, Efforia 801146xxx) — 484k-string scan
+- horsegirl career events: +14,136 (gallery_flag=1+3, Horsegirls + Main Scenario) via 8-worker extract (14.2s, 483,516 blocks) + dual-engine translate (gemini-3.7-flash-low primary with fallback cascade deepseek-v4-flash/qwen3.8-flash/deepseek-v4-pro/gemini-3.1-pro-low)
+- index now 19,698 files (blake3, LF, zip_url/zip_dir)
+- tools consolidated under gemini_horses/tools/
+
 ## 2026-09-03 — zero to done in one day
 
 - 21:43 — renamed to `Gemini Horses (UmaTL + Gemini mTL + Skill Data)` + made description readable
