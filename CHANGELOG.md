@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-06 — story gaps 4,280 + lyrics 25 + storyrace 1
+
+- story gaps 4,280 (50:3,603, 40:356, 11:228, 80:89, 83:4) via local dat 100% decrypt (17,565 blocks, 13,768 uniques) dual-engine fallback, 42-cols tag-aware ` \n`, both repos identical, UmaTL 04/09 untouched
+- lyrics 25 + storyrace 1 (62→62, 34→34) via XOR e + UnityPy/TextAsset CSV, 617 strings, merged both repos
+- index now ~25,166 files (blake3, LF, zip_url/zip_dir)
+
 ## 2026-09-06 — race jikkyo 1200 + home 938
 
 - race jikkyo: +1,200 (`race_jikkyo_message` 2,171→3,251, `race_jikkyo_comment` 264→384) via 5-worker batch fallback, both repos identical

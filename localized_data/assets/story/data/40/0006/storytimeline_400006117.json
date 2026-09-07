@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "It was decided that <chrname> would be interviewed \nby \"Monthly Twinkle.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I see! So you intend to take on the Prix \nde l'Arc de Triomphe in that racing outfit \nas well...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Seeing you galloping across the turf of \nLongchamp, <chrname>...! I can already picture it \nbefore my eyes...!",
+      "choice_data_list": [
+        "I'm looking forward to that time as well",
+        "I'm looking forward to that time as well."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, so you also firmly believe that she \nwill whip up a whirlwind at the 'Prix de \nl'Arc de Triomphe', Trainer...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"I feel like she took it a bit \ndramatically, but I truly believe in it as \nI work hard with <chrname> every single day—\"",
+      "choice_data_list": [
+        "Yes, I'll definitely make it happen!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "As a declaration of determination, the \nTrainer gave Reporter Otonashi a firm, \nresolute nod.",
+      "choice_data_list": []
+    }
+  ]
+}

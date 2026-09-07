@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mei Satake",
+      "text": "Hmm... <chrname>'s traits at the current moment \nare... Since the environment will change \nat Longchamp—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"...Whoops. Trainer <username>! Do you have a \nmoment? During that SS Match, I had a \nsudden flash of inspiration...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Alright! I've upgraded the VR Umalator to \nyour specifications! Want to give it a \nspin right away?",
+      "choice_data_list": [
+        "Gladly! Thank you so much!"
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"Hahaha. I'm the one who should be \nthanking you. ...Now, go and make the most \nof your special training on the simulated \nLongchamp!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "I enter the prepared Umalator with <chrname>. Let's \nkeep working hard towards the Prix de \nl'Arc de Triomphe!",
+      "choice_data_list": []
+    }
+  ]
+}

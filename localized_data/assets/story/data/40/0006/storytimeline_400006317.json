@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "<chrname> seems to have suffered a minor injury...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "However, right now we are in the middle of \nan important expedition. Now then, what \nshould we do—",
+      "choice_data_list": [
+        "Make sure she gets proper rest",
+        "Make them work hard"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I decided to have her focus completely on \ntreatment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname> couldn't move her body and seemed to be \nfeeling a bit down...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "I decided to give <chrname> some passionate \nencouragement and urge her to do her best—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "However, it ended in failure! It seems the \ninjury has worsened even further...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Then, miraculously, the injury healed \ncompletely as well, and training went \ngreat!!",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "It was decided that <chrname> would be interviewed \nby \"Monthly Twinkle.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I see! So you intend to take on the Prix \nde l'Arc de Triomphe in that racing outfit \nas well...!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Seeing you galloping across the turf of \nLongchamp, <chrname>...! I can already picture it \nbefore my eyes...!",
+      "choice_data_list": [
+        "I'm looking forward to that time as well",
+        "I'm looking forward to that time as well.",
+        "Yes, I'm sure she'll cross the finish line \nin first place."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Seeing you galloping across the turf of \nLongchamp, <chrname>...! I can already picture it \nbefore my eyes...!",
+      "choice_data_list": [
+        "I'm looking forward to that time as well",
+        "I'm looking forward to that time as well.",
+        "Yes, I'm sure she'll cross the finish line \nin first place."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, so you also firmly believe that she \nwill whip up a whirlwind at the 'Prix de \nl'Arc de Triomphe', Trainer...?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Wait, you're saying you can already see <chrname> \nholding up the trophy on the podium!?!?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Now THAT is the mindset a Trainer \nchallenging the world's greatest stage \nneeds! I am truly in awe...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "That's right. <chrname> and I are about to take on \na magnificent dream—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "You have to possess the vision that with \nthis kind of strength, you can win the \nPrix de l'Arc de Triomphe...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Following her example, they resolved to \nimagine <chrname> holding up the Prix de l'Arc de \nTriomphe trophy every single day from now \non.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "S-Sensational!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Believing wholeheartedly in your partner \nUmamusume's victory is what makes a true \nTrainer...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Now THAT is the mindset a Trainer \nchallenging the world's greatest stage \nneeds! I am truly in awe...!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, the interview ended up being a \nroaring success.",
+      "choice_data_list": []
+    }
+  ]
+}

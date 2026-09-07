@@ -1,0 +1,15 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Having heard of the team's reputation, <support> \ncame asking to join the team.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "<support> has joined the team!",
+      "choice_data_list": []
+    }
+  ]
+}

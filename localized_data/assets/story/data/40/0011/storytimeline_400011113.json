@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "<chrname> suffered a severe injury...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Should I be gentle and care for them, or \nshould I be strict? What should I do...?",
+      "choice_data_list": [
+        "Give her plenty of care and comfort",
+        "Go strict!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I took good care of them and focused on \ntreating their injury.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "However, <chrname> was unable to move her body, and \nseemed to have fallen into a deep slump...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no time to stand still! Hardening \nmy heart, I decided to treat <chrname> with strict \ndiscipline.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "However, as a result of pushing herself \ntoo hard, her injury only worsened...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Then, as if by a miracle, the injury \nhealed completely, and training went \ngreat!!",
+      "choice_data_list": []
+    }
+  ]
+}

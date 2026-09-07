@@ -1,0 +1,22 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "A defeat in the target race... Taking that \ninto account, considering the next goal \nwith <chrname>—",
+      "choice_data_list": [
+        "Choose Option 1",
+        "Choose Option 2",
+        "Choose Option 3",
+        "Choose Option 4",
+        "Choose Option 5",
+        "Choose Option 6"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "—And so, the next target race was decided! \nStacking up training day after day, this \ntime, let's seize that victory...!",
+      "choice_data_list": []
+    }
+  ]
+}

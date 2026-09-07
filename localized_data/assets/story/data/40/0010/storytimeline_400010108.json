@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Speed Symboli",
+      "text": "Trainer. Look at that girl.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "As <chrname> ran off... she was brimming with \nenergy and visibly fired up!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Speed Symboli",
+      "text": "It seems training together provided a \ngreat opportunity for her. ...I'm really \nglad.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Now that <chrname> is overflowing with spirit, \npushing her training even harder... should \nhelp her grow even more!",
+      "choice_data_list": []
+    }
+  ]
+}

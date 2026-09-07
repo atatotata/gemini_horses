@@ -1,0 +1,17 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "St Lite",
+      "text": "Look at that expression on <chrname>'s face... \nHehe, she is simply overflowing with \nmotivation, isn't she?",
+      "choice_data_list": [
+        "(Now that you mention it...)"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "<chrname> seems to be in great shape right now! \nLet's make training even more fulfilling \nand look forward to further growth!",
+      "choice_data_list": []
+    }
+  ]
+}

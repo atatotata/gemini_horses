@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "While walking around town with <chrname> for a \nshort break between training sessions—",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "\"—Hey, isn't that <chrname>?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Overhearing someone call out <chrname>'s name in \nFrench, you reflexively turn your \nattention toward the voice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian A",
+      "text": "\"'Who's <chrname>? Are they famous?'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian B",
+      "text": "\"She's a Japanese Umamusume. She's pretty \nstrong in Japan, and I hear she's running \nin the Prix de l'Arc de Triomphe next.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "It turns out there were people in Paris \nwho knew about <chrname> as well.",
+      "choice_data_list": [
+        "(Maybe I should go talk to them...)",
+        "(Let's listen to their conversation a bit \nmore.)"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Gathering my courage, I tried speaking to \nthem in the French I had learned!",
+      "choice_data_list": [
+        "Bonjour!"
+      ]
+    },
+    {
+      "name": "Parisian B",
+      "text": "\"Whoa! So you really were <chrname> after all?! I \nsaw your videos on UmaTube, I'm rootin' \nfor you~\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian A",
+      "text": "\"Oh, so you both understand French. Did \nyou study it?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Interacting with the fans in Paris seems \nto have been an invaluable experience for <chrname> \nas well!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian B",
+      "text": "\"I saw how hard you were workin' on \nUmaTube to run in the Prix de l'Arc de \nTriomphe, and it just made me wanna root \nfor you...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian A",
+      "text": "\"My, my, aren't you going to cheer for our \ngenius girl? You two-timer~~\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian B",
+      "text": "\"What's wrong with that?! It doesn't \nmatter how many Umamusume I cheer for!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "It seemed this pleasant conversation was \nclearly understood by <chrname>, who had been \nstudying French together with them.",
+      "choice_data_list": []
+    }
+  ]
+}

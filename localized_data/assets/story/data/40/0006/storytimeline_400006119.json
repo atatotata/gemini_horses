@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "One day during lunch break, I went to see <chrname> \nand found her talking to an unusual group \nof people.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Ah, Trainer <username>. I was just hearing all sorts \nof stories from <chrname>-san.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "France... The \"Prix de l'Arc de \nTriomphe\"... So many things I don't \nknow... I'm so excited.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems they asked <chrname> to share her \nexperiences from Project L'Arc with them.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Um, if it's alright, could you tell me \nyour story too, Trainer <username>, so I can learn \nfrom it?",
+      "choice_data_list": [
+        "Yes, of course!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The atmosphere of the streets of Paris, \nsomething you could only truly understand \nonce you were actually there—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "The distinct tension and exhilaration felt \nat the world's most prestigious race— once \nthey started talking about it, the topics \nwere endless.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Happy Meek",
+      "text": "The world... my heart's pounding... so \nnice... Someday, I want to... with \nTrainer... *mun*.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Um, Trainer <username>. You're going to take on the \nchallenge again this year, right? The Prix \nde l'Arc de Triomphe...!",
+      "choice_data_list": [
+        "...Yes!"
+      ]
+    },
+    {
+      "name": "Trainer Kiryuin",
+      "text": "Both Meek and I are cheering you on from \nthe bottom of our hearts. As the ultimate \ngoal we strive toward...!",
+      "choice_data_list": []
+    }
+  ]
+}

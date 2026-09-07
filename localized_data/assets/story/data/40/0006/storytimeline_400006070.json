@@ -1,0 +1,202 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Spectator",
+      "text": "\"The one who won... is a Japanese \nUmamusume...?!\" \"No way, to think she beat \nall three of them...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Caster",
+      "text": "Everyone back in Japan, are you watching?! \nWitness the incredible feat <chrname> has achieved!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Caster",
+      "text": "\"...Ngh, ...brilliantly... ngh, <chrname> did \nit...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Fan from Japan",
+      "text": "Congraaaats, <chrname>!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "—It is no dream. It is no illusion. Voices \nof blessing soar through France.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "<chrname>'s outstretched hand reached the gate. As \nthe world's strongest Umamusume—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rigauntona",
+      "text": "『<chrname>...』",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rigauntona",
+      "text": "\"Making it impossible to forget you... \nThat's just unfair...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Montjeu",
+      "text": "\"Venus Park, it's okay to let your \nfrustration out out loud.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Venus Park",
+      "text": "\"...Master.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Montjeu",
+      "text": "\"Frustration becomes power. It turns into \nthe fiery desire in your heart to win next \ntime.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Montjeu",
+      "text": "\"Make everything useful serve as your \nfuel. Even I... feel frustrated, after \nall.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Venus Park",
+      "text": "\"...! ...Ngh. U-Uuuuugh...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Venus Park",
+      "text": "\"I wanted to win... so badly! I wanted \nto... I wanted to win...!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Montjeu",
+      "text": "\"...Yeah. That's fine. Let's keep trying \nuntil we win.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Montjeu",
+      "text": "“This time, we're the challengers.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"...Now then, Trainer <username>. You two still have \na major task ahead of you.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "The world is waiting for you all! They're \nasking you to hurry up and lift that \ntrophy!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "With Mei Satake pulling your arm, you head \nto the podium alongside <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Spectator",
+      "text": "You are so amazing!! Félicitations!",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Even while on the move, people from \nvarious countries sang <chrname>'s praises. \nApplause was given, handshakes were \nrequested—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Suddenly, she stopped.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "...Ngh, congratulations.",
+      "choice_data_list": [
+        "...Ms. Satake."
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"Haha... My bad, my bad. You're the ones \nwho worked hard, and yet here I am...\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Truly... it feels like I'm dreaming. To \nthink I could be greeted by such a sight.",
+      "choice_data_list": [
+        "I was able to stand here because I kept \ndreaming"
+      ]
+    },
+    {
+      "name": "Mei Satake",
+      "text": "\"...! ...Ahaha!\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Thank you, <chrname>, Trainer <username>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "Just a little further to the podium. Go \non, guide your prized Umamusume up there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mei Satake",
+      "text": "—Go on, you two, and bask in the greatest \nblessing together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "—Exchanging glances with <chrname>, you take your \nnext step forward together.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Step by step alongside her, treading upon \nthe tiers of the podium—",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "<chrname> held up the trophy.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"...I shall follow suit. Feeling that \nweight firmly in the palm of my hand.\"",
+      "choice_data_list": [
+        "(The world's best, grasped together with \nyou.)",
+        "(The world's best, grasped together with \nyou.)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Holding the romance she had always wished \nfor close to her heart.",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...—So that the people who wished for that \nsight can see the radiance of that trophy, \ntoo.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume",
+      "text": "...Beautiful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandfather Symboli",
+      "text": "Yeah. ...Congratulations, <chrname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Grandfather Symboli",
+      "text": "...So this is what the greatest view in \nthe world looks like.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "<chrname> achieved <achievement_name>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "<achievement_info>",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Then, one day, I was suddenly summoned to \nthe chairwoman's office.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Splendid!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "<chrname>'s performance was truly thrilling! \nSplendid! A massive breakthrough!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Splendid! You have achieved a great result \nthat will go down in Tracen Academy \nhistory—no, in Umamusume history!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "I received the highest praise directly \nfrom Chairwoman Akikawa...! It seems we \nachieved the best possible outcome!",
+      "choice_data_list": []
+    }
+  ]
+}

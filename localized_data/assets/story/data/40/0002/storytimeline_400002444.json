@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "At last, enough members have gathered to \nform a team and participate in the Aoharu \nCup.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "In the Aoharu Cup, training levels \nincrease according to your team rank. You \nwant to rack up as many wins as possible.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "First, we need to decide on a team name. \nHow about Team <Carrots>, the one I came up with \nmyself?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "The team's name is—",
+      "choice_data_list": [
+        "Team <Carrots>"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Deciding on \"Team Carrots\" as the team \nname, it was filled into the race entry \nform and submitted.",
+      "choice_data_list": []
+    }
+  ]
+}

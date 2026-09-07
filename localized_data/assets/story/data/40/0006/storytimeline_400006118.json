@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "While walking around town with <chrname> for a \nshort break between training sessions—",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "\"—Hey, isn't that <chrname>?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Overhearing someone call out <chrname>'s name in \nFrench, you reflexively turn your \nattention toward the voice.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian A",
+      "text": "\"'Who's <chrname>? Are they famous?'\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian B",
+      "text": "\"She's a Japanese Umamusume. I was \nwatching UmaTube the other day and saw a \nvideo about some project or other.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Parisian B",
+      "text": "\"So, watching her work so hard to make it \nto the Prix de l'Arc de Triomphe kinda \nmade me want to root for her, you know~?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "Having studied French together, <chrname> was \nclearly able to understand this \nconversation as well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "People outside Japan are paying attention \ntoo. Knowing that, <chrname> and their Trainer felt \ntheir morale soar together.",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "<chrname> achieved <achievement_name>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "<achievement_info>",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "One day, Chairwoman Akikawa called out to \nme.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Magnificent!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "<chrname>'s performance was truly vivid! And full \nof promise!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Chairwoman Akikawa",
+      "text": "Splendid! You have shown an outstanding \nperformance that will serve as a goal for \nall the other Umamusume to aspire to!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Monologue",
+      "text": "I received words of praise in person...! \nLooks like I managed to get good results!",
+      "choice_data_list": []
+    }
+  ]
+}
