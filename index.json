@@ -1,7 +1,7 @@
 {
-  "base_url": "https://raw.githubusercontent.com/atatotata/gemini_horses/community/localized_data",
-  "zip_url": "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/community",
-  "zip_dir": "gemini_horses-community/localized_data",
+  "base_url": "https://raw.githubusercontent.com/atatotata/gemini_horses/lore/localized_data",
+  "zip_url": "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/lore",
+  "zip_dir": "gemini_horses-lore/localized_data",
   "files": [
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
@@ -125810,8 +125810,8 @@
     },
     {
       "path": "info.json",
-      "hash": "4fa60eb4f119b9cbaaf019f995b0ae80a7e5750920c1af403a80e7449fb96063",
-      "size": 364
+      "hash": "ac269c16caef1d6fb95579b14b3432eb6622046f93c87eba9b9b9fa14e640027",
+      "size": 391
     },
     {
       "path": "localize_dict.json",
@@ -125830,8 +125830,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "e0030c95af0587967f5ae59c31930901375a90b8cc7bd23789ef35d4caed3b6f",
-      "size": 5750638
+      "hash": "226772771859ef5668049fa71689fc5c1983f8a744eca5985e1dbf74d219d5ac",
+      "size": 5681595
     }
   ]
 }
