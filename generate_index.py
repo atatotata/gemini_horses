@@ -18,16 +18,14 @@ def main():
     index_file = repo_root / "index.json"
 
     # Default URLs if not already set (zip_* required by Hachimi for full/fresh downloads, e.g. Android)
-    base_url = "https://raw.githubusercontent.com/atatotata/gemini_horses/main/localized_data"
-    zip_url = "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/main"
-    zip_dir = "gemini_horses-main/localized_data"
+    base_url = "https://raw.githubusercontent.com/atatotata/gemini_horses/community/localized_data"
+    zip_url = "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/community"
+    zip_dir = "gemini_horses-community/localized_data"
     if index_file.exists():
         try:
             with open(index_file, "r", encoding="utf-8") as f:
                 old_idx = json.load(f)
-                base_url = old_idx.get("base_url", base_url)
-                zip_url = old_idx.get("zip_url", zip_url)
-                zip_dir = old_idx.get("zip_dir", zip_dir)
+                # Keep URLs pointing to current branch
         except Exception:
             pass
 
