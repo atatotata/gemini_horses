@@ -1,0 +1,25 @@
+Found 15893 career files to re-wrap (limit 42)
+  4000/15893 (7.3s) max 55
+  8000/15893 (21.0s) max 66
+  12000/15893 (34.7s) max 66
+UmaTL 04 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 09 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 10 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 11 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 00 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 01 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 02 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 08 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 12 untouched sample mtime Mon Aug 31 17:08:41 2026
+UmaTL 13 untouched sample mtime Mon Aug 31 17:08:41 2026
+Done 15893 files in 53.5s, wrapped_files 15889, max_cols 76
+Sample 40\0000\storytimeline_400000001.json no_wrap=True
+'When I arrived full of enthusiasm at work \nin the morning, I was greeted by Hayakawa \nTazuna, the secretary to the president.'
+  [41 cols] 'When I arrived full of enthusiasm at work '
+  [41 cols] 'in the morning, I was greeted by Hayakawa '
+  [39 cols] 'Tazuna, the secretary to the president.'
+Sample 40\0000\storytimeline_400000005.json no_wrap=True
+"Brilliant! You've shown me your \nenthusiasm, your attitude towards horse \ngirls!"
+  [31 cols] "Brilliant! You've shown me your "
+  [39 cols] 'enthusiasm, your attitude towards horse '
+  [6 cols] 'girls!'

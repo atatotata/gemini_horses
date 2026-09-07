@@ -1,0 +1,35 @@
+=== FULL VERIFICATION ===
+
+1. File existence & hash identity:
+  Both repos: 26/26
+  Hash identical: 26/26
+  Total blocks: 1266
+  Total choices (incl empty): 8
+  Max display cols: 42
+  Lines over 42 cols: 0
+  CRLF clean: True
+
+2. SPL Sample - 100006001 Block 0 EN:
+  name: Reporter Otonashi
+  text: (Hello, I'm Etsuko Otonashi! As a reporter
+for Monthly Twinkle,
+I cover the races of the Umamusume I love
+with an ever-thrilled heart!)
+
+3. SPL Sample - 09/90016001 Block 0 EN:
+  name: ''
+  text: The "Summer Walk"窶蚤 chance to unwind and
+recharge for the autumn season.
+During this time, the Umamusume refresh
+themselves by enjoying various events.
+
+4. UmaTL existing 09 files untouched:
+  Existing 09 non-target files: 453 (untouched)
+
+5. New 09 dirs created (were missing before):
+  09/0016: 8 files
+  09/0021: 8 files
+  09/0032: 8 files
+  09/0054: 8 files
+
+=== ALL CHECKS PASSED ===

@@ -1,0 +1,51 @@
+### 1. FOCUS TABLES vs their localized dicts ###
+[race_jikkyo_message_dict.json] table=race_jikkyo_message
+  master rows=3251  distinct_ids=3251  dup_id_rows=0  id_range=1..70000
+  localized keys=2171  keys in dict that match master id=2171  coverage=66.8%
+  GAP: master ids UNTRANSLATED=1080   EXTRA/stale dict keys=0
+  untranslated sample ids=[25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+  stale sample keys=[]
+
+[race_jikkyo_comment_dict.json] table=race_jikkyo_comment
+  master rows=384  distinct_ids=384  dup_id_rows=0  id_range=1..9035
+  localized keys=264  keys in dict that match master id=264  coverage=68.8%
+  GAP: master ids UNTRANSLATED=120   EXTRA/stale dict keys=0
+  untranslated sample ids=[3050, 3063, 3064, 3068, 3070, 3074, 3076, 3078, 3084, 3086, 3087, 3091]
+  stale sample keys=[]
+
+### 2. Which master tables exist among the 5 focus names? ###
+  race_jikkyo_message              EXISTS
+  race_jikkyo_message_window       NOT IN DB
+  race_jikkyo_phase_condition      NOT IN DB
+  race_comment_group               NOT IN DB
+  race_jikkyo_comment              EXISTS
+
+### 3. Untranslated message rows context (Venus/new content check) ###
+  untranslated rows=1080 / total=3251
+  by comment_group: [(0, 1071), (100276, 1), (100087, 1), (100069, 1), (100083, 1), (100016, 1), (160011, 1), (160013, 1), (160014, 1), (100059, 1)]
+  race_jikkyo_base_venus id range: (23, 1554)
+
+### 4. Untranslated message samples ###
+  id=25     group_id=100200  cg=0 :: ファンファーレが高らかに響く！\n春のGⅠ開幕戦、フェブラリーステークス！
+  id=26     group_id=100201  cg=0 :: オオカン桜が見守るもとでの熱き戦い！\n電撃6ハロン、高松宮記念！
+  id=27     group_id=100202  cg=0 :: 早春の阪神に最強を自負するウマ娘が集う！\n春の中・長距離三冠、第一弾、大阪杯！
+  id=28     group_id=100203  cg=0 :: 咲き誇る桜が女王の誕生を待ち望む！\nクラシック第一弾！桜花賞！
+  id=29     group_id=100204  cg=0 :: 最も『はやい』ウマ娘が勝つという皐月賞！\n成長を見せつけるのは誰だ！
+  id=30     group_id=100205  cg=0 :: 唯一無二、一帖の盾をかけた熱き戦い！\n最長距離GⅠ天皇賞（春）！
+  id=31     group_id=100206  cg=0 :: 世代最速を自負するウマ娘が府中に集う！\nNHKマイルカップ！
+  id=32     group_id=100207  cg=0 :: 女神見守る府中に天使が舞い降りる！\nヴィクトリアに見初められた者が勝者となる！
+
+### 5. ALL keyword tables (jikkyo/live/race/comment) JP-text scan ###
+  race_jikkyo_comment                        rows=384    JPtext_rows~348
+  race_jikkyo_message                        rows=3251   JPtext_rows~3202
+  (non-JP tables omitted; JP-bearing count=2)
+
+### 6. JP-bearing table sample text + which localized dict could cover it ###
+[race_jikkyo_comment] rows=384 textcols=['message', 'voice']
+    message: 名勝負になる舞台は整いましたね
+    message: バ場が乾いているので\n足元が滑るかもしれませんね
+    -> JP strings also present in any localized dict value: 0 (exact match)
+[race_jikkyo_message] rows=3251 textcols=['message', 'voice']
+    message: 晴れわたる空のもと行われる、\n%course\n%ground%distance%race\n%h_num_noウマ娘たちが挑みます
+    message: 曇り空のもと、%course\n%ground%distance%race\n%h_num_noウマ娘たちが挑みます
+    -> JP strings also present in any localized dict value: 0 (exact match)

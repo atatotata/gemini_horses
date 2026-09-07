@@ -1,0 +1,80 @@
+{"level":30,"time":"2026-09-06T11:23:38.548Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: opencode-go, Model: mimo-v2.5"}
+{"level":30,"time":"2026-09-06T11:23:38.549Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"session_key=header:ses_f898e03... has no available affinity target"}
+{"level":30,"time":"2026-09-06T11:23:38.549Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"level":30,"time":"2026-09-06T11:23:38.610Z","service":"omniroute","module":"sse","tag":"COMPRESSION","msg":"Prompt compressed (stacked): 31840 -> 19475 tokens (38.83% saved, techniques: rtk-filter,rtk-truncate,rtk-raw-output-retention,caveman-rules)"}
+{"timestamp":"2026-09-06T11:23:41.428Z","level":"info","component":"04:23:41","message":"[04:23:41] 📊 \u001b[32m[USAGE] OPENCODE-GO | in=172603 | out=392 | account=8c03c084...\u001b[0m \u001b[33m(estimated)\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:41.535Z","level":"info","component":"04:23:41","message":"[04:23:41] 🌊 [STREAM] OPENCODE-GO | muse-spark-1.2-contributor | 24857ms | complete"}
+{"timestamp":"2026-09-06T11:23:41.749Z","level":"info","component":"SKILLS_INJECTION","message":"[INFO] [SKILLS_INJECTION] skills.injection.skipped {\"apiKeyId\":\"04feb98e-6b9d-4434-ac0a-3171cee950c6\",\"reason\":\"no_enabled_skills\"}"}
+{"level":30,"time":"2026-09-06T11:23:41.743Z","service":"omniroute","module":"sse","tag":"HTTP","method":"POST","path":"/v1/responses | opencode-go/muse-spark-1.3-contributor | 6 msgs","msg":"📥 POST /v1/responses | opencode-go/muse-spark-1.3-contributor | 6 msgs"}
+{"level":30,"time":"2026-09-06T11:23:41.746Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: opencode-go, Model: muse-spark-1.3-contributor"}
+{"level":30,"time":"2026-09-06T11:23:41.748Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"session_key=input:sha256:71d5b... has no available affinity target"}
+{"level":30,"time":"2026-09-06T11:23:41.748Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"timestamp":"2026-09-06T11:23:41.857Z","level":"info","component":"app","message":"\u001b[31m[ERROR] [500]: Internal server error\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:41.858Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=error"}
+{"timestamp":"2026-09-06T11:23:41.860Z","level":"error","component":"app","message":"❌ opencode-go [500]: [500]: Internal server error"}
+{"timestamp":"2026-09-06T11:23:41.863Z","level":"info","component":"SKILLS_INJECTION","message":"[INFO] [SKILLS_INJECTION] skills.injection.skipped {\"apiKeyId\":\"04feb98e-6b9d-4434-ac0a-3171cee950c6\",\"reason\":\"no_enabled_skills\"}"}
+{"level":40,"time":"2026-09-06T11:23:41.860Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account 8c03c084... unavailable (500), trying fallback"}
+{"level":30,"time":"2026-09-06T11:23:41.861Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"session_key=input:sha256:71d5b... has no available affinity target"}
+{"level":30,"time":"2026-09-06T11:23:41.861Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"timestamp":"2026-09-06T11:23:42.859Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=success"}
+{"timestamp":"2026-09-06T11:23:46.203Z","level":"info","component":"app","message":"\u001b[31m[ERROR] [429]: Monthly usage limit reached. Resets in 13 days. To continue using this model now, enable usage from your available balance: https://opencode.ai/workspace/wrk_01KV8W65W044FB4P2MBM3XF7CQ/go\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:46.205Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=error"}
+{"timestamp":"2026-09-06T11:23:46.207Z","level":"error","component":"app","message":"❌ opencode-go [429]: [429]: Monthly usage limit reached. Resets in 13 days. To continue using this model now, enable usag"}
+{"timestamp":"2026-09-06T11:23:46.210Z","level":"info","component":"SKILLS_INJECTION","message":"[INFO] [SKILLS_INJECTION] skills.injection.skipped {\"apiKeyId\":\"04feb98e-6b9d-4434-ac0a-3171cee950c6\",\"reason\":\"no_enabled_skills\"}"}
+{"level":40,"time":"2026-09-06T11:23:46.207Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account 5016ca42... unavailable (429), trying fallback"}
+{"level":30,"time":"2026-09-06T11:23:46.208Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"timestamp":"2026-09-06T11:23:46.218Z","level":"warn","component":"provider","message":"[provider] Node noauth exhausted quota (402)"}
+{"timestamp":"2026-09-06T11:23:46.219Z","level":"info","component":"app","message":"\u001b[31m[ERROR] [402]: This model requires an opencode API key — add one in Settings → Providers.\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:46.221Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=error"}
+{"timestamp":"2026-09-06T11:23:46.223Z","level":"error","component":"app","message":"❌ opencode-go [402]: [402]: This model requires an opencode API key — add one in Settings → Providers."}
+{"level":40,"time":"2026-09-06T11:23:46.220Z","service":"omniroute","module":"sse","tag":"EMERGENCY_FALLBACK","msg":"opencode-go/muse-spark-1.3-contributor -> nvidia/openai/gpt-oss-120b | reason=HTTP 402 → emergency fallback to nvidia/openai/gpt-oss-120b"}
+{"level":30,"time":"2026-09-06T11:23:46.221Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: nvidia, Model: openai/gpt-oss-120b"}
+{"level":40,"time":"2026-09-06T11:23:46.223Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"No credentials for nvidia"}
+{"level":40,"time":"2026-09-06T11:23:46.223Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"No active credentials for provider: nvidia"}
+{"level":40,"time":"2026-09-06T11:23:46.223Z","service":"omniroute","module":"sse","tag":"EMERGENCY_FALLBACK","msg":"Emergency fallback to nvidia/openai/gpt-oss-120b failed with status 401. Resuming original provider account fallback."}
+{"level":40,"time":"2026-09-06T11:23:46.223Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account noauth... unavailable (402), trying fallback"}
+{"level":40,"time":"2026-09-06T11:23:46.224Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"opencode-go | all 2 accounts unavailable"}
+{"level":40,"time":"2026-09-06T11:23:46.224Z","service":"omniroute","module":"sse","tag":"CHAT","provider":"opencode-go","model":"muse-spark-1.3-contributor","lastStatus":402,"msg":"Preserving last upstream error after credential exhaustion"}
+{"timestamp":"2026-09-06T11:23:46.237Z","level":"info","component":"SKILLS_INJECTION","message":"[INFO] [SKILLS_INJECTION] skills.injection.skipped {\"apiKeyId\":\"04feb98e-6b9d-4434-ac0a-3171cee950c6\",\"reason\":\"no_enabled_skills\"}"}
+{"level":30,"time":"2026-09-06T11:23:46.231Z","service":"omniroute","module":"sse","tag":"HTTP","method":"POST","path":"/v1/chat/completions | opencode-go/muse-spark-1.3-contributor | 1 msgs","msg":"📥 POST /v1/chat/completions | opencode-go/muse-spark-1.3-contributor | 1 msgs"}
+{"level":30,"time":"2026-09-06T11:23:46.235Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: opencode-go, Model: muse-spark-1.3-contributor"}
+{"level":30,"time":"2026-09-06T11:23:46.236Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"session_key=input:sha256:71d5b... has no available affinity target"}
+{"level":30,"time":"2026-09-06T11:23:46.236Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"timestamp":"2026-09-06T11:23:46.347Z","level":"info","component":"app","message":"\u001b[31m[ERROR] [500]: Internal server error\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:46.349Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=error"}
+{"timestamp":"2026-09-06T11:23:46.352Z","level":"info","component":"SKILLS_INJECTION","message":"[INFO] [SKILLS_INJECTION] skills.injection.skipped {\"apiKeyId\":\"04feb98e-6b9d-4434-ac0a-3171cee950c6\",\"reason\":\"no_enabled_skills\"}"}
+{"level":40,"time":"2026-09-06T11:23:46.350Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account 8c03c084... unavailable (500), trying fallback"}
+{"level":30,"time":"2026-09-06T11:23:46.351Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"session_key=input:sha256:71d5b... has no available affinity target"}
+{"level":30,"time":"2026-09-06T11:23:46.351Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"timestamp":"2026-09-06T11:23:50.673Z","level":"info","component":"app","message":"\u001b[31m[ERROR] [429]: Monthly usage limit reached. Resets in 13 days. To continue using this model now, enable usage from your available balance: https://opencode.ai/workspace/wrk_01KV8W65W044FB4P2MBM3XF7CQ/go\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:50.676Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=error"}
+{"timestamp":"2026-09-06T11:23:50.679Z","level":"info","component":"SKILLS_INJECTION","message":"[INFO] [SKILLS_INJECTION] skills.injection.skipped {\"apiKeyId\":\"04feb98e-6b9d-4434-ac0a-3171cee950c6\",\"reason\":\"no_enabled_skills\"}"}
+{"timestamp":"2026-09-06T11:23:50.687Z","level":"warn","component":"provider","message":"[provider] Node noauth exhausted quota (402)"}
+{"timestamp":"2026-09-06T11:23:50.687Z","level":"info","component":"app","message":"\u001b[31m[ERROR] [402]: This model requires an opencode API key — add one in Settings → Providers.\u001b[0m"}
+{"timestamp":"2026-09-06T11:23:50.690Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=error"}
+{"level":40,"time":"2026-09-06T11:23:50.677Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account 5016ca42... unavailable (429), trying fallback"}
+{"level":30,"time":"2026-09-06T11:23:50.678Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"level":40,"time":"2026-09-06T11:23:50.688Z","service":"omniroute","module":"sse","tag":"EMERGENCY_FALLBACK","msg":"opencode-go/muse-spark-1.3-contributor -> nvidia/openai/gpt-oss-120b | reason=HTTP 402 → emergency fallback to nvidia/openai/gpt-oss-120b"}
+{"level":30,"time":"2026-09-06T11:23:50.690Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: nvidia, Model: openai/gpt-oss-120b"}
+{"level":40,"time":"2026-09-06T11:23:50.691Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"No credentials for nvidia"}
+{"level":40,"time":"2026-09-06T11:23:50.691Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"No active credentials for provider: nvidia"}
+{"level":40,"time":"2026-09-06T11:23:50.691Z","service":"omniroute","module":"sse","tag":"EMERGENCY_FALLBACK","msg":"Emergency fallback to nvidia/openai/gpt-oss-120b failed with status 401. Resuming original provider account fallback."}
+{"level":40,"time":"2026-09-06T11:23:50.692Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account noauth... unavailable (402), trying fallback"}
+{"level":40,"time":"2026-09-06T11:23:50.692Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"opencode-go | all 2 accounts unavailable"}
+{"level":40,"time":"2026-09-06T11:23:50.692Z","service":"omniroute","module":"sse","tag":"CHAT","provider":"opencode-go","model":"muse-spark-1.3-contributor","lastStatus":402,"msg":"Preserving last upstream error after credential exhaustion"}
+{"level":30,"time":"2026-09-06T11:23:50.739Z","service":"omniroute","module":"sse","tag":"HTTP","method":"POST","path":"/v1/responses | codex/muse-spark-1.3-contributor | 6 msgs","msg":"📥 POST /v1/responses | codex/muse-spark-1.3-contributor | 6 msgs"}
+{"level":30,"time":"2026-09-06T11:23:50.742Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: codex, Model: muse-spark-1.3-contributor"}
+{"level":40,"time":"2026-09-06T11:23:50.743Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"No credentials for codex"}
+{"level":40,"time":"2026-09-06T11:23:50.743Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"No active credentials for provider: codex"}
+{"level":30,"time":"2026-09-06T11:23:51.050Z","service":"omniroute","module":"sse","tag":"HTTP","method":"POST","path":"/v1/chat/completions | opencode-go/muse-spark-1.2-contributor | 329 msgs | 93 tools","msg":"📥 POST /v1/chat/completions | opencode-go/muse-spark-1.2-contributor | 329 msgs | 93 tools"}
+{"level":30,"time":"2026-09-06T11:23:51.152Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: opencode-go, Model: muse-spark-1.2-contributor"}
+{"level":30,"time":"2026-09-06T11:23:51.153Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"session_key=header:ses_fbfcfc9... has no available affinity target"}
+{"level":30,"time":"2026-09-06T11:23:51.154Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Using opencode-go account: ***..."}
+{"level":30,"time":"2026-09-06T11:23:51.393Z","service":"omniroute","module":"sse","tag":"COMPRESSION","msg":"Prompt compressed (stacked): 180474 -> 101535 tokens (43.74% saved, techniques: rtk-filter,rtk-raw-output-retention,rtk-truncate,caveman-rules)"}
+{"timestamp":"2026-09-06T11:23:54.702Z","level":"info","component":"ProxyEgress","message":"[ProxyEgress] opencode-go status=success"}
+{"level":30,"time":"2026-09-06T11:23:54.696Z","service":"omniroute","module":"sse","tag":"AUTH","msg":"Account 8c03c084 error cleared"}
+{"timestamp":"2026-09-06T11:23:59.686Z","level":"warn","component":"STREAM","message":"[STREAM] Upstream returned empty choices array (opencode-go:mimo-v2.5) — dropping chunk"}
+{"timestamp":"2026-09-06T11:23:59.687Z","level":"info","component":"04:23:59","message":"[04:23:59] 📊 \u001b[32m[USAGE] OPENCODE-GO | in=23303 | out=1038 | account=8c03c084...\u001b[0m | cache_read=22528"}
+{"timestamp":"2026-09-06T11:23:59.879Z","level":"info","component":"04:23:59","message":"[04:23:59] 🌊 [STREAM] OPENCODE-GO | mimo-v2.5 | 21265ms | complete"}
+{"level":30,"time":"2026-09-06T11:24:00.009Z","service":"omniroute","module":"sse","tag":"HTTP","method":"POST","path":"/v1/chat/completions | opencode-go/mimo-v2.5 | 61 msgs | 13 tools","msg":"📥 POST /v1/chat/completions | opencode-go/mimo-v2.5 | 61 msgs | 13 tools"}
+{"level":30,"time":"2026-09-06T11:24:00.030Z","service":"omniroute","module":"sse","tag":"ROUTING","msg":"Provider: opencode-go, Model: mimo-v2.5"}

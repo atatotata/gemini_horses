@@ -1,0 +1,102 @@
+-*- coding: utf-8 -*-
+Execution/debug log for Jeffrey's flickr plugin for Lightroom, version 20241022.432
+Log started September 5, 2026  03:03AM GMT  (unixtime: 1788577386.3235)
+            September 4, 2026  08:03PM local
+            September 5, 2026  12:03PM JST
+Clock status: system clock slow by 1.1 sec (checked 36 days ago)
+Plugin folder: C:\Users\Ota\AppData\Roaming\Adobe\Lightroom\Modules\flickr-jfriedl.lrplugin
+Plugin hash: DEPRECATED [DEPRECATED]
+Lightroom version 15.5.1 build 202608131348 for Windows Windows 10 - Business Edition (x64) [OTA-PC] lang=en CC.
+----------------------------------------------------------------------------------------------
+
+flickr#432 +0.0>200306 [257B328] @LrSerialNumber line 133: false
+<<
+Plugin is unrestricted, and is registered to Bryan Nagar; thank you for registering.
+Registered since 2025-11-03T01:32:16.653+00:00 (20241022.432) via <cxnTbPixihta5l9GSwqamg>.
+
+flickr#432 +0.0>200306 [257B328] @AFTER_Link line 1070: EXPORT_DIALOG_FULL_WIDTH 550
+flickr#432 +0.0>200306 [257B328] @jutil line 2391: in ExecuteWhenCatalogBecomesAvailable()
+flickr#432 +0.0>200306 [257B328] @Trap line 281: Trap#1
+flickr#432 +0.0>200306 [257B328] @AFTER_sha1 line 11: SHA-1 routines are Jeff's
+ESP.small_icon
+ESP.canAddCommentsToService
+ESP.deletePublishedCollection
+ESP.addCommentToPublishedPhoto
+ESP.deletePhotosFromPublishedCollection
+ESP.goToPublishedCollection
+ESP.titleForPhotoRating
+ESP.titleForPublishedSmartCollection
+ESP.viewForCollectionSettings
+ESP.getCollectionBehaviorInfo
+ESP.validatePublishedCollectionName
+ESP.updateCollectionSettings
+ESP.deleteFirstOnPublish
+ESP.didUpdatePublishService
+ESP.disableRenamePublishedCollectionSet
+ESP.didCreateNewPublishService
+ESP.shouldDeletePhotosFromServiceOnDeleteFromCatalog
+ESP.supportsIncrementalPublish
+ESP.disableRenamePublishedCollection
+ESP.titleForGoToPublishedCollection
+ESP.titleForGoToPublishedPhoto
+ESP.metadataThatTriggersRepublish
+ESP.titleForPublishedCollection
+ESP.getRatingsFromPublishedCollection
+ESP.getCommentsFromPublishedCollection
+flickr#432 +14.8>200321 [257B328] @jDebug line 1459: PUBLISH.getCollectionBehaviorInfo() called
+flickr#432 +14.8>200321 [257B328] @FlickrPublish line 623: getCollectionBehaviorInfo returning raw_state.FLICKR_IS_PRO_cached = [false]
+flickr#432 +14.8>200321 [257B328] @jDebug line 1461: PUBLISH.getCollectionBehaviorInfo() done
+flickr#432 +14.8>200321 [257B328] @jDebug line 1459: PUBLISH.metadataThatTriggersRepublish() called
+flickr#432 +14.8>200321 [257B328] @jdefault line 196: raw call to metadataThatTriggersRepublish()
+flickr#432 +14.8>200321 [257B328] @jdefault line 200: in metadataThatTriggersRepublish after having marked state
+flickr#432 +14.8>200321 [257B328] @jdefault line 204: in metadataThatTriggersRepublish before checking PublishUpdateOn
+flickr#432 +14.8>200321 [257B328] @jdefault line 206: in metadataThatTriggersRepublish after checking PublishUpdateOn
+
+flickr#432 +14.8>200321 [257B328] @jdefault line 217: returning from metadataThatTriggersRepublish()
+----------------------------------------------------------------
+
+
+flickr#432 +14.8>200321 [257B328] @jDebug line 1461: PUBLISH.metadataThatTriggersRepublish() done
+flickr#432 +14.8>200321 [257B328] @jDebug line 1459: PUBLISH.getCollectionBehaviorInfo() called
+flickr#432 +14.8>200321 [257B328] @FlickrPublish line 623: getCollectionBehaviorInfo returning raw_state.FLICKR_IS_PRO_cached = [true]
+flickr#432 +14.8>200321 [257B328] @jDebug line 1461: PUBLISH.getCollectionBehaviorInfo() done
+flickr#432 +14.8>200321 [257B328] @jDebug line 1459: PUBLISH.metadataThatTriggersRepublish() called
+flickr#432 +14.8>200321 [257B328] @jdefault line 196: raw call to metadataThatTriggersRepublish()
+flickr#432 +14.8>200321 [257B328] @jdefault line 200: in metadataThatTriggersRepublish after having marked state
+flickr#432 +14.8>200321 [257B328] @jdefault line 204: in metadataThatTriggersRepublish before checking PublishUpdateOn
+flickr#432 +14.8>200321 [257B328] @jdefault line 206: in metadataThatTriggersRepublish after checking PublishUpdateOn
+
+flickr#432 +14.8>200321 [257B328] @jdefault line 217: returning from metadataThatTriggersRepublish()
+----------------------------------------------------------------
+
+keywords = 	true
+
+flickr#432 +14.8>200321 [257B328] @jDebug line 1461: PUBLISH.metadataThatTriggersRepublish() done
+flickr#432 +26.1>200332 [519D5138] @jutil line 2404: Catalog is available
+
+flickr#432 +26.1>200332 [519D5138] @BASE line 1110: start of SetPluginLoadTimeWhenCatalogAvailable
+----------------------------------------------------------------
+
+["_PLUGIN.id"] = 	"info.regex.lightroom.export.flickr2"
+catalog = 	LrCatalog( "E:\Lightroom\Catalog\Main Catalog-v13-3.lrcat" ) object
+now = 	"2026-09-05T03:03:32.376+00:00"
+["tostring(catalog._plugin_load_time)"] = 	"nil"
+
+flickr#432 +26.1>200332 [519D5138] @BASE line 1123: setting catalog[load: info.regex.lightroom.export.flickr2] = '2026-09-05T03:03:32.376+00:00'
+
+flickr#432 +26.1>200332 [519D5138] @BASE line 1135: wrote a mostly-clean _plugin_load_time table: 000000005A13A3F0
+flickr#432 +26.1>200332 [519D5138] @BASE line 1142: about to sleep after setting _plugin_load_time={}
+flickr#432 +31.4>200337 [519D5138] @BASE line 1144: back after sleep
+flickr#432 +31.4>200337 [519D5138] @BASE line 1149: plugin has been reloaded (2026-09-05T03:03:32.376+00:00 -> 2026-09-05T03:03:32.376+00:00)
+
+flickr#432 +31.4>200337 [519D5138] @BASE line 1159: at end of SetPluginLoadTimeWhenCatalogAvailable
+----------------------------------------------------------------
+
+["_PLUGIN.id"] = 	"info.regex.lightroom.export.flickr2"
+["catalog._plugin_load_time"] = 	table:
+   | ["info.regex.lightroom.export.flickr2"] = 	"2026-09-05T03:03:32.376+00:00"
+   | ["info.regex.lightroom.focallengthsort"] = 	"2026-09-05T03:03:32.382+00:00"
+   | ["info.regex.lightroom.megapixelsort"] = 	"2026-09-05T03:03:32.392+00:00"
+MY_LOAD_TIME = 	"2026-09-05T03:03:32.376+00:00"
+["tostring(catalog._plugin_load_time)"] = 	"table: 000000005A13A3F0"
+

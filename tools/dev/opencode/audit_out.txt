@@ -1,0 +1,145 @@
+=== KEYWORD TABLES (name contains jikkyo/live/race/comment) ===
+campaign_single_race_add_data	rows=112
+campaign_single_race_add_reward	rows=336
+challenge_match_race	rows=42
+champions_news_chara_comment	rows=1734
+champions_news_race	rows=211
+champions_news_win_comment	rows=1601
+champions_race_condition	rows=329
+daily_legend_race	rows=98
+daily_race	rows=10
+daily_race_billing	rows=1
+daily_race_npc	rows=220
+heroes_final_stage_race	rows=24
+heroes_race_condition	rows=48
+heroes_race_default_npc	rows=159
+heroes_race_default_user	rows=63
+heroes_race_mob_npc	rows=100
+jukebox_comment	rows=522
+legend_race	rows=128
+legend_race_billing	rows=1
+legend_race_boss_npc	rows=133
+legend_race_cutt_chara_data	rows=1
+legend_race_npc	rows=2151
+live_data	rows=206
+live_dress_restrict_data	rows=2
+live_extra_data	rows=1
+live_fix_member_data	rows=3
+live_permission_data	rows=1563
+live_recommend_formation	rows=414
+main_story_race_bonus	rows=29
+main_story_race_bonus_condition	rows=19
+main_story_race_chara_data	rows=460
+main_story_race_data	rows=40
+mission_race_equate	rows=53
+mission_race_scenario_group	rows=5
+race	rows=2916
+race_bgm	rows=625
+race_bgm_cutin	rows=8
+race_bgm_pattern	rows=74
+race_bib_color	rows=92
+race_condition	rows=119
+race_course_set	rows=140
+race_course_set_status	rows=12
+race_env_define	rows=1361
+race_fence_set	rows=120
+race_instance	rows=3403
+race_jikkyo_base	rows=7949
+race_jikkyo_base_venus	rows=1431
+race_jikkyo_comment	rows=384
+race_jikkyo_cue	rows=2305
+race_jikkyo_message	rows=3251
+race_jikkyo_race	rows=886
+race_jikkyo_trigger	rows=2443
+race_motivation_rate	rows=5
+race_overrun_pattern	rows=5
+race_player_camera	rows=122
+race_proper_distance_rate	rows=9
+race_proper_ground_rate	rows=9
+race_proper_runningstyle_rate	rows=9
+race_single_mode_team_status	rows=6
+race_sp_rule_data	rows=2
+race_sp_rule_schedule	rows=4
+race_sp_rule_skillset	rows=55
+race_track	rows=17
+race_trophy	rows=643
+rating_race_condition	rows=25
+rating_race_data	rows=1
+rating_race_finale_reward	rows=108
+rating_race_phase_schedule	rows=8
+rating_race_rating_rank	rows=10
+rating_race_reward_group	rows=173
+rating_race_weekend_reward	rows=9
+single_mode_10_sprace	rows=3
+single_mode_arc_race_debuff	rows=48
+single_mode_free_coin_race	rows=36
+single_mode_live_live_data	rows=5
+single_mode_live_master_bonus	rows=133
+single_mode_live_song_list	rows=24
+single_mode_live_square	rows=269
+single_mode_race_group	rows=1112
+single_mode_race_limit_reward	rows=1
+single_mode_race_live	rows=247
+single_mode_race_restrict_turn	rows=29
+single_mode_race_unique_condition	rows=188
+single_mode_route_race	rows=1817
+single_mode_team_race_set	rows=68
+single_mode_venus_sprace_data	rows=3
+story_live_position	rows=346
+story_race_track_bg_replace	rows=8
+team_building_race_npc	rows=608
+team_building_sp_race_schedule	rows=40
+team_building_team_race_set	rows=46
+team_stadium_race_result_motion	rows=140
+ultimate_race_contents	rows=134
+ultimate_race_contents_change	rows=63
+ultimate_race_data	rows=9
+ultimate_race_npc	rows=2183
+ultimate_race_select_top	rows=48
+ultimate_race_unlock_condition	rows=2
+
+=== ENCODING CHECK on race_jikkyo_message ===
+col0 int = 1
+col1 int = 100000
+col2 repr='晴れわたる空のもと行われる、\\n%course\\n%ground%distance%race\\n%h_num_noウマ娘'
+col3 repr='1000101|%course|%ground|%distance|%race|'  latin1->utf-8='1000101|%course|%ground|%distance|%race|'
+col4 int = 100
+col5 int = 0
+col6 int = 0
+col7 int = 0
+
+=== FOCUS TABLES schema ===
+
+[race_jikkyo_message] rows=3251
+   col=id type=INTEGER
+   col=group_id type=INTEGER
+   col=message type=TEXT
+   col=voice type=TEXT
+   col=per type=INTEGER
+   col=comment_group type=INTEGER
+   col=reuse type=INTEGER
+   col=omit_tag type=INTEGER
+   col0 id range=1..70000
+race_jikkyo_message_window	MISSING IN DB
+race_jikkyo_phase_condition	MISSING IN DB
+race_comment_group	MISSING IN DB
+
+[race_jikkyo_comment] rows=384
+   col=id type=INTEGER
+   col=group_id type=INTEGER
+   col=message type=TEXT
+   col=voice type=TEXT
+   col=per type=INTEGER
+   col=message_group type=INTEGER
+   col=omit_tag type=INTEGER
+   col0 id range=1..9035
+
+=== LOCALIZED JSON FILES (top-level of localized_data) ===
+[character_system_text_dict.json] dict len=158 sample_keys=['1001', '1002', '1003', '1004', '1005', '1006']
+[config.json] dict len=28 sample_keys=['localize_dict', 'hashed_dict', 'text_data_dict', 'character_system_text_dict', 'race_jikkyo_comment_dict', 'race_jikkyo_message_dict']
+[hashed_dict.json] dict len=334 sample_keys=['33862612226045713', '50143891695224086', '163222263651268958', '510104943840331578', '579756471184445057', '588332213823229565']
+[info.json] dict len=6 sample_keys=['name', 'description', 'homepage', 'language', 'maintainer', 'version']
+[localize_dict.json] dict len=7467 sample_keys=['AccountDataLink497001', 'AccountDataLink497002', 'AccountDataLink497003', 'AccountDataLink497004', 'AccoutDataLink0001', 'AccoutDataLink0002']
+[race_jikkyo_comment_dict.json] dict len=264 sample_keys=['1', '2', '3', '4', '5', '6']
+[race_jikkyo_message_dict.json] dict len=2171 sample_keys=['1', '2', '3', '5', '6', '7']
+[text_data_dict.json] dict len=373 sample_keys=['1', '2', '3', '4', '5', '6']

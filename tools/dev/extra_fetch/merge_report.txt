@@ -1,0 +1,58 @@
+=== Merging Extra Stories ===
+
+Loaded checkpoint: 1486 entries
+Found 26 source files
+
+============================================================
+SAMPLE TRANSLATIONS
+============================================================
+
+[100006001 Block 0]
+  name: Reporter Otonashi
+  text: (Hello, I'm Etsuko Otonashi! As a reporter 
+for Monthly Twinkle, 
+I cover the races of the Umamusume I love 
+with an eve...
+
+[90016001 Block 0]
+  name: 
+  text: The "Summer Walk"窶蚤 chance to unwind and 
+recharge for the autumn season. 
+During this time, the Umamusume refresh 
+them...
+
+============================================================
+MERGE REPORT
+============================================================
+  Merged files       : 26
+  Total blocks       : 1266
+  Total choices      : 8
+  Max display cols   : 46
+  CRLF clean         : True
+  Gemini=Hachimi     : IDENTICAL
+  Missing trans.     : 10
+    - storytimeline_90016001.json: text '遘√√％繧薙↑縺ｫ繧ｹ繧､繝ｼ繝・・縺願ｩｱ縺ｰ縺九ｊ縺励◆隕壹∴縺ｯ窶ｦ窶ｦ
+
+縺・∴縺｣縲∝ｰ代＠縺ｯ縺励◆縺九ｂ縺励ｌ縺ｾ縺・..'
+    - storytimeline_90016001.json: text '縺翫≧縺翫≧縺ｩ繝ｼ縺励◆・溘縺・″縺ｪ繧翫〒縺｣縺代・螢ｰ蜃ｺ縺励ｄ縺後▲縺ｦ縲・
+蜷亥罰繧ｳ繝ｳ繧ｯ繝ｼ繝ｫ縺ｮ邱ｴ鄙偵°・・..'
+    - storytimeline_90016001.json: text '縺輔☆縺後∝━髮・〒縺・ｉ縺｣縺励ｃ縺・∪縺吶・・橸ｼ・
+縺｡縺ｪ縺ｿ縺ｫ縺雁･ｽ縺阪↑邏・幻縺ｪ縺ｩ縺ｯ縺ゅｊ縺ｾ縺吶°・・..'
+    - storytimeline_90016001.json: text '縺斐√＃縺ｻ繧薙▲・√遘√・縲√◎繧後⊇縺ｩ鬆ｻ郢√↓縺ｯ縺・◆縺縺阪∪縺帙ｓ縺後・
+縺願幻莨壹〒縺雁・縺励☆繧句刀...'
+    - storytimeline_90016001.json: text '縺ｨ縺ｫ縺九￥・√縺薙ｌ縺ｯNG縺ｧ縺吶ｏ縲・
+繧ｹ繧､繝ｼ繝・・縺上□繧翫・繧ｫ繝・ヨ縺励※縺・◆縺縺阪∪縺帙ｓ縺ｨ縲・..'
+    - storytimeline_90016001.json: text '縺昴ｌ縺ｧ縺励◆繧臥ｧ√→縺励※繧ょ撫鬘後≠繧翫∪縺帙ｓ縲・
+縺ｧ縺吶′縲√＞縺・・縺ｧ縺吶°・溘螟ｧ蟷・↑菫ｮ豁｣縺ｫ縺ｪ...'
+    - storytimeline_90016001.json: text '縺ｾ縺やｦ窶ｦ縺｣縲∵＄繧悟・繧翫∪縺吶・
+遘√・蜍晄焔縺ｧ縲√◎縺ｮ窶ｦ窶ｦ縺頑焔謨ｰ繧偵♀縺九￠縺・◆縺励∪縺吶ｏ縲・..'
+    - storytimeline_90016001.json: text '縺ｪ縲√↑繧九⊇縺ｩ窶ｦ窶ｦ・・
+邏謨ｵ縺ｪ繧ｵ繝槭・繧ｦ繧ｩ繝ｼ繧ｯ繧帝℃縺斐○繧九→縺・＞縺ｧ縺吶ｏ縺ｭ縲・..'
+    - storytimeline_100006003.json: text '繧上√ｄ縺｣縺溘√ワ繝ｼ繝医＆繧薙→縺願ｿ代▼縺阪↓窶ｦ窶ｦ笙｡縲
+
+縺ｪ繧薙〒繧りｨ縺｣縺ｦ縺ｭ・√遘√◆縺｡縲・大ｼｵ繧・..'
+    - storytimeline_100006003.json: text '縺・＞縺九＠繧峨・莠ｺ縺ｨ繧ゅゅ◎縺｣縺｡縺ｮ縺ｨ縲∝髄縺薙≧縺ｮ縺ｨ窶ｦ窶ｦ
+
+縺ゅ→縲∵｣壹・荳翫・邂ｱ・√蜈ｨ驛ｨ縺薙・...'
+  Elapsed            : 0.1s
+============================================================

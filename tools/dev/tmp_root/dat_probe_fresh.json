@@ -1,0 +1,99 @@
+{
+  "timestamp": "2026-09-06T18:15:41",
+  "meta_count": 365808,
+  "meta_file_size": 162750464,
+  "dat_dir": "G:\\Games\\steamapps\\common\\UmamusumePrettyDerby_Jpn\\UmamusumePrettyDerby_Jpn_Data\\Persistent\\dat",
+  "dat_file_count": 359906,
+  "total_gap": 27251,
+  "total_local_present": 27251,
+  "total_need_cdn": 0,
+  "total_local_ratio": 100.0,
+  "prefixes": {
+    "story_50": {
+      "meta": 33898,
+      "meta_total_incl_ast": 40889,
+      "localized": 13346,
+      "gap": 20552,
+      "local_present": 20552,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "story_40": {
+      "meta": 2685,
+      "meta_total_incl_ast": 3374,
+      "localized": 969,
+      "gap": 1716,
+      "local_present": 1716,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "story_11": {
+      "meta": 486,
+      "meta_total_incl_ast": 564,
+      "localized": 15,
+      "gap": 471,
+      "local_present": 471,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "story_80": {
+      "meta": 1048,
+      "meta_total_incl_ast": 1262,
+      "localized": 435,
+      "gap": 613,
+      "local_present": 613,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "story_83": {
+      "meta": 1896,
+      "meta_total_incl_ast": 2478,
+      "localized": 944,
+      "gap": 952,
+      "local_present": 952,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "home": {
+      "meta": 2884,
+      "meta_total_incl_ast": 3492,
+      "localized": 503,
+      "gap": 2884,
+      "local_present": 2884,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "lyrics": {
+      "meta": 62,
+      "localized": 37,
+      "gap": 62,
+      "local_present": 62,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    },
+    "storyrace": {
+      "meta": 34,
+      "localized": 33,
+      "gap": 1,
+      "local_present": 1,
+      "need_cdn": 0,
+      "local_ratio": 100.0,
+      "sample_missing_local_sids": []
+    }
+  },
+  "notes": [
+    "Strictly read-only — no downloads, no extractions.",
+    "gap = meta entries (storytimelines/hometimelines/lyrics/storyrace) not in localized_data.",
+    "local_present = gap items where dat/{h[:2]}/{h} exists on disk.",
+    "need_cdn = gap items NOT found in local dat.",
+    "local_ratio = local_present / gap * 100.",
+    "After full download, dat grew +33k bundles."
+  ]
+}

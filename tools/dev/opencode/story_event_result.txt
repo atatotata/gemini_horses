@@ -1,0 +1,11 @@
+Total story_type_1=1 entries: 449
+Prefix 09 type=1 entries: 0
+
+Sub-prefix distribution:
+
+Unique prefix 09 sids: 0
+Traceback (most recent call last):
+  File "C:\TMP\opencode\query_story_event.py", line 30, in <module>
+    print(f"Min: {min(unique_09)}, Max: {max(unique_09)}")
+                  ^^^^^^^^^^^^^^
+ValueError: min() iterable argument is empty

@@ -1,0 +1,15 @@
+=== Starting Dual-Engine Fan-out Translation Pipeline ===
+Loading existing checkpoint from C:\TMP\opencode\career_fetch\career_checkpoint.json...
+Loaded 483955 existing translations.
+Initialized 0 pre-resolved speaker names into checkpoint.
+
+Preparing queues...
+Remaining unresolved names: 0
+Remaining choices: 0
+Remaining dialogues: 50
+Total remaining to translate: 50
+
+Dispatched 10 worker threads across Gemini Flash & Muse Spark Contributor.
+[Status Monitor] Remaining -> Choices: 0, Dialogues: 0 | Checkpoint total: 483955
+
+Translation run completed or saved cleanly.

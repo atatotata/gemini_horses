@@ -1,0 +1,254 @@
+  [2m搭 Loaded env from C:\Users\Ota\.omniroute\.env[0m
+[
+  {
+    "id": "GLM 4.7",
+    "provider": "cerebras",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemma 4 31B",
+    "provider": "cerebras",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT OSS 120B",
+    "provider": "cerebras",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Mistral Large 3",
+    "provider": "mistral",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Mistral Medium 3.5",
+    "provider": "mistral",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Mistral Small 4",
+    "provider": "mistral",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Devstral 2",
+    "provider": "mistral",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Codestral",
+    "provider": "mistral",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.7 Flash (High)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.7 Flash (Medium)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.7 Flash (Low)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.7 Flash (Tiered)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.1 Pro (High)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.1 Pro (Low)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.1 Flash Lite",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Claude Opus 4.6 (Thinking)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Claude Sonnet 4.6 (Thinking)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT-OSS 120B (Medium)",
+    "provider": "antigravity",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Big Pickle",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Kimi K2.7 Code",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Qwen3.5 Plus",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Qwen3.6 Plus",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.6 Sol",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.6 Terra",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.6 Luna",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.4",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.4 Mini",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.4 Nano",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.3 Codex Spark",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GPT 5.1",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Claude Fable 5",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Claude Opus 5",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Claude Sonnet 5",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Claude Haiku 4.5",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.7 Flash",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.5 Flash Lite",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3.1 Pro",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Gemini 3 Flash",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Grok Build 0.1",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Grok 4.6",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Muse Spark 1.2",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Muse Spark 1.2 Contributor Free",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "DeepSeek V4 Pro",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "DeepSeek V4 Flash",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "GLM-5.2",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "MiniMax M3",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "Kimi K3",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "DeepSeek V4 Flash Free",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "MiMo V2.5 Free",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  },
+  {
+    "id": "HY3 Free",
+    "provider": "opencode-zen",
+    "contextWindow": "-"
+  }
+]
+[2m  ... and 62 more. Use --output json for full list.[0m

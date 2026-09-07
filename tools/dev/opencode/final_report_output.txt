@@ -1,0 +1,76 @@
+
+========================================
+STORY EVENT 09 EXTRACTION REPORT
+========================================
+
+DATA SOURCE VERIFICATION:
+  Meta DB (apsw-sqlite3mc, hexkey 9c2bab97.e9fd):
+    - Total rows in table 'a': 365,808
+    - Total storytimeline entries (all prefixes): 21,856
+    - Prefix 09 storytimeline entries: 457
+    
+  master.mdb story_event_story_data:
+    - story_type_1=1 total: 449
+    - Story IDs in 9000xxxx range (09 prefix): 449
+    - Ghost 20290011: NOT in story_event_story_data (confirmed skip)
+
+LOCALIZED DATA (gemini_horses/localized_data):
+  - Existing 09 files: 255
+  - (From UmaTL / prior translations 窶・DO NOT TOUCH)
+
+MISSING FROM LOCALIZED (the 202 gap):
+  - Meta 09 total: 457
+  - Localized 09: 255
+  - Gap: 202 sids
+  - Of those 202:
+    - WITH local dat bundle: 4 (ONLY 4)
+    - WITHOUT local dat bundle: 198 (198 窶・BLOCKER)
+
+EXTRACTION RESULTS:
+  Seasonal 22 (prefix 10+14): 22 files, 1063 blocks
+  New 09 batch: 4 files, 203 blocks, 0 choices
+  Combined seasonal + 09 new: 26 files
+
+  Files extracted:
+    - 90016001: 54 blocks, 0 choices (Summer Walk event)
+    - 90021001: 43 blocks, 0 choices
+    - 90032001: 55 blocks, 0 choices
+    - 90054007: 51 blocks, 0 choices
+
+VERIFICATION:
+  - CRLF check: PASS (0 files with CRLF)
+  - JSON validity: PASS (all 4 files valid)
+  - Name field: Japanese (pre-translation) 窶・confirmed
+  - No 04/09 UmaTL prefix overwrite: 09 new files are in C:/TMP/extra_fetch/story_json/09/ (distinct from existing 09:255 in localized_data)
+  - Bundle key: 532b4631e4a7b9473e7cfb XOR e column
+  - Decryption: apsw-sqlite3mc meta decrypt (hexkey 9c2bab97.e9fd)
+  - UnityPy MonoBehaviour BlockList[1:] 竊・TextTrack 竊・ClipList 竊・Text/Name/ChoiceDataList
+
+CRITICAL BLOCKER 窶・198 MISSING BUNDLES:
+  198 out of 202 missing sids have NO local dat bundle files.
+  Only 10 out of ALL 457 prefix-09 meta entries have local dat files at all.
+  
+  The 10 that exist locally (across ALL 457):
+    90015001, 90016001, 90017001, 90018001, 90019001,
+    90020001, 90021001, 90022001, 90032001, 90054007
+  
+  Of these 10, 6 are already in localized_data (15001-22001 except 16001,21001).
+  4 are new extractions (16001, 21001, 32001, 54007).
+  
+  The game client appears to only cache a small subset of story event bundles
+  locally. The remaining 198 bundles (25 event groups) were either:
+  (a) Downloaded and cleaned up by the game client
+  (b) Never downloaded on this installation
+  (c) Stored in a different location
+  
+  These CANNOT be extracted via Persistent/dat local decrypt as requested.
+  An alternative data source is needed (game server download, archive, etc.)
+
+OUTPUT LOCATION: C:/TMP/extra_fetch/story_json/
+  - extraction_summary_09.json
+  - analysis_09.json
+  - 09/{sub}/storytimeline_{sid}.json (4 files)
+  - 10/{sub}/storytimeline_{sid}.json (seasonal, already existed)
+  - 14/{sub}/storytimeline_{sid}.json (seasonal, already existed)
+
+Report saved to C:/TMP/extra_fetch/story_json/extraction_report_09.txt

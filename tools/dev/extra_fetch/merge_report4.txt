@@ -1,0 +1,55 @@
+=== Merging Extra Stories ===
+
+Loaded checkpoint: 1486 entries
+Found 224 source files
+
+============================================================
+SAMPLE TRANSLATIONS
+============================================================
+
+[100006001 Block 0]
+  name: Reporter Otonashi
+  text: (Hello, I'm Etsuko Otonashi! As a reporter
+for Monthly Twinkle,
+I cover the races of the Umamusume I love
+with an ever-t...
+
+[90016001 Block 0]
+  name: 
+  text: The "Summer Walk"窶蚤 chance to unwind and
+recharge for the autumn season.
+During this time, the Umamusume refresh
+themsel...
+
+============================================================
+MERGE REPORT
+============================================================
+  Merged files       : 224
+  Total blocks       : 11057
+  Total choices      : 16
+  Max display cols   : 62
+  CRLF clean         : True
+  Gemini=Hachimi     : IDENTICAL
+  Missing trans.     : 9608
+    - storytimeline_090009001.json: text '縲弱え繝槫ｨ倡卆莠ｺ荳鬥悶上・
+豎滓虻譎ゆｻ｣蠕梧悄縲∝ｰ丞臥卆莠ｺ荳鬥悶ｒ蜿り・↓邱ｨ縺ｾ繧後◆縺薙・豁碁寔縺ｯ窶補・..'
+    - storytimeline_090009001.json: text '繧ｦ繝槫ｨ倥ｒ鬘梧攝縺ｫ縺励◆豁後・繧ゅ■繧阪ｓ縲√え繝槫ｨ俶ｭ御ｺｺ縺溘■縺ｮ隧縺・
+諱九ｄ逕滓ｴｻ縺ｪ縺ｩ縲∝ｽ捺凾縺ｮ蟋ｿ繧剃ｼ・..'
+    - storytimeline_090009001.json: text '縺ｧ縺ｯ縲∝頃縺・・縺ｯ窶懈眠蟷ｴ縺ｫ縺ｿ繧薙↑繧偵ワ繝・ヴ繝ｼ縺ｫ縺吶ｋ譁ｹ豕補晢ｼ・
+縺ｨ縺・≧縺薙→縺ｧ繧医ｍ縺励＞縺ｧ縺吶・...'
+    - storytimeline_090009001.json: text '縺ｯ縺・＜・槭らｧ≫ｦ窶ｦ莉雁ｹｴ繧ゅラ繧ｸ縺ｰ縺｣縺九ｊ縺ｧ縲√∩縺ｪ縺輔ｓ縺ｫ
+縺溘￥縺輔ｓ縺碑ｿｷ諠代♀縺九￠縺励■繧・▲縺・..'
+    - storytimeline_090009001.json: text '譚･蟷ｴ縺ｯ縲√ｏ縲∫ｧ√′・√縺ｿ縺ｪ縺輔ｓ縺ｮ縺薙→繧貞ｹｸ縺帙↓縺励◆縺・▲縺ｦ縲・
+諤昴▲縺溘ｓ縺ｧ縺吶≦縲らｧ√↑繧薙°...'
+    - storytimeline_090009001.json: text '縺・∴縺・∴縲√♀縺薙′縺ｾ縺励＞縺縺ｪ繧薙※縺昴ｓ縺ｪ縲・
+縺皮ｫ区ｴｾ縺ｪ縺雁ｿ・′縺代〒縺吶ｈ・・..'
+    - storytimeline_090009001.json: text '縺昴ｌ縺ｫ遘√ｂ譁ｰ蟷ｴ繧偵ワ繝・ヴ繝ｼ縺ｫ縺励◆縺・ｺｫ窶補募・蜉帙〒
+蜊泌鴨縺・◆縺励∪縺励ｇ縺・ｼ√縺ｧ縺ｯ縺輔▲縺昴￥...'
+    - storytimeline_090009001.json: text '縺・ｓ縺弱ｃ繧会ｽ樞ｦ窶ｦ繧ゅｓ縺弱ｃ繧会ｽ樞ｦ窶ｦ縲・
+縺九＠縺薙∩・橸ｽ樞ｦ窶ｦ縺ｾ縺阪％縺ｿ・橸ｽ樞ｦ窶ｦ縲・..'
+    - storytimeline_090009001.json: text '繧ｭ繧ｨ繧ｧ繧ｨ繧ｨ繧ｨ繧､繝・ｼ・ｼ・ｼ・ｼ・
+縺ｲ繧・∴縺医∴縺茨ｽ橸ｽ橸ｼ・ｼ・ｼ・ｼ・..'
+    - storytimeline_090009001.json: text '縺翫♀縺翫∝・縺ｾ縺励◆蜷牙・・√繧ｻ繝ｳ繧ｭ繝･繝ｼ繧ｷ繝ｩ繧ｪ繧ｭ・・
+譁ｹ菴阪・蛹玲擲・√隕九∴縺ｾ縺咏糞・・..'
+  Elapsed            : 0.5s
+============================================================

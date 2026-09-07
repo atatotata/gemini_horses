@@ -1,0 +1,12 @@
+id
+call_log_id
+timestamp
+client_request
+translated_request
+provider_response
+client_response
+provider
+model
+source_format
+target_format
+duration_ms

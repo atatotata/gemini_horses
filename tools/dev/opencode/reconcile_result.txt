@@ -1,0 +1,22 @@
+Meta 09 sids: 457
+Master story_event type=1 sids (09xxx): 449
+Localized 09 sids: 255
+
+In both meta & master: 449
+In meta only (not in story_event): 8
+  Meta-only sids: [90012007, 90024073, 90032001, 90034073, 90039083, 90043083, 90052001, 90052083]
+In master only (not in meta): 0
+
+Missing from localized (meta - localized): 202
+Missing from localized (master - localized): 199
+
+Master 09 sids with dat file: 9
+Master 09 sids WITHOUT dat file: 440
+
+ALL meta 09 with dat: 10/457
+Meta 09 dat sids: [90015001, 90016001, 90017001, 90018001, 90019001, 90020001, 90021001, 90022001, 90032001, 90054007]
+
+202 missing from localized: with dat=4, no dat=198
+With dat: [90016001, 90021001, 90032001, 90054007]
+
+Saved analysis to C:\TMP\extra_fetch\story_json\analysis_09.json

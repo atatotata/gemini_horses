@@ -1,0 +1,470 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    },
+    {
+      "source": "/dashboard/skills",
+      "destination": "/dashboard/omni-skills",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/dashboard/skills(?:/)?$"
+    },
+    {
+      "source": "/dashboard/providers/freepik",
+      "destination": "/dashboard/providers/magnific",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/dashboard/providers/freepik(?:/)?$"
+    },
+    {
+      "source": "/docs/architecture",
+      "destination": "/docs/architecture/architecture",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/architecture(?:/)?$"
+    },
+    {
+      "source": "/docs/authz-guide",
+      "destination": "/docs/architecture/authz-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/authz-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/codebase-documentation",
+      "destination": "/docs/architecture/codebase-documentation",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/codebase-documentation(?:/)?$"
+    },
+    {
+      "source": "/docs/repository-map",
+      "destination": "/docs/architecture/repository-map",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/repository-map(?:/)?$"
+    },
+    {
+      "source": "/docs/resilience-guide",
+      "destination": "/docs/architecture/resilience-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/resilience-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/docker-guide",
+      "destination": "/docs/guides/docker-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/docker-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/electron-guide",
+      "destination": "/docs/guides/electron-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/electron-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/features",
+      "destination": "/docs/guides/features",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/features(?:/)?$"
+    },
+    {
+      "source": "/docs/i18n",
+      "destination": "/docs/guides/i18n",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/i18n(?:/)?$"
+    },
+    {
+      "source": "/docs/kiro-setup",
+      "destination": "/docs/guides/kiro-setup",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/kiro-setup(?:/)?$"
+    },
+    {
+      "source": "/docs/pwa-guide",
+      "destination": "/docs/guides/pwa-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/pwa-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/setup-guide",
+      "destination": "/docs/guides/setup-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/setup-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/termux-guide",
+      "destination": "/docs/guides/termux-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/termux-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/troubleshooting",
+      "destination": "/docs/guides/troubleshooting",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/troubleshooting(?:/)?$"
+    },
+    {
+      "source": "/docs/uninstall",
+      "destination": "/docs/guides/uninstall",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/uninstall(?:/)?$"
+    },
+    {
+      "source": "/docs/user-guide",
+      "destination": "/docs/guides/user-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/user-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/api-reference",
+      "destination": "/docs/reference/api-reference",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/api-reference(?:/)?$"
+    },
+    {
+      "source": "/docs/cli-tools",
+      "destination": "/docs/reference/cli-tools",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/cli-tools(?:/)?$"
+    },
+    {
+      "source": "/docs/environment",
+      "destination": "/docs/reference/environment",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/environment(?:/)?$"
+    },
+    {
+      "source": "/docs/free-tiers",
+      "destination": "/docs/reference/free-tiers",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/free-tiers(?:/)?$"
+    },
+    {
+      "source": "/docs/provider-reference",
+      "destination": "/docs/reference/provider-reference",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/provider-reference(?:/)?$"
+    },
+    {
+      "source": "/docs/a2a-server",
+      "destination": "/docs/frameworks/a2a-server",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/a2a-server(?:/)?$"
+    },
+    {
+      "source": "/docs/agent-protocols-guide",
+      "destination": "/docs/frameworks/agent-protocols-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/agent-protocols-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/cloud-agent",
+      "destination": "/docs/frameworks/cloud-agent",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/cloud-agent(?:/)?$"
+    },
+    {
+      "source": "/docs/evals",
+      "destination": "/docs/frameworks/evals",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/evals(?:/)?$"
+    },
+    {
+      "source": "/docs/gamification",
+      "destination": "/docs/frameworks/gamification",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/gamification(?:/)?$"
+    },
+    {
+      "source": "/docs/mcp-server",
+      "destination": "/docs/frameworks/mcp-server",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/mcp-server(?:/)?$"
+    },
+    {
+      "source": "/docs/memory",
+      "destination": "/docs/frameworks/memory",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/memory(?:/)?$"
+    },
+    {
+      "source": "/docs/opencode",
+      "destination": "/docs/frameworks/opencode",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/opencode(?:/)?$"
+    },
+    {
+      "source": "/docs/skills",
+      "destination": "/docs/frameworks/skills",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/skills(?:/)?$"
+    },
+    {
+      "source": "/docs/webhooks",
+      "destination": "/docs/frameworks/webhooks",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/webhooks(?:/)?$"
+    },
+    {
+      "source": "/docs/auto-combo",
+      "destination": "/docs/routing/auto-combo",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/auto-combo(?:/)?$"
+    },
+    {
+      "source": "/docs/reasoning-replay",
+      "destination": "/docs/routing/reasoning-replay",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/reasoning-replay(?:/)?$"
+    },
+    {
+      "source": "/docs/cli-token",
+      "destination": "/docs/security/cli-token",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/cli-token(?:/)?$"
+    },
+    {
+      "source": "/docs/cli-token-auth",
+      "destination": "/docs/security/cli-token-auth",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/cli-token-auth(?:/)?$"
+    },
+    {
+      "source": "/docs/compliance",
+      "destination": "/docs/security/compliance",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/compliance(?:/)?$"
+    },
+    {
+      "source": "/docs/error-sanitization",
+      "destination": "/docs/security/error-sanitization",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/error-sanitization(?:/)?$"
+    },
+    {
+      "source": "/docs/guardrails",
+      "destination": "/docs/security/guardrails",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/guardrails(?:/)?$"
+    },
+    {
+      "source": "/docs/public-creds",
+      "destination": "/docs/security/public-creds",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/public-creds(?:/)?$"
+    },
+    {
+      "source": "/docs/route-guard-tiers",
+      "destination": "/docs/security/route-guard-tiers",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/route-guard-tiers(?:/)?$"
+    },
+    {
+      "source": "/docs/stealth-guide",
+      "destination": "/docs/security/stealth-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/stealth-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/compression-engines",
+      "destination": "/docs/compression/compression-engines",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/compression-engines(?:/)?$"
+    },
+    {
+      "source": "/docs/compression-guide",
+      "destination": "/docs/compression/compression-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/compression-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/compression-language-packs",
+      "destination": "/docs/compression/compression-language-packs",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/compression-language-packs(?:/)?$"
+    },
+    {
+      "source": "/docs/compression-rules-format",
+      "destination": "/docs/compression/compression-rules-format",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/compression-rules-format(?:/)?$"
+    },
+    {
+      "source": "/docs/rtk-compression",
+      "destination": "/docs/compression/rtk-compression",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/rtk-compression(?:/)?$"
+    },
+    {
+      "source": "/docs/coverage-plan",
+      "destination": "/docs/ops/coverage-plan",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/coverage-plan(?:/)?$"
+    },
+    {
+      "source": "/docs/e2e-dashboard-shakedown-v3.8.0",
+      "destination": "/docs/ops/e2e-dashboard-shakedown-v3.8.0",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/e2e-dashboard-shakedown-v3\\.8\\.0(?:/)?$"
+    },
+    {
+      "source": "/docs/fly-io-deployment-guide",
+      "destination": "/docs/ops/fly-io-deployment-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/fly-io-deployment-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/proxy-guide",
+      "destination": "/docs/ops/proxy-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/proxy-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/release-checklist",
+      "destination": "/docs/ops/release-checklist",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/release-checklist(?:/)?$"
+    },
+    {
+      "source": "/docs/sqlite-runtime",
+      "destination": "/docs/ops/sqlite-runtime",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/sqlite-runtime(?:/)?$"
+    },
+    {
+      "source": "/docs/tunnels-guide",
+      "destination": "/docs/ops/tunnels-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/tunnels-guide(?:/)?$"
+    },
+    {
+      "source": "/docs/vm-deployment-guide",
+      "destination": "/docs/ops/vm-deployment-guide",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/docs/vm-deployment-guide(?:/)?$"
+    },
+    {
+      "source": "/dashboard/cli-tools",
+      "destination": "/dashboard/cli-code",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/dashboard/cli-tools(?:/)?$"
+    },
+    {
+      "source": "/dashboard/cli-tools/:path*",
+      "destination": "/dashboard/cli-code/:path*",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/dashboard/cli-tools(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+    },
+    {
+      "source": "/dashboard/agents",
+      "destination": "/dashboard/acp-agents",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/dashboard/agents(?:/)?$"
+    },
+    {
+      "source": "/dashboard/agents/:path*",
+      "destination": "/dashboard/acp-agents/:path*",
+      "statusCode": 308,
+      "regex": "^(?!/_next)/dashboard/agents(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/:path*",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: blob: https:; media-src 'self' data: blob:; connect-src 'self' http://localhost:* http://127.0.0.1:* ws://localhost:* ws://127.0.0.1:* https: ws: wss:; worker-src 'self' blob:; manifest-src 'self'"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        }
+      ],
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+    },
+    {
+      "source": "/dashboard/providers/services/:name/embed/:path*",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'"
+        }
+      ],
+      "regex": "^/dashboard/providers/services(?:/([^/]+?))/embed(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+    }
+  ],
+  "onMatchHeaders": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [
+      {
+        "source": "/chat/completions",
+        "destination": "/api/v1/chat/completions",
+        "regex": "^/chat/completions(?:/)?$"
+      },
+      {
+        "source": "/responses",
+        "destination": "/api/v1/responses",
+        "regex": "^/responses(?:/)?$"
+      },
+      {
+        "source": "/responses/:path*",
+        "destination": "/api/v1/responses/:path*",
+        "regex": "^/responses(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+      },
+      {
+        "source": "/models",
+        "destination": "/api/v1/models",
+        "regex": "^/models(?:/)?$"
+      },
+      {
+        "source": "/v1/v1/:path*",
+        "destination": "/api/v1/:path*",
+        "regex": "^/v1/v1(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+      },
+      {
+        "source": "/v1/v1",
+        "destination": "/api/v1",
+        "regex": "^/v1/v1(?:/)?$"
+      },
+      {
+        "source": "/codex/:path*",
+        "destination": "/api/v1/responses",
+        "regex": "^/codex(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+      },
+      {
+        "source": "/v1/:path*",
+        "destination": "/api/v1/:path*",
+        "regex": "^/v1(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+      },
+      {
+        "source": "/v1",
+        "destination": "/api/v1",
+        "regex": "^/v1(?:/)?$"
+      },
+      {
+        "source": "/v1beta/:path*",
+        "destination": "/api/v1beta/:path*",

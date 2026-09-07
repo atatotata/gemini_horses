@@ -1,0 +1,77 @@
+======================================================================
+STEP 1: unique string corpora (whole-entry character counts)
+======================================================================
+
+[unique_dialogues.json (JP)]
+  N= 410470  avg=   29.8  max=   79  no-\n(>40)=     0
+    >60/80/100/120 chars WITHOUT a line break: >60:0 >80:0 >100:0 >120:0
+    hist (all entries, whole-string): 0-40=326771 40-60=80316 60-80=3383 80-100=0 100-120=0 120+=0
+    top20 longest entries (len):
+      79, 78, 76, 74, 73, 72, 72, 71, 71, 71, 71, 70, 70, 70, 69, 68, 68, 67, 67, 66
+
+[  + EN translation side   ]
+  N= 410470  avg=   70.6  max=  296  no-\n(>40)= 69797
+    >60/80/100/120 chars WITHOUT a line break: >60:45389 >80:28910 >100:14902 >120:6620
+    hist (all entries, whole-string): 0-40=84092 40-60=74487 60-80=91297 80-100=79772 100-120=46170 120+=34652
+    top20 longest entries (len):
+      296, 241, 241, 235, 227, 227, 227, 227, 225, 222, 222, 221, 217, 216, 215, 215, 215, 214, 213, 213
+
+[unique_choices.json  (JP)]
+  N=  69253  avg=   12.6  max=   27  no-\n(>40)=     0
+    >60/80/100/120 chars WITHOUT a line break: >60:0 >80:0 >100:0 >120:0
+    hist (all entries, whole-string): 0-40=69253 40-60=0 60-80=0 80-100=0 100-120=0 120+=0
+    top20 longest entries (len):
+      27, 23, 23, 23, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 21, 21, 21, 21, 21
+
+[  + EN translation side   ]
+  N=  69253  avg=   34.5  max=  108  no-\n(>40)= 23098
+    >60/80/100/120 chars WITHOUT a line break: >60:2751 >80:98 >100:3 >120:0
+    hist (all entries, whole-string): 0-40=44541 40-60=21554 60-80=3050 80-100=105 100-120=3 120+=0
+    top20 longest entries (len):
+      108, 103, 101, 98, 96, 96, 95, 95, 94, 92, 92, 92, 91, 91, 90, 90, 90, 90, 90, 89
+
+3 longest-sample lines:
+  [EN dialogue] len= 296 | I wanna get lots of candy!!
+And I wanna play tricks, lots and loooots of tricks too!!" his/her tone is energet窶ｦ
+  [EN dialogue] len= 241 | ...How could this be..." project},
+  {"id": 13, "en": "...Somehow, I managed to get the ingredients. Borrowing窶ｦ
+  [EN dialogue] len= 241 | Ayyy! We're doin' like a three-legged race or somethin'!
+Winner gets a gift card!
+Step up if you wanna run, le窶ｦ
+  [EN choice] len= 108 | When they really want to keep something secret, they wouldn't leave even a speck of dust behind, would they.
+  [EN choice] len= 103 | I'll just hammer in the tip of the hatchet blade and pass it along, so let's do it assembly-line style.
+  [EN choice] len= 101 | I'll just have to bring even more happiness than the unhappiness I caused 窶・that's what Rice will do.
+
+======================================================================
+STEP 2: merged files under 50/ vs upstream 04/ & 09/ (per visual line, split on \n)
+======================================================================
+
+Sampled merged files (5 random, seed=50):
+file                               blk  no\n% avgEnt avgLine  med  p90 maxLn  >50  >60
+--------------------------------------------------------------------------------------
+storytimeline_501082520             44     25   77.9    43.4   41   72   104   25   11
+storytimeline_501044508              7     14   74.7    32.7   34   42    60    1    0
+storytimeline_501060514             46     35   55.5    33.6   33   60   110   14    7
+storytimeline_501106515             45     36   72.2    42.2   40   69    93   22   10
+storytimeline_501040600              4     25   55.8    31.9   32   45    45    0    0
+
+Upstream UmaTL (aggregate over EN files under 04/ and 09/):
+file                               blk  no\n% avgEnt avgLine  med  p90 maxLn  >50  >60
+--------------------------------------------------------------------------------------
+04                                45798     35   80.0    46.2   46   67   2293147216004
+     files=931 entries=45798 avg-width/line=46.2 cols
+09                                12618     41   76.4    44.0   44   64   211 7914 3558
+     files=255 entries=12618 avg-width/line=44.0 cols
+
+Whole-folder career 50/ (context):
+     files=13346 blocks=456582 entries=456582
+     no\n entries=38%  avg entry=65.3 chars  avg line=38.2 chars / 38.2 cols  median=36  p90=62  max=227
+
+======================================================================
+STEP 3: JP vs EN expansion (aligned pairs, per visual line)
+======================================================================
+JP dialogues : avg  14.5 chars / visual line   (~ 28.1 display cols, wide=2)
+EN dialogues : avg  39.6 chars / visual line   (~ 39.6 display cols)
+ratio raw chars per line EN/JP = 2.73x   (claim: English is typically 1.5-2x longer)
+ratio display width per line EN/JP = 1.41x   <- apples-to-apples, cols fitted in box
+whole-entry raw-char expansion = 2.37x

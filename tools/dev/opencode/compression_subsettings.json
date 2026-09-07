@@ -1,0 +1,90 @@
+{
+  "rtkConfig": {
+    "enabled": true,
+    "intensity": "standard",
+    "applyToToolResults": true,
+    "applyToCodeBlocks": false,
+    "applyToAssistantMessages": false,
+    "enabledFilters": [],
+    "disabledFilters": [],
+    "maxLinesPerResult": 120,
+    "maxCharsPerResult": 12000,
+    "deduplicateThreshold": 3,
+    "customFiltersEnabled": true,
+    "trustProjectFilters": true,
+    "rawOutputRetention": "failures",
+    "rawOutputMaxBytes": 1048576,
+    "enableGrouping": false,
+    "groupingThreshold": 3,
+    "stripCodeComments": false,
+    "preserveDocstrings": true,
+    "enableRenderers": false,
+    "stripAnsi": true,
+    "filterStderr": true
+  },
+  "cavemanConfig": {
+    "enabled": true,
+    "compressRoles": [
+      "user",
+      "assistant",
+      "system"
+    ],
+    "skipRules": [],
+    "minMessageLength": 30,
+    "preservePatterns": [],
+    "intensity": "lite",
+    "mode": "lite",
+    "preserveCodeBlocks": true,
+    "preserveTechnicalIdentifiers": true
+  },
+  "codexResponsesConfig": {
+    "enabled": true,
+    "minBytes": 512,
+    "maxOutputBytes": 2097152,
+    "maxCandidateBytes": 524288,
+    "maxLines": 160,
+    "minSearchMatches": 8,
+    "minLogLines": 24,
+    "preserveToolNames": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Write",
+      "Edit",
+      "WebSearch",
+      "WebFetch",
+      "read",
+      "glob",
+      "grep",
+      "write",
+      "edit",
+      "web_search",
+      "web_fetch"
+    ]
+  },
+  "headroom": {
+    "minRows": 4
+  },
+  "sessionDedup": {
+    "minBlockChars": 80,
+    "fuzzy": true
+  },
+  "ccr": {
+    "minChars": 1024,
+    "retrievalRampFactor": 2
+  },
+  "liveZone": {
+    "enabled": false
+  },
+  "contextEditing": {
+    "enabled": false
+  },
+  "contextBudget": {
+    "mode": "off",
+    "policy": "reserve-output",
+    "outputReserve": 4096,
+    "safetyMargin": 1024,
+    "pct": 0.85,
+    "absoluteBudget": 0
+  }
+}

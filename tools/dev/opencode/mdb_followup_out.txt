@@ -1,0 +1,297 @@
+=== story_* related tables ===
+audio_story_effect                            18
+campaign_chara_story_schedule                 3716
+campaign_story_data                           16
+chara_story_data                              931
+character_system_lottery                      11854
+character_system_text                         33287
+collect_raid_story                            15
+home_story_trigger                            1441
+homestory_hip_offset                          90
+idle_single_mode_training_cut                 20
+main_story_custom_load                        7
+main_story_data                               169
+main_story_part                               10
+main_story_race_bonus                         29
+main_story_race_bonus_condition               19
+main_story_race_chara_data                    460
+main_story_race_data                          40
+map_event_story_data                          2
+race_jikkyo_base                              7949
+race_jikkyo_base_venus                        1431
+race_jikkyo_comment                           384
+race_jikkyo_cue                               2305
+race_jikkyo_message                           3251
+race_jikkyo_race                              886
+race_jikkyo_trigger                           2443
+race_single_mode_team_status                  6
+single_mode_09_board                          3
+single_mode_09_chip                           13
+single_mode_09_chip_effect                    70
+single_mode_09_learning_bonus                 2
+single_mode_09_link_effect                    13
+single_mode_09_progress_rate                  3
+single_mode_09_schedule                       5
+single_mode_09_training_boost                 54
+single_mode_10_9047_reward                    12
+single_mode_10_9048_bonus                     8
+single_mode_10_9048_guest                     9
+single_mode_10_audience_effect                3
+single_mode_10_buff                           57
+single_mode_10_buff_condition                 13
+single_mode_10_buff_effect                    56
+single_mode_10_buff_num                       12
+single_mode_10_cm_detail                      36
+single_mode_10_group_outing_eff               5
+single_mode_10_lottery_turn                   11
+single_mode_10_masterly                       3
+single_mode_10_sprace                         3
+single_mode_10_staging_sound                  19
+single_mode_11_check_point_eff                38
+single_mode_11_facility_effect                403
+single_mode_11_facility_kind                  6
+single_mode_11_facility_lv_up                 43
+single_mode_11_facility_state                 49
+single_mode_11_gain_training_pt               40
+single_mode_11_outing_effect                  4
+single_mode_11_pioneer_pt_bonus               5
+single_mode_11_planning                       20
+single_mode_11_shima_effect                   64
+single_mode_11_training_mini                  6
+single_mode_12_assistant_effect               7
+single_mode_12_check_dug_result               7
+single_mode_12_dig_bonus                      504
+single_mode_12_dig_item                       18
+single_mode_12_dig_power                      72
+single_mode_12_dig_power_rank                 24
+single_mode_12_effect_category                21
+single_mode_12_factor_bonus                   9
+single_mode_12_onsen                          10
+single_mode_12_onsen_effect                   48
+single_mode_12_outing_effect                  15
+single_mode_12_ryokan_rank                    5
+single_mode_12_schedule                       3
+single_mode_12_spa_ticket                     12
+single_mode_12_stratum                        20
+single_mode_13_add_dream_point                18
+single_mode_13_bc_program_flag                18
+single_mode_13_member                         5
+single_mode_13_rank                           17
+single_mode_13_rank_bonus_effect_group        33
+single_mode_13_schedule                       6
+single_mode_13_team_rank                      51
+single_mode_13_team_sp_effect                 85
+single_mode_13_team_sp_level                  25
+single_mode_13_top_bg_chara                   7
+single_mode_14_basic_effect                   15
+single_mode_14_check_point                    3
+single_mode_14_check_point_effect             21
+single_mode_14_check_point_pt                 3
+single_mode_14_check_point_pt_effect          33
+single_mode_14_deck_info                      5
+single_mode_14_feeling_bonus                  4
+single_mode_14_finals_effect                  19
+single_mode_14_finals_gain_skill              3
+single_mode_14_outing_effect                  25
+single_mode_14_region_effect                  98
+single_mode_14_region_effect_bonus            180
+single_mode_14_region_feeling                 60
+single_mode_14_region_select                  3
+single_mode_14_special_gain_turn              11
+single_mode_14_twinkle_ramen                  347
+single_mode_analyze_condition                 5
+single_mode_analyze_message                   58
+single_mode_analyze_ticket                    7
+single_mode_ao_offset                         5
+single_mode_aoharu_cutt_type                  24
+single_mode_aoharu_result_cutt                6
+single_mode_aoharu_schedule                   5
+single_mode_arc_debuff                        9
+single_mode_arc_potential                     10
+single_mode_arc_potential_bonus               19
+single_mode_arc_potential_buff                8
+single_mode_arc_potential_cond                13
+single_mode_arc_potential_level               18
+single_mode_arc_race_debuff                   48
+single_mode_arc_schedule                      4
+single_mode_arc_taiman_peff_grp               12
+single_mode_arc_training_eff                  31
+single_mode_arc_win_pt                        122
+single_mode_audience_overwrite                11
+single_mode_change_chara_route                133
+single_mode_chara_effect                      48
+single_mode_chara_effect_buff                 7
+single_mode_chara_grade                       10
+single_mode_chara_program                     227
+single_mode_conclusion_set                    1777
+single_mode_cook_coin_rate                    9
+single_mode_cook_cooking_cutt                 59
+single_mode_cook_cooking_rate                 112
+single_mode_cook_cooking_type                 42
+single_mode_cook_dish                         35
+single_mode_cook_dish_cutt                    55
+single_mode_cook_dish_cutt_se                 66
+single_mode_cook_dish_effect                  69
+single_mode_cook_dish_icon                    13
+single_mode_cook_dish_material                38
+single_mode_cook_dish_name                    31
+single_mode_cook_garden                       5
+single_mode_cook_garden_bg                    40
+single_mode_cook_garden_effect                105
+single_mode_cook_garden_level                 25
+single_mode_cook_listener                     6
+single_mode_cook_material_rate                8
+single_mode_cook_message                      4
+single_mode_cook_motion_group                 36
+single_mode_cook_motion_status                14
+single_mode_cook_power_data                   5
+single_mode_cook_stand_motion                 30
+single_mode_cook_success_effect               20
+single_mode_cook_success_odds                 8
+single_mode_cook_success_type                 4
+single_mode_difficulty_box                    5
+single_mode_difficulty_box_gauge              16
+single_mode_difficulty_box_reward             65
+single_mode_difficulty_data                   13
+single_mode_difficulty_mode                   4
+single_mode_evaluation                        40
+single_mode_event_choice_reward               59
+single_mode_event_conclusion                  532
+single_mode_event_cr_priority                 82
+single_mode_event_item_detail                 20
+single_mode_event_production                  145
+single_mode_fan_count                         1084
+single_mode_free_coin_race                    36
+single_mode_free_shop                         11
+single_mode_free_shop_bg                      5
+single_mode_free_shop_effect                  64
+single_mode_free_shop_item                    53
+single_mode_free_training_plate               3
+single_mode_free_win_point                    66
+single_mode_hide_story_control                12
+single_mode_hint_gain                         5120
+single_mode_live_live_data                    5
+single_mode_live_master_bonus                 133
+single_mode_live_song_list                    24
+single_mode_live_square                       269
+single_mode_member_rank                       8
+single_mode_member_rank_points                12
+single_mode_message                           34
+single_mode_npc                               3885
+single_mode_outing                            5
+single_mode_outing_set                        4
+single_mode_preview_bgm                       29
+single_mode_program                           1118
+single_mode_race_group                        1112
+single_mode_race_limit_reward                 1
+single_mode_race_live                         247
+single_mode_race_restrict_turn                29
+single_mode_race_unique_condition             188
+single_mode_rank                              298
+single_mode_recommend                         14
+single_mode_recommend_setting                 3
+single_mode_restrict_support                  11
+single_mode_reward_set                        637
+single_mode_rival                             7099
+single_mode_route                             142
+single_mode_route_announce                    20
+single_mode_route_condition                   16
+single_mode_route_race                        1817
+single_mode_scenario                          14
+single_mode_scenario_group                    84
+single_mode_scenario_record                   180
+single_mode_scenario_update                   2
+single_mode_scout_chara                       529
+single_mode_select_skip                       9
+single_mode_skill_need_point                  1168
+single_mode_special_chara                     73
+single_mode_sport_compe_effect                15
+single_mode_sport_compe_se                    15
+single_mode_sport_competition                 5
+single_mode_sport_item_effect                 7
+single_mode_sport_link                        150
+single_mode_sport_mob                         600
+single_mode_sport_sport_type                  15
+single_mode_sport_stance                      30
+single_mode_sport_stance_effect               8
+single_mode_sport_training_cut                75
+single_mode_story_condition_set               483
+single_mode_story_data                        20284
+single_mode_story_guide                       13
+single_mode_story_root                        36
+single_mode_tag_card_pos                      8130
+single_mode_team_name                         4
+single_mode_team_race_set                     68
+single_mode_top_bg                            222
+single_mode_top_bg_chara                      21
+single_mode_training                          189
+single_mode_training_bg_chara                 30
+single_mode_training_effect                   830
+single_mode_training_plate                    4
+single_mode_training_se                       398
+single_mode_turn                              1066
+single_mode_unique_chara                      181
+single_mode_venus_crystal_group               15
+single_mode_venus_spirit_effect               83
+single_mode_venus_spirit_group                18
+single_mode_venus_sprace_data                 3
+single_mode_wins_saddle                       214
+story_chara_unique_diff_type                  0
+story_event_bingo_reward                      880
+story_event_bonus_card                        413
+story_event_bonus_group_support_card          20
+story_event_bonus_support_card                972
+story_event_data                              56
+story_event_mission                           2424
+story_event_mission_top_chara                 112
+story_event_nickname_bonus                    168
+story_event_point_reward                      6119
+story_event_roulette_bingo                    233
+story_event_story_data                        452
+story_event_top_chara                         708
+story_extra_data                              14
+story_extra_event_movie                       7
+story_extra_movie_data                        4
+story_extra_story_data                        48
+story_hip_offset                              133
+story_live_position                           346
+story_race_track_bg_replace                   8
+story_still                                   172
+story_wipe_dictionary                         88
+text_data                                     97029
+
+=== missing categories JP detail ===
+cat 299  rows=3     JP_rows=0    
+   idx=1: 'GROW UP RACE'
+   idx=2: 'WBC'
+   idx=3: 'SWBC'
+cat 300  rows=3     JP_rows=0    
+   idx=1: 'GUR'
+   idx=2: 'WBC'
+   idx=3: 'SWBC'
+cat 328  rows=5     JP_rows=0    
+   idx=1: 'TEST STAGE'
+   idx=2: 'TRIALS 1st STAGE'
+   idx=3: 'TRIALS 2nd STAGE'
+   idx=4: 'TRIALS 3rd STAGE'
+cat 373  rows=723   JP_rows=0    
+   idx=8000: 'Jewel Nephrite'
+   idx=8001: 'Bridge Comp'
+   idx=8002: 'Mini Baillonii'
+   idx=8003: 'Freistaat'
+cat 415  rows=17    JP_rows=0    
+   idx=1: 'G'
+   idx=2: 'F'
+   idx=3: 'E'
+   idx=4: 'D'
+
+=== dict category 186 (in dict, not in master) ===
+entries: 10  sample: [('1', 'Raise the lvl of your support cards \nto get a support bonus!'), ('2', "The support bonus increases your team's \nscore at the Stadium!"), ('3', "Let's increase that support bonus! \nSupport points can be won at the Stadium too!")]
+
+=== duplicates in single_mode_story_data (story_id) ===
+rows - distinct story_id = 3803
+  story_id 400000005 appears 55 times
+  story_id 400006120 appears 37 times
+  story_id 400006119 appears 28 times
+  story_id 400006115 appears 23 times
+  story_id 400006118 appears 21 times
