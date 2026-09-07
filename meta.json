@@ -1,8 +1,32 @@
 [
   {
-    "name": "Gemini Horses (UmaTL + Gemini mTL + Skill Data)",
+    "name": "Gemini Horses (Global + UmaTL + Gemini + Skill Data) [Flagship]",
     "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/main/index.json",
-    "short_desc": "Full machine-translation coverage with numerical skill data, overlaid with curated UmaTL human translations twice weekly. Source: gemini_horses. Contributors: atatotata, UmaTL (noccu and contributors).",
+    "short_desc": "Complete 100% English patch (25,000+ files). Combines official Global English text, UmaTL human-curated media, and Gemini AI voice-bible MT for all JP-exclusive gaps with numeric skill data.",
+    "language": "en"
+  },
+  {
+    "name": "Gemini Horses - Community Edition (UmaTL + Gemini + Skill Data)",
+    "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/community/index.json",
+    "short_desc": "Full 100% story & voice coverage preserving original community terminology and romanizations (pre-Global overlay) with numeric skill data.",
+    "language": "en"
+  },
+  {
+    "name": "English with Skill Data (UmaTL SD-EN)",
+    "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json",
+    "short_desc": "Official upstream UmaTL release with numeric skill effects and conditions. Curated human translations only (~1,340 stories, no gap filler).",
+    "language": "en"
+  },
+  {
+    "name": "English Lore-Focused (UmaTL)",
+    "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
+    "short_desc": "Official upstream UmaTL lore-focused translation with vanilla skill descriptions. Curated human translations only.",
+    "language": "en"
+  },
+  {
+    "name": "Skill Data Only (UmaTL SD)",
+    "index": "https://raw.githubusercontent.com/UmaTL/hachimi-sd/release/index.json",
+    "short_desc": "Numeric skill effects and trigger conditions only. All dialogue, stories, and interface text remain in Japanese.",
     "language": "en"
   }
 ]
