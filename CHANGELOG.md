@@ -1,6 +1,7 @@
 # Changelog
 
 ## 2026-09-07 — Lore Edition & Official Global Polish
+- **Skill Data Priority**: Prioritized numerical Skill Data (SD) over Global narrative descriptions (`SD > Global > UmaTL > Gemini` for skill effects), ensuring exact speeds, accelerations, and trigger conditions display on Flagship & Community editions.
 - **Lore Edition**: Added a formula-free flavor for folks who want pure story text and no math in skill boxes.
 - **Global Official Text**: Dropped in 54k official Global lines over machine translations; kept all JP-exclusive content safe.
 - **Multi-Flavor Menu**: Hachimi's repo menu now shows Flagship, Community, and Lore in one clean list.
