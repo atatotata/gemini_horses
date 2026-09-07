@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-07 — Official Global English Influx & Text-Only v3
+
+- **Official Global Localization Arrives:** Extracted official English strings directly from the Global release! Overlaid **54,339 official lines** across master database texts, voice lines, and race commentary.
+- **Best of Both Worlds:** Applied our layered precedence rule (Official Global > UmaTL Human > Gemini MT) while safely preserving all 60,572 Japanese-exclusive lines for newer content (like Epiphaneia and fresh scenarios) that Global hasn't released yet.
+- **Text-Only v3 Release:** Cut a fresh JSON-only release package (`text-only-v3`) containing 23,401 files (37.8 MB) reflecting our complete 100% text coverage.
+- **Workspace Tidy-up:** Consolidated all pipeline tools and generation scripts into `tools/dev/` and cleared out ~840 MB of temporary extraction caches to keep things clean.
+
 ## 2026-09-06 — The Final Sweep: 100% Story & Lyrics Coverage
 
 - **The Grand Sweep:** Knocked out the last 4,280 untranslated story cutscenes across main scenario, career events, and side stories. Every single story cutscene in the game is now in English!
