@@ -3,4 +3,23 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-tools/
+# Existing tools subdirs (keep ignored)
+tools/hachimi-tools/
+tools/umamusu-utils/
+tools/master_translate/
+tools/chara_fetch/
+tools/voice_bible/
+
+# tools/dev/ — ignore large caches, keep scripts tracked
+tools/dev/**/story_json/
+tools/dev/**/cdn_*/
+tools/dev/**/dec/
+tools/dev/**/*.bin
+tools/dev/**/__pycache__/
+tools/dev/**/*.checkpoint.json
+tools/dev/**/venv/
+tools/dev/**/meta_copy
+tools/dev/**/blob_inc
+tools/dev/**/blob_tdd.json
+tools/dev/**/served_tdd.json
+tools/dev/**/*.tmp
