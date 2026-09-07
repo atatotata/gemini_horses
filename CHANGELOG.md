@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-06 — race jikkyo 1200 + home 938
+
+- race jikkyo: +1,200 (`race_jikkyo_message` 2,171→3,251, `race_jikkyo_comment` 264→384) via 5-worker batch fallback, both repos identical
+- home timelines: +938 (`hometimeline` 503→1,441, 9,851 blocks) via local dat extract + 6-worker translate (9,960 strings), wrapped 42 cols tag-aware ` \n`, `no_wrap:true`, both repos identical
+- full download audit: `meta` 365,808 unchanged, `dat` 359,906 (+33k, 0 CDN needed), `master.mdb` 44.6MB unchanged, JP columns still only 4
+- index now 20,860 files (blake3, LF, zip_url/zip_dir)
+
 ## 2026-09-06 — Extra Stories 224 + career wrap fix
 
 - career overflow: re-wrapped 15,893 files (40/50/80/82/83) to 42 cols tag-aware ` \n`, collapsed `     \n` artifacts (max 76→42, p90 41), both repos identical, UmaTL 04/09/10 untouched
