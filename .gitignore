@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+# Pipeline dev tools (local only, never committed)
 tools/
