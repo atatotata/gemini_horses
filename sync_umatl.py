@@ -48,6 +48,32 @@ DICT_FILES = {
     "race_jikkyo_message_dict.json",
 }
 
+# Local pinned overrides: applied AFTER upstream merge so deliberate local
+# fixes survive the weekly sync (upstream wins by default in merge_*_dict).
+# Format: {rel_path: {key: value}} — text_data uses "cat/idx" compound keys.
+PINNED_OVERRIDES = {
+    "localize_dict.json": {
+        # "Transfer Requests" (17 chars) clips in the Veterans menu button
+        "TransferEvent0001": "Transfers",
+    },
+}
+
+def apply_pinned_overrides(rel_path: str, local_data: dict) -> int:
+    """Re-applies pinned local values after upstream merge. Returns count applied."""
+    pins = PINNED_OVERRIDES.get(rel_path, {})
+    applied = 0
+    for key, value in pins.items():
+        if "/" in key and rel_path == "text_data_dict.json":
+            cat, idx = key.split("/", 1)
+            if local_data.get(cat, {}).get(idx) != value:
+                local_data.setdefault(cat, {})[idx] = value
+                applied += 1
+        else:
+            if local_data.get(key) != value:
+                local_data[key] = value
+                applied += 1
+    return applied
+
 def fetch_url(url: str, timeout: int = 45) -> bytes:
     req = urllib.request.Request(
         url,
@@ -264,6 +290,9 @@ def main():
                     upd, add = merge_flat_dict(local_json, up_json)
 
                 dict_stats[rel_path] = (upd, add)
+                pinned = apply_pinned_overrides(rel_path, local_json)
+                if pinned:
+                    print(f"  [{i}/{len(changed_files)}] Re-applied {pinned} pinned local override(s) for {rel_path}")
                 with open(target_path, "w", encoding="utf-8") as f:
                     json.dump(local_json, f, ensure_ascii=False, indent=2)
 
