@@ -1,44 +1,36 @@
 # gemini_horses
 
-Complete English translation patch and skill overlay for Umamusume: Pretty Derby (JP / DMM / Steam / Android). Built for Hachimi.
+100% English patch + Skill Data for Umamusume JP (Steam / DMM / Android). Built for Hachimi.
 
-## Flavors
+Every story, career event, support card, live commentary line, and skill formula covered. Zero untranslated gaps.
 
-Pick what fits your playstyle:
-- **Flagship (Default)**: Official Global EN + UmaTL curated + Gemini gap-fill + numeric Skill Data.
-- **Community Edition**: Pure community naming & translations + numeric Skill Data.
-- **Lore Edition**: Pure narrative anime experience — standard story skill descriptions with zero math formulas.
+## Install
 
-## Quick Install
-
-In Hachimi's First-Time Setup, paste this into the **Translations Meta URL**:
+Paste into Hachimi's **Translations Meta URL** (First-Time Setup or Repo Settings):
 ```
 https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
-Pick your preferred flavor from the menu, and you're good to go!
+Pick your flavor and launch.
 
-### Use as a Gap Filler
-If you already use another translation repo and just want Gemini Horses to fill in missing dialogue/stories, add this to `hachimi\.tl_repos` (higher ID wins):
+### Layering (Gap Filler)
+Already running another repo? Put this as `id: 2` in `hachimi\.tl_repos` to fill missing stories and unreleased JP content:
 ```json
 { "id": 2, "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/main/index.json" }
 ```
 
-## What's Inside
+## Flavors
 
-- **100% Master Text**: 94,550 UI, skill, item, and character strings across 373 categories.
-- **100% Story Cutscenes**: 21,856 stories (main scenario, horsegirl careers, support cards, and event archives).
-- **100% Voice Lines**: 33,287 character system lines across all 158 playable horses and NPCs.
-- **100% Home Lobby**: 1,441 home screen conversations and idle chats.
-- **100% Live Race Commentary**: 3,635 race announcements, fanfares, and color commentary.
-- **Concert Lyrics**: 62 Winning Live song lyrics.
-- **UI & Graphics**: ~420 MB of translated menus, textures, fonts, and banners.
+- **Flagship** (`main`): Official Global text + UmaTL textures + SD numbers + Gemini AI for JP-only gaps.
+- **Community** (`community`): Classic community romanizations (pre-Global) + SD numbers + AI gaps.
+- **Lore** (`lore`): Same 100% coverage, but vanilla anime skill descriptions (no math/formulas).
 
-## How Updates Work
+## Scope at a Glance
 
-Twice a week, GitHub Actions pulls fresh human-translated text from [UmaTL SD](https://github.com/UmaTL/hachimi-tl-en-sd). Human translations gracefully replace machine-translated lines while keeping 100% gap coverage for everything else.
+- **21,856 stories**: All main scenarios, 14k+ career events, all support cards, and event archives.
+- **94.5k master strings** & **33.2k voice lines** across all 158 horses/NPCs.
+- **Full Jikkyo & Concerts**: All 3.6k race commentary lines and 62 Winning Live lyrics.
+- **Clean Formatting**: 42-col wrap (no box clipping), fixed choice offsets, canonical JRA names.
+- **Auto-Sync**: Bi-weekly GitHub Action pulls latest UmaTL human edits over AI text.
 
 ## Credits
-
-- **Curated Translations & Textures**: [UmaTL SD](https://github.com/UmaTL/hachimi-tl-en-sd) (noccu and contributors).
-- **Official English Lines**: Cygames Global localization.
-- **Gap Coverage & Machine Translation**: Gemini Horses project.
+[UmaTL SD](https://github.com/UmaTL/hachimi-tl-en-sd) (curated TL, UI textures) · Cygames (Global EN text) · Gemini Horses (AI gap fill & pipeline).
