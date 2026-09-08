@@ -55,6 +55,12 @@ PINNED_OVERRIDES = {
     "localize_dict.json": {
         # "Transfer Requests" (17 chars) clips in the Veterans menu button
         "TransferEvent0001": "Transfers",
+        # "Team Formation" (14 chars + $(nb) prefix) clips in Veterans submenu button
+        # Shortened to "Teams" so both Veterans buttons fit cleanly
+        "TeamBuilding424002": "Teams",
+        "TeamStadium352002": "Teams",
+        "Home0028": "Teams",
+        "SingleModeScenarioTeamRace0093": "Teams",
     },
 }
 
