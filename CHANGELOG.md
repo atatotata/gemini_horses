@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-10 — Repos Don't Stack
+- **One active repo**: Hachimi loads only the selected repo — entries never layer. Docs fixed (they wrongly said otherwise). Use `both_tl_repos.json` to keep ours + UmaTL in the switcher and flip between them.
+
 ## 2026-09-10 — Dialogue Font Restored
 - **Font is back**: restored UmaTL's `RodinWanpakuPro` font bundles (`includes_win`/`android`, 3.6 MB). The text-only strip had dropped them, reverting all text to the stock game font. Arrives as a small incremental update — no wipe needed.
 - **Sync-safe**: indexers now keep exactly these two non-JSON files; everything else stays text-only.
