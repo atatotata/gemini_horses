@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 
 **Updating from an old version?** This repo is now text-only, and Hachimi never deletes stale files — so once: remove and re-add the repo, *or* delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (keep `includes_*` — that's the dialogue font), then update. (Leftover atlases break stat numbers.)
 
-**Want UI textures?** Layer UmaTL underneath (higher `id` wins):
+**Want UI textures?** Layer UmaTL underneath (higher `id` wins). No editing: download [`layered_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/layered_tl_repos.json), rename it to `.tl_repos`, and drop it in your `hachimi` folder (fresh setups only — it replaces existing repos). Or add manually:
 ```json
 { "id": 1, "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json" },
 { "id": 2, "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/main/index.json" }
