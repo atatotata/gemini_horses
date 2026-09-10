@@ -35,7 +35,7 @@ def main():
 
     for root, dirs, files in os.walk(dest_tl):
         for file in files:
-            if file.endswith(".bak") or ".bak" in file or file == ".gitignore":
+            if not file.endswith(".json") or ".bak" in file:
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
