@@ -158,10 +158,16 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
         except Exception:
             pass
 
+    # Font bundles: required by config.json (extra_asset_bundle -> replacement font).
+    # Only these two non-JSON files are indexed; all other media stays out.
+    FONT_BUNDLES = {"includes_win", "includes_android"}
+
     file_entries = []
     for root, _, files in os.walk(dest_tl):
         for file in files:
-            if not file.endswith(".json") or ".bak" in file:
+            if ".bak" in file:
+                continue
+            if not (file.endswith(".json") or file in FONT_BUNDLES):
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
@@ -241,10 +247,12 @@ def main():
         except Exception:
             cache = {}
 
-    # 3. Detect changes (skip media assets to keep repo lightweight and avoid download timeouts)
+    # 3. Detect changes (skip media assets to keep repo lightweight and avoid
+    # download timeouts; exception: font bundles UmaTL ships for the dialogue font)
+    FONT_BUNDLES = {"includes_win", "includes_android"}
     changed_files = []
     for rel_path, up_hash in upstream_file_map.items():
-        if not rel_path.endswith(".json"):
+        if not (rel_path.endswith(".json") or rel_path in FONT_BUNDLES):
             continue
         if args.force or cache.get(rel_path) != up_hash:
             changed_files.append((rel_path, up_hash))

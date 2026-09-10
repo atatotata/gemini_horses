@@ -33,9 +33,15 @@ def main():
 
     file_entries = []
 
+    # Font bundles: required by config.json (extra_asset_bundle -> replacement font).
+    # Only these two non-JSON files are indexed; all other media stays out.
+    FONT_BUNDLES = {"includes_win", "includes_android"}
+
     for root, dirs, files in os.walk(dest_tl):
         for file in files:
-            if not file.endswith(".json") or ".bak" in file:
+            if ".bak" in file:
+                continue
+            if not (file.endswith(".json") or file in FONT_BUNDLES):
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()

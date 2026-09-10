@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-10 — Dialogue Font Restored
+- **Font is back**: restored UmaTL's `RodinWanpakuPro` font bundles (`includes_win`/`android`, 3.6 MB). The text-only strip had dropped them, reverting all text to the stock game font. Arrives as a small incremental update — no wipe needed.
+- **Sync-safe**: indexers now keep exactly these two non-JSON files; everything else stays text-only.
+
 ## 2026-09-10 — Text-Only Fast Install
 - **Media stripped**: removed textures/atlases/movies + `includes_*` from git tree (25,166 → 23,401 JSON-only, ~38 MB). Fixes stat-number sprites overwritten by atlases and fits Hachimi download timeout.
 - **Release zips untracked**: `releases/*.zip` now ship as GitHub Release assets only (gitignored), so branch zips stay ~13 MB.
