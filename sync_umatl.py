@@ -161,7 +161,7 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
     file_entries = []
     for root, _, files in os.walk(dest_tl):
         for file in files:
-            if file.endswith(".bak") or ".bak" in file or file == ".gitignore":
+            if not file.endswith(".json") or ".bak" in file:
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
@@ -241,9 +241,11 @@ def main():
         except Exception:
             cache = {}
 
-    # 3. Detect changes
+    # 3. Detect changes (skip media assets to keep repo lightweight and avoid download timeouts)
     changed_files = []
     for rel_path, up_hash in upstream_file_map.items():
+        if not rel_path.endswith(".json"):
+            continue
         if args.force or cache.get(rel_path) != up_hash:
             changed_files.append((rel_path, up_hash))
 
