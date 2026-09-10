@@ -35,19 +35,34 @@ def main():
 
     # Font bundles: required by config.json (extra_asset_bundle -> replacement font).
     # Only these two non-JSON files are indexed; all other media stays out,
-    # unless FULL_MEDIA mode is on (a `.full_media` file in the repo root,
-    # used by the `full` branch, which also carries translated UI textures).
+    # unless a `.full_media` sentinel exists in the repo root listing extra
+    # allowed dirs (one per line, e.g. `assets/textures`). Sprite atlases broke
+    # stat numbers and movies are huge: never indexed anywhere.
     FONT_BUNDLES = {"includes_win", "includes_android"}
-    # Sprite atlases broke stat numbers and movies are huge: never indexed anywhere.
     NEVER_INDEX_DIRS = {"atlas", "movies"}
-    full_media = (repo_root / ".full_media").exists()
+    media_dirs = ()
+    sentinel = repo_root / ".full_media"
+    if sentinel.exists():
+        media_dirs = tuple(
+            line.strip().rstrip("/")
+            for line in sentinel.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.strip().startswith("#")
+        )
+
+    def _allowed(rel_path: str, fname: str) -> bool:
+        if fname.endswith(".json") or fname in FONT_BUNDLES:
+            return True
+        if not media_dirs:
+            return False
+        return any(rel_path == d or rel_path.startswith(d + "/") for d in media_dirs)
 
     for root, dirs, files in os.walk(dest_tl):
         dirs[:] = [d for d in dirs if d not in NEVER_INDEX_DIRS]
         for file in files:
             if ".bak" in file:
                 continue
-            if not (file.endswith(".json") or file in FONT_BUNDLES or full_media):
+            rel_path = (pathlib.Path(root) / file).relative_to(dest_tl).as_posix()
+            if not _allowed(rel_path, file):
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
