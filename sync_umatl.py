@@ -246,12 +246,19 @@ def main():
     parser.add_argument("--upstream-url", default=DEFAULT_UPSTREAM_INDEX, help="URL to upstream index.json")
     parser.add_argument("--force", action="store_true", help="Force check and download of all files regardless of cache")
     parser.add_argument("--dry-run", action="store_true", help="Report potential changes without writing to disk")
+    parser.add_argument("--regen-index", action="store_true",
+                        help="Rebuild index.json from disk only (no network) and exit")
     args = parser.parse_args()
 
     repo_root = pathlib.Path(__file__).parent.resolve()
     dest_tl = repo_root / "localized_data"
     index_file = repo_root / "index.json"
     cache_path = repo_root / CACHE_FILE
+
+    if args.regen_index:
+        n = update_index_manifest(dest_tl, index_file)
+        print(f"Updated index.json: {n} files indexed (BLAKE3 format).")
+        return
 
     print("=" * 60)
     print("UmaTL Upstream Synchronization & Overlay")
