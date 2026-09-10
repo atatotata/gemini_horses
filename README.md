@@ -1,32 +1,24 @@
 # gemini_horses
 
-100% English text patch for Umamusume JP (Steam / DMM / Android), built for Hachimi. Every story, career event, voice line, and skill covered — text-only + dialogue font, ~43 MB.
+Full English patch for the JP game, made for Hachimi. All stories, career events, voices, and skills — ~43 MB, no bloat.
 
-## Install
+## Getting it running
 
-Paste into Hachimi's **Translations Meta URL** and pick a flavor:
+Paste this into Hachimi's **Translations Meta URL** and pick a flavor:
 ```
 https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
 
-**Updating from an old version?** This repo is now text-only, and Hachimi never deletes stale files — so once: remove and re-add the repo, *or* delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (keep `includes_*` — that's the dialogue font), then update. (Leftover atlases break stat numbers.)
+**Been here before?** One-time cleanup: Hachimi never deletes old files, so either remove + re-add the repo, or delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (leave `includes_*` alone, that's the font). Old leftovers break stat numbers.
 
-**Want UI textures?** Layer UmaTL underneath (higher `id` wins). No editing: download [`layered_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/layered_tl_repos.json), rename it to `.tl_repos`, and drop it in your `hachimi` folder (fresh setups only — it replaces existing repos). Or add manually:
-```json
-{ "id": 1, "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json" },
-{ "id": 2, "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/main/index.json" }
-```
+**Want the pretty UI pictures too?** Grab [`layered_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/layered_tl_repos.json), rename it to `.tl_repos`, drop it in your `hachimi` folder. (Fresh setups only — it replaces whatever repos you had.)
 
 ## Flavors
 
-- **Flagship** (`main`): Official Global text + SD numbers + AI gap fill.
-- **Community** (`community`): Classic pre-Global romanizations + SD numbers.
-- **Lore** (`lore`): Same coverage, vanilla skill text (no formulas).
+- **Flagship**: official Global text + skill numbers + AI filling the gaps.
+- **Community**: the classic fan wording from before Global.
+- **Lore**: same stories, plain skill text with no math.
 
-## Scope
+21,856 stories · 94.5k lines · 33.2k voice clips · race calls · lyrics. Synced with UmaTL twice a week.
 
-- **21,856 stories** · **94.5k master strings** · **33.2k voice lines** · 3.6k race calls · 62 lyrics.
-- 42-col wrap, canonical JRA names, bi-weekly UmaTL sync.
-
-## Credits
-[UmaTL SD](https://github.com/UmaTL/hachimi-tl-en-sd) · Cygames (Global EN) · Gemini Horses (AI gap fill).
+Thanks: [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) · Cygames · Gemini Horses.
