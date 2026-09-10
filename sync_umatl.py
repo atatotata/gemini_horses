@@ -3,7 +3,7 @@
 sync_umatl.py
 
 Gracefully synchronizes and overlays curated human translations from upstream
-UmaTL (hachimi-tl-en-sd) on top of the gemini_horses base repository.
+UmaTL (hachimi-tl-en-sd) on top of the hachimi-tl-gemini-horses base repository.
 
 Precedence hierarchy:
   1. Upstream UmaTL human translations (curated, highest priority - overwrites MT)
@@ -106,7 +106,7 @@ def apply_pinned_overrides(rel_path: str, local_data: dict) -> int:
 def fetch_url(url: str, timeout: int = 45) -> bytes:
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "gemini-horses-sync/1.0 (https://github.com/atatotata/gemini_horses)"}
+        headers={"User-Agent": "hachimi-tl-gemini-horses-sync/1.0 (https://github.com/atatotata/hachimi-tl-gemini-horses)"}
     )
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
@@ -168,9 +168,9 @@ def merge_flat_dict(local_data: dict, upstream_data: dict) -> tuple[int, int]:
 
 def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> int:
     """Regenerates index.json using the official Hachimi list schema."""
-    base_url = "https://raw.githubusercontent.com/atatotata/gemini_horses/main/localized_data"
-    zip_url = "https://codeload.github.com/atatotata/gemini_horses/zip/refs/heads/main"
-    zip_dir = "gemini_horses-main/localized_data"
+    base_url = "https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/localized_data"
+    zip_url = "https://codeload.github.com/atatotata/hachimi-tl-gemini-horses/zip/refs/heads/main"
+    zip_dir = "hachimi-tl-gemini-horses-main/localized_data"
     if index_file.exists():
         try:
             with open(index_file, "r", encoding="utf-8") as f:
@@ -242,7 +242,7 @@ def parse_upstream_files(raw_files) -> dict[str, str]:
     return res
 
 def main():
-    parser = argparse.ArgumentParser(description="Sync and overlay UmaTL upstream translations onto gemini_horses.")
+    parser = argparse.ArgumentParser(description="Sync and overlay UmaTL upstream translations onto hachimi-tl-gemini-horses.")
     parser.add_argument("--upstream-url", default=DEFAULT_UPSTREAM_INDEX, help="URL to upstream index.json")
     parser.add_argument("--force", action="store_true", help="Force check and download of all files regardless of cache")
     parser.add_argument("--dry-run", action="store_true", help="Report potential changes without writing to disk")
