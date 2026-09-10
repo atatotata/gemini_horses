@@ -1,1 +1,4 @@
-FULL_MEDIA sentinel: this branch also carries translated UI textures (assets/textures, assets/an_texture_sets). assets/atlas and assets/movies are never indexed (stat-number bug + size).
+# FULL_MEDIA sentinel: index/sync also carries these translated UI texture dirs.
+# (assets/atlas and assets/movies are never indexed: stat-number bug + size.)
+assets/textures
+assets/an_texture_sets
