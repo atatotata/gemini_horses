@@ -13,6 +13,8 @@ https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 
 **Want the UI pictures too?** Pick **Full** (~390 MB, everything) or **Full-slim** (~60 MB, just the daily UI) from the menu. Hachimi runs one repo at a time — to also keep UmaTL around for flipping, grab [`both_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/both_tl_repos.json), rename to `.tl_repos`, toss it in `hachimi`.
 
+**Downloads crawling or old Hachimi?** Grab a [v5 zip](https://github.com/atatotata/gemini_horses/releases/tag/text-v5) (cache included, zero re-download) and follow the INSTALL.txt inside.
+
 ## Flavors
 
 - **Flagship**: Global text + skill numbers + AI gaps. (94.6k lines, ~54k straight from Global, 21,856 stories.)
