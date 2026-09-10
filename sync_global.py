@@ -138,7 +138,7 @@ def main():
     if args.dry_run:
         print("dry-run: no files written", flush=True)
     else:
-        print("done - run `python generate_index.py` and `git diff --stat` to verify", flush=True)
+        print("done - run `python sync_umatl.py --regen-index` and `git diff --stat` to verify", flush=True)
 
 if __name__ == "__main__":
     main()
