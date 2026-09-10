@@ -18,5 +18,6 @@ https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 - **Flagship**: Global text + skill numbers + AI gaps. (94.6k lines, ~54k straight from Global, 21,856 stories.)
 - **Community**: old fan wording. (94.5k lines, same 21,856 stories, zero Global.)
 - **Lore**: no math, just vibes. (2,167 plain-text skills, everything else same as above.)
+- **Full**: Flagship words + translated UI pictures. (~390 MB, slow — modern Hachimi only.)
 
 Thanks: [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) · Cygames · us.
