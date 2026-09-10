@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-10 — Full Slim Flavor
+- **New `full-slim` branch**: Flagship text + 214 everyday UI pictures (23,617 files, ~60 MB). Skips race cards, gacha plates & comics. Same `.full_media` allowlist mechanism, same sync.
+
+## 2026-09-10 — Full Flavor (Text + Pictures)
+- **New `full` branch**: Flagship text + 1,723 translated UI pictures (25,126 files, ~390 MB). No sprite atlases (stats stay fixed), no movies. Needs modern Hachimi — old 15s-timeout builds can't fetch it.
+- Kept fresh by the same UmaTL sync (`.full_media` sentinel); text branches stay lean and untouched.
+
 ## 2026-09-10 — Repos Don't Stack
 - **One active repo**: Hachimi loads only the selected repo — entries never layer. Docs fixed (they wrongly said otherwise). Use `both_tl_repos.json` to keep ours + UmaTL in the switcher and flip between them.
 
