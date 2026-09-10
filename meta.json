@@ -18,6 +18,12 @@
     "language": "en"
   },
   {
+    "name": "Gemini Horses - Full (Flagship Text + UI Pictures) [SLOW]",
+    "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/full/index.json",
+    "short_desc": "Everything in Flagship plus translated UI pictures. ~390 MB download, needs modern Hachimi. No sprite atlases (stats stay fixed).",
+    "language": "en"
+  },
+  {
     "name": "English with Skill Data (UmaTL SD-EN)",
     "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json",
     "short_desc": "Official upstream UmaTL release with numeric skill effects and conditions. Curated human translations only (~1,340 stories, no gap filler).",
