@@ -61,6 +61,32 @@ PINNED_OVERRIDES = {
         "TeamStadium352002": "Teams",
         "Home0028": "Teams",
         "SingleModeScenarioTeamRace0093": "Teams",
+        # Racecourse card labels overflow their slots ("Sapporo Racecourse"
+        # clips to "Sapporo Racecours") — short names fit everywhere used
+        "Outgame511037": "Nakayama",
+        "Outgame511038": "Tokyo",
+        "Outgame511039": "Chukyo",
+        "Outgame511040": "Kyoto",
+        "Outgame511041": "Hanshin",
+    },
+    "text_data_dict.json": {
+        # Same overflow fix for the track-name keys (cats 31/34 + 434 live list)
+        "31/10001": "Sapporo", "31/10002": "Hakodate",
+        "31/10003": "Niigata", "31/10004": "Fukushima",
+        "31/10005": "Nakayama", "31/10006": "Tokyo",
+        "31/10007": "Chukyo", "31/10008": "Kyoto",
+        "31/10009": "Hanshin", "31/10010": "Kokura",
+        "31/10101": "Oi", "31/10103": "Kawasaki",
+        "31/10104": "Funabashi", "31/10105": "Morioka",
+        "34/10001": "Sapporo", "34/10002": "Hakodate",
+        "34/10003": "Niigata", "34/10004": "Fukushima",
+        "34/10005": "Nakayama", "34/10006": "Tokyo",
+        "34/10007": "Chukyo", "34/10008": "Kyoto",
+        "34/10009": "Hanshin", "34/10010": "Kokura",
+        "34/10101": "Oi", "34/10103": "Kawasaki",
+        "34/10104": "Funabashi", "34/10105": "Morioka",
+        "34/10201": "Longchamp",
+        "434/351": "Nakayama",
     },
 }
 
