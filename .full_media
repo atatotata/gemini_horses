@@ -1,4 +1,10 @@
-# FULL_MEDIA sentinel: index/sync also carries these translated UI texture dirs.
-# (assets/atlas and assets/movies are never indexed: stat-number bug + size.)
+# FULL_MEDIA sentinel: index/sync also carries these translated media dirs.
+# +atlas/+movies lift the default exclusion (entire media package).
+# NOTE: atlases ship WITH upstream .json manifests (the old package lacked
+# them, which likely caused the stat-number bug) - verify stats in-game.
 assets/textures
 assets/an_texture_sets
+assets/atlas
+assets/movies
++atlas
++movies
