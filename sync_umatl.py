@@ -113,6 +113,21 @@ def _media_allowed(rel_path: str, media_dirs: tuple) -> bool:
         rel_path == d or rel_path.startswith(d + "/") for d in media_dirs
     )
 
+def _never_dirs(media_dirs: tuple) -> set:
+    """Dirs never indexed/synced — unless the sentinel opts in with +tokens.
+
+    Background: sprite atlases broke stat numbers and movies are huge, so both
+    stay out by default. A branch carrying the entire media package (with the
+    upstream .json atlas manifests, which the old package lacked) opts in via
+    `+atlas` / `+movies` lines in `.full_media`.
+    """
+    never = {"atlas", "movies"}
+    if "+atlas" in media_dirs:
+        never.discard("atlas")
+    if "+movies" in media_dirs:
+        never.discard("movies")
+    return never
+
 def apply_pinned_overrides(rel_path: str, local_data: dict) -> int:
     """Re-applies pinned local values after upstream merge. Returns count applied."""
     pins = PINNED_OVERRIDES.get(rel_path, {})
@@ -213,8 +228,8 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
     # allowed dirs (one per line). Sprite atlases broke stat numbers and
     # movies are huge: never indexed anywhere.
     FONT_BUNDLES = {"includes_win", "includes_android"}
-    NEVER_INDEX_DIRS = {"atlas", "movies"}
     media_dirs = _load_media_dirs(index_file.parent)
+    NEVER_INDEX_DIRS = _never_dirs(media_dirs)
 
     def _allowed(rel_path: str, fname: str) -> bool:
         if fname.endswith(".json") or fname in FONT_BUNDLES:
@@ -321,8 +336,9 @@ def main():
     # download timeouts; exception: font bundles UmaTL ships for the dialogue font,
     # plus `.full_media` allowlisted dirs — except atlas/movie paths, always)
     FONT_BUNDLES = {"includes_win", "includes_android"}
-    NEVER_SYNC_PREFIXES = ("assets/atlas/", "assets/movies/")
     media_dirs = _load_media_dirs(repo_root)
+    NEVER_SYNC_PREFIXES = tuple(
+        f"assets/{d}/" for d in _never_dirs(media_dirs))
     changed_files = []
     for rel_path, up_hash in upstream_file_map.items():
         if rel_path.startswith(NEVER_SYNC_PREFIXES):
