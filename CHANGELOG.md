@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-10 — Hash Mismatch Fix
+- **Fixed "File hash mismatch" on update**: `info.json` was hashed as CRLF but stored as LF (Windows text-mode writes). Rewrote LF-only, re-indexed, and hardened all script writes with `newline="\n"`. Full audit: 0 mismatches in 119,549 files across all 5 branches. Just hit Check for Updates again — nothing is broken on your end.
+
 ## 2026-09-10 — Renamed to hachimi-tl-gemini-horses
 - Repo renamed (`gemini_horses` -> `hachimi-tl-gemini-horses`); all index/meta/docs URLs updated. Expect ONE full re-download after this (new URLs = new repo identity to Hachimi). Old links redirect.
 
