@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-sync_global.py — overlay Global official master.mdb EN over gemini_horses
+sync_global.py — overlay Global official master.mdb EN over hachimi-tl-gemini-horses
 Priority enforced:  SD (cat 48) > Global > UmaTL > Gemini
 For all other categories: Global > UmaTL > Gemini (Gemini/UmaTL already baked into repo).
 
@@ -55,13 +55,13 @@ def main():
     if not args.dry_run:
         print("Meta bundles (story/home/lyrics) BLOCKED - Global meta key 12B invalid, needs runtime dump", flush=True)
 
-    # Targets: gemini_horses + optional hachimi mirror
+    # Targets: hachimi-tl-gemini-horses + optional hachimi mirror
     targets = [GEMINI_DIR]
     if not args.no_hachimi_sync and HACHIMI_DIR.exists():
         targets.append(HACHIMI_DIR)
 
     for base in targets:
-        label = "gemini_horses" if base == GEMINI_DIR else "hachimi"
+        label = "hachimi-tl-gemini-horses" if base == GEMINI_DIR else "hachimi"
         # text_data_dict: nested {cat: {idx: text}}
         p = base / "text_data_dict.json"
         if p.exists():

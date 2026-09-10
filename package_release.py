@@ -52,7 +52,7 @@ def sh(*args) -> bytes:
 
 def build(branch: str, tag: str, force: bool) -> Path:
     RELEASES.mkdir(exist_ok=True)
-    out = RELEASES / f"gemini_horses_{branch}_{tag}.zip"
+    out = RELEASES / f"hachimi-tl-gemini-horses_{branch}_{tag}.zip"
     if out.exists() and not force:
         print(f"  skip {out.name} (exists, use --force)")
         return out

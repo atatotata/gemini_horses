@@ -1,4 +1,4 @@
-# gemini_horses
+# hachimi-tl-gemini-horses
 
 Whole JP game in English. Works with Hachimi. ~43 MB.
 
@@ -6,14 +6,14 @@ Whole JP game in English. Works with Hachimi. ~43 MB.
 
 Drop this in Hachimi's **Translations Meta URL**, pick a flavor, done:
 ```
-https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
+https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.json
 ```
 
 **Updated and stuff looks weird?** Delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (don't touch `includes_*`), then update. Or just remove + re-add the repo.
 
-**Want the UI pictures too?** Pick **Full** (~390 MB, everything) or **Full-slim** (~60 MB, just the daily UI) from the menu. Hachimi runs one repo at a time — to also keep UmaTL around for flipping, grab [`both_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/both_tl_repos.json), rename to `.tl_repos`, toss it in `hachimi`.
+**Want the UI pictures too?** Pick **Full** (~390 MB, everything) or **Full-slim** (~60 MB, just the daily UI) from the menu. Hachimi runs one repo at a time — to also keep UmaTL around for flipping, grab [`both_tl_repos.json`](https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/both_tl_repos.json), rename to `.tl_repos`, toss it in `hachimi`.
 
-**Downloads crawling or old Hachimi?** Grab a [v5 zip](https://github.com/atatotata/gemini_horses/releases/tag/text-v5) (cache included, zero re-download) and follow the INSTALL.txt inside.
+**Downloads crawling or old Hachimi?** Grab a [v5 zip](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v5) (cache included, zero re-download) and follow the INSTALL.txt inside.
 
 ## Flavors
 
