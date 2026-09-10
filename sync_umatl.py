@@ -222,7 +222,9 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
         "files": file_entries
     }
 
-    with open(index_file, "w", encoding="utf-8") as f:
+    # newline="\n": hashes must match LF-normalized blobs or Hachimi
+    # rejects downloads with "File hash mismatch" (Windows writes CRLF).
+    with open(index_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
     return len(file_entries)
 
@@ -357,7 +359,7 @@ def main():
                 pinned = apply_pinned_overrides(rel_path, local_json)
                 if pinned:
                     print(f"  [{i}/{len(changed_files)}] Re-applied {pinned} pinned local override(s) for {rel_path}")
-                with open(target_path, "w", encoding="utf-8") as f:
+                with open(target_path, "w", encoding="utf-8", newline="\n") as f:
                     json.dump(local_json, f, ensure_ascii=False, indent=2)
 
                 print(f"  [{i}/{len(changed_files)}] Merged {rel_path}: {upd} updated, {add} added")
@@ -382,7 +384,7 @@ def main():
             print(f"  Progress: {i}/{len(changed_files)} files processed...")
 
     # 5. Save updated cache
-    with open(cache_path, "w", encoding="utf-8") as f:
+    with open(cache_path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cache, f, indent=2)
 
     # 6. Rebuild index.json manifest
