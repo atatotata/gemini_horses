@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-10 — Renamed to hachimi-tl-gemini-horses
+- Repo renamed (`gemini_horses` -> `hachimi-tl-gemini-horses`); all index/meta/docs URLs updated. Expect ONE full re-download after this (new URLs = new repo identity to Hachimi). Old links redirect.
+
 ## 2026-09-10 — Plug-and-Play Release Zips
 - **v5 zips** (Flagship/Community/Lore/Full-slim) ship a primed `.tl_repo_cache` — manual installs no longer trigger a full re-download. Follow INSTALL.txt in the zip. Built by `package_release.py`, verified zero-diffs.
 
