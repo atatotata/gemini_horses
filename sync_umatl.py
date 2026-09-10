@@ -159,15 +159,21 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
             pass
 
     # Font bundles: required by config.json (extra_asset_bundle -> replacement font).
-    # Only these two non-JSON files are indexed; all other media stays out.
+    # Only these two non-JSON files are indexed; all other media stays out,
+    # unless FULL_MEDIA mode is on (a `.full_media` file in the repo root,
+    # used by the `full` branch, which also carries translated UI textures).
     FONT_BUNDLES = {"includes_win", "includes_android"}
+    # Sprite atlases broke stat numbers and movies are huge: never indexed anywhere.
+    NEVER_INDEX_DIRS = {"atlas", "movies"}
+    full_media = (index_file.parent / ".full_media").exists()
 
     file_entries = []
-    for root, _, files in os.walk(dest_tl):
+    for root, dirs, files in os.walk(dest_tl):
+        dirs[:] = [d for d in dirs if d not in NEVER_INDEX_DIRS]
         for file in files:
             if ".bak" in file:
                 continue
-            if not (file.endswith(".json") or file in FONT_BUNDLES):
+            if not (file.endswith(".json") or file in FONT_BUNDLES or full_media):
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
@@ -248,11 +254,16 @@ def main():
             cache = {}
 
     # 3. Detect changes (skip media assets to keep repo lightweight and avoid
-    # download timeouts; exception: font bundles UmaTL ships for the dialogue font)
+    # download timeouts; exception: font bundles UmaTL ships for the dialogue font,
+    # plus everything else when FULL_MEDIA mode is on — except atlas/movie dirs)
     FONT_BUNDLES = {"includes_win", "includes_android"}
+    NEVER_SYNC_PREFIXES = ("assets/atlas/", "assets/movies/")
+    full_media = (repo_root / ".full_media").exists()
     changed_files = []
     for rel_path, up_hash in upstream_file_map.items():
-        if not (rel_path.endswith(".json") or rel_path in FONT_BUNDLES):
+        if rel_path.startswith(NEVER_SYNC_PREFIXES):
+            continue
+        if not (rel_path.endswith(".json") or rel_path in FONT_BUNDLES or full_media):
             continue
         if args.force or cache.get(rel_path) != up_hash:
             changed_files.append((rel_path, up_hash))
