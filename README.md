@@ -1,24 +1,22 @@
 # gemini_horses
 
-Full English patch for the JP game, made for Hachimi. All stories, career events, voices, and skills — ~43 MB, no bloat.
+Whole JP game in English. Works with Hachimi. ~43 MB.
 
-## Getting it running
+## Install
 
-Paste this into Hachimi's **Translations Meta URL** and pick a flavor:
+Drop this in Hachimi's **Translations Meta URL**, pick a flavor, done:
 ```
 https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
 
-**Been here before?** One-time cleanup: Hachimi never deletes old files, so either remove + re-add the repo, or delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (leave `includes_*` alone, that's the font). Old leftovers break stat numbers.
+**Updated and stuff looks weird?** Delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (don't touch `includes_*`), then update. Or just remove + re-add the repo.
 
-**Want the pretty UI pictures too?** Grab [`layered_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/layered_tl_repos.json), rename it to `.tl_repos`, drop it in your `hachimi` folder. (Fresh setups only — it replaces whatever repos you had.)
+**Want the UI pictures too?** Download [`layered_tl_repos.json`](https://raw.githubusercontent.com/atatotata/gemini_horses/main/layered_tl_repos.json), rename to `.tl_repos`, toss it in your `hachimi` folder.
 
 ## Flavors
 
-- **Flagship**: official Global text + skill numbers + AI filling the gaps.
-- **Community**: the classic fan wording from before Global.
-- **Lore**: same stories, plain skill text with no math.
+- **Flagship**: Global text + skill numbers + AI gaps.
+- **Community**: old fan wording.
+- **Lore**: no math, just vibes.
 
-21,856 stories · 94.5k lines · 33.2k voice clips · race calls · lyrics. Synced with UmaTL twice a week.
-
-Thanks: [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) · Cygames · Gemini Horses.
+Thanks: [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) · Cygames · us.
