@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-10 — Text-Only Fast Install
+- **Media stripped**: removed textures/atlases/movies + `includes_*` from git tree (25,166 → 23,401 JSON-only, ~38 MB). Fixes stat-number sprites overwritten by atlases and fits Hachimi download timeout.
+- **Release zips untracked**: `releases/*.zip` now ship as GitHub Release assets only (gitignored), so branch zips stay ~13 MB.
+- **Docs**: README flavors + Scope + Credits and `meta.json` Flagship blurb now say text-only; pair with UmaTL repo below for UI textures.
+
 ## 2026-09-07 — Lore Edition & Official Global Polish
 - **Skill Data Priority**: Prioritized numerical Skill Data (SD) over Global narrative descriptions (`SD > Global > UmaTL > Gemini` for skill effects), ensuring exact speeds, accelerations, and trigger conditions display on Flagship & Community editions.
 - **Lore Edition**: Added a formula-free flavor for folks who want pure story text and no math in skill boxes.

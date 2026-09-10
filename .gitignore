@@ -5,3 +5,5 @@ __pycache__/
 Thumbs.db
 # Pipeline dev tools (local only, never committed)
 tools/
+# Release zips ship as GitHub Release assets only — never in git tree (keeps codeload zip small for Hachimi)
+releases/
