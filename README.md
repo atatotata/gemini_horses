@@ -6,11 +6,26 @@ Every story, career event, support card, live commentary line, and skill formula
 
 ## Install
 
+### New users
 Paste into Hachimi's **Translations Meta URL** (First-Time Setup or Repo Settings):
 ```
 https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
-Pick your flavor and launch.
+Pick your flavor and launch. First download is a single ~40 MB zip (~23k text files, a few seconds) — no 500 MB media pack, no per-file rate-limit 403s.
+
+### Existing users (one-time cleanup)
+This repo is now **text-only**. Hachimi never deletes stale files on a normal update, so your old textures/atlases stay on disk — and the old atlases keep breaking stat numbers. Do **one** of these once:
+1. Easiest: remove this repo in Hachimi settings and re-add it (a repo change wipes the folder and pulls a fresh ~40 MB zip), **or**
+2. Delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` plus `includes_android` / `includes_win` inside your `hachimi/localized_data_N` folder, then Check for Updates.
+
+After that, updates go back to small incrementals. (Switching flavors also wipes + re-downloads the ~40 MB zip, since each flavor is a separate repo URL.)
+
+### Want UI textures too? (optional)
+This repo ships text only. To get translated UI textures, layer an UmaTL repo **below** this one — higher `id` wins, so keep this repo on top and UmaTL's textures fill the gaps with zero conflicts:
+```json
+{ "id": 1, "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json" },
+{ "id": 2, "index": "https://raw.githubusercontent.com/atatotata/gemini_horses/main/index.json" }
+```
 
 ### Layering (Gap Filler)
 Already running another repo? Put this as `id: 2` in `hachimi\.tl_repos` to fill missing stories and unreleased JP content:
