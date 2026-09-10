@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-10 — Full Goes Entire
+- **Full is now the whole package**: +77 atlas files (WITH upstream `.json` manifests — the old pack lacked them, likely the stat-bug cause) + the story movie. 25,204 files, ~435 MB. If your training stat numbers look off, say so and atlases come back out.
+
 ## 2026-09-10 — Racecourse Card Fix
 - **Short track names**: "Sapporo Racecourse" overflowed its card ("Sapporo Racecours"). Cards + live lists now read "Sapporo RC", "Nakayama RC"… Pinned so syncs can't revert. Story prose untouched.
 
