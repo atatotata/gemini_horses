@@ -64,6 +64,29 @@ PINNED_OVERRIDES = {
     },
 }
 
+def _load_media_dirs(repo_root: pathlib.Path) -> tuple:
+    """Reads the `.full_media` sentinel (one allowed dir per line, `#` comments).
+
+    Returns an empty tuple when the sentinel is absent (text-only mode) or lists
+    nothing usable. Sprite atlases and movies are never allowed (see callers).
+    """
+    sentinel = repo_root / ".full_media"
+    if not sentinel.exists():
+        return ()
+    try:
+        return tuple(
+            line.strip().rstrip("/")
+            for line in sentinel.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.strip().startswith("#")
+        )
+    except OSError:
+        return ()
+
+def _media_allowed(rel_path: str, media_dirs: tuple) -> bool:
+    return bool(media_dirs) and any(
+        rel_path == d or rel_path.startswith(d + "/") for d in media_dirs
+    )
+
 def apply_pinned_overrides(rel_path: str, local_data: dict) -> int:
     """Re-applies pinned local values after upstream merge. Returns count applied."""
     pins = PINNED_OVERRIDES.get(rel_path, {})
@@ -160,12 +183,17 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
 
     # Font bundles: required by config.json (extra_asset_bundle -> replacement font).
     # Only these two non-JSON files are indexed; all other media stays out,
-    # unless FULL_MEDIA mode is on (a `.full_media` file in the repo root,
-    # used by the `full` branch, which also carries translated UI textures).
+    # unless a `.full_media` sentinel exists in the repo root listing extra
+    # allowed dirs (one per line). Sprite atlases broke stat numbers and
+    # movies are huge: never indexed anywhere.
     FONT_BUNDLES = {"includes_win", "includes_android"}
-    # Sprite atlases broke stat numbers and movies are huge: never indexed anywhere.
     NEVER_INDEX_DIRS = {"atlas", "movies"}
-    full_media = (index_file.parent / ".full_media").exists()
+    media_dirs = _load_media_dirs(index_file.parent)
+
+    def _allowed(rel_path: str, fname: str) -> bool:
+        if fname.endswith(".json") or fname in FONT_BUNDLES:
+            return True
+        return _media_allowed(rel_path, media_dirs)
 
     file_entries = []
     for root, dirs, files in os.walk(dest_tl):
@@ -173,7 +201,8 @@ def update_index_manifest(dest_tl: pathlib.Path, index_file: pathlib.Path) -> in
         for file in files:
             if ".bak" in file:
                 continue
-            if not (file.endswith(".json") or file in FONT_BUNDLES or full_media):
+            rel_path = (pathlib.Path(root) / file).relative_to(dest_tl).as_posix()
+            if not _allowed(rel_path, file):
                 continue
             fpath = pathlib.Path(root) / file
             rel_path = fpath.relative_to(dest_tl).as_posix()
@@ -255,15 +284,16 @@ def main():
 
     # 3. Detect changes (skip media assets to keep repo lightweight and avoid
     # download timeouts; exception: font bundles UmaTL ships for the dialogue font,
-    # plus everything else when FULL_MEDIA mode is on — except atlas/movie dirs)
+    # plus `.full_media` allowlisted dirs — except atlas/movie paths, always)
     FONT_BUNDLES = {"includes_win", "includes_android"}
     NEVER_SYNC_PREFIXES = ("assets/atlas/", "assets/movies/")
-    full_media = (repo_root / ".full_media").exists()
+    media_dirs = _load_media_dirs(repo_root)
     changed_files = []
     for rel_path, up_hash in upstream_file_map.items():
         if rel_path.startswith(NEVER_SYNC_PREFIXES):
             continue
-        if not (rel_path.endswith(".json") or rel_path in FONT_BUNDLES or full_media):
+        if not (rel_path.endswith(".json") or rel_path in FONT_BUNDLES
+                or _media_allowed(rel_path, media_dirs)):
             continue
         if args.force or cache.get(rel_path) != up_hash:
             changed_files.append((rel_path, up_hash))
