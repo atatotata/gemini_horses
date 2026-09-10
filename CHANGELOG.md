@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-10 — Racecourse Card Fix
+- **Short track names**: "Sapporo Racecourse" overflowed its card ("Sapporo Racecours"). Cards + live lists now use short names (Sapporo, Nakayama…). Pinned so syncs can't revert. Story prose untouched.
+
 ## 2026-09-10 — Hash Mismatch Fix
 - **Fixed "File hash mismatch" on update**: `info.json` was hashed as CRLF but stored as LF (Windows text-mode writes). Rewrote LF-only, re-indexed, and hardened all script writes with `newline="\n"`. Full audit: 0 mismatches in 119,549 files across all 5 branches. Just hit Check for Updates again — nothing is broken on your end.
 
