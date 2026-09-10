@@ -1,6 +1,6 @@
 # gemini_horses
 
-100% English text patch for Umamusume JP (Steam / DMM / Android), built for Hachimi. Every story, career event, voice line, and skill covered — text-only, ~40 MB.
+100% English text patch for Umamusume JP (Steam / DMM / Android), built for Hachimi. Every story, career event, voice line, and skill covered — text-only + dialogue font, ~43 MB.
 
 ## Install
 
@@ -9,7 +9,7 @@ Paste into Hachimi's **Translations Meta URL** and pick a flavor:
 https://raw.githubusercontent.com/atatotata/gemini_horses/main/meta.json
 ```
 
-**Updating from an old version?** This repo is now text-only, and Hachimi never deletes stale files — so once: remove and re-add the repo, *or* delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` + `includes_*` in `hachimi/localized_data_N`, then update. (Leftover atlases break stat numbers.)
+**Updating from an old version?** This repo is now text-only, and Hachimi never deletes stale files — so once: remove and re-add the repo, *or* delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (keep `includes_*` — that's the dialogue font), then update. (Leftover atlases break stat numbers.)
 
 **Want UI textures?** Layer UmaTL underneath (higher `id` wins):
 ```json
