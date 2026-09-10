@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-10 — Plug-and-Play Release Zips
+- **v5 zips** (Flagship/Community/Lore/Full-slim) ship a primed `.tl_repo_cache` — manual installs no longer trigger a full re-download. Follow INSTALL.txt in the zip. Built by `package_release.py`, verified zero-diffs.
+
 ## 2026-09-10 — Full Slim Flavor
 - **New `full-slim` branch**: Flagship text + 214 everyday UI pictures (23,617 files, ~60 MB). Skips race cards, gacha plates & comics. Same `.full_media` allowlist mechanism, same sync.
 
