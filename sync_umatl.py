@@ -101,6 +101,11 @@ PINNED_OVERRIDES = {
         "34/10201": "Longchamp RC",
         "434/351": "Nakayama RC",
     },
+    "character_system_text_dict.json": {
+        # Home balloon is narrower than story boxes (~32 cols): rewrap to fit
+        "1032/900012": ("Could you call an\nUmamusume over? Oh,\n"
+                        "nothing to worry about—\nI just need a hand."),
+    },
 }
 
 def _load_media_dirs(repo_root: pathlib.Path) -> tuple:
@@ -146,7 +151,8 @@ def apply_pinned_overrides(rel_path: str, local_data: dict) -> int:
     pins = PINNED_OVERRIDES.get(rel_path, {})
     applied = 0
     for key, value in pins.items():
-        if "/" in key and rel_path == "text_data_dict.json":
+        if "/" in key and rel_path in ("text_data_dict.json",
+                                       "character_system_text_dict.json"):
             cat, idx = key.split("/", 1)
             if local_data.get(cat, {}).get(idx) != value:
                 local_data.setdefault(cat, {})[idx] = value
