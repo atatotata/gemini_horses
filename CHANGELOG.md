@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-11 — Fresh Translations
+- **161 new UI strings** across title legal notices, trainer abilities, plan sheets, Android dumps, and Factor Research menus.
+
+## 2026-09-11 — Fit Fixes
+- **Shortened a dozen overflowing labels** (Delete, Visible, P2, Target…) and the Plan Sheet button, all pinned. Rewrapped one home dialogue line for narrow balloons. Two audit rounds standardized terms (sparks, Umamusume) and trimmed the rest.
+
 ## 2026-09-11 — Training Plan + Skill Set Menus
 - **128 new UI strings** translated (TrainingRoadmap/SkillSet TextId keys captured via translator_mode dump, deepseek-v4.1-flash). Master-sourced menu text was already covered — update in-game and both menus flip to EN.
 
