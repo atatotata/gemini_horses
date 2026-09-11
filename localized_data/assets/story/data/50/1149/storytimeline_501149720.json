@@ -1,0 +1,675 @@
+{
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "One day, I came to the infirmary to have \n<chrname>'s condition checked, when—",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "Ah, yes, hello~! A custome... I mean, \na student, right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "An injury? Illness? Or maybe mental care? \nWell, leave ev-er-y-thing to me with a \nboom and a bang!",
+      "choice_data_list": [
+        "...Who are you?!"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "Huh? Well, since I'm in the infirmary... \nA slightly fantastical school nurse? \nSomething like that?",
+      "choice_data_list": [
+        "You're not, are you...?"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "Ahaha, guess I can't fool you. I'll just \ngo with introducing myself normally, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "*Ahem!* Truth be told, I am none other \nthan—",
+      "choice_data_list": []
+    },
+    {
+      "name": "？？？",
+      "text": "The savior who () guides countless \nhorsegirls! \nThe (self-proclaimed) legendary \nacupuncturist with miraculous hands!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "None other than Sasami Anshinzawa!! \nWow, so re~assuring☆",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...What a peculiar individual.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow, looks like you're totally nooot \nre~assured☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now, now, now, now, anyway! \nIntros are out of the way, so ready for a \ngood stick?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I see. \nIt seems communication will be difficult.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahaha! There's no need to be scared, you \nknow? \nI'm just gonna poke your secret pressure \npoints with my secret bamboo needles.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Then you'll improve by leaps and bounds... \nswell with vigor... \nBasically, it's gonna be suuuuper amazing!",
+      "choice_data_list": [
+        "(This is beyond suspicious...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah! Just so you know, I'm not shady at \nall! \nI've never failed even once!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...My master, that is.",
+      "choice_data_list": [
+        "\"Your master\"?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Come on, this is my very first gig, \nso technically speaking, I've never failed \neither!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Besides, I spent ten whole years serving \ntea... \nI mean, training under a legendary master!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow, rest easy~☆",
+      "choice_data_list": [
+        "(She's practically oozing suspicion...!)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "There was no way I could agree to such a \nsketchy proposition. \nI took <chrname> \nand started to leave, but—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "W-Wait, wait, wait, hold on a second!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "You're Phalaenopsis, aren't you?! \nThe lovely yet valiant warrior princess \nwho resolved to fight for her cherished \ngarden!",
+      "choice_data_list": [
+        "...You know who I am?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Of course I do! I saw you!! \nI'm a fan!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I came here to support you guys! \nTo lend you a hand, believe it or not!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So pleaaase~!! \nJust gimme a chance~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Your aspiration to inherit your \nmaster's legacy \nis admirable, but...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Please, please, please! \nI'll even let you choose the pressure \npoint!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I definitely, positively won't fail~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Probably.",
+      "choice_data_list": [
+        "Probably?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Uh, I mean, a \"definitely\" that's \npractically \"probably\"? Kind of? \n...Anyway, don't worry about the little \ndetails!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "More importantly, what kind of pressure \npoint are we going for?! \nStat boosts, health boosts... \nI've even got one for boosting charm!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...While it smells terribly dangerous, \nthere's a chance—just maybe—that it might \nactually produce incredible results.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What should we do...?",
+      "choice_data_list": [
+        "Aim for the pressure point to become a \nstronger horsegirl",
+        "Aim for the pressure point to win races",
+        "Aim for the pressure point for health and \nvitality",
+        "Aim for the pressure point to boost charm",
+        "Decline because it feels too risky"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Mm-hmm, mm-hmm, \nthe \"pressure point to become a stronger \nhorsegirl,\" right!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "All right, here comes the jab! Ready? \n...Are you reeeeeeeally sure about this?",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-dokey, leave it to me! \nCome forth, bamboo needle! Reveal thyself, \npressure point!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now relax... Wow, rest easy~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "And... jab!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Ngh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Jabbed to perfection!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I am impressed. \nYour confidence was not unfounded.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Your master must be \nvery proud of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it worked? Seriously?! Huh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay~!! \nHow did I even do that~?!?!? \nI'm a geniuuuus~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was brimming with \nan unmistakable surge of power!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed she had grasped her potential. \nI could feel we had taken a huge leap \ntoward our dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I believe it would be best... to humble \nyourself \nand seek instruction from your master once \nmore.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly \nin poor shape...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... well, uh... you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wow, goodbyyyye~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I never should have fallen for such a \nshady proposition... \nI deeply, deeply regretted my decision.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Mm-hmm, mm-hmm! \n'Target the pressure point to win races,' \nright?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, here comes the jab! Ready? \n...Are you reeeeeeeeally ready for this?!",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-dokey, leave it to me! \nCome forth, bamboo needles! Reveal \nthyself, pressure point!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now just relax and let go... Waaow, rest \neaaasy☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "And STAAAB!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Ngh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The jab was a smashing success!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I am truly impressed. \nYou have every right to boast of your \nskill.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I am certain your master \nmust be immensely proud of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it worked? Seriously?! Huh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! \nHow in the world did I pull that off?!?!? \nI'm a total geniuuuus!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I could feel that <chrname>'s technique \nhad improved substantially!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed she had grasped her untapped \npotential. \nI could tell she'd made huge strides \ntoward her dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Perhaps it would be best \nto humble yourself... and seek your \nmaster's guidance once more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly \nnot looking well at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... well, you know... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Waaow, byeeeee-bye☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I never should have fallen for such a \nshady proposition... \nI deeply, deeply regretted my decision...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Mm-hmm, mm-hmm! \n'Target the pressure point to get hale and \nhearty,' right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, here comes the jab! Ready? \n...Are you reeeeeeeeally ready for this?!",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-dokey, leave it to me! \nCome forth, bamboo needles! Reveal \nthyself, pressure point!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now just relax and let go... Waaow, rest \neaaasy☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "And STAAAB!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Ngh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The jab was a smashing success!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I am truly impressed. \nYou have every right to boast of your \nskill.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I am certain your master \nmust be immensely proud of you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it worked? Seriously?! Huh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! \nHow in the world did I pull that off?!?!? \nI'm a total geniuuuus!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname>'s entire body was practically \nglowing with a healthy, vibrant sheen! \nWholesome vitality was overflowing from \nher...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed she had grasped her untapped \npotential. \nI could tell she'd made huge strides \ntoward her dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Perhaps it would be best \nto humble yourself... and seek your \nmaster's guidance once more.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly \nnot looking well at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... well, you know... right?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Waaow, byeeeee-bye☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I never should have fallen for such a \nshady proposition... \nI deeply, deeply regretted my decision...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Mm-hmm, mm-hmm! \n'Target the pressure point to boost \ncharm,' right?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alright, here comes the jab! Ready? \n...Are you reeeeeeeeally ready for this?!",
+      "choice_data_list": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Okey-dokey, leave it to me! \nCome forth, bamboo needles! Reveal \nthyself, pressure point!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now just relax and let go... Waaow, rest \neaaasy☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "And STAAAB!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Ngh.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "The jab was a smashing success!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I am impressed. \nYou truly live up to your boast.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I am certain your master \nmust be immensely proud.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Wait, it worked?! For real?! Huh?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "No waaaay!! \nHow did I even do that~?!?!? \nI'm a geniuuus!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was radiating a charm \nthat made everyone passing by turn their \nheads!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It seemed she seized her potential. \nI could feel we'd taken a huge step toward \nour dream...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I believe it would be wise to humble \nyourself \nand seek your master's guidance once \nmore...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "<chrname> was visibly \nnot feeling well at all...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ah... well, uh... you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, farewell~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I deeply regretted falling for such a \nsuspicious proposition...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Whaaat?! Aw, don't say that~...",
+      "choice_data_list": [
+        "I'll pass",
+        "Let me reconsider"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—Hey, you! \nYou're trespassing on school grounds, \naren't you?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gyaaah?! Crap, busted!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, gotta dash~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah?! H-Hold it right thereee!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Quite the lively commotion.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Well then, the intruder is gone. \nShall we return as well?",
+      "choice_data_list": [
+        "Yeah",
+        "Right"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Just who was that Anshinzawa...? \nThinking about it wouldn't solve anything, \nso I decided to forget the whole incident.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Whoopsie, wrong one? \nWell, things like that happen all the \ntime!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Alrighty, tell me one more time! \nWhich pressure point should we aim for?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "You sure love keeping me in suspense~! \nWait, but if we take this long—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "—Hey, you! \nYou're trespassing on school grounds, \naren't you?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gyaaah?! Crap, busted!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Whoa, gotta dash~☆",
+      "choice_data_list": []
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah?! H-Hold it right thereee!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...After deliberating for so long, \nthe whole thing just kind of fizzled out.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "What was all that about...? \n<chrname> and I looked at each other \nand tilted our heads in bewilderment.",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}
