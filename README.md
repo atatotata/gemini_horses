@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.j
 
 **Want the UI pictures too?** Pick **Full** (~435 MB, literally everything) or **Full-slim** (~60 MB, just the daily UI) from the menu. Hachimi runs one repo at a time — to also keep UmaTL around for flipping, grab [`both_tl_repos.json`](https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/both_tl_repos.json), rename to `.tl_repos`, toss it in `hachimi`.
 
-**Downloads crawling or old Hachimi?** Grab a [v5 zip](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v5) (cache included, zero re-download) and follow the INSTALL.txt inside.
+**Downloads crawling or old Hachimi?** Grab a [v6 zip](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v6) (cache included, zero re-download) and follow the INSTALL.txt inside.
 
 ## Flavors
 
