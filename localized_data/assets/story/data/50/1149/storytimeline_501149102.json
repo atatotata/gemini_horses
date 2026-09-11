@@ -1,0 +1,391 @@
+{
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "New Year's. One day, shortly \nafter the turning of the year—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Female Club Staff Member A",
+      "text": "Oh, Phalaenopsis is here! \nHappy New Year!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Happy New Year. \nI look forward to our continued time \ntogether this year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Today, Phalaenopsis and I had been \ninvited to the club's New Year party.",
+      "choice_data_list": [
+        "Happy New Year! Come on, have a seat right \nthere!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Happy New Year, Trainer. \n...You arrived before me, I see. And \nfurthermore—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Why are you wearing a cooking apron?",
+      "choice_data_list": [
+        "I figured I'd help out with the cooking \nand odd jobs!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Heh, an admirable sentiment.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Very well, in that case... \nI shall help as well. Where are extra \nhands needed?",
+      "choice_data_list": [
+        "No, you're a guest today, so please just \nrelax!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "By that logic, are you not a guest as \nwell? \nDo not dismiss an offer of goodwill so \ncallously.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Come now, what are we preparing? Black \nbeans? Kamaboko?",
+      "choice_data_list": [
+        "(What should I do...?)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I wanted her to relax without worry, \nespecially for New Year's, \nbut it felt wrong to douse her enthusiasm. \nIn this situation—",
+      "choice_data_list": [
+        "Still insist that she take it easy",
+        "Have her help with the cooking",
+        "Ask her to look after the younger girls at \nthe club"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Is that so? \nIf you say so, then I shall do just that.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………\n…………。",
+      "choice_data_list": [
+        "Alright... now all that's left is to cook \nthis..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(...If they are making datemaki, should \nthe ingredients \nnot be passed through a sieve before \ncooking...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(I was told to rest, but... \nshould I get up just to tell them \nthat...?)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Female Club Staff Member A",
+      "text": "Trainer! The sieve! \nYou forgot it! Here you go!",
+      "choice_data_list": [
+        "Ah! I completely forgot!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(...Good. \nNow, the next step is cooking it.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(...Wait. Is it wise to pour in that much? \nThey should really reduce the amount—)",
+      "choice_data_list": [
+        "Whoops, that was too much. Guess I'll \nscoop some out."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(Yes, exactly. Half that amount is fine to \nstart. \nGood, keep the flame low...—)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "............Hm. This is hardly restful.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "You're so good at this!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Indeed! \nLeave it to me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "The onishime is ready.",
+      "choice_data_list": [
+        "Thanks! ...Whoa!? That's quite a lot, \nisn't it?",
+        "Thanks! ...Wah!? That's a huge portion, \nisn't it?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Is it? If everyone at the club is to \npartake, \nthen this amount is surely appropriate.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "The seasoning turned out well, too. It \nseems making \nlarge batches to share with everyone truly \nsuits me best.",
+      "choice_data_list": [
+        "It really does look delicious...!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Would you care for a taste?",
+      "choice_data_list": [
+        "Wait, are you sure?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Indeed. It is the privilege of those who \nwork the kitchen. \nThe konjac in particular has soaked up the \nflavors nicely, you know?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Do keep this secret from the others, \nhowever.",
+      "choice_data_list": [
+        "Well then, don't mind if I do!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I try the konjac she recommended. \n...Delicious! The refined seasoning and \nsavory, sweet \ndashi broth have seeped all the way \nthrough.",
+      "choice_data_list": [
+        "Delicious! This is seriously amazing!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Heh. Is that so? \nI am glad to hear it.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(...Truly, you are someone worth cooking \nfor.)",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hmm. It seems you are short on players \nover there, yes? \nVery well. I shall be your opponent.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Club Horsegirl",
+      "text": "Yay, it's Big Sis Phaleno! \nPlay with me, play with me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Club Horsegirl",
+      "text": "Oh, I know! Let's play hanetsuki! \nHanetsuki! C'mon, please?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Very well, I do not mind. \nHowever, do not expect me to go easy on \nyou.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hah, hop! \nHaaah!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Phew... What is the matter? \nAre you already done, with your face \ncovered in ink like that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Club Horsegirl",
+      "text": "Uuugh... No fair, no fair! \nWhy won't you go easy on me?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I apologize, but that is one request I \ncannot grant.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "If you wish to stop here, that is fine as \nwell. \nThe choice is yours to make.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Young Club Horsegirl",
+      "text": "...Gaaaaah! \nOne more time!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Heh. You show great promise.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Delicious!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Well done, Trainer. \nThe datemaki you prepared is quite \nexquisite.",
+      "choice_data_list": [
+        "I'm glad it suits your taste!"
+      ]
+    },
+    {
+      "name": "Female Club Staff Member A",
+      "text": "You really can do anything, can't you, \nTrainer? \nSay, how about coming to work for our club \ntoo?!",
+      "choice_data_list": [
+        "No, I'd rather focus on doing my best as a \nTrainer right now."
+      ]
+    },
+    {
+      "name": "Female Club Staff Member A",
+      "text": "Ah, yeah, figured. You're super busy, \nafter all. \n...What about just once a month or \nsomething? How does that sound?",
+      "choice_data_list": [
+        "Ahaha..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Hehe. Forgive me, but I would \nappreciate it \nif you did not try to lead them astray.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "It would cause me quite a bit of trouble, \nafter all.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I enjoyed a relaxing meal \ntogether with Phalaenopsis and everyone \nfrom the club.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A little while later, as we finish up \nlunch \nand start cleaning up—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Horsegirl A",
+      "text": "Trainer! That datemaki was amazing! \nI see why Phaleno-san is always praising \nyou \nbehind your back!",
+      "choice_data_list": [
+        "Wait, really?"
+      ]
+    },
+    {
+      "name": "Club Horsegirl A",
+      "text": "Yup, totally! Lately, every single time \nPhaleno-san \ncomes by the club, she's always singing \nyour praises!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Horsegirl A",
+      "text": "\"Though their dedication has always been \nsincere, \ntheir achievements have granted them \nnewfound confidence of late.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Horsegirl A",
+      "text": "\"They are growing into a mighty tree, \nworthy of standing by my back. \nI eagerly await what the future holds for \nthem.\" ...That's what she said!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Horsegirl A",
+      "text": "Man, she really adores you, Trainer! \nTo get high praise like that from \nPhaleno-san... is... uh... —eek.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Even if it was meant as words of \npraise, \nbroadcasting private conversations is \nhardly admirable behavior.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—Sit yourself down right there.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Club Horsegirl A",
+      "text": "......T-Trainer...!!",
+      "choice_data_list": [
+        "I'm sorry, there's nothing I can do.",
+        "I'm sorry, but there's nothing I can do."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………\n…………。",
+      "choice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "After the club's New Year's party wrapped \nup, Phalaenopsis and I \nstopped by a shrine for Hatsumode on our \nway back.",
+      "choice_data_list": [
+        "What did you wish for?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "For everyone's good health.",
+      "choice_data_list": [
+        "Didn't you wish for the club's prosperity?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Indeed. For that is not something one \nsimply prays for.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "It is something I shall win through \nvictory.",
+      "choice_data_list": [
+        "Heh, fair enough..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Now then, my spirit is thoroughly \nrestored. \nShall we forge ahead this year as well?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Toward our grand ambition.",
+      "choice_data_list": [
+        "Yeah!",
+        "Right!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "And so began our Senior year, \na chapter of vital importance to the both \nof us.",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}
