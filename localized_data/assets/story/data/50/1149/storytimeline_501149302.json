@@ -1,0 +1,468 @@
+{
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "On the way back from buying refreshments \nfor Phalaenopsis's juniors in the club...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Hm? What's that?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Local Merchant",
+      "text": "Step right up, the New Year's Grand Raffle \nFestival is underway~! \nThe special prize is none other than a \n'Hot Springs Trip Voucher'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Local Merchant",
+      "text": "First prize is a 'Special Deluxe Carrot \nHamburg Steak'! \nSecond prize is a 'Mound of Carrots'! \nThird prize is 'One Whole Carrot'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Local Merchant",
+      "text": "Come one, come all, to our fun, fun \nraffle! \nStep right up, anyone can play~!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hmph. It seems the raffle tickets \nwe just received can be used here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "A true test of fortune to open the new \nyear. \nDo you fancy your luck?",
+      "choice_data_list": [
+        "Decent enough, I guess...?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Haha! An honest one, aren't you. \nYet this year may smile upon you, you \nknow?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Care to test it?",
+      "choice_data_list": [
+        "...All right! Watch me impress you!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Very well. I expect great things.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Feeling her expectant gaze upon my back, \nI turned the handle of the raffle drum!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And the result was—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Local Merchant",
+      "text": "Incredible! Congraaaatulaaations!! \nWe have a winner for the Special Prize, \nthe 'Hot Springs Trip Voucher'~~~~!!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hahaha! Well, well, what have we here?!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Splendid indeed, I must admit! \nYou possess quite the remarkable luck of \nthe draw!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Perhaps I shall rely upon you \nwhenever testing my fortune in the future.",
+      "choice_data_list": [
+        "It might just be a fluke today, though...!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "There is no need to be so timid.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "If we succeed, it is thanks to your good \nfortune. \nIf we fail, the responsibility lies with \nme for entrusting it to you.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Now then, the grand prize was a hot spring \ntrip voucher, was it?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hot springs are wonderful. Ideal for \nrecuperation. \nThey wash away any accumulated fatigue.",
+      "choice_data_list": [
+        "Then I want you to use the ticket, \nPhalaeno!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Phalaenopsis is pushing her body the \nhardest right now. \nIf a hot spring could soothe that fatigue, \neven if only a little—!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Goodness, you truly are something.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I only just told you, did I not? \nThis reward was drawn forth by your own \nhand.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "In short, it is your achievement. \nIt is not something I should take from \nyou.",
+      "choice_data_list": [
+        "Still—"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Still unwilling to yield, are we?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "............Very well, I understand. \nLet us do this for now, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I shall hold on to this for safe keeping.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Saved for an auspicious day yet to come. \nHow does that sound?",
+      "choice_data_list": [
+        "...All right. You can use it whenever you \nwant.",
+        "...All right. You can use it whenever \nyou'd like."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Yes, I gladly accept.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I entrusted the winning hot spring \nvoucher \ninto Phalaenopsis's care.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Staff",
+      "text": "Congratulations, First Prize! \nThe prize is a 'Special Deluxe Carrot \nHamburg Steak'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained '<itemname>'.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Oho, first prize! \nWell done indeed!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "A 'Special Deluxe Carrot Hamburg \nSteak'...! \nI hear it was crafted by a truly skilled \nchef.",
+      "choice_data_list": [
+        "It looks delicious...!",
+        "Looks delicious...!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Fufu...!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Was she truly that delighted \nto win a carrot hamburg steak? \nSeeing Phalaenopsis break into a broad \nsmile makes me smile, too.",
+      "choice_data_list": [
+        "I'm glad to see you so happy.",
+        "I'm glad it brought you joy."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Of course I am glad. \nA stroke of good fortune has descended \nupon you, after all.",
+      "choice_data_list": [
+        "Wait, 'upon me'?",
+        "Wait, 'to me'?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Indeed. Lady Luck is surely on your side \nthis year. \nIt will undoubtedly be a wonderful year.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Ah... I am so very glad. \nForgive me, Trainer, but may I?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "A warm palm is placed upon my shoulder \ntwice, \nwith a gentle pause in between.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...A truly splendid result. \nYou did wonderfully.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Fufu...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Looking at her face as she praises me, I \nrealize. \nIt isn't winning the carrot hamburg steak \nthat brought her such joy.",
+      "choice_data_list": [
+        "(...She's happy for my sake.)",
+        "(...She's celebrating my good fortune.)"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Now then, let us share this feast we have \nobtained. \nTonight promises to be an exceptional \ndinner.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Come, before it cools. \n—Let us partake.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, \nI took my seat across the table from \nPhalaenopsis \nto share the meal.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Across from me, Phalaenopsis \nwatched me with an unbroken smile upon her \nface.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopping District Staff",
+      "text": "Second Prize!! \nThe prize is a 'Mountain of Carrots'!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "A splendid draw.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Yet with such a vast quantity, \nhow best to consume it before it spoils? \nI find myself at a loss.",
+      "choice_data_list": [
+        "Ah, in that case—!"
+      ]
+    },
+    {
+      "name": "Club Horsegirls",
+      "text": "\"Carrots!\" \"Thank you, Phaleno-san!\" \n\"Are there any more carrots!?\" \n\"Can we eat as much as we want!?\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Haha, pay it no mind. \nThere are plenty of carrots to—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Oh?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Following Phalaenopsis's gaze, \nthe cardboard box is... completely empty.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "When there were so many just a moment \nago... \nGoodness me...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Judging by Phalaenopsis's expression, \nthis was wholly unexpected. \nAfter all, she had won a veritable \nmountain of carrots.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "...Yet far more new horsegirls had joined \nPhalaenopsis's club \nthan she had anticipated. \nEnough to make an entire mound of carrots \nvanish.",
+      "choice_data_list": [
+        "(All right, in that case—!)"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hmm... \nMust I procure additional nourishment at \nonce? And yet—",
+      "choice_data_list": [
+        "Phaleno, actually!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "I retrieve the bag I left in our vehicle. \nInside were extra carrots I had bought \nbeforehand, \njust in case.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Well now.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "You have impressive foresight. \nSplendid handling, Trainer.",
+      "choice_data_list": [
+        "Because I have a wonderful master.",
+        "Because I have a wonderful master."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Oh? \nFufu...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "It seems I, too, am blessed with a fine \ndisciple.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, alongside everyone from the club, \nwe happily carried on with our carrot \nfeast.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Third prize~! \nThe prize is \"one single carrot\"!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Fufu, even one is still a win.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Now, what will you do with this singular \ncarrot? \nIt is your reward. Do with it as you \nplease.",
+      "choice_data_list": [
+        "Then I want to give it to you, Phaleno."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Trainer. \nThat is your reward, not mine. \nDo not offer up everything you receive.",
+      "choice_data_list": [
+        "But..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Then I shall accept only \"half.\"",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "With a crisp snap, Phalaenopsis breaks the \ncarrot in two, \nand holds out one half toward me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Now, how shall we put this carrot to \nuse? \nWhat will you do with yours, Trainer?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Deep-frying is fine, as is roasting. \nEating it just as it is would also be an \noption.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Let it nourish you, however you choose.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Too bad, you didn't win! \nThe consolation prize is \"pocket tissues\"~",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Obtained <itemname>.",
+      "choice_data_list": [
+        "N-No way......!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Trainer.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "......Forgive me. \nBecause I urged you on, I gave you \nunnecessary expectations.",
+      "choice_data_list": [
+        "No, it's just that my luck is bad...",
+        "No, it's just that my luck is bad..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "No, that is not so. \nDo not be so downcast.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "First and foremost, I was the one who \nasked you to draw. \nI am the one who dragged you into these \nfeelings.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...So please, do not look so disheartened. \nI am sorry.",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}

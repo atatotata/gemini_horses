@@ -1,0 +1,32 @@
+{
+  "text_block_list": [
+    {
+      "name": "Phalaenopsis",
+      "text": "...Hah!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—Ah, good morning, Trainer. \nOut for a walk?",
+      "choice_data_list": [
+        "Practicing your swings so early?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I stopped by a martial arts shop \nyesterday. \nI bought a few more practice swords.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—...Yes. \nGood. It fits my grip well.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Now that body and mind are centered— \nI look forward to working with you today, \nTrainer.",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}

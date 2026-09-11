@@ -1,0 +1,305 @@
+{
+  "text_block_list": [
+    {
+      "name": "Training Club Staff",
+      "text": "Oh, a Trainer from Tracen Academy! \nWelcome to our club. Come, let me show you \naround the facilities.",
+      "choice_data_list": [
+        "Thank you, I'd appreciate that!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I'll go check on the juniors, then. \nI'll report their clocked times to you \nlater.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "And so, I was given a tour of the club's \nfacilities. \nAfter walking around for a bit, we arrived \nat the wide track...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Come, let us begin. \nShow me the fruits of your training.",
+      "choice_data_list": [
+        "! That voice..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Good, the final stretch is almost here. \nRelease the stamina you've saved up till \nnow... and close the distance all at once!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Horsegirl A",
+      "text": "Y-Yes, ma'am! Taaahhh~~~!",
+      "choice_data_list": [
+        "(So that's how Phalaeno runs her \npractice!)"
+      ]
+    },
+    {
+      "name": "Training Club Staff",
+      "text": "Things are going smoothly today, too. \nShe's deeply adored by her juniors. \nThose girls always look forward to \ntraining with her.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Splendid. Your pacing has improved \nremarkably since last time. \nKeep this up, and your deceleration in the \nfinal stretch should lessen.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Horsegirl A",
+      "text": "Whoa... Thank you so much, !",
+      "choice_data_list": [
+        "(She gives such thorough feedback, too...)"
+      ]
+    },
+    {
+      "name": "Horsegirl B",
+      "text": "Phalaeno-san, could you run tandem with me \none more time? \nI feel like I'm just about to get the hang \nof it—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—My apologies, but that will be all for \ntandem running today. \nWould you mind if we went over your form \ninstead?",
+      "choice_data_list": [
+        "(Hm? ...Is she tired?)",
+        "(Hm? ...Did she get tired?)"
+      ]
+    },
+    {
+      "name": "Horsegirl B",
+      "text": "Ah... I'm so sorry! \nIt is still morning, after all... In that \ncase, I'll go run! Please watch me!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Now then, we shall begin our martial arts \npractice. \nA sharp focus carries over into one's \nstride. —First, with kirikaeshi.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "As I was being shown around the indoor \nfacility, I came across the practice \ngrounds once more. \nIt seems she looks after them in many \nways, not just when it comes to running.",
+      "choice_data_list": [
+        "She really cares about her juniors, \ndoesn't she?"
+      ]
+    },
+    {
+      "name": "Training Club Staff",
+      "text": "Yes. Even now, after enrolling in the \nacademy, she frequently visits like this. \nShe truly is as dependable as they come.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Training Club Staff",
+      "text": "We only hope for her success in the \nTwinkle Series. \nShe is... the flower of our club, after \nall.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "In the afternoon, after the facility tour \nwas over, I gazed out at the scenery by \nmyself. \nBeside the track, beautifully manicured \nflowers swayed gently in the breeze.",
+      "choice_data_list": [
+        "(What a... wonderful place this is.)"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Taaaahhhhh!",
+      "choice_data_list": [
+        "—?! That voice..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Ghh......! Just 200 more... No, 300!",
+      "choice_data_list": [
+        "(Phalaeno?! What on earth is she...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She was lapping the perimeter of the dojo \nwalls at a ferocious speed. \nShe must have been at it for a while—her \nface was twisted in anguish...",
+      "choice_data_list": [
+        "(...Wait. Earlier, didn't she...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "This morning, she had called off running \ntandem with her junior. \nIf she was going to run this hard, she \ncould have done so outdoors, but...?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Haaah... Ah... Trainer, is that you? \nForgive me, I didn't notice... Gh!",
+      "choice_data_list": [
+        "Phalaeno, are you okay?!"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Wondering if she was hurt, I rushed over \nto her... She was burning up. \nHer fever was so intense I could feel the \nheat radiating off her just by getting \nclose!",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Think nothing of it. \nThis much is... a regular occurrence.",
+      "choice_data_list": [
+        "...What?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...My temperature has merely spiked. \n...I must prepare an ice pack.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Before I could recover from my shock, she \nhad returned to her room. \n...What was this nagging sense of \ndissonance? Up until now, she had seemed \nsomehow—",
+      "choice_data_list": [
+        "(!—Could it be...?)"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...I apologize for alarming you earlier. \nMy fever has already subsided. That is \nsimply how I train on a daily basis.",
+      "choice_data_list": [
+        "...Phalaeno, may I ask you something?"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "Refraining from tandem runs in the \nmorning. Training indoors away from \nsunlight. \nAnd the fluctuating temperature... The \npieces of the puzzle clicked together.",
+      "choice_data_list": [
+        "Do you have... 'inverted body \ntemperature'?",
+        "Do you have... 'inverted body \ntemperature'?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—............ Yes.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "—Normally, an umamusume's body temperature \nis low in the morning and rises in the \nafternoon. \nThe reverse—a condition where body \ntemperature spikes in the morning—is known \nas 'inverted body temperature.'",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Due to this condition, an umamusume with \ninverted body temperature suffers from \nunstable thermoregulation. \nAt times, they are gripped by intense \nfevers, struggling to perform anywhere \nnear their true ability.",
+      "choice_data_list": [
+        "With a condition like that, you still \nchose the path of racing...?!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I have learned how to manage it. \nHowever... I still cannot overextend \nmyself. \nFurthermore, my muscles tend to stiffen \neasily.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...When I was young, I felt nothing but \nresentment toward myself. \nI could not forgive my own frailty, \ncollapsing so easily. —And yet.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "It was this training club that changed me.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Indoor training methods that minimize the \nimpact on my body temperature. \nThorough cooldown routines, and proper \nmeasures when fevers strike.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "This club confronted my condition with \nutmost sincerity. \nIt is solely because of them that I was \nable to hone my running.",
+      "choice_data_list": [
+        "…………！"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She had overcome a constitution unsuited \nfor racing \ntogether with the club. All to run, all to \nmove forward—",
+      "choice_data_list": [
+        "Even so, doing that kind of training with \ninverted body temperature..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—I understand your concern, and yet. \nI, and this club... have an aspiration to \nfulfill.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Past Phalaenopsis",
+      "text": "“A G1 victory... you say?”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Training Club Staff",
+      "text": "“I've been talking with the other staff. \nWe hope that someday, a renowned horsegirl \nwill blossom from this club.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Past Phalaenopsis",
+      "text": "“Someday... No—”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Past Phalaenopsis",
+      "text": "“Then... I, Phalaenopsis, shall blossom \ninto that flower.”",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—The club has bestowed so much kindness \nupon me for so long. \nHow could I ever leave such a debt of \ngratitude unpaid?",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "An inverted body temperature is a trifling \nmatter! \nSomething like that could never halt my \nstride.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "With my own hands, I shall gift this club \na G1 victory. \nI will charge through the battlefield of \nracing and bloom in all my glory!",
+      "choice_data_list": [
+        "(So this is her conviction...)"
+      ]
+    },
+    {
+      "name": "Narrator",
+      "text": "She wished to repay the club that raised \nher with victory. \n—In her dignified eyes burned a fierce \nresolve, akin to that of a dauntless \nwarrior.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Even if it is for a G1 victory... a racing \ncareer burdened by such physical \nafflictions \nis a long and grueling battle. What's \nmore, she subjects herself to such harsh \ntraining...",
+      "choice_data_list": [
+        "...Isn't it hard on you?",
+        "...Isn't it painful for you?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "There is no need to worry. \nI know how to manage my condition all too \nwell. Besides—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "This path does not end with a single G1.",
+      "choice_data_list": [
+        "――！"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Just one... a victory for me alone is far \nfrom enough. \nMy sights are set further beyond—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "To make this club... into the “most \nbeautiful garden.”",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}

@@ -1,0 +1,32 @@
+{
+  "text_block_list": [
+    {
+      "name": "Phalaenopsis",
+      "text": "Working without pause must have left your \nthroat dry. Have some tea. \nIt is gyokuro from a teahouse I am fond \nof.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "I thanked her and accepted the cup. \nTaking a sip—",
+      "choice_data_list": [
+        "B-Bitter...!!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—Kh! \nYou speak the truth. What a dreadful waste \nof fine tea...",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "It seems I misjudged the water's \ntemperature... \n—I shall brew another cup. Wait here.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "An uncharacteristic mistake for her. \nShe might be exhausted... \nIt would be wise to reconsider our race \nschedule.",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}
