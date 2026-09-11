@@ -1,0 +1,27 @@
+{
+  "text_block_list": [
+    {
+      "name": "Phalaenopsis",
+      "text": "Come now, do not be so disheartened.",
+      "choice_data_list": [
+        "I'm sorry..."
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "No need. It is hardly something one can \nmaster \nso easily on a sudden whim.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "In all things, gaining experience is \nessential. \nLet us simply await the next opportunity.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "It ended in disappointment...",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}
