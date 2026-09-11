@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-11 — New Horse Phalaenopsis (1149)
+- **116 new stories + 6 home lines** translated (her character story, event 41149, career 82/83, misc). Stories via gemini-3.8-flash-tiered, home lines via deepseek-v4.1-flash. +608 master strings from the same update.
+
 ## 2026-09-10 — Full Goes Entire
 - **Full is now the whole package**: +77 atlas files (WITH upstream `.json` manifests — the old pack lacked them, likely the stat-bug cause) + the story movie. 25,204 files, ~435 MB. If your training stat numbers look off, say so and atlases come back out.
 

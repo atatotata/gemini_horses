@@ -1,0 +1,43 @@
+{
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "This happened when I visited \nthe academy store with Phalaenopsis.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Oho, hiyashiame? \nThey sell quite intriguing things. Shall I \nbuy one—",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "—...Ngh.",
+      "choice_data_list": [
+        "What's wrong?",
+        "Are you alright?"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Worry not. \n'Tis merely a slight headache.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Perhaps it is the shifting weather. \nI believe they said today's day-to-night \ntemperature swing would be severe.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "I shall settle for warm tea for now. \nAs for the hiyashiame... *sigh*. Next \ntime, then.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narrator",
+      "text": "Unable to drink something cold because of \nher headache, \nPhalaenopsis looked rather disappointed...",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}

@@ -1,0 +1,28 @@
+{
+  "text_block_list": [
+    {
+      "name": "Phalaenopsis",
+      "text": "Now then, the time has come to reclaim \nwhat was lost.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "The glory that once slipped through my \ngrasp— \ntoday, I shall claim it with my own \nhands...!",
+      "choice_data_list": [
+        "You're definitely fired up!",
+        "You're full of fighting spirit!"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Heh, naturally. \nI have honed my blade for this very day.",
+      "choice_data_list": []
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "A flower that blooms through hardship is \nall the stronger \nand more exquisite. —Just watch me.",
+      "choice_data_list": []
+    }
+  ],
+  "no_wrap": true
+}
