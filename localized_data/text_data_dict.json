@@ -230,7 +230,12 @@
     "811": "Subscription product information has been updated.\nReturning to title screen.",
     "2514": "Cannot set favorite icon because this\ninherited Uma Musume cannot be rented.\nReturning to title screen.",
     "9106": "Outside the entry Uma Musume change period.\nReturning to Home screen.",
-    "9403": "Factor Re-acquisition Pass purchase information has been updated."
+    "9403": "Factor Re-acquisition Pass purchase information has been updated.",
+    "9851": "That Share ID does not exist.",
+    "9852": "This Share ID has expired.",
+    "9901": "This Umamusume cannot be set as a comparison target.\nReturning to the title screen.",
+    "9902": "That Share ID does not exist.",
+    "9903": "This Share ID has expired."
   },
   "2": {
     "101": "Under Maintenance",
@@ -463,7 +468,12 @@
     "811": "Error",
     "2514": "Favorite Icon Setting Error",
     "9106": "Outside Entry Uma Musume Change Period",
-    "9403": "Purchase Info Updated"
+    "9403": "Purchase Info Updated",
+    "9851": "Share ID Error",
+    "9852": "Share ID Error",
+    "9901": "Comparison Target Error",
+    "9902": "Share ID Error",
+    "9903": "Share ID Error"
   },
   "3": {
     "1": "Each Umamusume has different goals.\\nThis is your goal for the time being!",
@@ -776,7 +786,8 @@
     "112702": "[Resolute Violet Flame] Fenomeno",
     "113401": "[Bloom-Draped Couture] Curren Bouquetd'or",
     "114101": "[Fate's Chosen Star] Epiphaneia",
-    "114501": "[Monochrome GM] Rulership"
+    "114501": "[Monochrome GM] Rulership",
+    "114901": "[Exquisite Dawning Gloom] Phalaenopsis"
   },
   "5": {
     "100101": "[Special Dreamer]",
@@ -966,7 +977,8 @@
     "107403": "[Seaside Elegance Chiffon]",
     "107703": "[Tale of the Auspicious Dragon Bath: Peak]",
     "112702": "[Resolute Violet Flame]",
-    "113401": "[Bloom-Draped Couture]"
+    "113401": "[Bloom-Draped Couture]",
+    "114901": "[Exquisite Dawning Gloom]"
   },
   "6": {
     "1001": "Special Week",
@@ -1458,7 +1470,8 @@
     "1101": "Ritto Dorm",
     "1141": "Ritto Dorm",
     "1145": "Ritto Dorm",
-    "1146": "Miho Dorm"
+    "1146": "Miho Dorm",
+    "1149": "Ritto Dormitory"
   },
   "9": {
     "1001": "Slight decrease (pre-race nerves)",
@@ -1593,7 +1606,8 @@
     "1137": "Tuning Up Wonderfully!",
     "1141": "Fateful",
     "1143": "Slight Increase",
-    "1145": "Did Not Show for Weigh-in"
+    "1145": "Did Not Show for Weigh-in",
+    "1149": "Radiant Transformation"
   },
   "10": {
     "1": "The hottest new shoe from a popular sprinting brand. Used to raise Potential Level.",
@@ -2386,7 +2400,13 @@
     "1013201": "Loves Only You's special chocolates.\nRestores 30 TP when used.",
     "1013301": "Chrono Genesis's special chocolates.\nRestores 30 TP when used.",
     "1013501": "Stay Gold's special chocolates.\nRestores 30 TP when used.",
-    "1013701": "Kiseki's special chocolates.\nRestores 30 TP when used."
+    "1013701": "Kiseki's special chocolates.\nRestores 30 TP when used.",
+    "350": "A ticket that can be used to enter\nChampions Meeting.\n*Cannot be carried over to the next event.",
+    "351": "Refreshing fizzy carbonation to wash away\ntraining fatigue!\nRestores 100 TP when used.",
+    "354": "A ticket that can be exchanged for any\n★3 Trainee Umamusume from the list.",
+    "5501": "A report compiling the ultimate research\nfindings by Agnes Tachyon.\nCan be used for Factor Enhancement.",
+    "5701": "A report compiling research findings\nby Agnes Tachyon.\nCan be used for Factor Enhancement.",
+    "6001": "A memory drive recording reports on\nfactors.\nCan be used for Factor Enhancement."
   },
   "13": {
     "10001": "Tutorial Scout",
@@ -3080,7 +3100,11 @@
     "50242": "SSR Support Card pool features only the 10 selected cards!",
     "50243": "SSR Support Card pool features only the 10 selected cards!",
     "50244": "SSR Support Card pool features only the 10 selected cards!",
-    "50245": "1 Time Only! SSR pool features only Power Support Cards!"
+    "50245": "1 Time Only! SSR pool features only Power Support Cards!",
+    "30468": "Featured ★3 Trainee Umamusume come with 90 bonus Pieces!",
+    "30469": "Featured Support Card appearance rates boosted during the period!",
+    "50246": "Only the 9 eligible ★3 Trainee Umamusume are available!",
+    "50247": "Only the 6 eligible SSR Support Cards are available!"
   },
   "14": {
     "1": "Trackwear",
@@ -3509,7 +3533,8 @@
     "901134": "Casual Clothes (Curren Bouquetd'or)",
     "901141": "Casual Clothes (Epiphaneia)",
     "901145": "Casual Clothes (Rulership)",
-    "911007": "KFC Goodwill Ambassador Golshi"
+    "911007": "KFC Goodwill Ambassador Golshi",
+    "901149": "Casual Clothes (Phalaenopsis)"
   },
   "15": {
     "1": "Trackwear with Name Tags",
@@ -4027,7 +4052,8 @@
     "901134": "Curren Bouquetd'or's Casual Clothes",
     "901141": "Epiphaneia's Casual Clothes",
     "901145": "Rulership's Casual Clothes",
-    "911007": "Gold Ship's Special Outfit"
+    "911007": "Gold Ship's Special Outfit",
+    "901149": "Phalaenopsis's Casual Clothes"
   },
   "16": {
     "1001": "Umapyoi Legend",
@@ -5221,7 +5247,13 @@
     "5007": "Factor Enhancement Report",
     "5008": "Factor Enhancement Report",
     "5009": "Factor Enhancement Report",
-    "5601": "Factor Enhancement Report (Permanent)"
+    "5601": "Factor Enhancement Report (Permanent)",
+    "350": "Entry Ticket",
+    "351": "Suntory Carbonated Drink Set",
+    "354": "Awakening Lv 6/7 Added Umamusume Ticket R3",
+    "5501": "Ultimate Factor Research Report",
+    "5701": "Factor Research Report",
+    "6001": "Factor Report Memory"
   },
   "24": {
     "1": "The hottest new shoe from a popular sprinting brand. Used to raise Potential Level.",
@@ -6014,7 +6046,13 @@
     "5007": "A report detailing Umamusume factors.\nCan be used for Factor Reinforcement.",
     "5008": "A report detailing Umamusume factors.\nCan be used for Factor Reinforcement.",
     "5009": "A report detailing Umamusume factors.\nCan be used for Factor Reinforcement.",
-    "5601": "A report detailing Umamusume factors.\nCan be used for Factor Reinforcement."
+    "5601": "A report detailing Umamusume factors.\nCan be used for Factor Reinforcement.",
+    "350": "A ticket that can be used to enter\nChampions Meeting.\n*Cannot be carried over to the next event.",
+    "351": "Refreshing fizzy carbonation to wash away training fatigue!\nRestores 100 TP when used.",
+    "354": "A ticket that can be exchanged for any\n★3 Trainee Umamusume from the list.",
+    "5501": "A report compiling the ultimate research findings by Agnes Tachyon.\nCan be used for Factor Enhancement.",
+    "5701": "A report compiling research findings by Agnes Tachyon.\nCan be used for Factor Enhancement.",
+    "6001": "A memory drive recording reports on factors.\nCan be used for Factor Enhancement."
   },
   "25": {
     "48": "Normally obtained by converting R Support Cards in Support Card Storage.",
@@ -6737,7 +6775,11 @@
     "50242": "SSR Select Step-Up Scout: Step 3",
     "50243": "SSR Select Step-Up Scout: Step 4",
     "50244": "SSR Select Step-Up Scout: Step 5",
-    "50245": "Guaranteed SSR Power Scout"
+    "50245": "Guaranteed SSR Power Scout",
+    "30468": "Featured Pretty Derby Gacha",
+    "30469": "Featured Support Card Gacha",
+    "50246": "Guaranteed ★3 Prix de l'Arc de Triomphe Gacha",
+    "50247": "Guaranteed SSR Prix de l'Arc de Triomphe Gacha"
   },
   "27": {
     "1": "Your trainee doesn't have the right <color=#FF4400>track or distance aptitudes</color>, so she may be unable to bring out her full potential.",
@@ -10004,7 +10046,9 @@
     "1204501": "Sprinters Stakes HARD",
     "1204502": "Sprinters Stakes HARD",
     "1204601": "Swan Stakes HARD",
-    "1204602": "Swan Stakes HARD"
+    "1204602": "Swan Stakes HARD",
+    "600095": "Champions Meeting: MILE",
+    "600096": "Champions Meeting: MILE - Finals"
   },
   "29": {
     "100101": "February S.",
@@ -13188,7 +13232,8 @@
     "1204501": "Sprinters Stakes (HARD)",
     "1204502": "Sprinters Stakes (HARD)",
     "1204601": "Swan Stakes (HARD)",
-    "1204602": "Swan Stakes (HARD)"
+    "1204602": "Swan Stakes (HARD)",
+    "600096": "Champions Meeting - Finals"
   },
   "31": {
     "10001": "Sapporo RC",
@@ -15804,7 +15849,9 @@
     "27385": "Trainer's Cup",
     "27386": "Trainer's Cup",
     "27387": "Trainer's Cup",
-    "27388": "Trainer's Cup"
+    "27388": "Trainer's Cup",
+    "6095": "Champions Meeting: MILE",
+    "6096": "Champions Meeting: MILE - Finals"
   },
   "33": {
     "1001": "February Stakes",
@@ -16671,7 +16718,9 @@
     "12046": "Legend Race",
     "12047": "Legend Race",
     "18044": "Swan Stakes",
-    "18045": "Mainichi Okan"
+    "18045": "Mainichi Okan",
+    "6095": "Champions Meeting",
+    "6096": "Champions Meeting"
   },
   "34": {
     "10001": "Sapporo RC",
@@ -17711,7 +17760,17 @@
     "285": "Limit 4: 1,500",
     "286": "Limit 3: Factor Enhancement Report Pack",
     "287": "Limit 5: Support Card Voucher Pack",
-    "288": "Limit 2: 60"
+    "288": "Limit 2: 60",
+    "289": "700",
+    "290": "Awakening Lv 5 Item Pack",
+    "291": "Awakening Lv 5 Item Pack",
+    "292": "Limit 3: 350",
+    "293": "700",
+    "294": "Awakening Lv 5 Item Pack",
+    "295": "Awakening Lv 5 Item Pack",
+    "296": "Limit 3: 350 Jewels",
+    "312": "210 Jewels",
+    "313": "210 Jewels"
   },
   "47": {
     "10071": "Warning Shot!",
@@ -19837,7 +19896,16 @@
     "114101221": "Eternal Horizon",
     "114301211": "Light in the Dark Night",
     "114501111": "Clever Gambit",
-    "114501211": "Assault Trick"
+    "114501211": "Assault Trick",
+    "101491": "Fierce Bloom",
+    "204691": "Swords Drawn, Bows Taut",
+    "204692": "Face-Off",
+    "204711": "Rallying Cry",
+    "204712": "Raising Spirits",
+    "901491": "Fierce Bloom",
+    "101401311": "The Monstrous Bird Takes Flight",
+    "114901111": "Masterstroke: Slope Descent",
+    "114901211": "Approach and Be Cut Down!"
   },
   "48": {
     "10071": "<b>Target Speed +0.15 m/s for 6 s</b> when: After 50% distance AND Before 60% distance AND In trailing ﹤50%",
@@ -22006,7 +22074,17 @@
     "112702211": "Increases speed if in the front pack near the late race;\nalso slightly increases speed further if Guts is sufficiently high.\n<Medium/Long>",
     "114101111": "Increases speed if in the front pack near the late race;\nin races 2000m or longer, moves forward if in the vanguard\non the final straight. <Leader/Turf>",
     "114101211": "Increases speed if in the front pack early in the mid-race;\nlater moves forward on the 3rd corner before the final corner.\n<Leader/Medium>",
-    "114101221": "Significantly increases speed and restores stamina\nif in the front pack early in the mid-race.\n<Leader/Long>"
+    "114101221": "Significantly increases speed and restores stamina\nif in the front pack early in the mid-race.\n<Leader/Long>",
+    "101491": "When attempting to overtake on a corner during the middle leg,\nspeed slightly increases.\nIn Medium races, also push forward for a short time\non the following straight <Leader/Betweener>",
+    "204691": "When jostling near the front in the middle leg,\npush forward <Mile/Medium>",
+    "204692": "When jostling near the front in the middle leg,\nslightly push forward <Mile/Medium>",
+    "204711": "At some point during the middle leg, push forward\n<Strategy: Betweener>",
+    "204712": "At some point during the middle leg, slightly push forward\n<Strategy: Betweener>",
+    "901491": "When attempting to overtake on a corner during the middle leg,\nspeed marginally increases.\nIn Medium races, also slightly push forward for a short time\non the following straight <Leader/Betweener>",
+    "101401311": "On the final corner during or after the late leg,\nwhen in the front half of the pack and far from the finish,\nacceleration increases. Furthermore, in 2400m races,\nslightly push forward <Leader/Betweener>",
+    "104901311": "Speed and Power increase. Furthermore, in Hanshin 2200m\nraces or at Longchamp, ignores popularity-based\nconditions on your acquired skills\n<Medium>",
+    "114901111": "At some point on any downhill, significantly push forward.\nFurthermore, in Mile or Medium races,\nacceleration slightly increases\n<Leader/Betweener>",
+    "114901211": "When jostling during the middle leg, push forward.\nIf Power and Guts are sufficiently high, speed will then\nslightly increase with 400m remaining\n<Mile/Medium>"
   },
   "49": {
     "1": "60 Carats",
@@ -22270,7 +22348,17 @@
     "285": "5.5th Anniv. Special\n1,650 Jewels (Limit 4)",
     "286": "5.5th Anniv. Special\nFactor Upgrade Report Pack (Limit 3)",
     "287": "5.5th Anniv. Special (Limit 5)\nSupport Card Exchange Ticket Pack",
-    "288": "5.5th Anniv. Special (Limit 2)\n66 Jewels + Bonus Items"
+    "288": "5.5th Anniv. Special (Limit 2)\n66 Jewels + Bonus Items",
+    "289": "700 Jewels w/ Awakening Lv 6/7\nAdded Umamusume Exchange Ticket",
+    "290": "El Condor Pasa\nAwakening Lv 5 Item Pack",
+    "291": "Nakayama Festa\nAwakening Lv 5 Item Pack",
+    "292": "Limit 3: 350 Jewels with\nAwakening Lv 6/7 Items",
+    "293": "770 Jewels with Awakening Lv 6/7 Added Umamusume Exchange Ticket",
+    "294": "El Condor Pasa Awakening Lv 5 Item Pack",
+    "295": "Nakayama Festa Awakening Lv 5 Item Pack",
+    "296": "Limit 3: 385 Jewels with Awakening Lv 6/7 Items",
+    "312": "Qatar Prix de l'Arc de Triomphe\nPremium Partner Commemoration Pack",
+    "313": "Qatar Prix de l'Arc de Triomphe Premium Partner Commemoration Pack"
   },
   "55": {
     "101": "Speed",
@@ -23794,7 +23882,18 @@
     "348": "Trainers who finish ranked 1st through 96th in the Main Stage\nwill have <color=#ff9900>Special Prizes</color> shipped directly to them!\nEligible Trainers will see an entry banner on the Home screen\nafter the event concludes, so please check there for details.",
     "374": "Spend dedicated <color=#ff911c>Ability Pt</color> to activate <color=#ff911c>Trainer Abilities</color>\nwith various helpful training effects for a <color=#ff911c>set duration</color>.\nActivate abilities tailored to your training goals\nand raise your Umamusume effectively!",
     "378": "Choose between a manual Career playthrough and Independent Training via the tabs on the final confirmation screen!",
-    "383": "Ability Pt can be obtained from the Training Pass and various events.\nAdditionally, purchasing the Premium Pass for the Training Pass\nwill allow you to earn even more Ability Pt."
+    "383": "Ability Pt can be obtained from the Training Pass and various events.\nAdditionally, purchasing the Premium Pass for the Training Pass\nwill allow you to earn even more Ability Pt.",
+    "375": "Select the <color=#ff911c>skills you want to acquire during training</color> and assign them to a Skill Set.\nYou can configure priority groups (\"Top Priority,\" \"Priority,\" \"Normal\") for each skill\nand adjust their priority order within each group.",
+    "376": "Create Skill Sets from <color=#ff911c>Skill Sets created by other Trainers</color>, the <color=#ff911c>Trainer Guide</color>,\nor your <color=#ff911c>Hall of Fame Umamusume</color>.\nYou can also generate a Share ID from your own Skill Set\nto share it with other Trainers.",
+    "377": "Selecting a Skill Set on the skill acquisition screen will\n<color=#ff911c>automatically allocate Skill Pt</color> to the configured skills.\nAllocated Skill Pt can be reviewed and adjusted before finalizing acquisition.",
+    "379": "In \"Agnes Tachyon's Ultimate Factor Research,\" present Umamusume that meet the requirements\nto Agnes Tachyon to earn Task Completion Pt. Based on your earned Pt,\nyou can receive <color=#ff9900>Research Task Rewards</color> such as\n<color=#ff9900>Ultimate Factor Research Reports</color> and <color=#ff9900>Factor Report Memories</color>!",
+    "380": "Just like in regular Factor Research events, you can fill the <color=#ff9900>Research Gauge</color>\nby <color=#ff9900>playing various game modes</color>.\nWhen at least 1 gauge is full, visiting the event top page will award\n<color=#ff9900>Research Outcome Rewards</color> such as <color=#ff9900>Factor Research Reports</color>\nbased on the number of full gauges.",
+    "381": "Using a <color=#ff9900>Factor Research Report</color> increases the star rating of select factors on\nHall of Fame Umamusume or Legacy-Only Umamusume. With an <color=#ff9900>Ultimate Factor Research Report</color>,\nyou can upgrade all Basic Stat Factors, Aptitude Factors, and Unique Factors to ★3.\nUsing a <color=#ff9900>Factor Report Memory</color> allows you to add select General Factors at ★3\nto Hall of Fame Umamusume or Legacy-Only Umamusume.",
+    "382": "Using <color=#ff9900>Event Boost</color> consumes double the TP when starting training,\nand doubles the <color=#ff9900>Research Gauge gain rate</color> upon completing training.",
+    "385": "Training Plan Sheets let you <color=#ff9900>set targets</color> to train stronger Umamusume.\nYou can set targets for <color=#ff9900>7 Umamusume on a single sheet</color>,\ncovering not only your final target Umamusume but also their legacy Umamusume.",
+    "386": "By assigning target Umamusume to a Training Plan,\n<color=#ff9900>various training setups are automatically aligned with your targets</color>.\nFor example, a Skill Set reflecting your target skills will be added,\nand the expected Support Card Deck will be automatically equipped.",
+    "387": "You can <color=#ff9900>compare and evaluate your trained Hall of Fame or Legacy-Only Umamusume</color>\nagainst your target Umamusume to check your target completion progress.",
+    "388": "Enter a Share ID to <color=#ff9900>load a sheet configured by another Trainer</color>.\nYou can also issue a Share ID for your own configured sheet\nto <color=#ff9900>share its contents with other Trainers</color>."
   },
   "64": {
     "6": "Obtained from {0}.",
@@ -23978,7 +24077,8 @@
     "10113": "Cumulative purchase bonus reward for Uma Pass.",
     "10114": "Purchase bonus reward for Uma Pass.",
     "10115": "Serial code reward for \"Umamusume Delicious! Cobb Mayo Dip Set\".",
-    "10116": "Serial code reward for \"Umamusume Delicious! Carrot Occhahoi Set\"."
+    "10116": "Serial code reward for \"Umamusume Delicious! Carrot Occhahoi Set\".",
+    "10117": "Touch! SUNTORY Collab Campaign\nSerial code reward."
   },
   "65": {
     "100101": "Rookie Trainer",
@@ -25341,7 +25441,17 @@
     "750015": "LoH #{0} - Place: {1}",
     "750016": "LoH #{0} - Place: {1}",
     "760001": "Dreams Scenario Trial: Rank {0}",
-    "760002": "Tracen-ken Scenario Trial: Rank {0}"
+    "760002": "Tracen-ken Scenario Trial: Rank {0}",
+    "114801": "Meeting Phalaenopsis",
+    "114802": "Phalaenopsis's Trainer",
+    "114803": "Phalaenopsis Devotee",
+    "114804": "Phalaenopsis Master",
+    "114805": "Phalaenopsis All-Crown",
+    "414105": "MILE Platinum ★★★★",
+    "414205": "MILE Gold ★★★★",
+    "414305": "MILE Silver ★★★★",
+    "414405": "MILE Bronze ★★★★",
+    "701149": "Phalaenopsis Hero's Tale"
   },
   "66": {
     "100101": "Default",
@@ -26738,7 +26848,17 @@
     "750015": "Achieve rank {1} in the\n{0} League of Heroes",
     "750016": "Achieve rank {1} in the\n{0} League of Heroes",
     "760001": "Achieve rank {0} in the\nDreams Trainer Proficiency Trial",
-    "760002": "Achieve rank {0} in the\nTracén-ken Trainer Proficiency Trial"
+    "760002": "Achieve rank {0} in the\nTracén-ken Trainer Proficiency Trial",
+    "114801": "Watch Phalaenopsis's\nUmamusume Story Episode 4",
+    "114802": "Gain a total of 10,000,000\nfans with Phalaenopsis",
+    "114803": "Gain a total of 50,000,000\nfans with Phalaenopsis",
+    "114804": "Gain a total of 100,000,000\nfans with Phalaenopsis",
+    "114805": "Collect all GⅠ to GⅢ trophies\nwith Phalaenopsis",
+    "414105": "Achieve legendary results 5 times\nin Champions Meeting: MILE",
+    "414205": "Achieve great results 5 times\nin Champions Meeting: MILE",
+    "414305": "Achieve brilliant results 5 times\nin Champions Meeting: MILE",
+    "414405": "Achieve excellent results 5 times\nin Champions Meeting: MILE",
+    "701149": "Deliver a performance in League of Heroes that makes\neveryone acknowledge Phalaenopsis as a hero"
   },
   "67": {
     "100000": "Win a race in Career",
@@ -35347,7 +35467,31 @@
     "2600197": "[Words, Heart, Resonate]\nComplete 2 training sessions",
     "2600198": "[Words, Heart, Resonate]\nComplete 4 training sessions",
     "2600199": "[Words, Heart, Resonate]\nComplete 7 training sessions",
-    "2600200": "Complete 10 career runs with\n[Words, Heart, Resonance]"
+    "2600200": "Complete 10 career runs with\n[Words, Heart, Resonance]",
+    "340133": "Raise Phalaenopsis's\nBond Rank to 1",
+    "341133": "Raise Phalaenopsis's\nBond Rank to 11",
+    "342133": "Raise Phalaenopsis's\nBond Rank to 12",
+    "614801": "Watch Phalaenopsis's\nUmamusume Story Episode 4",
+    "614802": "Gain a total of 10,000,000\nfans with Phalaenopsis",
+    "614803": "Gain a total of 50,000,000\nfans with Phalaenopsis",
+    "614804": "Gain a total of 100,000,000\nfans with Phalaenopsis",
+    "614805": "Collect all GⅠ to GⅢ trophies\nwith Phalaenopsis",
+    "1002625": "Complete all Part 3 Commemorative Missions",
+    "1002626": "Complete 1 career with an Umamusume of Training Rank UD5 or higher",
+    "1002627": "Complete 1 career with a Unique Skill at Lv 4 or higher",
+    "1002628": "Complete 1 career while acquiring 15 or more skills",
+    "1002629": "Complete a career while acquiring 5 or more rare skills (including evolved skills)",
+    "1002630": "Complete 1 career with at least 1 basic stat at 1000 or higher",
+    "1002631": "Complete 1 career with at least 2 basic stats at 1000 or higher",
+    "1002632": "Complete 1 career with at least 3 basic stats at 1000 or higher",
+    "1002633": "Watch an Umamusume's Good Ending in Career 1 time",
+    "1002634": "Watch an Umamusume's Good Ending in Career 3 times",
+    "1002635": "Compete in 1 Daily Legend Race",
+    "1002636": "Compete in 2 Daily Legend Races",
+    "2100154": "[Daily] Enter the Champions Meeting",
+    "2100155": "[Daily] Enter the Champions Meeting",
+    "2100156": "[Daily] Enter the Champions Meeting",
+    "2100157": "[Daily] Enter the Champions Meeting"
   },
   "68": {
     "1": "Special Week's Snapshot #1:",
@@ -37421,7 +37565,9 @@
     "30313": "[Endless Game] Rulership",
     "30314": "[Swapping with You♪] Haru Urara",
     "30315": "[A Little Bad, All Hero—Here I Come!] Biko Pegasus",
-    "30316": "[The World's Smallest Big Bang] Samson Big"
+    "30316": "[The World's Smallest Big Bang] Samson Big",
+    "20101": "[A Pure and Gentle Night] Zenno Rob Roy",
+    "30317": "[Destination: A Warm Place] Matikanetannhauser"
   },
   "76": {
     "10001": "[Tracen Academy]",
@@ -37962,7 +38108,9 @@
     "30312": "[Where Sea and Sky Meet]",
     "30314": "[Trading Things with You♪]",
     "30315": "[A Bad-Boy Hero Appears!]",
-    "30316": "[The World's Smallest Big Bang]"
+    "30316": "[The World's Smallest Big Bang]",
+    "20101": "[A Pure and Gentle Night]",
+    "30317": "[Destination: A Warm Place]"
   },
   "77": {
     "10001": "Special Week",
@@ -38521,7 +38669,9 @@
     "30313": "Rulership",
     "30314": "Haru Urara",
     "30315": "Biko Pegasus",
-    "30316": "Samson Big"
+    "30316": "Samson Big",
+    "20101": "Zenno Rob Roy",
+    "30317": "Matikanetannhauser"
   },
   "78": {
     "10001": "Special Week",
@@ -39080,7 +39230,9 @@
     "30313": "Rulership",
     "30314": "Haru Urara",
     "30315": "Biko Pegasus",
-    "30316": "Samson Big"
+    "30316": "Samson Big",
+    "20101": "Zenno Rob Roy",
+    "30317": "Matikanetannhauser"
   },
   "88": {
     "10001": "My name's Special Week! My dream is to be the top Umamusume in all of Japan! I gotta work hard to make my moms proud!",
@@ -39639,7 +39791,9 @@
     "30315": "\"Sorry to keep you waiting, Big-senpai!\"\n\n\"Ah, Biko-chan! No, right on time—whoa! Those clothes...!\"\n\n\"Hehe♪ Ta-da! Mature outfit bought together before! Put it on again.\"\n\n\"Accompanying me to 'Jet-Black Mask Blackhart' hero show today, right? Thought dark-hero-ish bad girl style would fit!\"\n\n\"Ooh~! Nice, suits you great! Awarded 'Perfect Fit Challenge Prize'♪\"\n\n\"Heheh...♪ Yay! After all, this is my Friendship Form!\"\n\n\"Eh? Friendship Form...?\"\n\n\"Investigation Team coordinated outfit together, right? Big-senpai, Windy-senpai, Urara-senpai, Phenomeno-senpai... Born from everyone's combined strength.\"\n\n\"So clothes are proof of friendship!\"\n\n\"Biko-chan...! Ehehe, true. Investigation Team's bond is forever!\"\n\n\"Hey, wait just a sec. Big wants to wear matching outfit from back then too! Changing quickly.\"\n\n\"Really?! Yeah, of course! Let's transform together, Big-senpai!\"",
     "30316": "Certain day, certain place—facing massive wall at arcade air hockey table...\n\n\"Damn it! Even Pegasus Shoot didn't work!\"\n\n\"Phenomeno-san is super strong! Even 4-on-1, Urara and everyone lost!\"\n\n\"G-Guh... Not pulling tricky foul play, are you!\"\n\n\"Goodness, I would never cheat! Build differs between us, likely factor.\"\n\n...True, Phenomeno-chan is tall with long reach.\n\nDifference in physique impacting match... yeah, true fact.\n\nBut—but but but! Advantage or disadvantage aside, just want to seize victory!\n\nNo matter how many losses, 'heart' refuses to stop challenging!!\n\n\"Hey! Phenomeno-chan! One more match!!!!\"\n\nTen times, dozens of times... no! Challenging hundreds of times!\n\nBecause, because because I am—'Samson Big'!!",
     "20087": "\"Hey, little bird,\nWhat's got you down?\n(Hey there, little bird.\nAre you feeling down?)\n\nThose blue, blue days\nAre when the sun comes out.\n(On days when skies are blue, the sun shines bright)\n\nSo lift those wings\nAnd take to flight\n'Cause blue skies\nare all right.\n(Spread your wings and soar across the blue skies\nEven blue days like this aren't so bad)\"\n\n\"...What a wonderful song.\nIt really touches the soul. Or rather, it just fills you with energy.\"\n\n\"Thank you♪\nFufu, hearing that makes being a songwriter truly worthwhile.\"\n\n\"Wait, what?!\nYou wrote this song, Heart-san?!\"\n\n\"Yes, it's a little magic spell of a song that cheers you up no matter how blue you feel♪\nWould you like to sing along with me?\"\n\n\"...Are you sure it's all right?\"\n\n\"With pleasure!\nCome on, get your keyboard ready♪\"\n\n\"Hey, little bird～♪\"\n\n(...How strange.\nLately I've just been spinning my wheels, rushing around, feeling down... but it's all melting away.)\n\n\"――'Cause blue skies\nare all right～♪\"\n\n(...Yeah.)\n\n(――Starting tomorrow, I'll give it my all again!)\"",
-    "30158": "Huh? What're you looking at?\\nHey, isn't this a picture of our beach party?!\\n\\nMan, that was a riot! The volleyball match was a blast, I stuffed myself with grilled meat, and the fireworks after sunset were so sick! Oh, and we all got to stargaze after!\\nTachyon and Cafe both laughed their asses off too!\\nLet's do it again sometime!\\n\\nHm? Hahahaha! You don't have to look so down!\\nSure, the beach party is behind us now. But there's a whole lot more fun where that came from!\\n\\nC'mon, let's keep going wild! Not just in the summer, but all year round!"
+    "30158": "Huh? What're you looking at?\\nHey, isn't this a picture of our beach party?!\\n\\nMan, that was a riot! The volleyball match was a blast, I stuffed myself with grilled meat, and the fireworks after sunset were so sick! Oh, and we all got to stargaze after!\\nTachyon and Cafe both laughed their asses off too!\\nLet's do it again sometime!\\n\\nHm? Hahahaha! You don't have to look so down!\\nSure, the beach party is behind us now. But there's a whole lot more fun where that came from!\\n\\nC'mon, let's keep going wild! Not just in the summer, but all year round!",
+    "20101": "\"Ah, there's dust on my hat again...\nBecause it's green, it stands out so much...\"\n\n\"U-Um...\nIf you'd like, do you want to use Rice's brush...?\"\n\n\"A-Are you sure...?\nIsn't that... the brush you always treasure so dearly, Rice?\"\n\n\"Yeah... But if it's for you, Rob Roy...\nYou can use it anytime.\"\n\n\"Ah...!\nWell, in that case, you can use my glasses cloth to—\"\n\n\"Wait, I'm so sorry!\nYou don't wear glasses, do you, Rice?\nHow thoughtless of me... I'll find another way to thank you...\"\n\n\"B-But... people wear glasses\njust for fashion too, right...?\"\n\n\"In that case... Since I have the chance,\nmaybe Rice should try wearing glasses too...?\"\n\n\"I'm sure glasses would look wonderful on you, Rice...!\"\n\n\"...Ah. If you don't mind,\nwould you like to try mine on?\"\n\n\"Huh, really...? Then—\"\n\n\"Whoa, huh? Uuu~...\nM-My head is spinning~...\"\n\n\"Oh! I'm so sorry...!\nMy prescription must be way too strong for you...\"\n\n\"Ah, but... hehe.\nGlasses really do look great on you after all, Rice.\"",
+    "30317": "\"It's only been a few days, but this street\nsomehow feels so nostalgic!\"\n\n\"I guess just resting in bed at the hospital\nmakes time feel so much longer, huh?\"\n\n\"Ah, but it wasn't like I was bored or anything—\neveryone came to visit me, after all!\"\n\n\"Man, but it was really tough, you know—\"\n\n\"Eating all that get-well fruit, I mean!!\"\n\n\"You see, fruit goes bad fast, right?\nLike peaches!\nPeople gave them to me, so I felt like I had to finish them quickly!\"\n\n\"And then apparently someone told everyone\nthat I love fruit, and that fresh ones\nwould make me even happier!\"\n\n\"From that point on, it was peaches, mangoes,\nand even some weird spiky red thing?\nAll sorts of fruits I'd never even seen kept showing up!\"\n\n\"So it was a real struggle to eat it all...\"\n\n\"To be honest, at first I was in such shock\nthat I didn't even have an appetite.\"\n\n\"In my head, I knew there was nothing I could do...\nBut still, I couldn't help wondering 'what if'...\"\n\n\"Yet right when I felt like that, all of this arrived! See?!\"\n\n\"Letters from all my fans!\nGet-well gifts from everyone at the academy!\"\n\n\"Fuku-chan-senpai even gave me a good-health charm!\nApparently she made it by hand!\nIsn't that amazing~?\"\n\n\"...Everyone cheered me on.\nTelling me to hang in there, that I'll get 'em next time,\nover and over again...\"\n\n\"And hearing that made me truly feel\nlike everything's going to be okay!\"\n\n\"I can't just keep moping around forever, right?!\"\n\n\"Look toward the future, not the past!\nI gotta give it my all next time!\"\n\n\"Hehe, so I'm definitely going to win next time.\nSomehow, I just know I can do it!\"\n\n\"Plus, my nose is in tip-top shape!\nTaking 1st place in my comeback race is a sure thing!\"\n\n\"And the headline in Monthly Twinkle will read—\n'Matikanetannhauser's Miraculous Triumphant Comeback!!'\"\n\n\"Just thinking about it gets me so excited!\nSo—\"\n\n\"Look forward to my next race!\nKeep your eyes on me, Trainer!\""
   },
   "91": {
     "1": "Team Sirius",
@@ -40565,7 +40719,8 @@
     "112702": "Fenomeno Piece",
     "113401": "Curren Bouquetd'or Piece",
     "114101": "Epiphaneia Piece",
-    "114501": "Rulership Piece"
+    "114501": "Rulership Piece",
+    "114901": "Phalaenopsis Piece"
   },
   "114": {
     "100000": "Star Pieces for the selected Umamusume. Can be used to unlock this trainee or perform Star Unlocks.",
@@ -40834,7 +40989,8 @@
     "112702": "Used to unlock Trainees, awaken Star Blooming, etc.\nA special piece formed from the crystallized wishes of this Umamusume.",
     "113401": "Used to unlock Trainees, awaken Star Blooming, etc.\nA special piece formed from the crystallized wishes of this Umamusume.",
     "114101": "Used to unlock Trainees, awaken Star Blooming, etc.\nA special piece formed from the crystallized wishes of this Umamusume.",
-    "114501": "Used to unlock Trainees, awaken Star Blooming, etc.\nA special piece formed from the crystallized wishes of this Umamusume."
+    "114501": "Used to unlock Trainees, awaken Star Blooming, etc.\nA special piece formed from the crystallized wishes of this Umamusume.",
+    "114901": "Used to unlock Trainee Umamusume or for Talent Bloom.\nA specialized piece crystallizing each Trainee Umamusume's wish."
   },
   "119": {
     "1": "The Beginning: URA Finale",
@@ -41476,7 +41632,8 @@
     "401": "Soup Simmering Master",
     "402": "Prep Master",
     "403": "Ruler of the Board",
-    "404": "Favored Child of Fate"
+    "404": "Favored Child of Fate",
+    "405": "Indomitable Phalaenopsis"
   },
   "131": {
     "1": "Run in Rainy weather at least 4 times and win 3 times",
@@ -41871,7 +42028,8 @@
     "401": "Obtain 50 Broth Tips\n*Welcome to Tracen-ken! ~Giving Back in Style~ Only",
     "402": "Obtain 50 Topping Tips\n*Welcome to Tracen-ken! ~Giving Back in Style~ Only",
     "403": "Win the Mainichi Hai, Satsuki Sho, Tokyo Yushun (Japanese Derby), Kikuka Sho, Takarazuka Kinen, Tenno Sho (Autumn), Japan Cup, and Arima Kinen; and reach 1200+ Wit.",
-    "404": "Win the Satsuki Sho, Tokyo Yushun (Japanese Derby), Kikuka Sho, and Japan Cup (Senior Class); and reach 1200+ Power."
+    "404": "Win the Satsuki Sho, Tokyo Yushun (Japanese Derby), Kikuka Sho, and Japan Cup (Senior Class); and reach 1200+ Power.",
+    "405": "Win the Oka Sho, Japanese Oaks, Shuka Sho,\nand Queen Elizabeth II Cup (Senior Year),\nand reach 1200 or higher in Guts"
   },
   "133": {
     "1": "Winner's Sash",
@@ -42809,7 +42967,14 @@
     "41145005": "A Mastermind's Initiative",
     "41145006": "Surprise Attack: Shifting Off-Board",
     "41145007": "Orthodox Interaction",
-    "41074002": "Yearning for the Spotlight"
+    "41074002": "Yearning for the Spotlight",
+    "41149003": "Like a blossom standing tall,",
+    "41149004": "My heart pours forth,",
+    "41149005": "As you chase behind me",
+    "41149006": "With earnest, growing strength,",
+    "41149007": "How truly precious and joyous a sight.",
+    "41149001": "The Moth Orchid: Spreading Fragrance Across the World",
+    "41149002": "Rooted in Rock"
   },
   "136": {
     "1": "Spectator A",
@@ -43481,7 +43646,8 @@
     "1145": "Clever master of board,\nheart nonetheless made of glass.",
     "1146": "Lady of noble birth,\nrunning to follow destiny.",
     "9049": "Pushing ahead with fiery passion,\ndesert island project manager.",
-    "9050": "Hot spring goddess who\nmastered pure relaxation."
+    "9050": "Hot spring goddess who\nmastered pure relaxation.",
+    "1149": "Cleaving through shackles, blooming fiercely—\na flower of the battlefield."
   },
   "147": {
     "101": "Speed",
@@ -46015,7 +46181,16 @@
     "11410103": "Shine! Burst! Supernova Explosion!",
     "11450101": "Peerless Tactics",
     "11450102": "Peerless Tactics",
-    "11450103": "Peerless Tactics"
+    "11450103": "Peerless Tactics",
+    "2046901": "Face-Off",
+    "2046902": "Face-Off",
+    "2046903": "Face-Off",
+    "2047101": "Rousing Spirit",
+    "2047102": "Rousing Spirit",
+    "2047103": "Rousing Spirit",
+    "11490101": "Fierce Blooming",
+    "11490102": "Fierce Blooming",
+    "11490103": "Fierce Blooming"
   },
   "148": {
     "1": "Ace Bonus",
@@ -46419,7 +46594,9 @@
     "30312": "Where Sea and Sky Meet",
     "30314": "Swapping with You♪",
     "30315": "A Little Bad, All Hero—Here I Come!",
-    "30316": "The World's Smallest Big Bang"
+    "30316": "The World's Smallest Big Bang",
+    "20101": "A Pure and Gentle Night",
+    "30317": "Destination: A Warm Place"
   },
   "151": {
     "1": "Friendship Bonus",
@@ -47106,7 +47283,9 @@
     "30313": "When Bond Gauge is 80 or higher,\nStamina Bonus & Guts Bonus",
     "30314": "When Bond Gauge is 80 or higher,\nSkill Pt Bonus",
     "30315": "When Bond Gauge is 80 or higher,\nFriendship Bonus & Power Bonus",
-    "30316": "When Bond Gauge is 80 or higher,\nGuts Bonus & Skill Pt Bonus"
+    "30316": "When Bond Gauge is 80 or higher,\nGuts Bonus & Skill Pt Bonus",
+    "20101": "Power Bonus & Initial Guts Up",
+    "30317": "Friendship Bonus & Hint Count Up at Bond 80+"
   },
   "157": {
     "1001": "May 2",
@@ -47265,7 +47444,8 @@
     "1101": "April 14",
     "1141": "February 11",
     "1145": "May 15",
-    "1146": "March 10"
+    "1146": "March 10",
+    "1149": "April 4"
   },
   "159": {
     "1001": "Late Surger",
@@ -47471,7 +47651,8 @@
     "1101": "Senior Division",
     "1141": "Senior Division",
     "1145": "Senior Division",
-    "1146": "Junior Division"
+    "1146": "Junior Division",
+    "1149": "Junior Division"
   },
   "163": {
     "1001": "My name's Special Week! My dream is to be the top Umamusume in all of Japan! I gotta work hard to make my moms proud!",
@@ -47630,7 +47811,8 @@
     "1145": "Rulership here. With my flawless\nstrategy, I shall splendidly dominate\nboard called Twinkle Series!",
     "1146": "—Efforia here.\nWhatever race, I will claim victory.\nIf that is destiny I must follow.",
     "9049": "Name is Tucker Blair! Wishing further leaps\nfor umamusume, launched Deserted Island Project!\nNow, unleash instincts!",
-    "9050": "Landlady of Yukoma Ryokan, Keiko Hoshina.\nHot springs good for fatigue and injury.\nIndeed, health comes first... oh no, hohoho!"
+    "9050": "Landlady of Yukoma Ryokan, Keiko Hoshina.\nHot springs good for fatigue and injury.\nIndeed, health comes first... oh no, hohoho!",
+    "1149": "I am Phalaenopsis. What matter any hardship\nor misfortune that befalls me? To repay the kindness\nof days past, I shall overpower all in my path."
   },
   "164": {
     "1001": "Detailed food reports",
@@ -47765,7 +47947,8 @@
     "1137": "Book reports, autographs",
     "1141": "Finding the good qualities in others, sailing yachts",
     "1143": "Trumpet, dividing snacks equally",
-    "1145": "Board games in general, swimming, psychology"
+    "1145": "Board games in general, swimming, psychology",
+    "1149": "Hanafuda, seeking out hidden gem shops"
   },
   "165": {
     "1001": "Using her train pass",
@@ -47900,7 +48083,8 @@
     "1137": "Waiting for results announcement, rhythm games",
     "1141": "Tongue twisters, tying shoelaces",
     "1143": "Disentanglement wire puzzles",
-    "1145": "Cats, crowded places, flying insects"
+    "1145": "Cats, crowded places, flying insects",
+    "1149": "Confined spaces"
   },
   "166": {
     "1001": "Perks up and teleports to the kitchen when she hears the sounds of cooking",
@@ -48035,7 +48219,8 @@
     "1137": "Highly responsive to cool words.",
     "1141": "Loves how ears resemble Symboli Kris S.",
     "1143": "Ears fluffy, often lets friends touch them.",
-    "1145": "Calmer while wearing headset."
+    "1145": "Calmer while wearing headset.",
+    "1149": "Her ear covers are handmade by the children of her home club"
   },
   "167": {
     "1001": "Moves along with her emotions, making her a terrible poker player",
@@ -48170,7 +48355,8 @@
     "1137": "Subconsciously touches it when drawing manuscripts.",
     "1141": "Uses same deep sea water shampoo as Cesario.",
     "1143": "Hairband used for tying has turquoise stone.",
-    "1145": "Often has sleeping bag marks left on it."
+    "1145": "Often has sleeping bag marks left on it.",
+    "1149": "She never fails to tie her hair with a motoyui before going to bed"
   },
   "168": {
     "1001": "Left: 23.5cm Right: 23.0cm",
@@ -48305,7 +48491,8 @@
     "1143": "23.5cm for both",
     "1134": "23.0cm for both",
     "1141": "Left: 23.5cm Right: 24.0cm",
-    "1145": "24.0cm for both"
+    "1145": "24.0cm for both",
+    "1149": "23.0 cm on both feet"
   },
   "169": {
     "1001": "She gets her eye color from her birth mother",
@@ -48440,7 +48627,8 @@
     "1137": "Rule is to go to bed first even if parents return late.",
     "1141": "Greatest treasure is Swiss-made wristwatch received from father.",
     "1143": "Furniture placement at parents' house calculated with extreme precision.",
-    "1145": "Focus sharpens when using younger brother's piano as background music."
+    "1145": "Focus sharpens when using younger brother's piano as background music.",
+    "1149": "There is a shinai in every room; she is always battle-ready"
   },
   "170": {
     "1001": "Special Week",
@@ -48759,7 +48947,14 @@
     "17000": "Moving to Enhance",
     "17001": "Moving to Story",
     "17002": "Moving to Race",
-    "22001": "Prize Derby finish"
+    "22001": "Prize Derby finish",
+    "80100": "Agnes Tachyon's Ultimate Factor Research",
+    "80101": "Agnes Tachyon's Ultimate Factor Research",
+    "80102": "Agnes Tachyon's Ultimate Factor Research",
+    "80103": "Agnes Tachyon's Ultimate Factor Research",
+    "80104": "Agnes Tachyon's Ultimate Factor Research",
+    "80105": "Agnes Tachyon's Ultimate Factor Research",
+    "80106": "Agnes Tachyon's Ultimate Factor Research"
   },
   "172": {
     "101": "A Spark that increases Speed and max Speed value.",
@@ -51353,7 +51548,16 @@
     "11410103": "Increases Stamina, Power, and Wit caps,\nand grants skill hints for \"Shine! Burst! Supernova!\".",
     "11450101": "Increases Stamina, Power, and Wit caps,\nand grants skill hints for \"Peerless Tactics\".",
     "11450102": "Increases Stamina, Power, and Wit caps,\nand grants skill hints for \"Peerless Tactics\".",
-    "11450103": "Increases Stamina, Power, and Wit caps,\nand grants skill hints for \"Peerless Tactics\"."
+    "11450103": "Increases Stamina, Power, and Wit caps,\nand grants skill hints for \"Peerless Tactics\".",
+    "2046901": "A factor that grants skill hints for \"Face-Off.\"",
+    "2046902": "A factor that grants skill hints for \"Face-Off.\"",
+    "2046903": "A factor that grants skill hints for \"Face-Off.\"",
+    "2047101": "A factor that grants skill hints for \"Rousing Spirit.\"",
+    "2047102": "A factor that grants skill hints for \"Rousing Spirit.\"",
+    "2047103": "A factor that grants skill hints for \"Rousing Spirit.\"",
+    "11490101": "A factor that increases max Stamina, Power, and Guts caps,\nand grants skill hints for \"Fierce Blooming.\"",
+    "11490102": "A factor that increases max Stamina, Power, and Guts caps,\nand grants skill hints for \"Fierce Blooming.\"",
+    "11490103": "A factor that increases max Stamina, Power, and Guts caps,\nand grants skill hints for \"Fierce Blooming.\""
   },
   "173": {
     "1139": "Tracen Academy Student / \"DREAMS\" Project Leader",
@@ -52281,7 +52485,9 @@
     "1104": "Extra Factor Rerolls",
     "1105": "Hot Springs Trip Ticket Rate UP",
     "1114": "5.5th Anniversary\nCelebration Missions Part 1",
-    "1115": "5.5th Anniversary\nCelebration Missions Part 2"
+    "1115": "5.5th Anniversary\nCelebration Missions Part 2",
+    "1116": "5.5th Anniversary\nCelebration Missions: Part 3",
+    "1135": "Attempts Up"
   },
   "188": {
     "1": "Obtain double the amount of certain Career rewards",
@@ -52734,7 +52940,8 @@
     "1103": "Doubles the amount of eligible items gained during Training.",
     "1104": "Allows 1 additional free Factor Re-roll without TP\nafter the standard Re-roll per Training run.",
     "1105": "Increases Hot Springs Ticket win rate.\n*Applies only to specific Training Scenarios\n featuring the Hot Springs event.",
-    "1101": "Increases legacy Umamusume rental limit by 5."
+    "1101": "Increases legacy Umamusume rental limit by 5.",
+    "1135": "Increases the number of daily replenished tickets by 1."
   },
   "189": {
     "1001": "Dashing towards Your Dreams",
@@ -55854,7 +56061,10 @@
     "1112": "Radio: \"Umamusume's All Night Nippon GOLD\"\nAvailable to listen via radiko Time Free\nuntil July 31 (Fri)!",
     "1113": "7th EVENT WORLD TOUR\n\"THE STAGE\" in LOS ANGELES\nTaking place Oct 22 (Thu) & 23 (Fri), 2026 (PT)!",
     "1114": "KFC collab starts August 12 (Wed)!\nSpecial collab sets including\nan exclusive SSR Support Card also available!",
-    "1115": "Lawson Campaign Underway!\nPacked with original merchandise and more!\nCheck the Lawson homepage for details!"
+    "1115": "Lawson Campaign Underway!\nPacked with original merchandise and more!\nCheck the Lawson homepage for details!",
+    "1116": "Radio: \"Umamusume's All Night Nippon GOLD\"\nAirs on Nippon Broadcasting System\nFri, Sep 25, 22:00–24:00!",
+    "1117": "Umamusume × Suntory Vending Machines Vol. 1\nCollab underway to win an original T-shirt!\nCheck the campaign page for details!",
+    "1119": "Radio: \"Umamusume's All Night Nippon GOLD\"\nAvailable on radiko's Time Free feature\nuntil Fri, Oct 2!"
   },
   "197": {
     "43": "Spend 10 carats to recover 1 RP."
@@ -57744,7 +57954,8 @@
     "520": "4, 3, 2――1. Fufu, it's my little charm for whenever I feel like stopping. Just to remind myself, 'until I reach 1'...",
     "521": "Someday in the future, someone might hear this song and take an interest in our history... Fufu, imagining that feels quite dreamy.",
     "522": "Ah... to think I would let you hear such an uninhibited song... I... I'm getting all fired up♡",
-    "523": "How'd ya like my shout?! Heheh, did it scare ya so bad you're seeing stars? Huh?!"
+    "523": "How'd ya like my shout?! Heheh, did it scare ya so bad you're seeing stars? Huh?!",
+    "524": "Select an elegant melody\nto grace the path of my hooves."
   },
   "233": {
     "200": "Golshi Mode",
@@ -77376,7 +77587,111 @@
     "501067100": "Introducing Satono Diamond!",
     "501141900": "Self-Introduction",
     "830222003": "A Matter of Pride",
-    "830249003": "A Hail of Confusion and Gratitude"
+    "830249003": "A Hail of Confusion and Gratitude",
+    "501149100": "Enter Phalaenopsis!",
+    "501149101": "New Year's Resolutions",
+    "501149102": "New Year's Shrine Visit",
+    "501149103": "Summer Training Camp (Year 2) Starts!",
+    "501149104": "At Summer Training Camp (Year 2)",
+    "501149105": "Summer Training Camp (Year 3) Starts!",
+    "501149107": "Valentine's Day",
+    "501149108": "Fan Appreciation Festival",
+    "501149109": "Christmas",
+    "501149110": "Ending (Normal)",
+    "501149111": "The Past and the Future",
+    "501149112": "Hot Springs Trip",
+    "501149113": "Sprouting Buds",
+    "501149114": "The Moth Orchid",
+    "501149115": "A Moment of Autumn Sunshine",
+    "501149116": "Winter Seclusion",
+    "501149117": "Dawn Through the Clouds",
+    "501149118": "A Profusion of Flowers",
+    "501149200": "Leading Up to the Debut",
+    "501149201": "Leading Up to the Oka Sho",
+    "501149202": "Leading Up to the Oaks",
+    "501149203": "Leading Up to the Shuka Sho",
+    "501149204": "Leading Up to the Japan Cup",
+    "501149205": "Leading Up to the Milers Cup",
+    "501149206": "Leading Up to the Victoria Mile",
+    "501149207": "Leading Up to the Sapporo Kinen",
+    "501149208": "Leading Up to the Queen Elizabeth II Cup",
+    "501149300": "Summer Training Camp (Year 2) Ends",
+    "501149301": "Summer Training Camp (Year 3) Ends",
+    "501149302": "Lucky Draw Chance!",
+    "501149303": "After the Debut: Pale Dawn",
+    "501149304": "Swaying in the Sunlight",
+    "501149305": "After Achieving the Goal: Clear Winter Skies",
+    "501149306": "After the Oka Sho: Spring, Radiant in Bloom",
+    "501149307": "After the Oka Sho: Cherry Blossoms, Resplendent",
+    "501149308": "After the Oaks: Dawn on the Horizon",
+    "501149309": "After the Shuka Sho: Shadows of Three Blossoms",
+    "501149310": "After the Shuka Sho: Autumn Splendor",
+    "501149311": "Clouds over the Moon",
+    "501149312": "After the Japan Cup: Wind upon the Blossoms",
+    "501149313": "After the Japan Cup: Storm upon the Blossoms",
+    "501149314": "After the Milers Cup: Beyond the Raven Night",
+    "501149315": "After the Victoria Mile: Sparkling Breeze",
+    "501149316": "After the Sapporo Kinen: Clear Skies over Summer Plains",
+    "501149317": "After the Queen Elizabeth II Cup: A Blooming Smile",
+    "501149500": "Expert Guidance",
+    "501149506": "Dance Lessons",
+    "501149507": "A Fan Letter",
+    "501149508": "Race Fatigue",
+    "501149509": "Racing Too Often...",
+    "501149510": "The Warriors' Midday Respite",
+    "501149511": "What Changes, What Remains",
+    "501149513": "The Seven Golden Warriors March Forth",
+    "501149514": "Endless Virtues, Intertwined",
+    "501149515": "The Princess of Virtue and Valor",
+    "501149516": "Care for Some Tea?",
+    "501149517": "At Solo Dance Practice",
+    "501149518": "The Path of Zen Is Harsh...",
+    "501149519": "Farewell, My Friend",
+    "501149520": "Sparks Fly at the Tea Ceremony",
+    "501149521": "Up Late Again...",
+    "501149522": "My Skin's Not Looking Good...",
+    "501149523": "Charge Ahead, Floor-Rag Sprint!",
+    "501149524": "Moth Orchids for You",
+    "501149525": "A Reward from the Master",
+    "501149600": "A Warrior's Thrill",
+    "501149601": "Next Time for Sure!",
+    "501149700": "Lacking Sleep...",
+    "501149701": "Fully Rested!",
+    "501149702": "What It Means to 'Compose'",
+    "501149703": "All Within the Heart",
+    "501149704": "If I Were to Name It",
+    "501149705": "A Resplendent Blossom, Her Heart—",
+    "501149706": "Warriors, Feast Upon This!",
+    "501149707": "A Prayer at the Shrine!",
+    "501149708": "Race Victory!",
+    "501149709": "Race Placement",
+    "501149710": "Race Defeat",
+    "501149711": "I Won't Lose Next Time!",
+    "501149712": "The Reason for Her Absence...",
+    "501149713": "Take Care!",
+    "501149714": "Don't Overdo It!",
+    "501149715": "Extra Solo Training",
+    "501149716": "Diet Successful!",
+    "501149717": "In the Nurse's Office",
+    "501149718": "Refresh Complete",
+    "501149719": "A Brazen, Stubborn Squatter",
+    "501149720": "The Reassu~ring Acupuncturist, Arri☆ves!",
+    "501149722": "Headache Blues",
+    "501149726": "Challenging the Crane Game!",
+    "501149727": "Crane Game: Huge Success!",
+    "501149728": "Crane Game: Success!",
+    "501149729": "Crane Game: Failure...",
+    "501149730": "Crane Game: Huge Success!",
+    "501149731": "Crane Game: Success!",
+    "501149732": "Inherited Feelings",
+    "501149733": "Inherited Feelings",
+    "501149900": "Introduction",
+    "501149901": "Grand Live, Start!",
+    "820101001": "The Answer Is Always in Stories",
+    "820101002": "A Moment of Healing",
+    "830317001": "Food for Fun, Wishing for Smiles",
+    "830317002": "That Day, That Time, That Machitan",
+    "830317003": "A Small Tale of Growth"
   },
   "264": {
     "1": "Akito (NPC)",
@@ -81144,7 +81459,17 @@
     "10220305": "Possess 3 or more speed-increasing skills",
     "10250301": "Reach 600+ base Stamina",
     "10250302": "Reach 800+ base Power",
-    "10250303": "Possess 3 or more Betweener skills"
+    "10250303": "Possess 3 or more Betweener skills",
+    "10140105": "Reach 800 or higher in base [Wisdom]",
+    "10140106": "Have 3 or more skills that increase speed",
+    "10490107": "Reach 800 or higher in Power",
+    "10490108": "Have 2 or more Medium distance skills",
+    "11490101": "Reach 600 or higher in Stamina",
+    "11490102": "Have 3 or more Leader skills",
+    "11490103": "Have 3 or more Betweener skills",
+    "11490104": "Win 4 or more G1 races",
+    "11490105": "Reach 800 or higher in Power",
+    "11490106": "Reach 600 or higher in Guts"
   },
   "301": {
     "1001": "Agnes Tachyon's Sparks for Science",
@@ -81169,7 +81494,8 @@
     "1021": "Agnes Tachyon's Traits Research",
     "1006": "Movie Release Celebration: Agnes Tachyon's Factor Research",
     "1022": "Agnes Tachyon's Factor Research",
-    "1023": "Agnes Tachyon's Factor Research"
+    "1023": "Agnes Tachyon's Factor Research",
+    "1024": "Agnes Tachyon's Ultimate Factor Research"
   },
   "302": {
     "1": "Forecasting Flowers! Victory Club in Full Bloom"
@@ -82652,7 +82978,8 @@
     "1141": "You heard about <jobs_placename>, right!\nYeah, I hyped the place up like crazy!",
     "1143": "I feel as though I was able to weave threads of bonds\nwith everyone at <jobs_placename>.",
     "1145": "I have returned. I obtained rather promising results\nfrom <jobs_placename>. Please check them.",
-    "1015": "<jobs_placename>?\nOf course! The Supreme Overlord's Troupe shall bring a grand... finale... to it all!"
+    "1015": "<jobs_placename>?\nOf course! The Supreme Overlord's Troupe shall bring a grand... finale... to it all!",
+    "1149": "I have returned from <jobs_placename>.\nInteractions like this must not be neglected."
   },
   "362": {
     "1": "Autograph session and photographs for fans!",
@@ -83242,7 +83569,8 @@
     "1143": "Pisa",
     "1144": "Rose",
     "1145": "Ruler",
-    "1101": "Big"
+    "1101": "Big",
+    "1149": "Phaleno"
   },
   "377": {
     "1": "Increased Rewards",
@@ -87568,7 +87896,20 @@
     "1731": "As for your confidence heading into the finals, of course...?",
     "1732": "A word for the Trainer who has walked this path with you!",
     "1733": "As for your confidence heading into the finals, of course...?",
-    "1734": "A word for the Trainer who has walked this path with you!"
+    "1734": "A word for the Trainer who has walked this path with you!",
+    "1735": "What did you have for your pre-race meal?",
+    "1736": "What do you keep in mind during training?",
+    "1737": "Many juniors look up to you. Is there anything you would like to tell them?",
+    "1738": "What did you have for your pre-race meal?",
+    "1739": "What do you keep in mind during training?",
+    "1740": "Many juniors look up to you. Is there anything you would like to tell them?",
+    "1741": "What did you have for your pre-race meal?",
+    "1742": "What do you keep in mind during training?",
+    "1743": "Many juniors look up to you. Is there anything you would like to tell them?",
+    "1744": "With so many strong contenders in the finals, do you have a secret strategy?",
+    "1745": "Please share your thoughts heading into the finals.",
+    "1746": "With so many strong contenders in the finals, do you have a secret strategy?",
+    "1747": "Please tell us your thoughts heading into the finals."
   },
   "205": {
     "1": "I'll run with everything I have and won't stop until I'm the top Umamusume in all of Japan!",
@@ -89299,7 +89640,20 @@
     "1732": "I'm taking you all the way to the top!\nDon't get thrown off—we're soaring to the heavens together!!",
     "1733": "Of course I am! I'm strong, and I'm radiant!!\nMy explosive run in the finals will prove it!",
     "1734": "I'm taking you all the way to the top!\nDon't get thrown off—we're soaring to the heavens together!!",
-    "392": "I wouldn't be me if I weren't aiming for number one, because I love to be number one. ♪"
+    "392": "I wouldn't be me if I weren't aiming for number one, because I love to be number one. ♪",
+    "1735": "A single bowl of miso soup for breakfast.\nTrue strength dwells in hunger, not a full belly.",
+    "1736": "Falling to your knees is halfway; crawling is just enough.\nOne must train until completely spent.",
+    "1737": "Easier said than done. Rather than speaking of dreams,\npursue them—I shall lead by example in the race. Watch me.",
+    "1738": "A single bowl of miso soup for breakfast.\nTrue strength dwells in hunger, not a full belly.",
+    "1739": "Falling to your knees is halfway; crawling is just enough.\nOne must train until completely spent.",
+    "1740": "Easier said than done. Rather than speaking of dreams,\npursue them—I shall lead by example in the race. Watch me.",
+    "1741": "A single bowl of miso soup for breakfast.\nTrue strength dwells in hunger, not a full belly.",
+    "1742": "Falling to your knees is halfway; crawling is just enough.\nOne must train until completely spent.",
+    "1743": "Easier said than done. Rather than speaking of dreams,\npursue them—I shall lead by example in the race. Watch me.",
+    "1744": "Against this chaotic torrent, there is only one recourse:\nto strike head-on and shatter it.",
+    "1745": "I shall return with victory as our prize,\nand spread the name of our club.",
+    "1746": "Against this chaotic torrent, there is only one recourse:\nto strike head-on and shatter it.",
+    "1747": "I shall return with victory as our prize,\nand spread the name of our club."
   },
   "229": {
     "1": "<character_name>\\nwins by a dramatic <bashin>!",
@@ -91746,7 +92100,19 @@
     "1623": "Who do you want to share this joy with?",
     "1624": "That was a tremendous, momentum-filled victory...!",
     "1625": "Who do you want to share this joy with?",
-    "689": "So it was pure strategy that led you to victory?"
+    "689": "So it was pure strategy that led you to victory?",
+    "1626": "A splendid victory! Will you be treating yourself to any reward?",
+    "1627": "We heard that a friend's support played a part in your victory.",
+    "1628": "At what point during the race did you feel certain of victory?",
+    "1629": "How do you cultivate such a warrior-like mindset?",
+    "1630": "What does racing mean to you, Phalaenopsis?",
+    "1631": "At what point during the race did you feel certain of victory?",
+    "1632": "How do you cultivate such a warrior-like mindset?",
+    "1633": "What does racing mean to you, Phalaenopsis?",
+    "1634": "Your Trainer was crying tears of joy!",
+    "1635": "Do you have any words for those you wish to dedicate this victory to?",
+    "1636": "Your Trainer was crying tears of joy!",
+    "1637": "Do you have any words for those you wish to dedicate this victory to?"
   },
   "232": {
     "1": "Actually, I dropped my lucky charm during the race... But aside from that, I'd rate my performance 10/10!",
@@ -93344,7 +93710,19 @@
     "1623": "To my Trainer! To everyone who supported me! And to\neveryone who felt the pull of destiny!!",
     "1624": "Thank you! I moved your heart too, didn't I?!\nI'll move you even more next time, so stay tuned!!",
     "1625": "To my Trainer! To everyone who supported me! And to\neveryone who felt the pull of destiny!!",
-    "799": "Heeeeya, Trainer. Did you see that? When push comes to shove, you can count on me."
+    "799": "Heeeeya, Trainer. Did you see that? When push comes to shove, you can count on me.",
+    "1626": "Rather than rewards, I soothe my body with an ice pack.\nYet the battlefield is ever-present. I will not let my core cool.",
+    "1627": "Comparing notes on physical conditioning with Tsuyoshi\nbore fruit. Heh, I ought to treat her to some tea.",
+    "1628": "Only after the deed was done. To feel certain during a battle\nis to invite a cornered rat to bite the cat.",
+    "1629": "I allow myself no excuses, and acknowledge my weaknesses.\nOnly then can I strike them down.",
+    "1630": "A battlefield with nowhere to run. That is why I take root\nand strive to bloom with dignity... That is the resolve I carry.",
+    "1631": "Only after the deed was done. To feel certain during a battle\nis to invite a cornered rat to bite the cat.",
+    "1632": "I allow myself no excuses, and acknowledge my weaknesses.\nOnly then can I strike them down.",
+    "1633": "A battlefield with nowhere to run. That is why I take root\nand strive to bloom with dignity... That is the resolve I carry.",
+    "1634": "Leave your tears in my safekeeping for now, my disciple.\nI shall return them to you at a more fitting and proper hour.",
+    "1635": "All who harbor ambition, knock upon the gates of our club.\nLet us share the same resolve, and achieve greatness together.",
+    "1636": "Leave your tears in my safekeeping for now, my disciple.\nI shall return them to you at a more fitting and proper hour.",
+    "1637": "All who harbor ambition, knock upon the gates of our club.\nLet us share the same resolve, and achieve greatness together."
   },
   "434": {
     "1": "Oguri Cap",
@@ -94512,7 +94890,8 @@
     "1137": "[New Serialization Begins] TP is full!\nA brand-new story of Kiseki begins again today~!",
     "1141": "Looks like TP is full!\nTime to set our destinies in motion once again!",
     "1143": "I'm told that TP has been restored.\nA little birdie told me so.",
-    "1145": "TP fully restored, motivation at MAX too.\nIf we make a move, now is optimal... Let our game begin."
+    "1145": "TP fully restored, motivation at MAX too.\nIf we make a move, now is optimal... Let our game begin.",
+    "1149": "It seems your TP is full.\nI need say no more... Make haste."
   },
   "185": {
     "1001": "Our RP is full again! I need to get out there and race so I can be the best in all of Japan!",
@@ -94647,7 +95026,8 @@
     "1141": "My RP is full!\nTime to run! Let's run right now! Come on!",
     "1143": "My RP has fully recovered.\nI shall do some stretches while I wait for you.",
     "1145": "RP at MAX... The time is ripe.\nNow, let us put our strategy into action.",
-    "1102": "My RP is overflowing... just like my amore for you.\nLet's unleash this burning passion in the race!"
+    "1102": "My RP is overflowing... just like my amore for you.\nLet's unleash this burning passion in the race!",
+    "1149": "Your RP has reached its limit.\nI am prepared and waiting."
   },
   "469": {
     "1001": "Hey Trainer, I'm all done with training! C'mon and take a gander at how much I've improved!",
@@ -94782,7 +95162,8 @@
     "1137": "[New Chapters Weekly!] I'm done with training! It was a short training arc, but you should come see how much stronger I've gotten!",
     "1141": "Self-training is done! Alright, what's next?\nI'm waiting to hear your voice!",
     "1143": "Will you check the results of my self-training? If I've managed\nto weave hope once again... it is you whom I want to show it to most.",
-    "1145": "Self-training complete. I can easily manage on my own, but...\nwith your support, wouldn't we gain an even greater tactical advantage?"
+    "1145": "Self-training complete. I can easily manage on my own, but...\nwith your support, wouldn't we gain an even greater tactical advantage?",
+    "1149": "I have finished my own training. Now it is your turn.\nShow me your progress, and I shall spar with you as well."
   },
   "386": {
     "1": "Rental Deck (All-Round)",
@@ -95398,5 +95779,52 @@
     "140001": "An entity manifested in the VR world by an AI\nthat prioritizes \"Courage\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nFree-spirited yet consistently calm, she wishes for\ntoday's Umamusume to grow healthy in mind and body.",
     "140002": "An entity manifested in the VR world by an AI\nthat prioritizes \"Love\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nShe loves all and watches over them gently.\nAt times she tests others to foster skill growth,\nall done out of sheer devotion and care.",
     "140003": "An entity manifested in the VR world by an AI\nthat prioritizes \"Discipline\". Claims to be one\nof the Three Goddesses, ancestresses of all Umamusume.\nMilitary-like and stern, her strictness stems from care.\nShe firmly believes physical strength is the key\nto forging a path to the future."
+  },
+  "476": {
+    "1024": "September Champions Meeting\nMILE: <size=44>Let's get ready!</size>"
+  },
+  "477": {
+    "1": "Complete <color=#ff911c>6</color> regular tasks at once\n(Tasks completed 2 or more times also count toward the total)",
+    "2": "Train in <color=#ff911c>Tracen Diner</color>",
+    "3": "Have a <color=#ff911c>★2 or higher Mile factor</color>",
+    "4": "Have a factor that grants skill hints for\n<color=#ff911c>Counterclockwise ○</color>",
+    "5": "Have a factor that grants skill hints for\n<color=#ff911c>Autumn Umamusume ○</color>",
+    "6": "Have a factor that grants skill hints for\n<color=#ff911c>Mile Straight ○</color>",
+    "7": "Have a factor that grants skill hints for\n<color=#ff911c>Mile Corner ○</color>",
+    "8": "Have a factor that grants skill hints for\n<color=#ff911c>Tail Swish</color>",
+    "9": "Have a factor that grants skill hints for\n<color=#ff911c>Uma Affinity</color>",
+    "10": "Have a <color=#ff911c>Turf Gene</color> factor",
+    "11": "Have a factor that grants skill hints for\n<color=#ff911c>Front Runner Straight ○</color>",
+    "12": "Have a factor that grants skill hints for\n<color=#ff911c>Front Runner Corner ○</color>",
+    "13": "Have a factor that grants skill hints for\n<color=#ff911c>Groundwork</color>",
+    "14": "Have a factor that grants skill hints for\n<color=#ff911c>Bounding Heart</color>",
+    "15": "Win <color=#ff911c>10 or more</color> G1 races",
+    "16": "Have <color=#ff911c>40</color> or more general factors"
+  },
+  "478": {
+    "3": "Have a <color=#ff911c>Mile Gene</color> factor",
+    "10": "Have a <color=#ff911c>Front Runner Gene</color> factor",
+    "11": "Have a factor that grants skill hints for\n<color=#ff911c>Leader Straight ○</color>",
+    "12": "Have a factor that grants skill hints for\n<color=#ff911c>Leader Corner ○</color>",
+    "13": "Have a factor that grants skill hints for\n<color=#ff911c>Early Lead</color>",
+    "14": "Have a factor that grants skill hints for\n<color=#ff911c>Strong Push</color>"
+  },
+  "479": {
+    "10": "Have a <color=#ff911c>Leader Gene</color> factor",
+    "11": "Have a factor that grants skill hints for\n<color=#ff911c>Late Charger Straight ○</color>",
+    "12": "Have a factor that grants skill hints for\n<color=#ff911c>Late Charger Corner ○</color>",
+    "13": "Have a factor that grants skill hints for\n<color=#ff911c>Slipping Past</color>",
+    "14": "Have a factor that grants skill hints for\n<color=#ff911c>Single Leap</color>"
+  },
+  "482": {
+    "10": "Have a <color=#ff911c>Late Charger Gene</color> factor",
+    "11": "Have a factor that grants skill hints for\n<color=#ff911c>Chaser Straight ○</color>",
+    "12": "Have a factor that grants skill hints for\n<color=#ff911c>Chaser Corner ○</color>",
+    "13": "Have a factor that grants skill hints for\n<color=#ff911c>Head-on Fight</color>",
+    "14": "Have a factor that grants skill hints for\n<color=#ff911c>Free-Running</color>"
+  },
+  "483": {
+    "10": "Have a <color=#ff911c>Chaser Gene</color> factor",
+    "13": "Have a factor that grants skill hints for\n<color=#ff911c>Ready to Surge</color>"
   }
 }
