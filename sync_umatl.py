@@ -68,6 +68,19 @@ PINNED_OVERRIDES = {
         "Outgame511039": "Chukyo RC",
         "Outgame511040": "Kyoto RC",
         "Outgame511041": "Hanshin RC",
+        # Slot-fit fixes (EN runs longer than the JP frames) - do not revert
+        "TrainingRoadmap688011": "Delete",
+        "TrainingRoadmap688131": "Visible",
+        "TrainingRoadmap688128": "P2",
+        "TrainingRoadmap688130": "2nd",
+        "TrainingRoadmap688017": "Edit Targets",
+        "TrainingRoadmap688090": "Create from Others",
+        "TrainingRoadmap688023": "Training\nPlan Sheet",
+        "TrainingRoadmap661017": "Target",
+        "TrainingRoadmap661039": "Target",
+        "FactorResearch408007": "Assignments",
+        "FactorResearch408006": "Res. Pt",
+        "FactorResearch408003": "Res. Gauge",
     },
     "text_data_dict.json": {
         # Same overflow fix for the track-name keys (cats 31/34 + 434 live list)
