@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-09-11 — Training Plan + Skill Set Menus
+- **128 new UI strings** translated (TrainingRoadmap/SkillSet TextId keys captured via translator_mode dump, deepseek-v4.1-flash). Master-sourced menu text was already covered — update in-game and both menus flip to EN.
+
 ## 2026-09-11 — v6 Release Zips
 - Fresh plug-and-play zips (Flagship/Community/Lore/Full-slim) with everything through the Phalaenopsis update. Primed caches re-verified zero-diffs.
 
