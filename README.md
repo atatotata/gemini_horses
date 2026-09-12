@@ -1,26 +1,24 @@
 # hachimi-tl-gemini-horses
 
-Whole JP game in English. Works with Hachimi. ~43 MB.
+The whole JP game in English for Hachimi. Fast, complete, and updated with the latest content.
 
-## Install
+## Quick Setup
 
-Drop this in Hachimi's **Translations Meta URL**, pick a flavor, done:
+Paste this into Hachimi's **Translations Meta URL**, pick your flavor, and update:
 ```
 https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/meta.json
 ```
 
-**Updated and stuff looks weird?** Delete `assets/textures`, `assets/atlas`, `assets/movies`, `assets/an_texture_sets` in `hachimi/localized_data_N` (don't touch `includes_*`), then update. Or just remove + re-add the repo.
-
-**Want the UI pictures too?** Pick **Full** (~435 MB, literally everything) or **Full-slim** (~60 MB, just the daily UI) from the menu. Hachimi runs one repo at a time — to also keep UmaTL around for flipping, grab [`both_tl_repos.json`](https://raw.githubusercontent.com/atatotata/hachimi-tl-gemini-horses/main/both_tl_repos.json), rename to `.tl_repos`, toss it in `hachimi`.
-
-**Downloads crawling or old Hachimi?** Grab a [v7 zip](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v7) (cache included, zero re-download) and follow the INSTALL.txt inside.
-
 ## Flavors
 
-- **Flagship**: Global text + skill numbers + AI gaps. (94.6k lines, ~54k straight from Global, 21,856 stories.)
-- **Community**: old fan wording. (94.5k lines, same 21,856 stories, zero Global.)
-- **Lore**: no math, just vibes. (2,167 plain-text skills, everything else same as above. On Hachimi 0.30.0+, the `skill_data_desc` switch brings the numbers back if you miss them.)
-- **Full**: the entire media package (words, pictures, atlases, movie). (~435 MB, slow — modern Hachimi only.)
-- **Full-slim**: words + daily UI pictures, none of the bloat. (~60 MB.)
+- **Flagship**: Official Global text + exact skill math + AI gaps (Recommended).
+- **Community**: Classic fan wording + skill numbers, zero Global text.
+- **Lore**: Plain skill text without formulas/numbers (pure vibes).
+- **Full-slim**: All text + daily UI pictures (~60 MB, snappy).
+- **Full**: Everything above + all UI atlases, textures, and movie (~435 MB).
 
-Thanks: [UmaTL](https://github.com/UmaTL/hachimi-tl-en-sd) · Cygames · us.
+## Quick Tips
+
+- **Upgrading & text/UI looks weird?** Delete `assets/textures`, `assets/atlas`, and `assets/movies` in your `hachimi/localized_data_N` folder (keep `includes_*`) and re-update.
+- **Slow updater or manual install?** Grab the plug-and-play [v7 release zips](https://github.com/atatotata/hachimi-tl-gemini-horses/releases/tag/text-v7) with zero re-download required.
+- **Switching flavors?** Just select another flavor in Hachimi's repo menu anytime.
