@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-12 — Support Card & Story Titles Fix
+- Filled in 1,541 missing titles across support cards, story chapters, and mini-events so you won't see blank headers anymore.
+- Also added lore descriptions for 2 new skills and updated the pipeline so empty text won't slip through again.
+
 ## 2026-09-11 — Fresh Translations
 - Translated 161 new UI bits like legal text, trainer skills, and plan sheets.
 
