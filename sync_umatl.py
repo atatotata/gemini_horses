@@ -81,8 +81,8 @@ PINNED_OVERRIDES = {
         "FactorResearch408007": "Assignments",
         "FactorResearch408006": "Res. Pt",
         "FactorResearch408003": "Res. Gauge",
-        # Club screen gag - do not revert
-        "Circle0271": "Too Cool for a Club",
+        # Club screen gag - do not revert (whale emoji may tofu on some fonts)
+        "Circle0271": "Too \U0001F40B for a Club",
     },
     "text_data_dict.json": {
         # Same overflow fix for the track-name keys (cats 31/34 + 434 live list)
